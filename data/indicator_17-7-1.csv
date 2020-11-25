@@ -1,4 +1,4 @@
-Year,investor,Value
+Year,sector,Value
 2010,,10279
 2011,,11415
 2012,,11701
@@ -15,11 +15,11 @@ Year,investor,Value
 2015,general government,3785
 2016,general government,4140
 2017,general government,4531
-2010,corporation,7553
-2011,corporation,7981
-2012,corporation,7985
-2013,corporation,7623
-2014,corporation,8388
-2015,corporation,8060
-2016,corporation,8222
-2017,corporation,9002
+2010,corporations,7553
+2011,corporations,7981
+2012,corporations,7985
+2013,corporations,7623
+2014,corporations,8388
+2015,corporations,8060
+2016,corporations,8222
+2017,corporations,9002
