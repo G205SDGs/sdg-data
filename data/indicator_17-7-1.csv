@@ -1,7 +1,25 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,sector,Value
+2010,,10279
+2011,,11415
+2012,,11701
+2013,,11331
+2014,,12080
+2015,,11845
+2016,,12362
+2017,,13533
+2010,general government,2726
+2011,general government,3434
+2012,general government,3716
+2013,general government,3708
+2014,general government,3692
+2015,general government,3785
+2016,general government,4140
+2017,general government,4531
+2010,corporations,7553
+2011,corporations,7981
+2012,corporations,7985
+2013,corporations,7623
+2014,corporations,8388
+2015,corporations,8060
+2016,corporations,8222
+2017,corporations,9002

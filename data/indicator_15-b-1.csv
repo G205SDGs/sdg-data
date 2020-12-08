@@ -1,17 +1,19 @@
-Year,timeseries,Value
-2010,oda (commitments) for biodiversity,536.8
-2011,oda (commitments) for biodiversity,1057.3
-2012,oda (commitments) for biodiversity,896.1
-2013,oda (commitments) for biodiversity,877.3
-2014,oda (commitments) for biodiversity,1058.7
-2015,oda (commitments) for biodiversity,1177.6
-2016,oda (commitments) for biodiversity,1111.2
-2017,oda (commitments) for biodiversity,1744.8
-2010,"oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",59.1
-2011,"oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",55.4
-2012,"oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",91.4
-2013,"oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",83.7
-2014,"oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",70.1
-2015,"oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",70.0
-2016,"oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",66.4
-2017,"oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",75.1
+Year,Units,timeseries,Value
+2010,"mn usd, constant prices (2018)",oda (commitments) for biodiversity,585.4
+2011,"mn usd, constant prices (2018)",oda (commitments) for biodiversity,1153.0
+2012,"mn usd, constant prices (2018)",oda (commitments) for biodiversity,977.6
+2013,"mn usd, constant prices (2018)",oda (commitments) for biodiversity,957.1
+2014,"mn usd, constant prices (2018)",oda (commitments) for biodiversity,1154.1
+2015,"mn usd, constant prices (2018)",oda (commitments) for biodiversity,1287.2
+2016,"mn usd, constant prices (2018)",oda (commitments) for biodiversity,1216.6
+2017,"mn usd, constant prices (2018)",oda (commitments) for biodiversity,1919.5
+2018,"mn usd, constant prices (2018)",oda (commitments) for biodiversity,1594.0
+2019,"mn usd, constant prices (2018)",oda (commitments) for biodiversity,2305.1
+2010,"mn usd, constant prices (2016)","oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",59.1
+2011,"mn usd, constant prices (2016)","oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",55.4
+2012,"mn usd, constant prices (2016)","oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",91.4
+2013,"mn usd, constant prices (2016)","oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",83.7
+2014,"mn usd, constant prices (2016)","oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",70.1
+2015,"mn usd, constant prices (2016)","oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",70.0
+2016,"mn usd, constant prices (2016)","oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",66.4
+2017,"mn usd, constant prices (2016)","oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))",75.1
