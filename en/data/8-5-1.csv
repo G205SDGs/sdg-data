@@ -1,23 +1,26 @@
 Year,Units,Time series,Sex,Region,GeoCode,Value
 2014,EUR/h,Average hourly earnings of employees,,,,17.78
+2018,EUR/h,Average hourly earnings of employees,,,,19.66
 2010,EUR/h,Average hourly earnings of employees,Female,,,14.62
 2011,EUR/h,Average hourly earnings of employees,Female,,,14.88
 2012,EUR/h,Average hourly earnings of employees,Female,,,15.18
 2013,EUR/h,Average hourly earnings of employees,Female,,,15.5
 2014,EUR/h,Average hourly earnings of employees,Female,,,15.44
-2015,EUR/h,Average hourly earnings of employees,Female,,,15.8
-2016,EUR/h,Average hourly earnings of employees,Female,,,16.26
-2017,EUR/h,Average hourly earnings of employees,Female,,,16.59
-2018,EUR/h,Average hourly earnings of employees,Female,,,17.09
+2015,EUR/h,Average hourly earnings of employees,Female,,,15.82
+2016,EUR/h,Average hourly earnings of employees,Female,,,16.3
+2017,EUR/h,Average hourly earnings of employees,Female,,,16.66
+2018,EUR/h,Average hourly earnings of employees,Female,,,17.33
+2019,EUR/h,Average hourly earnings of employees,Female,,,17.98
 2010,EUR/h,Average hourly earnings of employees,Male,,,18.81
 2011,EUR/h,Average hourly earnings of employees,Male,,,19.17
 2012,EUR/h,Average hourly earnings of employees,Male,,,19.63
 2013,EUR/h,Average hourly earnings of employees,Male,,,19.89
 2014,EUR/h,Average hourly earnings of employees,Male,,,19.87
-2015,EUR/h,Average hourly earnings of employees,Male,,,20.25
-2016,EUR/h,Average hourly earnings of employees,Male,,,20.71
-2017,EUR/h,Average hourly earnings of employees,Male,,,21.0
-2018,EUR/h,Average hourly earnings of employees,Male,,,21.6
+2015,EUR/h,Average hourly earnings of employees,Male,,,20.24
+2016,EUR/h,Average hourly earnings of employees,Male,,,20.67
+2017,EUR/h,Average hourly earnings of employees,Male,,,20.94
+2018,EUR/h,Average hourly earnings of employees,Male,,,21.7
+2019,EUR/h,Average hourly earnings of employees,Male,,,22.26
 2010,Percentage (%),Gender Pay Gap,,,,22.0
 2011,Percentage (%),Gender Pay Gap,,,,22.0
 2012,Percentage (%),Gender Pay Gap,,,,23.0
@@ -25,8 +28,9 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2014,Percentage (%),Gender Pay Gap,,,,22.0
 2015,Percentage (%),Gender Pay Gap,,,,22.0
 2016,Percentage (%),Gender Pay Gap,,,,21.0
-2017,Percentage (%),Gender Pay Gap,,,,21.0
-2018,Percentage (%),Gender Pay Gap,,,,21.0
+2017,Percentage (%),Gender Pay Gap,,,,20.0
+2018,Percentage (%),Gender Pay Gap,,,,20.0
+2019,Percentage (%),Gender Pay Gap,,,,19.0
 2010,Percentage (%),Gender Pay Gap,,Baden-Wuerttemberg,code08,27.0
 2011,Percentage (%),Gender Pay Gap,,Baden-Wuerttemberg,code08,27.0
 2012,Percentage (%),Gender Pay Gap,,Baden-Wuerttemberg,code08,27.0

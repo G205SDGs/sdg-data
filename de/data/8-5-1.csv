@@ -1,23 +1,26 @@
 Year,Units,Zeitreihe,Geschlecht,Region,GeoCode,Value
 2014,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,,,,17.78
+2018,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,,,,19.66
 2010,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,14.62
 2011,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,14.88
 2012,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,15.18
 2013,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,15.5
 2014,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,15.44
-2015,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,15.8
-2016,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,16.26
-2017,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,16.59
-2018,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,17.09
+2015,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,15.82
+2016,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,16.3
+2017,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,16.66
+2018,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,17.33
+2019,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,17.98
 2010,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,18.81
 2011,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,19.17
 2012,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,19.63
 2013,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,19.89
 2014,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,19.87
-2015,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,20.25
-2016,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,20.71
-2017,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,21.0
-2018,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,21.6
+2015,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,20.24
+2016,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,20.67
+2017,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,20.94
+2018,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,21.7
+2019,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,22.26
 2010,Prozent (%),Verdienstabstand,,,,22.0
 2011,Prozent (%),Verdienstabstand,,,,22.0
 2012,Prozent (%),Verdienstabstand,,,,23.0
@@ -25,8 +28,9 @@ Year,Units,Zeitreihe,Geschlecht,Region,GeoCode,Value
 2014,Prozent (%),Verdienstabstand,,,,22.0
 2015,Prozent (%),Verdienstabstand,,,,22.0
 2016,Prozent (%),Verdienstabstand,,,,21.0
-2017,Prozent (%),Verdienstabstand,,,,21.0
-2018,Prozent (%),Verdienstabstand,,,,21.0
+2017,Prozent (%),Verdienstabstand,,,,20.0
+2018,Prozent (%),Verdienstabstand,,,,20.0
+2019,Prozent (%),Verdienstabstand,,,,19.0
 2010,Prozent (%),Verdienstabstand,,Baden-Württemberg,code08,27.0
 2011,Prozent (%),Verdienstabstand,,Baden-Württemberg,code08,27.0
 2012,Prozent (%),Verdienstabstand,,Baden-Württemberg,code08,27.0
