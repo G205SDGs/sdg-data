@@ -1,17 +1,17 @@
-Year,timeseries,sex,Value
-2015,population who considers their experiences with public agencies free of discrimination during the previous two years (%),,92.17
-2016,population who considers their experiences with public agencies free of discrimination during the previous two years (%),,
-2017,population who considers their experiences with public agencies free of discrimination during the previous two years (%),,93.60
-2018,population who considers their experiences with public agencies free of discrimination during the previous two years (%),,
-2019,population who considers their experiences with public agencies free of discrimination during the previous two years (%),,94.19
-2015,population who considers their experiences with public agencies free of discrimination during the previous two years (%),female,92.34
-2016,population who considers their experiences with public agencies free of discrimination during the previous two years (%),female,
-2017,population who considers their experiences with public agencies free of discrimination during the previous two years (%),female,94.33
-2018,population who considers their experiences with public agencies free of discrimination during the previous two years (%),female,
-2019,population who considers their experiences with public agencies free of discrimination during the previous two years (%),female,74.14
-2015,population who considers their experiences with public agencies free of discrimination during the previous two years (%),male,91.98
-2016,population who considers their experiences with public agencies free of discrimination during the previous two years (%),male,
-2017,population who considers their experiences with public agencies free of discrimination during the previous two years (%),male,92.78
-2018,population who considers their experiences with public agencies free of discrimination during the previous two years (%),male,
-2019,population who considers their experiences with public agencies free of discrimination during the previous two years (%),male,94.33
-2019,population who considers their experiences with public agencies free of discrimination during the previous two years (%),divers,90.02
+Year,sex,Value
+2015,,92.17
+2016,,
+2017,,93.60
+2018,,
+2019,,94.19
+2015,female,92.34
+2016,female,
+2017,female,94.33
+2018,female,
+2019,female,74.14
+2015,male,91.98
+2016,male,
+2017,male,92.78
+2018,male,
+2019,male,94.33
+2019,divers,90.02

@@ -1,123 +1,123 @@
-Year,Units,timeseries,sex,age,Value
-2010,per 100 000 inhabitants,victims of human trafficking,,,0.81
-2011,per 100 000 inhabitants,victims of human trafficking,,,0.84
-2012,per 100 000 inhabitants,victims of human trafficking,,,0.78
-2013,per 100 000 inhabitants,victims of human trafficking,,,0.75
-2014,per 100 000 inhabitants,victims of human trafficking,,,0.72
-2015,per 100 000 inhabitants,victims of human trafficking,,,0.57
-2016,per 100 000 inhabitants,victims of human trafficking,,,0.65
-2017,per 100 000 inhabitants,victims of human trafficking,,,0.81
-2010,per 100 000 inhabitants,exploitation of labour,,,0.05
-2011,per 100 000 inhabitants,exploitation of labour,,,0.04
-2012,per 100 000 inhabitants,exploitation of labour,,,0.02
-2013,per 100 000 inhabitants,exploitation of labour,,,0.08
-2014,per 100 000 inhabitants,exploitation of labour,,,0.03
-2015,per 100 000 inhabitants,exploitation of labour,,,0.07
-2016,per 100 000 inhabitants,exploitation of labour,,,0.06
-2017,per 100 000 inhabitants,exploitation of labour,,,0.22
-2010,per 100 000 inhabitants,sexual exploitation,,,0.76
-2011,per 100 000 inhabitants,sexual exploitation,,,0.80
-2012,per 100 000 inhabitants,sexual exploitation,,,0.76
-2013,per 100 000 inhabitants,sexual exploitation,,,0.67
-2014,per 100 000 inhabitants,sexual exploitation,,,0.69
-2015,per 100 000 inhabitants,sexual exploitation,,,0.51
-2016,per 100 000 inhabitants,sexual exploitation,,,0.59
-2017,per 100 000 inhabitants,sexual exploitation,,,0.59
-2010,number,victims of human trafficking,,,651
-2011,number,victims of human trafficking,,,672
-2012,number,victims of human trafficking,,,626
-2013,number,victims of human trafficking,,,603
-2014,number,victims of human trafficking,,,583
-2015,number,victims of human trafficking,,,470
-2016,number,victims of human trafficking,,,536
-2017,number,victims of human trafficking,,,669
-2010,number,exploitation of labour,,,41
-2011,number,exploitation of labour,,,32
-2012,number,exploitation of labour,,,14
-2013,number,exploitation of labour,,,61
-2014,number,exploitation of labour,,,26
-2015,number,exploitation of labour,,,54
-2016,number,exploitation of labour,,,48
-2017,number,exploitation of labour,,,180
-2010,number,exploitation of labour,female,,10
-2011,number,exploitation of labour,female,,24
-2015,number,exploitation of labour,female,,10
-2016,number,exploitation of labour,female,,14
-2017,number,exploitation of labour,female,,25
-2010,number,exploitation of labour,male,,31
-2011,number,exploitation of labour,male,,8
-2015,number,exploitation of labour,male,,44
-2016,number,exploitation of labour,male,,34
-2017,number,exploitation of labour,male,,155
-2010,number,sexual exploitation,,,610
-2011,number,sexual exploitation,,,640
-2012,number,sexual exploitation,,,612
-2013,number,sexual exploitation,,,542
-2014,number,sexual exploitation,,,557
-2015,number,sexual exploitation,,,416
-2016,number,sexual exploitation,,,488
-2017,number,sexual exploitation,,,489
-2010,number,sexual exploitation,female,,586
-2011,number,sexual exploitation,female,,602
-2012,number,sexual exploitation,female,,588
-2013,number,sexual exploitation,female,,520
-2014,number,sexual exploitation,female,,529
-2015,number,sexual exploitation,female,,399
-2016,number,sexual exploitation,female,,464
-2017,number,sexual exploitation,female,,484
-2010,number,sexual exploitation,male,,24
-2011,number,sexual exploitation,male,,38
-2012,number,sexual exploitation,male,,24
-2013,number,sexual exploitation,male,,22
-2014,number,sexual exploitation,male,,28
-2015,number,sexual exploitation,male,,17
-2016,number,sexual exploitation,male,,24
-2017,number,sexual exploitation,male,,5
-2010,number,sexual exploitation,,13 years and under,8
-2011,number,sexual exploitation,,13 years and under,13
-2012,number,sexual exploitation,,13 years and under,12
-2013,number,sexual exploitation,,13 years and under,9
-2014,number,sexual exploitation,,13 years and under,5
-2015,number,sexual exploitation,,13 years and under,6
-2016,number,sexual exploitation,,13 years and under,12
-2017,number,sexual exploitation,,13 years and under,16
-2010,number,sexual exploitation,,14 to under 18 years,79
-2011,number,sexual exploitation,,14 to under 18 years,77
-2012,number,sexual exploitation,,14 to under 18 years,88
-2013,number,sexual exploitation,,14 to under 18 years,61
-2014,number,sexual exploitation,,14 to under 18 years,52
-2015,number,sexual exploitation,,14 to under 18 years,71
-2016,number,sexual exploitation,,14 to under 18 years,84
-2017,number,sexual exploitation,,14 to under 18 years,46
-2010,number,sexual exploitation,,18 to under 21 years,254
-2011,number,sexual exploitation,,18 to under 21 years,269
-2012,number,sexual exploitation,,18 to under 21 years,223
-2013,number,sexual exploitation,,18 to under 21 years,209
-2014,number,sexual exploitation,,18 to under 21 years,209
-2015,number,sexual exploitation,,18 to under 21 years,148
-2016,number,sexual exploitation,,18 to under 21 years,118
-2017,number,sexual exploitation,,18 to under 21 years,157
-2010,number,sexual exploitation,,21 to under 25 years,127
-2011,number,sexual exploitation,,21 to under 25 years,135
-2012,number,sexual exploitation,,21 to under 25 years,123
-2013,number,sexual exploitation,,21 to under 25 years,111
-2014,number,sexual exploitation,,21 to under 25 years,115
-2015,number,sexual exploitation,,21 to under 25 years,68
-2016,number,sexual exploitation,,21 to under 25 years,109
-2017,number,sexual exploitation,,21 to under 25 years,110
-2010,number,sexual exploitation,,25 years and over,134
-2011,number,sexual exploitation,,25 years and over,133
-2012,number,sexual exploitation,,25 years and over,156
-2013,number,sexual exploitation,,25 years and over,142
-2014,number,sexual exploitation,,25 years and over,164
-2015,number,sexual exploitation,,25 years and over,98
-2016,number,sexual exploitation,,25 years and over,142
-2017,number,sexual exploitation,,25 years and over,149
-2010,number,sexual exploitation,,0 - unknown age,8
-2011,number,sexual exploitation,,0 - unknown age,13
-2012,number,sexual exploitation,,0 - unknown age,10
-2013,number,sexual exploitation,,0 - unknown age,10
-2014,number,sexual exploitation,,0 - unknown age,12
-2015,number,sexual exploitation,,0 - unknown age,25
-2016,number,sexual exploitation,,0 - unknown age,23
-2017,number,sexual exploitation,,0 - unknown age,11
+Year,Units,sex,age,form of exploitation,Value
+2010,per 100 000 inhabitants,,,,0.81
+2011,per 100 000 inhabitants,,,,0.84
+2012,per 100 000 inhabitants,,,,0.78
+2013,per 100 000 inhabitants,,,,0.75
+2014,per 100 000 inhabitants,,,,0.72
+2015,per 100 000 inhabitants,,,,0.57
+2016,per 100 000 inhabitants,,,,0.65
+2017,per 100 000 inhabitants,,,,0.81
+2010,per 100 000 inhabitants,,,exploitation of labour,0.05
+2011,per 100 000 inhabitants,,,exploitation of labour,0.04
+2012,per 100 000 inhabitants,,,exploitation of labour,0.02
+2013,per 100 000 inhabitants,,,exploitation of labour,0.08
+2014,per 100 000 inhabitants,,,exploitation of labour,0.03
+2015,per 100 000 inhabitants,,,exploitation of labour,0.07
+2016,per 100 000 inhabitants,,,exploitation of labour,0.06
+2017,per 100 000 inhabitants,,,exploitation of labour,0.22
+2010,per 100 000 inhabitants,,,sexual exploitation,0.76
+2011,per 100 000 inhabitants,,,sexual exploitation,0.80
+2012,per 100 000 inhabitants,,,sexual exploitation,0.76
+2013,per 100 000 inhabitants,,,sexual exploitation,0.67
+2014,per 100 000 inhabitants,,,sexual exploitation,0.69
+2015,per 100 000 inhabitants,,,sexual exploitation,0.51
+2016,per 100 000 inhabitants,,,sexual exploitation,0.59
+2017,per 100 000 inhabitants,,,sexual exploitation,0.59
+2010,number,,,,651
+2011,number,,,,672
+2012,number,,,,626
+2013,number,,,,603
+2014,number,,,,583
+2015,number,,,,470
+2016,number,,,,536
+2017,number,,,,669
+2010,number,,,exploitation of labour,41
+2011,number,,,exploitation of labour,32
+2012,number,,,exploitation of labour,14
+2013,number,,,exploitation of labour,61
+2014,number,,,exploitation of labour,26
+2015,number,,,exploitation of labour,54
+2016,number,,,exploitation of labour,48
+2017,number,,,exploitation of labour,180
+2010,number,female,,exploitation of labour,10
+2011,number,female,,exploitation of labour,24
+2015,number,female,,exploitation of labour,10
+2016,number,female,,exploitation of labour,14
+2017,number,female,,exploitation of labour,25
+2010,number,male,,exploitation of labour,31
+2011,number,male,,exploitation of labour,8
+2015,number,male,,exploitation of labour,44
+2016,number,male,,exploitation of labour,34
+2017,number,male,,exploitation of labour,155
+2010,number,,,sexual exploitation,610
+2011,number,,,sexual exploitation,640
+2012,number,,,sexual exploitation,612
+2013,number,,,sexual exploitation,542
+2014,number,,,sexual exploitation,557
+2015,number,,,sexual exploitation,416
+2016,number,,,sexual exploitation,488
+2017,number,,,sexual exploitation,489
+2010,number,female,,sexual exploitation,586
+2011,number,female,,sexual exploitation,602
+2012,number,female,,sexual exploitation,588
+2013,number,female,,sexual exploitation,520
+2014,number,female,,sexual exploitation,529
+2015,number,female,,sexual exploitation,399
+2016,number,female,,sexual exploitation,464
+2017,number,female,,sexual exploitation,484
+2010,number,male,,sexual exploitation,24
+2011,number,male,,sexual exploitation,38
+2012,number,male,,sexual exploitation,24
+2013,number,male,,sexual exploitation,22
+2014,number,male,,sexual exploitation,28
+2015,number,male,,sexual exploitation,17
+2016,number,male,,sexual exploitation,24
+2017,number,male,,sexual exploitation,5
+2010,number,,13 years and under,sexual exploitation,8
+2011,number,,13 years and under,sexual exploitation,13
+2012,number,,13 years and under,sexual exploitation,12
+2013,number,,13 years and under,sexual exploitation,9
+2014,number,,13 years and under,sexual exploitation,5
+2015,number,,13 years and under,sexual exploitation,6
+2016,number,,13 years and under,sexual exploitation,12
+2017,number,,13 years and under,sexual exploitation,16
+2010,number,,14 to under 18 years,sexual exploitation,79
+2011,number,,14 to under 18 years,sexual exploitation,77
+2012,number,,14 to under 18 years,sexual exploitation,88
+2013,number,,14 to under 18 years,sexual exploitation,61
+2014,number,,14 to under 18 years,sexual exploitation,52
+2015,number,,14 to under 18 years,sexual exploitation,71
+2016,number,,14 to under 18 years,sexual exploitation,84
+2017,number,,14 to under 18 years,sexual exploitation,46
+2010,number,,18 to under 21 years,sexual exploitation,254
+2011,number,,18 to under 21 years,sexual exploitation,269
+2012,number,,18 to under 21 years,sexual exploitation,223
+2013,number,,18 to under 21 years,sexual exploitation,209
+2014,number,,18 to under 21 years,sexual exploitation,209
+2015,number,,18 to under 21 years,sexual exploitation,148
+2016,number,,18 to under 21 years,sexual exploitation,118
+2017,number,,18 to under 21 years,sexual exploitation,157
+2010,number,,21 to under 25 years,sexual exploitation,127
+2011,number,,21 to under 25 years,sexual exploitation,135
+2012,number,,21 to under 25 years,sexual exploitation,123
+2013,number,,21 to under 25 years,sexual exploitation,111
+2014,number,,21 to under 25 years,sexual exploitation,115
+2015,number,,21 to under 25 years,sexual exploitation,68
+2016,number,,21 to under 25 years,sexual exploitation,109
+2017,number,,21 to under 25 years,sexual exploitation,110
+2010,number,,25 years and over,sexual exploitation,134
+2011,number,,25 years and over,sexual exploitation,133
+2012,number,,25 years and over,sexual exploitation,156
+2013,number,,25 years and over,sexual exploitation,142
+2014,number,,25 years and over,sexual exploitation,164
+2015,number,,25 years and over,sexual exploitation,98
+2016,number,,25 years and over,sexual exploitation,142
+2017,number,,25 years and over,sexual exploitation,149
+2010,number,,0 - unknown age,sexual exploitation,8
+2011,number,,0 - unknown age,sexual exploitation,13
+2012,number,,0 - unknown age,sexual exploitation,10
+2013,number,,0 - unknown age,sexual exploitation,10
+2014,number,,0 - unknown age,sexual exploitation,12
+2015,number,,0 - unknown age,sexual exploitation,25
+2016,number,,0 - unknown age,sexual exploitation,23
+2017,number,,0 - unknown age,sexual exploitation,11
