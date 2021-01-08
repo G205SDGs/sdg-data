@@ -1,46 +1,46 @@
-Year,Zeitreihe,Geschlecht,Value
-2013,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,,0.07
-2014,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,,0.08
-2015,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,,0.08
-2016,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,,0.1
-2017,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,,0.1
-2013,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Weiblich,0.08
-2014,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Weiblich,0.08
-2015,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Weiblich,0.09
-2016,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Weiblich,0.1
-2017,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Weiblich,0.1
-2013,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Männlich,0.07
-2014,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Männlich,0.08
-2015,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Männlich,0.08
-2016,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Männlich,0.09
-2017,Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Männlich,0.1
-2013,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,,0.04
-2014,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,,0.04
-2015,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,,0.04
-2016,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,,0.05
-2017,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,,0.05
-2013,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Weiblich,0.04
-2014,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Weiblich,0.04
-2015,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Weiblich,0.04
-2016,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Weiblich,0.05
-2017,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Weiblich,0.05
-2013,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Männlich,0.04
-2014,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Männlich,0.04
-2015,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Männlich,0.04
-2016,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Männlich,0.05
-2017,Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Männlich,0.05
-2013,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,,0.03
-2014,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,,0.04
-2015,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,,0.04
-2016,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,,0.05
-2017,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,,0.05
-2013,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Weiblich,0.04
-2014,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Weiblich,0.04
-2015,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Weiblich,0.05
-2016,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Weiblich,0.05
-2017,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Weiblich,0.05
-2013,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Männlich,0.03
-2014,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Männlich,0.04
-2015,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Männlich,0.04
-2016,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Männlich,0.04
-2017,Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Männlich,0.05
+Year,Geschlecht,Form der Misshandlung,Value
+2013,,,0.07
+2014,,,0.08
+2015,,,0.08
+2016,,,0.1
+2017,,,0.1
+2013,Weiblich,,0.08
+2014,Weiblich,,0.08
+2015,Weiblich,,0.09
+2016,Weiblich,,0.1
+2017,Weiblich,,0.1
+2013,Männlich,,0.07
+2014,Männlich,,0.08
+2015,Männlich,,0.08
+2016,Männlich,,0.09
+2017,Männlich,,0.1
+2013,,Körperliche Misshandlung,0.04
+2014,,Körperliche Misshandlung,0.04
+2015,,Körperliche Misshandlung,0.04
+2016,,Körperliche Misshandlung,0.05
+2017,,Körperliche Misshandlung,0.05
+2013,Weiblich,Körperliche Misshandlung,0.04
+2014,Weiblich,Körperliche Misshandlung,0.04
+2015,Weiblich,Körperliche Misshandlung,0.04
+2016,Weiblich,Körperliche Misshandlung,0.05
+2017,Weiblich,Körperliche Misshandlung,0.05
+2013,Männlich,Körperliche Misshandlung,0.04
+2014,Männlich,Körperliche Misshandlung,0.04
+2015,Männlich,Körperliche Misshandlung,0.04
+2016,Männlich,Körperliche Misshandlung,0.05
+2017,Männlich,Körperliche Misshandlung,0.05
+2013,,Psychische Misshandlung,0.03
+2014,,Psychische Misshandlung,0.04
+2015,,Psychische Misshandlung,0.04
+2016,,Psychische Misshandlung,0.05
+2017,,Psychische Misshandlung,0.05
+2013,Weiblich,Psychische Misshandlung,0.04
+2014,Weiblich,Psychische Misshandlung,0.04
+2015,Weiblich,Psychische Misshandlung,0.05
+2016,Weiblich,Psychische Misshandlung,0.05
+2017,Weiblich,Psychische Misshandlung,0.05
+2013,Männlich,Psychische Misshandlung,0.03
+2014,Männlich,Psychische Misshandlung,0.04
+2015,Männlich,Psychische Misshandlung,0.04
+2016,Männlich,Psychische Misshandlung,0.04
+2017,Männlich,Psychische Misshandlung,0.05

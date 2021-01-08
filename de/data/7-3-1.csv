@@ -1,19 +1,19 @@
-Year,Units,Zeitreihe,Value
-2010,MJ/EUR,Energieintensität gemessen in Bezug auf Primärenergie und BIP,5.5
-2011,MJ/EUR,Energieintensität gemessen in Bezug auf Primärenergie und BIP,5.0
-2012,MJ/EUR,Energieintensität gemessen in Bezug auf Primärenergie und BIP,4.9
-2013,MJ/EUR,Energieintensität gemessen in Bezug auf Primärenergie und BIP,4.9
-2014,MJ/EUR,Energieintensität gemessen in Bezug auf Primärenergie und BIP,4.5
-2015,MJ/EUR,Energieintensität gemessen in Bezug auf Primärenergie und BIP,4.3
-2016,MJ/EUR,Energieintensität gemessen in Bezug auf Primärenergie und BIP,4.3
-2017,MJ/EUR,Energieintensität gemessen in Bezug auf Primärenergie und BIP,4.1
-2018,MJ/EUR,Energieintensität gemessen in Bezug auf Primärenergie und BIP,3.8
-2010,2010 = 100,Energieintensität gemessen in Bezug auf Primärenergie und BIP,100.0
-2011,2010 = 100,Energieintensität gemessen in Bezug auf Primärenergie und BIP,92.3
-2012,2010 = 100,Energieintensität gemessen in Bezug auf Primärenergie und BIP,90.8
-2013,2010 = 100,Energieintensität gemessen in Bezug auf Primärenergie und BIP,92.9
-2014,2010 = 100,Energieintensität gemessen in Bezug auf Primärenergie und BIP,86.9
-2015,2010 = 100,Energieintensität gemessen in Bezug auf Primärenergie und BIP,85.5
-2016,2010 = 100,Energieintensität gemessen in Bezug auf Primärenergie und BIP,85.3
-2017,2010 = 100,Energieintensität gemessen in Bezug auf Primärenergie und BIP,83.2
-2018,2010 = 100,Energieintensität gemessen in Bezug auf Primärenergie und BIP,79.1
+Year,Units,Value
+2010,MJ/EUR,5.5
+2011,MJ/EUR,5.0
+2012,MJ/EUR,4.9
+2013,MJ/EUR,4.9
+2014,MJ/EUR,4.5
+2015,MJ/EUR,4.3
+2016,MJ/EUR,4.3
+2017,MJ/EUR,4.1
+2018,MJ/EUR,3.8
+2010,2010 = 100,100.0
+2011,2010 = 100,92.3
+2012,2010 = 100,90.8
+2013,2010 = 100,92.9
+2014,2010 = 100,86.9
+2015,2010 = 100,85.5
+2016,2010 = 100,85.3
+2017,2010 = 100,83.2
+2018,2010 = 100,79.1

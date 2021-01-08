@@ -27,7 +27,8 @@ Year,Time series,Value
 2015,Nonperforming loans net of provisions to capital,17.36
 2016,Nonperforming loans net of provisions to capital,14.68
 2017,Nonperforming loans net of provisions to capital,11.89
-2018,Nonperforming loans net of provisions to capital,9.13
+2018,Nonperforming loans net of provisions to capital,9.06
+2019,Nonperforming loans net of provisions to capital,6.78
 2010,Nonperforming loans net of provisions to gross loans,3.2
 2011,Nonperforming loans net of provisions to gross loans,3.03
 2012,Nonperforming loans net of provisions to gross loans,2.86
@@ -37,6 +38,7 @@ Year,Time series,Value
 2016,Nonperforming loans net of provisions to gross loans,1.71
 2017,Nonperforming loans net of provisions to gross loans,1.5
 2018,Nonperforming loans net of provisions to gross loans,1.24
+2019,Nonperforming loans net of provisions to gross loans,1.05
 2010,Return on assets,0.37
 2011,Return on assets,0.53
 2012,Return on assets,0.45
@@ -46,6 +48,7 @@ Year,Time series,Value
 2016,Return on assets,0.37
 2017,Return on assets,0.37
 2018,Return on assets,0.32
+2019,Return on assets,0.26
 2010,Liquid assets to short-term liabilities,136.99
 2011,Liquid assets to short-term liabilities,137.86
 2012,Liquid assets to short-term liabilities,144.17
@@ -65,4 +68,4 @@ Year,Time series,Value
 2016,Net open position in foreign exchange to capital,4.0
 2017,Net open position in foreign exchange to capital,3.67
 2018,Net open position in foreign exchange to capital,3.19
-2019,Net open position in foreign exchange to capital,3.13
+2019,Net open position in foreign exchange to capital,3.72

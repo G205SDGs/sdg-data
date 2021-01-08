@@ -1,25 +1,25 @@
-Year,Zeitreihe,Value
-2010,Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe,59
-2011,Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe,59
-2012,Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe,59
-2013,Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe,59
-2014,Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe,61
-2015,Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe,61
-2016,Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe,61
-2017,Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe,54
-2010,Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe,49
-2011,Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe,50
-2012,Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe,50
-2013,Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe,50
-2014,Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe,51
-2015,Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe,51
-2016,Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe,51
-2017,Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe,43
-2010,Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe,10
-2011,Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe,10
-2012,Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe,10
-2013,Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe,10
-2014,Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe,10
-2015,Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe,10
-2016,Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe,10
-2017,Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe,10
+Year,Technologieintensität,Value
+2010,,59
+2011,,59
+2012,,59
+2013,,59
+2014,,61
+2015,,61
+2016,,61
+2017,,54
+2010,Medium-High-Tech,49
+2011,Medium-High-Tech,50
+2012,Medium-High-Tech,50
+2013,Medium-High-Tech,50
+2014,Medium-High-Tech,51
+2015,Medium-High-Tech,51
+2016,Medium-High-Tech,51
+2017,Medium-High-Tech,43
+2010,high-tech,10
+2011,high-tech,10
+2012,high-tech,10
+2013,high-tech,10
+2014,high-tech,10
+2015,high-tech,10
+2016,high-tech,10
+2017,high-tech,10
