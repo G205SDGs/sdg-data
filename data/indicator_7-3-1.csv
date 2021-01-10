@@ -1,19 +1,19 @@
-Year,Units,timeseries,Value
-2010,mj/eur,energy intensity measured in terms of primary energy and gdp,5.5
-2011,mj/eur,energy intensity measured in terms of primary energy and gdp,5.0
-2012,mj/eur,energy intensity measured in terms of primary energy and gdp,4.9
-2013,mj/eur,energy intensity measured in terms of primary energy and gdp,4.9
-2014,mj/eur,energy intensity measured in terms of primary energy and gdp,4.5
-2015,mj/eur,energy intensity measured in terms of primary energy and gdp,4.3
-2016,mj/eur,energy intensity measured in terms of primary energy and gdp,4.3
-2017,mj/eur,energy intensity measured in terms of primary energy and gdp,4.1
-2018,mj/eur,energy intensity measured in terms of primary energy and gdp,3.8
-2010,2010 = 100,energy intensity measured in terms of primary energy and gdp,100.0
-2011,2010 = 100,energy intensity measured in terms of primary energy and gdp,92.3
-2012,2010 = 100,energy intensity measured in terms of primary energy and gdp,90.8
-2013,2010 = 100,energy intensity measured in terms of primary energy and gdp,92.9
-2014,2010 = 100,energy intensity measured in terms of primary energy and gdp,86.9
-2015,2010 = 100,energy intensity measured in terms of primary energy and gdp,85.5
-2016,2010 = 100,energy intensity measured in terms of primary energy and gdp,85.3
-2017,2010 = 100,energy intensity measured in terms of primary energy and gdp,83.2
-2018,2010 = 100,energy intensity measured in terms of primary energy and gdp,79.1
+Year,Units,Value
+2010,mj/eur,5.5
+2011,mj/eur,5.0
+2012,mj/eur,4.9
+2013,mj/eur,4.9
+2014,mj/eur,4.5
+2015,mj/eur,4.3
+2016,mj/eur,4.3
+2017,mj/eur,4.1
+2018,mj/eur,3.8
+2010,2010 = 100,100.0
+2011,2010 = 100,92.3
+2012,2010 = 100,90.8
+2013,2010 = 100,92.9
+2014,2010 = 100,86.9
+2015,2010 = 100,85.5
+2016,2010 = 100,85.3
+2017,2010 = 100,83.2
+2018,2010 = 100,79.1

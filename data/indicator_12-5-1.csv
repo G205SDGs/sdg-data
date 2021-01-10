@@ -1,33 +1,33 @@
-Year,Units,type of waste,Value
-2010,recycling rate in %,municipal waste,62.5
-2011,recycling rate in %,municipal waste,63.0
-2012,recycling rate in %,municipal waste,65.2
-2013,recycling rate in %,municipal waste,63.8
-2014,recycling rate in %,municipal waste,65.6
-2015,recycling rate in %,municipal waste,66.7
-2016,recycling rate in %,municipal waste,67.1
-2017,recycling rate in %,municipal waste,67.2
-2010,recycled waste in 1 000 t,municipal waste,30774
-2011,recycled waste in 1 000 t,municipal waste,31633
-2012,recycled waste in 1 000 t,municipal waste,32460
-2013,recycled waste in 1 000 t,municipal waste,31629
-2014,recycled waste in 1 000 t,municipal waste,33544
-2015,recycled waste in 1 000 t,municipal waste,34453
-2016,recycled waste in 1 000 t,municipal waste,34958
-2017,recycled waste in 1 000 t,municipal waste,34783
-2010,recycling rate in %,total waste,69.0
-2011,recycling rate in %,total waste,69.1
-2012,recycling rate in %,total waste,69.7
-2013,recycling rate in %,total waste,68.8
-2014,recycling rate in %,total waste,68.9
-2015,recycling rate in %,total waste,68.3
-2016,recycling rate in %,total waste,69.9
-2017,recycling rate in %,total waste,69.1
-2010,recycled waste in 1 000 t,total waste,257350
-2011,recycled waste in 1 000 t,total waste,267105
-2012,recycled waste in 1 000 t,total waste,265363
-2013,recycled waste in 1 000 t,total waste,265552
-2014,recycled waste in 1 000 t,total waste,276265
-2015,recycled waste in 1 000 t,total waste,274619
-2016,recycled waste in 1 000 t,total waste,287631
-2017,recycled waste in 1 000 t,total waste,284847
+Year,Units,timeseries,type of waste,Value
+2010,%,recycling rate,municipal waste,62.5
+2011,%,recycling rate,municipal waste,63.0
+2012,%,recycling rate,municipal waste,65.2
+2013,%,recycling rate,municipal waste,63.8
+2014,%,recycling rate,municipal waste,65.6
+2015,%,recycling rate,municipal waste,66.7
+2016,%,recycling rate,municipal waste,67.1
+2017,%,recycling rate,municipal waste,67.2
+2010,1 000 t,recycled waste,municipal waste,30774
+2011,1 000 t,recycled waste,municipal waste,31633
+2012,1 000 t,recycled waste,municipal waste,32460
+2013,1 000 t,recycled waste,municipal waste,31629
+2014,1 000 t,recycled waste,municipal waste,33544
+2015,1 000 t,recycled waste,municipal waste,34453
+2016,1 000 t,recycled waste,municipal waste,34958
+2017,1 000 t,recycled waste,municipal waste,34783
+2010,%,recycling rate,total waste,69.0
+2011,%,recycling rate,total waste,69.1
+2012,%,recycling rate,total waste,69.7
+2013,%,recycling rate,total waste,68.8
+2014,%,recycling rate,total waste,68.9
+2015,%,recycling rate,total waste,68.3
+2016,%,recycling rate,total waste,69.9
+2017,%,recycling rate,total waste,69.1
+2010,1 000 t,recycled waste,total waste,257350
+2011,1 000 t,recycled waste,total waste,267105
+2012,1 000 t,recycled waste,total waste,265363
+2013,1 000 t,recycled waste,total waste,265552
+2014,1 000 t,recycled waste,total waste,276265
+2015,1 000 t,recycled waste,total waste,274619
+2016,1 000 t,recycled waste,total waste,287631
+2017,1 000 t,recycled waste,total waste,284847

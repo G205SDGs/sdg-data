@@ -1,25 +1,25 @@
-Year,timeseries,Value
-2010,gross value added of medium- and high-tech industries to total manufacturing value added (%),59
-2011,gross value added of medium- and high-tech industries to total manufacturing value added (%),59
-2012,gross value added of medium- and high-tech industries to total manufacturing value added (%),59
-2013,gross value added of medium- and high-tech industries to total manufacturing value added (%),59
-2014,gross value added of medium- and high-tech industries to total manufacturing value added (%),61
-2015,gross value added of medium- and high-tech industries to total manufacturing value added (%),61
-2016,gross value added of medium- and high-tech industries to total manufacturing value added (%),61
-2017,gross value added of medium- and high-tech industries to total manufacturing value added (%),54
-2010,gross value added of medium-high-tech industries to total manufacturing value added (%),49
-2011,gross value added of medium-high-tech industries to total manufacturing value added (%),50
-2012,gross value added of medium-high-tech industries to total manufacturing value added (%),50
-2013,gross value added of medium-high-tech industries to total manufacturing value added (%),50
-2014,gross value added of medium-high-tech industries to total manufacturing value added (%),51
-2015,gross value added of medium-high-tech industries to total manufacturing value added (%),51
-2016,gross value added of medium-high-tech industries to total manufacturing value added (%),51
-2017,gross value added of medium-high-tech industries to total manufacturing value added (%),43
-2010,gross value added of high-tech industries to total manufacturing value added (%),10
-2011,gross value added of high-tech industries to total manufacturing value added (%),10
-2012,gross value added of high-tech industries to total manufacturing value added (%),10
-2013,gross value added of high-tech industries to total manufacturing value added (%),10
-2014,gross value added of high-tech industries to total manufacturing value added (%),10
-2015,gross value added of high-tech industries to total manufacturing value added (%),10
-2016,gross value added of high-tech industries to total manufacturing value added (%),10
-2017,gross value added of high-tech industries to total manufacturing value added (%),10
+Year,technological intensity,Value
+2010,,59
+2011,,59
+2012,,59
+2013,,59
+2014,,61
+2015,,61
+2016,,61
+2017,,54
+2010,medium-high-tech,49
+2011,medium-high-tech,50
+2012,medium-high-tech,50
+2013,medium-high-tech,50
+2014,medium-high-tech,51
+2015,medium-high-tech,51
+2016,medium-high-tech,51
+2017,medium-high-tech,43
+2010,high-tech,10
+2011,high-tech,10
+2012,high-tech,10
+2013,high-tech,10
+2014,high-tech,10
+2015,high-tech,10
+2016,high-tech,10
+2017,high-tech,10
