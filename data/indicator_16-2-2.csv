@@ -73,14 +73,14 @@ Year,Units,sex,age,form of exploitation,Value
 2015,number,male,,sexual exploitation,17
 2016,number,male,,sexual exploitation,24
 2017,number,male,,sexual exploitation,5
-2010,number,,13 years and under,sexual exploitation,8
-2011,number,,13 years and under,sexual exploitation,13
-2012,number,,13 years and under,sexual exploitation,12
-2013,number,,13 years and under,sexual exploitation,9
-2014,number,,13 years and under,sexual exploitation,5
-2015,number,,13 years and under,sexual exploitation,6
-2016,number,,13 years and under,sexual exploitation,12
-2017,number,,13 years and under,sexual exploitation,16
+2010,number,,under 14 years,sexual exploitation,8
+2011,number,,under 14 years,sexual exploitation,13
+2012,number,,under 14 years,sexual exploitation,12
+2013,number,,under 14 years,sexual exploitation,9
+2014,number,,under 14 years,sexual exploitation,5
+2015,number,,under 14 years,sexual exploitation,6
+2016,number,,under 14 years,sexual exploitation,12
+2017,number,,under 14 years,sexual exploitation,16
 2010,number,,14 to under 18 years,sexual exploitation,79
 2011,number,,14 to under 18 years,sexual exploitation,77
 2012,number,,14 to under 18 years,sexual exploitation,88
@@ -113,11 +113,11 @@ Year,Units,sex,age,form of exploitation,Value
 2015,number,,25 years and over,sexual exploitation,98
 2016,number,,25 years and over,sexual exploitation,142
 2017,number,,25 years and over,sexual exploitation,149
-2010,number,,0 - unknown age,sexual exploitation,8
-2011,number,,0 - unknown age,sexual exploitation,13
-2012,number,,0 - unknown age,sexual exploitation,10
-2013,number,,0 - unknown age,sexual exploitation,10
-2014,number,,0 - unknown age,sexual exploitation,12
-2015,number,,0 - unknown age,sexual exploitation,25
-2016,number,,0 - unknown age,sexual exploitation,23
-2017,number,,0 - unknown age,sexual exploitation,11
+2010,number,,unknown age,sexual exploitation,8
+2011,number,,unknown age,sexual exploitation,13
+2012,number,,unknown age,sexual exploitation,10
+2013,number,,unknown age,sexual exploitation,10
+2014,number,,unknown age,sexual exploitation,12
+2015,number,,unknown age,sexual exploitation,25
+2016,number,,unknown age,sexual exploitation,23
+2017,number,,unknown age,sexual exploitation,11
