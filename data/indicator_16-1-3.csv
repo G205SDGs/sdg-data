@@ -36,15 +36,15 @@ Year,Units,timeseries,sex,age,Value
 2016,number,victims of criminal offences,male,,614102
 2017,number,victims of criminal offences,male,,604475
 2018,number,victims of criminal offences,male,,611094
-2010,number,victims of criminal offences,,13 years and under,72232
-2011,number,victims of criminal offences,,13 years and under,70429
-2012,number,victims of criminal offences,,13 years and under,67579
-2013,number,victims of criminal offences,,13 years and under,65334
-2014,number,victims of criminal offences,,13 years and under,64584
-2015,number,victims of criminal offences,,13 years and under,62342
-2016,number,victims of criminal offences,,13 years and under,67519
-2017,number,victims of criminal offences,,13 years and under,68820
-2018,number,victims of criminal offences,,13 years and under,70590
+2010,number,victims of criminal offences,,under 14 years,72232
+2011,number,victims of criminal offences,,under 14 years,70429
+2012,number,victims of criminal offences,,under 14 years,67579
+2013,number,victims of criminal offences,,under 14 years,65334
+2014,number,victims of criminal offences,,under 14 years,64584
+2015,number,victims of criminal offences,,under 14 years,62342
+2016,number,victims of criminal offences,,under 14 years,67519
+2017,number,victims of criminal offences,,under 14 years,68820
+2018,number,victims of criminal offences,,under 14 years,70590
 2010,number,victims of criminal offences,,14 to under 18 years,99135
 2011,number,victims of criminal offences,,14 to under 18 years,92128
 2012,number,victims of criminal offences,,14 to under 18 years,88020

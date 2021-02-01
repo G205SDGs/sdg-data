@@ -1,4 +1,4 @@
-Year,items,Value
+Year,timeseries,Value
 2010,population living in households with moisture damages,13.3
 2011,population living in households with moisture damages,13.7
 2012,population living in households with moisture damages,13.5
@@ -35,12 +35,12 @@ Year,items,Value
 2016,population living in an area with noise pollution,25.1
 2017,population living in an area with noise pollution,26.1
 2018,population living in an area with noise pollution,27.8
-2010,total (one to four items),17.1
-2011,total (one to four items),16.9
-2012,total (one to four items),16.6
-2013,total (one to four items),15.8
-2014,total (one to four items),15.2
-2015,total (one to four items),15.3
-2016,total (one to four items),15.4
-2017,total (one to four items),15.0
-2018,total (one to four items),16.0
+2010,material deprivation for the housing dimension,17.1
+2011,material deprivation for the housing dimension,16.9
+2012,material deprivation for the housing dimension,16.6
+2013,material deprivation for the housing dimension,15.8
+2014,material deprivation for the housing dimension,15.2
+2015,material deprivation for the housing dimension,15.3
+2016,material deprivation for the housing dimension,15.4
+2017,material deprivation for the housing dimension,15.0
+2018,material deprivation for the housing dimension,16.0
