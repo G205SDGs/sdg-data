@@ -1,14 +1,14 @@
 Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
-2012,Prozent (%),"Bevölkerung, die körperlicher Gewalt ausgesetzt war",,,2.7
-2017,Prozent (%),"Bevölkerung, die körperlicher Gewalt ausgesetzt war",,,3.0
-2010,Prozent (%),"Bevölkerung, die Opfer einer Straftat war",,,1.2
-2011,Prozent (%),"Bevölkerung, die Opfer einer Straftat war",,,1.2
-2012,Prozent (%),"Bevölkerung, die Opfer einer Straftat war",,,1.2
-2013,Prozent (%),"Bevölkerung, die Opfer einer Straftat war",,,1.2
-2014,Prozent (%),"Bevölkerung, die Opfer einer Straftat war",,,1.2
-2015,Prozent (%),"Bevölkerung, die Opfer einer Straftat war",,,1.2
-2016,Prozent (%),"Bevölkerung, die Opfer einer Straftat war",,,1.2
-2017,Prozent (%),"Bevölkerung, die Opfer einer Straftat war",,,1.2
+2012,Prozent,"Bevölkerung, die körperlicher Gewalt ausgesetzt war",,,2.7
+2017,Prozent,"Bevölkerung, die körperlicher Gewalt ausgesetzt war",,,3.0
+2010,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
+2011,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
+2012,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
+2013,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
+2014,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
+2015,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
+2016,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
+2017,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
 2010,Anzahl,Opfer von Straftaten,,,932126.0
 2011,Anzahl,Opfer von Straftaten,,,964945.0
 2012,Anzahl,Opfer von Straftaten,,,976090.0
@@ -72,12 +72,12 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2016,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,716502.0
 2017,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,704139.0
 2018,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,715629.0
-2010,Anzahl,Opfer von Straftaten,,60 Jahre und mehr,51601.0
-2011,Anzahl,Opfer von Straftaten,,60 Jahre und mehr,53191.0
-2012,Anzahl,Opfer von Straftaten,,60 Jahre und mehr,54798.0
-2013,Anzahl,Opfer von Straftaten,,60 Jahre und mehr,56688.0
-2014,Anzahl,Opfer von Straftaten,,60 Jahre und mehr,57981.0
-2015,Anzahl,Opfer von Straftaten,,60 Jahre und mehr,59377.0
-2016,Anzahl,Opfer von Straftaten,,60 Jahre und mehr,62192.0
-2017,Anzahl,Opfer von Straftaten,,60 Jahre und mehr,62646.0
-2018,Anzahl,Opfer von Straftaten,,60 Jahre und mehr,65159.0
+2010,Anzahl,Opfer von Straftaten,,60 Jahre und älter,51601.0
+2011,Anzahl,Opfer von Straftaten,,60 Jahre und älter,53191.0
+2012,Anzahl,Opfer von Straftaten,,60 Jahre und älter,54798.0
+2013,Anzahl,Opfer von Straftaten,,60 Jahre und älter,56688.0
+2014,Anzahl,Opfer von Straftaten,,60 Jahre und älter,57981.0
+2015,Anzahl,Opfer von Straftaten,,60 Jahre und älter,59377.0
+2016,Anzahl,Opfer von Straftaten,,60 Jahre und älter,62192.0
+2017,Anzahl,Opfer von Straftaten,,60 Jahre und älter,62646.0
+2018,Anzahl,Opfer von Straftaten,,60 Jahre und älter,65159.0

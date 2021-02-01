@@ -73,14 +73,14 @@ Year,Units,Sex,Age group,Form of exploitation,Value
 2015,Number,Male,,Sexual exploitation,17.0
 2016,Number,Male,,Sexual exploitation,24.0
 2017,Number,Male,,Sexual exploitation,5.0
-2010,Number,,13 years and under,Sexual exploitation,8.0
-2011,Number,,13 years and under,Sexual exploitation,13.0
-2012,Number,,13 years and under,Sexual exploitation,12.0
-2013,Number,,13 years and under,Sexual exploitation,9.0
-2014,Number,,13 years and under,Sexual exploitation,5.0
-2015,Number,,13 years and under,Sexual exploitation,6.0
-2016,Number,,13 years and under,Sexual exploitation,12.0
-2017,Number,,13 years and under,Sexual exploitation,16.0
+2010,Number,,13 years and younger,Sexual exploitation,8.0
+2011,Number,,13 years and younger,Sexual exploitation,13.0
+2012,Number,,13 years and younger,Sexual exploitation,12.0
+2013,Number,,13 years and younger,Sexual exploitation,9.0
+2014,Number,,13 years and younger,Sexual exploitation,5.0
+2015,Number,,13 years and younger,Sexual exploitation,6.0
+2016,Number,,13 years and younger,Sexual exploitation,12.0
+2017,Number,,13 years and younger,Sexual exploitation,16.0
 2010,Number,,14 to under 18 years,Sexual exploitation,79.0
 2011,Number,,14 to under 18 years,Sexual exploitation,77.0
 2012,Number,,14 to under 18 years,Sexual exploitation,88.0
@@ -105,19 +105,19 @@ Year,Units,Sex,Age group,Form of exploitation,Value
 2015,Number,,21 to under 25 years,Sexual exploitation,68.0
 2016,Number,,21 to under 25 years,Sexual exploitation,109.0
 2017,Number,,21 to under 25 years,Sexual exploitation,110.0
-2010,Number,,25 years and over,Sexual exploitation,134.0
-2011,Number,,25 years and over,Sexual exploitation,133.0
-2012,Number,,25 years and over,Sexual exploitation,156.0
-2013,Number,,25 years and over,Sexual exploitation,142.0
-2014,Number,,25 years and over,Sexual exploitation,164.0
-2015,Number,,25 years and over,Sexual exploitation,98.0
-2016,Number,,25 years and over,Sexual exploitation,142.0
-2017,Number,,25 years and over,Sexual exploitation,149.0
-2010,Number,,Unknown Age,Sexual exploitation,8.0
-2011,Number,,Unknown Age,Sexual exploitation,13.0
-2012,Number,,Unknown Age,Sexual exploitation,10.0
-2013,Number,,Unknown Age,Sexual exploitation,10.0
-2014,Number,,Unknown Age,Sexual exploitation,12.0
-2015,Number,,Unknown Age,Sexual exploitation,25.0
-2016,Number,,Unknown Age,Sexual exploitation,23.0
-2017,Number,,Unknown Age,Sexual exploitation,11.0
+2010,Number,,25 years and older,Sexual exploitation,134.0
+2011,Number,,25 years and older,Sexual exploitation,133.0
+2012,Number,,25 years and older,Sexual exploitation,156.0
+2013,Number,,25 years and older,Sexual exploitation,142.0
+2014,Number,,25 years and older,Sexual exploitation,164.0
+2015,Number,,25 years and older,Sexual exploitation,98.0
+2016,Number,,25 years and older,Sexual exploitation,142.0
+2017,Number,,25 years and older,Sexual exploitation,149.0
+2010,Number,,Unknown age,Sexual exploitation,8.0
+2011,Number,,Unknown age,Sexual exploitation,13.0
+2012,Number,,Unknown age,Sexual exploitation,10.0
+2013,Number,,Unknown age,Sexual exploitation,10.0
+2014,Number,,Unknown age,Sexual exploitation,12.0
+2015,Number,,Unknown age,Sexual exploitation,25.0
+2016,Number,,Unknown age,Sexual exploitation,23.0
+2017,Number,,Unknown age,Sexual exploitation,11.0
