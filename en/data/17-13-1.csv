@@ -99,16 +99,16 @@ Year,Units,Time series,Value
 2017,2015 = 100,Labour productivity per hour worked by persons employed,103.1
 2018,2015 = 100,Labour productivity per hour worked by persons employed,103.1
 2019,2015 = 100,Labour productivity per hour worked by persons employed,103.1
-2010,Number in thousands,Persons employed,41048.0
-2011,Number in thousands,Persons employed,41544.0
-2012,Number in thousands,Persons employed,42019.0
-2013,Number in thousands,Persons employed,42350.0
-2014,Number in thousands,Persons employed,42721.0
-2015,Number in thousands,Persons employed,43122.0
-2016,Number in thousands,Persons employed,43661.0
-2017,Number in thousands,Persons employed,44262.0
-2018,Number in thousands,Persons employed,44868.0
-2019,Number in thousands,Persons employed,45269.0
+2010,"1,000",Persons employed,41048.0
+2011,"1,000",Persons employed,41544.0
+2012,"1,000",Persons employed,42019.0
+2013,"1,000",Persons employed,42350.0
+2014,"1,000",Persons employed,42721.0
+2015,"1,000",Persons employed,43122.0
+2016,"1,000",Persons employed,43661.0
+2017,"1,000",Persons employed,44262.0
+2018,"1,000",Persons employed,44868.0
+2019,"1,000",Persons employed,45269.0
 2010,2015 = 100,Real GDP per capita,93.6
 2011,2015 = 100,Real GDP per capita,97.3
 2012,2015 = 100,Real GDP per capita,97.5
