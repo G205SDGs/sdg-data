@@ -1,85 +1,100 @@
 Year,Units,Zeitreihe,Verkehrsträger,Value
-2010,Millionen Personenkilometer,Personenverkehr,,1117240
-2011,Millionen Personenkilometer,Personenverkehr,,1131004
-2012,Millionen Personenkilometer,Personenverkehr,,1135558
-2013,Millionen Personenkilometer,Personenverkehr,,1144212
-2014,Millionen Personenkilometer,Personenverkehr,,1162858
-2015,Millionen Personenkilometer,Personenverkehr,,1180505
-2016,Millionen Personenkilometer,Personenverkehr,,1204690
-2010,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,78092
-2011,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,77957
-2012,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,76019
-2013,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,76885
-2014,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,78786
-2015,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,81771
-2016,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,81094
-2010,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,83886
-2011,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,85414
-2012,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,88796
-2013,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,89613
-2014,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,90976
-2015,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,91709
-2016,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,94197
-2010,Millionen Personenkilometer,Personenverkehr,Luftverkehr,52822
-2011,Millionen Personenkilometer,Personenverkehr,Luftverkehr,55216
-2012,Millionen Personenkilometer,Personenverkehr,Luftverkehr,56180
-2013,Millionen Personenkilometer,Personenverkehr,Luftverkehr,56294
-2014,Millionen Personenkilometer,Personenverkehr,Luftverkehr,58136
-2015,Millionen Personenkilometer,Personenverkehr,Luftverkehr,61295
-2016,Millionen Personenkilometer,Personenverkehr,Luftverkehr,63939
-2017,Millionen Personenkilometer,Personenverkehr,Luftverkehr,67523
-2010,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,902440
-2011,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,912417
-2012,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,914563
-2013,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,921420
-2014,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,934960
-2015,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,945730
-2016,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,965460
-2010,Millionen Tonnenkilometer,Güterverkehr,,627857
-2011,Millionen Tonnenkilometer,Güterverkehr,,627966
-2012,Millionen Tonnenkilometer,Güterverkehr,,618911
-2013,Millionen Tonnenkilometer,Güterverkehr,,636011
-2014,Millionen Tonnenkilometer,Güterverkehr,,643567
-2015,Millionen Tonnenkilometer,Güterverkehr,,651928
-2016,Millionen Tonnenkilometer,Güterverkehr,,666923
-2010,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,440600
-2011,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,442635
-2012,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,431999
-2013,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,443681
-2014,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,452939
-2015,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,460200
-2016,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,464000
-2010,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,107292
-2011,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,113201
-2012,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,110797
-2013,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,112670
-2014,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,112553
-2015,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,117252
-2016,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,128296
-2017,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,129361
-2010,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,62278
-2011,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,55027
-2012,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,58488
-2013,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,60070
-2014,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,59093
-2015,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,55315
-2016,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,54347
-2017,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,55518
-2018,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,46900
-2010,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1428
-2011,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1480
-2012,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1420
-2013,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1410
-2014,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1441
-2015,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1447
-2016,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1519
-2017,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1617
-2010,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,16259
-2011,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,15623
-2012,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,16207
-2013,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,18180
-2014,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,17541
-2015,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,17714
-2016,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,18761
-2017,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,18239
-2018,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,17225
+2010,Millionen Personenkilometer,Personenverkehr,,1117240.0
+2011,Millionen Personenkilometer,Personenverkehr,,1131004.0
+2012,Millionen Personenkilometer,Personenverkehr,,1135558.0
+2013,Millionen Personenkilometer,Personenverkehr,,1144212.0
+2014,Millionen Personenkilometer,Personenverkehr,,1162858.0
+2015,Millionen Personenkilometer,Personenverkehr,,1180505.0
+2016,Millionen Personenkilometer,Personenverkehr,,1204690.0
+2017,Millionen Personenkilometer,Personenverkehr,,
+2018,Millionen Personenkilometer,Personenverkehr,,
+2010,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,78092.0
+2011,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,77957.0
+2012,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,76019.0
+2013,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,76885.0
+2014,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,78786.0
+2015,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,81771.0
+2016,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,81094.0
+2017,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,
+2018,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,
+2010,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,83886.0
+2011,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,85414.0
+2012,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,88796.0
+2013,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,89613.0
+2014,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,90976.0
+2015,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,91709.0
+2016,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,94197.0
+2017,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,
+2018,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,
+2010,Millionen Personenkilometer,Personenverkehr,Luftverkehr,52822.0
+2011,Millionen Personenkilometer,Personenverkehr,Luftverkehr,55216.0
+2012,Millionen Personenkilometer,Personenverkehr,Luftverkehr,56180.0
+2013,Millionen Personenkilometer,Personenverkehr,Luftverkehr,56294.0
+2014,Millionen Personenkilometer,Personenverkehr,Luftverkehr,58136.0
+2015,Millionen Personenkilometer,Personenverkehr,Luftverkehr,61295.0
+2016,Millionen Personenkilometer,Personenverkehr,Luftverkehr,63939.0
+2017,Millionen Personenkilometer,Personenverkehr,Luftverkehr,67523.0
+2018,Millionen Personenkilometer,Personenverkehr,Luftverkehr,
+2010,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,902440.0
+2011,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,912417.0
+2012,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,914563.0
+2013,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,921420.0
+2014,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,934960.0
+2015,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,945730.0
+2016,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,965460.0
+2017,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,
+2018,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,
+2010,Millionen Tonnenkilometer,Güterverkehr,,627857.0
+2011,Millionen Tonnenkilometer,Güterverkehr,,627966.0
+2012,Millionen Tonnenkilometer,Güterverkehr,,618911.0
+2013,Millionen Tonnenkilometer,Güterverkehr,,636011.0
+2014,Millionen Tonnenkilometer,Güterverkehr,,643567.0
+2015,Millionen Tonnenkilometer,Güterverkehr,,651928.0
+2016,Millionen Tonnenkilometer,Güterverkehr,,666923.0
+2017,Millionen Tonnenkilometer,Güterverkehr,,
+2018,Millionen Tonnenkilometer,Güterverkehr,,
+2010,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,440600.0
+2011,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,442635.0
+2012,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,431999.0
+2013,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,443681.0
+2014,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,452939.0
+2015,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,460200.0
+2016,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,464000.0
+2017,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,
+2018,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,
+2010,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,107292.0
+2011,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,113201.0
+2012,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,110797.0
+2013,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,112670.0
+2014,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,112553.0
+2015,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,117252.0
+2016,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,128296.0
+2017,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,129361.0
+2018,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,
+2010,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,62278.0
+2011,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,55027.0
+2012,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,58488.0
+2013,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,60070.0
+2014,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,59093.0
+2015,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,55315.0
+2016,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,54347.0
+2017,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,55518.0
+2018,Millionen Tonnenkilometer,Güterverkehr,Binnenschifffahrt,46900.0
+2010,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1428.0
+2011,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1480.0
+2012,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1420.0
+2013,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1410.0
+2014,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1441.0
+2015,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1447.0
+2016,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1519.0
+2017,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,1617.0
+2018,Millionen Tonnenkilometer,Güterverkehr,Luftverkehr,
+2010,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,16259.0
+2011,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,15623.0
+2012,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,16207.0
+2013,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,18180.0
+2014,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,17541.0
+2015,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,17714.0
+2016,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,18761.0
+2017,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,18239.0
+2018,Millionen Tonnenkilometer,Güterverkehr,Rohrfernleitungen: Rohöl,17225.0

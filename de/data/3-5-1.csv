@@ -1,50 +1,65 @@
 Year,Substanz,Geschlecht,Value
-2010,Drogen,,37107
-2011,Drogen,,36848
-2012,Drogen,,36166
-2013,Drogen,,40556
-2014,Drogen,,49795
-2015,Drogen,,51919
-2016,Drogen,,52621
-2017,Drogen,,51806
-2010,Drogen,Weiblich,10451
-2011,Drogen,Weiblich,10607
-2012,Drogen,Weiblich,10600
-2013,Drogen,Weiblich,11290
-2014,Drogen,Weiblich,13280
-2015,Drogen,Weiblich,13230
-2016,Drogen,Weiblich,13303
-2017,Drogen,Weiblich,12881
-2010,Drogen,Männlich,26656
-2011,Drogen,Männlich,26241
-2012,Drogen,Männlich,25566
-2013,Drogen,Männlich,29266
-2014,Drogen,Männlich,36515
-2015,Drogen,Männlich,38689
-2016,Drogen,Männlich,39318
-2017,Drogen,Männlich,38925
-2010,Alkohol und andere psychoaktive Substanzen,,191512
-2011,Alkohol und andere psychoaktive Substanzen,,192159
-2012,Alkohol und andere psychoaktive Substanzen,,195976
-2013,Alkohol und andere psychoaktive Substanzen,,194412
-2014,Alkohol und andere psychoaktive Substanzen,,185305
-2015,Alkohol und andere psychoaktive Substanzen,,176185
-2016,Alkohol und andere psychoaktive Substanzen,,170467
-2017,Alkohol und andere psychoaktive Substanzen,,165834
-2010,Alkohol und andere psychoaktive Substanzen,Weiblich,49139
-2011,Alkohol und andere psychoaktive Substanzen,Weiblich,50796
-2012,Alkohol und andere psychoaktive Substanzen,Weiblich,52487
-2013,Alkohol und andere psychoaktive Substanzen,Weiblich,51211
-2014,Alkohol und andere psychoaktive Substanzen,Weiblich,49460
-2015,Alkohol und andere psychoaktive Substanzen,Weiblich,46377
-2016,Alkohol und andere psychoaktive Substanzen,Weiblich,44589
-2017,Alkohol und andere psychoaktive Substanzen,Weiblich,43574
-2010,Alkohol und andere psychoaktive Substanzen,Männlich,142373
-2011,Alkohol und andere psychoaktive Substanzen,Männlich,141363
-2012,Alkohol und andere psychoaktive Substanzen,Männlich,143488
-2013,Alkohol und andere psychoaktive Substanzen,Männlich,143201
-2014,Alkohol und andere psychoaktive Substanzen,Männlich,135845
-2015,Alkohol und andere psychoaktive Substanzen,Männlich,129808
-2016,Alkohol und andere psychoaktive Substanzen,Männlich,125878
-2017,Alkohol und andere psychoaktive Substanzen,Männlich,122260
-2012,Alkohol und andere psychoaktive Substanzen,Unbekannt,1
+2010,Drogen,,37107.0
+2011,Drogen,,36848.0
+2012,Drogen,,36166.0
+2013,Drogen,,40556.0
+2014,Drogen,,49795.0
+2015,Drogen,,51919.0
+2016,Drogen,,52621.0
+2017,Drogen,,51806.0
+2010,Drogen,Weiblich,10451.0
+2011,Drogen,Weiblich,10607.0
+2012,Drogen,Weiblich,10600.0
+2013,Drogen,Weiblich,11290.0
+2014,Drogen,Weiblich,13280.0
+2015,Drogen,Weiblich,13230.0
+2016,Drogen,Weiblich,13303.0
+2017,Drogen,Weiblich,12881.0
+2010,Drogen,Männlich,26656.0
+2011,Drogen,Männlich,26241.0
+2012,Drogen,Männlich,25566.0
+2013,Drogen,Männlich,29266.0
+2014,Drogen,Männlich,36515.0
+2015,Drogen,Männlich,38689.0
+2016,Drogen,Männlich,39318.0
+2017,Drogen,Männlich,38925.0
+2010,Drogen,Unbekannt,
+2011,Drogen,Unbekannt,
+2012,Drogen,Unbekannt,
+2013,Drogen,Unbekannt,
+2014,Drogen,Unbekannt,
+2015,Drogen,Unbekannt,
+2016,Drogen,Unbekannt,
+2017,Drogen,Unbekannt,
+2010,Alkohol und andere psychoaktive Substanzen,,191512.0
+2011,Alkohol und andere psychoaktive Substanzen,,192159.0
+2012,Alkohol und andere psychoaktive Substanzen,,195976.0
+2013,Alkohol und andere psychoaktive Substanzen,,194412.0
+2014,Alkohol und andere psychoaktive Substanzen,,185305.0
+2015,Alkohol und andere psychoaktive Substanzen,,176185.0
+2016,Alkohol und andere psychoaktive Substanzen,,170467.0
+2017,Alkohol und andere psychoaktive Substanzen,,165834.0
+2010,Alkohol und andere psychoaktive Substanzen,Weiblich,49139.0
+2011,Alkohol und andere psychoaktive Substanzen,Weiblich,50796.0
+2012,Alkohol und andere psychoaktive Substanzen,Weiblich,52487.0
+2013,Alkohol und andere psychoaktive Substanzen,Weiblich,51211.0
+2014,Alkohol und andere psychoaktive Substanzen,Weiblich,49460.0
+2015,Alkohol und andere psychoaktive Substanzen,Weiblich,46377.0
+2016,Alkohol und andere psychoaktive Substanzen,Weiblich,44589.0
+2017,Alkohol und andere psychoaktive Substanzen,Weiblich,43574.0
+2010,Alkohol und andere psychoaktive Substanzen,Männlich,142373.0
+2011,Alkohol und andere psychoaktive Substanzen,Männlich,141363.0
+2012,Alkohol und andere psychoaktive Substanzen,Männlich,143488.0
+2013,Alkohol und andere psychoaktive Substanzen,Männlich,143201.0
+2014,Alkohol und andere psychoaktive Substanzen,Männlich,135845.0
+2015,Alkohol und andere psychoaktive Substanzen,Männlich,129808.0
+2016,Alkohol und andere psychoaktive Substanzen,Männlich,125878.0
+2017,Alkohol und andere psychoaktive Substanzen,Männlich,122260.0
+2010,Alkohol und andere psychoaktive Substanzen,Unbekannt,
+2011,Alkohol und andere psychoaktive Substanzen,Unbekannt,
+2012,Alkohol und andere psychoaktive Substanzen,Unbekannt,1.0
+2013,Alkohol und andere psychoaktive Substanzen,Unbekannt,
+2014,Alkohol und andere psychoaktive Substanzen,Unbekannt,
+2015,Alkohol und andere psychoaktive Substanzen,Unbekannt,
+2016,Alkohol und andere psychoaktive Substanzen,Unbekannt,
+2017,Alkohol und andere psychoaktive Substanzen,Unbekannt,

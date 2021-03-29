@@ -15,6 +15,8 @@ Year,Region,GeoCode,Value
 2014,Baden-Wuerttemberg,code08,4.91
 2015,Baden-Wuerttemberg,code08,4.94
 2016,Baden-Wuerttemberg,code08,4.92
+2017,Baden-Wuerttemberg,code08,
+2018,Baden-Wuerttemberg,code08,
 2010,Bavaria,code09,3.03
 2011,Bavaria,code09,3.0
 2012,Bavaria,code09,3.1
@@ -22,6 +24,8 @@ Year,Region,GeoCode,Value
 2014,Bavaria,code09,3.17
 2015,Bavaria,code09,3.17
 2016,Bavaria,code09,3.17
+2017,Bavaria,code09,
+2018,Bavaria,code09,
 2010,Berlin,code11,3.43
 2011,Berlin,code11,3.34
 2012,Berlin,code11,3.43
@@ -29,6 +33,8 @@ Year,Region,GeoCode,Value
 2014,Berlin,code11,3.65
 2015,Berlin,code11,3.56
 2016,Berlin,code11,3.49
+2017,Berlin,code11,
+2018,Berlin,code11,
 2010,Brandenburg,code12,1.42
 2011,Brandenburg,code12,1.65
 2012,Brandenburg,code12,1.65
@@ -36,6 +42,8 @@ Year,Region,GeoCode,Value
 2014,Brandenburg,code12,1.58
 2015,Brandenburg,code12,1.65
 2016,Brandenburg,code12,1.73
+2017,Brandenburg,code12,
+2018,Brandenburg,code12,
 2010,Bremen,code04,2.64
 2011,Bremen,code04,2.72
 2012,Bremen,code04,2.62
@@ -43,6 +51,8 @@ Year,Region,GeoCode,Value
 2014,Bremen,code04,2.85
 2015,Bremen,code04,2.8
 2016,Bremen,code04,2.84
+2017,Bremen,code04,
+2018,Bremen,code04,
 2010,Hamburg,code02,2.09
 2011,Hamburg,code02,2.19
 2012,Hamburg,code02,2.24
@@ -50,6 +60,8 @@ Year,Region,GeoCode,Value
 2014,Hamburg,code02,2.35
 2015,Hamburg,code02,2.24
 2016,Hamburg,code02,2.22
+2017,Hamburg,code02,
+2018,Hamburg,code02,
 2010,Hesse,code06,2.98
 2011,Hesse,code06,2.9
 2012,Hesse,code06,3.01
@@ -57,6 +69,8 @@ Year,Region,GeoCode,Value
 2014,Hesse,code06,2.88
 2015,Hesse,code06,2.82
 2016,Hesse,code06,2.88
+2017,Hesse,code06,
+2018,Hesse,code06,
 2010,Mecklenburg Western Pomerania,code13,1.97
 2011,Mecklenburg Western Pomerania,code13,2.05
 2012,Mecklenburg Western Pomerania,code13,2.1
@@ -64,6 +78,8 @@ Year,Region,GeoCode,Value
 2014,Mecklenburg Western Pomerania,code13,1.88
 2015,Mecklenburg Western Pomerania,code13,1.87
 2016,Mecklenburg Western Pomerania,code13,1.85
+2017,Mecklenburg Western Pomerania,code13,
+2018,Mecklenburg Western Pomerania,code13,
 2010,Lower Saxony,code03,2.57
 2011,Lower Saxony,code03,2.74
 2012,Lower Saxony,code03,2.79
@@ -71,6 +87,8 @@ Year,Region,GeoCode,Value
 2014,Lower Saxony,code03,2.91
 2015,Lower Saxony,code03,3.45
 2016,Lower Saxony,code03,3.31
+2017,Lower Saxony,code03,
+2018,Lower Saxony,code03,
 2010,North Rhine-Westphalia,code05,1.94
 2011,North Rhine-Westphalia,code05,1.96
 2012,North Rhine-Westphalia,code05,2.04
@@ -78,6 +96,8 @@ Year,Region,GeoCode,Value
 2014,North Rhine-Westphalia,code05,1.99
 2015,North Rhine-Westphalia,code05,1.96
 2016,North Rhine-Westphalia,code05,1.98
+2017,North Rhine-Westphalia,code05,
+2018,North Rhine-Westphalia,code05,
 2010,Rhineland Palatinate,code07,2.01
 2011,Rhineland Palatinate,code07,2.0
 2012,Rhineland Palatinate,code07,2.01
@@ -85,6 +105,8 @@ Year,Region,GeoCode,Value
 2014,Rhineland Palatinate,code07,2.14
 2015,Rhineland Palatinate,code07,2.35
 2016,Rhineland Palatinate,code07,2.44
+2017,Rhineland Palatinate,code07,
+2018,Rhineland Palatinate,code07,
 2010,Saarland,code10,1.29
 2011,Saarland,code10,1.47
 2012,Saarland,code10,1.46
@@ -92,6 +114,8 @@ Year,Region,GeoCode,Value
 2014,Saarland,code10,1.42
 2015,Saarland,code10,1.54
 2016,Saarland,code10,1.55
+2017,Saarland,code10,
+2018,Saarland,code10,
 2010,Saxony,code14,2.78
 2011,Saxony,code14,2.8
 2012,Saxony,code14,2.8
@@ -99,6 +123,8 @@ Year,Region,GeoCode,Value
 2014,Saxony,code14,2.67
 2015,Saxony,code14,2.73
 2016,Saxony,code14,2.71
+2017,Saxony,code14,
+2018,Saxony,code14,
 2010,Saxony-Anhalt,code15,1.4
 2011,Saxony-Anhalt,code15,4.48
 2012,Saxony-Anhalt,code15,1.4
@@ -106,6 +132,8 @@ Year,Region,GeoCode,Value
 2014,Saxony-Anhalt,code15,1.46
 2015,Saxony-Anhalt,code15,1.4
 2016,Saxony-Anhalt,code15,1.46
+2017,Saxony-Anhalt,code15,
+2018,Saxony-Anhalt,code15,
 2010,Schleswig-Holstein,code01,1.3
 2011,Schleswig-Holstein,code01,1.41
 2012,Schleswig-Holstein,code01,1.43
@@ -113,6 +141,8 @@ Year,Region,GeoCode,Value
 2014,Schleswig-Holstein,code01,1.53
 2015,Schleswig-Holstein,code01,1.47
 2016,Schleswig-Holstein,code01,1.49
+2017,Schleswig-Holstein,code01,
+2018,Schleswig-Holstein,code01,
 2010,Thuringia,code16,2.16
 2011,Thuringia,code16,2.12
 2012,Thuringia,code16,2.19
@@ -120,3 +150,5 @@ Year,Region,GeoCode,Value
 2014,Thuringia,code16,2.13
 2015,Thuringia,code16,2.01
 2016,Thuringia,code16,2.05
+2017,Thuringia,code16,
+2018,Thuringia,code16,
