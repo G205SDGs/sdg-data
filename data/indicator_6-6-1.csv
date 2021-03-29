@@ -1,6 +1,27 @@
 Year,timeseries,type of water body,Value
+2010,sub-indicator 1: spatial extent of water-related ecosystems,,
+2011,sub-indicator 1: spatial extent of water-related ecosystems,,
+2012,sub-indicator 1: spatial extent of water-related ecosystems,,
+2013,sub-indicator 1: spatial extent of water-related ecosystems,,
+2014,sub-indicator 1: spatial extent of water-related ecosystems,,
+2015,sub-indicator 1: spatial extent of water-related ecosystems,,
+2016,sub-indicator 1: spatial extent of water-related ecosystems,,
 2017,sub-indicator 1: spatial extent of water-related ecosystems,,-0.1
+2010,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
+2011,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
+2012,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
+2013,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
+2014,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
+2015,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
+2016,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
 2017,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,-0.7
+2010,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
+2011,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
+2012,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
+2013,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
+2014,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
+2015,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
+2016,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
 2017,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,0.5
 2010,sub-indicator 3:  quantity discharge of water in rivers,,3.4
 2011,sub-indicator 3:  quantity discharge of water in rivers,,-1.1
@@ -10,6 +31,27 @@ Year,timeseries,type of water body,Value
 2015,sub-indicator 3:  quantity discharge of water in rivers,,-4.7
 2016,sub-indicator 3:  quantity discharge of water in rivers,,0.7
 2017,sub-indicator 3:  quantity discharge of water in rivers,,-2.6
+2010,sub-indicator 4: water bodies with good quality,,
+2011,sub-indicator 4: water bodies with good quality,,
+2012,sub-indicator 4: water bodies with good quality,,
+2013,sub-indicator 4: water bodies with good quality,,
 2014,sub-indicator 4: water bodies with good quality,,38.99
+2015,sub-indicator 4: water bodies with good quality,,
+2016,sub-indicator 4: water bodies with good quality,,
+2017,sub-indicator 4: water bodies with good quality,,
+2010,sub-indicator 4: water bodies with good quality,river water bodies,
+2011,sub-indicator 4: water bodies with good quality,river water bodies,
+2012,sub-indicator 4: water bodies with good quality,river water bodies,
+2013,sub-indicator 4: water bodies with good quality,river water bodies,
 2014,sub-indicator 4: water bodies with good quality,river water bodies,35.08
+2015,sub-indicator 4: water bodies with good quality,river water bodies,
+2016,sub-indicator 4: water bodies with good quality,river water bodies,
+2017,sub-indicator 4: water bodies with good quality,river water bodies,
+2010,sub-indicator 4: water bodies with good quality,open water bodies,
+2011,sub-indicator 4: water bodies with good quality,open water bodies,
+2012,sub-indicator 4: water bodies with good quality,open water bodies,
+2013,sub-indicator 4: water bodies with good quality,open water bodies,
 2014,sub-indicator 4: water bodies with good quality,open water bodies,72.41
+2015,sub-indicator 4: water bodies with good quality,open water bodies,
+2016,sub-indicator 4: water bodies with good quality,open water bodies,
+2017,sub-indicator 4: water bodies with good quality,open water bodies,

@@ -1,6 +1,15 @@
 Year,Units,timeseries,sex,region,GeoCode,Value
+2010,eur/h,average hourly earnings of employees,,,,
+2011,eur/h,average hourly earnings of employees,,,,
+2012,eur/h,average hourly earnings of employees,,,,
+2013,eur/h,average hourly earnings of employees,,,,
 2014,eur/h,average hourly earnings of employees,,,,17.78
+2015,eur/h,average hourly earnings of employees,,,,
+2016,eur/h,average hourly earnings of employees,,,,
+2017,eur/h,average hourly earnings of employees,,,,
 2018,eur/h,average hourly earnings of employees,,,,19.66
+2019,eur/h,average hourly earnings of employees,,,,
+2020,eur/h,average hourly earnings of employees,,,,
 2010,eur/h,average hourly earnings of employees,female,,,14.62
 2011,eur/h,average hourly earnings of employees,female,,,14.88
 2012,eur/h,average hourly earnings of employees,female,,,15.18
@@ -11,6 +20,7 @@ Year,Units,timeseries,sex,region,GeoCode,Value
 2017,eur/h,average hourly earnings of employees,female,,,16.66
 2018,eur/h,average hourly earnings of employees,female,,,17.33
 2019,eur/h,average hourly earnings of employees,female,,,17.98
+2020,eur/h,average hourly earnings of employees,female,,,
 2010,eur/h,average hourly earnings of employees,male,,,18.81
 2011,eur/h,average hourly earnings of employees,male,,,19.17
 2012,eur/h,average hourly earnings of employees,male,,,19.63
@@ -21,6 +31,7 @@ Year,Units,timeseries,sex,region,GeoCode,Value
 2017,eur/h,average hourly earnings of employees,male,,,20.94
 2018,eur/h,average hourly earnings of employees,male,,,21.70
 2019,eur/h,average hourly earnings of employees,male,,,22.26
+2020,eur/h,average hourly earnings of employees,male,,,
 2010,%,gender pay gap,,,,22
 2011,%,gender pay gap,,,,22
 2012,%,gender pay gap,,,,23
@@ -37,9 +48,12 @@ Year,Units,timeseries,sex,region,GeoCode,Value
 2012,%,gender pay gap,,baden-wuerttemberg,code08,27
 2013,%,gender pay gap,,baden-wuerttemberg,code08,27
 2014,%,gender pay gap,,baden-wuerttemberg,code08,27
-2015,%,gender pay gap,,baden-wuerttemberg,code08,27
-2016,%,gender pay gap,,baden-wuerttemberg,code08,27
-2017,%,gender pay gap,,baden-wuerttemberg,code08,27
+2015,%,gender pay gap,,baden-wuerttemberg,code08,26
+2016,%,gender pay gap,,baden-wuerttemberg,code08,26
+2017,%,gender pay gap,,baden-wuerttemberg,code08,25
+2018,%,gender pay gap,,baden-wuerttemberg,code08,24
+2019,%,gender pay gap,,baden-wuerttemberg,code08,23
+2020,%,gender pay gap,,baden-wuerttemberg,code08,23
 2010,%,gender pay gap,,bavaria,code09,26
 2011,%,gender pay gap,,bavaria,code09,25
 2012,%,gender pay gap,,bavaria,code09,25
@@ -48,46 +62,64 @@ Year,Units,timeseries,sex,region,GeoCode,Value
 2015,%,gender pay gap,,bavaria,code09,24
 2016,%,gender pay gap,,bavaria,code09,24
 2017,%,gender pay gap,,bavaria,code09,24
+2018,%,gender pay gap,,bavaria,code09,24
+2019,%,gender pay gap,,bavaria,code09,23
+2020,%,gender pay gap,,bavaria,code09,22
 2010,%,gender pay gap,,berlin,code11,14
 2011,%,gender pay gap,,berlin,code11,15
 2012,%,gender pay gap,,berlin,code11,15
 2013,%,gender pay gap,,berlin,code11,14
 2014,%,gender pay gap,,berlin,code11,14
-2015,%,gender pay gap,,berlin,code11,15
-2016,%,gender pay gap,,berlin,code11,14
-2017,%,gender pay gap,,berlin,code11,13
+2015,%,gender pay gap,,berlin,code11,14
+2016,%,gender pay gap,,berlin,code11,12
+2017,%,gender pay gap,,berlin,code11,10
+2018,%,gender pay gap,,berlin,code11,10
+2019,%,gender pay gap,,berlin,code11,10
+2020,%,gender pay gap,,berlin,code11,10
 2010,%,gender pay gap,,brandenburg,code12,7
 2011,%,gender pay gap,,brandenburg,code12,6
 2012,%,gender pay gap,,brandenburg,code12,7
 2013,%,gender pay gap,,brandenburg,code12,5
 2014,%,gender pay gap,,brandenburg,code12,7
-2015,%,gender pay gap,,brandenburg,code12,4
-2016,%,gender pay gap,,brandenburg,code12,4
-2017,%,gender pay gap,,brandenburg,code12,3
+2015,%,gender pay gap,,brandenburg,code12,5
+2016,%,gender pay gap,,brandenburg,code12,6
+2017,%,gender pay gap,,brandenburg,code12,6
+2018,%,gender pay gap,,brandenburg,code12,6
+2019,%,gender pay gap,,brandenburg,code12,7
+2020,%,gender pay gap,,brandenburg,code12,6
 2010,%,gender pay gap,,bremen,code04,24
 2011,%,gender pay gap,,bremen,code04,24
 2012,%,gender pay gap,,bremen,code04,27
 2013,%,gender pay gap,,bremen,code04,25
 2014,%,gender pay gap,,bremen,code04,25
-2015,%,gender pay gap,,bremen,code04,24
-2016,%,gender pay gap,,bremen,code04,23
-2017,%,gender pay gap,,bremen,code04,23
+2015,%,gender pay gap,,bremen,code04,25
+2016,%,gender pay gap,,bremen,code04,24
+2017,%,gender pay gap,,bremen,code04,24
+2018,%,gender pay gap,,bremen,code04,23
+2019,%,gender pay gap,,bremen,code04,25
+2020,%,gender pay gap,,bremen,code04,22
 2010,%,gender pay gap,,hamburg,code02,23
 2011,%,gender pay gap,,hamburg,code02,22
 2012,%,gender pay gap,,hamburg,code02,24
 2013,%,gender pay gap,,hamburg,code02,23
 2014,%,gender pay gap,,hamburg,code02,22
-2015,%,gender pay gap,,hamburg,code02,21
-2016,%,gender pay gap,,hamburg,code02,20
-2017,%,gender pay gap,,hamburg,code02,20
+2015,%,gender pay gap,,hamburg,code02,22
+2016,%,gender pay gap,,hamburg,code02,21
+2017,%,gender pay gap,,hamburg,code02,21
+2018,%,gender pay gap,,hamburg,code02,21
+2019,%,gender pay gap,,hamburg,code02,21
+2020,%,gender pay gap,,hamburg,code02,21
 2010,%,gender pay gap,,hesse,code06,25
 2011,%,gender pay gap,,hesse,code06,25
 2012,%,gender pay gap,,hesse,code06,24
 2013,%,gender pay gap,,hesse,code06,23
 2014,%,gender pay gap,,hesse,code06,24
-2015,%,gender pay gap,,hesse,code06,25
-2016,%,gender pay gap,,hesse,code06,23
-2017,%,gender pay gap,,hesse,code06,24
+2015,%,gender pay gap,,hesse,code06,23
+2016,%,gender pay gap,,hesse,code06,22
+2017,%,gender pay gap,,hesse,code06,22
+2018,%,gender pay gap,,hesse,code06,21
+2019,%,gender pay gap,,hesse,code06,19
+2020,%,gender pay gap,,hesse,code06,18
 2010,%,gender pay gap,,mecklenburg western pomerania,code13,4
 2011,%,gender pay gap,,mecklenburg western pomerania,code13,6
 2012,%,gender pay gap,,mecklenburg western pomerania,code13,7
@@ -95,15 +127,21 @@ Year,Units,timeseries,sex,region,GeoCode,Value
 2014,%,gender pay gap,,mecklenburg western pomerania,code13,8
 2015,%,gender pay gap,,mecklenburg western pomerania,code13,7
 2016,%,gender pay gap,,mecklenburg western pomerania,code13,6
-2017,%,gender pay gap,,mecklenburg western pomerania,code13,5
+2017,%,gender pay gap,,mecklenburg western pomerania,code13,6
+2018,%,gender pay gap,,mecklenburg western pomerania,code13,6
+2019,%,gender pay gap,,mecklenburg western pomerania,code13,6
+2020,%,gender pay gap,,mecklenburg western pomerania,code13,6
 2010,%,gender pay gap,,lower saxony,code03,22
 2011,%,gender pay gap,,lower saxony,code03,22
 2012,%,gender pay gap,,lower saxony,code03,21
 2013,%,gender pay gap,,lower saxony,code03,20
 2014,%,gender pay gap,,lower saxony,code03,22
-2015,%,gender pay gap,,lower saxony,code03,21
-2016,%,gender pay gap,,lower saxony,code03,20
-2017,%,gender pay gap,,lower saxony,code03,20
+2015,%,gender pay gap,,lower saxony,code03,22
+2016,%,gender pay gap,,lower saxony,code03,21
+2017,%,gender pay gap,,lower saxony,code03,21
+2018,%,gender pay gap,,lower saxony,code03,21
+2019,%,gender pay gap,,lower saxony,code03,21
+2020,%,gender pay gap,,lower saxony,code03,19
 2010,%,gender pay gap,,north rhine-westphalia,code05,23
 2011,%,gender pay gap,,north rhine-westphalia,code05,23
 2012,%,gender pay gap,,north rhine-westphalia,code05,24
@@ -111,15 +149,21 @@ Year,Units,timeseries,sex,region,GeoCode,Value
 2014,%,gender pay gap,,north rhine-westphalia,code05,23
 2015,%,gender pay gap,,north rhine-westphalia,code05,23
 2016,%,gender pay gap,,north rhine-westphalia,code05,22
-2017,%,gender pay gap,,north rhine-westphalia,code05,22
+2017,%,gender pay gap,,north rhine-westphalia,code05,21
+2018,%,gender pay gap,,north rhine-westphalia,code05,20
+2019,%,gender pay gap,,north rhine-westphalia,code05,19
+2020,%,gender pay gap,,north rhine-westphalia,code05,18
 2010,%,gender pay gap,,rhineland palatinate,code07,22
 2011,%,gender pay gap,,rhineland palatinate,code07,22
 2012,%,gender pay gap,,rhineland palatinate,code07,22
 2013,%,gender pay gap,,rhineland palatinate,code07,22
 2014,%,gender pay gap,,rhineland palatinate,code07,21
-2015,%,gender pay gap,,rhineland palatinate,code07,21
+2015,%,gender pay gap,,rhineland palatinate,code07,20
 2016,%,gender pay gap,,rhineland palatinate,code07,20
-2017,%,gender pay gap,,rhineland palatinate,code07,20
+2017,%,gender pay gap,,rhineland palatinate,code07,19
+2018,%,gender pay gap,,rhineland palatinate,code07,18
+2019,%,gender pay gap,,rhineland palatinate,code07,17
+2020,%,gender pay gap,,rhineland palatinate,code07,15
 2010,%,gender pay gap,,saarland,code10,25
 2011,%,gender pay gap,,saarland,code10,25
 2012,%,gender pay gap,,saarland,code10,25
@@ -127,36 +171,51 @@ Year,Units,timeseries,sex,region,GeoCode,Value
 2014,%,gender pay gap,,saarland,code10,23
 2015,%,gender pay gap,,saarland,code10,24
 2016,%,gender pay gap,,saarland,code10,24
-2017,%,gender pay gap,,saarland,code10,23
+2017,%,gender pay gap,,saarland,code10,24
+2018,%,gender pay gap,,saarland,code10,23
+2019,%,gender pay gap,,saarland,code10,22
+2020,%,gender pay gap,,saarland,code10,20
 2010,%,gender pay gap,,saxony,code14,9
 2011,%,gender pay gap,,saxony,code14,10
 2012,%,gender pay gap,,saxony,code14,11
 2013,%,gender pay gap,,saxony,code14,11
 2014,%,gender pay gap,,saxony,code14,11
 2015,%,gender pay gap,,saxony,code14,11
-2016,%,gender pay gap,,saxony,code14,11
-2017,%,gender pay gap,,saxony,code14,11
+2016,%,gender pay gap,,saxony,code14,10
+2017,%,gender pay gap,,saxony,code14,9
+2018,%,gender pay gap,,saxony,code14,8
+2019,%,gender pay gap,,saxony,code14,7
+2020,%,gender pay gap,,saxony,code14,7
 2010,%,gender pay gap,,saxony-anhalt,code15,4
 2011,%,gender pay gap,,saxony-anhalt,code15,5
 2012,%,gender pay gap,,saxony-anhalt,code15,5
 2013,%,gender pay gap,,saxony-anhalt,code15,4
 2014,%,gender pay gap,,saxony-anhalt,code15,5
-2015,%,gender pay gap,,saxony-anhalt,code15,2
-2016,%,gender pay gap,,saxony-anhalt,code15,2
-2017,%,gender pay gap,,saxony-anhalt,code15,2
+2015,%,gender pay gap,,saxony-anhalt,code15,4
+2016,%,gender pay gap,,saxony-anhalt,code15,4
+2017,%,gender pay gap,,saxony-anhalt,code15,6
+2018,%,gender pay gap,,saxony-anhalt,code15,8
+2019,%,gender pay gap,,saxony-anhalt,code15,7
+2020,%,gender pay gap,,saxony-anhalt,code15,8
 2010,%,gender pay gap,,schleswig-holstein,code01,18
 2011,%,gender pay gap,,schleswig-holstein,code01,17
 2012,%,gender pay gap,,schleswig-holstein,code01,18
 2013,%,gender pay gap,,schleswig-holstein,code01,18
 2014,%,gender pay gap,,schleswig-holstein,code01,17
-2015,%,gender pay gap,,schleswig-holstein,code01,17
-2016,%,gender pay gap,,schleswig-holstein,code01,17
-2017,%,gender pay gap,,schleswig-holstein,code01,15
+2015,%,gender pay gap,,schleswig-holstein,code01,16
+2016,%,gender pay gap,,schleswig-holstein,code01,16
+2017,%,gender pay gap,,schleswig-holstein,code01,14
+2018,%,gender pay gap,,schleswig-holstein,code01,14
+2019,%,gender pay gap,,schleswig-holstein,code01,13
+2020,%,gender pay gap,,schleswig-holstein,code01,13
 2010,%,gender pay gap,,thuringia,code16,6
 2011,%,gender pay gap,,thuringia,code16,7
 2012,%,gender pay gap,,thuringia,code16,8
 2013,%,gender pay gap,,thuringia,code16,9
 2014,%,gender pay gap,,thuringia,code16,8
-2015,%,gender pay gap,,thuringia,code16,10
-2016,%,gender pay gap,,thuringia,code16,9
-2017,%,gender pay gap,,thuringia,code16,8
+2015,%,gender pay gap,,thuringia,code16,9
+2016,%,gender pay gap,,thuringia,code16,7
+2017,%,gender pay gap,,thuringia,code16,6
+2018,%,gender pay gap,,thuringia,code16,6
+2019,%,gender pay gap,,thuringia,code16,6
+2020,%,gender pay gap,,thuringia,code16,5
