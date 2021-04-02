@@ -5,8 +5,8 @@ Year,Units,Zeitreihe,Verkehrsträger,Value
 2013,Millionen Personenkilometer,Personenverkehr,,1144212.0
 2014,Millionen Personenkilometer,Personenverkehr,,1162858.0
 2015,Millionen Personenkilometer,Personenverkehr,,1180505.0
-2016,Millionen Personenkilometer,Personenverkehr,,1204690.0
-2017,Millionen Personenkilometer,Personenverkehr,,
+2016,Millionen Personenkilometer,Personenverkehr,,1204879.0
+2017,Millionen Personenkilometer,Personenverkehr,,1193176.0
 2018,Millionen Personenkilometer,Personenverkehr,,
 2010,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,78092.0
 2011,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,77957.0
@@ -14,8 +14,8 @@ Year,Units,Zeitreihe,Verkehrsträger,Value
 2013,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,76885.0
 2014,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,78786.0
 2015,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,81771.0
-2016,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,81094.0
-2017,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,
+2016,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,81443.0
+2017,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,79724.0
 2018,Millionen Personenkilometer,Personenverkehr,Straßenverkehr,
 2010,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,83886.0
 2011,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,85414.0
@@ -24,7 +24,7 @@ Year,Units,Zeitreihe,Verkehrsträger,Value
 2014,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,90976.0
 2015,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,91709.0
 2016,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,94197.0
-2017,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,
+2017,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,95529.0
 2018,Millionen Personenkilometer,Personenverkehr,Eisenbahnverkehr,
 2010,Millionen Personenkilometer,Personenverkehr,Luftverkehr,52822.0
 2011,Millionen Personenkilometer,Personenverkehr,Luftverkehr,55216.0
@@ -41,33 +41,33 @@ Year,Units,Zeitreihe,Verkehrsträger,Value
 2013,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,921420.0
 2014,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,934960.0
 2015,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,945730.0
-2016,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,965460.0
-2017,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,
+2016,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,965300.0
+2017,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,950400.0
 2018,Millionen Personenkilometer,Personenverkehr,Motorisierter Individualverkehr,
-2010,Millionen Tonnenkilometer,Güterverkehr,,627857.0
-2011,Millionen Tonnenkilometer,Güterverkehr,,627966.0
-2012,Millionen Tonnenkilometer,Güterverkehr,,618911.0
-2013,Millionen Tonnenkilometer,Güterverkehr,,636011.0
-2014,Millionen Tonnenkilometer,Güterverkehr,,643567.0
-2015,Millionen Tonnenkilometer,Güterverkehr,,651928.0
-2016,Millionen Tonnenkilometer,Güterverkehr,,666923.0
-2017,Millionen Tonnenkilometer,Güterverkehr,,
+2010,Millionen Tonnenkilometer,Güterverkehr,,627882.0
+2011,Millionen Tonnenkilometer,Güterverkehr,,628083.0
+2012,Millionen Tonnenkilometer,Güterverkehr,,618179.0
+2013,Millionen Tonnenkilometer,Güterverkehr,,634974.0
+2014,Millionen Tonnenkilometer,Güterverkehr,,642604.0
+2015,Millionen Tonnenkilometer,Güterverkehr,,656708.0
+2016,Millionen Tonnenkilometer,Güterverkehr,,798487.0
+2017,Millionen Tonnenkilometer,Güterverkehr,,695736.0
 2018,Millionen Tonnenkilometer,Güterverkehr,,
 2010,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,440600.0
 2011,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,442635.0
 2012,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,431999.0
-2013,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,443681.0
-2014,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,452939.0
-2015,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,460200.0
-2016,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,464000.0
-2017,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,
+2013,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,442700.0
+2014,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,451900.0
+2015,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,465600.0
+2016,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,479400.0
+2017,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,491000.0
 2018,Millionen Tonnenkilometer,Güterverkehr,Straßenverkehr,
-2010,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,107292.0
-2011,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,113201.0
-2012,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,110797.0
-2013,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,112670.0
-2014,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,112553.0
-2015,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,117252.0
+2010,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,107317.0
+2011,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,113317.0
+2012,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,110065.0
+2013,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,112613.0
+2014,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,112629.0
+2015,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,116632.0
 2016,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,128296.0
 2017,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,129361.0
 2018,Millionen Tonnenkilometer,Güterverkehr,Eisenbahnverkehr,
