@@ -1,12 +1,13 @@
 Year,Units,timeseries,type of waste,Value
-2010,%,recycling rate,municipal waste,62.5
-2011,%,recycling rate,municipal waste,63.0
-2012,%,recycling rate,municipal waste,65.2
-2013,%,recycling rate,municipal waste,63.8
-2014,%,recycling rate,municipal waste,65.6
-2015,%,recycling rate,municipal waste,66.7
-2016,%,recycling rate,municipal waste,67.1
-2017,%,recycling rate,municipal waste,67.2
+2010,%,recycling rate,municipal waste,63
+2011,%,recycling rate,municipal waste,63
+2012,%,recycling rate,municipal waste,65
+2013,%,recycling rate,municipal waste,64
+2014,%,recycling rate,municipal waste,66
+2015,%,recycling rate,municipal waste,67
+2016,%,recycling rate,municipal waste,67
+2017,%,recycling rate,municipal waste,67
+2018,%,recycling rate,municipal waste,67
 2010,1 000 t,recycled waste,municipal waste,30774
 2011,1 000 t,recycled waste,municipal waste,31633
 2012,1 000 t,recycled waste,municipal waste,32460
@@ -15,14 +16,16 @@ Year,Units,timeseries,type of waste,Value
 2015,1 000 t,recycled waste,municipal waste,34453
 2016,1 000 t,recycled waste,municipal waste,34958
 2017,1 000 t,recycled waste,municipal waste,34783
-2010,%,recycling rate,total waste,69.0
-2011,%,recycling rate,total waste,69.1
-2012,%,recycling rate,total waste,69.7
-2013,%,recycling rate,total waste,68.8
-2014,%,recycling rate,total waste,68.9
-2015,%,recycling rate,total waste,68.3
-2016,%,recycling rate,total waste,69.9
-2017,%,recycling rate,total waste,69.1
+2018,1 000 t,recycled waste,municipal waste,33723
+2010,%,recycling rate,total waste,69
+2011,%,recycling rate,total waste,69
+2012,%,recycling rate,total waste,70
+2013,%,recycling rate,total waste,69
+2014,%,recycling rate,total waste,69
+2015,%,recycling rate,total waste,68
+2016,%,recycling rate,total waste,70
+2017,%,recycling rate,total waste,69
+2018,%,recycling rate,total waste,70
 2010,1 000 t,recycled waste,total waste,257350
 2011,1 000 t,recycled waste,total waste,267105
 2012,1 000 t,recycled waste,total waste,265363
@@ -31,3 +34,4 @@ Year,Units,timeseries,type of waste,Value
 2015,1 000 t,recycled waste,total waste,274619
 2016,1 000 t,recycled waste,total waste,287631
 2017,1 000 t,recycled waste,total waste,284847
+2018,1 000 t,recycled waste,total waste,290456
