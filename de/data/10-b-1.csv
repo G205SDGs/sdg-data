@@ -1,49 +1,61 @@
 Year,Art der Finanzströme,Value
-2010,,38279.57
-2011,,48694.43
-2012,,32046.44
-2013,,46532.85
-2014,,45664.13
-2015,,48113.81
-2016,,49198.57
-2017,,47838.14
-2010,Öffentliche Nettoentwicklungsausgaben (ODA),11938.38
-2011,Öffentliche Nettoentwicklungsausgaben (ODA),12210.31
-2012,Öffentliche Nettoentwicklungsausgaben (ODA),11944.21
-2013,Öffentliche Nettoentwicklungsausgaben (ODA),12469.48
-2014,Öffentliche Nettoentwicklungsausgaben (ODA),14272.37
-2015,Öffentliche Nettoentwicklungsausgaben (ODA),18123.69
-2016,Öffentliche Nettoentwicklungsausgaben (ODA),24735.69
-2017,Öffentliche Nettoentwicklungsausgaben (ODA),24157.03
-2010,Andere öffentliche Nettoleistungen (OOF),62.59
-2011,Andere öffentliche Nettoleistungen (OOF),-124.9
-2012,Andere öffentliche Nettoleistungen (OOF),-84.03
-2013,Andere öffentliche Nettoleistungen (OOF),-74.54
-2014,Andere öffentliche Nettoleistungen (OOF),131.98
-2015,Andere öffentliche Nettoleistungen (OOF),1338.22
-2016,Andere öffentliche Nettoleistungen (OOF),-458.1
-2017,Andere öffentliche Nettoleistungen (OOF),-344.48
-2010,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),3408.32
-2011,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),8905.46
-2012,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),5789.61
-2013,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),4750.81
-2014,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),-138.29
-2015,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),1885.25
-2016,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),3449.52
-2017,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),6.12
-2010,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),21524.43
-2011,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),26319.31
-2012,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),13105.2
-2013,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),28146.48
-2014,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),30085.27
-2015,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),25371.55
-2016,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),20047.81
-2017,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),22580.0
-2010,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1345.86
-2011,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1384.26
-2012,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1291.45
-2013,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1240.61
-2014,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1312.8
-2015,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1395.11
-2016,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1423.65
-2017,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1439.46
+2010,,41743.4
+2011,,53099.7
+2012,,34961.6
+2013,,50768.3
+2014,,49768.3
+2015,,52593.9
+2016,,53863.4
+2017,,57114.6
+2018,,51983.4
+2019,,43647.5
+2010,Öffentliche Nettoentwicklungsausgaben (ODA),13018.7
+2011,Öffentliche Nettoentwicklungsausgaben (ODA),13314.9
+2012,Öffentliche Nettoentwicklungsausgaben (ODA),13030.7
+2013,Öffentliche Nettoentwicklungsausgaben (ODA),13604.5
+2014,Öffentliche Nettoentwicklungsausgaben (ODA),15559.6
+2015,Öffentliche Nettoentwicklungsausgaben (ODA),19811.2
+2016,Öffentliche Nettoentwicklungsausgaben (ODA),27081.0
+2017,Öffentliche Nettoentwicklungsausgaben (ODA),26576.1
+2018,Öffentliche Nettoentwicklungsausgaben (ODA),25670.38
+2019,Öffentliche Nettoentwicklungsausgaben (ODA),24953.9
+2010,Andere öffentliche Nettoleistungen (OOF),68.3
+2011,Andere öffentliche Nettoleistungen (OOF),-136.2
+2012,Andere öffentliche Nettoleistungen (OOF),-91.7
+2013,Andere öffentliche Nettoleistungen (OOF),-81.3
+2014,Andere öffentliche Nettoleistungen (OOF),143.9
+2015,Andere öffentliche Nettoleistungen (OOF),1462.8
+2016,Andere öffentliche Nettoleistungen (OOF),-501.5
+2017,Andere öffentliche Nettoleistungen (OOF),-379.0
+2018,Andere öffentliche Nettoleistungen (OOF),-117.5
+2019,Andere öffentliche Nettoleistungen (OOF),14.2
+2010,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),3716.7
+2011,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),9711.1
+2012,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),6316.3
+2013,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),5183.2
+2014,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),-150.8
+2015,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),2060.8
+2016,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),3776.6
+2017,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),6.7
+2018,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),1388.4
+2019,Öffentlich unterstützte Exportkredite (Nettoauszahlungen),-2014.9
+2010,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),23472.1
+2011,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),28700.3
+2012,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),14297.3
+2013,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),30708.4
+2014,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),32798.7
+2015,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),27734.0
+2016,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),21948.7
+2017,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),29327.2
+2018,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),23679.1
+2019,Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),19113.9
+2010,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1467.6
+2011,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1509.5
+2012,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1408.9
+2013,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1353.5
+2014,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1431.2
+2015,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1525.0
+2016,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1558.6
+2017,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1583.6
+2018,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1363.0
+2019,Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),1580.4

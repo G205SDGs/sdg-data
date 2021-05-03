@@ -1,7 +1,9 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Zeitreihe,Ausgang des Antragsverfahrens,Value
+2016,Eingegangene Anträge,,61694
+2017,Eingegangene Anträge,,68538
+2016,Abschließend bearbeitete Anträge,,66220
+2017,Abschließend bearbeitete Anträge,,70423
+2016,Abschließend bearbeitete Anträge,Zulässige Anträge,53012
+2017,Abschließend bearbeitete Anträge,Zulässige Anträge,57413
+2016,Abschließend bearbeitete Anträge,Abgelehnte Anträge,13208
+2017,Abschließend bearbeitete Anträge,Abgelehnte Anträge,13010

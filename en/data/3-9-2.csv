@@ -8,6 +8,7 @@ Year,Type of disease,Value
 2016,a) Diarrhoea,5.7
 2017,a) Diarrhoea,5.4
 2018,a) Diarrhoea,5.1
+2019,a) Diarrhoea,4.2
 2010,b) Intestinal nematode infections,0.0
 2011,b) Intestinal nematode infections,0.0
 2012,b) Intestinal nematode infections,0.0
@@ -17,6 +18,7 @@ Year,Type of disease,Value
 2016,b) Intestinal nematode infections,0.0
 2017,b) Intestinal nematode infections,0.0
 2018,b) Intestinal nematode infections,0.0
+2019,b) Intestinal nematode infections,0.0
 2010,c) Protein-energy malnutrition,0.3
 2011,c) Protein-energy malnutrition,0.3
 2012,c) Protein-energy malnutrition,0.3
@@ -26,3 +28,4 @@ Year,Type of disease,Value
 2016,c) Protein-energy malnutrition,0.5
 2017,c) Protein-energy malnutrition,0.7
 2018,c) Protein-energy malnutrition,0.8
+2019,c) Protein-energy malnutrition,0.8

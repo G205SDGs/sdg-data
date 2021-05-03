@@ -7,6 +7,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Je 100 000 Einwohner,,,,0.57
 2016,Je 100 000 Einwohner,,,,0.65
 2017,Je 100 000 Einwohner,,,,0.81
+2018,Je 100 000 Einwohner,,,,0.81
+2019,Je 100 000 Einwohner,,,,0.78
 2010,Je 100 000 Einwohner,,,Ausbeutung der Arbeitskraft,0.05
 2011,Je 100 000 Einwohner,,,Ausbeutung der Arbeitskraft,0.04
 2012,Je 100 000 Einwohner,,,Ausbeutung der Arbeitskraft,0.02
@@ -15,6 +17,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Je 100 000 Einwohner,,,Ausbeutung der Arbeitskraft,0.07
 2016,Je 100 000 Einwohner,,,Ausbeutung der Arbeitskraft,0.06
 2017,Je 100 000 Einwohner,,,Ausbeutung der Arbeitskraft,0.22
+2018,Je 100 000 Einwohner,,,Ausbeutung der Arbeitskraft,0.08
+2019,Je 100 000 Einwohner,,,Ausbeutung der Arbeitskraft,0.05
 2010,Je 100 000 Einwohner,,,Sexuelle Ausbeutung,0.76
 2011,Je 100 000 Einwohner,,,Sexuelle Ausbeutung,0.8
 2012,Je 100 000 Einwohner,,,Sexuelle Ausbeutung,0.76
@@ -23,6 +27,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Je 100 000 Einwohner,,,Sexuelle Ausbeutung,0.51
 2016,Je 100 000 Einwohner,,,Sexuelle Ausbeutung,0.59
 2017,Je 100 000 Einwohner,,,Sexuelle Ausbeutung,0.59
+2018,Je 100 000 Einwohner,,,Sexuelle Ausbeutung,0.52
+2019,Je 100 000 Einwohner,,,Sexuelle Ausbeutung,0.51
 2010,Anzahl,,,,651.0
 2011,Anzahl,,,,672.0
 2012,Anzahl,,,,626.0
@@ -31,6 +37,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,,,,470.0
 2016,Anzahl,,,,536.0
 2017,Anzahl,,,,669.0
+2018,Anzahl,,,,675.0
+2019,Anzahl,,,,646.0
 2010,Anzahl,,,Ausbeutung der Arbeitskraft,41.0
 2011,Anzahl,,,Ausbeutung der Arbeitskraft,32.0
 2012,Anzahl,,,Ausbeutung der Arbeitskraft,14.0
@@ -39,6 +47,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,,,Ausbeutung der Arbeitskraft,54.0
 2016,Anzahl,,,Ausbeutung der Arbeitskraft,48.0
 2017,Anzahl,,,Ausbeutung der Arbeitskraft,180.0
+2018,Anzahl,,,Ausbeutung der Arbeitskraft,63.0
+2019,Anzahl,,,Ausbeutung der Arbeitskraft,43.0
 2010,Anzahl,Weiblich,,Ausbeutung der Arbeitskraft,10.0
 2011,Anzahl,Weiblich,,Ausbeutung der Arbeitskraft,24.0
 2012,Anzahl,Weiblich,,Ausbeutung der Arbeitskraft,
@@ -47,6 +57,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,Weiblich,,Ausbeutung der Arbeitskraft,10.0
 2016,Anzahl,Weiblich,,Ausbeutung der Arbeitskraft,14.0
 2017,Anzahl,Weiblich,,Ausbeutung der Arbeitskraft,25.0
+2018,Anzahl,Weiblich,,Ausbeutung der Arbeitskraft,
+2019,Anzahl,Weiblich,,Ausbeutung der Arbeitskraft,
 2010,Anzahl,Männlich,,Ausbeutung der Arbeitskraft,31.0
 2011,Anzahl,Männlich,,Ausbeutung der Arbeitskraft,8.0
 2012,Anzahl,Männlich,,Ausbeutung der Arbeitskraft,
@@ -55,6 +67,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,Männlich,,Ausbeutung der Arbeitskraft,44.0
 2016,Anzahl,Männlich,,Ausbeutung der Arbeitskraft,34.0
 2017,Anzahl,Männlich,,Ausbeutung der Arbeitskraft,155.0
+2018,Anzahl,Männlich,,Ausbeutung der Arbeitskraft,
+2019,Anzahl,Männlich,,Ausbeutung der Arbeitskraft,
 2010,Anzahl,,,Sexuelle Ausbeutung,610.0
 2011,Anzahl,,,Sexuelle Ausbeutung,640.0
 2012,Anzahl,,,Sexuelle Ausbeutung,612.0
@@ -63,6 +77,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,,,Sexuelle Ausbeutung,416.0
 2016,Anzahl,,,Sexuelle Ausbeutung,488.0
 2017,Anzahl,,,Sexuelle Ausbeutung,489.0
+2018,Anzahl,,,Sexuelle Ausbeutung,430.0
+2019,Anzahl,,,Sexuelle Ausbeutung,427.0
 2010,Anzahl,Weiblich,,Sexuelle Ausbeutung,586.0
 2011,Anzahl,Weiblich,,Sexuelle Ausbeutung,602.0
 2012,Anzahl,Weiblich,,Sexuelle Ausbeutung,588.0
@@ -71,6 +87,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,Weiblich,,Sexuelle Ausbeutung,399.0
 2016,Anzahl,Weiblich,,Sexuelle Ausbeutung,464.0
 2017,Anzahl,Weiblich,,Sexuelle Ausbeutung,484.0
+2018,Anzahl,Weiblich,,Sexuelle Ausbeutung,
+2019,Anzahl,Weiblich,,Sexuelle Ausbeutung,
 2010,Anzahl,Männlich,,Sexuelle Ausbeutung,24.0
 2011,Anzahl,Männlich,,Sexuelle Ausbeutung,38.0
 2012,Anzahl,Männlich,,Sexuelle Ausbeutung,24.0
@@ -79,6 +97,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,Männlich,,Sexuelle Ausbeutung,17.0
 2016,Anzahl,Männlich,,Sexuelle Ausbeutung,24.0
 2017,Anzahl,Männlich,,Sexuelle Ausbeutung,5.0
+2018,Anzahl,Männlich,,Sexuelle Ausbeutung,
+2019,Anzahl,Männlich,,Sexuelle Ausbeutung,
 2010,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,8.0
 2011,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,13.0
 2012,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,12.0
@@ -87,6 +107,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,6.0
 2016,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,12.0
 2017,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,16.0
+2018,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,
+2019,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,
 2010,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,79.0
 2011,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,77.0
 2012,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,88.0
@@ -95,6 +117,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,71.0
 2016,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,84.0
 2017,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,46.0
+2018,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,
+2019,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,
 2010,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,254.0
 2011,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,269.0
 2012,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,223.0
@@ -103,6 +127,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,148.0
 2016,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,118.0
 2017,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,157.0
+2018,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,
+2019,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,
 2010,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,127.0
 2011,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,135.0
 2012,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,123.0
@@ -111,6 +137,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,68.0
 2016,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,109.0
 2017,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,110.0
+2018,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,
+2019,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,
 2010,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,134.0
 2011,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,133.0
 2012,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,156.0
@@ -119,6 +147,8 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,98.0
 2016,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,142.0
 2017,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,149.0
+2018,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,
+2019,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,
 2010,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,8.0
 2011,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,13.0
 2012,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,10.0
@@ -127,3 +157,5 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,Value
 2015,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,25.0
 2016,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,23.0
 2017,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,11.0
+2018,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,
+2019,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,
