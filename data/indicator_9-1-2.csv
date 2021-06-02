@@ -1,100 +1,100 @@
 Year,Units,timeseries,mode of transport,Value
-2010,mn pkm,passenger transport,,1117240
-2011,mn pkm,passenger transport,,1131004
-2012,mn pkm,passenger transport,,1135558
-2013,mn pkm,passenger transport,,1144212
-2014,mn pkm,passenger transport,,1162855
-2015,mn pkm,passenger transport,,1180504
-2016,mn pkm,passenger transport,,1204730
-2017,mn pkm,passenger transport,,1178426
-2018,mn pkm,passenger transport,,1182201
-2010,mn pkm,passenger transport,road transport,78092
-2011,mn pkm,passenger transport,road transport,77957
-2012,mn pkm,passenger transport,road transport,76019
-2013,mn pkm,passenger transport,road transport,76885
-2014,mn pkm,passenger transport,road transport,78786
-2015,mn pkm,passenger transport,road transport,81771
-2016,mn pkm,passenger transport,road transport,81443
-2017,mn pkm,passenger transport,road transport,79724
-2018,mn pkm,passenger transport,road transport,78887
-2010,mn pkm,passenger transport,rail transport,83886
-2011,mn pkm,passenger transport,rail transport,85414
-2012,mn pkm,passenger transport,rail transport,88796
-2013,mn pkm,passenger transport,rail transport,89613
-2014,mn pkm,passenger transport,rail transport,90976
-2015,mn pkm,passenger transport,rail transport,91709
-2016,mn pkm,passenger transport,rail transport,94197
-2017,mn pkm,passenger transport,rail transport,95529
-2018,mn pkm,passenger transport,rail transport,98069
-2010,mn pkm,passenger transport,commercial air transport,52822
-2011,mn pkm,passenger transport,commercial air transport,55216
-2012,mn pkm,passenger transport,commercial air transport,56180
-2013,mn pkm,passenger transport,commercial air transport,56294
-2014,mn pkm,passenger transport,commercial air transport,58136
-2015,mn pkm,passenger transport,commercial air transport,61295
-2016,mn pkm,passenger transport,commercial air transport,63939
-2017,mn pkm,passenger transport,commercial air transport,67523
-2018,mn pkm,passenger transport,commercial air transport,70445
-2010,mn pkm,passenger transport,motorised private transport,902440
-2011,mn pkm,passenger transport,motorised private transport,912417
-2012,mn pkm,passenger transport,motorised private transport,914563
-2013,mn pkm,passenger transport,motorised private transport,921420
-2014,mn pkm,passenger transport,motorised private transport,934957
-2015,mn pkm,passenger transport,motorised private transport,945729
-2016,mn pkm,passenger transport,motorised private transport,965151
-2017,mn pkm,passenger transport,motorised private transport,935650
-2018,mn pkm,passenger transport,motorised private transport,934800
-2010,mn tkm,freight transport,,627882
-2011,mn tkm,freight transport,,628083
-2012,mn tkm,freight transport,,618179
-2013,mn tkm,freight transport,,634955
-2014,mn tkm,freight transport,,642643
-2015,mn tkm,freight transport,,655681
-2016,mn tkm,freight transport,,793095
-2017,mn tkm,freight transport,,692560
-2018,mn tkm,freight transport,,696007
-2010,mn tkm,freight transport,road transport,440600
-2011,mn tkm,freight transport,road transport,442635
-2012,mn tkm,freight transport,road transport,431999
-2013,mn tkm,freight transport,road transport,442681
-2014,mn tkm,freight transport,road transport,451939
-2015,mn tkm,freight transport,road transport,464573
-2016,mn tkm,freight transport,road transport,473438
-2017,mn tkm,freight transport,road transport,485982
-2018,mn tkm,freight transport,road transport,500244
-2010,mn tkm,freight transport,rail transport,107317
-2011,mn tkm,freight transport,rail transport,113317
-2012,mn tkm,freight transport,rail transport,110065
-2013,mn tkm,freight transport,rail transport,112613
-2014,mn tkm,freight transport,rail transport,112629
-2015,mn tkm,freight transport,rail transport,116632
-2016,mn tkm,freight transport,rail transport,128866
-2017,mn tkm,freight transport,rail transport,131204
-2018,mn tkm,freight transport,rail transport,129991
-2010,mn tkm,freight transport,inland waterway transport,62278
-2011,mn tkm,freight transport,inland waterway transport,55027
-2012,mn tkm,freight transport,inland waterway transport,58488
-2013,mn tkm,freight transport,inland waterway transport,60070
-2014,mn tkm,freight transport,inland waterway transport,59093
-2015,mn tkm,freight transport,inland waterway transport,55315
-2016,mn tkm,freight transport,inland waterway transport,54347
-2017,mn tkm,freight transport,inland waterway transport,55518
-2018,mn tkm,freight transport,inland waterway transport,46901
-2010,mn tkm,freight transport,commercial air transport,1428
-2011,mn tkm,freight transport,commercial air transport,1480
-2012,mn tkm,freight transport,commercial air transport,1420
-2013,mn tkm,freight transport,commercial air transport,1410
-2014,mn tkm,freight transport,commercial air transport,1441
-2015,mn tkm,freight transport,commercial air transport,1447
-2016,mn tkm,freight transport,commercial air transport,1519
-2017,mn tkm,freight transport,commercial air transport,1617
-2018,mn tkm,freight transport,commercial air transport,1637
-2010,mn tkm,freight transport,transport via pipeline crude oil,16259
-2011,mn tkm,freight transport,transport via pipeline crude oil,15623
-2012,mn tkm,freight transport,transport via pipeline crude oil,16207
-2013,mn tkm,freight transport,transport via pipeline crude oil,18180
-2014,mn tkm,freight transport,transport via pipeline crude oil,17541
-2015,mn tkm,freight transport,transport via pipeline crude oil,17714
-2016,mn tkm,freight transport,transport via pipeline crude oil,18761
-2017,mn tkm,freight transport,transport via pipeline crude oil,18239
-2018,mn tkm,freight transport,transport via pipeline crude oil,17234
+2010,mn pkm,passenger transports,,1117240
+2011,mn pkm,passenger transports,,1131004
+2012,mn pkm,passenger transports,,1135558
+2013,mn pkm,passenger transports,,1144212
+2014,mn pkm,passenger transports,,1162855
+2015,mn pkm,passenger transports,,1180504
+2016,mn pkm,passenger transports,,1204730
+2017,mn pkm,passenger transports,,1178426
+2018,mn pkm,passenger transports,,1182201
+2010,mn pkm,passenger transports,road transport,78092
+2011,mn pkm,passenger transports,road transport,77957
+2012,mn pkm,passenger transports,road transport,76019
+2013,mn pkm,passenger transports,road transport,76885
+2014,mn pkm,passenger transports,road transport,78786
+2015,mn pkm,passenger transports,road transport,81771
+2016,mn pkm,passenger transports,road transport,81443
+2017,mn pkm,passenger transports,road transport,79724
+2018,mn pkm,passenger transports,road transport,78887
+2010,mn pkm,passenger transports,rail transport,83886
+2011,mn pkm,passenger transports,rail transport,85414
+2012,mn pkm,passenger transports,rail transport,88796
+2013,mn pkm,passenger transports,rail transport,89613
+2014,mn pkm,passenger transports,rail transport,90976
+2015,mn pkm,passenger transports,rail transport,91709
+2016,mn pkm,passenger transports,rail transport,94197
+2017,mn pkm,passenger transports,rail transport,95529
+2018,mn pkm,passenger transports,rail transport,98069
+2010,mn pkm,passenger transports,commercial air transport,52822
+2011,mn pkm,passenger transports,commercial air transport,55216
+2012,mn pkm,passenger transports,commercial air transport,56180
+2013,mn pkm,passenger transports,commercial air transport,56294
+2014,mn pkm,passenger transports,commercial air transport,58136
+2015,mn pkm,passenger transports,commercial air transport,61295
+2016,mn pkm,passenger transports,commercial air transport,63939
+2017,mn pkm,passenger transports,commercial air transport,67523
+2018,mn pkm,passenger transports,commercial air transport,70445
+2010,mn pkm,passenger transports,motorised private transport,902440
+2011,mn pkm,passenger transports,motorised private transport,912417
+2012,mn pkm,passenger transports,motorised private transport,914563
+2013,mn pkm,passenger transports,motorised private transport,921420
+2014,mn pkm,passenger transports,motorised private transport,934957
+2015,mn pkm,passenger transports,motorised private transport,945729
+2016,mn pkm,passenger transports,motorised private transport,965151
+2017,mn pkm,passenger transports,motorised private transport,935650
+2018,mn pkm,passenger transports,motorised private transport,934800
+2010,mn tkm,freight transports,,627882
+2011,mn tkm,freight transports,,628083
+2012,mn tkm,freight transports,,618179
+2013,mn tkm,freight transports,,634955
+2014,mn tkm,freight transports,,642643
+2015,mn tkm,freight transports,,655681
+2016,mn tkm,freight transports,,793095
+2017,mn tkm,freight transports,,692560
+2018,mn tkm,freight transports,,696007
+2010,mn tkm,freight transports,road transport,440600
+2011,mn tkm,freight transports,road transport,442635
+2012,mn tkm,freight transports,road transport,431999
+2013,mn tkm,freight transports,road transport,442681
+2014,mn tkm,freight transports,road transport,451939
+2015,mn tkm,freight transports,road transport,464573
+2016,mn tkm,freight transports,road transport,473438
+2017,mn tkm,freight transports,road transport,485982
+2018,mn tkm,freight transports,road transport,500244
+2010,mn tkm,freight transports,rail transport,107317
+2011,mn tkm,freight transports,rail transport,113317
+2012,mn tkm,freight transports,rail transport,110065
+2013,mn tkm,freight transports,rail transport,112613
+2014,mn tkm,freight transports,rail transport,112629
+2015,mn tkm,freight transports,rail transport,116632
+2016,mn tkm,freight transports,rail transport,128866
+2017,mn tkm,freight transports,rail transport,131204
+2018,mn tkm,freight transports,rail transport,129991
+2010,mn tkm,freight transports,inland waterway transport,62278
+2011,mn tkm,freight transports,inland waterway transport,55027
+2012,mn tkm,freight transports,inland waterway transport,58488
+2013,mn tkm,freight transports,inland waterway transport,60070
+2014,mn tkm,freight transports,inland waterway transport,59093
+2015,mn tkm,freight transports,inland waterway transport,55315
+2016,mn tkm,freight transports,inland waterway transport,54347
+2017,mn tkm,freight transports,inland waterway transport,55518
+2018,mn tkm,freight transports,inland waterway transport,46901
+2010,mn tkm,freight transports,commercial air transport,1428
+2011,mn tkm,freight transports,commercial air transport,1480
+2012,mn tkm,freight transports,commercial air transport,1420
+2013,mn tkm,freight transports,commercial air transport,1410
+2014,mn tkm,freight transports,commercial air transport,1441
+2015,mn tkm,freight transports,commercial air transport,1447
+2016,mn tkm,freight transports,commercial air transport,1519
+2017,mn tkm,freight transports,commercial air transport,1617
+2018,mn tkm,freight transports,commercial air transport,1637
+2010,mn tkm,freight transports,transport via pipeline crude oil,16259
+2011,mn tkm,freight transports,transport via pipeline crude oil,15623
+2012,mn tkm,freight transports,transport via pipeline crude oil,16207
+2013,mn tkm,freight transports,transport via pipeline crude oil,18180
+2014,mn tkm,freight transports,transport via pipeline crude oil,17541
+2015,mn tkm,freight transports,transport via pipeline crude oil,17714
+2016,mn tkm,freight transports,transport via pipeline crude oil,18761
+2017,mn tkm,freight transports,transport via pipeline crude oil,18239
+2018,mn tkm,freight transports,transport via pipeline crude oil,17234
