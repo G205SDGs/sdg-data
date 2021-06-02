@@ -8,6 +8,8 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2016,Prozent,"Bevölkerung, die körperlicher Gewalt ausgesetzt war",,,
 2017,Prozent,"Bevölkerung, die körperlicher Gewalt ausgesetzt war",,,3.0
 2018,Prozent,"Bevölkerung, die körperlicher Gewalt ausgesetzt war",,,
+2019,Prozent,"Bevölkerung, die körperlicher Gewalt ausgesetzt war",,,
+2020,Prozent,"Bevölkerung, die körperlicher Gewalt ausgesetzt war",,,
 2010,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
 2011,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
 2012,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
@@ -16,7 +18,9 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2015,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
 2016,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
 2017,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
-2018,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,
+2018,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
+2019,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
+2020,Prozent,"Bevölkerung, die Opfer einer Straftat war",,,1.2
 2010,Anzahl,Opfer von Straftaten,,,932126.0
 2011,Anzahl,Opfer von Straftaten,,,964945.0
 2012,Anzahl,Opfer von Straftaten,,,976090.0
@@ -26,6 +30,8 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2016,Anzahl,Opfer von Straftaten,,,1017602.0
 2017,Anzahl,Opfer von Straftaten,,,1008510.0
 2018,Anzahl,Opfer von Straftaten,,,1025241.0
+2019,Anzahl,Opfer von Straftaten,,,1013048.0
+2020,Anzahl,Opfer von Straftaten,,,1011462.0
 2010,Anzahl,Opfer von Straftaten,Weiblich,,382263.0
 2011,Anzahl,Opfer von Straftaten,Weiblich,,384661.0
 2012,Anzahl,Opfer von Straftaten,Weiblich,,391566.0
@@ -35,6 +41,8 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2016,Anzahl,Opfer von Straftaten,Weiblich,,403500.0
 2017,Anzahl,Opfer von Straftaten,Weiblich,,404035.0
 2018,Anzahl,Opfer von Straftaten,Weiblich,,414147.0
+2019,Anzahl,Opfer von Straftaten,Weiblich,,409968.0
+2020,Anzahl,Opfer von Straftaten,Weiblich,,416931.0
 2010,Anzahl,Opfer von Straftaten,Männlich,,549863.0
 2011,Anzahl,Opfer von Straftaten,Männlich,,580284.0
 2012,Anzahl,Opfer von Straftaten,Männlich,,584524.0
@@ -44,6 +52,8 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2016,Anzahl,Opfer von Straftaten,Männlich,,614102.0
 2017,Anzahl,Opfer von Straftaten,Männlich,,604475.0
 2018,Anzahl,Opfer von Straftaten,Männlich,,611094.0
+2019,Anzahl,Opfer von Straftaten,Männlich,,603080.0
+2020,Anzahl,Opfer von Straftaten,Männlich,,594531.0
 2010,Anzahl,Opfer von Straftaten,,13 Jahre und jünger,72232.0
 2011,Anzahl,Opfer von Straftaten,,13 Jahre und jünger,70429.0
 2012,Anzahl,Opfer von Straftaten,,13 Jahre und jünger,67579.0
@@ -53,6 +63,8 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2016,Anzahl,Opfer von Straftaten,,13 Jahre und jünger,67519.0
 2017,Anzahl,Opfer von Straftaten,,13 Jahre und jünger,68820.0
 2018,Anzahl,Opfer von Straftaten,,13 Jahre und jünger,70590.0
+2019,Anzahl,Opfer von Straftaten,,13 Jahre und jünger,72772.0
+2020,Anzahl,Opfer von Straftaten,,13 Jahre und jünger,70106.0
 2010,Anzahl,Opfer von Straftaten,,14 bis unter 18 Jahre,99135.0
 2011,Anzahl,Opfer von Straftaten,,14 bis unter 18 Jahre,92128.0
 2012,Anzahl,Opfer von Straftaten,,14 bis unter 18 Jahre,88020.0
@@ -62,6 +74,8 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2016,Anzahl,Opfer von Straftaten,,14 bis unter 18 Jahre,82930.0
 2017,Anzahl,Opfer von Straftaten,,14 bis unter 18 Jahre,84071.0
 2018,Anzahl,Opfer von Straftaten,,14 bis unter 18 Jahre,84175.0
+2019,Anzahl,Opfer von Straftaten,,14 bis unter 18 Jahre,83713.0
+2020,Anzahl,Opfer von Straftaten,,14 bis unter 18 Jahre,76630.0
 2010,Anzahl,Opfer von Straftaten,,18 bis unter 21 Jahre,109139.0
 2011,Anzahl,Opfer von Straftaten,,18 bis unter 21 Jahre,104427.0
 2012,Anzahl,Opfer von Straftaten,,18 bis unter 21 Jahre,99541.0
@@ -71,6 +85,8 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2016,Anzahl,Opfer von Straftaten,,18 bis unter 21 Jahre,88459.0
 2017,Anzahl,Opfer von Straftaten,,18 bis unter 21 Jahre,88834.0
 2018,Anzahl,Opfer von Straftaten,,18 bis unter 21 Jahre,89688.0
+2019,Anzahl,Opfer von Straftaten,,18 bis unter 21 Jahre,85885.0
+2020,Anzahl,Opfer von Straftaten,,18 bis unter 21 Jahre,78631.0
 2010,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,600019.0
 2011,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,644770.0
 2012,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,666152.0
@@ -80,6 +96,8 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2016,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,716502.0
 2017,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,704139.0
 2018,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,715629.0
+2019,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,704911.0
+2020,Anzahl,Opfer von Straftaten,,21 bis unter 60 Jahre,713436.0
 2010,Anzahl,Opfer von Straftaten,,60 Jahre und älter,51601.0
 2011,Anzahl,Opfer von Straftaten,,60 Jahre und älter,53191.0
 2012,Anzahl,Opfer von Straftaten,,60 Jahre und älter,54798.0
@@ -89,3 +107,5 @@ Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2016,Anzahl,Opfer von Straftaten,,60 Jahre und älter,62192.0
 2017,Anzahl,Opfer von Straftaten,,60 Jahre und älter,62646.0
 2018,Anzahl,Opfer von Straftaten,,60 Jahre und älter,65159.0
+2019,Anzahl,Opfer von Straftaten,,60 Jahre und älter,65767.0
+2020,Anzahl,Opfer von Straftaten,,60 Jahre und älter,72659.0

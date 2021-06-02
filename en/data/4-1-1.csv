@@ -1,22 +1,24 @@
 Year,Education level,Subject,Value
-2010,b) At the end of lower primary education,Reading,
-2011,b) At the end of lower primary education,Reading,97.6
-2012,b) At the end of lower primary education,Reading,
-2013,b) At the end of lower primary education,Reading,
-2014,b) At the end of lower primary education,Reading,
-2015,b) At the end of lower primary education,Reading,
-2016,b) At the end of lower primary education,Reading,94.5
-2017,b) At the end of lower primary education,Reading,
-2018,b) At the end of lower primary education,Reading,
-2010,b) At the end of lower primary education,Mathematics,
-2011,b) At the end of lower primary education,Mathematics,97.3
-2012,b) At the end of lower primary education,Mathematics,
-2013,b) At the end of lower primary education,Mathematics,
-2014,b) At the end of lower primary education,Mathematics,
-2015,b) At the end of lower primary education,Mathematics,96.3
-2016,b) At the end of lower primary education,Mathematics,
-2017,b) At the end of lower primary education,Mathematics,
-2018,b) At the end of lower primary education,Mathematics,
+2010,b) At the end of primary education,Reading,
+2011,b) At the end of primary education,Reading,98.0
+2012,b) At the end of primary education,Reading,
+2013,b) At the end of primary education,Reading,
+2014,b) At the end of primary education,Reading,
+2015,b) At the end of primary education,Reading,
+2016,b) At the end of primary education,Reading,95.0
+2017,b) At the end of primary education,Reading,
+2018,b) At the end of primary education,Reading,
+2019,b) At the end of primary education,Reading,
+2010,b) At the end of primary education,Mathematics,
+2011,b) At the end of primary education,Mathematics,97.0
+2012,b) At the end of primary education,Mathematics,
+2013,b) At the end of primary education,Mathematics,
+2014,b) At the end of primary education,Mathematics,
+2015,b) At the end of primary education,Mathematics,96.0
+2016,b) At the end of primary education,Mathematics,
+2017,b) At the end of primary education,Mathematics,
+2018,b) At the end of primary education,Mathematics,
+2019,b) At the end of primary education,Mathematics,96.0
 2010,c) At the end of lower secondary education,Reading,
 2011,c) At the end of lower secondary education,Reading,
 2012,c) At the end of lower secondary education,Reading,85.6
@@ -26,6 +28,7 @@ Year,Education level,Subject,Value
 2016,c) At the end of lower secondary education,Reading,
 2017,c) At the end of lower secondary education,Reading,
 2018,c) At the end of lower secondary education,Reading,79.3
+2019,c) At the end of lower secondary education,Reading,
 2010,c) At the end of lower secondary education,Mathematics,
 2011,c) At the end of lower secondary education,Mathematics,
 2012,c) At the end of lower secondary education,Mathematics,82.3
@@ -34,4 +37,5 @@ Year,Education level,Subject,Value
 2015,c) At the end of lower secondary education,Mathematics,82.8
 2016,c) At the end of lower secondary education,Mathematics,
 2017,c) At the end of lower secondary education,Mathematics,
-2018,c) At the end of lower secondary education,Mathematics,78.8
+2018,c) At the end of lower secondary education,Mathematics,78.9
+2019,c) At the end of lower secondary education,Mathematics,

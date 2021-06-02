@@ -8,15 +8,15 @@ Year,Units,Time series,Type of waste,Value
 2016,Percentage,Recycling rate,Municipal waste,67
 2017,Percentage,Recycling rate,Municipal waste,67
 2018,Percentage,Recycling rate,Municipal waste,67
-2010,"1,000 tonnes",Recycled waste,Municipal waste,30774
-2011,"1,000 tonnes",Recycled waste,Municipal waste,31633
-2012,"1,000 tonnes",Recycled waste,Municipal waste,32460
-2013,"1,000 tonnes",Recycled waste,Municipal waste,31629
-2014,"1,000 tonnes",Recycled waste,Municipal waste,33544
-2015,"1,000 tonnes",Recycled waste,Municipal waste,34453
-2016,"1,000 tonnes",Recycled waste,Municipal waste,34958
-2017,"1,000 tonnes",Recycled waste,Municipal waste,34783
-2018,"1,000 tonnes",Recycled waste,Municipal waste,33723
+2010,"1,000 tonnes",Material recovery,Municipal waste,30774
+2011,"1,000 tonnes",Material recovery,Municipal waste,31633
+2012,"1,000 tonnes",Material recovery,Municipal waste,32460
+2013,"1,000 tonnes",Material recovery,Municipal waste,31629
+2014,"1,000 tonnes",Material recovery,Municipal waste,33544
+2015,"1,000 tonnes",Material recovery,Municipal waste,34453
+2016,"1,000 tonnes",Material recovery,Municipal waste,34958
+2017,"1,000 tonnes",Material recovery,Municipal waste,34783
+2018,"1,000 tonnes",Material recovery,Municipal waste,33723
 2010,Percentage,Recycling rate,Total waste,69
 2011,Percentage,Recycling rate,Total waste,69
 2012,Percentage,Recycling rate,Total waste,70
@@ -26,12 +26,12 @@ Year,Units,Time series,Type of waste,Value
 2016,Percentage,Recycling rate,Total waste,70
 2017,Percentage,Recycling rate,Total waste,69
 2018,Percentage,Recycling rate,Total waste,70
-2010,"1,000 tonnes",Recycled waste,Total waste,257350
-2011,"1,000 tonnes",Recycled waste,Total waste,267105
-2012,"1,000 tonnes",Recycled waste,Total waste,265363
-2013,"1,000 tonnes",Recycled waste,Total waste,265552
-2014,"1,000 tonnes",Recycled waste,Total waste,276265
-2015,"1,000 tonnes",Recycled waste,Total waste,274619
-2016,"1,000 tonnes",Recycled waste,Total waste,287631
-2017,"1,000 tonnes",Recycled waste,Total waste,284847
-2018,"1,000 tonnes",Recycled waste,Total waste,290456
+2010,"1,000 tonnes",Material recovery,Total waste,257350
+2011,"1,000 tonnes",Material recovery,Total waste,267105
+2012,"1,000 tonnes",Material recovery,Total waste,265363
+2013,"1,000 tonnes",Material recovery,Total waste,265552
+2014,"1,000 tonnes",Material recovery,Total waste,276265
+2015,"1,000 tonnes",Material recovery,Total waste,274619
+2016,"1,000 tonnes",Material recovery,Total waste,287631
+2017,"1,000 tonnes",Material recovery,Total waste,284847
+2018,"1,000 tonnes",Material recovery,Total waste,290456

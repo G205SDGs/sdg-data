@@ -7,6 +7,8 @@ Year,Substance,Sex,Value
 2015,Drugs,,51919.0
 2016,Drugs,,52621.0
 2017,Drugs,,51806.0
+2018,Drugs,,52380.0
+2019,Drugs,,53490.0
 2010,Drugs,Female,10451.0
 2011,Drugs,Female,10607.0
 2012,Drugs,Female,10600.0
@@ -15,6 +17,8 @@ Year,Substance,Sex,Value
 2015,Drugs,Female,13230.0
 2016,Drugs,Female,13303.0
 2017,Drugs,Female,12881.0
+2018,Drugs,Female,12858.0
+2019,Drugs,Female,12921.0
 2010,Drugs,Male,26656.0
 2011,Drugs,Male,26241.0
 2012,Drugs,Male,25566.0
@@ -23,6 +27,8 @@ Year,Substance,Sex,Value
 2015,Drugs,Male,38689.0
 2016,Drugs,Male,39318.0
 2017,Drugs,Male,38925.0
+2018,Drugs,Male,39522.0
+2019,Drugs,Male,40569.0
 2010,Drugs,Unknown,
 2011,Drugs,Unknown,
 2012,Drugs,Unknown,
@@ -31,6 +37,8 @@ Year,Substance,Sex,Value
 2015,Drugs,Unknown,
 2016,Drugs,Unknown,
 2017,Drugs,Unknown,
+2018,Drugs,Unknown,
+2019,Drugs,Unknown,
 2010,Alcohol and other psychoactive substances,,191512.0
 2011,Alcohol and other psychoactive substances,,192159.0
 2012,Alcohol and other psychoactive substances,,195976.0
@@ -39,6 +47,8 @@ Year,Substance,Sex,Value
 2015,Alcohol and other psychoactive substances,,176185.0
 2016,Alcohol and other psychoactive substances,,170467.0
 2017,Alcohol and other psychoactive substances,,165834.0
+2018,Alcohol and other psychoactive substances,,161247.0
+2019,Alcohol and other psychoactive substances,,159421.0
 2010,Alcohol and other psychoactive substances,Female,49139.0
 2011,Alcohol and other psychoactive substances,Female,50796.0
 2012,Alcohol and other psychoactive substances,Female,52487.0
@@ -47,6 +57,8 @@ Year,Substance,Sex,Value
 2015,Alcohol and other psychoactive substances,Female,46377.0
 2016,Alcohol and other psychoactive substances,Female,44589.0
 2017,Alcohol and other psychoactive substances,Female,43574.0
+2018,Alcohol and other psychoactive substances,Female,42716.0
+2019,Alcohol and other psychoactive substances,Female,42158.0
 2010,Alcohol and other psychoactive substances,Male,142373.0
 2011,Alcohol and other psychoactive substances,Male,141363.0
 2012,Alcohol and other psychoactive substances,Male,143488.0
@@ -55,6 +67,8 @@ Year,Substance,Sex,Value
 2015,Alcohol and other psychoactive substances,Male,129808.0
 2016,Alcohol and other psychoactive substances,Male,125878.0
 2017,Alcohol and other psychoactive substances,Male,122260.0
+2018,Alcohol and other psychoactive substances,Male,118531.0
+2019,Alcohol and other psychoactive substances,Male,117263.0
 2010,Alcohol and other psychoactive substances,Unknown,
 2011,Alcohol and other psychoactive substances,Unknown,
 2012,Alcohol and other psychoactive substances,Unknown,1.0
@@ -63,3 +77,5 @@ Year,Substance,Sex,Value
 2015,Alcohol and other psychoactive substances,Unknown,
 2016,Alcohol and other psychoactive substances,Unknown,
 2017,Alcohol and other psychoactive substances,Unknown,
+2018,Alcohol and other psychoactive substances,Unknown,
+2019,Alcohol and other psychoactive substances,Unknown,

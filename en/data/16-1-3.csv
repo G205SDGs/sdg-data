@@ -1,13 +1,15 @@
 Year,Units,Time series,Sex,Age group,Value
-2010,Percentage,Population subjected to physical violence,,,
-2011,Percentage,Population subjected to physical violence,,,
-2012,Percentage,Population subjected to physical violence,,,2.7
-2013,Percentage,Population subjected to physical violence,,,
-2014,Percentage,Population subjected to physical violence,,,
-2015,Percentage,Population subjected to physical violence,,,
-2016,Percentage,Population subjected to physical violence,,,
-2017,Percentage,Population subjected to physical violence,,,3.0
-2018,Percentage,Population subjected to physical violence,,,
+2010,Percentage,Population who were exposed to physical violence,,,
+2011,Percentage,Population who were exposed to physical violence,,,
+2012,Percentage,Population who were exposed to physical violence,,,2.7
+2013,Percentage,Population who were exposed to physical violence,,,
+2014,Percentage,Population who were exposed to physical violence,,,
+2015,Percentage,Population who were exposed to physical violence,,,
+2016,Percentage,Population who were exposed to physical violence,,,
+2017,Percentage,Population who were exposed to physical violence,,,3.0
+2018,Percentage,Population who were exposed to physical violence,,,
+2019,Percentage,Population who were exposed to physical violence,,,
+2020,Percentage,Population who were exposed to physical violence,,,
 2010,Percentage,Population who were victims of criminal offences,,,1.2
 2011,Percentage,Population who were victims of criminal offences,,,1.2
 2012,Percentage,Population who were victims of criminal offences,,,1.2
@@ -16,7 +18,9 @@ Year,Units,Time series,Sex,Age group,Value
 2015,Percentage,Population who were victims of criminal offences,,,1.2
 2016,Percentage,Population who were victims of criminal offences,,,1.2
 2017,Percentage,Population who were victims of criminal offences,,,1.2
-2018,Percentage,Population who were victims of criminal offences,,,
+2018,Percentage,Population who were victims of criminal offences,,,1.2
+2019,Percentage,Population who were victims of criminal offences,,,1.2
+2020,Percentage,Population who were victims of criminal offences,,,1.2
 2010,Number,Victims of criminal offences,,,932126.0
 2011,Number,Victims of criminal offences,,,964945.0
 2012,Number,Victims of criminal offences,,,976090.0
@@ -26,6 +30,8 @@ Year,Units,Time series,Sex,Age group,Value
 2016,Number,Victims of criminal offences,,,1017602.0
 2017,Number,Victims of criminal offences,,,1008510.0
 2018,Number,Victims of criminal offences,,,1025241.0
+2019,Number,Victims of criminal offences,,,1013048.0
+2020,Number,Victims of criminal offences,,,1011462.0
 2010,Number,Victims of criminal offences,Female,,382263.0
 2011,Number,Victims of criminal offences,Female,,384661.0
 2012,Number,Victims of criminal offences,Female,,391566.0
@@ -35,6 +41,8 @@ Year,Units,Time series,Sex,Age group,Value
 2016,Number,Victims of criminal offences,Female,,403500.0
 2017,Number,Victims of criminal offences,Female,,404035.0
 2018,Number,Victims of criminal offences,Female,,414147.0
+2019,Number,Victims of criminal offences,Female,,409968.0
+2020,Number,Victims of criminal offences,Female,,416931.0
 2010,Number,Victims of criminal offences,Male,,549863.0
 2011,Number,Victims of criminal offences,Male,,580284.0
 2012,Number,Victims of criminal offences,Male,,584524.0
@@ -44,6 +52,8 @@ Year,Units,Time series,Sex,Age group,Value
 2016,Number,Victims of criminal offences,Male,,614102.0
 2017,Number,Victims of criminal offences,Male,,604475.0
 2018,Number,Victims of criminal offences,Male,,611094.0
+2019,Number,Victims of criminal offences,Male,,603080.0
+2020,Number,Victims of criminal offences,Male,,594531.0
 2010,Number,Victims of criminal offences,,13 years and younger,72232.0
 2011,Number,Victims of criminal offences,,13 years and younger,70429.0
 2012,Number,Victims of criminal offences,,13 years and younger,67579.0
@@ -53,6 +63,8 @@ Year,Units,Time series,Sex,Age group,Value
 2016,Number,Victims of criminal offences,,13 years and younger,67519.0
 2017,Number,Victims of criminal offences,,13 years and younger,68820.0
 2018,Number,Victims of criminal offences,,13 years and younger,70590.0
+2019,Number,Victims of criminal offences,,13 years and younger,72772.0
+2020,Number,Victims of criminal offences,,13 years and younger,70106.0
 2010,Number,Victims of criminal offences,,14 to under 18 years,99135.0
 2011,Number,Victims of criminal offences,,14 to under 18 years,92128.0
 2012,Number,Victims of criminal offences,,14 to under 18 years,88020.0
@@ -62,6 +74,8 @@ Year,Units,Time series,Sex,Age group,Value
 2016,Number,Victims of criminal offences,,14 to under 18 years,82930.0
 2017,Number,Victims of criminal offences,,14 to under 18 years,84071.0
 2018,Number,Victims of criminal offences,,14 to under 18 years,84175.0
+2019,Number,Victims of criminal offences,,14 to under 18 years,83713.0
+2020,Number,Victims of criminal offences,,14 to under 18 years,76630.0
 2010,Number,Victims of criminal offences,,18 to under 21 years,109139.0
 2011,Number,Victims of criminal offences,,18 to under 21 years,104427.0
 2012,Number,Victims of criminal offences,,18 to under 21 years,99541.0
@@ -71,6 +85,8 @@ Year,Units,Time series,Sex,Age group,Value
 2016,Number,Victims of criminal offences,,18 to under 21 years,88459.0
 2017,Number,Victims of criminal offences,,18 to under 21 years,88834.0
 2018,Number,Victims of criminal offences,,18 to under 21 years,89688.0
+2019,Number,Victims of criminal offences,,18 to under 21 years,85885.0
+2020,Number,Victims of criminal offences,,18 to under 21 years,78631.0
 2010,Number,Victims of criminal offences,,21 to under 60 years,600019.0
 2011,Number,Victims of criminal offences,,21 to under 60 years,644770.0
 2012,Number,Victims of criminal offences,,21 to under 60 years,666152.0
@@ -80,6 +96,8 @@ Year,Units,Time series,Sex,Age group,Value
 2016,Number,Victims of criminal offences,,21 to under 60 years,716502.0
 2017,Number,Victims of criminal offences,,21 to under 60 years,704139.0
 2018,Number,Victims of criminal offences,,21 to under 60 years,715629.0
+2019,Number,Victims of criminal offences,,21 to under 60 years,704911.0
+2020,Number,Victims of criminal offences,,21 to under 60 years,713436.0
 2010,Number,Victims of criminal offences,,60 years and older,51601.0
 2011,Number,Victims of criminal offences,,60 years and older,53191.0
 2012,Number,Victims of criminal offences,,60 years and older,54798.0
@@ -89,3 +107,5 @@ Year,Units,Time series,Sex,Age group,Value
 2016,Number,Victims of criminal offences,,60 years and older,62192.0
 2017,Number,Victims of criminal offences,,60 years and older,62646.0
 2018,Number,Victims of criminal offences,,60 years and older,65159.0
+2019,Number,Victims of criminal offences,,60 years and older,65767.0
+2020,Number,Victims of criminal offences,,60 years and older,72659.0
