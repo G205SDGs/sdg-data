@@ -1,37 +1,37 @@
 Year,timeseries,Value
-2010,coverage of dtp containing vaccine at school entrance,95.2
-2011,coverage of dtp containing vaccine at school entrance,95.6
-2012,coverage of dtp containing vaccine at school entrance,95.8
-2013,coverage of dtp containing vaccine at school entrance,96.2
-2014,coverage of dtp containing vaccine at school entrance,95.7
-2015,coverage of dtp containing vaccine at school entrance,95.2
-2016,coverage of dtp containing vaccine at school entrance,94.5
-2017,coverage of dtp containing vaccine at school entrance,93.5
-2018,coverage of dtp containing vaccine at school entrance,
-2010,coverage of measles containing vaccine at school entrance (%),91.5
-2011,coverage of measles containing vaccine at school entrance (%),92.1
-2012,coverage of measles containing vaccine at school entrance (%),92.4
-2013,coverage of measles containing vaccine at school entrance (%),92.6
-2014,coverage of measles containing vaccine at school entrance (%),92.8
-2015,coverage of measles containing vaccine at school entrance (%),92.8
-2016,coverage of measles containing vaccine at school entrance (%),92.9
-2017,coverage of measles containing vaccine at school entrance (%),92.8
-2018,coverage of measles containing vaccine at school entrance (%),93.1
-2010,coverage of pneumococcal conjugate vaccine at school entrance (%),15.2
-2011,coverage of pneumococcal conjugate vaccine at school entrance (%),41.0
-2012,coverage of pneumococcal conjugate vaccine at school entrance (%),68.3
-2013,coverage of pneumococcal conjugate vaccine at school entrance (%),84.5
-2014,coverage of pneumococcal conjugate vaccine at school entrance (%),85.3
-2015,coverage of pneumococcal conjugate vaccine at school entrance (%),86.1
-2016,coverage of pneumococcal conjugate vaccine at school entrance (%),84.4
-2017,coverage of pneumococcal conjugate vaccine at school entrance (%),83.8
-2018,coverage of pneumococcal conjugate vaccine at school entrance (%),83.1
-2010,coverage of hpv containing vaccine of 15 years old girls (%),
-2011,coverage of hpv containing vaccine of 15 years old girls (%),26.5
-2012,coverage of hpv containing vaccine of 15 years old girls (%),26.8
-2013,coverage of hpv containing vaccine of 15 years old girls (%),29.0
-2014,coverage of hpv containing vaccine of 15 years old girls (%),30.5
-2015,coverage of hpv containing vaccine of 15 years old girls (%),31.3
-2016,coverage of hpv containing vaccine of 15 years old girls (%),
-2017,coverage of hpv containing vaccine of 15 years old girls (%),
-2018,coverage of hpv containing vaccine of 15 years old girls (%),
+2010,dtp vaccination rate at school entrance,95.2
+2011,dtp vaccination rate at school entrance,95.6
+2012,dtp vaccination rate at school entrance,95.8
+2013,dtp vaccination rate at school entrance,96.2
+2014,dtp vaccination rate at school entrance,95.7
+2015,dtp vaccination rate at school entrance,95.2
+2016,dtp vaccination rate at school entrance,94.5
+2017,dtp vaccination rate at school entrance,93.5
+2018,dtp vaccination rate at school entrance,
+2010,measles vaccination rate at sschool entrance,91.5
+2011,measles vaccination rate at sschool entrance,92.1
+2012,measles vaccination rate at sschool entrance,92.4
+2013,measles vaccination rate at sschool entrance,92.6
+2014,measles vaccination rate at sschool entrance,92.8
+2015,measles vaccination rate at sschool entrance,92.8
+2016,measles vaccination rate at sschool entrance,92.9
+2017,measles vaccination rate at sschool entrance,92.8
+2018,measles vaccination rate at sschool entrance,93.1
+2010,pneumococcal vaccination rate at school entrance,15.2
+2011,pneumococcal vaccination rate at school entrance,41.0
+2012,pneumococcal vaccination rate at school entrance,68.3
+2013,pneumococcal vaccination rate at school entrance,84.5
+2014,pneumococcal vaccination rate at school entrance,85.3
+2015,pneumococcal vaccination rate at school entrance,86.1
+2016,pneumococcal vaccination rate at school entrance,84.4
+2017,pneumococcal vaccination rate at school entrance,83.8
+2018,pneumococcal vaccination rate at school entrance,83.1
+2010,hpv vaccination rate among 15 years old girls,
+2011,hpv vaccination rate among 15 years old girls,26.5
+2012,hpv vaccination rate among 15 years old girls,26.8
+2013,hpv vaccination rate among 15 years old girls,29.0
+2014,hpv vaccination rate among 15 years old girls,30.5
+2015,hpv vaccination rate among 15 years old girls,31.3
+2016,hpv vaccination rate among 15 years old girls,
+2017,hpv vaccination rate among 15 years old girls,
+2018,hpv vaccination rate among 15 years old girls,

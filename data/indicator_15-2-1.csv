@@ -7,14 +7,18 @@ Year,Units,timeseries,Value
 2015,mn t,above-ground biomass stock in forest,1642.1
 2016,mn t,above-ground biomass stock in forest,1650.6
 2017,mn t,above-ground biomass stock in forest,1658.8
+2018,mn t,above-ground biomass stock in forest,1662.4
+2019,mn t,above-ground biomass stock in forest,
 2010,%,forest area located within protected areas,
 2011,%,forest area located within protected areas,
 2012,%,forest area located within protected areas,0.68
 2013,%,forest area located within protected areas,
 2014,%,forest area located within protected areas,
 2015,%,forest area located within protected areas,
-2016,%,forest area located within protected areas,
+2016,%,forest area located within protected areas,0.70
 2017,%,forest area located within protected areas,
+2018,%,forest area located within protected areas,
+2019,%,forest area located within protected areas,
 2010,%,forest area net change rate,
 2011,%,forest area net change rate,0.1
 2012,%,forest area net change rate,0.2
@@ -23,11 +27,15 @@ Year,Units,timeseries,Value
 2015,%,forest area net change rate,0.2
 2016,%,forest area net change rate,-3.2
 2017,%,forest area net change rate,0.2
+2018,%,forest area net change rate,0.2
+2019,%,forest area net change rate,
 2010,%,forest area under an independently verified forest management certification scheme,67.5
 2011,%,forest area under an independently verified forest management certification scheme,67.2
 2012,%,forest area under an independently verified forest management certification scheme,66.9
 2013,%,forest area under an independently verified forest management certification scheme,66.9
 2014,%,forest area under an independently verified forest management certification scheme,66.6
 2015,%,forest area under an independently verified forest management certification scheme,66.2
-2016,%,forest area under an independently verified forest management certification scheme,66.8
+2016,%,forest area under an independently verified forest management certification scheme,66.9
 2017,%,forest area under an independently verified forest management certification scheme,67.2
+2018,%,forest area under an independently verified forest management certification scheme,68.6
+2019,%,forest area under an independently verified forest management certification scheme,69.1

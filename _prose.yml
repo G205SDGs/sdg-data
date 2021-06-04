@@ -233,9 +233,9 @@ prose:
               - name: 'complete'
                 value: 'complete'
                 translation_key: status.reported_online
-              #- name: 'inprogress'
-                #value: 'inprogress'
-                #translation_key: status.statistics_in_progress
+              - name: 'inprogress'
+                value: 'inprogress'
+                translation_key: status.statistics_in_progress
               - name: 'notstarted'
                 value: 'notstarted'
                 translation_key: status.exploring_data_sources
@@ -579,7 +579,7 @@ prose:
             help: Additional link to data source text
             value: "Link to source"
             scope: source_1
-            
+
       ## Source 2
       - name: source_active_2
         field:

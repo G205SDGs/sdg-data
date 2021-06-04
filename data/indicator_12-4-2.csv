@@ -6,6 +6,8 @@ Year,Units,timeseries,type of waste treatment,Value
 2014,kg per capita,a) hazardous waste generated per capita,,269
 2015,kg per capita,a) hazardous waste generated per capita,,
 2016,kg per capita,a) hazardous waste generated per capita,,279
+2017,kg per capita,a) hazardous waste generated per capita,,
+2018,kg per capita,a) hazardous waste generated per capita,,292
 2010,%,b) hazardous waste treated,,100
 2011,%,b) hazardous waste treated,,
 2012,%,b) hazardous waste treated,,100
@@ -13,6 +15,8 @@ Year,Units,timeseries,type of waste treatment,Value
 2014,%,b) hazardous waste treated,,100
 2015,%,b) hazardous waste treated,,
 2016,%,b) hazardous waste treated,,100
+2017,%,b) hazardous waste treated,,
+2018,%,b) hazardous waste treated,,100
 2010,%,b) hazardous waste treated,energy recovery,13.6
 2011,%,b) hazardous waste treated,energy recovery,
 2012,%,b) hazardous waste treated,energy recovery,15.0
@@ -20,6 +24,8 @@ Year,Units,timeseries,type of waste treatment,Value
 2014,%,b) hazardous waste treated,energy recovery,13.6
 2015,%,b) hazardous waste treated,energy recovery,
 2016,%,b) hazardous waste treated,energy recovery,13.7
+2017,%,b) hazardous waste treated,energy recovery,
+2018,%,b) hazardous waste treated,energy recovery,14.0
 2010,%,b) hazardous waste treated,incineration,5.9
 2011,%,b) hazardous waste treated,incineration,
 2012,%,b) hazardous waste treated,incineration,5.4
@@ -27,6 +33,8 @@ Year,Units,timeseries,type of waste treatment,Value
 2014,%,b) hazardous waste treated,incineration,6.2
 2015,%,b) hazardous waste treated,incineration,
 2016,%,b) hazardous waste treated,incineration,4.9
+2017,%,b) hazardous waste treated,incineration,
+2018,%,b) hazardous waste treated,incineration,4.2
 2010,%,b) hazardous waste treated,recovery other than energy recovery,59.6
 2011,%,b) hazardous waste treated,recovery other than energy recovery,
 2012,%,b) hazardous waste treated,recovery other than energy recovery,56.5
@@ -34,6 +42,8 @@ Year,Units,timeseries,type of waste treatment,Value
 2014,%,b) hazardous waste treated,recovery other than energy recovery,57.6
 2015,%,b) hazardous waste treated,recovery other than energy recovery,
 2016,%,b) hazardous waste treated,recovery other than energy recovery,57.1
+2017,%,b) hazardous waste treated,recovery other than energy recovery,
+2018,%,b) hazardous waste treated,recovery other than energy recovery,56.0
 2010,%,b) hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,20.9
 2011,%,b) hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
 2012,%,b) hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,23.1
@@ -41,3 +51,5 @@ Year,Units,timeseries,type of waste treatment,Value
 2014,%,b) hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,22.7
 2015,%,b) hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
 2016,%,b) hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,24.3
+2017,%,b) hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
+2018,%,b) hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,25.9
