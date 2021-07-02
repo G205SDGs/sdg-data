@@ -68,6 +68,11 @@ prose:
             translation_key: metadata_fields.un_custodian_agency
             scope: global
 
+      - name: "goal_meta_text"
+        field:
+            element: text
+            label: "Link to UN metadata"
+            scope: global
       - name: "goal_meta_link"
         field:
             element: text
