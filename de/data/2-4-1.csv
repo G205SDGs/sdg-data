@@ -1,21 +1,199 @@
-Year,Zeitreihe,Value
-2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),5.6
-2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),
-2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),5.8
-2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),6.0
-2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),6.2
-2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),6.3
-2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),6.8
-2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),6.8
-2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),7.3
-2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),7.8
-2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),5.9
-2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),6.1
-2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),6.2
-2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),6.3
-2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),6.3
-2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),6.5
-2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),7.5
-2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),8.2
-2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),9.1
-2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),9.7
+Year,Zeitreihe,Region,GeoCode,Value
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,5.6
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,5.8
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,6.0
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,6.2
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,6.3
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,6.8
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,6.8
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,7.3
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,7.8
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),,,9.6
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,5.9
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,6.1
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,6.2
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,6.3
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,6.3
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,6.5
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,7.5
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,8.2
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,9.1
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,9.7
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),,,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,7.0
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,7.8
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,9.3
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Baden-Württemberg,code08,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,6.1
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,6.8
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,8.3
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bayern,code09,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,12.4
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,15.0
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,15.6
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Berlin,code11,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,10.6
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,10.3
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,10.4
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Brandenburg,code12,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,9.8
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,11.8
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,17.7
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Bremen,code04,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,6.8
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,6.9
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,8.1
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hamburg,code02,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,9.4
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,10.5
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,11.6
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Hessen,code06,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,8.7
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,9.0
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,9.4
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Mecklenburg-Vorpommern,code13,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,2.9
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,2.9
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,3.2
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Niedersachsen,code03,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,3.6
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,4.2
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,4.2
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Nordrhein-Westfalen,code05,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,5.1
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,6.4
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,8.7
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Rheinland-Pfalz,code07,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,10.6
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,11.4
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,14.9
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Saarland,code10,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,3.7
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,3.8
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,4.6
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen,code14,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,4.2
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,4.5
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,5.0
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Sachsen-Anhalt,code15,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,3.3
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,3.4
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,4.0
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Schleswig-Holstein,code01,
+2010,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,4.4
+2011,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,
+2012,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,
+2013,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,4.4
+2014,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,
+2015,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,
+2016,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,4.3
+2017,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,
+2018,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,
+2019,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,
+2020,Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Thüringen,code16,

@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Zeitreihe,Value
+2010,Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre),
+2011,Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre),
+2012,Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre),
+2013,Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre),
+2014,Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre),
+2015,Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre),
+2010,Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre),38500.0
+2011,Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre),38800.0
+2012,Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre),34400.0
+2013,Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre),35700.0
+2014,Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre),33300.0
+2015,Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre),34300.0
+2010,Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre),7900.0
+2011,Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre),8300.0
+2012,Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre),7400.0
+2013,Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre),7800.0
+2014,Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre),7800.0
+2015,Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre),7200.0

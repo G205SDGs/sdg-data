@@ -1,12 +1,188 @@
-Year,Value
-2010,1332
-2011,1269
-2012,1212
-2013,1228
-2014,1223
-2015,1216
-2016,1225
-2017,1240
-2018,1183
-2019,1150
-2020,1113
+Year,Region,GeoCode,Value
+2010,,,1332
+2011,,,1269
+2012,,,1212
+2013,,,1228
+2014,,,1223
+2015,,,1216
+2016,,,1225
+2017,,,1240
+2018,,,1183
+2019,,,1150
+2020,,,1113
+2010,Baden-Wuerttemberg,code08,403
+2011,Baden-Wuerttemberg,code08,408
+2012,Baden-Wuerttemberg,code08,410
+2013,Baden-Wuerttemberg,code08,420
+2014,Baden-Wuerttemberg,code08,415
+2015,Baden-Wuerttemberg,code08,422
+2016,Baden-Wuerttemberg,code08,408
+2017,Baden-Wuerttemberg,code08,396
+2018,Baden-Wuerttemberg,code08,371
+2019,Baden-Wuerttemberg,code08,347
+2020,Baden-Wuerttemberg,code08,339
+2010,Bavaria,code09,275
+2011,Bavaria,code09,250
+2012,Bavaria,code09,247
+2013,Bavaria,code09,244
+2014,Bavaria,code09,257
+2015,Bavaria,code09,269
+2016,Bavaria,code09,274
+2017,Bavaria,code09,288
+2018,Bavaria,code09,283
+2019,Bavaria,code09,288
+2020,Bavaria,code09,287
+2010,Berlin,code11,39
+2011,Berlin,code11,39
+2012,Berlin,code11,34
+2013,Berlin,code11,41
+2014,Berlin,code11,35
+2015,Berlin,code11,26
+2016,Berlin,code11,30
+2017,Berlin,code11,32
+2018,Berlin,code11,30
+2019,Berlin,code11,30
+2020,Berlin,code11,28
+2010,Brandenburg,code12,38
+2011,Brandenburg,code12,30
+2012,Brandenburg,code12,26
+2013,Brandenburg,code12,30
+2014,Brandenburg,code12,29
+2015,Brandenburg,code12,27
+2016,Brandenburg,code12,30
+2017,Brandenburg,code12,36
+2018,Brandenburg,code12,37
+2019,Brandenburg,code12,35
+2020,Brandenburg,code12,34
+2010,Bremen,code04,21
+2011,Bremen,code04,20
+2012,Bremen,code04,17
+2013,Bremen,code04,16
+2014,Bremen,code04,14
+2015,Bremen,code04,12
+2016,Bremen,code04,11
+2017,Bremen,code04,12
+2018,Bremen,code04,11
+2019,Bremen,code04,11
+2020,Bremen,code04,10
+2010,Hamburg,code02,12
+2011,Hamburg,code02,12
+2012,Hamburg,code02,10
+2013,Hamburg,code02,9
+2014,Hamburg,code02,11
+2015,Hamburg,code02,11
+2016,Hamburg,code02,10
+2017,Hamburg,code02,12
+2018,Hamburg,code02,14
+2019,Hamburg,code02,14
+2020,Hamburg,code02,14
+2010,Hesse,code06,73
+2011,Hesse,code06,74
+2012,Hesse,code06,72
+2013,Hesse,code06,70
+2014,Hesse,code06,73
+2015,Hesse,code06,76
+2016,Hesse,code06,80
+2017,Hesse,code06,78
+2018,Hesse,code06,71
+2019,Hesse,code06,63
+2020,Hesse,code06,63
+2010,Mecklenburg Western Pomerania,code13,8
+2011,Mecklenburg Western Pomerania,code13,8
+2012,Mecklenburg Western Pomerania,code13,6
+2013,Mecklenburg Western Pomerania,code13,6
+2014,Mecklenburg Western Pomerania,code13,6
+2015,Mecklenburg Western Pomerania,code13,5
+2016,Mecklenburg Western Pomerania,code13,6
+2017,Mecklenburg Western Pomerania,code13,5
+2018,Mecklenburg Western Pomerania,code13,4
+2019,Mecklenburg Western Pomerania,code13,2
+2020,Mecklenburg Western Pomerania,code13,2
+2010,Lower Saxony,code03,72
+2011,Lower Saxony,code03,76
+2012,Lower Saxony,code03,62
+2013,Lower Saxony,code03,64
+2014,Lower Saxony,code03,60
+2015,Lower Saxony,code03,56
+2016,Lower Saxony,code03,55
+2017,Lower Saxony,code03,59
+2018,Lower Saxony,code03,55
+2019,Lower Saxony,code03,54
+2020,Lower Saxony,code03,51
+2010,North Rhine-Westphalia,code05,140
+2011,North Rhine-Westphalia,code05,131
+2012,North Rhine-Westphalia,code05,121
+2013,North Rhine-Westphalia,code05,118
+2014,North Rhine-Westphalia,code05,113
+2015,North Rhine-Westphalia,code05,114
+2016,North Rhine-Westphalia,code05,117
+2017,North Rhine-Westphalia,code05,115
+2018,North Rhine-Westphalia,code05,111
+2019,North Rhine-Westphalia,code05,105
+2020,North Rhine-Westphalia,code05,100
+2010,Rhineland Palatinate,code07,44
+2011,Rhineland Palatinate,code07,37
+2012,Rhineland Palatinate,code07,35
+2013,Rhineland Palatinate,code07,36
+2014,Rhineland Palatinate,code07,37
+2015,Rhineland Palatinate,code07,31
+2016,Rhineland Palatinate,code07,33
+2017,Rhineland Palatinate,code07,33
+2018,Rhineland Palatinate,code07,34
+2019,Rhineland Palatinate,code07,34
+2020,Rhineland Palatinate,code07,24
+2010,Saarland,code10,49
+2011,Saarland,code10,44
+2012,Saarland,code10,43
+2013,Saarland,code10,44
+2014,Saarland,code10,51
+2015,Saarland,code10,50
+2016,Saarland,code10,51
+2017,Saarland,code10,53
+2018,Saarland,code10,48
+2019,Saarland,code10,49
+2020,Saarland,code10,49
+2010,Saxony,code14,36
+2011,Saxony,code14,35
+2012,Saxony,code14,35
+2013,Saxony,code14,33
+2014,Saxony,code14,33
+2015,Saxony,code14,32
+2016,Saxony,code14,32
+2017,Saxony,code14,33
+2018,Saxony,code14,30
+2019,Saxony,code14,29
+2020,Saxony,code14,25
+2010,Saxony-Anhalt,code15,35
+2011,Saxony-Anhalt,code15,28
+2012,Saxony-Anhalt,code15,28
+2013,Saxony-Anhalt,code15,28
+2014,Saxony-Anhalt,code15,24
+2015,Saxony-Anhalt,code15,21
+2016,Saxony-Anhalt,code15,21
+2017,Saxony-Anhalt,code15,22
+2018,Saxony-Anhalt,code15,22
+2019,Saxony-Anhalt,code15,23
+2020,Saxony-Anhalt,code15,21
+2010,Schleswig-Holstein,code01,36
+2011,Schleswig-Holstein,code01,34
+2012,Schleswig-Holstein,code01,26
+2013,Schleswig-Holstein,code01,26
+2014,Schleswig-Holstein,code01,22
+2015,Schleswig-Holstein,code01,17
+2016,Schleswig-Holstein,code01,18
+2017,Schleswig-Holstein,code01,18
+2018,Schleswig-Holstein,code01,15
+2019,Schleswig-Holstein,code01,15
+2020,Schleswig-Holstein,code01,16
+2010,Thuringia,code16,51
+2011,Thuringia,code16,43
+2012,Thuringia,code16,40
+2013,Thuringia,code16,43
+2014,Thuringia,code16,43
+2015,Thuringia,code16,47
+2016,Thuringia,code16,49
+2017,Thuringia,code16,48
+2018,Thuringia,code16,47
+2019,Thuringia,code16,51
+2020,Thuringia,code16,50

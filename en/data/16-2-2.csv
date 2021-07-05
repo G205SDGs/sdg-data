@@ -4,11 +4,11 @@ Year,Units,Sex,Age group,Form of exploitation,Value
 2012,"Per 100,000 inhabitants",,,,0.78
 2013,"Per 100,000 inhabitants",,,,0.75
 2014,"Per 100,000 inhabitants",,,,0.72
-2015,"Per 100,000 inhabitants",,,,0.57
+2015,"Per 100,000 inhabitants",,,,0.58
 2016,"Per 100,000 inhabitants",,,,0.65
 2017,"Per 100,000 inhabitants",,,,0.81
-2018,"Per 100,000 inhabitants",,,,0.81
-2019,"Per 100,000 inhabitants",,,,0.78
+2018,"Per 100,000 inhabitants",,,,0.59
+2019,"Per 100,000 inhabitants",,,,0.57
 2010,"Per 100,000 inhabitants",,,Labour exploitation,0.05
 2011,"Per 100,000 inhabitants",,,Labour exploitation,0.04
 2012,"Per 100,000 inhabitants",,,Labour exploitation,0.02
@@ -37,8 +37,8 @@ Year,Units,Sex,Age group,Form of exploitation,Value
 2015,Number,,,,470.0
 2016,Number,,,,536.0
 2017,Number,,,,669.0
-2018,Number,,,,675.0
-2019,Number,,,,646.0
+2018,Number,,,,493.0
+2019,Number,,,,470.0
 2010,Number,,,Labour exploitation,41.0
 2011,Number,,,Labour exploitation,32.0
 2012,Number,,,Labour exploitation,14.0
@@ -57,7 +57,7 @@ Year,Units,Sex,Age group,Form of exploitation,Value
 2015,Number,Female,,Labour exploitation,10.0
 2016,Number,Female,,Labour exploitation,14.0
 2017,Number,Female,,Labour exploitation,25.0
-2018,Number,Female,,Labour exploitation,
+2018,Number,Female,,Labour exploitation,9.0
 2019,Number,Female,,Labour exploitation,
 2010,Number,Male,,Labour exploitation,31.0
 2011,Number,Male,,Labour exploitation,8.0
@@ -67,7 +67,7 @@ Year,Units,Sex,Age group,Form of exploitation,Value
 2015,Number,Male,,Labour exploitation,44.0
 2016,Number,Male,,Labour exploitation,34.0
 2017,Number,Male,,Labour exploitation,155.0
-2018,Number,Male,,Labour exploitation,
+2018,Number,Male,,Labour exploitation,54.0
 2019,Number,Male,,Labour exploitation,
 2010,Number,,,Sexual exploitation,610.0
 2011,Number,,,Sexual exploitation,640.0
@@ -87,8 +87,8 @@ Year,Units,Sex,Age group,Form of exploitation,Value
 2015,Number,Female,,Sexual exploitation,399.0
 2016,Number,Female,,Sexual exploitation,464.0
 2017,Number,Female,,Sexual exploitation,484.0
-2018,Number,Female,,Sexual exploitation,
-2019,Number,Female,,Sexual exploitation,
+2018,Number,Female,,Sexual exploitation,413.0
+2019,Number,Female,,Sexual exploitation,405.0
 2010,Number,Male,,Sexual exploitation,24.0
 2011,Number,Male,,Sexual exploitation,38.0
 2012,Number,Male,,Sexual exploitation,24.0
@@ -97,8 +97,8 @@ Year,Units,Sex,Age group,Form of exploitation,Value
 2015,Number,Male,,Sexual exploitation,17.0
 2016,Number,Male,,Sexual exploitation,24.0
 2017,Number,Male,,Sexual exploitation,5.0
-2018,Number,Male,,Sexual exploitation,
-2019,Number,Male,,Sexual exploitation,
+2018,Number,Male,,Sexual exploitation,14.0
+2019,Number,Male,,Sexual exploitation,22.0
 2010,Number,,13 years and younger,Sexual exploitation,8.0
 2011,Number,,13 years and younger,Sexual exploitation,13.0
 2012,Number,,13 years and younger,Sexual exploitation,12.0

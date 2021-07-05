@@ -7,6 +7,8 @@ Year,Units,Time series,Level of risk of extinction,Value
 2015,Percentage,Level of risk of extinction (according to FAO classification),At risk,45.45
 2016,Percentage,Level of risk of extinction (according to FAO classification),At risk,
 2017,Percentage,Level of risk of extinction (according to FAO classification),At risk,
+2018,Percentage,Level of risk of extinction (according to FAO classification),At risk,
+2019,Percentage,Level of risk of extinction (according to FAO classification),At risk,
 2010,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,
 2011,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,
 2012,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,
@@ -15,6 +17,8 @@ Year,Units,Time series,Level of risk of extinction,Value
 2015,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,54.55
 2016,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,
 2017,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,
+2018,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,
+2019,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,
 2010,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,
 2011,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,74.0
 2012,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,
@@ -23,6 +27,8 @@ Year,Units,Time series,Level of risk of extinction,Value
 2015,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,77.0
 2016,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,
 2017,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,77.0
+2018,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,
+2019,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,80.0
 2010,Percentage,Level of risk of extinction (according to national classification),Not at risk,
 2011,Percentage,Level of risk of extinction (according to national classification),Not at risk,29.7
 2012,Percentage,Level of risk of extinction (according to national classification),Not at risk,
@@ -31,6 +37,8 @@ Year,Units,Time series,Level of risk of extinction,Value
 2015,Percentage,Level of risk of extinction (according to national classification),Not at risk,28.6
 2016,Percentage,Level of risk of extinction (according to national classification),Not at risk,
 2017,Percentage,Level of risk of extinction (according to national classification),Not at risk,29.9
+2018,Percentage,Level of risk of extinction (according to national classification),Not at risk,
+2019,Percentage,Level of risk of extinction (according to national classification),Not at risk,30.0
 2010,Percentage,Level of risk of extinction (according to national classification),Under observation,
 2011,Percentage,Level of risk of extinction (according to national classification),Under observation,39.2
 2012,Percentage,Level of risk of extinction (according to national classification),Under observation,
@@ -39,6 +47,8 @@ Year,Units,Time series,Level of risk of extinction,Value
 2015,Percentage,Level of risk of extinction (according to national classification),Under observation,46.8
 2016,Percentage,Level of risk of extinction (according to national classification),Under observation,
 2017,Percentage,Level of risk of extinction (according to national classification),Under observation,46.8
+2018,Percentage,Level of risk of extinction (according to national classification),Under observation,
+2019,Percentage,Level of risk of extinction (according to national classification),Under observation,45.0
 2010,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,
 2011,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,24.3
 2012,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,
@@ -47,6 +57,8 @@ Year,Units,Time series,Level of risk of extinction,Value
 2015,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,18.2
 2016,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,
 2017,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,16.9
+2018,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,
+2019,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,17.5
 2010,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,
 2011,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,6.8
 2012,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,
@@ -55,3 +67,5 @@ Year,Units,Time series,Level of risk of extinction,Value
 2015,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,6.5
 2016,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,
 2017,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,6.5
+2018,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,
+2019,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,7.5
