@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,timeseries,Value
+2010,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
+2011,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
+2012,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
+2013,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
+2014,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
+2015,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
+2010,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),38500
+2011,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),38800
+2012,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),34400
+2013,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),35700
+2014,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),33300
+2015,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),34300
+2010,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7900
+2011,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),8300
+2012,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7400
+2013,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7800
+2014,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7800
+2015,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7200

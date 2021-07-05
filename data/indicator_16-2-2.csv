@@ -4,11 +4,11 @@ Year,Units,sex,age,form of exploitation,Value
 2012,per 100 000 inhabitants,,,,0.78
 2013,per 100 000 inhabitants,,,,0.75
 2014,per 100 000 inhabitants,,,,0.72
-2015,per 100 000 inhabitants,,,,0.57
+2015,per 100 000 inhabitants,,,,0.58
 2016,per 100 000 inhabitants,,,,0.65
 2017,per 100 000 inhabitants,,,,0.81
-2018,per 100 000 inhabitants,,,,0.81
-2019,per 100 000 inhabitants,,,,0.78
+2018,per 100 000 inhabitants,,,,0.59
+2019,per 100 000 inhabitants,,,,0.57
 2010,per 100 000 inhabitants,,,exploitation of labour,0.05
 2011,per 100 000 inhabitants,,,exploitation of labour,0.04
 2012,per 100 000 inhabitants,,,exploitation of labour,0.02
@@ -37,8 +37,8 @@ Year,Units,sex,age,form of exploitation,Value
 2015,number,,,,470
 2016,number,,,,536
 2017,number,,,,669
-2018,number,,,,675
-2019,number,,,,646
+2018,number,,,,493
+2019,number,,,,470
 2010,number,,,exploitation of labour,41
 2011,number,,,exploitation of labour,32
 2012,number,,,exploitation of labour,14
@@ -57,7 +57,7 @@ Year,Units,sex,age,form of exploitation,Value
 2015,number,female,,exploitation of labour,10
 2016,number,female,,exploitation of labour,14
 2017,number,female,,exploitation of labour,25
-2018,number,female,,exploitation of labour,
+2018,number,female,,exploitation of labour,9
 2019,number,female,,exploitation of labour,
 2010,number,male,,exploitation of labour,31
 2011,number,male,,exploitation of labour,8
@@ -67,7 +67,7 @@ Year,Units,sex,age,form of exploitation,Value
 2015,number,male,,exploitation of labour,44
 2016,number,male,,exploitation of labour,34
 2017,number,male,,exploitation of labour,155
-2018,number,male,,exploitation of labour,
+2018,number,male,,exploitation of labour,54
 2019,number,male,,exploitation of labour,
 2010,number,,,sexual exploitation,610
 2011,number,,,sexual exploitation,640
@@ -87,8 +87,8 @@ Year,Units,sex,age,form of exploitation,Value
 2015,number,female,,sexual exploitation,399
 2016,number,female,,sexual exploitation,464
 2017,number,female,,sexual exploitation,484
-2018,number,female,,sexual exploitation,
-2019,number,female,,sexual exploitation,
+2018,number,female,,sexual exploitation,413
+2019,number,female,,sexual exploitation,405
 2010,number,male,,sexual exploitation,24
 2011,number,male,,sexual exploitation,38
 2012,number,male,,sexual exploitation,24
@@ -97,8 +97,8 @@ Year,Units,sex,age,form of exploitation,Value
 2015,number,male,,sexual exploitation,17
 2016,number,male,,sexual exploitation,24
 2017,number,male,,sexual exploitation,5
-2018,number,male,,sexual exploitation,
-2019,number,male,,sexual exploitation,
+2018,number,male,,sexual exploitation,14
+2019,number,male,,sexual exploitation,22
 2010,number,,under 14 years,sexual exploitation,8
 2011,number,,under 14 years,sexual exploitation,13
 2012,number,,under 14 years,sexual exploitation,12

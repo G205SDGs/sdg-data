@@ -1,4 +1,4 @@
-Year,Series,Value
+Year,timeseries,Value
 2010,animal genetic resources (number),
 2011,animal genetic resources (number),
 2012,animal genetic resources (number),
@@ -8,6 +8,8 @@ Year,Series,Value
 2016,animal genetic resources (number),
 2017,animal genetic resources (number),28
 2018,animal genetic resources (number),28
+2019,animal genetic resources (number),28
+2020,animal genetic resources (number),28
 2010,plant genetic resources (number),
 2011,plant genetic resources (number),
 2012,plant genetic resources (number),
@@ -17,3 +19,5 @@ Year,Series,Value
 2016,plant genetic resources (number),174405
 2017,plant genetic resources (number),177387
 2018,plant genetic resources (number),179498
+2019,plant genetic resources (number),181637
+2020,plant genetic resources (number),181574
