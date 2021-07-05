@@ -94,6 +94,14 @@ hide_empty_metadata: true
 # below and adjust if you would like to use the Open SDG mapping functionality.
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
+
+datapackage:
+    sorting: default
+
+data_schema:
+  class: DataSchemaInputTableSchemaYaml
+  source: data-schema/*.yml
+
 map_layers:
   - geojson_file: boundaries.geojson
     name_property: GEN
