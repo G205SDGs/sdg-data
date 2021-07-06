@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from sdg.open_sdg import open_sdg_check
 
 # Validate the indicators.
