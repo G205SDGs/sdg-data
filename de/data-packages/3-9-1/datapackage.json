@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre)",
+                "Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre)",
+                "Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre)",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-9-1",
+  "title": "Sterblichkeitsrate infolge von Verschmutzung der Raum- und Außenluft"
+}

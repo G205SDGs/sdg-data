@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilogramm pro Kopf",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Erzeugte gefährliche Abfälle",
+                "Behandelte gefährliche Abfälle",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "type of waste treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Energierückgewinnung",
+                "Verbrennung",
+                "Verwertung anderer als die der Energierückgewinnung",
+                "Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern",
+                ""
+              ]
+            },
+            "title": "Art der Abfallbehandlung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-2",
+  "title": "(a) Erzeugte gefährliche Abfälle pro Kopf und (b) Anteil der behandelten gefährlichen Abfälle, nach Art der Behandlung"
+}

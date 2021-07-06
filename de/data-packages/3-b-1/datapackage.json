@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DTP-Impfquote zum Schuleintritt",
+                "Masern-Impfquote zum Schuleintritt",
+                "Pneumokokken-Impfquote zum Schuleintritt",
+                "HPV-Impfquote bei 15-jährigen Mädchen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-b-1",
+  "title": "Anteil der Zielbevölkerung, der alle Impfungen laut nationalem Programm besitzt"
+}

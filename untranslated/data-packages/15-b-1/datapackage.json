@@ -1,0 +1,39 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) oda (commitments) for biodiversity",
+                "b) oda (gross disbursements) to the forestry sector",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-b-1",
+  "title": "(a) Öffentliche Entwicklungszusammenarbeit (ODA) für die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt und (b) Einnahmen und Finanzmittel, die über die für die biologische Vielfalt maßgeblichen ökologischen Instrumente generiert wurden"
+}

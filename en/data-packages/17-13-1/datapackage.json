@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Billion EUR",
+                "Million hours",
+                "2015 = 100",
+                "1,000",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual growth rate of real GDP",
+                "Available income of private households",
+                "Consumption by private households",
+                "Debt level of the total public budget",
+                "Government fiscal balance",
+                "Gross fixed capital formation",
+                "Hours worked by employees",
+                "Hours worked by persons employed",
+                "Labour productivity per hour worked by employee",
+                "Labour productivity per hour worked by persons employed",
+                "Persons employed",
+                "Real GDP per capita",
+                "Trade balance",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1",
+  "title": "Makroökonomisches Dashboard"
+}

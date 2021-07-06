@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gebiete der Klasse 3 (Höhe 2500-3500 Meter)",
+                "Gebiete der Klasse 4 (Höhe 1500-2500 Meter)",
+                "Gebiete der Klasse 5 (Höhe 1000-1500 Meter)",
+                "Gebiete der Klasse 6 (Höhe  300-1000 Meter)",
+                ""
+              ]
+            },
+            "title": "Klassifikation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-4-2",
+  "title": "Index der Grünbedeckung in den Bergen"
+}

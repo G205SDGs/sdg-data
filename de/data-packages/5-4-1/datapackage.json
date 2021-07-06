@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "euc_kr",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 bis unter 25 Jahre",
+                "25 bis unter 45 Jahre",
+                "45 bis unter 55 Jahre",
+                "55 bis unter 65 Jahre",
+                "65 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-4-1",
+  "title": "Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit, nach Geschlecht, Alter und Ort"
+}

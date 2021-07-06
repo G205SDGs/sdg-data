@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "age of mother",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 to under 15 years",
+                "15 to under 20 years",
+                ""
+              ]
+            },
+            "title": "Age of mother"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-7-2",
+  "title": "Geburtenrate bei Jugendlichen (im Alter von 10-14 Jahren und 15-19 Jahren) je 1&nbsp;000 Frauen in dieser Altersgruppe"
+}

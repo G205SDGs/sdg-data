@@ -1,28 +1,28 @@
-Year,Units,Value
-2010,Millionen Tonnen,1263.0
-2011,Millionen Tonnen,1363.0
-2012,Millionen Tonnen,1318.0
-2013,Millionen Tonnen,1311.0
-2014,Millionen Tonnen,1348.0
-2015,Millionen Tonnen,1268.0
-2016,Millionen Tonnen,1280.0
-2017,Millionen Tonnen,1326.0
-2018,Millionen Tonnen,1279.0
-2010,Tonnen pro Kopf,15.4
-2011,Tonnen pro Kopf,17.0
-2012,Tonnen pro Kopf,16.4
-2013,Tonnen pro Kopf,16.3
-2014,Tonnen pro Kopf,16.6
-2015,Tonnen pro Kopf,15.5
-2016,Tonnen pro Kopf,15.5
-2017,Tonnen pro Kopf,16.0
-2018,Tonnen pro Kopf,15.4
-2010,Pro realem BIP (2015 = 100),108.1
-2011,Pro realem BIP (2015 = 100),112.3
-2012,Pro realem BIP (2015 = 100),108.1
-2013,Pro realem BIP (2015 = 100),107.0
-2014,Pro realem BIP (2015 = 100),107.6
-2015,Pro realem BIP (2015 = 100),100.0
-2016,Pro realem BIP (2015 = 100),98.7
-2017,Pro realem BIP (2015 = 100),99.6
-2018,Pro realem BIP (2015 = 100),94.8
+Year,Value,Units
+2010,1263.0,Millionen Tonnen
+2011,1363.0,Millionen Tonnen
+2012,1318.0,Millionen Tonnen
+2013,1311.0,Millionen Tonnen
+2014,1348.0,Millionen Tonnen
+2015,1268.0,Millionen Tonnen
+2016,1280.0,Millionen Tonnen
+2017,1326.0,Millionen Tonnen
+2018,1279.0,Millionen Tonnen
+2010,15.4,Tonnen pro Kopf
+2011,17.0,Tonnen pro Kopf
+2012,16.4,Tonnen pro Kopf
+2013,16.3,Tonnen pro Kopf
+2014,16.6,Tonnen pro Kopf
+2015,15.5,Tonnen pro Kopf
+2016,15.5,Tonnen pro Kopf
+2017,16.0,Tonnen pro Kopf
+2018,15.4,Tonnen pro Kopf
+2010,108.1,Pro realem BIP (2015 = 100)
+2011,112.3,Pro realem BIP (2015 = 100)
+2012,108.1,Pro realem BIP (2015 = 100)
+2013,107.0,Pro realem BIP (2015 = 100)
+2014,107.6,Pro realem BIP (2015 = 100)
+2015,100.0,Pro realem BIP (2015 = 100)
+2016,98.7,Pro realem BIP (2015 = 100)
+2017,99.6,Pro realem BIP (2015 = 100)
+2018,94.8,Pro realem BIP (2015 = 100)

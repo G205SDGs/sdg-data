@@ -1,0 +1,210 @@
+Year,Units,sex,age,Value
+2010,per 100 000 inhabitants,,,0.99
+2011,per 100 000 inhabitants,,,0.92
+2012,per 100 000 inhabitants,,,0.82
+2013,per 100 000 inhabitants,,,0.84
+2014,per 100 000 inhabitants,,,0.88
+2015,per 100 000 inhabitants,,,0.83
+2016,per 100 000 inhabitants,,,1.17
+2017,per 100 000 inhabitants,,,0.98
+2018,per 100 000 inhabitants,,,0.95
+2019,per 100 000 inhabitants,,,0.75
+2020,per 100 000 inhabitants,,,0.94
+2010,number,,,793.0
+2011,number,,,738.0
+2012,number,,,659.0
+2013,number,,,682.0
+2014,number,,,716.0
+2015,number,,,682.0
+2016,number,,,963.0
+2017,number,,,813.0
+2018,number,,,788.0
+2019,number,,,623.0
+2020,number,,,782.0
+2010,number,female,,393.0
+2011,number,female,,338.0
+2012,number,female,,296.0
+2013,number,female,,328.0
+2014,number,female,,339.0
+2015,number,female,,327.0
+2016,number,female,,469.0
+2017,number,female,,380.0
+2018,number,female,,367.0
+2019,number,female,,276.0
+2020,number,female,,357.0
+2010,number,male,,400.0
+2011,number,male,,400.0
+2012,number,male,,363.0
+2013,number,male,,354.0
+2014,number,male,,377.0
+2015,number,male,,355.0
+2016,number,male,,494.0
+2017,number,male,,433.0
+2018,number,male,,421.0
+2019,number,male,,347.0
+2020,number,male,,425.0
+2010,number,,under 14 years,77.0
+2011,number,,under 14 years,73.0
+2012,number,,under 14 years,90.0
+2013,number,,under 14 years,66.0
+2014,number,,under 14 years,63.0
+2015,number,,under 14 years,62.0
+2016,number,,under 14 years,68.0
+2017,number,,under 14 years,67.0
+2018,number,,under 14 years,70.0
+2019,number,,under 14 years,46.0
+2020,number,,under 14 years,79.0
+2010,number,,14 to under 18 years,22.0
+2011,number,,14 to under 18 years,27.0
+2012,number,,14 to under 18 years,6.0
+2013,number,,14 to under 18 years,12.0
+2014,number,,14 to under 18 years,15.0
+2015,number,,14 to under 18 years,14.0
+2016,number,,14 to under 18 years,35.0
+2017,number,,14 to under 18 years,4.0
+2018,number,,14 to under 18 years,14.0
+2019,number,,14 to under 18 years,11.0
+2020,number,,14 to under 18 years,12.0
+2010,number,,18 to under 21 years,38.0
+2011,number,,18 to under 21 years,29.0
+2012,number,,18 to under 21 years,23.0
+2013,number,,18 to under 21 years,15.0
+2014,number,,18 to under 21 years,20.0
+2015,number,,18 to under 21 years,18.0
+2016,number,,18 to under 21 years,43.0
+2017,number,,18 to under 21 years,16.0
+2018,number,,18 to under 21 years,26.0
+2019,number,,18 to under 21 years,16.0
+2020,number,,18 to under 21 years,21.0
+2010,number,,21 to under 60 years,448.0
+2011,number,,21 to under 60 years,424.0
+2012,number,,21 to under 60 years,359.0
+2013,number,,21 to under 60 years,377.0
+2014,number,,21 to under 60 years,405.0
+2015,number,,21 to under 60 years,343.0
+2016,number,,21 to under 60 years,527.0
+2017,number,,21 to under 60 years,414.0
+2018,number,,21 to under 60 years,445.0
+2019,number,,21 to under 60 years,349.0
+2020,number,,21 to under 60 years,378.0
+2010,number,,60 years and over,208.0
+2011,number,,60 years and over,185.0
+2012,number,,60 years and over,181.0
+2013,number,,60 years and over,212.0
+2014,number,,60 years and over,213.0
+2015,number,,60 years and over,245.0
+2016,number,,60 years and over,290.0
+2017,number,,60 years and over,312.0
+2018,number,,60 years and over,233.0
+2019,number,,60 years and over,201.0
+2020,number,,60 years and over,292.0
+2010,number,female,under 14 years,
+2011,number,female,under 14 years,
+2012,number,female,under 14 years,39.0
+2013,number,female,under 14 years,37.0
+2014,number,female,under 14 years,24.0
+2015,number,female,under 14 years,25.0
+2016,number,female,under 14 years,30.0
+2017,number,female,under 14 years,28.0
+2018,number,female,under 14 years,30.0
+2019,number,female,under 14 years,17.0
+2020,number,female,under 14 years,43.0
+2010,number,male,under 14 years,
+2011,number,male,under 14 years,
+2012,number,male,under 14 years,51.0
+2013,number,male,under 14 years,29.0
+2014,number,male,under 14 years,39.0
+2015,number,male,under 14 years,37.0
+2016,number,male,under 14 years,38.0
+2017,number,male,under 14 years,39.0
+2018,number,male,under 14 years,40.0
+2019,number,male,under 14 years,29.0
+2020,number,male,under 14 years,36.0
+2010,number,female,14 to under 18 years,
+2011,number,female,14 to under 18 years,
+2012,number,female,14 to under 18 years,0.0
+2013,number,female,14 to under 18 years,4.0
+2014,number,female,14 to under 18 years,5.0
+2015,number,female,14 to under 18 years,9.0
+2016,number,female,14 to under 18 years,22.0
+2017,number,female,14 to under 18 years,1.0
+2018,number,female,14 to under 18 years,8.0
+2019,number,female,14 to under 18 years,4.0
+2020,number,female,14 to under 18 years,4.0
+2010,number,male,14 to under 18 years,
+2011,number,male,14 to under 18 years,
+2012,number,male,14 to under 18 years,6.0
+2013,number,male,14 to under 18 years,8.0
+2014,number,male,14 to under 18 years,10.0
+2015,number,male,14 to under 18 years,5.0
+2016,number,male,14 to under 18 years,13.0
+2017,number,male,14 to under 18 years,3.0
+2018,number,male,14 to under 18 years,6.0
+2019,number,male,14 to under 18 years,7.0
+2020,number,male,14 to under 18 years,8.0
+2010,number,female,18 to under 21 years,
+2011,number,female,18 to under 21 years,
+2012,number,female,18 to under 21 years,10.0
+2013,number,female,18 to under 21 years,6.0
+2014,number,female,18 to under 21 years,9.0
+2015,number,female,18 to under 21 years,9.0
+2016,number,female,18 to under 21 years,18.0
+2017,number,female,18 to under 21 years,7.0
+2018,number,female,18 to under 21 years,12.0
+2019,number,female,18 to under 21 years,5.0
+2020,number,female,18 to under 21 years,6.0
+2010,number,male,18 to under 21 years,
+2011,number,male,18 to under 21 years,
+2012,number,male,18 to under 21 years,13.0
+2013,number,male,18 to under 21 years,9.0
+2014,number,male,18 to under 21 years,11.0
+2015,number,male,18 to under 21 years,9.0
+2016,number,male,18 to under 21 years,25.0
+2017,number,male,18 to under 21 years,9.0
+2018,number,male,18 to under 21 years,14.0
+2019,number,male,18 to under 21 years,11.0
+2020,number,male,18 to under 21 years,15.0
+2010,number,female,21 to under 60 years,
+2011,number,female,21 to under 60 years,
+2012,number,female,21 to under 60 years,139.0
+2013,number,female,21 to under 60 years,159.0
+2014,number,female,21 to under 60 years,180.0
+2015,number,female,21 to under 60 years,141.0
+2016,number,female,21 to under 60 years,236.0
+2017,number,female,21 to under 60 years,176.0
+2018,number,female,21 to under 60 years,184.0
+2019,number,female,21 to under 60 years,144.0
+2020,number,female,21 to under 60 years,142.0
+2010,number,male,21 to under 60 years,
+2011,number,male,21 to under 60 years,
+2012,number,male,21 to under 60 years,220.0
+2013,number,male,21 to under 60 years,218.0
+2014,number,male,21 to under 60 years,225.0
+2015,number,male,21 to under 60 years,202.0
+2016,number,male,21 to under 60 years,291.0
+2017,number,male,21 to under 60 years,238.0
+2018,number,male,21 to under 60 years,261.0
+2019,number,male,21 to under 60 years,205.0
+2020,number,male,21 to under 60 years,236.0
+2010,number,female,60 years and over,
+2011,number,female,60 years and over,
+2012,number,female,60 years and over,108.0
+2013,number,female,60 years and over,122.0
+2014,number,female,60 years and over,121.0
+2015,number,female,60 years and over,143.0
+2016,number,female,60 years and over,163.0
+2017,number,female,60 years and over,168.0
+2018,number,female,60 years and over,133.0
+2019,number,female,60 years and over,106.0
+2020,number,female,60 years and over,162.0
+2010,number,male,60 years and over,
+2011,number,male,60 years and over,
+2012,number,male,60 years and over,73.0
+2013,number,male,60 years and over,90.0
+2014,number,male,60 years and over,92.0
+2015,number,male,60 years and over,102.0
+2016,number,male,60 years and over,127.0
+2017,number,male,60 years and over,144.0
+2018,number,male,60 years and over,100.0
+2019,number,male,60 years and over,95.0
+2020,number,male,60 years and over,130.0

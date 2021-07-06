@@ -1,21 +1,21 @@
-Year,Units,Value
-2010,Je 100 000 Einwohner,0.81
-2011,Je 100 000 Einwohner,0.84
-2012,Je 100 000 Einwohner,0.78
-2013,Je 100 000 Einwohner,0.75
-2014,Je 100 000 Einwohner,0.72
-2015,Je 100 000 Einwohner,0.58
-2016,Je 100 000 Einwohner,0.65
-2017,Je 100 000 Einwohner,0.81
-2018,Je 100 000 Einwohner,0.59
-2019,Je 100 000 Einwohner,0.57
-2010,Anzahl,651.0
-2011,Anzahl,672.0
-2012,Anzahl,626.0
-2013,Anzahl,603.0
-2014,Anzahl,583.0
-2015,Anzahl,470.0
-2016,Anzahl,536.0
-2017,Anzahl,669.0
-2018,Anzahl,493.0
-2019,Anzahl,470.0
+Year,Value,Units
+2010,0.81,Je 100 000 Einwohner
+2011,0.84,Je 100 000 Einwohner
+2012,0.78,Je 100 000 Einwohner
+2013,0.75,Je 100 000 Einwohner
+2014,0.72,Je 100 000 Einwohner
+2015,0.58,Je 100 000 Einwohner
+2016,0.65,Je 100 000 Einwohner
+2017,0.81,Je 100 000 Einwohner
+2018,0.59,Je 100 000 Einwohner
+2019,0.57,Je 100 000 Einwohner
+2010,651.0,Anzahl
+2011,672.0,Anzahl
+2012,626.0,Anzahl
+2013,603.0,Anzahl
+2014,583.0,Anzahl
+2015,470.0,Anzahl
+2016,536.0,Anzahl
+2017,669.0,Anzahl
+2018,493.0,Anzahl
+2019,470.0,Anzahl

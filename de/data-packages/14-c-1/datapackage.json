@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Punktzahl der Umsetzung des Seerechtsübereinkommens der Vereinten Nationen (SRÜ) und seiner zwei Zusatzübereinkommen",
+                "Punktzahl für die Ratifikation und den Beitritt zu dem Seerechtsübereinkommens der Vereinten Nationen (SRÜ) und seiner zwei Zusatzübereinkommen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-c-1",
+  "title": "Anzahl der Staaten, die Fortschritte bei der Ratifizierung, Annahme und Durchführung von ozeanbezogenen Übereinkünften zur Umsetzung des Völkerrechts, wie es im Seerechtsübereinkommen der Vereinten Nationen niedergelegt ist, durch rechtliche, politische und institutionelle Rahmenwerke machen"
+}

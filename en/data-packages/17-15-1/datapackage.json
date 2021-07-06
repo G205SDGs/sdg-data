@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of indicator results drawn from country-led results frameworks by providers of development cooperation",
+                "Proportion of results drawn from country-led result frameworks by providers of development cooperation",
+                "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-15-1",
+  "title": "Umfang der Nutzung ländereigener Ergebnisrahmenwerke und Planungsinstrumente durch Geber von Entwicklungszusammenarbeit"
+}

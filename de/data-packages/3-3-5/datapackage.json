@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten",
+                "Stationäre Behandlung bei vernachlässigten Tropenkrankheiten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dengue",
+                "Echinokokkose",
+                "Lepra",
+                "Buruli-Ulkus",
+                "Afrikanische Trypanosomiasis",
+                "Leishmaniose",
+                "Tollwut",
+                "Frambösie",
+                ""
+              ]
+            },
+            "title": "Art der Erkrankung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-3-5",
+  "title": "Anzahl der Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten"
+}

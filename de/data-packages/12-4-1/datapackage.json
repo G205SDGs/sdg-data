@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basler Übereinkommen",
+                "Montrealer Protokoll",
+                "Rotterdamer Übereinkommen",
+                "Stockholmer Übereinkommen",
+                "Minamata Übereinkommen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-1",
+  "title": "Anzahl der Vertragsparteien internationaler multilateraler Umweltabkommen über gefährliche Abfälle und andere Chemikalien, die ihre Verpflichtungen und Zusagen zur Übermittlung von Informationen nach den jeweiligen Umweltabkommen einhalten"
+}

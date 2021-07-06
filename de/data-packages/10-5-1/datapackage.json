@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eigenkapitalquote",
+                "Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen",
+                "Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
+                "Anteil der notleidenden Kredite an den Bruttokrediten insgesamt",
+                "Gesamtkapitalrentabilität",
+                "Verbindlichkeiten",
+                "Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-5-1",
+  "title": "Indikatoren zur Finanzstabilität"
+}

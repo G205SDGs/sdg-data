@@ -1,0 +1,51 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sub-indicator 1: spatial extent of water-related ecosystems",
+                "sub-indicator 3:  quantity discharge of water in rivers",
+                "sub-indicator 4: water bodies with good quality",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of water body",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "river water bodies",
+                "open water bodies",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1",
+  "title": "Veränderung des Umfangs wasserbezogener Ökosysteme im Zeitverlauf"
+}

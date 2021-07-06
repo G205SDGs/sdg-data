@@ -1,0 +1,65 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "level of risk of extinction (according to fao classification)",
+                "local livestock breeds (horses, cows, pigs, sheep and goats)",
+                "level of risk of extinction (according to national classification)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "level of risk of extinction",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "b) at risk",
+                "a) not at risk",
+                "b) under observation",
+                "c) breeding programs for preservation",
+                "d) rudiments remaining",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-5-2",
+  "title": "Anteil heimischer Rassen, die als vom Aussterben bedroht eingestuft sind"
+}

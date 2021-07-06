@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
+                "Long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
+                "Long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-9-1",
+  "title": "Sterblichkeitsrate infolge von Verschmutzung der Raum- und Außenluft"
+}

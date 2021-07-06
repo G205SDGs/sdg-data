@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "household expenditures on health",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Greater 10 %",
+                "Greater 25 %",
+                ""
+              ]
+            },
+            "title": "Household expenditures on health"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-8-2",
+  "title": "Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen"
+}

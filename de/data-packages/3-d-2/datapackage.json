@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "antimicrobial-resistant organisms",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Escherichia coli mit Resistenz gegenüber 3. Generations-Cephalosporinen (z. B. ESBL- E. coli)",
+                "Methicillin-resistente Staphylococcus aureus (MRSA)",
+                ""
+              ]
+            },
+            "title": "Antimikrobiell-resistente Organismen"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weltgesundheitsorganisation (WHO)",
+                "Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)",
+                ""
+              ]
+            },
+            "title": "Datenquelle"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-d-2",
+  "title": "Anteil der Blutvergiftungen, die von bestimmten gegen antimikrobielle Wirkstoffe resistenten Organismen verursacht werden"
+}

@@ -1,0 +1,67 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
+                "Private persons (donors) suspected in the context of corruption offences",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                "Divers",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-5-1",
+  "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten mindestens einen Kontakt mit einem öffentlichen Bediensteten hatten und eine Bestechungszahlung an diesen geleistet haben oder von diesem dazu aufgefordert wurden"
+}

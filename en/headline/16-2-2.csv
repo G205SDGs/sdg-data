@@ -1,21 +1,21 @@
-Year,Units,Value
-2010,"Per 100,000 inhabitants",0.81
-2011,"Per 100,000 inhabitants",0.84
-2012,"Per 100,000 inhabitants",0.78
-2013,"Per 100,000 inhabitants",0.75
-2014,"Per 100,000 inhabitants",0.72
-2015,"Per 100,000 inhabitants",0.58
-2016,"Per 100,000 inhabitants",0.65
-2017,"Per 100,000 inhabitants",0.81
-2018,"Per 100,000 inhabitants",0.59
-2019,"Per 100,000 inhabitants",0.57
-2010,Number,651.0
-2011,Number,672.0
-2012,Number,626.0
-2013,Number,603.0
-2014,Number,583.0
-2015,Number,470.0
-2016,Number,536.0
-2017,Number,669.0
-2018,Number,493.0
-2019,Number,470.0
+Year,Value,Units
+2010,0.81,"Per 100,000 inhabitants"
+2011,0.84,"Per 100,000 inhabitants"
+2012,0.78,"Per 100,000 inhabitants"
+2013,0.75,"Per 100,000 inhabitants"
+2014,0.72,"Per 100,000 inhabitants"
+2015,0.58,"Per 100,000 inhabitants"
+2016,0.65,"Per 100,000 inhabitants"
+2017,0.81,"Per 100,000 inhabitants"
+2018,0.59,"Per 100,000 inhabitants"
+2019,0.57,"Per 100,000 inhabitants"
+2010,651.0,Number
+2011,672.0,Number
+2012,626.0,Number
+2013,603.0,Number
+2014,583.0,Number
+2015,470.0,Number
+2016,536.0,Number
+2017,669.0,Number
+2018,493.0,Number
+2019,470.0,Number

@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population living in households with moisture damages",
+                "Population considering their dwelling as too dark",
+                "Population living in an area with crime, violence or vandalism",
+                "Population living in an area with noise pollution",
+                "Material deprivation for the housing dimension, total (1-4 items)",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-1-1",
+  "title": "Anteil der städtischen Bevölkerung, der in Slums, informellen Siedlungen oder unzureichendem Wohnraum lebt"
+}

@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "percentiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "P5",
+                "P10",
+                "P25",
+                "P50",
+                "P75",
+                "P90",
+                "P95",
+                ""
+              ]
+            },
+            "title": "Percentiles"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-1-1",
+  "title": "Prävalenz von Unterernährung"
+}

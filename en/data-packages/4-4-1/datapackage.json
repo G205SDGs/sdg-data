@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 25 years",
+                "16 to under 75 years",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Copying or moving of files and folders",
+                "Installing software or apps",
+                "Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
+                "Transferring files between computer and other devices",
+                "Writing code in a programming language",
+                ""
+              ]
+            },
+            "title": "Activities"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-1",
+  "title": "Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT), nach Art der Kompetenz"
+}

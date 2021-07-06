@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "speed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Über 144 kbit/s bis unter 2 Mbit/s",
+                "b) 2 Mbit/s bis unter 10 Mbit/s",
+                "c) 10 Mbit/s bis unter 30 Mbit/s",
+                "d) 30 Mbit/s bis unter 100 Mbit/s",
+                "e) 100 Mbit/s und mehr",
+                ""
+              ]
+            },
+            "title": "Geschwindigkeit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-6-1",
+  "title": "Anzahl der Verträge von Festnetz-Breitbandanschlüssen je 100 Einwohner, nach Geschwindigkeit"
+}

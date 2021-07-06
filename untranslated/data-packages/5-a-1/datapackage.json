@@ -1,0 +1,51 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "owned and leased agricultural land",
+                "female owners of agricultural holdings with the legal form of a sole proprietorship",
+                "agricultural holdings with the legal of a form sole proprietorship",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ownership",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "property",
+                "leasehold",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-a-1",
+  "title": "(a) Anteil der Agrarbevölkerung mit Eigentum oder sicheren Rechten an landwirtschaftlichen Flächen, nach Geschlecht und (b) Frauenanteil unter den Eigentümern oder Rechteinhabern landwirtschaftlicher Flächen, nach Art der Nutzungs- und Besitzrechte"
+}

@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ODA (gross disbursements) for poverty reduction",
+                "ODA (commitments) for poverty reduction",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-a-1",
+  "title": "Gesamtumfang der Zuschüsse im Rahmen der öffentlichen Entwicklungszusammenarbeit (ODA) aller Geber mit Schwerpunkt auf der Minderung der Armut, gemessen am Bruttonationaleinkommen (BNE) des Empfängerlands"
+}

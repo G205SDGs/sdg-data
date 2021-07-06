@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) cardiovascular disease",
+                "b) cancer",
+                "c) diabetes mellitus",
+                "d) chronic respiratory disease",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-4-1",
+  "title": "Sterblichkeitsrate infolge von Krankheiten des Kreislaufsystems, bösartigen Neubildungen, Diabetes mellitus oder chronischen Atemwegserkrankungen"
+}

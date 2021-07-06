@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "capital to assets ratio (%)",
+                "regulatory tier 1 capital to risk-weighted assets (%)",
+                "nonperforming loans net of provisions to capital (%)",
+                "nonperforming loans net of provisions to gross loans (%)",
+                "return on assets (%)",
+                "liquid assets to short-term liabilities (%)",
+                "net open position in foreign exchange to capital (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-5-1",
+  "title": "Indikatoren zur Finanzstabilität"
+}

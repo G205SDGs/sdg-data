@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Intended Nationally Determined Contribution of the EU and its member States",
+                "Climate Action Plan 2050",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-2-1",
+  "title": "Anzahl der Staaten mit national festgelegten Beiträgen, langfristigen Strategien, nationalen Anpassungsplänen und Anpassungsmitteilungen, die dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen gemeldet wurden"
+}

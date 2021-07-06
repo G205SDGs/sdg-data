@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "oda (net disbursements)",
+                "oof (net disbursements)",
+                "officially supported export credits (net disbursements)",
+                "private sector flows at market terms (net disbursements)",
+                "private concessional flows (net disbursements)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-b-1",
+  "title": "Gesamte Finanzströme für Entwicklung, nach Nehmer- und Geberländern und Art des Zahlungsstroms (z. B. öffentliche Entwicklungszusammenarbeit (ODA), ausländische Direktinvestitionen und sonstige Finanzströme)"
+}

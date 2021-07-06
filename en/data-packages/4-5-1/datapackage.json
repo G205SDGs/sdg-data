@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SDG indicator 4.2.2",
+                "SDG-Indicator 4.3.1 (Youths)",
+                "SDG-Indicator 4.3.1 (Adults)",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1",
+  "title": "Paritätsindizes (weiblich/männlich, ländlich/städtisch, unterstes/oberstes Vermögensquantil und sonstige, wie Behinderungsstatus, Zugehörigkeit zu einer indigenen Bevölkerungsgruppe und Beeinträchtigung durch Konflikte, je nach Datenverfügbarkeit) für alle genannten Bildungsindikatoren, die sich aufschlüsseln lassen"
+}

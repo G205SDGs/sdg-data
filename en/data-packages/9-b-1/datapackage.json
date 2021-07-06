@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "technological intensity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medium-high-tech",
+                "High-tech",
+                ""
+              ]
+            },
+            "title": "Technological intensity"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-b-1",
+  "title": "Anteil der Wertschöpfung der Medium- und High-Tech-Industrien an der Gesamtwertschöpfung"
+}

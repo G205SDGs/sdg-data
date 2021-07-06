@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-5-2",
+  "title": "Anteil der Unternehmen, die in den vorangegangenen 12 Monaten mindestens einen Kontakt mit einem öffentlichen Bediensteten hatten und eine Bestechungszahlung an diesen geleistet haben oder von diesem dazu aufgefordert wurden"
+}

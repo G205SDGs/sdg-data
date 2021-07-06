@@ -1,0 +1,50 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "applications received",
+                "applications finally processed",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "declination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "admissible applications",
+                "rejected applications",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-3-3",
+  "title": "Anteil der Bevölkerung, der in den vorangegangenen zwei Jahren eine Streitigkeit durchlebt und einen formellen oder informellen Streitbeilegungsmechanismus in Anspruch genommen hat, nach Art des Mechanismus"
+}

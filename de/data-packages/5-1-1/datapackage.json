@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "area of law",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area 4: Ehe und Familie",
+                "Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen",
+                "Area 2: Gewalt gegen Frauen",
+                "Area 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben",
+                ""
+              ]
+            },
+            "title": "Rechtsgebiet"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-1-1",
+  "title": "Vorhandensein gesetzlicher Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung und der Nichtdiskriminierung aufgrund des Geschlechts"
+}

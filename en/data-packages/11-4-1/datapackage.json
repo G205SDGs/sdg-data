@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)",
+                "Government expenditure on cultural services (COFOG division 8.2)",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-4-1",
+  "title": "Gesamtausgaben pro Kopf für die Erhaltung und den Schutz des gesamten Kultur- und Naturerbes, nach Finanzierungsquelle (öffentlich, privat), Art des Erbes (Kulturerbe, Naturerbe) und Verwaltungsebene (national, regional, lokal/kommunal)"
+}

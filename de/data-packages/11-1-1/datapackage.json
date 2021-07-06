@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt",
+                "Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet",
+                "Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt",
+                "Bevölkerung mit Lärmbelästigung in deren Wohnumgebung",
+                "Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-1-1",
+  "title": "Anteil der städtischen Bevölkerung, der in Slums, informellen Siedlungen oder unzureichendem Wohnraum lebt"
+}

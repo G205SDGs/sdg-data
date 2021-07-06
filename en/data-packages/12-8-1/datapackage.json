@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "area2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(a) national education policies",
+                "(b) curricula",
+                "(c) teacher education",
+                "(d) student assessment",
+                ""
+              ]
+            },
+            "title": "Area"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-8-1",
+  "title": "Umfang in dem (i) politische Bildung im globalen Maßstab und (ii) Bildung für nachhaltige Entwicklung in (a) nationale Bildungspolitik, (b) Lehrpläne, (c) Ausbildung von Lehrkräften und (d) Leistungsbewertung der Lernenden integriert sind"
+}

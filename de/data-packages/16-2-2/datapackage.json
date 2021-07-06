@@ -1,0 +1,82 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Je 100 000 Einwohner",
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13 Jahre und jünger",
+                "14 bis unter 18 Jahre",
+                "18 bis unter 21 Jahre",
+                "21 bis unter 25 Jahre",
+                "25 Jahre und älter",
+                "Alter unbekannt",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "form of exploitation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausbeutung der Arbeitskraft",
+                "Sexuelle Ausbeutung",
+                ""
+              ]
+            },
+            "title": "Form der Ausbeutung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-2",
+  "title": "Anzahl der Opfer von Menschenhandel je 100&nbsp;000 Einwohner, nach Geschlecht, Alter und Form der Ausbeutung"
+}

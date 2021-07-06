@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "class 3 areas (elevation 2500-3500 meters)",
+                "class 4 areas (elevation 1500-2500 meters)",
+                "class 5 areas (elevation 1000-1500 meters)",
+                "class 6 areas (elevation  300-1000 meters)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-4-2",
+  "title": "Index der Grünbedeckung in den Bergen"
+}

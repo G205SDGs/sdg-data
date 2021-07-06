@@ -1,0 +1,50 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "form of abuse",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical abuse",
+                "psychological abuse",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-1",
+  "title": "Anteil der Kinder im Alter von 1-17 Jahren, die im vorangegangenen Monat körperlicher Züchtigung und/oder psychischer Aggression durch Betreuungspersonen ausgesetzt waren"
+}

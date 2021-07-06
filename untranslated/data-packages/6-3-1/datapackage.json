@@ -1,0 +1,50 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "safely treated wastewater (total)",
+                "untreated wastewater that does not have to undergo treatment",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of waste water",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "cooling water",
+                "other wastewater that does not have to undergo treatment",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-1",
+  "title": "Anteil der sicher behandelten Haushalts- und Industrieabwässer"
+}

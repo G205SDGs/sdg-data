@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Literacy skills",
+                "b) Numeracy skills",
+                ""
+              ]
+            },
+            "title": "Skill"
+          },
+          {
+            "name": "level of proficiency",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minimum requirement level I",
+                "Minimum requirement level II",
+                ""
+              ]
+            },
+            "title": "Level of proficiency"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-6-1",
+  "title": "Anteil der Bevölkerung einer bestimmten Altersgruppe, der ein festgelegtes Mindestniveau an funktionalen (a) Lese-, Schreib- und (b) Rechenkompetenzen besitzt, nach Geschlecht"
+}

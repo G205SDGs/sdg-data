@@ -1,0 +1,74 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "population that has convenient access to public transport (within 500 meters) (%)",
+                "population that has convenient access to public transport (within 10 minutes walking distance) (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 18 years",
+                "18 to under 30 years",
+                "30 to under 45 years",
+                "45 to under 65 years",
+                "65 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mobility impaired people",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-2-1",
+  "title": "Anteil der Bevölkerung mit angemessenem Zugang zu öffentlichen Verkehrsmitteln, nach Geschlecht, Alter und Menschen mit Behinderungen"
+}
