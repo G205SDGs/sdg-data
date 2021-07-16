@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",
-                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",
+                "oda and oof (commitments) to strengthen statistical capacity",
+                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity",
                 ""
               ]
             }

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,16 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "technological intensity",
+            "name": "technology sectors",
             "type": "string",
             "constraints": {
               "enum": [
-                "Medium-High-Tech",
-                "High-Tech",
+                "Medium-Hightech",
+                "Hightech",
                 ""
               ]
             },
-            "title": "Technologieintensität"
+            "title": "Technologiesektoren"
           },
           {
             "name": "Value",

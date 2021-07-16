@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries",
-                "ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries",
+                "ODA and OOF (commitments) to strengthen statistical capacity",
+                "ODA and OOF (gross disbursements) to strengthen statistical capacity",
                 ""
               ]
             },

@@ -28,6 +28,17 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menschen mit Mobilitätseinschränkung",
+                ""
+              ]
+            },
+            "title": "Behinderungsstatus"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -53,17 +64,6 @@
               ]
             },
             "title": "Altersklasse"
-          },
-          {
-            "name": "disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menschen mit Mobilitätseinschränkung",
-                ""
-              ]
-            },
-            "title": "Behinderungsstatus"
           },
           {
             "name": "Value",

@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "percentiles",
             "type": "string",
             "constraints": {
@@ -43,6 +31,18 @@
               ]
             },
             "title": "Percentiles"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

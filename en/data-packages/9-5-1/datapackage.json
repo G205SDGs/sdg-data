@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of R&D expenditures to GDP",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "region",
             "type": "string",
             "constraints": {

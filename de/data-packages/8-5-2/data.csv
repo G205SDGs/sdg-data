@@ -1,4 +1,4 @@
-Year,Geschlecht,Altersklasse,Value
+Year,Altersklasse,Geschlecht,Value
 2010,,,7.0
 2011,,,5.8
 2012,,,5.4
@@ -9,43 +9,43 @@ Year,Geschlecht,Altersklasse,Value
 2017,,,3.8
 2018,,,3.4
 2019,,,3.1
-2010,Weiblich,,6.5
-2011,Weiblich,,5.6
-2012,Weiblich,,5.2
-2013,Weiblich,,4.9
-2014,Weiblich,,4.6
-2015,Weiblich,,4.2
-2016,Weiblich,,3.8
-2017,Weiblich,,3.3
-2018,Weiblich,,2.9
-2019,Weiblich,,2.7
-2010,Männlich,,7.4
-2011,Männlich,,6.1
-2012,Männlich,,5.6
-2013,Männlich,,5.5
-2014,Männlich,,5.3
-2015,Männlich,,5.0
-2016,Männlich,,4.5
-2017,Männlich,,4.1
-2018,Männlich,,3.8
-2019,Männlich,,3.5
-2010,,15 bis unter 25 Jahre,9.8
-2011,,15 bis unter 25 Jahre,8.5
-2012,,15 bis unter 25 Jahre,8.0
-2013,,15 bis unter 25 Jahre,7.8
-2014,,15 bis unter 25 Jahre,7.7
-2015,,15 bis unter 25 Jahre,7.2
-2016,,15 bis unter 25 Jahre,7.1
-2017,,15 bis unter 25 Jahre,6.8
-2018,,15 bis unter 25 Jahre,6.2
-2019,,15 bis unter 25 Jahre,5.8
-2010,,25 bis unter 75 Jahre,6.6
-2011,,25 bis unter 75 Jahre,5.5
-2012,,25 bis unter 75 Jahre,5.1
-2013,,25 bis unter 75 Jahre,4.9
-2014,,25 bis unter 75 Jahre,4.7
-2015,,25 bis unter 75 Jahre,4.4
-2016,,25 bis unter 75 Jahre,3.8
-2017,,25 bis unter 75 Jahre,3.4
-2018,,25 bis unter 75 Jahre,3.1
-2019,,25 bis unter 75 Jahre,2.9
+2010,15 bis unter 25 Jahre,,9.8
+2011,15 bis unter 25 Jahre,,8.5
+2012,15 bis unter 25 Jahre,,8.0
+2013,15 bis unter 25 Jahre,,7.8
+2014,15 bis unter 25 Jahre,,7.7
+2015,15 bis unter 25 Jahre,,7.2
+2016,15 bis unter 25 Jahre,,7.1
+2017,15 bis unter 25 Jahre,,6.8
+2018,15 bis unter 25 Jahre,,6.2
+2019,15 bis unter 25 Jahre,,5.8
+2010,25 bis unter 75 Jahre,,6.6
+2011,25 bis unter 75 Jahre,,5.5
+2012,25 bis unter 75 Jahre,,5.1
+2013,25 bis unter 75 Jahre,,4.9
+2014,25 bis unter 75 Jahre,,4.7
+2015,25 bis unter 75 Jahre,,4.4
+2016,25 bis unter 75 Jahre,,3.8
+2017,25 bis unter 75 Jahre,,3.4
+2018,25 bis unter 75 Jahre,,3.1
+2019,25 bis unter 75 Jahre,,2.9
+2010,,Weiblich,6.5
+2011,,Weiblich,5.6
+2012,,Weiblich,5.2
+2013,,Weiblich,4.9
+2014,,Weiblich,4.6
+2015,,Weiblich,4.2
+2016,,Weiblich,3.8
+2017,,Weiblich,3.3
+2018,,Weiblich,2.9
+2019,,Weiblich,2.7
+2010,,Männlich,7.4
+2011,,Männlich,6.1
+2012,,Männlich,5.6
+2013,,Männlich,5.5
+2014,,Männlich,5.3
+2015,,Männlich,5.0
+2016,,Männlich,4.5
+2017,,Männlich,4.1
+2018,,Männlich,3.8
+2019,,Männlich,3.5

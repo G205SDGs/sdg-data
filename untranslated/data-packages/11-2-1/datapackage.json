@@ -26,6 +26,16 @@
             }
           },
           {
+            "name": "disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mobility impaired people",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -46,16 +56,6 @@
                 "30 to under 45 years",
                 "45 to under 65 years",
                 "65 years and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mobility impaired people",
                 ""
               ]
             }

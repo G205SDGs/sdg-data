@@ -16,12 +16,24 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millionen USD, konstante Preise (2018)",
+                "Millionen USD, konstante Preise (2019)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Verpflichtungen (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben für den Forstsektor",
+                "Zusagen (ODA) für Biodiversität",
+                "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
                 ""
               ]
             },

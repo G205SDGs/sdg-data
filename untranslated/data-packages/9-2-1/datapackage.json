@@ -19,9 +19,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "relative to gdp",
-                "as proportion of total gross value added",
-                "eur per inhabitant",
+                "%",
+                "eur",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "manufacturing gross value added as a proportion of gdp",
+                "manufacturing gross value added as a proportion of total gross value added",
+                "manufacturing gross value added per capita",
                 ""
               ]
             }

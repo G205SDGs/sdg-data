@@ -32,6 +32,7 @@
               "enum": [
                 "female",
                 "male",
+                "unknown",
                 ""
               ]
             }

@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mn usd, constant prices (2018)",
+                "mn usd, constant prices (2019)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {

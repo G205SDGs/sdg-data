@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verpflichtungen (ODA) für Biodiversität",
+                "Zusagen (ODA) für Biodiversität",
                 "Umweltschutzausgaben",
                 ""
               ]

@@ -70,7 +70,7 @@
           }
         ]
       },
-      "title": "Umfang in dem (i) politische Bildung im globalen Maßstab und (ii) Bildung für nachhaltige Entwicklung in (a) nationale Bildungspolitik, (b) Lehrpläne, (c) Ausbildung von Lehrkräften und (d) Leistungsbewertung der Lernenden integriert sind"
+      "title": "Umfang in dem (i) politische Bildung im globalen Maßstab und (ii) Bildung für nachhaltige Entwicklung in (a) nationale Bildungspolitik; (b) Lehrpläne; (c) Ausbildung von Lehrkräften; und (d) Leistungsbewertung der Lernenden integriert sind"
     },
     {
       "path": "10-7-1/data.csv",
@@ -245,6 +245,16 @@
             }
           },
           {
+            "name": "disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mobility impaired people",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -265,16 +275,6 @@
                 "30 to under 45 years",
                 "45 to under 65 years",
                 "65 years and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mobility impaired people",
                 ""
               ]
             }
@@ -314,11 +314,11 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
-      "title": "Anteil der Stellen in nationalen und lokalen öffentlichen Institutionen, einschließlich (a) Gesetzgebungsorganen, (b) des öffentlichen Dienstes und (c) Rechtsprechungsorganen, im Vergleich zur nationalen Stellenverteilung, nach Geschlecht, Alter, Menschen mit Behinderungen und Bevölkerungsgruppen"
+      "title": "Stellenverteilung in nationalen und lokalen Institutionen, einschließlich a) Gesetzgebungsorganen; b) des öffentlichen Dienstes; und c) Rechtsprechungsorganen, im Vergleich zur nationalen Stellenverteilung, nach Geschlecht, Alter, Menschen mit Behinderungen und Bevölkerungsgruppe"
     },
     {
       "path": "4-a-1/data.csv",
@@ -458,17 +458,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population who had the impression that public officials are corruptible",
-                "private persons (donors) suspected in the context of corruption offences",
-                ""
-              ]
-            }
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -476,6 +465,17 @@
                 "female",
                 "male",
                 "divers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "population who had the impression that public officials are corruptible",
+                "private persons (donors) suspected in the context of corruption offences",
                 ""
               ]
             }
@@ -503,17 +503,6 @@
             "type": "integer"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -521,6 +510,17 @@
                 "under 18 years",
                 "18 to under 65 years",
                 "65 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -639,17 +639,6 @@
             "type": "integer"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -657,6 +646,17 @@
                 "under 18 years",
                 "18 to under 65 years",
                 "65 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -744,7 +744,7 @@
           }
         ]
       },
-      "title": "Anteil der gesamten erwachsenen Bevölkerung, der sichere Landnutzungs- und -besitzrechte hat, (a) mit gesetzlich anerkannten Dokumenten und (b) seine Landrechte als sicher ansieht, nach Geschlecht und Art der Nutzungs- und Besitzrechte"
+      "title": "Anteil der gesamten erwachsenen Bevölkerung, der sichere Landnutzungs- und -besitzrechte hat, (a) mit gesetzlich anerkannten Dokumenten; und (b) seine Landrechte als sicher ansieht, nach Geschlecht und Art der Nutzungs- und Besitzrechte"
     },
     {
       "path": "8-6-1/data.csv",
@@ -777,7 +777,7 @@
           }
         ]
       },
-      "title": "Anteil junger Menschen (im Alter von 15-24 Jahren), die sich weder in Schul- oder Berufsausbildung noch in Erwerbstätigkeit befinden"
+      "title": "Anteil junger Menschen (im Alter von 15–24 Jahren), die sich weder in Schul- oder Berufsausbildung noch in Erwerbstätigkeit befinden"
     },
     {
       "path": "12-b-1/data.csv",
@@ -916,9 +916,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "relative to gdp",
-                "as proportion of total gross value added",
-                "eur per inhabitant",
+                "%",
+                "eur",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "manufacturing gross value added as a proportion of gdp",
+                "manufacturing gross value added as a proportion of total gross value added",
+                "manufacturing gross value added per capita",
                 ""
               ]
             }
@@ -964,7 +975,7 @@
           }
         ]
       },
-      "title": "Umfang in dem (i) politische Bildung im globalen Maßstab und (ii) Bildung für nachhaltige Entwicklung in (a) nationale Bildungspolitik, (b) Lehrpläne, (c) Ausbildung von Lehrkräften und (d) Leistungsbewertung der Lernenden integriert sind"
+      "title": "Umfang in dem (i) politische Bildung im globalen Maßstab und (ii) Bildung für nachhaltige Entwicklung in (a) nationale Bildungspolitik; (b) Lehrpläne; (c) Ausbildung von Lehrkräften; und (d) Leistungsbewertung der Lernenden integriert sind"
     },
     {
       "path": "2-1-1/data.csv",
@@ -981,17 +992,6 @@
             "type": "integer"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "percentiles",
             "type": "string",
             "constraints": {
@@ -1003,6 +1003,17 @@
                 "p75",
                 "p90",
                 "p95",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -1034,8 +1045,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation)",
-                "oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation)",
+                "oda and oof (commitments) for capacity building and national planning (without south-south cooperation)",
+                "oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperation)",
                 ""
               ]
             }
@@ -1260,7 +1271,18 @@
               "enum": [
                 "mn t",
                 "t per capita",
-                "per real gdp (2015 = 100)",
+                "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "raw material consumption (rmc)",
+                "raw material consumption per real gdp",
                 ""
               ]
             }
@@ -1451,7 +1473,7 @@
           }
         ]
       },
-      "title": "Anteil der Kinder im Alter von 1-17 Jahren, die im vorangegangenen Monat körperlicher Züchtigung und/oder psychischer Aggression durch Betreuungspersonen ausgesetzt waren"
+      "title": "Anteil der Kinder im Alter von 1–17 Jahren, die im vorangegangenen Monat körperlicher Züchtigung und/ oder psychischer Aggression durch Betreuungspersonen ausgesetzt waren"
     },
     {
       "path": "17-3-1/data.csv",
@@ -1735,7 +1757,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus und geografischem Standort (städtisch/ländlich)"
+      "title": "Anteil der Bevölkerung, der unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus und geografischem Standort (städtisch/ ländlich)"
     },
     {
       "path": "5-3-1/data.csv",
@@ -1779,7 +1801,7 @@
           }
         ]
       },
-      "title": "Anteil der Frauen im Alter von 20-24 Jahren, die vor dem vollendeten 15. bzw. 18. Lebensjahr verheiratet waren oder in einer vergleichbaren Verbindung lebten"
+      "title": "Anteil der Frauen im Alter von 20–24 Jahren, die vor dem vollendeten 15. bzw. 18. Lebensjahr verheiratet waren oder in einer vergleichbaren Verbindung lebten"
     },
     {
       "path": "3-3-4/data.csv",
@@ -1994,7 +2016,7 @@
           }
         ]
       },
-      "title": "(a) Anzahl der Staaten, die nationale Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020 in ihre nationalen Strategien und Aktionspläne zugunsten der biologischen Vielfalt aufgenommen haben, und die bei der Umsetzung dieser Zielvorgaben gemeldeten Fortschritte und (b) Aufnahme der biologischen Vielfalt in die nationalen Rechnungslegungs- und Berichterstattungssysteme, definiert als die Anwendung des Systems der Umweltökonomischen Gesamtrechnungen"
+      "title": "(a) Anzahl der Staaten, die nationale Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011–2020 in ihre nationalen Strategien und Aktionspläne zugunsten der biologischen Vielfalt aufgenommen haben, und die bei der Umsetzung dieser Zielvorgaben gemeldeten Fortschritte und (b) Aufnahme der biologischen Vielfalt in die nationalen Rechnungslegungs- und Berichterstattungssysteme, definiert als die Anwendung des Systems der Umweltökonomischen Gesamtrechnungen"
     },
     {
       "path": "15-1-1/data.csv",
@@ -2049,7 +2071,7 @@
           }
         ]
       },
-      "title": "Umsetzungsgrad eines rechtlichen/regulatorischen/politischen/institutionellen Rahmenwerks, das die Zugangsrechte für Kleinfischerei anerkennt und schützt"
+      "title": "Umsetzungsgrad eines rechtlichen/ regulatorischen/ politischen/ institutionellen Rahmens, das die Zugangsrechte für Kleinfischerei anerkennt und schützt"
     },
     {
       "path": "3-9-3/data.csv",
@@ -2215,6 +2237,7 @@
               "enum": [
                 "female",
                 "male",
+                "unknown",
                 ""
               ]
             }
@@ -2305,8 +2328,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of net oda to gni (%)",
-                "proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)",
+                "proportion of oda (net disbursements) to gni",
+                "proportion of bilateral and imputed multilateral oda (net disbursements) for lcds to the gross national income (gni)",
                 ""
               ]
             }
@@ -2373,7 +2396,7 @@
           }
         ]
       },
-      "title": "Umfang der Nutzung ländereigener Ergebnisrahmenwerke und Planungsinstrumente durch Geber von Entwicklungszusammenarbeit"
+      "title": "Umfang der Nutzung ländereigener Ergebnisrahmen und Planungsinstrumente durch Geber von Entwicklungszusammenarbeit"
     },
     {
       "path": "3-4-1/data.csv",
@@ -2558,7 +2581,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten mit verfassungsmäßigen, gesetzlichen und/oder politischen Garantien für den öffentlichen Zugang zu Informationen"
+      "title": "Anzahl der Staaten mit verfassungsmäßigen, gesetzlichen und/ oder politischen Garantien für den öffentlichen Zugang zu Informationen"
     },
     {
       "path": "11-7-1/data.csv",
@@ -2630,17 +2653,6 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -2650,6 +2662,17 @@
                 "18 to under 21 years",
                 "21 to under 60 years",
                 "60 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -2694,7 +2717,7 @@
           }
         ]
       },
-      "title": "Paritätsindizes (weiblich/männlich, ländlich/städtisch, unterstes/oberstes Vermögensquantil und sonstige, wie Behinderungsstatus, Zugehörigkeit zu einer indigenen Bevölkerungsgruppe und Beeinträchtigung durch Konflikte, je nach Datenverfügbarkeit) für alle genannten Bildungsindikatoren, die sich aufschlüsseln lassen"
+      "title": "Paritätsindizes (weiblich/ männlich, ländlich/ städtisch, unterstes/ oberstes Vermögensquantil und sonstige, wie Behinderungsstatus, Zugehörigkeit zu einer indigenen Bevölkerungsgruppe und Beeinträchtigung durch Konflikte, je nach Datenverfügbarkeit) für alle genannten Bildungsindikatoren, die sich aufschlüsseln lassen"
     },
     {
       "path": "5-1-1/data.csv",
@@ -2784,7 +2807,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten, die nationale Strategien zur Katastrophenvorsorge im Einklang mit dem Sendai-Rahmenwerk für Katastrophenvorsorge 2015-2030 beschließen und umsetzen"
+      "title": "Anzahl der Staaten, die nationale Strategien zur Katastrophenvorsorge im Einklang mit dem Sendai-Rahmenwerk für Katastrophenvorsorge 2015–2030 beschließen und umsetzen"
     },
     {
       "path": "10-4-1/data.csv",
@@ -2951,7 +2974,7 @@
           }
         ]
       },
-      "title": "Umfang in dem (i) politische Bildung im globalen Maßstab und (ii) Bildung für nachhaltige Entwicklung in (a) nationale Bildungspolitik, (b) Lehrpläne, (c) Ausbildung von Lehrkräften und (d) Leistungsbewertung der Lernenden integriert sind"
+      "title": "Umfang in dem (i) politische Bildung im globalen Maßstab und (ii) Bildung für nachhaltige Entwicklung in (a) nationale Bildungspolitik; (b) Lehrpläne; (c) Ausbildung von Lehrkräften; und (d) Leistungsbewertung der Lernenden integriert sind"
     },
     {
       "path": "3-3-3/data.csv",
@@ -3021,6 +3044,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "proportion of r&d expenditures to gdp",
+                ""
+              ]
+            }
           },
           {
             "name": "region",
@@ -3277,7 +3310,7 @@
           }
         ]
       },
-      "title": "Gesamtausgaben pro Kopf für die Erhaltung und den Schutz des gesamten Kultur- und Naturerbes, nach Finanzierungsquelle (öffentlich, privat), Art des Erbes (Kulturerbe, Naturerbe) und Verwaltungsebene (national, regional, lokal/kommunal)"
+      "title": "Gesamtausgaben pro Kopf für die Erhaltung und den Schutz des gesamten Kultur- und Naturerbes, nach Finanzierungsquelle (öffentlich, privat), Art des Erbes (Kulturerbe, Naturerbe) und Verwaltungsebene (national, regional, lokal/ kommunal)"
     },
     {
       "path": "5-a-2/data.csv",
@@ -3310,7 +3343,7 @@
           }
         ]
       },
-      "title": "Anteil der Staaten mit einem Rechtsrahmen (einschließlich Gewohnheitsrecht), der Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert"
+      "title": "Anteil der Staaten mit einem Rechtsrahmen (einschließlich Gewohnheitsrecht), der Frauen die gleichen Rechte auf Eigentum an und/ oder Verfügungsgewalt über Grund und Boden garantiert"
     },
     {
       "path": "2-2-3/data.csv",
@@ -3347,7 +3380,7 @@
           }
         ]
       },
-      "title": "Prävalenz von Anämie bei Frauen im Alter von 15-49 Jahren, nach Schwangerschaftsstatus (in Prozent)"
+      "title": "Prävalenz von Anämie bei Frauen im Alter von 15–49 Jahren, nach Schwangerschaftsstatus (in Prozent)"
     },
     {
       "path": "7-a-1/data.csv",
@@ -3603,8 +3636,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",
-                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",
+                "oda and oof (commitments) to strengthen statistical capacity",
+                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity",
                 ""
               ]
             }
@@ -3759,7 +3792,7 @@
           }
         ]
       },
-      "title": "Anteil der Zielbevölkerung, der durch grundlegende Gesundheitsleistungen abgedeckt ist"
+      "title": "Versorgung mit grundlegenden Gesundheitsdiensten"
     },
     {
       "path": "11-6-1/data.csv",
@@ -4109,7 +4142,7 @@
           }
         ]
       },
-      "title": "Anteil der Kinder im Alter von 24-59 Monaten mit altersgemäßer Entwicklung hinsichtlich Gesundheit, Lernens und psychosozialen Wohlbefindens, nach Geschlecht"
+      "title": "Anteil der Kinder im Alter von 24–59 Monaten mit altersgemäßer Entwicklung hinsichtlich Gesundheit, Lernens und psychosozialen Wohlbefindens, nach Geschlecht"
     },
     {
       "path": "17-1-1/data.csv",
@@ -4655,7 +4688,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten, die Fortschritte bei der Überwachung von Multi-Stakeholder-Rahmenwerken zur Wirksamkeit von Entwicklungszusammenarbeit berichten, die das Erreichen der Ziele für nachhaltige Entwicklung unterstützen"
+      "title": "Anzahl der Staaten, die Fortschritte bei der Überwachung von Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit berichten, die das Erreichen der Ziele für nachhaltige Entwicklung unterstützen"
     },
     {
       "path": "3-9-2/data.csv",
@@ -4755,7 +4788,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten, die über eine nationale Städtepolitik oder regionale Entwicklungsplanung verfügen, welche (a) auf die Bevölkerungsdynamik reagiert, (b) eine ausgewogene Raumentwicklung gewährleistet und (c) den lokalen Haushaltsspielraum vergrößert"
+      "title": "Anzahl der Staaten, die über eine nationale Städtepolitik oder regionale Entwicklungsplanung verfügen, welche (a) auf die Bevölkerungsdynamik reagiert; (b) eine ausgewogene Raumentwicklung gewährleistet; und (c) den lokalen Haushaltsspielraum vergrößert"
     },
     {
       "path": "8-5-2/data.csv",
@@ -4772,23 +4805,23 @@
             "type": "integer"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
                 "15 to under 25 years",
                 "25 to under 75 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -5088,7 +5121,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten (a) physischer Gewalt, (b) psychischer Gewalt und/oder (c) sexueller Gewalt ausgesetzt war"
+      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten (a) physischer Gewalt; (b) psychischer Gewalt; und (c) sexueller Gewalt ausgesetzt war"
     },
     {
       "path": "14-1-1/data.csv",
@@ -5176,7 +5209,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten, die nationale Strategien zur Katastrophenvorsorge im Einklang mit dem Sendai-Rahmenwerk für Katastrophenvorsorge 2015-2030 beschließen und umsetzen"
+      "title": "Anzahl der Staaten, die nationale Strategien zur Katastrophenvorsorge im Einklang mit dem Sendai-Rahmenwerk für Katastrophenvorsorge 2015–2030 beschließen und umsetzen"
     },
     {
       "path": "3-7-1/data.csv",
@@ -5209,7 +5242,7 @@
           }
         ]
       },
-      "title": "Anteil der Frauen im gebärfähigen Alter (im Alter von 15-49 Jahren), die ihren Anspruch auf Familienplanung durch moderne Methoden umsetzen konnten"
+      "title": "Anteil der Frauen im gebärfähigen Alter (im Alter von 15–49 Jahren), die ihren Anspruch auf Familienplanung durch moderne Methoden umsetzen konnten"
     },
     {
       "path": "16-6-2/data.csv",
@@ -5594,7 +5627,7 @@
           }
         ]
       },
-      "title": "Anteil junger Frauen und Männer im Alter von 18-29 Jahren, die vor Vollendung des 18. Lebensjahrs sexuelle Gewalt erlebt haben"
+      "title": "Anteil junger Frauen und Männer im Alter von 18–29 Jahren, die vor Vollendung des 18. Lebensjahrs sexuelle Gewalt erlebt haben"
     },
     {
       "path": "12-1-1/data.csv",
@@ -5649,7 +5682,7 @@
           }
         ]
       },
-      "title": "Anteil der Mädchen und Frauen im Alter von 15-49 Jahren, die weiblicher Genitalverstümmelung/Beschneidung unterzogen wurden, nach Alter"
+      "title": "Anteil der Mädchen und Frauen im Alter von 15–49 Jahren, die weiblicher Genitalverstümmelung/ Beschneidung unterzogen wurden, nach Alter"
     },
     {
       "path": "14-4-1/data.csv",
@@ -5957,7 +5990,7 @@
           }
         ]
       },
-      "title": "Geburtenrate bei Jugendlichen (im Alter von 10-14 Jahren und 15-19 Jahren) je 1&nbsp;000 Frauen in dieser Altersgruppe"
+      "title": "Geburtenrate bei Jugendlichen (im Alter von 10–14 Jahren und 15–19 Jahren) je 1&nbsp;000 Frauen in dieser Altersgruppe"
     },
     {
       "path": "3-1-1/data.csv",
@@ -5994,6 +6027,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mn usd, constant prices (2018)",
+                "mn usd, constant prices (2019)",
+                ""
+              ]
+            }
           },
           {
             "name": "timeseries",
@@ -6045,7 +6089,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der durch sozialen Basisschutz/Sozialschutzsysteme abgedeckt ist, nach Geschlecht, mit getrennter Ausweisung der Kinder, Arbeitslosen, älteren Menschen, Menschen mit Behinderungen, Schwangeren, Neugeborenen, Opfern von Arbeitsunfällen, Armen und Schwachen"
+      "title": "Anteil der Bevölkerung, der durch sozialen Basisschutz/ Sozialschutzsysteme abgedeckt ist, nach Geschlecht, mit getrennter Ausweisung der Kinder, Arbeitslosen, älteren Menschen, Menschen mit Behinderungen, Schwangeren, Neugeborenen, Opfern von Arbeitsunfällen, Armen und Schwachen"
     },
     {
       "path": "16-4-2/data.csv",
@@ -6501,7 +6545,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten, die Fortschritte bei der Ratifizierung, Annahme und Durchführung von ozeanbezogenen Übereinkünften zur Umsetzung des Völkerrechts, wie es im Seerechtsübereinkommen der Vereinten Nationen niedergelegt ist, durch rechtliche, politische und institutionelle Rahmenwerke machen"
+      "title": "Anzahl der Staaten, die Fortschritte bei der Ratifizierung, Annahme und Durchführung von ozeanbezogenen Übereinkünften zur Umsetzung des Völkerrechts, wie es im Seerechtsübereinkommen der Vereinten Nationen niedergelegt ist, durch rechtliche, politische und institutionelle Rahmenbedingungen zugunsten der Erhaltung und nachhaltigen Nutzung der Ozeane und ihrer Ressourcen machen"
     },
     {
       "path": "9-4-1/data.csv",
@@ -6589,7 +6633,7 @@
           }
         ]
       },
-      "title": "Anteil der Frauen im Alter von 15-49 Jahren, die ihre eigenen sachlich fundierten Entscheidungen bezüglich sexueller Beziehungen, der Verwendung von Verhütungsmitteln und der reproduktionsmedizinischen Versorgung treffen"
+      "title": "Anteil der Frauen im Alter von 15–49 Jahren, die ihre eigenen sachlich fundierten Entscheidungen bezüglich sexueller Beziehungen, der Verwendung von Verhütungsmitteln und der reproduktionsmedizinischen Versorgung treffen"
     },
     {
       "path": "17-18-3/data.csv",
@@ -6812,7 +6856,7 @@
           }
         ]
       },
-      "title": "(a) Erzeugte gefährliche Abfälle pro Kopf und (b) Anteil der behandelten gefährlichen Abfälle, nach Art der Behandlung"
+      "title": "(a) Erzeugte gefährliche Abfälle pro Kopf; und (b) Anteil der behandelten gefährlichen Abfälle, nach Art der Behandlung"
     },
     {
       "path": "12-3-1/data.csv",
@@ -7034,7 +7078,7 @@
             "type": "integer"
           },
           {
-            "name": "technological intensity",
+            "name": "technology sectors",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7083,7 +7127,7 @@
           }
         ]
       },
-      "title": "Produktionsvolumen je Arbeitseinheit, nach Größenklassen der Land-/Weide-/Forstwirtschaftsbetriebe"
+      "title": "Produktionsvolumen je Arbeitseinheit, nach Größenklassen der Land-/ Weide-/ Forstwirtschaftsbetriebe"
     },
     {
       "path": "3-2-1/data.csv",
@@ -7139,7 +7183,18 @@
               "enum": [
                 "mn t",
                 "t per capita",
-                "per real gdp (2015 = 100)",
+                "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "domestic material consumption (dmc)",
+                "domestic material consumption per real gdp",
                 ""
               ]
             }
@@ -7173,7 +7228,18 @@
               "enum": [
                 "mn t",
                 "t per capita",
-                "per real gdp (2015 = 100)",
+                "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "domestic material consumption (dmc)",
+                "domestic material consumption per real gdp",
                 ""
               ]
             }
@@ -7261,7 +7327,7 @@
           }
         ]
       },
-      "title": "Anteil der Kinder und Jugendlichen (a) in der 2./3. Klasse, (b) am Ende der Grundschule und (c) am Ende der Sekundarstufe I mit einem Mindestniveau in (i) Lesen und (ii) Mathematik, nach Geschlecht"
+      "title": "Anteil der Kinder und Jugendlichen (a) in der 2./3. Klasse; (b) am Ende der Grundschule; und (c) am Ende der Sekundarstufe I mit einem Mindestniveau in (i) Lesen und (ii) Mathematik, nach Geschlecht"
     },
     {
       "path": "8-a-1/data.csv",
@@ -7644,17 +7710,6 @@
             "type": "integer"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -7664,6 +7719,17 @@
                 "45 to under 55 years",
                 "55 to under 65 years",
                 "65 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -7763,7 +7829,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten, die nationale Strategien zur Katastrophenvorsorge im Einklang mit dem Sendai-Rahmenwerk für Katastrophenvorsorge 2015-2030 beschließen und umsetzen"
+      "title": "Anzahl der Staaten, die nationale Strategien zur Katastrophenvorsorge im Einklang mit dem Sendai-Rahmenwerk für Katastrophenvorsorge 2015–2030 beschließen und umsetzen"
     },
     {
       "path": "15-8-1/data.csv",
@@ -8142,7 +8208,7 @@
           }
         ]
       },
-      "title": "Anteil und Anzahl der Kinder im Alter von 5-17 Jahren, die Kinderarbeit leisten, nach Geschlecht und Alter"
+      "title": "Anteil und Anzahl der Kinder im Alter von 5–17 Jahren, die Kinderarbeit leisten, nach Geschlecht und Alter"
     },
     {
       "path": "12-2-1/data.csv",
@@ -8165,7 +8231,18 @@
               "enum": [
                 "mn t",
                 "t per capita",
-                "per real gdp (2015 = 100)",
+                "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "raw material consumption (rmc)",
+                "raw material consumption per real gdp",
                 ""
               ]
             }

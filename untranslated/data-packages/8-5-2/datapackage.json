@@ -15,23 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
                 "15 to under 25 years",
                 "25 to under 75 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }

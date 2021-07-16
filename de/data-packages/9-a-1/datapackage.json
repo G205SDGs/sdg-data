@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur",
-                "Bruttoentwicklungsausgaben für Infrastruktur",
+                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur",
+                "Bruttoentwicklungsausgaben (ODA) für Infrastruktur",
                 ""
               ]
             },

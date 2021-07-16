@@ -1,28 +1,28 @@
-Year,Units,Value
-2010,Million tonnes,1263.0
-2011,Million tonnes,1363.0
-2012,Million tonnes,1318.0
-2013,Million tonnes,1311.0
-2014,Million tonnes,1348.0
-2015,Million tonnes,1268.0
-2016,Million tonnes,1280.0
-2017,Million tonnes,1326.0
-2018,Million tonnes,1279.0
-2010,Tonnes per capita,15.4
-2011,Tonnes per capita,17.0
-2012,Tonnes per capita,16.4
-2013,Tonnes per capita,16.3
-2014,Tonnes per capita,16.6
-2015,Tonnes per capita,15.5
-2016,Tonnes per capita,15.5
-2017,Tonnes per capita,16.0
-2018,Tonnes per capita,15.4
-2010,Per real GDP (2015 = 100),108.1
-2011,Per real GDP (2015 = 100),112.3
-2012,Per real GDP (2015 = 100),108.1
-2013,Per real GDP (2015 = 100),107.0
-2014,Per real GDP (2015 = 100),107.6
-2015,Per real GDP (2015 = 100),100.0
-2016,Per real GDP (2015 = 100),98.7
-2017,Per real GDP (2015 = 100),99.6
-2018,Per real GDP (2015 = 100),94.8
+Year,Units,Series,Value
+2010,Million tonnes,Domestic material consumption (DMC),1263.0
+2011,Million tonnes,Domestic material consumption (DMC),1363.0
+2012,Million tonnes,Domestic material consumption (DMC),1318.0
+2013,Million tonnes,Domestic material consumption (DMC),1311.0
+2014,Million tonnes,Domestic material consumption (DMC),1348.0
+2015,Million tonnes,Domestic material consumption (DMC),1268.0
+2016,Million tonnes,Domestic material consumption (DMC),1280.0
+2017,Million tonnes,Domestic material consumption (DMC),1326.0
+2018,Million tonnes,Domestic material consumption (DMC),1279.0
+2010,Tonnes per capita,Domestic material consumption (DMC),15.4
+2011,Tonnes per capita,Domestic material consumption (DMC),17.0
+2012,Tonnes per capita,Domestic material consumption (DMC),16.4
+2013,Tonnes per capita,Domestic material consumption (DMC),16.3
+2014,Tonnes per capita,Domestic material consumption (DMC),16.6
+2015,Tonnes per capita,Domestic material consumption (DMC),15.5
+2016,Tonnes per capita,Domestic material consumption (DMC),15.5
+2017,Tonnes per capita,Domestic material consumption (DMC),16.0
+2018,Tonnes per capita,Domestic material consumption (DMC),15.4
+2010,2015 = 100,Domestic material consumption per real GDP,108.1
+2011,2015 = 100,Domestic material consumption per real GDP,112.3
+2012,2015 = 100,Domestic material consumption per real GDP,108.1
+2013,2015 = 100,Domestic material consumption per real GDP,107.0
+2014,2015 = 100,Domestic material consumption per real GDP,107.6
+2015,2015 = 100,Domestic material consumption per real GDP,100.0
+2016,2015 = 100,Domestic material consumption per real GDP,98.7
+2017,2015 = 100,Domestic material consumption per real GDP,99.6
+2018,2015 = 100,Domestic material consumption per real GDP,94.8

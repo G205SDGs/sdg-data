@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE",
-                "Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE",
+                "Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE",
+                "Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungslausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)",
                 ""
               ]
             },

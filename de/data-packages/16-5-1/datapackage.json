@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
-                "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -51,6 +39,18 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
+                "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

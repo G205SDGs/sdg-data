@@ -21,10 +21,10 @@
             "constraints": {
               "enum": [
                 "Öffentliche Nettoentwicklungsausgaben (ODA)",
-                "Andere öffentliche Nettoleistungen (OOF)",
-                "Öffentlich unterstützte Exportkredite (Nettoauszahlungen)",
-                "Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)",
-                "Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoauszahlungen)",
+                "Sonstige öffentliche Nettoausgaben (OOF)",
+                "Öffentlich unterstützte Exportkredite (Nettoausgaben)",
+                "Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)",
+                "Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)",
                 ""
               ]
             },

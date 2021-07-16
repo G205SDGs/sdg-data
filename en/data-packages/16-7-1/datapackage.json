@@ -29,7 +29,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "16-7-1",
-  "title": "Anteil der Stellen in nationalen und lokalen öffentlichen Institutionen, einschließlich (a) Gesetzgebungsorganen, (b) des öffentlichen Dienstes und (c) Rechtsprechungsorganen, im Vergleich zur nationalen Stellenverteilung, nach Geschlecht, Alter, Menschen mit Behinderungen und Bevölkerungsgruppen"
+  "title": "Stellenverteilung in nationalen und lokalen Institutionen, einschließlich a) Gesetzgebungsorganen; b) des öffentlichen Dienstes; und c) Rechtsprechungsorganen, im Vergleich zur nationalen Stellenverteilung, nach Geschlecht, Alter, Menschen mit Behinderungen und Bevölkerungsgruppe"
 }

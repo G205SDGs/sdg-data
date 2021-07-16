@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population who had the impression that public officials are corruptible",
-                "private persons (donors) suspected in the context of corruption offences",
-                ""
-              ]
-            }
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -44,6 +33,17 @@
                 "female",
                 "male",
                 "divers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "population who had the impression that public officials are corruptible",
+                "private persons (donors) suspected in the context of corruption offences",
                 ""
               ]
             }

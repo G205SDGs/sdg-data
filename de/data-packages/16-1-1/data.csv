@@ -1,4 +1,4 @@
-Year,Units,Geschlecht,Altersklasse,Value
+Year,Units,Altersklasse,Geschlecht,Value
 2010,Je 100 000 Einwohner,,,0.99
 2011,Je 100 000 Einwohner,,,0.92
 2012,Je 100 000 Einwohner,,,0.82
@@ -21,190 +21,190 @@ Year,Units,Geschlecht,Altersklasse,Value
 2018,Anzahl,,,788.0
 2019,Anzahl,,,623.0
 2020,Anzahl,,,782.0
-2010,Anzahl,Weiblich,,393.0
-2011,Anzahl,Weiblich,,338.0
-2012,Anzahl,Weiblich,,296.0
-2013,Anzahl,Weiblich,,328.0
-2014,Anzahl,Weiblich,,339.0
-2015,Anzahl,Weiblich,,327.0
-2016,Anzahl,Weiblich,,469.0
-2017,Anzahl,Weiblich,,380.0
-2018,Anzahl,Weiblich,,367.0
-2019,Anzahl,Weiblich,,276.0
-2020,Anzahl,Weiblich,,357.0
-2010,Anzahl,Männlich,,400.0
-2011,Anzahl,Männlich,,400.0
-2012,Anzahl,Männlich,,363.0
-2013,Anzahl,Männlich,,354.0
-2014,Anzahl,Männlich,,377.0
-2015,Anzahl,Männlich,,355.0
-2016,Anzahl,Männlich,,494.0
-2017,Anzahl,Männlich,,433.0
-2018,Anzahl,Männlich,,421.0
-2019,Anzahl,Männlich,,347.0
-2020,Anzahl,Männlich,,425.0
-2010,Anzahl,,13 Jahre und jünger,77.0
-2011,Anzahl,,13 Jahre und jünger,73.0
-2012,Anzahl,,13 Jahre und jünger,90.0
-2013,Anzahl,,13 Jahre und jünger,66.0
-2014,Anzahl,,13 Jahre und jünger,63.0
-2015,Anzahl,,13 Jahre und jünger,62.0
-2016,Anzahl,,13 Jahre und jünger,68.0
-2017,Anzahl,,13 Jahre und jünger,67.0
-2018,Anzahl,,13 Jahre und jünger,70.0
-2019,Anzahl,,13 Jahre und jünger,46.0
-2020,Anzahl,,13 Jahre und jünger,79.0
-2010,Anzahl,,14 bis unter 18 Jahre,22.0
-2011,Anzahl,,14 bis unter 18 Jahre,27.0
-2012,Anzahl,,14 bis unter 18 Jahre,6.0
-2013,Anzahl,,14 bis unter 18 Jahre,12.0
-2014,Anzahl,,14 bis unter 18 Jahre,15.0
-2015,Anzahl,,14 bis unter 18 Jahre,14.0
-2016,Anzahl,,14 bis unter 18 Jahre,35.0
-2017,Anzahl,,14 bis unter 18 Jahre,4.0
-2018,Anzahl,,14 bis unter 18 Jahre,14.0
-2019,Anzahl,,14 bis unter 18 Jahre,11.0
-2020,Anzahl,,14 bis unter 18 Jahre,12.0
-2010,Anzahl,,18 bis unter 21 Jahre,38.0
-2011,Anzahl,,18 bis unter 21 Jahre,29.0
-2012,Anzahl,,18 bis unter 21 Jahre,23.0
-2013,Anzahl,,18 bis unter 21 Jahre,15.0
-2014,Anzahl,,18 bis unter 21 Jahre,20.0
-2015,Anzahl,,18 bis unter 21 Jahre,18.0
-2016,Anzahl,,18 bis unter 21 Jahre,43.0
-2017,Anzahl,,18 bis unter 21 Jahre,16.0
-2018,Anzahl,,18 bis unter 21 Jahre,26.0
-2019,Anzahl,,18 bis unter 21 Jahre,16.0
-2020,Anzahl,,18 bis unter 21 Jahre,21.0
-2010,Anzahl,,21 bis unter 60 Jahre,448.0
-2011,Anzahl,,21 bis unter 60 Jahre,424.0
-2012,Anzahl,,21 bis unter 60 Jahre,359.0
-2013,Anzahl,,21 bis unter 60 Jahre,377.0
-2014,Anzahl,,21 bis unter 60 Jahre,405.0
-2015,Anzahl,,21 bis unter 60 Jahre,343.0
-2016,Anzahl,,21 bis unter 60 Jahre,527.0
-2017,Anzahl,,21 bis unter 60 Jahre,414.0
-2018,Anzahl,,21 bis unter 60 Jahre,445.0
-2019,Anzahl,,21 bis unter 60 Jahre,349.0
-2020,Anzahl,,21 bis unter 60 Jahre,378.0
-2010,Anzahl,,60 Jahre und älter,208.0
-2011,Anzahl,,60 Jahre und älter,185.0
-2012,Anzahl,,60 Jahre und älter,181.0
-2013,Anzahl,,60 Jahre und älter,212.0
-2014,Anzahl,,60 Jahre und älter,213.0
-2015,Anzahl,,60 Jahre und älter,245.0
-2016,Anzahl,,60 Jahre und älter,290.0
-2017,Anzahl,,60 Jahre und älter,312.0
-2018,Anzahl,,60 Jahre und älter,233.0
-2019,Anzahl,,60 Jahre und älter,201.0
-2020,Anzahl,,60 Jahre und älter,292.0
-2010,Anzahl,Weiblich,13 Jahre und jünger,
-2011,Anzahl,Weiblich,13 Jahre und jünger,
-2012,Anzahl,Weiblich,13 Jahre und jünger,39.0
-2013,Anzahl,Weiblich,13 Jahre und jünger,37.0
-2014,Anzahl,Weiblich,13 Jahre und jünger,24.0
-2015,Anzahl,Weiblich,13 Jahre und jünger,25.0
-2016,Anzahl,Weiblich,13 Jahre und jünger,30.0
-2017,Anzahl,Weiblich,13 Jahre und jünger,28.0
-2018,Anzahl,Weiblich,13 Jahre und jünger,30.0
-2019,Anzahl,Weiblich,13 Jahre und jünger,17.0
-2020,Anzahl,Weiblich,13 Jahre und jünger,43.0
-2010,Anzahl,Männlich,13 Jahre und jünger,
-2011,Anzahl,Männlich,13 Jahre und jünger,
-2012,Anzahl,Männlich,13 Jahre und jünger,51.0
-2013,Anzahl,Männlich,13 Jahre und jünger,29.0
-2014,Anzahl,Männlich,13 Jahre und jünger,39.0
-2015,Anzahl,Männlich,13 Jahre und jünger,37.0
-2016,Anzahl,Männlich,13 Jahre und jünger,38.0
-2017,Anzahl,Männlich,13 Jahre und jünger,39.0
-2018,Anzahl,Männlich,13 Jahre und jünger,40.0
-2019,Anzahl,Männlich,13 Jahre und jünger,29.0
-2020,Anzahl,Männlich,13 Jahre und jünger,36.0
-2010,Anzahl,Weiblich,14 bis unter 18 Jahre,
-2011,Anzahl,Weiblich,14 bis unter 18 Jahre,
-2012,Anzahl,Weiblich,14 bis unter 18 Jahre,0.0
-2013,Anzahl,Weiblich,14 bis unter 18 Jahre,4.0
-2014,Anzahl,Weiblich,14 bis unter 18 Jahre,5.0
-2015,Anzahl,Weiblich,14 bis unter 18 Jahre,9.0
-2016,Anzahl,Weiblich,14 bis unter 18 Jahre,22.0
-2017,Anzahl,Weiblich,14 bis unter 18 Jahre,1.0
-2018,Anzahl,Weiblich,14 bis unter 18 Jahre,8.0
-2019,Anzahl,Weiblich,14 bis unter 18 Jahre,4.0
-2020,Anzahl,Weiblich,14 bis unter 18 Jahre,4.0
-2010,Anzahl,Männlich,14 bis unter 18 Jahre,
-2011,Anzahl,Männlich,14 bis unter 18 Jahre,
-2012,Anzahl,Männlich,14 bis unter 18 Jahre,6.0
-2013,Anzahl,Männlich,14 bis unter 18 Jahre,8.0
-2014,Anzahl,Männlich,14 bis unter 18 Jahre,10.0
-2015,Anzahl,Männlich,14 bis unter 18 Jahre,5.0
-2016,Anzahl,Männlich,14 bis unter 18 Jahre,13.0
-2017,Anzahl,Männlich,14 bis unter 18 Jahre,3.0
-2018,Anzahl,Männlich,14 bis unter 18 Jahre,6.0
-2019,Anzahl,Männlich,14 bis unter 18 Jahre,7.0
-2020,Anzahl,Männlich,14 bis unter 18 Jahre,8.0
-2010,Anzahl,Weiblich,18 bis unter 21 Jahre,
-2011,Anzahl,Weiblich,18 bis unter 21 Jahre,
-2012,Anzahl,Weiblich,18 bis unter 21 Jahre,10.0
-2013,Anzahl,Weiblich,18 bis unter 21 Jahre,6.0
-2014,Anzahl,Weiblich,18 bis unter 21 Jahre,9.0
-2015,Anzahl,Weiblich,18 bis unter 21 Jahre,9.0
-2016,Anzahl,Weiblich,18 bis unter 21 Jahre,18.0
-2017,Anzahl,Weiblich,18 bis unter 21 Jahre,7.0
-2018,Anzahl,Weiblich,18 bis unter 21 Jahre,12.0
-2019,Anzahl,Weiblich,18 bis unter 21 Jahre,5.0
-2020,Anzahl,Weiblich,18 bis unter 21 Jahre,6.0
-2010,Anzahl,Männlich,18 bis unter 21 Jahre,
-2011,Anzahl,Männlich,18 bis unter 21 Jahre,
-2012,Anzahl,Männlich,18 bis unter 21 Jahre,13.0
-2013,Anzahl,Männlich,18 bis unter 21 Jahre,9.0
-2014,Anzahl,Männlich,18 bis unter 21 Jahre,11.0
-2015,Anzahl,Männlich,18 bis unter 21 Jahre,9.0
-2016,Anzahl,Männlich,18 bis unter 21 Jahre,25.0
-2017,Anzahl,Männlich,18 bis unter 21 Jahre,9.0
-2018,Anzahl,Männlich,18 bis unter 21 Jahre,14.0
-2019,Anzahl,Männlich,18 bis unter 21 Jahre,11.0
-2020,Anzahl,Männlich,18 bis unter 21 Jahre,15.0
-2010,Anzahl,Weiblich,21 bis unter 60 Jahre,
-2011,Anzahl,Weiblich,21 bis unter 60 Jahre,
-2012,Anzahl,Weiblich,21 bis unter 60 Jahre,139.0
-2013,Anzahl,Weiblich,21 bis unter 60 Jahre,159.0
-2014,Anzahl,Weiblich,21 bis unter 60 Jahre,180.0
-2015,Anzahl,Weiblich,21 bis unter 60 Jahre,141.0
-2016,Anzahl,Weiblich,21 bis unter 60 Jahre,236.0
-2017,Anzahl,Weiblich,21 bis unter 60 Jahre,176.0
-2018,Anzahl,Weiblich,21 bis unter 60 Jahre,184.0
-2019,Anzahl,Weiblich,21 bis unter 60 Jahre,144.0
-2020,Anzahl,Weiblich,21 bis unter 60 Jahre,142.0
-2010,Anzahl,Männlich,21 bis unter 60 Jahre,
-2011,Anzahl,Männlich,21 bis unter 60 Jahre,
-2012,Anzahl,Männlich,21 bis unter 60 Jahre,220.0
-2013,Anzahl,Männlich,21 bis unter 60 Jahre,218.0
-2014,Anzahl,Männlich,21 bis unter 60 Jahre,225.0
-2015,Anzahl,Männlich,21 bis unter 60 Jahre,202.0
-2016,Anzahl,Männlich,21 bis unter 60 Jahre,291.0
-2017,Anzahl,Männlich,21 bis unter 60 Jahre,238.0
-2018,Anzahl,Männlich,21 bis unter 60 Jahre,261.0
-2019,Anzahl,Männlich,21 bis unter 60 Jahre,205.0
-2020,Anzahl,Männlich,21 bis unter 60 Jahre,236.0
-2010,Anzahl,Weiblich,60 Jahre und älter,
-2011,Anzahl,Weiblich,60 Jahre und älter,
-2012,Anzahl,Weiblich,60 Jahre und älter,108.0
-2013,Anzahl,Weiblich,60 Jahre und älter,122.0
-2014,Anzahl,Weiblich,60 Jahre und älter,121.0
-2015,Anzahl,Weiblich,60 Jahre und älter,143.0
-2016,Anzahl,Weiblich,60 Jahre und älter,163.0
-2017,Anzahl,Weiblich,60 Jahre und älter,168.0
-2018,Anzahl,Weiblich,60 Jahre und älter,133.0
-2019,Anzahl,Weiblich,60 Jahre und älter,106.0
-2020,Anzahl,Weiblich,60 Jahre und älter,162.0
-2010,Anzahl,Männlich,60 Jahre und älter,
-2011,Anzahl,Männlich,60 Jahre und älter,
-2012,Anzahl,Männlich,60 Jahre und älter,73.0
-2013,Anzahl,Männlich,60 Jahre und älter,90.0
-2014,Anzahl,Männlich,60 Jahre und älter,92.0
-2015,Anzahl,Männlich,60 Jahre und älter,102.0
-2016,Anzahl,Männlich,60 Jahre und älter,127.0
-2017,Anzahl,Männlich,60 Jahre und älter,144.0
-2018,Anzahl,Männlich,60 Jahre und älter,100.0
-2019,Anzahl,Männlich,60 Jahre und älter,95.0
-2020,Anzahl,Männlich,60 Jahre und älter,130.0
+2010,Anzahl,13 Jahre und jünger,,77.0
+2011,Anzahl,13 Jahre und jünger,,73.0
+2012,Anzahl,13 Jahre und jünger,,90.0
+2013,Anzahl,13 Jahre und jünger,,66.0
+2014,Anzahl,13 Jahre und jünger,,63.0
+2015,Anzahl,13 Jahre und jünger,,62.0
+2016,Anzahl,13 Jahre und jünger,,68.0
+2017,Anzahl,13 Jahre und jünger,,67.0
+2018,Anzahl,13 Jahre und jünger,,70.0
+2019,Anzahl,13 Jahre und jünger,,46.0
+2020,Anzahl,13 Jahre und jünger,,79.0
+2010,Anzahl,14 bis unter 18 Jahre,,22.0
+2011,Anzahl,14 bis unter 18 Jahre,,27.0
+2012,Anzahl,14 bis unter 18 Jahre,,6.0
+2013,Anzahl,14 bis unter 18 Jahre,,12.0
+2014,Anzahl,14 bis unter 18 Jahre,,15.0
+2015,Anzahl,14 bis unter 18 Jahre,,14.0
+2016,Anzahl,14 bis unter 18 Jahre,,35.0
+2017,Anzahl,14 bis unter 18 Jahre,,4.0
+2018,Anzahl,14 bis unter 18 Jahre,,14.0
+2019,Anzahl,14 bis unter 18 Jahre,,11.0
+2020,Anzahl,14 bis unter 18 Jahre,,12.0
+2010,Anzahl,18 bis unter 21 Jahre,,38.0
+2011,Anzahl,18 bis unter 21 Jahre,,29.0
+2012,Anzahl,18 bis unter 21 Jahre,,23.0
+2013,Anzahl,18 bis unter 21 Jahre,,15.0
+2014,Anzahl,18 bis unter 21 Jahre,,20.0
+2015,Anzahl,18 bis unter 21 Jahre,,18.0
+2016,Anzahl,18 bis unter 21 Jahre,,43.0
+2017,Anzahl,18 bis unter 21 Jahre,,16.0
+2018,Anzahl,18 bis unter 21 Jahre,,26.0
+2019,Anzahl,18 bis unter 21 Jahre,,16.0
+2020,Anzahl,18 bis unter 21 Jahre,,21.0
+2010,Anzahl,21 bis unter 60 Jahre,,448.0
+2011,Anzahl,21 bis unter 60 Jahre,,424.0
+2012,Anzahl,21 bis unter 60 Jahre,,359.0
+2013,Anzahl,21 bis unter 60 Jahre,,377.0
+2014,Anzahl,21 bis unter 60 Jahre,,405.0
+2015,Anzahl,21 bis unter 60 Jahre,,343.0
+2016,Anzahl,21 bis unter 60 Jahre,,527.0
+2017,Anzahl,21 bis unter 60 Jahre,,414.0
+2018,Anzahl,21 bis unter 60 Jahre,,445.0
+2019,Anzahl,21 bis unter 60 Jahre,,349.0
+2020,Anzahl,21 bis unter 60 Jahre,,378.0
+2010,Anzahl,60 Jahre und älter,,208.0
+2011,Anzahl,60 Jahre und älter,,185.0
+2012,Anzahl,60 Jahre und älter,,181.0
+2013,Anzahl,60 Jahre und älter,,212.0
+2014,Anzahl,60 Jahre und älter,,213.0
+2015,Anzahl,60 Jahre und älter,,245.0
+2016,Anzahl,60 Jahre und älter,,290.0
+2017,Anzahl,60 Jahre und älter,,312.0
+2018,Anzahl,60 Jahre und älter,,233.0
+2019,Anzahl,60 Jahre und älter,,201.0
+2020,Anzahl,60 Jahre und älter,,292.0
+2010,Anzahl,,Weiblich,393.0
+2011,Anzahl,,Weiblich,338.0
+2012,Anzahl,,Weiblich,296.0
+2013,Anzahl,,Weiblich,328.0
+2014,Anzahl,,Weiblich,339.0
+2015,Anzahl,,Weiblich,327.0
+2016,Anzahl,,Weiblich,469.0
+2017,Anzahl,,Weiblich,380.0
+2018,Anzahl,,Weiblich,367.0
+2019,Anzahl,,Weiblich,276.0
+2020,Anzahl,,Weiblich,357.0
+2010,Anzahl,,Männlich,400.0
+2011,Anzahl,,Männlich,400.0
+2012,Anzahl,,Männlich,363.0
+2013,Anzahl,,Männlich,354.0
+2014,Anzahl,,Männlich,377.0
+2015,Anzahl,,Männlich,355.0
+2016,Anzahl,,Männlich,494.0
+2017,Anzahl,,Männlich,433.0
+2018,Anzahl,,Männlich,421.0
+2019,Anzahl,,Männlich,347.0
+2020,Anzahl,,Männlich,425.0
+2010,Anzahl,13 Jahre und jünger,Weiblich,
+2011,Anzahl,13 Jahre und jünger,Weiblich,
+2012,Anzahl,13 Jahre und jünger,Weiblich,39.0
+2013,Anzahl,13 Jahre und jünger,Weiblich,37.0
+2014,Anzahl,13 Jahre und jünger,Weiblich,24.0
+2015,Anzahl,13 Jahre und jünger,Weiblich,25.0
+2016,Anzahl,13 Jahre und jünger,Weiblich,30.0
+2017,Anzahl,13 Jahre und jünger,Weiblich,28.0
+2018,Anzahl,13 Jahre und jünger,Weiblich,30.0
+2019,Anzahl,13 Jahre und jünger,Weiblich,17.0
+2020,Anzahl,13 Jahre und jünger,Weiblich,43.0
+2010,Anzahl,13 Jahre und jünger,Männlich,
+2011,Anzahl,13 Jahre und jünger,Männlich,
+2012,Anzahl,13 Jahre und jünger,Männlich,51.0
+2013,Anzahl,13 Jahre und jünger,Männlich,29.0
+2014,Anzahl,13 Jahre und jünger,Männlich,39.0
+2015,Anzahl,13 Jahre und jünger,Männlich,37.0
+2016,Anzahl,13 Jahre und jünger,Männlich,38.0
+2017,Anzahl,13 Jahre und jünger,Männlich,39.0
+2018,Anzahl,13 Jahre und jünger,Männlich,40.0
+2019,Anzahl,13 Jahre und jünger,Männlich,29.0
+2020,Anzahl,13 Jahre und jünger,Männlich,36.0
+2010,Anzahl,14 bis unter 18 Jahre,Weiblich,
+2011,Anzahl,14 bis unter 18 Jahre,Weiblich,
+2012,Anzahl,14 bis unter 18 Jahre,Weiblich,0.0
+2013,Anzahl,14 bis unter 18 Jahre,Weiblich,4.0
+2014,Anzahl,14 bis unter 18 Jahre,Weiblich,5.0
+2015,Anzahl,14 bis unter 18 Jahre,Weiblich,9.0
+2016,Anzahl,14 bis unter 18 Jahre,Weiblich,22.0
+2017,Anzahl,14 bis unter 18 Jahre,Weiblich,1.0
+2018,Anzahl,14 bis unter 18 Jahre,Weiblich,8.0
+2019,Anzahl,14 bis unter 18 Jahre,Weiblich,4.0
+2020,Anzahl,14 bis unter 18 Jahre,Weiblich,4.0
+2010,Anzahl,14 bis unter 18 Jahre,Männlich,
+2011,Anzahl,14 bis unter 18 Jahre,Männlich,
+2012,Anzahl,14 bis unter 18 Jahre,Männlich,6.0
+2013,Anzahl,14 bis unter 18 Jahre,Männlich,8.0
+2014,Anzahl,14 bis unter 18 Jahre,Männlich,10.0
+2015,Anzahl,14 bis unter 18 Jahre,Männlich,5.0
+2016,Anzahl,14 bis unter 18 Jahre,Männlich,13.0
+2017,Anzahl,14 bis unter 18 Jahre,Männlich,3.0
+2018,Anzahl,14 bis unter 18 Jahre,Männlich,6.0
+2019,Anzahl,14 bis unter 18 Jahre,Männlich,7.0
+2020,Anzahl,14 bis unter 18 Jahre,Männlich,8.0
+2010,Anzahl,18 bis unter 21 Jahre,Weiblich,
+2011,Anzahl,18 bis unter 21 Jahre,Weiblich,
+2012,Anzahl,18 bis unter 21 Jahre,Weiblich,10.0
+2013,Anzahl,18 bis unter 21 Jahre,Weiblich,6.0
+2014,Anzahl,18 bis unter 21 Jahre,Weiblich,9.0
+2015,Anzahl,18 bis unter 21 Jahre,Weiblich,9.0
+2016,Anzahl,18 bis unter 21 Jahre,Weiblich,18.0
+2017,Anzahl,18 bis unter 21 Jahre,Weiblich,7.0
+2018,Anzahl,18 bis unter 21 Jahre,Weiblich,12.0
+2019,Anzahl,18 bis unter 21 Jahre,Weiblich,5.0
+2020,Anzahl,18 bis unter 21 Jahre,Weiblich,6.0
+2010,Anzahl,18 bis unter 21 Jahre,Männlich,
+2011,Anzahl,18 bis unter 21 Jahre,Männlich,
+2012,Anzahl,18 bis unter 21 Jahre,Männlich,13.0
+2013,Anzahl,18 bis unter 21 Jahre,Männlich,9.0
+2014,Anzahl,18 bis unter 21 Jahre,Männlich,11.0
+2015,Anzahl,18 bis unter 21 Jahre,Männlich,9.0
+2016,Anzahl,18 bis unter 21 Jahre,Männlich,25.0
+2017,Anzahl,18 bis unter 21 Jahre,Männlich,9.0
+2018,Anzahl,18 bis unter 21 Jahre,Männlich,14.0
+2019,Anzahl,18 bis unter 21 Jahre,Männlich,11.0
+2020,Anzahl,18 bis unter 21 Jahre,Männlich,15.0
+2010,Anzahl,21 bis unter 60 Jahre,Weiblich,
+2011,Anzahl,21 bis unter 60 Jahre,Weiblich,
+2012,Anzahl,21 bis unter 60 Jahre,Weiblich,139.0
+2013,Anzahl,21 bis unter 60 Jahre,Weiblich,159.0
+2014,Anzahl,21 bis unter 60 Jahre,Weiblich,180.0
+2015,Anzahl,21 bis unter 60 Jahre,Weiblich,141.0
+2016,Anzahl,21 bis unter 60 Jahre,Weiblich,236.0
+2017,Anzahl,21 bis unter 60 Jahre,Weiblich,176.0
+2018,Anzahl,21 bis unter 60 Jahre,Weiblich,184.0
+2019,Anzahl,21 bis unter 60 Jahre,Weiblich,144.0
+2020,Anzahl,21 bis unter 60 Jahre,Weiblich,142.0
+2010,Anzahl,21 bis unter 60 Jahre,Männlich,
+2011,Anzahl,21 bis unter 60 Jahre,Männlich,
+2012,Anzahl,21 bis unter 60 Jahre,Männlich,220.0
+2013,Anzahl,21 bis unter 60 Jahre,Männlich,218.0
+2014,Anzahl,21 bis unter 60 Jahre,Männlich,225.0
+2015,Anzahl,21 bis unter 60 Jahre,Männlich,202.0
+2016,Anzahl,21 bis unter 60 Jahre,Männlich,291.0
+2017,Anzahl,21 bis unter 60 Jahre,Männlich,238.0
+2018,Anzahl,21 bis unter 60 Jahre,Männlich,261.0
+2019,Anzahl,21 bis unter 60 Jahre,Männlich,205.0
+2020,Anzahl,21 bis unter 60 Jahre,Männlich,236.0
+2010,Anzahl,60 Jahre und älter,Weiblich,
+2011,Anzahl,60 Jahre und älter,Weiblich,
+2012,Anzahl,60 Jahre und älter,Weiblich,108.0
+2013,Anzahl,60 Jahre und älter,Weiblich,122.0
+2014,Anzahl,60 Jahre und älter,Weiblich,121.0
+2015,Anzahl,60 Jahre und älter,Weiblich,143.0
+2016,Anzahl,60 Jahre und älter,Weiblich,163.0
+2017,Anzahl,60 Jahre und älter,Weiblich,168.0
+2018,Anzahl,60 Jahre und älter,Weiblich,133.0
+2019,Anzahl,60 Jahre und älter,Weiblich,106.0
+2020,Anzahl,60 Jahre und älter,Weiblich,162.0
+2010,Anzahl,60 Jahre und älter,Männlich,
+2011,Anzahl,60 Jahre und älter,Männlich,
+2012,Anzahl,60 Jahre und älter,Männlich,73.0
+2013,Anzahl,60 Jahre und älter,Männlich,90.0
+2014,Anzahl,60 Jahre und älter,Männlich,92.0
+2015,Anzahl,60 Jahre und älter,Männlich,102.0
+2016,Anzahl,60 Jahre und älter,Männlich,127.0
+2017,Anzahl,60 Jahre und älter,Männlich,144.0
+2018,Anzahl,60 Jahre und älter,Männlich,100.0
+2019,Anzahl,60 Jahre und älter,Männlich,95.0
+2020,Anzahl,60 Jahre und älter,Männlich,130.0

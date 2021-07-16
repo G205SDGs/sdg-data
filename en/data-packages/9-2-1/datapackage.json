@@ -20,13 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Relative to GDP (%)",
-                "As proportion of total gross value added (%)",
-                "EUR per inhabitant",
+                "Percentage",
+                "EUR",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing gross value added as a proportion of GDP",
+                "Manufacturing gross value added as a proportion of total gross value added",
+                "Manufacturing gross value added per capita",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

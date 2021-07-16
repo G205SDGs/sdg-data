@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern",
-                "Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern",
+                "Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten",
+                "Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten",
                 ""
               ]
             },

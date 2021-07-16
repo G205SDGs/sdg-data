@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million USD, constant prices (2018)",
+                "Million USD, constant prices (2019)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {

@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "technological intensity",
+            "name": "technology sectors",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Technological intensity"
+            "title": "Technology sectors"
           },
           {
             "name": "Value",

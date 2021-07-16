@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
-                "Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
+                "Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
+                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
                 ""
               ]
             },

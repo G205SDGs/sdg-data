@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation)",
-                "oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation)",
+                "oda and oof (commitments) for capacity building and national planning (without south-south cooperation)",
+                "oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperation)",
                 ""
               ]
             }

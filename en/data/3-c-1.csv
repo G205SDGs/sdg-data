@@ -6,8 +6,9 @@ Year,Profession,Value
 2014,,367.25
 2015,,370.18
 2016,,376.83
-2017,,383.01
-2018,,388.24
+2017,,382.98
+2018,,391.98
+2019,,398.69
 2010,Medical doctors,37.19
 2011,Medical doctors,38.72
 2012,Medical doctors,39.37
@@ -17,6 +18,7 @@ Year,Profession,Value
 2016,Medical doctors,41.78
 2017,Medical doctors,42.42
 2018,Medical doctors,43.05
+2019,Medical doctors,43.9
 2010,Dentists,8.07
 2011,Dentists,8.34
 2012,Dentists,8.44
@@ -26,6 +28,7 @@ Year,Profession,Value
 2016,Dentists,8.54
 2017,Dentists,8.55
 2018,Dentists,8.56
+2019,Dentists,8.54
 2010,Nursing and midwifery personnel,117.92
 2011,Nursing and midwifery personnel,121.38
 2012,Nursing and midwifery personnel,122.2
@@ -33,8 +36,9 @@ Year,Profession,Value
 2014,Nursing and midwifery personnel,127.96
 2015,Nursing and midwifery personnel,128.51
 2016,Nursing and midwifery personnel,130.87
-2017,Nursing and midwifery personnel,133.95
-2018,Nursing and midwifery personnel,134.91
+2017,Nursing and midwifery personnel,133.83
+2018,Nursing and midwifery personnel,140.81
+2019,Nursing and midwifery personnel,142.36
 2010,Pharmacists,6.24
 2011,Pharmacists,6.35
 2012,Pharmacists,6.21
@@ -44,3 +48,4 @@ Year,Profession,Value
 2016,Pharmacists,6.3
 2017,Pharmacists,6.46
 2018,Pharmacists,6.56
+2019,Pharmacists,6.66

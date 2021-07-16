@@ -78,10 +78,10 @@ net open position in foreign exchange to capital (%),1,1
 non-fatal occupational accidents (per 100 000 employees),3,1
 nonperforming loans net of provisions to capital (%),1,1
 nonperforming loans net of provisions to gross loans (%),1,1
-"oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",1,1
-oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation),1,1
-"oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",1,1
-oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation),1,1
+oda and oof (commitments) for capacity building and national planning (without south-south cooperation),1,1
+oda and oof (commitments) to strengthen statistical capacity,1,1
+oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperation),1,1
+oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity,1,1
 oda and oof (gross disbursements) to infrastructure,1,1
 oda (commitments) for poverty reduction,1,1
 oda (gross disbursements) for imputed student costs,1,1
@@ -111,17 +111,16 @@ population subjected to physical violence,1,1
 population that has convenient access to public transport (within 10 minutes walking distance) (%),9,1
 population that has convenient access to public transport (within 500 meters) (%),1,1
 population using safely managed drinking water services (%),1,1
-population who had the impression that public officials are corruptible,4,1
 population who were victims of criminal offences,1,1
 population with access to electricity,1,1
 private households with at least one mobile phone (%),1,1
-private persons (donors) suspected in the context of corruption offences,1,1
-proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%),1,1
+proportion of bilateral and imputed multilateral oda (net disbursements) for lcds to the gross national income (gni),1,1
 proportion of domestic expenditures funded by national taxes and insurance contributions (%),1,1
 proportion of domestic expenditures funded by national taxes (%),1,1
 proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks,1,1
-proportion of net oda to gni (%),1,1
 proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%),1,1
+proportion of oda (net disbursements) to gni,1,1
+proportion of r&d expenditures to gdp,17,1
 proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%),1,1
 proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%),1,1
 proportion of settlement and transport areas to population,1,1

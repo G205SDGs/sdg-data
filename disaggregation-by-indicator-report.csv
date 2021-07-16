@@ -9,7 +9,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-5-1,timeseries,1
 #10-b-1,type of flow,1
 #11-1-1,timeseries,1
-#11-2-1,"timeseries, sex, age, disability",4
+#11-2-1,"timeseries, disability, sex, age",4
 #11-3-1,timeseries,1
 #11-4-1,timeseries,1
 #11-6-1,timeseries,1
@@ -38,7 +38,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-2-2,"sex, age, form of exploitation",3
 #16-3-1,timeseries,1
 #16-3-3,"time series, declination",2
-#16-5-1,"timeseries, sex",2
+#16-5-1,sex,1
 #16-7-1,timeseries,1
 #16-7-2,sex,1
 #17-1-2,timeseries,1
@@ -105,7 +105,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-a-1,timeseries,1
 #9-1-2,"timeseries, mode of transport",2
 #9-4-1,timeseries,1
-#9-5-1,region,1
+#9-5-1,"timeseries, region",2
 #9-a-1,timeseries,1
-#9-b-1,technological intensity,1
+#9-b-1,technology sectors,1
 #9-c-1,technology,1

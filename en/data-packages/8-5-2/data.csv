@@ -1,4 +1,4 @@
-Year,Sex,Age group,Value
+Year,Age group,Sex,Value
 2010,,,7.0
 2011,,,5.8
 2012,,,5.4
@@ -9,43 +9,43 @@ Year,Sex,Age group,Value
 2017,,,3.8
 2018,,,3.4
 2019,,,3.1
-2010,Female,,6.5
-2011,Female,,5.6
-2012,Female,,5.2
-2013,Female,,4.9
-2014,Female,,4.6
-2015,Female,,4.2
-2016,Female,,3.8
-2017,Female,,3.3
-2018,Female,,2.9
-2019,Female,,2.7
-2010,Male,,7.4
-2011,Male,,6.1
-2012,Male,,5.6
-2013,Male,,5.5
-2014,Male,,5.3
-2015,Male,,5.0
-2016,Male,,4.5
-2017,Male,,4.1
-2018,Male,,3.8
-2019,Male,,3.5
-2010,,15 to under 25 years,9.8
-2011,,15 to under 25 years,8.5
-2012,,15 to under 25 years,8.0
-2013,,15 to under 25 years,7.8
-2014,,15 to under 25 years,7.7
-2015,,15 to under 25 years,7.2
-2016,,15 to under 25 years,7.1
-2017,,15 to under 25 years,6.8
-2018,,15 to under 25 years,6.2
-2019,,15 to under 25 years,5.8
-2010,,25 to under 75 years,6.6
-2011,,25 to under 75 years,5.5
-2012,,25 to under 75 years,5.1
-2013,,25 to under 75 years,4.9
-2014,,25 to under 75 years,4.7
-2015,,25 to under 75 years,4.4
-2016,,25 to under 75 years,3.8
-2017,,25 to under 75 years,3.4
-2018,,25 to under 75 years,3.1
-2019,,25 to under 75 years,2.9
+2010,15 to under 25 years,,9.8
+2011,15 to under 25 years,,8.5
+2012,15 to under 25 years,,8.0
+2013,15 to under 25 years,,7.8
+2014,15 to under 25 years,,7.7
+2015,15 to under 25 years,,7.2
+2016,15 to under 25 years,,7.1
+2017,15 to under 25 years,,6.8
+2018,15 to under 25 years,,6.2
+2019,15 to under 25 years,,5.8
+2010,25 to under 75 years,,6.6
+2011,25 to under 75 years,,5.5
+2012,25 to under 75 years,,5.1
+2013,25 to under 75 years,,4.9
+2014,25 to under 75 years,,4.7
+2015,25 to under 75 years,,4.4
+2016,25 to under 75 years,,3.8
+2017,25 to under 75 years,,3.4
+2018,25 to under 75 years,,3.1
+2019,25 to under 75 years,,2.9
+2010,,Female,6.5
+2011,,Female,5.6
+2012,,Female,5.2
+2013,,Female,4.9
+2014,,Female,4.6
+2015,,Female,4.2
+2016,,Female,3.8
+2017,,Female,3.3
+2018,,Female,2.9
+2019,,Female,2.7
+2010,,Male,7.4
+2011,,Male,6.1
+2012,,Male,5.6
+2013,,Male,5.5
+2014,,Male,5.3
+2015,,Male,5.0
+2016,,Male,4.5
+2017,,Male,4.1
+2018,,Male,3.8
+2019,,Male,3.5

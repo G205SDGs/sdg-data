@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of net oda to gni (%)",
-                "proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)",
+                "proportion of oda (net disbursements) to gni",
+                "proportion of bilateral and imputed multilateral oda (net disbursements) for lcds to the gross national income (gni)",
                 ""
               ]
             }

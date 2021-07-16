@@ -1,28 +1,28 @@
-Year,Units,Value
-2010,mn t,1289.0
-2011,mn t,1411.0
-2012,mn t,1328.0
-2013,mn t,1318.0
-2014,mn t,1341.0
-2015,mn t,1239.0
-2016,mn t,1304.0
-2017,mn t,1387.0
-2018,mn t,1373.0
-2010,t per capita,15.8
-2011,t per capita,17.6
-2012,t per capita,16.5
-2013,t per capita,16.3
-2014,t per capita,16.5
-2015,t per capita,15.1
-2016,t per capita,15.8
-2017,t per capita,16.7
-2018,t per capita,16.5
-2010,per real gdp (2015 = 100),113.1
-2011,per real gdp (2015 = 100),119.1
-2012,per real gdp (2015 = 100),111.7
-2013,per real gdp (2015 = 100),110.3
-2014,per real gdp (2015 = 100),109.8
-2015,per real gdp (2015 = 100),100.0
-2016,per real gdp (2015 = 100),103.0
-2017,per real gdp (2015 = 100),106.7
-2018,per real gdp (2015 = 100),104.3
+Year,Units,Series,Value
+2010,mn t,raw material consumption (rmc),1289.0
+2011,mn t,raw material consumption (rmc),1411.0
+2012,mn t,raw material consumption (rmc),1328.0
+2013,mn t,raw material consumption (rmc),1318.0
+2014,mn t,raw material consumption (rmc),1341.0
+2015,mn t,raw material consumption (rmc),1239.0
+2016,mn t,raw material consumption (rmc),1304.0
+2017,mn t,raw material consumption (rmc),1387.0
+2018,mn t,raw material consumption (rmc),1373.0
+2010,t per capita,raw material consumption (rmc),15.8
+2011,t per capita,raw material consumption (rmc),17.6
+2012,t per capita,raw material consumption (rmc),16.5
+2013,t per capita,raw material consumption (rmc),16.3
+2014,t per capita,raw material consumption (rmc),16.5
+2015,t per capita,raw material consumption (rmc),15.1
+2016,t per capita,raw material consumption (rmc),15.8
+2017,t per capita,raw material consumption (rmc),16.7
+2018,t per capita,raw material consumption (rmc),16.5
+2010,2015 = 100,raw material consumption per real gdp,113.1
+2011,2015 = 100,raw material consumption per real gdp,119.1
+2012,2015 = 100,raw material consumption per real gdp,111.7
+2013,2015 = 100,raw material consumption per real gdp,110.3
+2014,2015 = 100,raw material consumption per real gdp,109.8
+2015,2015 = 100,raw material consumption per real gdp,100.0
+2016,2015 = 100,raw material consumption per real gdp,103.0
+2017,2015 = 100,raw material consumption per real gdp,106.7
+2018,2015 = 100,raw material consumption per real gdp,104.3

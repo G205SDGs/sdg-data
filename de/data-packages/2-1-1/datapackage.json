@@ -16,18 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "percentiles",
             "type": "string",
             "constraints": {
@@ -43,6 +31,18 @@
               ]
             },
             "title": "Perzentile"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
