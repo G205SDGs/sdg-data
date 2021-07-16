@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "mn usd, constant prices (2018)",
-                "mn usd, constant prices (2019)",
+                "mn eur",
                 ""
               ]
             }
@@ -31,7 +31,7 @@
             "constraints": {
               "enum": [
                 "a) oda (commitments) for biodiversity",
-                "b) oda (gross disbursements) to the forestry sector",
+                "b) environmental protection expenditure",
                 ""
               ]
             }
