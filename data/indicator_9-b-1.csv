@@ -1,4 +1,4 @@
-Year,technological intensity,Value
+Year,technology sectors,Value
 2010,,59
 2011,,59
 2012,,59
@@ -8,6 +8,7 @@ Year,technological intensity,Value
 2016,,61
 2017,,61
 2018,,61
+2019,,61
 2010,medium-high-tech,49
 2011,medium-high-tech,50
 2012,medium-high-tech,50
@@ -17,6 +18,7 @@ Year,technological intensity,Value
 2016,medium-high-tech,51
 2017,medium-high-tech,51
 2018,medium-high-tech,51
+2019,medium-high-tech,50
 2010,high-tech,10
 2011,high-tech,10
 2012,high-tech,10
@@ -26,3 +28,4 @@ Year,technological intensity,Value
 2016,high-tech,10
 2017,high-tech,10
 2018,high-tech,10
+2019,high-tech,11
