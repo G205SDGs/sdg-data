@@ -8,6 +8,7 @@ Year,timeseries,sex,Value
 2016,fatal occupational accidents (per 100 000 employees),,1.0
 2017,fatal occupational accidents (per 100 000 employees),,0.9
 2018,fatal occupational accidents (per 100 000 employees),,0.8
+2019,fatal occupational accidents (per 100 000 employees),,0.8
 2010,non-fatal occupational accidents (per 100 000 employees),,1976.1
 2011,non-fatal occupational accidents (per 100 000 employees),,2058.3
 2012,non-fatal occupational accidents (per 100 000 employees),,1956.3
@@ -17,6 +18,7 @@ Year,timeseries,sex,Value
 2016,non-fatal occupational accidents (per 100 000 employees),,1950.9
 2017,non-fatal occupational accidents (per 100 000 employees),,1819.6
 2018,non-fatal occupational accidents (per 100 000 employees),,1721.6
+2019,non-fatal occupational accidents (per 100 000 employees),,1650.8
 2010,non-fatal occupational accidents (per 100 000 employees),female,1022.7
 2011,non-fatal occupational accidents (per 100 000 employees),female,1004.4
 2012,non-fatal occupational accidents (per 100 000 employees),female,998.3
@@ -26,6 +28,7 @@ Year,timeseries,sex,Value
 2016,non-fatal occupational accidents (per 100 000 employees),female,1097.3
 2017,non-fatal occupational accidents (per 100 000 employees),female,987.7
 2018,non-fatal occupational accidents (per 100 000 employees),female,920.1
+2019,non-fatal occupational accidents (per 100 000 employees),female,905.1
 2010,non-fatal occupational accidents (per 100 000 employees),male,2806.8
 2011,non-fatal occupational accidents (per 100 000 employees),male,3015.8
 2012,non-fatal occupational accidents (per 100 000 employees),male,2820.5
@@ -35,3 +38,4 @@ Year,timeseries,sex,Value
 2016,non-fatal occupational accidents (per 100 000 employees),male,2734.3
 2017,non-fatal occupational accidents (per 100 000 employees),male,2578.2
 2018,non-fatal occupational accidents (per 100 000 employees),male,2453.0
+2019,non-fatal occupational accidents (per 100 000 employees),male,2332.3
