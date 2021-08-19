@@ -1649,8 +1649,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
                 "Unsicherheitsgefühl in der Wohnumgebung (nachts)",
+                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
                 ""
               ]
             },

@@ -1517,8 +1517,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population not living in an area with crime, violence or vandalism (%)",
                 "feelings of insecurity in the neighbourhood",
+                "population not living in an area with crime, violence or vandalism (%)",
                 ""
               ]
             }
