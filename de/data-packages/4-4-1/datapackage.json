@@ -16,31 +16,34 @@
             "title": "Jahr"
           },
           {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 bis unter 25 Jahre",
-                "16 bis unter 75 Jahre",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
-          },
-          {
             "name": "activities",
             "type": "string",
             "constraints": {
               "enum": [
                 "Kopieren oder Verschieben von Dateien und Ordnern",
-                "Installation von Software oder Anwendungen (Apps)",
-                "Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken",
-                "Übertragung von Dateien zwischen Computern und anderen Geräten",
+                "Verwendung von Werkzeugen zum Kopieren oder Ausschneiden und Einfügen, um Informationen auf dem Bildschirm zu duplizieren oder zu verschieben",
                 "Schreiben eines Programmes in einer Programmiersprache",
+                "Anschließen und Installieren neuer Geräte, z. B. eines Druckers oder eines Modems",
+                "Übertragung von Dateien zwischen Computern und anderen Geräten",
+                "Installation von Software oder Anwendungen (Apps)",
+                "Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen",
+                "Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken",
                 ""
               ]
             },
             "title": "Aktivitäten"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 bis unter 25 Jahre",
+                "25 bis unter 65 Jahre",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
           },
           {
             "name": "Value",

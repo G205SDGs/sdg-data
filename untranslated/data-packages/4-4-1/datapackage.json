@@ -15,26 +15,29 @@
             "type": "integer"
           },
           {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 to under 25 years",
-                "16 to under 75 years",
-                ""
-              ]
-            }
-          },
-          {
             "name": "activities",
             "type": "string",
             "constraints": {
               "enum": [
                 "copied or moved a file and folder",
-                "installed software or applications (apps)",
-                "used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
-                "transferred files between computer and other devices",
+                "using copy or cut and paste tools to duplicate or move information on screen",
                 "written code in a programming language",
+                "connecting and installing new devices, eg a printer or a modem",
+                "transferred files between computer and other devices",
+                "installed software or applications (apps)",
+                "creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",
+                "used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 25 years",
+                "25 to under 65 years",
                 ""
               ]
             }

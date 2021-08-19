@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
+                "Baden-Württemberg",
                 "Bavaria",
                 "Berlin",
                 "Brandenburg",

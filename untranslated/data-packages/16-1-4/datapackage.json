@@ -15,6 +15,30 @@
             "type": "integer"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "population not living in an area with crime, violence or vandalism (%)",
+                "feelings of insecurity in the neighbourhood",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "feelings of insecurity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "very safe",
+                "safe",
+                "unsafe",
+                "very unsafe",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

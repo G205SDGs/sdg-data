@@ -1,17 +1,25 @@
 Year,Age group,Sex,Value
-2012,,,13
-2013,,,13
-2012,15 to under 25 years,,6
-2013,15 to under 25 years,,6
-2012,25 to under 45 years,,14
-2013,25 to under 45 years,,14
-2012,45 to under 55 years,,14
-2013,45 to under 55 years,,14
-2012,55 to under 65 years,,14
-2013,55 to under 65 years,,14
-2012,65 years and older,,17
-2013,65 years and older,,17
-2012,,Female,16
-2013,,Female,16
-2012,,Male,10
-2013,,Male,10
+2012,,,
+2013,,,13.0
+2014,,,
+2012,15 to under 25 years,,
+2013,15 to under 25 years,,6.0
+2014,15 to under 25 years,,
+2012,25 to under 45 years,,
+2013,25 to under 45 years,,14.0
+2014,25 to under 45 years,,
+2012,45 to under 55 years,,
+2013,45 to under 55 years,,14.0
+2014,45 to under 55 years,,
+2012,55 to under 65 years,,
+2013,55 to under 65 years,,14.0
+2014,55 to under 65 years,,
+2012,65 years and older,,
+2013,65 years and older,,17.0
+2014,65 years and older,,
+2012,,Female,
+2013,,Female,16.0
+2014,,Female,
+2012,,Male,
+2013,,Male,10.0
+2014,,Male,

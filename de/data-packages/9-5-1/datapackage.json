@@ -16,17 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Verhältnis der F&E-Ausgaben zum BIP",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "region",
             "type": "string",
             "constraints": {

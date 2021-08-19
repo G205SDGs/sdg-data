@@ -1,5 +1,5 @@
 Disaggregation,Number of indicators,Number of values
-activities,1,5
+activities,1,8
 age of mother,1,2
 age,17,32
 antimicrobial-resistant organisms,1,2
@@ -12,6 +12,7 @@ disability,1,1
 economic sector,2,5
 education level,1,2
 facilities,1,4
+feelings of insecurity,1,4
 form of abuse,1,2
 form of exploitation,1,2
 household expenditures on health,1,2
@@ -36,8 +37,8 @@ substance,1,2
 technology sectors,1,2
 technology,1,2
 time series,1,2
-timeseries,58,145
-treatment,1,2
+timeseries,57,146
+treatment,1,1
 type of account,1,2
 type of disease,3,15
 type of flow,1,5

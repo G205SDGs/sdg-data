@@ -1,11 +1,51 @@
-Year,Value
-2010,88.0
-2011,87.1
-2012,87.5
-2013,86.5
-2014,86.9
-2015,86.2
-2016,85.9
-2017,85.8
-2018,86.7
-2019,86.9
+Year,Zeitreihe,Unsicherheitsgefühl,Value
+2010,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",,88.0
+2011,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",,87.1
+2012,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",,87.5
+2013,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",,86.5
+2014,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",,86.9
+2015,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",,86.2
+2016,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",,85.9
+2017,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",,85.8
+2018,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",,86.7
+2019,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",,86.9
+2010,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr sicher,
+2011,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr sicher,
+2012,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr sicher,41.0
+2013,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr sicher,
+2014,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr sicher,
+2015,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr sicher,
+2016,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr sicher,
+2017,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr sicher,36.7
+2018,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr sicher,
+2019,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr sicher,
+2010,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher sicher,
+2011,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher sicher,
+2012,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher sicher,41.8
+2013,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher sicher,
+2014,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher sicher,
+2015,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher sicher,
+2016,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher sicher,
+2017,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher sicher,41.9
+2018,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher sicher,
+2019,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher sicher,
+2010,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher unsicher,
+2011,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher unsicher,
+2012,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher unsicher,12.5
+2013,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher unsicher,
+2014,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher unsicher,
+2015,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher unsicher,
+2016,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher unsicher,
+2017,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher unsicher,15.2
+2018,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher unsicher,
+2019,Unsicherheitsgefühl in der Wohnumgebung (nachts),Eher unsicher,
+2010,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr unsicher,
+2011,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr unsicher,
+2012,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr unsicher,4.8
+2013,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr unsicher,
+2014,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr unsicher,
+2015,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr unsicher,
+2016,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr unsicher,
+2017,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr unsicher,6.3
+2018,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr unsicher,
+2019,Unsicherheitsgefühl in der Wohnumgebung (nachts),Sehr unsicher,

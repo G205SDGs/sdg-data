@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "safely treated wastewater (total)",
                 "untreated wastewater that does not have to undergo treatment",
                 ""
               ]

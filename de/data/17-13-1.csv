@@ -9,7 +9,7 @@ Year,Units,Zeitreihe,Value
 2017,Prozent,Jährliche Wachstumsrate des realen BIP,2.6
 2018,Prozent,Jährliche Wachstumsrate des realen BIP,1.3
 2019,Prozent,Jährliche Wachstumsrate des realen BIP,0.6
-2020,Prozent,Jährliche Wachstumsrate des realen BIP,-4.9
+2020,Prozent,Jährliche Wachstumsrate des realen BIP,-4.8
 2010,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1525.6
 2011,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1577.6
 2012,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1614.0
@@ -20,7 +20,7 @@ Year,Units,Zeitreihe,Value
 2017,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1846.0
 2018,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1911.6
 2019,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1969.8
-2020,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1983.0
+2020,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1983.9
 2010,Milliarden EUR,Konsum privater Haushalte,1372.9
 2011,Milliarden EUR,Konsum privater Haushalte,1423.6
 2012,Milliarden EUR,Konsum privater Haushalte,1465.9
@@ -31,7 +31,7 @@ Year,Units,Zeitreihe,Value
 2017,Milliarden EUR,Konsum privater Haushalte,1656.3
 2018,Milliarden EUR,Konsum privater Haushalte,1706.2
 2019,Milliarden EUR,Konsum privater Haushalte,1755.6
-2020,Milliarden EUR,Konsum privater Haushalte,1655.7
+2020,Milliarden EUR,Konsum privater Haushalte,1658.0
 2010,Milliarden EUR,Schuldenstand des öffentlichen Gesamthaushaltes,2011.7
 2011,Milliarden EUR,Schuldenstand des öffentlichen Gesamthaushaltes,2025.4
 2012,Milliarden EUR,Schuldenstand des öffentlichen Gesamthaushaltes,2068.3
@@ -53,7 +53,7 @@ Year,Units,Zeitreihe,Value
 2017,Milliarden EUR,Finanzierungssaldo des Staates,44.4
 2018,Milliarden EUR,Finanzierungssaldo des Staates,61.6
 2019,Milliarden EUR,Finanzierungssaldo des Staates,52.5
-2020,Milliarden EUR,Finanzierungssaldo des Staates,-139.6
+2020,Milliarden EUR,Finanzierungssaldo des Staates,-149.2
 2010,Milliarden EUR,Bruttoanlageinvestitionen,501.1
 2011,Milliarden EUR,Bruttoanlageinvestitionen,548.7
 2012,Milliarden EUR,Bruttoanlageinvestitionen,557.9
@@ -64,7 +64,7 @@ Year,Units,Zeitreihe,Value
 2017,Milliarden EUR,Bruttoanlageinvestitionen,666.0
 2018,Milliarden EUR,Bruttoanlageinvestitionen,709.3
 2019,Milliarden EUR,Bruttoanlageinvestitionen,748.0
-2020,Milliarden EUR,Bruttoanlageinvestitionen,735.5
+2020,Milliarden EUR,Bruttoanlageinvestitionen,738.4
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,49314.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,50102.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,50100.0
@@ -75,7 +75,7 @@ Year,Units,Zeitreihe,Value
 2017,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,53233.0
 2018,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54145.0
 2019,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54681.0
-2020,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,52414.0
+2020,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,52385.0
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,58524.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59279.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59162.0
@@ -86,7 +86,7 @@ Year,Units,Zeitreihe,Value
 2017,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,61483.0
 2018,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,62229.0
 2019,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,62596.0
-2020,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59636.0
+2020,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59632.0
 2010,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,96.5
 2011,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,98.7
 2012,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,99.1
@@ -97,7 +97,7 @@ Year,Units,Zeitreihe,Value
 2017,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.0
 2018,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,101.5
 2019,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,101.1
-2020,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,100.3
+2020,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,100.5
 2010,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,94.9
 2011,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,97.4
 2012,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,98.0
@@ -108,7 +108,7 @@ Year,Units,Zeitreihe,Value
 2017,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,103.1
 2018,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,103.1
 2019,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,103.1
-2020,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,102.9
+2020,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,103.1
 2010,1 000,Erwerbstätige,41048.0
 2011,1 000,Erwerbstätige,41544.0
 2012,1 000,Erwerbstätige,42019.0
@@ -119,7 +119,7 @@ Year,Units,Zeitreihe,Value
 2017,1 000,Erwerbstätige,44262.0
 2018,1 000,Erwerbstätige,44868.0
 2019,1 000,Erwerbstätige,45269.0
-2020,1 000,Erwerbstätige,44782.0
+2020,1 000,Erwerbstätige,44818.0
 2010,2015 = 100,Reales BIP pro Kopf,93.6
 2011,2015 = 100,Reales BIP pro Kopf,97.3
 2012,2015 = 100,Reales BIP pro Kopf,97.5
@@ -130,7 +130,7 @@ Year,Units,Zeitreihe,Value
 2017,2015 = 100,Reales BIP pro Kopf,103.7
 2018,2015 = 100,Reales BIP pro Kopf,104.7
 2019,2015 = 100,Reales BIP pro Kopf,105.0
-2020,2015 = 100,Reales BIP pro Kopf,99.8
+2020,2015 = 100,Reales BIP pro Kopf,99.9
 2010,Milliarden EUR,Außenbeitrag,134.9
 2011,Milliarden EUR,Außenbeitrag,132.2
 2012,Milliarden EUR,Außenbeitrag,167.5
@@ -141,4 +141,4 @@ Year,Units,Zeitreihe,Value
 2017,Milliarden EUR,Außenbeitrag,228.1
 2018,Milliarden EUR,Außenbeitrag,206.4
 2019,Milliarden EUR,Außenbeitrag,199.9
-2020,Milliarden EUR,Außenbeitrag,194.0
+2020,Milliarden EUR,Außenbeitrag,193.5

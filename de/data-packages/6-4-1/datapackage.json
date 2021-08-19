@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)",
-                "MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)",
-                "Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)",
+                "Land- und Forstwirtschaft, Fischerei",
+                "MIMEC",
+                "Dienstleistungen",
                 ""
               ]
             },

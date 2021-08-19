@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wastewater safely treated (total)",
                 "Untreated wastewater that does not have to undergo treatment",
                 ""
               ]
