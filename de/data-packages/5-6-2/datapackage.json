@@ -16,20 +16,22 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "thematic area",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Abschnitt 1: Mutterschaftsvorsorge",
+                "Abschnitt 2: Empfängnisverhütung und Familienplanung",
+                "Abschnitt 3: Umfassende Sexualerziehung und Information",
+                "Abschnitt 4: HIV und HPV",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Themenbereich"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

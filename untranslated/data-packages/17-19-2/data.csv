@@ -1,34 +1,34 @@
 Year,Units,timeseries,Value
-2010,number,at least one population and housing census in the last 10 years conducted,
-2011,number,at least one population and housing census in the last 10 years conducted,1.0
-2012,number,at least one population and housing census in the last 10 years conducted,1.0
-2013,number,at least one population and housing census in the last 10 years conducted,1.0
-2014,number,at least one population and housing census in the last 10 years conducted,1.0
-2015,number,at least one population and housing census in the last 10 years conducted,1.0
-2016,number,at least one population and housing census in the last 10 years conducted,1.0
-2017,number,at least one population and housing census in the last 10 years conducted,1.0
-2018,number,at least one population and housing census in the last 10 years conducted,1.0
-2019,number,at least one population and housing census in the last 10 years conducted,1.0
-2020,number,at least one population and housing census in the last 10 years conducted,1.0
-2010,%,birth registration,100.0
-2011,%,birth registration,100.0
-2012,%,birth registration,100.0
-2013,%,birth registration,100.0
-2014,%,birth registration,100.0
-2015,%,birth registration,100.0
-2016,%,birth registration,100.0
-2017,%,birth registration,100.0
-2018,%,birth registration,100.0
-2019,%,birth registration,100.0
-2020,%,birth registration,100.0
-2010,%,death registration,100.0
-2011,%,death registration,100.0
-2012,%,death registration,100.0
-2013,%,death registration,100.0
-2014,%,death registration,100.0
-2015,%,death registration,100.0
-2016,%,death registration,100.0
-2017,%,death registration,100.0
-2018,%,death registration,100.0
-2019,%,death registration,100.0
-2020,%,death registration,100.0
+2010,number,at least one population and housing census in the last 10 years conducted,0
+2011,number,at least one population and housing census in the last 10 years conducted,1
+2012,number,at least one population and housing census in the last 10 years conducted,1
+2013,number,at least one population and housing census in the last 10 years conducted,1
+2014,number,at least one population and housing census in the last 10 years conducted,1
+2015,number,at least one population and housing census in the last 10 years conducted,1
+2016,number,at least one population and housing census in the last 10 years conducted,1
+2017,number,at least one population and housing census in the last 10 years conducted,1
+2018,number,at least one population and housing census in the last 10 years conducted,1
+2019,number,at least one population and housing census in the last 10 years conducted,1
+2020,number,at least one population and housing census in the last 10 years conducted,1
+2010,%,birth registration,100
+2011,%,birth registration,100
+2012,%,birth registration,100
+2013,%,birth registration,100
+2014,%,birth registration,100
+2015,%,birth registration,100
+2016,%,birth registration,100
+2017,%,birth registration,100
+2018,%,birth registration,100
+2019,%,birth registration,100
+2020,%,birth registration,100
+2010,%,death registration,100
+2011,%,death registration,100
+2012,%,death registration,100
+2013,%,death registration,100
+2014,%,death registration,100
+2015,%,death registration,100
+2016,%,death registration,100
+2017,%,death registration,100
+2018,%,death registration,100
+2019,%,death registration,100
+2020,%,death registration,100

@@ -9,6 +9,7 @@ Year,Units,Time series,Value
 2017,Million tonnes,Above-ground biomass stock in forest,1658.8
 2018,Million tonnes,Above-ground biomass stock in forest,1662.4
 2019,Million tonnes,Above-ground biomass stock in forest,
+2020,Million tonnes,Above-ground biomass stock in forest,
 2010,Percentage,Forest area located within protected areas,
 2011,Percentage,Forest area located within protected areas,
 2012,Percentage,Forest area located within protected areas,0.68
@@ -19,6 +20,7 @@ Year,Units,Time series,Value
 2017,Percentage,Forest area located within protected areas,
 2018,Percentage,Forest area located within protected areas,
 2019,Percentage,Forest area located within protected areas,
+2020,Percentage,Forest area located within protected areas,
 2010,Percentage,Forest area net change rate,
 2011,Percentage,Forest area net change rate,0.1
 2012,Percentage,Forest area net change rate,0.2
@@ -29,6 +31,7 @@ Year,Units,Time series,Value
 2017,Percentage,Forest area net change rate,0.2
 2018,Percentage,Forest area net change rate,0.2
 2019,Percentage,Forest area net change rate,
+2020,Percentage,Forest area net change rate,
 2010,Percentage,Forest area under an independently verified forest management certification scheme,67.5
 2011,Percentage,Forest area under an independently verified forest management certification scheme,67.2
 2012,Percentage,Forest area under an independently verified forest management certification scheme,66.9
@@ -39,3 +42,4 @@ Year,Units,Time series,Value
 2017,Percentage,Forest area under an independently verified forest management certification scheme,67.2
 2018,Percentage,Forest area under an independently verified forest management certification scheme,68.6
 2019,Percentage,Forest area under an independently verified forest management certification scheme,69.1
+2020,Percentage,Forest area under an independently verified forest management certification scheme,73.9

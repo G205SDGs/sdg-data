@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Opfer von körperlicher Belästigung",
-                "Opfer von sexueller Belästigung",
+                "Opfer körperlicher Belästigung",
+                "Opfer sexueller Belästigung",
                 ""
               ]
             },

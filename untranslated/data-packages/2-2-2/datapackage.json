@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "timeseries",
@@ -21,6 +21,17 @@
               "enum": [
                 "overweight among children under the age of 5 years (%)",
                 "wasting among children under the age of 5 years (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }

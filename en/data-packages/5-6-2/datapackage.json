@@ -16,20 +16,22 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "thematic area",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Section 1: Maternity care",
+                "Section 2: Contraception and family planning",
+                "Section 3: Comprehensive sexuality education and information",
+                "Section 4: HIV and HPV",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Thematic area"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

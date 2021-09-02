@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Feelings of insecurity in the neighbourhood (at night)",
-                "Population not living in an area with crime, violence or vandalism",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "feelings of insecurity",
             "type": "string",
             "constraints": {
@@ -40,6 +28,18 @@
               ]
             },
             "title": "Feelings of insecurity"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Feeling of (in)security of the population in its neighbourhood (at night)",
+                "Population not living in an area with crime, violence or vandalism",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

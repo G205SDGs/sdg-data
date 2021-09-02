@@ -16,18 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Unsicherheitsgefühl in der Wohnumgebung (nachts)",
-                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "feelings of insecurity",
             "type": "string",
             "constraints": {
@@ -40,6 +28,18 @@
               ]
             },
             "title": "Unsicherheitsgefühl"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)",
+                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

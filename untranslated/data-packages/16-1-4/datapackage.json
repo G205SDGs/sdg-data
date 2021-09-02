@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "feelings of insecurity in the neighbourhood",
-                "population not living in an area with crime, violence or vandalism (%)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "feelings of insecurity",
             "type": "string",
             "constraints": {
@@ -34,6 +23,17 @@
                 "safe",
                 "unsafe",
                 "very unsafe",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "feelings of insecurity in the neighbourhood",
+                "population not living in an area with crime, violence or vandalism (%)",
                 ""
               ]
             }
