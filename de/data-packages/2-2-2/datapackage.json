@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Übergewicht bei Kindern",
-                "Untergewicht bei Kindern",
+                "Übergewicht",
+                "Untergewicht",
                 ""
               ]
             },
