@@ -67,15 +67,15 @@ Year,Sex,Form of abuse,Value
 2020,Male,Physical abuse,0.06
 2010,,Psychological abuse,
 2011,,Psychological abuse,
-2012,,Psychological abuse,0.04
-2013,,Psychological abuse,0.04
+2012,,Psychological abuse,0.03
+2013,,Psychological abuse,0.03
 2014,,Psychological abuse,0.04
 2015,,Psychological abuse,0.04
 2016,,Psychological abuse,0.05
 2017,,Psychological abuse,0.05
 2018,,Psychological abuse,0.06
 2019,,Psychological abuse,0.07
-2020,,Psychological abuse,0.07
+2020,,Psychological abuse,0.08
 2010,Female,Psychological abuse,
 2011,Female,Psychological abuse,
 2012,Female,Psychological abuse,0.03
@@ -89,7 +89,7 @@ Year,Sex,Form of abuse,Value
 2020,Female,Psychological abuse,0.08
 2010,Male,Psychological abuse,
 2011,Male,Psychological abuse,
-2012,Male,Psychological abuse,
+2012,Male,Psychological abuse,0.03
 2013,Male,Psychological abuse,0.03
 2014,Male,Psychological abuse,0.04
 2015,Male,Psychological abuse,0.04
