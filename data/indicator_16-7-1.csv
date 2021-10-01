@@ -1,23 +1,91 @@
-Year,timeseries,Value
-2010,total female persons in employment (%),46
-2011,total female persons in employment (%),46
-2012,total female persons in employment (%),46
-2013,total female persons in employment (%),47
-2014,total female persons in employment (%),47
-2015,total female persons in employment (%),47
-2016,total female persons in employment (%),47
-2017,total female persons in employment (%),47
-2018,total female persons in employment (%),47
-2019,total female persons in employment (%),47
-2020,total female persons in employment (%),
-2010,female employees in public sector (%),52
-2011,female employees in public sector (%),53
-2012,female employees in public sector (%),53
-2013,female employees in public sector (%),54
-2014,female employees in public sector (%),54
-2015,female employees in public sector (%),55
-2016,female employees in public sector (%),55
-2017,female employees in public sector (%),55
-2018,female employees in public sector (%),55
-2019,female employees in public sector (%),55
-2020,female employees in public sector (%),56
+Year,field of work,level of court,Value,Series
+2010,,,1.10,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2011,,,1.08,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2012,,,1.09,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2013,,,1.10,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2014,,,1.10,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2015,,,1.11,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2016,,,1.12,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2017,,,1.13,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2018,,,1.14,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2019,,,1.14,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2010,"political leadership and central administration, foreign affairs",,1.06,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2011,"political leadership and central administration, foreign affairs",,1.06,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2012,"political leadership and central administration, foreign affairs",,1.07,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2013,"political leadership and central administration, foreign affairs",,1.08,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2014,"political leadership and central administration, foreign affairs",,1.08,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2015,"political leadership and central administration, foreign affairs",,1.09,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2016,"political leadership and central administration, foreign affairs",,1.11,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2017,"political leadership and central administration, foreign affairs",,1.12,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2018,"political leadership and central administration, foreign affairs",,1.12,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2019,"political leadership and central administration, foreign affairs",,1.13,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2010,police,,0.50,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2011,police,,0.48,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2012,police,,0.49,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2013,police,,0.50,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2014,police,,0.51,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2015,police,,0.52,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2016,police,,0.53,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2017,police,,0.55,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2018,police,,0.57,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2019,police,,0.59,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2010,"education, science, research, cultural affairs",,1.32,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2011,"education, science, research, cultural affairs",,1.32,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2012,"education, science, research, cultural affairs",,1.32,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2013,"education, science, research, cultural affairs",,1.33,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2014,"education, science, research, cultural affairs",,1.33,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2015,"education, science, research, cultural affairs",,1.33,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2016,"education, science, research, cultural affairs",,1.34,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2017,"education, science, research, cultural affairs",,1.35,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2018,"education, science, research, cultural affairs",,1.35,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2019,"education, science, research, cultural affairs",,1.35,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2010,"health, environment, sports and recreation",,1.24,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2011,"health, environment, sports and recreation",,1.24,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2012,"health, environment, sports and recreation",,1.23,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2013,"health, environment, sports and recreation",,1.22,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2014,"health, environment, sports and recreation",,1.25,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2015,"health, environment, sports and recreation",,1.25,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2016,"health, environment, sports and recreation",,1.26,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2017,"health, environment, sports and recreation",,1.15,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2018,"health, environment, sports and recreation",,1.23,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2019,"health, environment, sports and recreation",,1.24,"proportions of positions of women in the public service compared to the national distribution, by field of work"
+2010,,,0.84,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2011,,,0.85,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2012,,,0.87,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2013,,,0.88,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2014,,,0.89,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2015,,,0.93,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2016,,,0.95,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2017,,,0.97,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2018,,,0.98,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2019,,,1.00,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2010,,supreme/constitutional courts,0.50,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2011,,supreme/constitutional courts,0.50,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2012,,supreme/constitutional courts,0.55,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2013,,supreme/constitutional courts,0.52,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2014,,supreme/constitutional courts,0.58,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2015,,supreme/constitutional courts,0.58,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2016,,supreme/constitutional courts,0.68,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2017,,supreme/constitutional courts,0.68,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2018,,supreme/constitutional courts,0.74,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2019,,supreme/constitutional courts,0.74,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2010,,higher-level courts,0.64,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2011,,higher-level courts,0.66,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2012,,higher-level courts,0.67,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2013,,higher-level courts,0.68,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2014,,higher-level courts,0.70,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2015,,higher-level courts,0.73,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2016,,higher-level courts,0.76,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2017,,higher-level courts,0.79,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2018,,higher-level courts,0.80,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2019,,higher-level courts,0.81,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2010,,lower-level courts,0.89,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2011,,lower-level courts,0.90,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2012,,lower-level courts,0.92,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2013,,lower-level courts,0.93,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2014,,lower-level courts,0.94,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2015,,lower-level courts,0.98,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2016,,lower-level courts,1.00,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2017,,lower-level courts,1.02,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2018,,lower-level courts,1.02,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
+2019,,lower-level courts,1.04,"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"

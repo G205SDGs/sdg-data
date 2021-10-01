@@ -122,6 +122,12 @@ prose:
             label: "Indicator available"
             translation_key: metadata_fields.national_indicator_available
             scope: national
+      - name: "national_indicators_available"
+        field:
+            element: text
+            label: "Indicator available"
+            translation_key: metadata_fields.national_indicators_available
+            scope: national
       - name: "national_indicator_description"
         field:
             element: text
@@ -261,6 +267,13 @@ prose:
             element: text
             label: Footnote
             translation_key: metadata_fields.data_footnote
+            help: Footnotes appear under the chart and by data tables
+            scope: data
+      - name: data_footnotes
+        field:
+            element: text
+            label: Footnote
+            translation_key: metadata_fields.data_footnotes
             help: Footnotes appear under the chart and by data tables
             scope: data
       - name: copyright
