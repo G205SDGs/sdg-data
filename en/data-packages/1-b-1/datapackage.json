@@ -16,20 +16,20 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "At-risk-of-poverty rate",
+                "Government expenditure on social protection",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Time series"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

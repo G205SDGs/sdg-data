@@ -16,20 +16,35 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "No Unit",
+                "Number",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture",
+                "Parties to the Nagoya Protocol",
+                "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture",
+                "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House",
+                "Number of Standard Material Transfer Agreements (SMTAs)",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

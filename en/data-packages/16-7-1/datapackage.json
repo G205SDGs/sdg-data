@@ -16,12 +16,39 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "field of work",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total female persons in employment",
-                "Female employees in public sector",
+                "Political leadership and central administration, foreign affairs",
+                "Police",
+                "Education, science, research, cultural affairs",
+                "Health, environment, sports and recreation",
+                ""
+              ]
+            },
+            "title": "Field of work"
+          },
+          {
+            "name": "level of court",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Supreme/Constitutional courts",
+                "Higher-level courts",
+                "Lower-level courts",
+                ""
+              ]
+            },
+            "title": "Level of court"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportions of positions of women in the public service compared to the national distribution",
+                "Ratio of proportion of women in the judiciary to proportion of women in the total population",
                 ""
               ]
             },

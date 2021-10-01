@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CO2-Emissionen zum realen BIP",
-                "CO2-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe",
+                "CO<sub>2</sub>-Emissionen zum realen BIP",
+                "CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe",
                 ""
               ]
             },

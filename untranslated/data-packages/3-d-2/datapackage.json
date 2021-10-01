@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "who",
-                "ecdc",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

@@ -12,20 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "domain",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Bereich 1. Rechte von Migranten",
+                "Bereich 2. Gesamtheitliche/ Evidenzbasierte Politik",
+                "Bereich 3. Zusammenarbeit und Partnerschaften",
+                "Bereich 4. Sozioökonomisches Wohlbefinden",
+                "Bereich 5. Mobilitätsdimensionen von Krisen",
+                "Bereich 6. Sichere, geordnete und reguläre Migration",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Politikbereiche"
           },
           {
             "name": "Value",

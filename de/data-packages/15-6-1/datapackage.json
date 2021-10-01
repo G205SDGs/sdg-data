@@ -16,20 +16,35 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Keine Einheit",
+                "Anzahl",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vertragsparteien des Internationalen Saatgutvertrags",
+                "Vertragsparteien des Nagoya-Protokoll",
+                "Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden",
+                "Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden",
+                "Anzahl standardisierter Materialübertragungs-vereinbarungen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

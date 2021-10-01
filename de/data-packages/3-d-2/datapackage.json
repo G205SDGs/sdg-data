@@ -20,24 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Escherichia coli mit Resistenz gegenüber 3. Generations-Cephalosporinen (z. B. ESBL- E. coli)",
-                "Methicillin-resistente Staphylococcus aureus (MRSA)",
+                "Escherichia coli, 3GCR",
+                "Staphylococcus aureus, MR",
                 ""
               ]
             },
-            "title": "Antimikrobiell-resistente Organismen"
-          },
-          {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weltgesundheitsorganisation (WHO)",
-                "Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)",
-                ""
-              ]
-            },
-            "title": "Datenquelle"
+            "title": "Erreger und Resistenz"
           },
           {
             "name": "Value",

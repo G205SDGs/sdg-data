@@ -1,7 +1,23 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,timeseries,Value
+2010,at-risk-of-poverty rate (according to eurostat definition) (%),15.6
+2011,at-risk-of-poverty rate (according to eurostat definition) (%),15.8
+2012,at-risk-of-poverty rate (according to eurostat definition) (%),16.1
+2013,at-risk-of-poverty rate (according to eurostat definition) (%),16.1
+2014,at-risk-of-poverty rate (according to eurostat definition) (%),16.7
+2015,at-risk-of-poverty rate (according to eurostat definition) (%),16.7
+2016,at-risk-of-poverty rate (according to eurostat definition) (%),16.5
+2017,at-risk-of-poverty rate (according to eurostat definition) (%),16.1
+2018,at-risk-of-poverty rate (according to eurostat definition) (%),16.0
+2019,at-risk-of-poverty rate (according to eurostat definition) (%),14.8
+2020,at-risk-of-poverty rate (according to eurostat definition) (%),
+2010,c) government expenditure on social protection (cofog division 10) (%),41.67
+2011,c) government expenditure on social protection (cofog division 10) (%),41.73
+2012,c) government expenditure on social protection (cofog division 10) (%),42.08
+2013,c) government expenditure on social protection (cofog division 10) (%),42.25
+2014,c) government expenditure on social protection (cofog division 10) (%),42.42
+2015,c) government expenditure on social protection (cofog division 10) (%),43.26
+2016,c) government expenditure on social protection (cofog division 10) (%),43.98
+2017,c) government expenditure on social protection (cofog division 10) (%),44.0
+2018,c) government expenditure on social protection (cofog division 10) (%),43.46
+2019,c) government expenditure on social protection (cofog division 10) (%),43.61
+2020,c) government expenditure on social protection (cofog division 10) (%),42.92

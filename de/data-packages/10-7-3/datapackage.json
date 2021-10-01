@@ -16,20 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-7-3",
-  "title": "Anzahl der Personen, die im Laufe ihrer Migration zu einem internationalen Zielort gestorben oder verschwunden sind"
+  "title": "Anzahl der Menschen, die im Laufe ihrer Migration zu einem internationalen Zielort gestorben oder verschwunden sind"
 }

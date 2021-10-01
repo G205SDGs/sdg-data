@@ -16,12 +16,39 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "field of work",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weibliche Erwerbstätige insgesamt",
-                "Weibliche Beschäftigte des öffentlichen Dienstes",
+                "Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",
+                "Polizei",
+                "Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",
+                "Gesundheit, Umwelt, Sport und Erholung",
+                ""
+              ]
+            },
+            "title": "Aufgabenbereiche"
+          },
+          {
+            "name": "level of court",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oberste/Verfassungsgerichte",
+                "Übergeordnete Gerichte",
+                "Untergeordnete Gerichte",
+                ""
+              ]
+            },
+            "title": "Gerichtsebene"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stellenverteilung von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung",
+                "Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung",
                 ""
               ]
             },

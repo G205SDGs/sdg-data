@@ -16,20 +16,20 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Armutsgefährdungsquote",
+                "Staatsausgaben für soziale Sicherung",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

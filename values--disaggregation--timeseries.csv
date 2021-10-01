@@ -11,6 +11,7 @@ aid for trade commitments (oda and oof),1,1
 aid for trade gross disbursements (oda and oof),1,1
 annual growth rate of real gdp,1,1
 at least one population and housing census in the last 10 years conducted,1,1
+at-risk-of-poverty rate (according to eurostat definition) (%),1,1
 available income of private households,1,1
 average hourly earnings of employees,3,1
 b) atms of national payment service providers (per 100 000 adults),1,1
@@ -19,7 +20,7 @@ b) government expenditure on education (cofog division 9) (%),1,1
 b) hazardous waste treated,5,1
 b) population with a bathtub or a shower (%),1,1
 birth registration,1,1
-c) government expenditure on social protection (cofog division 10) (%),1,1
+c) government expenditure on social protection (cofog division 10) (%),2,2
 c) police reporting rate for robbery (%),1,1
 capital to assets ratio (%),1,1
 child deliveries in hospitals,1,1
@@ -38,7 +39,6 @@ debt level of the total public budget,1,1
 documents issued for the import and export of protected species (number),2,2
 dtp vaccination rate at school entrance,1,1
 fatal occupational accidents (per 100 000 employees),1,1
-female employees in public sector (%),1,1
 female owners of agricultural holdings with the legal form of a sole proprietorship,1,1
 fish stocks within biologically sustainable levels (%),3,1
 forest area located within protected areas,1,1
@@ -108,7 +108,7 @@ population living in an area with noise pollution,1,1
 population living in households with moisture damages,1,1
 population subjected to physical violence,1,1
 population that has convenient access to public transport (within 10 minutes walking distance) (%),9,1
-population that has convenient access to public transport (within 500 meters) (%),1,1
+population that has convenient access to public transport (within 500 meters) (%),17,1
 population using safely managed drinking water services (%),1,1
 population who were victims of criminal offences,1,1
 population with access to electricity,1,1
@@ -137,7 +137,6 @@ score for the ratification of and accession to unclos and ist two implementing a
 seizures by authorities concerning the protection of species (number),2,2
 severely materially deprived persons,1,1
 sexual harassment,18,1
-total female persons in employment (%),1,1
 total municipal solid waste generated,1,1
 trade balance,1,1
 unemployed persons with unemployment benefits (%),1,1

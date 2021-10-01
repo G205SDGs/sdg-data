@@ -28,18 +28,6 @@
             "title": "Antimicrobial-resistant organism"
           },
           {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Health Organization (WHO)",
-                "European Centre for Disease Prevention and Control (ECDC)",
-                ""
-              ]
-            },
-            "title": "Data source"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

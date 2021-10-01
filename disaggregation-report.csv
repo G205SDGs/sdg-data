@@ -9,14 +9,17 @@ classification,1,4
 conversion,1,2
 declination,1,2
 disability,1,1
+domain,1,6
 economic sector,2,5
 education level,1,2
 facilities,1,4
 feelings of insecurity,1,4
+field of work,1,4
 form of abuse,1,2
 form of exploitation,1,2
 household expenditures on health,1,2
 indicator,1,3
+level of court,1,3
 level of proficiency,1,2
 level of risk of extinction,1,5
 level of waterstress,1,2
@@ -24,12 +27,11 @@ mode of transport,1,6
 ownership,1,2
 percentiles,1,7
 profession,1,4
-region,5,17
+region,6,17
 sea,1,2
 sector,1,2
 sex,26,4
 skill,1,2
-source,1,2
 speed,1,5
 standard accounting system,1,2
 subject,1,2
@@ -38,7 +40,7 @@ technology sectors,1,2
 technology,1,2
 thematic area,1,4
 time series,1,2
-timeseries,56,144
+timeseries,56,143
 treatment,1,1
 type of account,1,2
 type of disease,3,15

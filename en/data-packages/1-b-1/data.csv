@@ -1,7 +1,23 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Time series,Value
+2010,At-risk-of-poverty rate,15.6
+2011,At-risk-of-poverty rate,15.8
+2012,At-risk-of-poverty rate,16.1
+2013,At-risk-of-poverty rate,16.1
+2014,At-risk-of-poverty rate,16.7
+2015,At-risk-of-poverty rate,16.7
+2016,At-risk-of-poverty rate,16.5
+2017,At-risk-of-poverty rate,16.1
+2018,At-risk-of-poverty rate,16.0
+2019,At-risk-of-poverty rate,14.8
+2020,At-risk-of-poverty rate,
+2010,Government expenditure on social protection,41.67
+2011,Government expenditure on social protection,41.73
+2012,Government expenditure on social protection,42.08
+2013,Government expenditure on social protection,42.25
+2014,Government expenditure on social protection,42.42
+2015,Government expenditure on social protection,43.26
+2016,Government expenditure on social protection,43.98
+2017,Government expenditure on social protection,44.0
+2018,Government expenditure on social protection,43.46
+2019,Government expenditure on social protection,43.61
+2020,Government expenditure on social protection,42.92

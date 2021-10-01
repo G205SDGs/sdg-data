@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Growth rate of income of the total population",
-                "Growth rate of income of the bottom 40 per cent of the population",
+                "Growth rate of net equivalent income of the total population",
+                "rowth rate of net equivalent income of the bottom 40 per cent of the population",
                 ""
               ]
             },

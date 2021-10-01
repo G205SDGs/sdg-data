@@ -15,19 +15,19 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "at-risk-of-poverty rate (according to eurostat definition) (%)",
+                "c) government expenditure on social protection (cofog division 10) (%)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
