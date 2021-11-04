@@ -6979,6 +6979,42 @@
       "title": "Anteil der Staaten mit einem Rechtsrahmen (einschließlich Gewohnheitsrecht), der Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert"
     },
     {
+      "path": "11-c-1/data.csv",
+      "name": "11-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-c-1"
+    },
+    {
       "path": "11-1-1/data.csv",
       "name": "11-1-1",
       "profile": "tabular-data-resource",
