@@ -9,9 +9,10 @@ Indicator,Disaggregations,Number of disaggregations
 #10-2-1,"sex, age",2
 #10-5-1,timeseries,1
 #10-7-2,domain,1
+#10-7-4,Group,1
 #10-b-1,type of flow,1
 #11-1-1,timeseries,1
-#11-2-1,"timeseries, region, disability, sex, age",5
+#11-2-1,"timeseries, sex, age, region, disability",5
 #11-3-1,timeseries,1
 #11-4-1,timeseries,1
 #11-6-1,timeseries,1
@@ -101,7 +102,7 @@ Indicator,Disaggregations,Number of disaggregations
 #7-2-1,timeseries,1
 #8-10-1,timeseries,1
 #8-10-2,type of account,1
-#8-5-1,"timeseries, region, sex",3
+#8-5-1,"timeseries, sex, region",3
 #8-5-2,"sex, age",2
 #8-6-1,sex,1
 #8-7-1,"sex, age",2
