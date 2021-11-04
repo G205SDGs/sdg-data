@@ -15,19 +15,34 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
+                "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "country of origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "afghanistan",
+                "iraq",
+                "iran",
+                "russian federation",
+                "syria",
+                "turkey",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

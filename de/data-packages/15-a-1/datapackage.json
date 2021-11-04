@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen USD, konstante Preise (2018)",
+                "Millionen USD, konstante Preise (2019)",
                 "Millionen EUR",
                 ""
               ]
@@ -33,6 +33,7 @@
             "constraints": {
               "enum": [
                 "Zusagen (ODA) für Biodiversität",
+                "Auszahlungen (ODA) für Biodiversität",
                 "Umweltschutzausgaben",
                 ""
               ]

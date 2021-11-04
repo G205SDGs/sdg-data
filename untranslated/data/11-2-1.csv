@@ -1,4 +1,4 @@
-Year,timeseries,region,GeoCode,disability,sex,age,Value
+Year,timeseries,region,GeoCode,disability,age,sex,Value
 2010,population that has convenient access to public transport (within 500 meters) (%),,,,,,
 2011,population that has convenient access to public transport (within 500 meters) (%),,,,,,
 2012,population that has convenient access to public transport (within 500 meters) (%),,,,,,
@@ -208,80 +208,80 @@ Year,timeseries,region,GeoCode,disability,sex,age,Value
 2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,mobility impaired people,,,90.3
 2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,mobility impaired people,,,90.2
 2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,mobility impaired people,,,
-2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,93.2
-2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,94.2
-2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,94.5
-2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,92.5
-2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,94.6
-2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,93.8
-2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,93.6
-2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,94.4
-2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,94.5
-2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,94.0
-2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,female,,
-2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,95.6
-2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,93.7
-2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,94.4
-2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,93.2
-2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,94.0
-2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,93.4
-2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,93.6
-2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,94.0
-2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,94.5
-2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,93.5
-2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,male,,
-2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,97.5
-2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,98.4
-2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,96.7
-2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,89.5
-2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,96.3
-2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,98.1
-2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,95.8
-2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,95.6
-2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,96.4
-2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,97.0
-2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,under 18 years,
-2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,97.7
-2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,96.1
-2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,94.6
-2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,94.8
-2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,97.1
-2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,96.7
-2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,96.7
-2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,95.4
-2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,96.3
-2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,95.5
-2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,18 to under 30 years,
-2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,95.2
-2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,96.2
-2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,97.8
-2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,96.2
-2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,94.1
-2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,92.9
-2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,96.1
-2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,96.1
-2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,95.3
-2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,96.2
-2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,30 to under 45 years,
-2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,93.2
-2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,93.8
-2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,93.8
-2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,92.9
-2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,94.2
-2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,92.7
-2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,92.6
-2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,94.0
-2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,95.0
-2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,93.4
-2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,45 to under 65 years,
-2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,92.1
-2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,89.6
-2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,91.7
-2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,90.0
-2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,92.4
-2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,92.2
-2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,90.5
-2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,91.6
-2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,91.6
-2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,90.4
-2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,65 years and over,
+2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,97.5
+2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,98.4
+2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,96.7
+2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,89.5
+2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,96.3
+2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,98.1
+2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,95.8
+2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,95.6
+2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,96.4
+2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,97.0
+2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,under 18 years,,
+2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,97.7
+2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,96.1
+2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,94.6
+2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,94.8
+2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,97.1
+2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,96.7
+2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,96.7
+2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,95.4
+2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,96.3
+2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,95.5
+2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,18 to under 30 years,,
+2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,95.2
+2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,96.2
+2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,97.8
+2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,96.2
+2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,94.1
+2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,92.9
+2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,96.1
+2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,96.1
+2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,95.3
+2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,96.2
+2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,30 to under 45 years,,
+2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,93.2
+2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,93.8
+2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,93.8
+2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,92.9
+2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,94.2
+2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,92.7
+2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,92.6
+2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,94.0
+2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,95.0
+2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,93.4
+2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,45 to under 65 years,,
+2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,92.1
+2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,89.6
+2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,91.7
+2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,90.0
+2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,92.4
+2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,92.2
+2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,90.5
+2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,91.6
+2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,91.6
+2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,90.4
+2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,65 years and over,,
+2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,93.2
+2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,94.2
+2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,94.5
+2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,92.5
+2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,94.6
+2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,93.8
+2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,93.6
+2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,94.4
+2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,94.5
+2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,94.0
+2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,female,
+2010,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,95.6
+2011,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,93.7
+2012,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,94.4
+2013,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,93.2
+2014,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,94.0
+2015,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,93.4
+2016,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,93.6
+2017,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,94.0
+2018,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,94.5
+2019,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,93.5
+2020,population that has convenient access to public transport (within 10 minutes walking distance) (%),,,,,male,

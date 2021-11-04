@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
                 "under 15 years",
+                "under 18 years",
                 ""
               ]
             }

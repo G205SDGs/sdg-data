@@ -16,24 +16,13 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million USD, constant prices (2018)",
-                "Million EUR",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "ODA (commitments) for biodiversity",
-                "Environmental protection expenditure",
+                "ODA (disbursements) for biodiversity",
+                "ODA (gross disbursements) to the forestry sector",
                 ""
               ]
             },

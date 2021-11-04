@@ -15,23 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mn usd, constant prices (2018)",
-                "mn eur",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "a) oda (commitments) for biodiversity",
-                "b) environmental protection expenditure",
+                "b) oda (disbursements) for biodiversity",
+                "c) oda (gross disbursements) to the forestry sector",
                 ""
               ]
             }

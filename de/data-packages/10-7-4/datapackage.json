@@ -16,20 +16,36 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Prozent",
+                "Anzahl",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "country of origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Afghanistan",
+                "Irak",
+                "Iran",
+                "Russische Föderation",
+                "Syrien",
+                "Türkei",
+                ""
+              ]
+            },
+            "title": "Herkunftsland"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2018)",
+                "mn usd, constant prices (2019)",
                 "mn eur",
                 ""
               ]
@@ -31,7 +31,8 @@
             "constraints": {
               "enum": [
                 "a) oda (commitments) for biodiversity",
-                "b) environmental protection expenditure",
+                "b) oda (disbursements) for biodiversity",
+                "c) environmental protection expenditure",
                 ""
               ]
             }

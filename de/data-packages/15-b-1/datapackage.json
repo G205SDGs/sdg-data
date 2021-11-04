@@ -16,24 +16,13 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millionen USD, konstante Preise (2018)",
-                "Millionen EUR",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Zusagen (ODA) für Biodiversität",
-                "Umweltschutzausgaben",
+                "Auszahlungen (ODA) für Biodiversität",
+                "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
                 ""
               ]
             },

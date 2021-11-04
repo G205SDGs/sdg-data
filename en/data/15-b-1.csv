@@ -1,21 +1,31 @@
-Year,Units,Series,Value
-2010,"Million USD, constant prices (2018)",ODA (commitments) for biodiversity,585.4
-2011,"Million USD, constant prices (2018)",ODA (commitments) for biodiversity,1153.0
-2012,"Million USD, constant prices (2018)",ODA (commitments) for biodiversity,977.6
-2013,"Million USD, constant prices (2018)",ODA (commitments) for biodiversity,957.1
-2014,"Million USD, constant prices (2018)",ODA (commitments) for biodiversity,1154.1
-2015,"Million USD, constant prices (2018)",ODA (commitments) for biodiversity,1287.2
-2016,"Million USD, constant prices (2018)",ODA (commitments) for biodiversity,1216.6
-2017,"Million USD, constant prices (2018)",ODA (commitments) for biodiversity,1919.5
-2018,"Million USD, constant prices (2018)",ODA (commitments) for biodiversity,1594.0
-2019,"Million USD, constant prices (2018)",ODA (commitments) for biodiversity,2305.1
-2010,Million EUR,Environmental protection expenditure,52116.0
-2011,Million EUR,Environmental protection expenditure,54918.0
-2012,Million EUR,Environmental protection expenditure,57022.0
-2013,Million EUR,Environmental protection expenditure,58937.0
-2014,Million EUR,Environmental protection expenditure,63026.0
-2015,Million EUR,Environmental protection expenditure,63755.0
-2016,Million EUR,Environmental protection expenditure,66288.0
-2017,Million EUR,Environmental protection expenditure,69046.0
-2018,Million EUR,Environmental protection expenditure,72546.0
-2019,Million EUR,Environmental protection expenditure,
+Year,Series,Value
+2010,ODA (commitments) for biodiversity,571.6
+2011,ODA (commitments) for biodiversity,1125.7
+2012,ODA (commitments) for biodiversity,954.5
+2013,ODA (commitments) for biodiversity,934.5
+2014,ODA (commitments) for biodiversity,1126.9
+2015,ODA (commitments) for biodiversity,1255.2
+2016,ODA (commitments) for biodiversity,1184.6
+2017,ODA (commitments) for biodiversity,1863.5
+2018,ODA (commitments) for biodiversity,1545.1
+2019,ODA (commitments) for biodiversity,2228.3
+2010,ODA (disbursements) for biodiversity,413.1
+2011,ODA (disbursements) for biodiversity,565.2
+2012,ODA (disbursements) for biodiversity,760.3
+2013,ODA (disbursements) for biodiversity,764.1
+2014,ODA (disbursements) for biodiversity,854.7
+2015,ODA (disbursements) for biodiversity,820.9
+2016,ODA (disbursements) for biodiversity,1102.3
+2017,ODA (disbursements) for biodiversity,1537.0
+2018,ODA (disbursements) for biodiversity,1391.7
+2019,ODA (disbursements) for biodiversity,1623.1
+2010,ODA (gross disbursements) to the forestry sector,63.0
+2011,ODA (gross disbursements) to the forestry sector,59.0
+2012,ODA (gross disbursements) to the forestry sector,97.3
+2013,ODA (gross disbursements) to the forestry sector,89.1
+2014,ODA (gross disbursements) to the forestry sector,74.6
+2015,ODA (gross disbursements) to the forestry sector,74.6
+2016,ODA (gross disbursements) to the forestry sector,70.8
+2017,ODA (gross disbursements) to the forestry sector,80.2
+2018,ODA (gross disbursements) to the forestry sector,120.0
+2019,ODA (gross disbursements) to the forestry sector,120.6

@@ -15,19 +15,39 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "national legislation considered relevant to the prevention of introduction of invasive alien species and control",
+                "national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020",
+                "online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "legislation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "convention on biological diversity",
+                "cartagena protocol",
+                "international plant protection convention",
+                "agreement on sanitary and phytosanitary measures of the world trade organisation",
+                "world organisation for animal health",
+                "convention on international trade in endangered species",
+                "ramsar convention",
+                "convention on the conservation of migratory species of wildanimals",
+                "world heritage convention",
+                "international convention for the control and management of ship's ballast water and sediments",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

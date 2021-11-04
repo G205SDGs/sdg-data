@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "17 Jahre und jünger",
                 "14 Jahre und jünger",
+                "17 Jahre und jünger",
                 ""
               ]
             },
