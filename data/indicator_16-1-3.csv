@@ -1,4 +1,4 @@
-Year,Units,timeseries,sex,age,Value
+Year,Units,timeseries,age,sex,Value
 2010,%,population subjected to physical violence,,,
 2011,%,population subjected to physical violence,,,
 2012,%,population subjected to physical violence,,,2.7
@@ -32,80 +32,80 @@ Year,Units,timeseries,sex,age,Value
 2018,number,victims of criminal offences,,,1025241
 2019,number,victims of criminal offences,,,1013048
 2020,number,victims of criminal offences,,,1011462
-2010,number,victims of criminal offences,female,,382263
-2011,number,victims of criminal offences,female,,384661
-2012,number,victims of criminal offences,female,,391566
-2013,number,victims of criminal offences,female,,388258
-2014,number,victims of criminal offences,female,,384786
-2015,number,victims of criminal offences,female,,381892
-2016,number,victims of criminal offences,female,,403500
-2017,number,victims of criminal offences,female,,404035
-2018,number,victims of criminal offences,female,,414147
-2019,number,victims of criminal offences,female,,409968
-2020,number,victims of criminal offences,female,,416931
-2010,number,victims of criminal offences,male,,549863
-2011,number,victims of criminal offences,male,,580284
-2012,number,victims of criminal offences,male,,584524
-2013,number,victims of criminal offences,male,,567479
-2014,number,victims of criminal offences,male,,562782
-2015,number,victims of criminal offences,male,,564241
-2016,number,victims of criminal offences,male,,614102
-2017,number,victims of criminal offences,male,,604475
-2018,number,victims of criminal offences,male,,611094
-2019,number,victims of criminal offences,male,,603080
-2020,number,victims of criminal offences,male,,594531
-2010,number,victims of criminal offences,,under 14 years,72232
-2011,number,victims of criminal offences,,under 14 years,70429
-2012,number,victims of criminal offences,,under 14 years,67579
-2013,number,victims of criminal offences,,under 14 years,65334
-2014,number,victims of criminal offences,,under 14 years,64584
-2015,number,victims of criminal offences,,under 14 years,62342
-2016,number,victims of criminal offences,,under 14 years,67519
-2017,number,victims of criminal offences,,under 14 years,68820
-2018,number,victims of criminal offences,,under 14 years,70590
-2019,number,victims of criminal offences,,under 14 years,72772
-2020,number,victims of criminal offences,,under 14 years,70106
-2010,number,victims of criminal offences,,14 to under 18 years,99135
-2011,number,victims of criminal offences,,14 to under 18 years,92128
-2012,number,victims of criminal offences,,14 to under 18 years,88020
-2013,number,victims of criminal offences,,14 to under 18 years,81633
-2014,number,victims of criminal offences,,14 to under 18 years,77948
-2015,number,victims of criminal offences,,14 to under 18 years,74650
-2016,number,victims of criminal offences,,14 to under 18 years,82930
-2017,number,victims of criminal offences,,14 to under 18 years,84071
-2018,number,victims of criminal offences,,14 to under 18 years,84175
-2019,number,victims of criminal offences,,14 to under 18 years,83713
-2020,number,victims of criminal offences,,14 to under 18 years,76630
-2010,number,victims of criminal offences,,18 to under 21 years,109139
-2011,number,victims of criminal offences,,18 to under 21 years,104427
-2012,number,victims of criminal offences,,18 to under 21 years,99541
-2013,number,victims of criminal offences,,18 to under 21 years,89880
-2014,number,victims of criminal offences,,18 to under 21 years,83802
-2015,number,victims of criminal offences,,18 to under 21 years,80941
-2016,number,victims of criminal offences,,18 to under 21 years,88459
-2017,number,victims of criminal offences,,18 to under 21 years,88834
-2018,number,victims of criminal offences,,18 to under 21 years,89688
-2019,number,victims of criminal offences,,18 to under 21 years,85885
-2020,number,victims of criminal offences,,18 to under 21 years,78631
-2010,number,victims of criminal offences,,21 to under 60 years,600019
-2011,number,victims of criminal offences,,21 to under 60 years,644770
-2012,number,victims of criminal offences,,21 to under 60 years,666152
-2013,number,victims of criminal offences,,21 to under 60 years,662202
-2014,number,victims of criminal offences,,21 to under 60 years,663253
-2015,number,victims of criminal offences,,21 to under 60 years,668823
-2016,number,victims of criminal offences,,21 to under 60 years,716502
-2017,number,victims of criminal offences,,21 to under 60 years,704139
-2018,number,victims of criminal offences,,21 to under 60 years,715629
-2019,number,victims of criminal offences,,21 to under 60 years,704911
-2020,number,victims of criminal offences,,21 to under 60 years,713436
-2010,number,victims of criminal offences,,60 years and over,51601
-2011,number,victims of criminal offences,,60 years and over,53191
-2012,number,victims of criminal offences,,60 years and over,54798
-2013,number,victims of criminal offences,,60 years and over,56688
-2014,number,victims of criminal offences,,60 years and over,57981
-2015,number,victims of criminal offences,,60 years and over,59377
-2016,number,victims of criminal offences,,60 years and over,62192
-2017,number,victims of criminal offences,,60 years and over,62646
-2018,number,victims of criminal offences,,60 years and over,65159
-2019,number,victims of criminal offences,,60 years and over,65767
-2020,number,victims of criminal offences,,60 years and over,72659
+2010,number,victims of criminal offences,under 14 years,,72232
+2011,number,victims of criminal offences,under 14 years,,70429
+2012,number,victims of criminal offences,under 14 years,,67579
+2013,number,victims of criminal offences,under 14 years,,65334
+2014,number,victims of criminal offences,under 14 years,,64584
+2015,number,victims of criminal offences,under 14 years,,62342
+2016,number,victims of criminal offences,under 14 years,,67519
+2017,number,victims of criminal offences,under 14 years,,68820
+2018,number,victims of criminal offences,under 14 years,,70590
+2019,number,victims of criminal offences,under 14 years,,72772
+2020,number,victims of criminal offences,under 14 years,,70106
+2010,number,victims of criminal offences,14 to under 18 years,,99135
+2011,number,victims of criminal offences,14 to under 18 years,,92128
+2012,number,victims of criminal offences,14 to under 18 years,,88020
+2013,number,victims of criminal offences,14 to under 18 years,,81633
+2014,number,victims of criminal offences,14 to under 18 years,,77948
+2015,number,victims of criminal offences,14 to under 18 years,,74650
+2016,number,victims of criminal offences,14 to under 18 years,,82930
+2017,number,victims of criminal offences,14 to under 18 years,,84071
+2018,number,victims of criminal offences,14 to under 18 years,,84175
+2019,number,victims of criminal offences,14 to under 18 years,,83713
+2020,number,victims of criminal offences,14 to under 18 years,,76630
+2010,number,victims of criminal offences,18 to under 21 years,,109139
+2011,number,victims of criminal offences,18 to under 21 years,,104427
+2012,number,victims of criminal offences,18 to under 21 years,,99541
+2013,number,victims of criminal offences,18 to under 21 years,,89880
+2014,number,victims of criminal offences,18 to under 21 years,,83802
+2015,number,victims of criminal offences,18 to under 21 years,,80941
+2016,number,victims of criminal offences,18 to under 21 years,,88459
+2017,number,victims of criminal offences,18 to under 21 years,,88834
+2018,number,victims of criminal offences,18 to under 21 years,,89688
+2019,number,victims of criminal offences,18 to under 21 years,,85885
+2020,number,victims of criminal offences,18 to under 21 years,,78631
+2010,number,victims of criminal offences,21 to under 60 years,,600019
+2011,number,victims of criminal offences,21 to under 60 years,,644770
+2012,number,victims of criminal offences,21 to under 60 years,,666152
+2013,number,victims of criminal offences,21 to under 60 years,,662202
+2014,number,victims of criminal offences,21 to under 60 years,,663253
+2015,number,victims of criminal offences,21 to under 60 years,,668823
+2016,number,victims of criminal offences,21 to under 60 years,,716502
+2017,number,victims of criminal offences,21 to under 60 years,,704139
+2018,number,victims of criminal offences,21 to under 60 years,,715629
+2019,number,victims of criminal offences,21 to under 60 years,,704911
+2020,number,victims of criminal offences,21 to under 60 years,,713436
+2010,number,victims of criminal offences,60 years and over,,51601
+2011,number,victims of criminal offences,60 years and over,,53191
+2012,number,victims of criminal offences,60 years and over,,54798
+2013,number,victims of criminal offences,60 years and over,,56688
+2014,number,victims of criminal offences,60 years and over,,57981
+2015,number,victims of criminal offences,60 years and over,,59377
+2016,number,victims of criminal offences,60 years and over,,62192
+2017,number,victims of criminal offences,60 years and over,,62646
+2018,number,victims of criminal offences,60 years and over,,65159
+2019,number,victims of criminal offences,60 years and over,,65767
+2020,number,victims of criminal offences,60 years and over,,72659
+2010,number,victims of criminal offences,,female,382263
+2011,number,victims of criminal offences,,female,384661
+2012,number,victims of criminal offences,,female,391566
+2013,number,victims of criminal offences,,female,388258
+2014,number,victims of criminal offences,,female,384786
+2015,number,victims of criminal offences,,female,381892
+2016,number,victims of criminal offences,,female,403500
+2017,number,victims of criminal offences,,female,404035
+2018,number,victims of criminal offences,,female,414147
+2019,number,victims of criminal offences,,female,409968
+2020,number,victims of criminal offences,,female,416931
+2010,number,victims of criminal offences,,male,549863
+2011,number,victims of criminal offences,,male,580284
+2012,number,victims of criminal offences,,male,584524
+2013,number,victims of criminal offences,,male,567479
+2014,number,victims of criminal offences,,male,562782
+2015,number,victims of criminal offences,,male,564241
+2016,number,victims of criminal offences,,male,614102
+2017,number,victims of criminal offences,,male,604475
+2018,number,victims of criminal offences,,male,611094
+2019,number,victims of criminal offences,,male,603080
+2020,number,victims of criminal offences,,male,594531

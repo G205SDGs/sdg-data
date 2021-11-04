@@ -8,7 +8,7 @@ Year,Units,timeseries,Value
 2016,mn t,above-ground biomass stock in forest,1650.6
 2017,mn t,above-ground biomass stock in forest,1658.8
 2018,mn t,above-ground biomass stock in forest,1662.4
-2019,mn t,above-ground biomass stock in forest,
+2019,mn t,above-ground biomass stock in forest,1662.3
 2020,mn t,above-ground biomass stock in forest,
 2010,%,forest area located within protected areas,
 2011,%,forest area located within protected areas,
@@ -21,7 +21,7 @@ Year,Units,timeseries,Value
 2018,%,forest area located within protected areas,
 2019,%,forest area located within protected areas,
 2020,%,forest area located within protected areas,
-2010,%,forest area net change rate,
+2010,%,forest area net change rate,0.1
 2011,%,forest area net change rate,0.1
 2012,%,forest area net change rate,0.2
 2013,%,forest area net change rate,0.9
@@ -30,8 +30,8 @@ Year,Units,timeseries,Value
 2016,%,forest area net change rate,-3.2
 2017,%,forest area net change rate,0.2
 2018,%,forest area net change rate,0.2
-2019,%,forest area net change rate,
-2020,%,forest area net change rate,
+2019,%,forest area net change rate,0.0
+2020,%,forest area net change rate,0.1
 2010,%,forest area under an independently verified forest management certification scheme,67.5
 2011,%,forest area under an independently verified forest management certification scheme,67.2
 2012,%,forest area under an independently verified forest management certification scheme,66.9
