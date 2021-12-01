@@ -1,9 +1,28 @@
-Year,Value
-2010,19.6
-2011,19.5
-2012,17.0
-2013,17.6
-2014,17.1
-2015,15.9
-2016,15.4
-2017,15.3
+Year,Units,fine particulate matter,Value,Series
+2010,micrograms per qubic meters,,19.6,population weighted annual mean levels of pm10 (micrograms per cubic meter)
+2011,micrograms per qubic meters,,19.5,population weighted annual mean levels of pm10 (micrograms per cubic meter)
+2012,micrograms per qubic meters,,17.0,population weighted annual mean levels of pm10 (micrograms per cubic meter)
+2013,micrograms per qubic meters,,17.6,population weighted annual mean levels of pm10 (micrograms per cubic meter)
+2014,micrograms per qubic meters,,17.1,population weighted annual mean levels of pm10 (micrograms per cubic meter)
+2015,micrograms per qubic meters,,15.9,population weighted annual mean levels of pm10 (micrograms per cubic meter)
+2016,micrograms per qubic meters,,15.4,population weighted annual mean levels of pm10 (micrograms per cubic meter)
+2017,micrograms per qubic meters,,15.3,population weighted annual mean levels of pm10 (micrograms per cubic meter)
+2018,micrograms per qubic meters,,,population weighted annual mean levels of pm10 (micrograms per cubic meter)
+2010,per 1 mn inhabitants,pm2.5,76.9,share of the population with excessive exposure to fine particulate matter
+2011,per 1 mn inhabitants,pm2.5,75.8,share of the population with excessive exposure to fine particulate matter
+2012,per 1 mn inhabitants,pm2.5,64.9,share of the population with excessive exposure to fine particulate matter
+2013,per 1 mn inhabitants,pm2.5,71.5,share of the population with excessive exposure to fine particulate matter
+2014,per 1 mn inhabitants,pm2.5,65.0,share of the population with excessive exposure to fine particulate matter
+2015,per 1 mn inhabitants,pm2.5,59.3,share of the population with excessive exposure to fine particulate matter
+2016,per 1 mn inhabitants,pm2.5,55.1,share of the population with excessive exposure to fine particulate matter
+2017,per 1 mn inhabitants,pm2.5,54.0,share of the population with excessive exposure to fine particulate matter
+2018,per 1 mn inhabitants,pm2.5,53.9,share of the population with excessive exposure to fine particulate matter
+2010,per 1 mn inhabitants,pm10,34.61,share of the population with excessive exposure to fine particulate matter
+2011,per 1 mn inhabitants,pm10,36.37,share of the population with excessive exposure to fine particulate matter
+2012,per 1 mn inhabitants,pm10,12.51,share of the population with excessive exposure to fine particulate matter
+2013,per 1 mn inhabitants,pm10,17.18,share of the population with excessive exposure to fine particulate matter
+2014,per 1 mn inhabitants,pm10,11.90,share of the population with excessive exposure to fine particulate matter
+2015,per 1 mn inhabitants,pm10,4.99,share of the population with excessive exposure to fine particulate matter
+2016,per 1 mn inhabitants,pm10,3.84,share of the population with excessive exposure to fine particulate matter
+2017,per 1 mn inhabitants,pm10,2.54,share of the population with excessive exposure to fine particulate matter
+2018,per 1 mn inhabitants,pm10,2.90,share of the population with excessive exposure to fine particulate matter
