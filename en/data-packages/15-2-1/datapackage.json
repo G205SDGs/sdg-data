@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Carbon balance for the forest ecosystem above ground",
+                "Above-ground biomass stock in forest",
                 "Forest area located within protected areas",
                 "Forest area net change rate",
                 "Forest area under an independently verified forest management certification scheme",

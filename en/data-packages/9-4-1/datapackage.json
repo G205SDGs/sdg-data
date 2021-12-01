@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CO<sub>2</sub> emissions per real GDP",
-                "CO<sub>2</sub> emissions per gross value added (price adjusted) in manufacturing industries",
+                "CO₂ emissions per real GDP",
+                "CO₂ emissions per gross value added (price adjusted) in manufacturing industries",
                 ""
               ]
             },
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "9-4-1",
-  "title": "CO<sub>2</sub>-Emissionen pro Wertschöpfungseinheit"
+  "title": "CO₂-Emissionen pro Wertschöpfungseinheit"
 }

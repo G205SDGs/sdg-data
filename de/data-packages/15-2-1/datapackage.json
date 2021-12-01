@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kohlenstoffbilanz des obererdigen Waldökosystems",
+                "Gesamtbestand der obererdigen Biomasse in Wäldern",
                 "Waldfläche in Schutzgebieten",
                 "Jährliche Veränderung der Waldfläche",
                 "Waldflächen mit einem unabhängig geprüften Wald-Management-System",

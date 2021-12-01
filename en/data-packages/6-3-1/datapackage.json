@@ -16,27 +16,52 @@
             "title": "Year"
           },
           {
-            "name": "treatment",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Untreated wastewater that does not have to undergo treatment",
+                "Percentage",
+                "1 000 m³",
                 ""
               ]
             },
-            "title": "Treatment"
+            "title": "Units"
           },
           {
             "name": "type of waste water",
             "type": "string",
             "constraints": {
               "enum": [
+                "Total wastewater produced from public and non-public disposal",
                 "Cooling water",
-                "Other wastewater",
                 ""
               ]
             },
             "title": "Type of waste water"
+          },
+          {
+            "name": "treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Untreated wastewater",
+                "Treated wastewater",
+                ""
+              ]
+            },
+            "title": "Treatment"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wastewater that is safely treated or does not require treatment",
+                "Wastewater and cooling water",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

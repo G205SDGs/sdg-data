@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit einer sicher verwalteten Abwasserentsorgung",
-                "Bevölkerung mit einer Badewanne oder Dusche",
+                "Sicher verwaltete Abwasserentsorgung",
+                "Badewanne oder Dusche",
                 ""
               ]
             },

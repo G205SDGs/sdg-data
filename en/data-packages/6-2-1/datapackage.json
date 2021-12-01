@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population using safely managed sanitation services",
-                "Population with a bathtub or a shower",
+                "Safely managed sanitation services",
+                "Bathtub or a shower",
                 ""
               ]
             },

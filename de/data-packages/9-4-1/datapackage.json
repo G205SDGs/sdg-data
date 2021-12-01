@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CO<sub>2</sub>-Emissionen zum realen BIP",
-                "CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe",
+                "CO₂-Emissionen zum realen BIP",
+                "CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe",
                 ""
               ]
             },
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "9-4-1",
-  "title": "CO<sub>2</sub>-Emissionen pro Wertschöpfungseinheit"
+  "title": "CO₂-Emissionen pro Wertschöpfungseinheit"
 }

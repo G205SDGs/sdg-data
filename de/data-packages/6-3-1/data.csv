@@ -1,45 +1,36 @@
-Year,Behandlung,Art des Abwassers,Value
-2010,,,100.0
-2011,,,100.0
-2012,,,100.0
-2013,,,100.0
-2014,,,100.0
-2015,,,100.0
-2016,,,100.0
-2017,,,100.0
-2018,,,100.0
-2019,,,100.0
-2020,,,100.0
-2010,"Abwasser, das keiner Abwasserbehandlung bedarf",,72.7
-2011,"Abwasser, das keiner Abwasserbehandlung bedarf",,
-2012,"Abwasser, das keiner Abwasserbehandlung bedarf",,
-2013,"Abwasser, das keiner Abwasserbehandlung bedarf",,65.8
-2014,"Abwasser, das keiner Abwasserbehandlung bedarf",,
-2015,"Abwasser, das keiner Abwasserbehandlung bedarf",,
-2016,"Abwasser, das keiner Abwasserbehandlung bedarf",,65.4
-2017,"Abwasser, das keiner Abwasserbehandlung bedarf",,
-2018,"Abwasser, das keiner Abwasserbehandlung bedarf",,
-2019,"Abwasser, das keiner Abwasserbehandlung bedarf",,
-2020,"Abwasser, das keiner Abwasserbehandlung bedarf",,
-2010,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,68.3
-2011,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,
-2012,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,
-2013,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,60.3
-2014,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,
-2015,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,
-2016,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,59.7
-2017,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,
-2018,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,
-2019,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,
-2020,"Abwasser, das keiner Abwasserbehandlung bedarf",Kühlwasser,
-2010,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,4.4
-2011,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,
-2012,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,
-2013,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,5.5
-2014,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,
-2015,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,
-2016,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,5.7
-2017,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,
-2018,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,
-2019,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,
-2020,"Abwasser, das keiner Abwasserbehandlung bedarf",Sonstiges Abwasser,
+Year,Units,Art des Abwassers,Behandlung,Series,Value
+2010,Prozent,,,"Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",100.0
+2011,Prozent,,,"Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",100.0
+2012,Prozent,,,"Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",100.0
+2013,Prozent,,,"Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",100.0
+2014,Prozent,,,"Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",100.0
+2015,Prozent,,,"Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",100.0
+2016,Prozent,,,"Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",100.0
+2010,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,,Abwasser und Kühlwasser,11202690.0
+2011,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,,Abwasser und Kühlwasser,
+2012,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,,Abwasser und Kühlwasser,
+2013,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,,Abwasser und Kühlwasser,10912539.0
+2014,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,,Abwasser und Kühlwasser,
+2015,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,,Abwasser und Kühlwasser,
+2016,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,,Abwasser und Kühlwasser,10618410.0
+2010,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Unbehandeltes Abwasser,Abwasser und Kühlwasser,1568324.0
+2011,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Unbehandeltes Abwasser,Abwasser und Kühlwasser,
+2012,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Unbehandeltes Abwasser,Abwasser und Kühlwasser,
+2013,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Unbehandeltes Abwasser,Abwasser und Kühlwasser,1513440.0
+2014,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Unbehandeltes Abwasser,Abwasser und Kühlwasser,
+2015,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Unbehandeltes Abwasser,Abwasser und Kühlwasser,
+2016,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Unbehandeltes Abwasser,Abwasser und Kühlwasser,1510666.0
+2010,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Behandeltes Abwasser,Abwasser und Kühlwasser,9634366.0
+2011,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Behandeltes Abwasser,Abwasser und Kühlwasser,
+2012,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Behandeltes Abwasser,Abwasser und Kühlwasser,
+2013,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Behandeltes Abwasser,Abwasser und Kühlwasser,9399099.0
+2014,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Behandeltes Abwasser,Abwasser und Kühlwasser,
+2015,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Behandeltes Abwasser,Abwasser und Kühlwasser,
+2016,1 000 m³,Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung,Behandeltes Abwasser,Abwasser und Kühlwasser,9107744.0
+2010,1 000 m³,Kühlwasser,,Abwasser und Kühlwasser,24153706.0
+2011,1 000 m³,Kühlwasser,,Abwasser und Kühlwasser,
+2012,1 000 m³,Kühlwasser,,Abwasser und Kühlwasser,
+2013,1 000 m³,Kühlwasser,,Abwasser und Kühlwasser,16582729.0
+2014,1 000 m³,Kühlwasser,,Abwasser und Kühlwasser,
+2015,1 000 m³,Kühlwasser,,Abwasser und Kühlwasser,
+2016,1 000 m³,Kühlwasser,,Abwasser und Kühlwasser,15725418.0

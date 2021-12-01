@@ -16,12 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "ODA (commitments) for biodiversity",
-                "ODA (disbursements) for biodiversity",
+                "ODA (gross disbursements) for biodiversity",
                 "ODA (gross disbursements) to the forestry sector",
                 ""
               ]

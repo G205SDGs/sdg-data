@@ -9,6 +9,7 @@ Year,age,sex,Value
 2017,,,3.8
 2018,,,3.4
 2019,,,3.1
+2020,,,3.8
 2010,15 to under 25 years,,9.8
 2011,15 to under 25 years,,8.5
 2012,15 to under 25 years,,8.0
@@ -19,6 +20,7 @@ Year,age,sex,Value
 2017,15 to under 25 years,,6.8
 2018,15 to under 25 years,,6.2
 2019,15 to under 25 years,,5.8
+2020,15 to under 25 years,,7.0
 2010,25 to under 75 years,,6.6
 2011,25 to under 75 years,,5.5
 2012,25 to under 75 years,,5.1
@@ -29,6 +31,7 @@ Year,age,sex,Value
 2017,25 to under 75 years,,3.4
 2018,25 to under 75 years,,3.1
 2019,25 to under 75 years,,2.9
+2020,25 to under 75 years,,3.5
 2010,,female,6.5
 2011,,female,5.6
 2012,,female,5.2
@@ -39,6 +42,7 @@ Year,age,sex,Value
 2017,,female,3.3
 2018,,female,2.9
 2019,,female,2.7
+2020,,female,3.4
 2010,,male,7.4
 2011,,male,6.1
 2012,,male,5.6
@@ -49,3 +53,4 @@ Year,age,sex,Value
 2017,,male,4.1
 2018,,male,3.8
 2019,,male,3.5
+2020,,male,4.2

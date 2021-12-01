@@ -9,6 +9,7 @@ Year,speed,Value
 2017,,40.1
 2018,,41.2
 2019,,42.3
+2020,,43.4
 2010,a) over 144 kbps to under 2 mbps,4.2
 2011,a) over 144 kbps to under 2 mbps,4.1
 2012,a) over 144 kbps to under 2 mbps,2.6
@@ -19,6 +20,7 @@ Year,speed,Value
 2017,a) over 144 kbps to under 2 mbps,0.4
 2018,a) over 144 kbps to under 2 mbps,4.0
 2019,a) over 144 kbps to under 2 mbps,0.2
+2020,a) over 144 kbps to under 2 mbps,
 2010,b) 2 mbps to under 10 mbps,18.5
 2011,b) 2 mbps to under 10 mbps,19.2
 2012,b) 2 mbps to under 10 mbps,18.5
@@ -29,6 +31,7 @@ Year,speed,Value
 2017,b) 2 mbps to under 10 mbps,6.0
 2018,b) 2 mbps to under 10 mbps,4.6
 2019,b) 2 mbps to under 10 mbps,3.3
+2020,b) 2 mbps to under 10 mbps,
 2010,c) 10 mbps to under 30 mbps,8.5
 2011,c) 10 mbps to under 30 mbps,7.8
 2012,c) 10 mbps to under 30 mbps,9.5
@@ -39,6 +42,7 @@ Year,speed,Value
 2017,c) 10 mbps to under 30 mbps,15.6
 2018,c) 10 mbps to under 30 mbps,13.5
 2019,c) 10 mbps to under 30 mbps,11.6
+2020,c) 10 mbps to under 30 mbps,9.7
 2010,d) 30 mbps to under 100 mbps,1.4
 2011,d) 30 mbps to under 100 mbps,2.7
 2012,d) 30 mbps to under 100 mbps,3.8
@@ -49,6 +53,7 @@ Year,speed,Value
 2017,d) 30 mbps to under 100 mbps,12.2
 2018,d) 30 mbps to under 100 mbps,14.6
 2019,d) 30 mbps to under 100 mbps,16.1
+2020,d) 30 mbps to under 100 mbps,17.0
 2010,e) 100 mbps and over,0.0
 2011,e) 100 mbps and over,0.1
 2012,e) 100 mbps and over,0.4
@@ -59,3 +64,4 @@ Year,speed,Value
 2017,e) 100 mbps and over,5.9
 2018,e) 100 mbps and over,8.2
 2019,e) 100 mbps and over,11.2
+2020,e) 100 mbps and over,13.9
