@@ -1,1 +1,1 @@
-{"data":{"Year":[2017,2018,2019],"Value":[null,1.0,null]},"edges":[]}
+{"data":{"Year":["A",null,"B","1",null,null,"A","B",null],"Value":[1.0,null,3.0,null,2.0,null,1.0,3.0,2.0]},"edges":[]}
