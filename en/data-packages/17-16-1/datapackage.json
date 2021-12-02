@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                "1",
+                ""
+              ]
+            },
+            "title": "Group"
           },
           {
             "name": "Value",
