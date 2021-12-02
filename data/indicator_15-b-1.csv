@@ -1,31 +1,31 @@
-Year,Value,Series
-2010,571.6,a) oda (commitments) for biodiversity
-2011,1125.7,a) oda (commitments) for biodiversity
-2012,954.5,a) oda (commitments) for biodiversity
-2013,934.5,a) oda (commitments) for biodiversity
-2014,1126.9,a) oda (commitments) for biodiversity
-2015,1255.2,a) oda (commitments) for biodiversity
-2016,1184.6,a) oda (commitments) for biodiversity
-2017,1863.5,a) oda (commitments) for biodiversity
-2018,1545.1,a) oda (commitments) for biodiversity
-2019,2228.3,a) oda (commitments) for biodiversity
-2010,413.1,b) oda (disbursements) for biodiversity
-2011,565.2,b) oda (disbursements) for biodiversity
-2012,760.3,b) oda (disbursements) for biodiversity
-2013,764.1,b) oda (disbursements) for biodiversity
-2014,854.7,b) oda (disbursements) for biodiversity
-2015,820.9,b) oda (disbursements) for biodiversity
-2016,1102.3,b) oda (disbursements) for biodiversity
-2017,1537.0,b) oda (disbursements) for biodiversity
-2018,1391.7,b) oda (disbursements) for biodiversity
-2019,1623.1,b) oda (disbursements) for biodiversity
-2010,63.0,c) oda (gross disbursements) to the forestry sector
-2011,59.0,c) oda (gross disbursements) to the forestry sector
-2012,97.3,c) oda (gross disbursements) to the forestry sector
-2013,89.1,c) oda (gross disbursements) to the forestry sector
-2014,74.6,c) oda (gross disbursements) to the forestry sector
-2015,74.6,c) oda (gross disbursements) to the forestry sector
-2016,70.8,c) oda (gross disbursements) to the forestry sector
-2017,80.2,c) oda (gross disbursements) to the forestry sector
-2018,120.0,c) oda (gross disbursements) to the forestry sector
-2019,120.6,c) oda (gross disbursements) to the forestry sector
+Year,timeseries,Value
+2010,a) oda (commitments) for biodiversity,571.6
+2011,a) oda (commitments) for biodiversity,1125.7
+2012,a) oda (commitments) for biodiversity,954.5
+2013,a) oda (commitments) for biodiversity,934.5
+2014,a) oda (commitments) for biodiversity,1126.9
+2015,a) oda (commitments) for biodiversity,1255.2
+2016,a) oda (commitments) for biodiversity,1184.6
+2017,a) oda (commitments) for biodiversity,1863.5
+2018,a) oda (commitments) for biodiversity,1545.1
+2019,a) oda (commitments) for biodiversity,2228.3
+2010,b) oda (disbursements) for biodiversity,413.1
+2011,b) oda (disbursements) for biodiversity,565.2
+2012,b) oda (disbursements) for biodiversity,760.3
+2013,b) oda (disbursements) for biodiversity,764.1
+2014,b) oda (disbursements) for biodiversity,854.7
+2015,b) oda (disbursements) for biodiversity,820.9
+2016,b) oda (disbursements) for biodiversity,1102.3
+2017,b) oda (disbursements) for biodiversity,1537.0
+2018,b) oda (disbursements) for biodiversity,1391.7
+2019,b) oda (disbursements) for biodiversity,1623.1
+2010,c) oda (gross disbursements) to the forestry sector,63.0
+2011,c) oda (gross disbursements) to the forestry sector,59.0
+2012,c) oda (gross disbursements) to the forestry sector,97.3
+2013,c) oda (gross disbursements) to the forestry sector,89.1
+2014,c) oda (gross disbursements) to the forestry sector,74.6
+2015,c) oda (gross disbursements) to the forestry sector,74.6
+2016,c) oda (gross disbursements) to the forestry sector,70.8
+2017,c) oda (gross disbursements) to the forestry sector,80.2
+2018,c) oda (gross disbursements) to the forestry sector,120.0
+2019,c) oda (gross disbursements) to the forestry sector,120.6
