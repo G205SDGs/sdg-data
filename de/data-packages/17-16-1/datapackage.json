@@ -16,19 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                "1",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

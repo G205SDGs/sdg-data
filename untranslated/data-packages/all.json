@@ -1826,6 +1826,17 @@
             "type": "integer"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "proportions of positions of women in the public service compared to the national distribution, by field of work",
+                "ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court",
+                ""
+              ]
+            }
+          },
+          {
             "name": "field of work",
             "type": "string",
             "constraints": {
@@ -1846,17 +1857,6 @@
                 "supreme/constitutional courts",
                 "higher-level courts",
                 "lower-level courts",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "proportions of positions of women in the public service compared to the national distribution, by field of work",
-                "ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court",
                 ""
               ]
             }
@@ -2236,18 +2236,6 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                "1",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -2336,8 +2324,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) population using safely managed sanitation services (%)",
-                "b) population with a bathtub or a shower (%)",
+                "toilet",
+                "bathtub or shower",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "available",
+                "not available",
                 ""
               ]
             }
@@ -3794,11 +3793,46 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population living in households with moisture damages",
-                "population considering their dwelling as too dark",
-                "population living in an area with crime, violence or vandalism",
-                "population living in an area with noise pollution",
-                "material deprivation for the housing dimension",
+                "overcrowding rate",
+                "rate of overburdening by housing costs",
+                "population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor",
+                "population that has neither a bath, nor a shower in their home",
+                "population that does not have a toilet for the sole use of their household",
+                "population that considers their accommodation too dark",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "cities",
+                "smaller towns and suburbs",
+                "rural areas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "housing conditions",
+                "housing deprivation",
                 ""
               ]
             }
@@ -4234,19 +4268,30 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "mn eur",
+                "mn usd, constant prices (2019)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "oda (commitments) to public-private partnerships (ppp) for infrastructure",
+                "oda (gross disbursements) to public-private partnerships (ppp) for infrastructure",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

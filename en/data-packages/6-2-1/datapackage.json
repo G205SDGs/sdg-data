@@ -20,12 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Safely managed sanitation services",
-                "Bathtub or a shower",
+                "Population with (own) toilet",
+                "Population with (own) bathtub or shower",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes",
+                "No",
+                ""
+              ]
+            },
+            "title": "Availability"
           },
           {
             "name": "Value",

@@ -1988,6 +1988,18 @@
             "title": "Year"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio of female members in the public service",
+                "Ratio of female members in the judiciary",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "field of work",
             "type": "string",
             "constraints": {
@@ -2013,18 +2025,6 @@
               ]
             },
             "title": "Level of court"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ratio of female members in the public service",
-                "Ratio of female members in the judiciary",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "Value",
@@ -2435,19 +2435,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                "1",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2544,12 +2531,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Safely managed sanitation services",
-                "Bathtub or a shower",
+                "Population with (own) toilet",
+                "Population with (own) bathtub or shower",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes",
+                "No",
+                ""
+              ]
+            },
+            "title": "Availability"
           },
           {
             "name": "Value",
@@ -4132,11 +4131,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population living in households with moisture damages",
+                "Overcrowding rate",
+                "Housing cost overburden rate",
+                "Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+                "Population having neither a bath, nor a shower in their dwelling",
+                "Population not having indoor flushing toilet for the sole use of their household",
                 "Population considering their dwelling as too dark",
-                "Population living in an area with crime, violence or vandalism",
-                "Population living in an area with noise pollution",
-                "Material deprivation for the housing dimension, total (1-4 items)",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cities",
+                "Towns and suburbs",
+                "Rural areas",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Housing conditions",
+                "Housing deprivation",
                 ""
               ]
             },
@@ -4611,20 +4648,32 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Million EUR",
+                "Million USD, constant prices (2019)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ODA (commitments) to public-private partnerships (PPP) for infrastructure",
+                "ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

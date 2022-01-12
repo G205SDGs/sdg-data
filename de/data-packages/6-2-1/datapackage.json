@@ -20,12 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sicher verwaltete Abwasserentsorgung",
-                "Badewanne oder Dusche",
+                "Bevölkerung mit (eigener) Toilette",
+                "Bevölkerung mit (eigener) Badewanne oder Dusche",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ja",
+                "Nein",
+                ""
+              ]
+            },
+            "title": "Verfügbarkeit"
           },
           {
             "name": "Value",

@@ -16,20 +16,32 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Millionen EUR",
+                "Millionen USD, konstante Preise (2019)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur",
+                "Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

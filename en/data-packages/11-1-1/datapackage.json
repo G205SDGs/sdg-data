@@ -20,11 +20,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population living in households with moisture damages",
+                "Overcrowding rate",
+                "Housing cost overburden rate",
+                "Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+                "Population having neither a bath, nor a shower in their dwelling",
+                "Population not having indoor flushing toilet for the sole use of their household",
                 "Population considering their dwelling as too dark",
-                "Population living in an area with crime, violence or vandalism",
-                "Population living in an area with noise pollution",
-                "Material deprivation for the housing dimension, total (1-4 items)",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cities",
+                "Towns and suburbs",
+                "Rural areas",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Housing conditions",
+                "Housing deprivation",
                 ""
               ]
             },

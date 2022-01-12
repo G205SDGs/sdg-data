@@ -11,7 +11,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-7-2,domain,1
 #10-7-4,country of origin,1
 #10-b-1,type of flow,1
-#11-1-1,timeseries,1
+#11-1-1,"sex, timeseries, urbanisation",3
 #11-2-1,"sex, age, timeseries, region, disability",5
 #11-3-1,timeseries,1
 #11-4-1,timeseries,1
@@ -44,12 +44,11 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-1,timeseries,1
 #16-3-3,"time series, declination",2
 #16-5-1,sex,1
-#16-7-1,"field of work, level of court",2
+#16-7-1,"timeseries, field of work, level of court",3
 #16-7-2,sex,1
 #17-1-2,timeseries,1
 #17-13-1,timeseries,1
-#17-16-1,Group,1
-#17-17-1,Group,1
+#17-17-1,timeseries,1
 #17-19-1,timeseries,1
 #17-19-2,timeseries,1
 #17-2-1,timeseries,1
@@ -95,7 +94,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-a-1,"timeseries, ownership",2
 #5-b-1,timeseries,1
 #6-1-1,timeseries,1
-#6-2-1,timeseries,1
+#6-2-1,"timeseries, characteristics",2
 #6-3-1,"type of waste water, treatment",2
 #6-3-2,type of water body,1
 #6-4-1,economic sector,1

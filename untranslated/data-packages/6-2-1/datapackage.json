@@ -19,8 +19,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) population using safely managed sanitation services (%)",
-                "b) population with a bathtub or a shower (%)",
+                "toilet",
+                "bathtub or shower",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "available",
+                "not available",
                 ""
               ]
             }

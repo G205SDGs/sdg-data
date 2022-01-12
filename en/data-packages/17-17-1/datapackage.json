@@ -16,20 +16,32 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Million EUR",
+                "Million USD, constant prices (2019)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ODA (commitments) to public-private partnerships (PPP) for infrastructure",
+                "ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

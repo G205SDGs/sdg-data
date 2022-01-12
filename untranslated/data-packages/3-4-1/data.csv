@@ -9,6 +9,7 @@ Year,type of disease,Value
 2017,a) cardiovascular disease,40.9
 2018,a) cardiovascular disease,41.8
 2019,a) cardiovascular disease,39.8
+2020,a) cardiovascular disease,40.7
 2010,b) cancer,77.9
 2011,b) cancer,76.9
 2012,b) cancer,75.0
@@ -19,6 +20,7 @@ Year,type of disease,Value
 2017,b) cancer,75.4
 2018,b) cancer,76.1
 2019,b) cancer,74.7
+2020,b) cancer,74.2
 2010,c) diabetes mellitus,3.5
 2011,c) diabetes mellitus,3.4
 2012,c) diabetes mellitus,3.4
@@ -29,6 +31,7 @@ Year,type of disease,Value
 2017,c) diabetes mellitus,3.8
 2018,c) diabetes mellitus,3.8
 2019,c) diabetes mellitus,3.7
+2020,c) diabetes mellitus,3.8
 2010,d) chronic respiratory disease,7.4
 2011,d) chronic respiratory disease,7.5
 2012,d) chronic respiratory disease,7.1
@@ -39,3 +42,4 @@ Year,type of disease,Value
 2017,d) chronic respiratory disease,9.4
 2018,d) chronic respiratory disease,9.7
 2019,d) chronic respiratory disease,9.7
+2020,d) chronic respiratory disease,10.7

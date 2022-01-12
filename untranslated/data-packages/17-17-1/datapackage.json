@@ -15,19 +15,30 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "mn eur",
+                "mn usd, constant prices (2019)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "oda (commitments) to public-private partnerships (ppp) for infrastructure",
+                "oda (gross disbursements) to public-private partnerships (ppp) for infrastructure",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

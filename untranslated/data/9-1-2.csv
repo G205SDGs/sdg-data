@@ -55,16 +55,16 @@ Year,Units,timeseries,mode of transport,Value
 2019,mn pkm,passenger transports,motorised private transport,917000.0
 2020,mn pkm,passenger transports,motorised private transport,
 2010,mn tkm,freight transports,,627882.0
-2011,mn tkm,freight transports,,628047.0
+2011,mn tkm,freight transports,,628083.0
 2012,mn tkm,freight transports,,618179.0
 2013,mn tkm,freight transports,,634973.0
 2014,mn tkm,freight transports,,642604.0
 2015,mn tkm,freight transports,,655708.0
-2016,mn tkm,freight transports,,658400.0
-2017,mn tkm,freight transports,,667436.0
-2018,mn tkm,freight transports,,675620.0
-2019,mn tkm,freight transports,,681945.0
-2020,mn tkm,freight transports,,
+2016,mn tkm,freight transports,,676893.0
+2017,mn tkm,freight transports,,692578.0
+2018,mn tkm,freight transports,,694963.0
+2019,mn tkm,freight transports,,697942.0
+2020,mn tkm,freight transports,,670460.0
 2010,mn tkm,freight transports,road transport,440600.0
 2011,mn tkm,freight transports,road transport,442600.0
 2012,mn tkm,freight transports,road transport,432000.0
@@ -82,11 +82,11 @@ Year,Units,timeseries,mode of transport,Value
 2013,mn tkm,freight transports,rail transport,112613.0
 2014,mn tkm,freight transports,rail transport,112629.0
 2015,mn tkm,freight transports,rail transport,116632.0
-2016,mn tkm,freight transports,rail transport,110373.0
-2017,mn tkm,freight transports,rail transport,106062.0
-2018,mn tkm,freight transports,rail transport,110668.0
-2019,mn tkm,freight transports,rail transport,113114.0
-2020,mn tkm,freight transports,rail transport,108406.0
+2016,mn tkm,freight transports,rail transport,128866.0
+2017,mn tkm,freight transports,rail transport,131204.0
+2018,mn tkm,freight transports,rail transport,129991.0
+2019,mn tkm,freight transports,rail transport,129161.0
+2020,mn tkm,freight transports,rail transport,119790.0
 2010,mn tkm,freight transports,inland waterway transport,62278.0
 2011,mn tkm,freight transports,inland waterway transport,55027.0
 2012,mn tkm,freight transports,inland waterway transport,58488.0
@@ -100,7 +100,7 @@ Year,Units,timeseries,mode of transport,Value
 2020,mn tkm,freight transports,inland waterway transport,46338.0
 2010,mn tkm,freight transports,commercial air transport,1428.0
 2011,mn tkm,freight transports,commercial air transport,1480.0
-2012,mn tkm,freight transports,commercial air transport,1420.0
+2012,mn tkm,freight transports,commercial air transport,1421.0
 2013,mn tkm,freight transports,commercial air transport,1410.0
 2014,mn tkm,freight transports,commercial air transport,1441.0
 2015,mn tkm,freight transports,commercial air transport,1447.0

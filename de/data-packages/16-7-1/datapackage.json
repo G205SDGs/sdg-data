@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Verhältnis von Frauen im öffentlichen Dienst",
+                "Verhältnis von Frauen in der Justiz",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "field of work",
             "type": "string",
             "constraints": {
@@ -41,18 +53,6 @@
               ]
             },
             "title": "Gerichtsebene"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Verhältnis von Frauen im öffentlichen Dienst",
-                "Verhältnis von Frauen in der Justiz",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",

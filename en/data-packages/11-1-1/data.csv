@@ -1,51 +1,199 @@
-Year,Time series,Value
-2010,Population living in households with moisture damages,13.3
-2011,Population living in households with moisture damages,13.7
-2012,Population living in households with moisture damages,13.5
-2013,Population living in households with moisture damages,13.1
-2014,Population living in households with moisture damages,12.3
-2015,Population living in households with moisture damages,12.8
-2016,Population living in households with moisture damages,13.1
-2017,Population living in households with moisture damages,12.5
-2018,Population living in households with moisture damages,13.4
-2019,Population living in households with moisture damages,12.0
-2010,Population considering their dwelling as too dark,4.2
-2011,Population considering their dwelling as too dark,4.1
-2012,Population considering their dwelling as too dark,3.9
-2013,Population considering their dwelling as too dark,4.4
-2014,Population considering their dwelling as too dark,4.4
-2015,Population considering their dwelling as too dark,4.0
-2016,Population considering their dwelling as too dark,3.9
-2017,Population considering their dwelling as too dark,4.0
-2018,Population considering their dwelling as too dark,4.4
-2019,Population considering their dwelling as too dark,4.0
-2010,"Population living in an area with crime, violence or vandalism",12.0
-2011,"Population living in an area with crime, violence or vandalism",12.9
-2012,"Population living in an area with crime, violence or vandalism",12.5
-2013,"Population living in an area with crime, violence or vandalism",13.5
-2014,"Population living in an area with crime, violence or vandalism",13.1
-2015,"Population living in an area with crime, violence or vandalism",13.8
-2016,"Population living in an area with crime, violence or vandalism",14.1
-2017,"Population living in an area with crime, violence or vandalism",14.2
-2018,"Population living in an area with crime, violence or vandalism",13.3
-2019,"Population living in an area with crime, violence or vandalism",13.1
-2010,Population living in an area with noise pollution,25.7
-2011,Population living in an area with noise pollution,25.8
-2012,Population living in an area with noise pollution,26.1
-2013,Population living in an area with noise pollution,26.1
-2014,Population living in an area with noise pollution,25.9
-2015,Population living in an area with noise pollution,25.8
-2016,Population living in an area with noise pollution,25.1
-2017,Population living in an area with noise pollution,26.1
-2018,Population living in an area with noise pollution,27.8
-2019,Population living in an area with noise pollution,26.1
-2010,"Material deprivation for the housing dimension, total (1-4 items)",17.1
-2011,"Material deprivation for the housing dimension, total (1-4 items)",16.9
-2012,"Material deprivation for the housing dimension, total (1-4 items)",16.6
-2013,"Material deprivation for the housing dimension, total (1-4 items)",15.8
-2014,"Material deprivation for the housing dimension, total (1-4 items)",15.2
-2015,"Material deprivation for the housing dimension, total (1-4 items)",15.3
-2016,"Material deprivation for the housing dimension, total (1-4 items)",15.4
-2017,"Material deprivation for the housing dimension, total (1-4 items)",15.0
-2018,"Material deprivation for the housing dimension, total (1-4 items)",16.0
-2019,"Material deprivation for the housing dimension, total (1-4 items)",14.7
+Year,Time series,Degree of urbanisation,Sex,Series,Value
+2010,Overcrowding rate,Cities,,Housing conditions,9.6
+2011,Overcrowding rate,Cities,,Housing conditions,9.5
+2012,Overcrowding rate,Cities,,Housing conditions,10.8
+2013,Overcrowding rate,Cities,,Housing conditions,10.4
+2014,Overcrowding rate,Cities,,Housing conditions,9.9
+2015,Overcrowding rate,Cities,,Housing conditions,10.5
+2016,Overcrowding rate,Cities,,Housing conditions,11.0
+2017,Overcrowding rate,Cities,,Housing conditions,11.4
+2018,Overcrowding rate,Cities,,Housing conditions,11.5
+2019,Overcrowding rate,Cities,,Housing conditions,12.7
+2020,Overcrowding rate,Cities,,Housing conditions,15.0
+2010,Overcrowding rate,Towns and suburbs,,Housing conditions,4.7
+2011,Overcrowding rate,Towns and suburbs,,Housing conditions,4.1
+2012,Overcrowding rate,Towns and suburbs,,Housing conditions,4.8
+2013,Overcrowding rate,Towns and suburbs,,Housing conditions,5.2
+2014,Overcrowding rate,Towns and suburbs,,Housing conditions,5.2
+2015,Overcrowding rate,Towns and suburbs,,Housing conditions,5.6
+2016,Overcrowding rate,Towns and suburbs,,Housing conditions,5.9
+2017,Overcrowding rate,Towns and suburbs,,Housing conditions,5.3
+2018,Overcrowding rate,Towns and suburbs,,Housing conditions,5.5
+2019,Overcrowding rate,Towns and suburbs,,Housing conditions,5.5
+2020,Overcrowding rate,Towns and suburbs,,Housing conditions,7.9
+2010,Overcrowding rate,Rural areas,,Housing conditions,4.7
+2011,Overcrowding rate,Rural areas,,Housing conditions,4.1
+2012,Overcrowding rate,Rural areas,,Housing conditions,3.7
+2013,Overcrowding rate,Rural areas,,Housing conditions,4.0
+2014,Overcrowding rate,Rural areas,,Housing conditions,4.1
+2015,Overcrowding rate,Rural areas,,Housing conditions,3.9
+2016,Overcrowding rate,Rural areas,,Housing conditions,3.5
+2017,Overcrowding rate,Rural areas,,Housing conditions,3.9
+2018,Overcrowding rate,Rural areas,,Housing conditions,4.2
+2019,Overcrowding rate,Rural areas,,Housing conditions,4.0
+2020,Overcrowding rate,Rural areas,,Housing conditions,5.8
+2010,Housing cost overburden rate,Cities,,Housing conditions,16.2
+2011,Housing cost overburden rate,Cities,,Housing conditions,18.0
+2012,Housing cost overburden rate,Cities,,Housing conditions,19.8
+2013,Housing cost overburden rate,Cities,,Housing conditions,18.9
+2014,Housing cost overburden rate,Cities,,Housing conditions,19.3
+2015,Housing cost overburden rate,Cities,,Housing conditions,19.1
+2016,Housing cost overburden rate,Cities,,Housing conditions,19.6
+2017,Housing cost overburden rate,Cities,,Housing conditions,17.9
+2018,Housing cost overburden rate,Cities,,Housing conditions,17.6
+2019,Housing cost overburden rate,Cities,,Housing conditions,16.2
+2020,Housing cost overburden rate,Cities,,Housing conditions,22.2
+2010,Housing cost overburden rate,Towns and suburbs,,Housing conditions,13.0
+2011,Housing cost overburden rate,Towns and suburbs,,Housing conditions,14.5
+2012,Housing cost overburden rate,Towns and suburbs,,Housing conditions,15.5
+2013,Housing cost overburden rate,Towns and suburbs,,Housing conditions,16.1
+2014,Housing cost overburden rate,Towns and suburbs,,Housing conditions,14.9
+2015,Housing cost overburden rate,Towns and suburbs,,Housing conditions,14.5
+2016,Housing cost overburden rate,Towns and suburbs,,Housing conditions,14.5
+2017,Housing cost overburden rate,Towns and suburbs,,Housing conditions,13.4
+2018,Housing cost overburden rate,Towns and suburbs,,Housing conditions,13.3
+2019,Housing cost overburden rate,Towns and suburbs,,Housing conditions,12.7
+2020,Housing cost overburden rate,Towns and suburbs,,Housing conditions,18.8
+2010,Housing cost overburden rate,Rural areas,,Housing conditions,12.3
+2011,Housing cost overburden rate,Rural areas,,Housing conditions,13.6
+2012,Housing cost overburden rate,Rural areas,,Housing conditions,13.9
+2013,Housing cost overburden rate,Rural areas,,Housing conditions,13.3
+2014,Housing cost overburden rate,Rural areas,,Housing conditions,12.7
+2015,Housing cost overburden rate,Rural areas,,Housing conditions,12.0
+2016,Housing cost overburden rate,Rural areas,,Housing conditions,12.2
+2017,Housing cost overburden rate,Rural areas,,Housing conditions,11.0
+2018,Housing cost overburden rate,Rural areas,,Housing conditions,10.4
+2019,Housing cost overburden rate,Rural areas,,Housing conditions,12.4
+2020,Housing cost overburden rate,Rural areas,,Housing conditions,17.6
+2010,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,13.3
+2011,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,13.7
+2012,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,13.5
+2013,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,13.1
+2014,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,12.3
+2015,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,12.8
+2016,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,13.1
+2017,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,12.5
+2018,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,13.4
+2019,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,12.0
+2020,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,,Housing deprivation,12.0
+2010,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,13.7
+2011,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,14.1
+2012,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,13.7
+2013,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,13.1
+2014,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,12.6
+2015,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,13.1
+2016,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,13.5
+2017,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,12.7
+2018,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,13.7
+2019,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,12.3
+2020,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Female,Housing deprivation,12.1
+2010,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,13.0
+2011,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,13.4
+2012,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,13.2
+2013,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,13.1
+2014,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,12.1
+2015,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,12.4
+2016,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,12.7
+2017,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,12.2
+2018,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,13.2
+2019,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,11.7
+2020,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",,Male,Housing deprivation,11.8
+2010,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,0.5
+2011,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,0.1
+2012,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,0.1
+2013,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,0.0
+2014,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,0.0
+2015,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,0.0
+2016,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,0.0
+2017,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,0.0
+2018,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,0.0
+2019,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,0.0
+2020,"Population having neither a bath, nor a shower in their dwelling",,,Housing deprivation,
+2010,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,0.5
+2011,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,0.1
+2012,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,0.1
+2013,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,0.0
+2014,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,0.0
+2015,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,0.0
+2016,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,0.0
+2017,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,0.0
+2018,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,0.0
+2019,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,0.0
+2020,"Population having neither a bath, nor a shower in their dwelling",,Female,Housing deprivation,
+2010,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,0.6
+2011,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,0.1
+2012,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,0.1
+2013,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,0.0
+2014,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,0.0
+2015,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,0.0
+2016,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,0.0
+2017,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,0.0
+2018,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,0.0
+2019,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,0.0
+2020,"Population having neither a bath, nor a shower in their dwelling",,Male,Housing deprivation,
+2010,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,1.6
+2011,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,0.9
+2012,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,0.9
+2013,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,0.1
+2014,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,0.0
+2015,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,0.1
+2016,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,0.1
+2017,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,0.1
+2018,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,0.0
+2019,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,0.2
+2020,Population not having indoor flushing toilet for the sole use of their household,,,Housing deprivation,
+2010,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,1.7
+2011,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,0.9
+2012,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,1.0
+2013,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,0.2
+2014,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,0.0
+2015,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,0.1
+2016,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,0.1
+2017,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,0.1
+2018,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,0.1
+2019,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,0.2
+2020,Population not having indoor flushing toilet for the sole use of their household,,Female,Housing deprivation,
+2010,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,1.6
+2011,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,0.8
+2012,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,0.9
+2013,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,0.1
+2014,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,0.0
+2015,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,0.1
+2016,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,0.1
+2017,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,0.1
+2018,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,0.0
+2019,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,0.3
+2020,Population not having indoor flushing toilet for the sole use of their household,,Male,Housing deprivation,
+2010,Population considering their dwelling as too dark,,,Housing deprivation,4.2
+2011,Population considering their dwelling as too dark,,,Housing deprivation,4.1
+2012,Population considering their dwelling as too dark,,,Housing deprivation,3.9
+2013,Population considering their dwelling as too dark,,,Housing deprivation,4.4
+2014,Population considering their dwelling as too dark,,,Housing deprivation,4.4
+2015,Population considering their dwelling as too dark,,,Housing deprivation,4.0
+2016,Population considering their dwelling as too dark,,,Housing deprivation,3.9
+2017,Population considering their dwelling as too dark,,,Housing deprivation,4.0
+2018,Population considering their dwelling as too dark,,,Housing deprivation,4.4
+2019,Population considering their dwelling as too dark,,,Housing deprivation,4.0
+2020,Population considering their dwelling as too dark,,,Housing deprivation,
+2010,Population considering their dwelling as too dark,,Female,Housing deprivation,3.9
+2011,Population considering their dwelling as too dark,,Female,Housing deprivation,3.9
+2012,Population considering their dwelling as too dark,,Female,Housing deprivation,3.9
+2013,Population considering their dwelling as too dark,,Female,Housing deprivation,4.5
+2014,Population considering their dwelling as too dark,,Female,Housing deprivation,4.3
+2015,Population considering their dwelling as too dark,,Female,Housing deprivation,3.9
+2016,Population considering their dwelling as too dark,,Female,Housing deprivation,3.8
+2017,Population considering their dwelling as too dark,,Female,Housing deprivation,3.9
+2018,Population considering their dwelling as too dark,,Female,Housing deprivation,4.4
+2019,Population considering their dwelling as too dark,,Female,Housing deprivation,4.2
+2020,Population considering their dwelling as too dark,,Female,Housing deprivation,
+2010,Population considering their dwelling as too dark,,Male,Housing deprivation,4.5
+2011,Population considering their dwelling as too dark,,Male,Housing deprivation,4.2
+2012,Population considering their dwelling as too dark,,Male,Housing deprivation,3.9
+2013,Population considering their dwelling as too dark,,Male,Housing deprivation,4.3
+2014,Population considering their dwelling as too dark,,Male,Housing deprivation,4.5
+2015,Population considering their dwelling as too dark,,Male,Housing deprivation,4.1
+2016,Population considering their dwelling as too dark,,Male,Housing deprivation,3.9
+2017,Population considering their dwelling as too dark,,Male,Housing deprivation,4.0
+2018,Population considering their dwelling as too dark,,Male,Housing deprivation,4.4
+2019,Population considering their dwelling as too dark,,Male,Housing deprivation,3.8
+2020,Population considering their dwelling as too dark,,Male,Housing deprivation,

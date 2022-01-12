@@ -20,11 +20,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt",
-                "Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet",
-                "Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt",
-                "Bevölkerung mit Lärmbelästigung in deren Wohnumgebung",
-                "Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)",
+                "Überbelegungsquote",
+                "Quote der Überbelastung durch Wohnkosten",
+                "Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
+                "Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",
+                "Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",
+                "Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Städte",
+                "Kleinere Städte und Vororte",
+                "Ländliche Gebiete",
+                ""
+              ]
+            },
+            "title": "Verstädterungsgrad"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wohnverhältnisse",
+                "Deprivation der Unterkunft",
                 ""
               ]
             },
