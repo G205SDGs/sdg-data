@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Passenger transports",
-                "Freight transports",
+                "Passenger transport",
+                "Freight transport",
                 ""
               ]
             },
@@ -46,7 +46,7 @@
               "enum": [
                 "Road transport",
                 "Rail transport",
-                "Commercial air transport",
+                "Air transport",
                 "Motorised private transport",
                 "Inland waterway transport",
                 "Pipelines: crude oil",

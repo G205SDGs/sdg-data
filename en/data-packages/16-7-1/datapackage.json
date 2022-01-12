@@ -47,8 +47,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportions of positions of women in the public service compared to the national distribution",
-                "Ratio of proportion of women in the judiciary to proportion of women in the total population",
+                "Ratio of female members in the public service",
+                "Ratio of female members in the judiciary",
                 ""
               ]
             },

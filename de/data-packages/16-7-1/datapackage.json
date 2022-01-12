@@ -47,8 +47,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Stellen von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung",
-                "Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung",
+                "Verhältnis von Frauen im öffentlichen Dienst",
+                "Verhältnis von Frauen in der Justiz",
                 ""
               ]
             },
