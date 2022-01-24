@@ -454,149 +454,6 @@ prose:
             help: Additional link to data source text
             value: "Link to source"
             scope: source_1
-      - name: "source_url_1e"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1e"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1f"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1f"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1g"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1g"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1h"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1h"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1i"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1i"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1j"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1j"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1k"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1k"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1l"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1l"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1m"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1m"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1n"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1n"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1o"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source
-            scope: source_1
-      - name: "source_url_text_1o"
-        field:
-            element: text
-            label: ""
-            help: Additional link to data source text
-            value: "Link to source"
-            scope: source_1
 
       ## Source 2
       - name: source_active_2
@@ -715,6 +572,149 @@ prose:
             help: Additional link to data source
             scope: source_2
       - name: "source_url_text_2d"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2e"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2e"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2f"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2f"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2g"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2g"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2h"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2h"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2i"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2i"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2j"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2j"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2k"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2k"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2l"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2l"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2m"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2m"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2n"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2n"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2o"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2o"
         field:
             element: text
             label: ""
