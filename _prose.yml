@@ -441,6 +441,7 @@ prose:
             help: Additional link to data source text
             value: "Link to source"
             scope: source_1
+
       - name: "source_url_1d"
         field:
             element: text
@@ -448,6 +449,123 @@ prose:
             help: Additional link to data source
             scope: source_1
       - name: "source_url_text_1d"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_1
+      - name: "source_url_1e"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1e"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_1
+      - name: "source_url_1f"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1f"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_1
+      - name: "source_url_1g"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1g"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_1
+      - name: "source_url_1h"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1h"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_1
+      - name: "source_url_1i"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1i"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_1
+      - name: "source_url_1j"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1j"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_1
+      - name: "source_url_1k"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1k"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_1
+      - name: "source_url_1l"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1l"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_1
+      - name: "source_url_1m"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1m"
         field:
             element: text
             label: ""
