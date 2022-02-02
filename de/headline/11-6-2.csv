@@ -1,9 +1,10 @@
-Year,Value
-2010,19.6
-2011,19.5
-2012,17.0
-2013,17.6
-2014,17.1
-2015,15.9
-2016,15.4
-2017,15.3
+Year,Value,Units,Series
+2010,19.6,Mikrogramm pro Kubikmeter,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>
+2011,19.5,Mikrogramm pro Kubikmeter,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>
+2012,17.0,Mikrogramm pro Kubikmeter,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>
+2013,17.6,Mikrogramm pro Kubikmeter,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>
+2014,17.1,Mikrogramm pro Kubikmeter,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>
+2015,15.9,Mikrogramm pro Kubikmeter,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>
+2016,15.4,Mikrogramm pro Kubikmeter,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>
+2017,15.3,Mikrogramm pro Kubikmeter,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>
+2018,,Mikrogramm pro Kubikmeter,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>

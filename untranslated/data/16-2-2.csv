@@ -9,6 +9,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,per 100 000 inhabitants,,,,0.81
 2018,per 100 000 inhabitants,,,,0.59
 2019,per 100 000 inhabitants,,,,0.57
+2020,per 100 000 inhabitants,,,,0.58
 2010,per 100 000 inhabitants,,,exploitation of labour,0.05
 2011,per 100 000 inhabitants,,,exploitation of labour,0.04
 2012,per 100 000 inhabitants,,,exploitation of labour,0.02
@@ -19,6 +20,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,per 100 000 inhabitants,,,exploitation of labour,0.22
 2018,per 100 000 inhabitants,,,exploitation of labour,0.08
 2019,per 100 000 inhabitants,,,exploitation of labour,0.05
+2020,per 100 000 inhabitants,,,exploitation of labour,0.09
 2010,per 100 000 inhabitants,,,sexual exploitation,0.76
 2011,per 100 000 inhabitants,,,sexual exploitation,0.8
 2012,per 100 000 inhabitants,,,sexual exploitation,0.76
@@ -29,6 +31,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,per 100 000 inhabitants,,,sexual exploitation,0.59
 2018,per 100 000 inhabitants,,,sexual exploitation,0.52
 2019,per 100 000 inhabitants,,,sexual exploitation,0.51
+2020,per 100 000 inhabitants,,,sexual exploitation,0.49
 2010,number,,,,651.0
 2011,number,,,,671.0
 2012,number,,,,626.0
@@ -39,6 +42,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,,,,669.0
 2018,number,,,,493.0
 2019,number,,,,470.0
+2020,number,,,,479.0
 2010,number,,,exploitation of labour,41.0
 2011,number,,,exploitation of labour,32.0
 2012,number,,,exploitation of labour,14.0
@@ -49,6 +53,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,,,exploitation of labour,180.0
 2018,number,,,exploitation of labour,63.0
 2019,number,,,exploitation of labour,43.0
+2020,number,,,exploitation of labour,73.0
 2010,number,,,sexual exploitation,610.0
 2011,number,,,sexual exploitation,639.0
 2012,number,,,sexual exploitation,612.0
@@ -59,6 +64,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,,,sexual exploitation,489.0
 2018,number,,,sexual exploitation,430.0
 2019,number,,,sexual exploitation,427.0
+2020,number,,,sexual exploitation,406.0
 2010,number,under 14 years,,sexual exploitation,8.0
 2011,number,under 14 years,,sexual exploitation,13.0
 2012,number,under 14 years,,sexual exploitation,12.0
@@ -69,6 +75,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,under 14 years,,sexual exploitation,16.0
 2018,number,under 14 years,,sexual exploitation,4.0
 2019,number,under 14 years,,sexual exploitation,5.0
+2020,number,under 14 years,,sexual exploitation,
 2010,number,14 to under 18 years,,sexual exploitation,79.0
 2011,number,14 to under 18 years,,sexual exploitation,77.0
 2012,number,14 to under 18 years,,sexual exploitation,88.0
@@ -79,6 +86,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,14 to under 18 years,,sexual exploitation,46.0
 2018,number,14 to under 18 years,,sexual exploitation,64.0
 2019,number,14 to under 18 years,,sexual exploitation,56.0
+2020,number,14 to under 18 years,,sexual exploitation,
 2010,number,18 to under 21 years,,sexual exploitation,254.0
 2011,number,18 to under 21 years,,sexual exploitation,269.0
 2012,number,18 to under 21 years,,sexual exploitation,223.0
@@ -89,6 +97,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,18 to under 21 years,,sexual exploitation,157.0
 2018,number,18 to under 21 years,,sexual exploitation,130.0
 2019,number,18 to under 21 years,,sexual exploitation,76.0
+2020,number,18 to under 21 years,,sexual exploitation,
 2010,number,21 to under 25 years,,sexual exploitation,127.0
 2011,number,21 to under 25 years,,sexual exploitation,135.0
 2012,number,21 to under 25 years,,sexual exploitation,123.0
@@ -99,6 +108,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,21 to under 25 years,,sexual exploitation,110.0
 2018,number,21 to under 25 years,,sexual exploitation,93.0
 2019,number,21 to under 25 years,,sexual exploitation,79.0
+2020,number,21 to under 25 years,,sexual exploitation,
 2010,number,25 years and over,,sexual exploitation,134.0
 2011,number,25 years and over,,sexual exploitation,133.0
 2012,number,25 years and over,,sexual exploitation,156.0
@@ -109,6 +119,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,25 years and over,,sexual exploitation,149.0
 2018,number,25 years and over,,sexual exploitation,126.0
 2019,number,25 years and over,,sexual exploitation,205.0
+2020,number,25 years and over,,sexual exploitation,
 2010,number,unknown age,,sexual exploitation,8.0
 2011,number,unknown age,,sexual exploitation,12.0
 2012,number,unknown age,,sexual exploitation,10.0
@@ -119,6 +130,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,unknown age,,sexual exploitation,11.0
 2018,number,unknown age,,sexual exploitation,13.0
 2019,number,unknown age,,sexual exploitation,6.0
+2020,number,unknown age,,sexual exploitation,
 2010,number,,female,exploitation of labour,
 2011,number,,female,exploitation of labour,
 2012,number,,female,exploitation of labour,7.0
@@ -129,6 +141,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,,female,exploitation of labour,25.0
 2018,number,,female,exploitation of labour,8.0
 2019,number,,female,exploitation of labour,19.0
+2020,number,,female,exploitation of labour,
 2010,number,,male,exploitation of labour,
 2011,number,,male,exploitation of labour,
 2012,number,,male,exploitation of labour,5.0
@@ -139,6 +152,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,,male,exploitation of labour,154.0
 2018,number,,male,exploitation of labour,54.0
 2019,number,,male,exploitation of labour,24.0
+2020,number,,male,exploitation of labour,
 2010,number,,unknown,exploitation of labour,
 2011,number,,unknown,exploitation of labour,
 2012,number,,unknown,exploitation of labour,2.0
@@ -149,6 +163,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,,unknown,exploitation of labour,1.0
 2018,number,,unknown,exploitation of labour,1.0
 2019,number,,unknown,exploitation of labour,0.0
+2020,number,,unknown,exploitation of labour,
 2010,number,,female,sexual exploitation,588.0
 2011,number,,female,sexual exploitation,599.0
 2012,number,,female,sexual exploitation,590.0
@@ -159,6 +174,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,,female,sexual exploitation,484.0
 2018,number,,female,sexual exploitation,413.0
 2019,number,,female,sexual exploitation,405.0
+2020,number,,female,sexual exploitation,381.0
 2010,number,,male,sexual exploitation,17.0
 2011,number,,male,sexual exploitation,34.0
 2012,number,,male,sexual exploitation,19.0
@@ -169,6 +185,7 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,,male,sexual exploitation,4.0
 2018,number,,male,sexual exploitation,14.0
 2019,number,,male,sexual exploitation,22.0
+2020,number,,male,sexual exploitation,23.0
 2010,number,,unknown,sexual exploitation,5.0
 2011,number,,unknown,sexual exploitation,6.0
 2012,number,,unknown,sexual exploitation,3.0
@@ -179,3 +196,4 @@ Year,Units,age,sex,form of exploitation,Value
 2017,number,,unknown,sexual exploitation,1.0
 2018,number,,unknown,sexual exploitation,3.0
 2019,number,,unknown,sexual exploitation,0.0
+2020,number,,unknown,sexual exploitation,2.0

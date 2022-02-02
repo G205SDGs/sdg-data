@@ -16,20 +16,131 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Female",
+                "Male",
+                "Divers",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Sex"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to under 20 years",
+                "20 to under 25 years",
+                "25 to under 30 years",
+                "30 to under 35 years",
+                "35 to under 40 years",
+                "40 to under 45 years",
+                "45 to under 50 years",
+                "50 to under 55 years",
+                "55 to under 60 years",
+                "60 to under 65 years",
+                "65 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "migratory status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No migrant background",
+                "Migrant background",
+                "Not classified",
+                ""
+              ]
+            },
+            "title": "Migratory status"
+          },
+          {
+            "name": "income quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
+                "Not classified",
+                ""
+              ]
+            },
+            "title": "Income quintile"
+          },
+          {
+            "name": "urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural areas",
+                "Not classified",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary school completed",
+                "Lower secondary school completed",
+                "Upper secondary school completed and post-secondary non-tertiary education",
+                "Bachelor/equivalent degree completed and masters/equivalent degree or above",
+                "Not classified",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "country of origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Germany",
+                "Other country within the EU",
+                "Other country outside of the EU",
+                "Multiple citizenships",
+                "Not classified",
+                ""
+              ]
+            },
+            "title": "Country of citizenship"
+          },
+          {
+            "name": "marital status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Single / Never married",
+                "Married",
+                "Cohabiting",
+                "Separated",
+                "Divorced",
+                "Widowed",
+                "Not classified",
+                ""
+              ]
+            },
+            "title": "Marital status"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

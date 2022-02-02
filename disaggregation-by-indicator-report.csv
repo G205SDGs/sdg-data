@@ -7,6 +7,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-b-1,timeseries,1
 #10-1-1,timeseries,1
 #10-2-1,"age, sex",2
+#10-3-1,"age, sex, migratory status, income quintile, urbanisation, education level, country of origin, marital status",8
 #10-5-1,timeseries,1
 #10-7-2,domain,1
 #10-7-4,country of origin,1
@@ -16,6 +17,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-3-1,timeseries,1
 #11-4-1,timeseries,1
 #11-6-1,timeseries,1
+#11-6-2,fine particulate matter,1
 #11-7-2,"timeseries, age, sex",3
 #12-4-1,timeseries,1
 #12-4-2,"timeseries, type of waste treatment",2
@@ -46,6 +48,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-5-1,sex,1
 #16-7-1,"timeseries, field of work, level of court",3
 #16-7-2,sex,1
+#16-b-1,"age, sex, migratory status, income quintile, urbanisation, education level, country of origin, marital status",8
 #17-1-2,timeseries,1
 #17-13-1,timeseries,1
 #17-17-1,timeseries,1

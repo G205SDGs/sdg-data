@@ -16,6 +16,42 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mikrogramm pro Kubikmeter",
+                "Millionen Einwohner/ -innen",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "fine particulate matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PM2.5",
+                "PM10",
+                ""
+              ]
+            },
+            "title": "Feinstaub"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>",
+                "Bevölkerung mit erhöhter Feinstaubexposition",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

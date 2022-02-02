@@ -1,9 +1,28 @@
-Year,Value
-2010,19.6
-2011,19.5
-2012,17.0
-2013,17.6
-2014,17.1
-2015,15.9
-2016,15.4
-2017,15.3
+Year,Units,Feinstaub,Series,Value
+2010,Mikrogramm pro Kubikmeter,,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>,19.6
+2011,Mikrogramm pro Kubikmeter,,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>,19.5
+2012,Mikrogramm pro Kubikmeter,,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>,17.0
+2013,Mikrogramm pro Kubikmeter,,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>,17.6
+2014,Mikrogramm pro Kubikmeter,,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>,17.1
+2015,Mikrogramm pro Kubikmeter,,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>,15.9
+2016,Mikrogramm pro Kubikmeter,,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>,15.4
+2017,Mikrogramm pro Kubikmeter,,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>,15.3
+2018,Mikrogramm pro Kubikmeter,,Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>,
+2010,Millionen Einwohner/ -innen,PM2.5,Bevölkerung mit erhöhter Feinstaubexposition,76.9
+2011,Millionen Einwohner/ -innen,PM2.5,Bevölkerung mit erhöhter Feinstaubexposition,75.8
+2012,Millionen Einwohner/ -innen,PM2.5,Bevölkerung mit erhöhter Feinstaubexposition,64.9
+2013,Millionen Einwohner/ -innen,PM2.5,Bevölkerung mit erhöhter Feinstaubexposition,71.5
+2014,Millionen Einwohner/ -innen,PM2.5,Bevölkerung mit erhöhter Feinstaubexposition,65.0
+2015,Millionen Einwohner/ -innen,PM2.5,Bevölkerung mit erhöhter Feinstaubexposition,59.3
+2016,Millionen Einwohner/ -innen,PM2.5,Bevölkerung mit erhöhter Feinstaubexposition,55.1
+2017,Millionen Einwohner/ -innen,PM2.5,Bevölkerung mit erhöhter Feinstaubexposition,54.0
+2018,Millionen Einwohner/ -innen,PM2.5,Bevölkerung mit erhöhter Feinstaubexposition,53.9
+2010,Millionen Einwohner/ -innen,PM10,Bevölkerung mit erhöhter Feinstaubexposition,34.61
+2011,Millionen Einwohner/ -innen,PM10,Bevölkerung mit erhöhter Feinstaubexposition,36.37
+2012,Millionen Einwohner/ -innen,PM10,Bevölkerung mit erhöhter Feinstaubexposition,12.51
+2013,Millionen Einwohner/ -innen,PM10,Bevölkerung mit erhöhter Feinstaubexposition,17.18
+2014,Millionen Einwohner/ -innen,PM10,Bevölkerung mit erhöhter Feinstaubexposition,11.9
+2015,Millionen Einwohner/ -innen,PM10,Bevölkerung mit erhöhter Feinstaubexposition,4.99
+2016,Millionen Einwohner/ -innen,PM10,Bevölkerung mit erhöhter Feinstaubexposition,3.84
+2017,Millionen Einwohner/ -innen,PM10,Bevölkerung mit erhöhter Feinstaubexposition,2.54
+2018,Millionen Einwohner/ -innen,PM10,Bevölkerung mit erhöhter Feinstaubexposition,2.9

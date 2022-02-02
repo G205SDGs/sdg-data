@@ -1,7 +1,529 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Age group,Migratory status,Income quintile,Degree of urbanisation,Education level,Country of citizenship,Marital status,Value
+2010,,,,,,,,,
+2011,,,,,,,,,
+2012,,,,,,,,,
+2013,,,,,,,,,
+2014,,,,,,,,,
+2015,,,,,,,,,13.0
+2016,,,,,,,,,
+2017,,,,,,,,,10.0
+2018,,,,,,,,,
+2019,,,,,,,,,9.0
+2020,,,,,,,,,
+2021,,,,,,,,,8.0
+2010,Female,,,,,,,,
+2011,Female,,,,,,,,
+2012,Female,,,,,,,,
+2013,Female,,,,,,,,
+2014,Female,,,,,,,,
+2015,Female,,,,,,,,13.0
+2016,Female,,,,,,,,
+2017,Female,,,,,,,,10.0
+2018,Female,,,,,,,,
+2019,Female,,,,,,,,8.0
+2020,Female,,,,,,,,
+2021,Female,,,,,,,,7.0
+2010,Male,,,,,,,,
+2011,Male,,,,,,,,
+2012,Male,,,,,,,,
+2013,Male,,,,,,,,
+2014,Male,,,,,,,,
+2015,Male,,,,,,,,13.0
+2016,Male,,,,,,,,
+2017,Male,,,,,,,,10.0
+2018,Male,,,,,,,,
+2019,Male,,,,,,,,9.0
+2020,Male,,,,,,,,
+2021,Male,,,,,,,,9.0
+2010,Divers,,,,,,,,
+2011,Divers,,,,,,,,
+2012,Divers,,,,,,,,
+2013,Divers,,,,,,,,
+2014,Divers,,,,,,,,
+2015,Divers,,,,,,,,
+2016,Divers,,,,,,,,
+2017,Divers,,,,,,,,
+2018,Divers,,,,,,,,
+2019,Divers,,,,,,,,23.0
+2020,Divers,,,,,,,,
+2021,Divers,,,,,,,,5.0
+2010,,15 to under 20 years,,,,,,,
+2011,,15 to under 20 years,,,,,,,
+2012,,15 to under 20 years,,,,,,,
+2013,,15 to under 20 years,,,,,,,
+2014,,15 to under 20 years,,,,,,,
+2015,,15 to under 20 years,,,,,,,8.0
+2016,,15 to under 20 years,,,,,,,
+2017,,15 to under 20 years,,,,,,,8.0
+2018,,15 to under 20 years,,,,,,,
+2019,,15 to under 20 years,,,,,,,7.0
+2020,,15 to under 20 years,,,,,,,
+2021,,15 to under 20 years,,,,,,,10.0
+2010,,20 to under 25 years,,,,,,,
+2011,,20 to under 25 years,,,,,,,
+2012,,20 to under 25 years,,,,,,,
+2013,,20 to under 25 years,,,,,,,
+2014,,20 to under 25 years,,,,,,,
+2015,,20 to under 25 years,,,,,,,14.0
+2016,,20 to under 25 years,,,,,,,
+2017,,20 to under 25 years,,,,,,,9.0
+2018,,20 to under 25 years,,,,,,,
+2019,,20 to under 25 years,,,,,,,8.0
+2020,,20 to under 25 years,,,,,,,
+2021,,20 to under 25 years,,,,,,,9.0
+2010,,25 to under 30 years,,,,,,,
+2011,,25 to under 30 years,,,,,,,
+2012,,25 to under 30 years,,,,,,,
+2013,,25 to under 30 years,,,,,,,
+2014,,25 to under 30 years,,,,,,,
+2015,,25 to under 30 years,,,,,,,15.0
+2016,,25 to under 30 years,,,,,,,
+2017,,25 to under 30 years,,,,,,,10.0
+2018,,25 to under 30 years,,,,,,,
+2019,,25 to under 30 years,,,,,,,11.0
+2020,,25 to under 30 years,,,,,,,
+2021,,25 to under 30 years,,,,,,,9.0
+2010,,30 to under 35 years,,,,,,,
+2011,,30 to under 35 years,,,,,,,
+2012,,30 to under 35 years,,,,,,,
+2013,,30 to under 35 years,,,,,,,
+2014,,30 to under 35 years,,,,,,,
+2015,,30 to under 35 years,,,,,,,10.0
+2016,,30 to under 35 years,,,,,,,
+2017,,30 to under 35 years,,,,,,,9.0
+2018,,30 to under 35 years,,,,,,,
+2019,,30 to under 35 years,,,,,,,10.0
+2020,,30 to under 35 years,,,,,,,
+2021,,30 to under 35 years,,,,,,,8.0
+2010,,35 to under 40 years,,,,,,,
+2011,,35 to under 40 years,,,,,,,
+2012,,35 to under 40 years,,,,,,,
+2013,,35 to under 40 years,,,,,,,
+2014,,35 to under 40 years,,,,,,,
+2015,,35 to under 40 years,,,,,,,13.0
+2016,,35 to under 40 years,,,,,,,
+2017,,35 to under 40 years,,,,,,,6.0
+2018,,35 to under 40 years,,,,,,,
+2019,,35 to under 40 years,,,,,,,9.0
+2020,,35 to under 40 years,,,,,,,
+2021,,35 to under 40 years,,,,,,,7.0
+2010,,40 to under 45 years,,,,,,,
+2011,,40 to under 45 years,,,,,,,
+2012,,40 to under 45 years,,,,,,,
+2013,,40 to under 45 years,,,,,,,
+2014,,40 to under 45 years,,,,,,,
+2015,,40 to under 45 years,,,,,,,11.0
+2016,,40 to under 45 years,,,,,,,
+2017,,40 to under 45 years,,,,,,,8.0
+2018,,40 to under 45 years,,,,,,,
+2019,,40 to under 45 years,,,,,,,7.0
+2020,,40 to under 45 years,,,,,,,
+2021,,40 to under 45 years,,,,,,,8.0
+2010,,45 to under 50 years,,,,,,,
+2011,,45 to under 50 years,,,,,,,
+2012,,45 to under 50 years,,,,,,,
+2013,,45 to under 50 years,,,,,,,
+2014,,45 to under 50 years,,,,,,,
+2015,,45 to under 50 years,,,,,,,10.0
+2016,,45 to under 50 years,,,,,,,
+2017,,45 to under 50 years,,,,,,,10.0
+2018,,45 to under 50 years,,,,,,,
+2019,,45 to under 50 years,,,,,,,8.0
+2020,,45 to under 50 years,,,,,,,
+2021,,45 to under 50 years,,,,,,,7.0
+2010,,50 to under 55 years,,,,,,,
+2011,,50 to under 55 years,,,,,,,
+2012,,50 to under 55 years,,,,,,,
+2013,,50 to under 55 years,,,,,,,
+2014,,50 to under 55 years,,,,,,,
+2015,,50 to under 55 years,,,,,,,14.0
+2016,,50 to under 55 years,,,,,,,
+2017,,50 to under 55 years,,,,,,,8.0
+2018,,50 to under 55 years,,,,,,,
+2019,,50 to under 55 years,,,,,,,7.0
+2020,,50 to under 55 years,,,,,,,
+2021,,50 to under 55 years,,,,,,,5.0
+2010,,55 to under 60 years,,,,,,,
+2011,,55 to under 60 years,,,,,,,
+2012,,55 to under 60 years,,,,,,,
+2013,,55 to under 60 years,,,,,,,
+2014,,55 to under 60 years,,,,,,,
+2015,,55 to under 60 years,,,,,,,14.0
+2016,,55 to under 60 years,,,,,,,
+2017,,55 to under 60 years,,,,,,,8.0
+2018,,55 to under 60 years,,,,,,,
+2019,,55 to under 60 years,,,,,,,6.0
+2020,,55 to under 60 years,,,,,,,
+2021,,55 to under 60 years,,,,,,,8.0
+2010,,60 to under 65 years,,,,,,,
+2011,,60 to under 65 years,,,,,,,
+2012,,60 to under 65 years,,,,,,,
+2013,,60 to under 65 years,,,,,,,
+2014,,60 to under 65 years,,,,,,,
+2015,,60 to under 65 years,,,,,,,14.0
+2016,,60 to under 65 years,,,,,,,
+2017,,60 to under 65 years,,,,,,,14.0
+2018,,60 to under 65 years,,,,,,,
+2019,,60 to under 65 years,,,,,,,9.0
+2020,,60 to under 65 years,,,,,,,
+2021,,60 to under 65 years,,,,,,,7.0
+2010,,65 years and older,,,,,,,
+2011,,65 years and older,,,,,,,
+2012,,65 years and older,,,,,,,
+2013,,65 years and older,,,,,,,
+2014,,65 years and older,,,,,,,
+2015,,65 years and older,,,,,,,14.0
+2016,,65 years and older,,,,,,,
+2017,,65 years and older,,,,,,,13.0
+2018,,65 years and older,,,,,,,
+2019,,65 years and older,,,,,,,11.0
+2020,,65 years and older,,,,,,,
+2021,,65 years and older,,,,,,,10.0
+2010,,,No migrant background,,,,,,
+2011,,,No migrant background,,,,,,
+2012,,,No migrant background,,,,,,
+2013,,,No migrant background,,,,,,
+2014,,,No migrant background,,,,,,
+2015,,,No migrant background,,,,,,9.0
+2016,,,No migrant background,,,,,,
+2017,,,No migrant background,,,,,,7.0
+2018,,,No migrant background,,,,,,
+2019,,,No migrant background,,,,,,8.0
+2020,,,No migrant background,,,,,,
+2021,,,No migrant background,,,,,,7.0
+2010,,,Migrant background,,,,,,
+2011,,,Migrant background,,,,,,
+2012,,,Migrant background,,,,,,
+2013,,,Migrant background,,,,,,
+2014,,,Migrant background,,,,,,
+2015,,,Migrant background,,,,,,14.0
+2016,,,Migrant background,,,,,,
+2017,,,Migrant background,,,,,,13.0
+2018,,,Migrant background,,,,,,
+2019,,,Migrant background,,,,,,15.0
+2020,,,Migrant background,,,,,,
+2021,,,Migrant background,,,,,,11.0
+2010,,,Not classified,,,,,,
+2011,,,Not classified,,,,,,
+2012,,,Not classified,,,,,,
+2013,,,Not classified,,,,,,
+2014,,,Not classified,,,,,,
+2015,,,Not classified,,,,,,14.0
+2016,,,Not classified,,,,,,
+2017,,,Not classified,,,,,,7.0
+2018,,,Not classified,,,,,,
+2019,,,Not classified,,,,,,17.0
+2020,,,Not classified,,,,,,
+2021,,,Not classified,,,,,,26.0
+2010,,,,Poorest,,,,,
+2011,,,,Poorest,,,,,
+2012,,,,Poorest,,,,,
+2013,,,,Poorest,,,,,
+2014,,,,Poorest,,,,,
+2015,,,,Poorest,,,,,
+2016,,,,Poorest,,,,,
+2017,,,,Poorest,,,,,
+2018,,,,Poorest,,,,,
+2019,,,,Poorest,,,,,17.0
+2020,,,,Poorest,,,,,
+2021,,,,Poorest,,,,,14.0
+2010,,,,Second,,,,,
+2011,,,,Second,,,,,
+2012,,,,Second,,,,,
+2013,,,,Second,,,,,
+2014,,,,Second,,,,,
+2015,,,,Second,,,,,
+2016,,,,Second,,,,,
+2017,,,,Second,,,,,
+2018,,,,Second,,,,,
+2019,,,,Second,,,,,6.0
+2020,,,,Second,,,,,
+2021,,,,Second,,,,,8.0
+2010,,,,Middle,,,,,
+2011,,,,Middle,,,,,
+2012,,,,Middle,,,,,
+2013,,,,Middle,,,,,
+2014,,,,Middle,,,,,
+2015,,,,Middle,,,,,
+2016,,,,Middle,,,,,
+2017,,,,Middle,,,,,
+2018,,,,Middle,,,,,
+2019,,,,Middle,,,,,6.0
+2020,,,,Middle,,,,,
+2021,,,,Middle,,,,,5.0
+2010,,,,Fourth,,,,,
+2011,,,,Fourth,,,,,
+2012,,,,Fourth,,,,,
+2013,,,,Fourth,,,,,
+2014,,,,Fourth,,,,,
+2015,,,,Fourth,,,,,
+2016,,,,Fourth,,,,,
+2017,,,,Fourth,,,,,
+2018,,,,Fourth,,,,,
+2019,,,,Fourth,,,,,5.0
+2020,,,,Fourth,,,,,
+2021,,,,Fourth,,,,,5.0
+2010,,,,Richest,,,,,
+2011,,,,Richest,,,,,
+2012,,,,Richest,,,,,
+2013,,,,Richest,,,,,
+2014,,,,Richest,,,,,
+2015,,,,Richest,,,,,
+2016,,,,Richest,,,,,
+2017,,,,Richest,,,,,
+2018,,,,Richest,,,,,
+2019,,,,Richest,,,,,4.0
+2020,,,,Richest,,,,,
+2021,,,,Richest,,,,,4.0
+2010,,,,Not classified,,,,,
+2011,,,,Not classified,,,,,
+2012,,,,Not classified,,,,,
+2013,,,,Not classified,,,,,
+2014,,,,Not classified,,,,,
+2015,,,,Not classified,,,,,
+2016,,,,Not classified,,,,,
+2017,,,,Not classified,,,,,
+2018,,,,Not classified,,,,,
+2019,,,,Not classified,,,,,11.0
+2020,,,,Not classified,,,,,
+2021,,,,Not classified,,,,,12.0
+2010,,,,,Urban,,,,
+2011,,,,,Urban,,,,
+2012,,,,,Urban,,,,
+2013,,,,,Urban,,,,
+2014,,,,,Urban,,,,
+2015,,,,,Urban,,,,12.0
+2016,,,,,Urban,,,,
+2017,,,,,Urban,,,,10.0
+2018,,,,,Urban,,,,
+2019,,,,,Urban,,,,8.0
+2020,,,,,Urban,,,,
+2021,,,,,Urban,,,,7.0
+2010,,,,,Rural areas,,,,
+2011,,,,,Rural areas,,,,
+2012,,,,,Rural areas,,,,
+2013,,,,,Rural areas,,,,
+2014,,,,,Rural areas,,,,
+2015,,,,,Rural areas,,,,13.0
+2016,,,,,Rural areas,,,,
+2017,,,,,Rural areas,,,,10.0
+2018,,,,,Rural areas,,,,
+2019,,,,,Rural areas,,,,10.0
+2020,,,,,Rural areas,,,,
+2021,,,,,Rural areas,,,,8.0
+2010,,,,,Not classified,,,,
+2011,,,,,Not classified,,,,
+2012,,,,,Not classified,,,,
+2013,,,,,Not classified,,,,
+2014,,,,,Not classified,,,,
+2015,,,,,Not classified,,,,
+2016,,,,,Not classified,,,,
+2017,,,,,Not classified,,,,
+2018,,,,,Not classified,,,,
+2019,,,,,Not classified,,,,15.0
+2020,,,,,Not classified,,,,
+2021,,,,,Not classified,,,,14.0
+2010,,,,,,Primary school completed,,,
+2011,,,,,,Primary school completed,,,
+2012,,,,,,Primary school completed,,,
+2013,,,,,,Primary school completed,,,
+2014,,,,,,Primary school completed,,,
+2015,,,,,,Primary school completed,,,39.0
+2016,,,,,,Primary school completed,,,
+2017,,,,,,Primary school completed,,,16.0
+2018,,,,,,Primary school completed,,,
+2019,,,,,,Primary school completed,,,40.0
+2020,,,,,,Primary school completed,,,
+2021,,,,,,Primary school completed,,,36.0
+2010,,,,,,Lower secondary school completed,,,
+2011,,,,,,Lower secondary school completed,,,
+2012,,,,,,Lower secondary school completed,,,
+2013,,,,,,Lower secondary school completed,,,
+2014,,,,,,Lower secondary school completed,,,
+2015,,,,,,Lower secondary school completed,,,16.0
+2016,,,,,,Lower secondary school completed,,,
+2017,,,,,,Lower secondary school completed,,,12.0
+2018,,,,,,Lower secondary school completed,,,
+2019,,,,,,Lower secondary school completed,,,11.0
+2020,,,,,,Lower secondary school completed,,,
+2021,,,,,,Lower secondary school completed,,,10.0
+2010,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,
+2011,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,
+2012,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,
+2013,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,
+2014,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,
+2015,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,10.0
+2016,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,
+2017,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,9.0
+2018,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,
+2019,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,5.0
+2020,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,
+2021,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,5.0
+2010,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,
+2011,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,
+2012,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,
+2013,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,
+2014,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,
+2015,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,8.0
+2016,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,
+2017,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,8.0
+2018,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,
+2019,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,6.0
+2020,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,
+2021,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,6.0
+2010,,,,,,Not classified,,,
+2011,,,,,,Not classified,,,
+2012,,,,,,Not classified,,,
+2013,,,,,,Not classified,,,
+2014,,,,,,Not classified,,,
+2015,,,,,,Not classified,,,4.0
+2016,,,,,,Not classified,,,
+2017,,,,,,Not classified,,,13.0
+2018,,,,,,Not classified,,,
+2019,,,,,,Not classified,,,21.0
+2020,,,,,,Not classified,,,
+2021,,,,,,Not classified,,,21.0
+2010,,,,,,,Germany,,
+2011,,,,,,,Germany,,
+2012,,,,,,,Germany,,
+2013,,,,,,,Germany,,
+2014,,,,,,,Germany,,
+2015,,,,,,,Germany,,12.0
+2016,,,,,,,Germany,,
+2017,,,,,,,Germany,,10.0
+2018,,,,,,,Germany,,
+2019,,,,,,,Germany,,8.0
+2020,,,,,,,Germany,,
+2021,,,,,,,Germany,,7.0
+2010,,,,,,,Other country within the EU,,
+2011,,,,,,,Other country within the EU,,
+2012,,,,,,,Other country within the EU,,
+2013,,,,,,,Other country within the EU,,
+2014,,,,,,,Other country within the EU,,
+2015,,,,,,,Other country within the EU,,23.0
+2016,,,,,,,Other country within the EU,,
+2017,,,,,,,Other country within the EU,,24.0
+2018,,,,,,,Other country within the EU,,
+2019,,,,,,,Other country within the EU,,16.0
+2020,,,,,,,Other country within the EU,,
+2021,,,,,,,Other country within the EU,,13.0
+2010,,,,,,,Other country outside of the EU,,
+2011,,,,,,,Other country outside of the EU,,
+2012,,,,,,,Other country outside of the EU,,
+2013,,,,,,,Other country outside of the EU,,
+2014,,,,,,,Other country outside of the EU,,
+2015,,,,,,,Other country outside of the EU,,25.0
+2016,,,,,,,Other country outside of the EU,,
+2017,,,,,,,Other country outside of the EU,,13.0
+2018,,,,,,,Other country outside of the EU,,
+2019,,,,,,,Other country outside of the EU,,23.0
+2020,,,,,,,Other country outside of the EU,,
+2021,,,,,,,Other country outside of the EU,,32.0
+2010,,,,,,,Multiple citizenships,,
+2011,,,,,,,Multiple citizenships,,
+2012,,,,,,,Multiple citizenships,,
+2013,,,,,,,Multiple citizenships,,
+2014,,,,,,,Multiple citizenships,,
+2015,,,,,,,Multiple citizenships,,23.0
+2016,,,,,,,Multiple citizenships,,
+2017,,,,,,,Multiple citizenships,,7.0
+2018,,,,,,,Multiple citizenships,,
+2019,,,,,,,Multiple citizenships,,12.0
+2020,,,,,,,Multiple citizenships,,
+2021,,,,,,,Multiple citizenships,,16.0
+2010,,,,,,,Not classified,,
+2011,,,,,,,Not classified,,
+2012,,,,,,,Not classified,,
+2013,,,,,,,Not classified,,
+2014,,,,,,,Not classified,,
+2015,,,,,,,Not classified,,16.0
+2016,,,,,,,Not classified,,
+2017,,,,,,,Not classified,,1.0
+2018,,,,,,,Not classified,,
+2019,,,,,,,Not classified,,37.0
+2020,,,,,,,Not classified,,
+2021,,,,,,,Not classified,,19.0
+2010,,,,,,,,Single / Never married,
+2011,,,,,,,,Single / Never married,
+2012,,,,,,,,Single / Never married,
+2013,,,,,,,,Single / Never married,
+2014,,,,,,,,Single / Never married,
+2015,,,,,,,,Single / Never married,11.0
+2016,,,,,,,,Single / Never married,
+2017,,,,,,,,Single / Never married,7.0
+2018,,,,,,,,Single / Never married,
+2019,,,,,,,,Single / Never married,7.0
+2020,,,,,,,,Single / Never married,
+2021,,,,,,,,Single / Never married,11.0
+2010,,,,,,,,Married,
+2011,,,,,,,,Married,
+2012,,,,,,,,Married,
+2013,,,,,,,,Married,
+2014,,,,,,,,Married,
+2015,,,,,,,,Married,11.0
+2016,,,,,,,,Married,
+2017,,,,,,,,Married,8.0
+2018,,,,,,,,Married,
+2019,,,,,,,,Married,6.0
+2020,,,,,,,,Married,
+2021,,,,,,,,Married,6.0
+2010,,,,,,,,Cohabiting,
+2011,,,,,,,,Cohabiting,
+2012,,,,,,,,Cohabiting,
+2013,,,,,,,,Cohabiting,
+2014,,,,,,,,Cohabiting,
+2015,,,,,,,,Cohabiting,8.0
+2016,,,,,,,,Cohabiting,
+2017,,,,,,,,Cohabiting,8.0
+2018,,,,,,,,Cohabiting,
+2019,,,,,,,,Cohabiting,10.0
+2020,,,,,,,,Cohabiting,
+2021,,,,,,,,Cohabiting,5.0
+2010,,,,,,,,Separated,
+2011,,,,,,,,Separated,
+2012,,,,,,,,Separated,
+2013,,,,,,,,Separated,
+2014,,,,,,,,Separated,
+2015,,,,,,,,Separated,13.0
+2016,,,,,,,,Separated,
+2017,,,,,,,,Separated,12.0
+2018,,,,,,,,Separated,
+2019,,,,,,,,Separated,18.0
+2020,,,,,,,,Separated,
+2021,,,,,,,,Separated,12.0
+2010,,,,,,,,Divorced,
+2011,,,,,,,,Divorced,
+2012,,,,,,,,Divorced,
+2013,,,,,,,,Divorced,
+2014,,,,,,,,Divorced,
+2015,,,,,,,,Divorced,19.0
+2016,,,,,,,,Divorced,
+2017,,,,,,,,Divorced,15.0
+2018,,,,,,,,Divorced,
+2019,,,,,,,,Divorced,12.0
+2020,,,,,,,,Divorced,
+2021,,,,,,,,Divorced,10.0
+2010,,,,,,,,Widowed,
+2011,,,,,,,,Widowed,
+2012,,,,,,,,Widowed,
+2013,,,,,,,,Widowed,
+2014,,,,,,,,Widowed,
+2015,,,,,,,,Widowed,18.0
+2016,,,,,,,,Widowed,
+2017,,,,,,,,Widowed,14.0
+2018,,,,,,,,Widowed,
+2019,,,,,,,,Widowed,11.0
+2020,,,,,,,,Widowed,
+2021,,,,,,,,Widowed,10.0
+2010,,,,,,,,Not classified,
+2011,,,,,,,,Not classified,
+2012,,,,,,,,Not classified,
+2013,,,,,,,,Not classified,
+2014,,,,,,,,Not classified,
+2015,,,,,,,,Not classified,15.0
+2016,,,,,,,,Not classified,
+2017,,,,,,,,Not classified,11.0
+2018,,,,,,,,Not classified,
+2019,,,,,,,,Not classified,13.0
+2020,,,,,,,,Not classified,
+2021,,,,,,,,Not classified,10.0

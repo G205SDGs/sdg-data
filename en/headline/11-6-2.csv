@@ -1,9 +1,10 @@
-Year,Value
-2010,19.6
-2011,19.5
-2012,17.0
-2013,17.6
-2014,17.1
-2015,15.9
-2016,15.4
-2017,15.3
+Year,Value,Units,Series
+2010,19.6,Micrograms per cubic meters,Population weighted annual mean levels of PM<sub>10</sub>
+2011,19.5,Micrograms per cubic meters,Population weighted annual mean levels of PM<sub>10</sub>
+2012,17.0,Micrograms per cubic meters,Population weighted annual mean levels of PM<sub>10</sub>
+2013,17.6,Micrograms per cubic meters,Population weighted annual mean levels of PM<sub>10</sub>
+2014,17.1,Micrograms per cubic meters,Population weighted annual mean levels of PM<sub>10</sub>
+2015,15.9,Micrograms per cubic meters,Population weighted annual mean levels of PM<sub>10</sub>
+2016,15.4,Micrograms per cubic meters,Population weighted annual mean levels of PM<sub>10</sub>
+2017,15.3,Micrograms per cubic meters,Population weighted annual mean levels of PM<sub>10</sub>
+2018,,Micrograms per cubic meters,Population weighted annual mean levels of PM<sub>10</sub>
