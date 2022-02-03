@@ -9,6 +9,8 @@ Year,Units,sex,Value,Series
 2017,%,,3.66,population who had the impression that public officials are corruptible
 2018,%,,,population who had the impression that public officials are corruptible
 2019,%,,4.67,population who had the impression that public officials are corruptible
+2020,%,,,population who had the impression that public officials are corruptible
+2021,%,,3.86,population who had the impression that public officials are corruptible
 2010,%,female,,population who had the impression that public officials are corruptible
 2011,%,female,,population who had the impression that public officials are corruptible
 2012,%,female,,population who had the impression that public officials are corruptible
@@ -19,6 +21,8 @@ Year,Units,sex,Value,Series
 2017,%,female,3.75,population who had the impression that public officials are corruptible
 2018,%,female,,population who had the impression that public officials are corruptible
 2019,%,female,4.62,population who had the impression that public officials are corruptible
+2020,%,female,,population who had the impression that public officials are corruptible
+2021,%,female,3.04,population who had the impression that public officials are corruptible
 2010,%,male,,population who had the impression that public officials are corruptible
 2011,%,male,,population who had the impression that public officials are corruptible
 2012,%,male,,population who had the impression that public officials are corruptible
@@ -29,6 +33,8 @@ Year,Units,sex,Value,Series
 2017,%,male,3.57,population who had the impression that public officials are corruptible
 2018,%,male,,population who had the impression that public officials are corruptible
 2019,%,male,4.56,population who had the impression that public officials are corruptible
+2020,%,male,,population who had the impression that public officials are corruptible
+2021,%,male,4.68,population who had the impression that public officials are corruptible
 2010,%,divers,,population who had the impression that public officials are corruptible
 2011,%,divers,,population who had the impression that public officials are corruptible
 2012,%,divers,,population who had the impression that public officials are corruptible
@@ -38,7 +44,9 @@ Year,Units,sex,Value,Series
 2016,%,divers,,population who had the impression that public officials are corruptible
 2017,%,divers,,population who had the impression that public officials are corruptible
 2018,%,divers,,population who had the impression that public officials are corruptible
-2019,%,divers,28,population who had the impression that public officials are corruptible
+2019,%,divers,28.00,population who had the impression that public officials are corruptible
+2020,%,divers,,population who had the impression that public officials are corruptible
+2021,%,divers,31.19,population who had the impression that public officials are corruptible
 2010,number,,354,private persons (donors) suspected in the context of corruption offences
 2011,number,,295,private persons (donors) suspected in the context of corruption offences
 2012,number,,163,private persons (donors) suspected in the context of corruption offences
@@ -49,3 +57,5 @@ Year,Units,sex,Value,Series
 2017,number,,,private persons (donors) suspected in the context of corruption offences
 2018,number,,,private persons (donors) suspected in the context of corruption offences
 2019,number,,,private persons (donors) suspected in the context of corruption offences
+2020,number,,,private persons (donors) suspected in the context of corruption offences
+2021,number,,,private persons (donors) suspected in the context of corruption offences
