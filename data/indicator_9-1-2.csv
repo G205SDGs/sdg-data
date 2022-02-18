@@ -8,8 +8,8 @@ Year,Units,timeseries,mode of transport,Value
 2016,mn pkm,passenger transports,,1204775
 2017,mn pkm,passenger transports,,1155136
 2018,mn pkm,passenger transports,,1161885
-2019,mn pkm,passenger transports,,1169786
-2020,mn pkm,passenger transports,,
+2019,mn pkm,passenger transports,,1170186
+2020,mn pkm,passenger transports,,945755
 2010,mn pkm,passenger transports,road transport,78092
 2011,mn pkm,passenger transports,road transport,77957
 2012,mn pkm,passenger transports,road transport,76019
@@ -20,7 +20,7 @@ Year,Units,timeseries,mode of transport,Value
 2017,mn pkm,passenger transports,road transport,79730
 2018,mn pkm,passenger transports,road transport,80103
 2019,mn pkm,passenger transports,road transport,78919
-2020,mn pkm,passenger transports,road transport,
+2020,mn pkm,passenger transports,road transport,45735
 2010,mn pkm,passenger transports,rail transport,83886
 2011,mn pkm,passenger transports,rail transport,85414
 2012,mn pkm,passenger transports,rail transport,88795
@@ -31,7 +31,7 @@ Year,Units,timeseries,mode of transport,Value
 2017,mn pkm,passenger transports,rail transport,95530
 2018,mn pkm,passenger transports,rail transport,98061
 2019,mn pkm,passenger transports,rail transport,102026
-2020,mn pkm,passenger transports,rail transport,
+2020,mn pkm,passenger transports,rail transport,58816
 2010,mn pkm,passenger transports,commercial air transport,52822
 2011,mn pkm,passenger transports,commercial air transport,55215
 2012,mn pkm,passenger transports,commercial air transport,56180
@@ -42,7 +42,7 @@ Year,Units,timeseries,mode of transport,Value
 2017,mn pkm,passenger transports,commercial air transport,67523
 2018,mn pkm,passenger transports,commercial air transport,70445
 2019,mn pkm,passenger transports,commercial air transport,71841
-2020,mn pkm,passenger transports,commercial air transport,
+2020,mn pkm,passenger transports,commercial air transport,18704
 2010,mn pkm,passenger transports,motorised private transport,902440
 2011,mn pkm,passenger transports,motorised private transport,912417
 2012,mn pkm,passenger transports,motorised private transport,914563
@@ -52,8 +52,8 @@ Year,Units,timeseries,mode of transport,Value
 2016,mn pkm,passenger transports,motorised private transport,965151
 2017,mn pkm,passenger transports,motorised private transport,912353
 2018,mn pkm,passenger transports,motorised private transport,913276
-2019,mn pkm,passenger transports,motorised private transport,917000
-2020,mn pkm,passenger transports,motorised private transport,
+2019,mn pkm,passenger transports,motorised private transport,917400
+2020,mn pkm,passenger transports,motorised private transport,822500
 2010,mn tkm,freight transports,,627882
 2011,mn tkm,freight transports,,628083
 2012,mn tkm,freight transports,,618179
