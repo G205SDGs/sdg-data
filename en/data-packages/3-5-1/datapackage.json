@@ -28,6 +28,18 @@
             "title": "Substance"
           },
           {
+            "name": "bound",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower bound",
+                "Upper bound",
+                ""
+              ]
+            },
+            "title": "Bound"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -39,6 +51,18 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inpatient treatment of substance use disorders",
+                "Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
