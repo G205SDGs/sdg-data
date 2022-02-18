@@ -9,7 +9,8 @@ Year,Value,Units,Series
 2017,20.4,%,manufacturing gross value added as a proportion of gdp
 2018,20.0,%,manufacturing gross value added as a proportion of gdp
 2019,19.4,%,manufacturing gross value added as a proportion of gdp
-2020,18.1,%,manufacturing gross value added as a proportion of gdp
+2020,18.2,%,manufacturing gross value added as a proportion of gdp
+2021,18.3,%,manufacturing gross value added as a proportion of gdp
 2010,21.9,%,manufacturing gross value added as a proportion of total gross value added
 2011,22.5,%,manufacturing gross value added as a proportion of total gross value added
 2012,22.4,%,manufacturing gross value added as a proportion of total gross value added
@@ -19,8 +20,9 @@ Year,Value,Units,Series
 2016,22.9,%,manufacturing gross value added as a proportion of total gross value added
 2017,22.7,%,manufacturing gross value added as a proportion of total gross value added
 2018,22.2,%,manufacturing gross value added as a proportion of total gross value added
-2019,21.5,%,manufacturing gross value added as a proportion of total gross value added
-2020,20.0,%,manufacturing gross value added as a proportion of total gross value added
+2019,21.6,%,manufacturing gross value added as a proportion of total gross value added
+2020,20.1,%,manufacturing gross value added as a proportion of total gross value added
+2021,20.2,%,manufacturing gross value added as a proportion of total gross value added
 2010,6291.0,eur,manufacturing gross value added per capita
 2011,6789.0,eur,manufacturing gross value added per capita
 2012,6880.0,eur,manufacturing gross value added per capita
@@ -30,5 +32,6 @@ Year,Value,Units,Series
 2016,7865.0,eur,manufacturing gross value added per capita
 2017,8060.0,eur,manufacturing gross value added per capita
 2018,8140.0,eur,manufacturing gross value added per capita
-2019,8108.0,eur,manufacturing gross value added per capita
-2020,7341.0,eur,manufacturing gross value added per capita
+2019,8126.0,eur,manufacturing gross value added per capita
+2020,7358.0,eur,manufacturing gross value added per capita
+2021,7851.0,eur,manufacturing gross value added per capita

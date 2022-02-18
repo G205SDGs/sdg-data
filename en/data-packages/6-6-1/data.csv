@@ -1,57 +1,10 @@
-Year,Time series,Type of water body,Value
-2010,Sub-indicator 1: Spatial extent of water-related ecosystems,,
-2011,Sub-indicator 1: Spatial extent of water-related ecosystems,,
-2012,Sub-indicator 1: Spatial extent of water-related ecosystems,,
-2013,Sub-indicator 1: Spatial extent of water-related ecosystems,,
-2014,Sub-indicator 1: Spatial extent of water-related ecosystems,,
-2015,Sub-indicator 1: Spatial extent of water-related ecosystems,,
-2016,Sub-indicator 1: Spatial extent of water-related ecosystems,,
-2017,Sub-indicator 1: Spatial extent of water-related ecosystems,,-0.1
-2010,Sub-indicator 1: Spatial extent of water-related ecosystems,River water bodies,
-2011,Sub-indicator 1: Spatial extent of water-related ecosystems,River water bodies,
-2012,Sub-indicator 1: Spatial extent of water-related ecosystems,River water bodies,
-2013,Sub-indicator 1: Spatial extent of water-related ecosystems,River water bodies,
-2014,Sub-indicator 1: Spatial extent of water-related ecosystems,River water bodies,
-2015,Sub-indicator 1: Spatial extent of water-related ecosystems,River water bodies,
-2016,Sub-indicator 1: Spatial extent of water-related ecosystems,River water bodies,
-2017,Sub-indicator 1: Spatial extent of water-related ecosystems,River water bodies,-0.7
-2010,Sub-indicator 1: Spatial extent of water-related ecosystems,Open water bodies,
-2011,Sub-indicator 1: Spatial extent of water-related ecosystems,Open water bodies,
-2012,Sub-indicator 1: Spatial extent of water-related ecosystems,Open water bodies,
-2013,Sub-indicator 1: Spatial extent of water-related ecosystems,Open water bodies,
-2014,Sub-indicator 1: Spatial extent of water-related ecosystems,Open water bodies,
-2015,Sub-indicator 1: Spatial extent of water-related ecosystems,Open water bodies,
-2016,Sub-indicator 1: Spatial extent of water-related ecosystems,Open water bodies,
-2017,Sub-indicator 1: Spatial extent of water-related ecosystems,Open water bodies,0.5
-2010,Sub-indicator 3:  Quantity discharge of water in rivers,,3.4
-2011,Sub-indicator 3:  Quantity discharge of water in rivers,,-1.1
-2012,Sub-indicator 3:  Quantity discharge of water in rivers,,-1.8
-2013,Sub-indicator 3:  Quantity discharge of water in rivers,,3.0
-2014,Sub-indicator 3:  Quantity discharge of water in rivers,,-1.6
-2015,Sub-indicator 3:  Quantity discharge of water in rivers,,-4.7
-2016,Sub-indicator 3:  Quantity discharge of water in rivers,,0.7
-2017,Sub-indicator 3:  Quantity discharge of water in rivers,,-2.6
-2010,Sub-indicator 4: Water bodies with good quality,,
-2011,Sub-indicator 4: Water bodies with good quality,,
-2012,Sub-indicator 4: Water bodies with good quality,,
-2013,Sub-indicator 4: Water bodies with good quality,,
-2014,Sub-indicator 4: Water bodies with good quality,,38.99
-2015,Sub-indicator 4: Water bodies with good quality,,
-2016,Sub-indicator 4: Water bodies with good quality,,
-2017,Sub-indicator 4: Water bodies with good quality,,
-2010,Sub-indicator 4: Water bodies with good quality,River water bodies,
-2011,Sub-indicator 4: Water bodies with good quality,River water bodies,
-2012,Sub-indicator 4: Water bodies with good quality,River water bodies,
-2013,Sub-indicator 4: Water bodies with good quality,River water bodies,
-2014,Sub-indicator 4: Water bodies with good quality,River water bodies,35.08
-2015,Sub-indicator 4: Water bodies with good quality,River water bodies,
-2016,Sub-indicator 4: Water bodies with good quality,River water bodies,
-2017,Sub-indicator 4: Water bodies with good quality,River water bodies,
-2010,Sub-indicator 4: Water bodies with good quality,Open water bodies,
-2011,Sub-indicator 4: Water bodies with good quality,Open water bodies,
-2012,Sub-indicator 4: Water bodies with good quality,Open water bodies,
-2013,Sub-indicator 4: Water bodies with good quality,Open water bodies,
-2014,Sub-indicator 4: Water bodies with good quality,Open water bodies,72.41
-2015,Sub-indicator 4: Water bodies with good quality,Open water bodies,
-2016,Sub-indicator 4: Water bodies with good quality,Open water bodies,
-2017,Sub-indicator 4: Water bodies with good quality,Open water bodies,
+Year,Units,Time series,Value
+2015,km²,Lakes and Rivers permanent water area,5636.0
+2018,km²,Lakes and Rivers permanent water area,5666.0
+2015,Percentage,Lakes and rivers permanent water area as a proportion of total land area,0.016
+2018,Percentage,Lakes and rivers permanent water area as a proportion of total land area,0.016
+2015,km²,Wetlands area,1547.0
+2018,km²,Wetlands area,1558.0
+2015,Percentage,Wetlands area as a proportion of total land area,0.004
+2018,Percentage,Wetlands area as a proportion of total land area,0.004
+2018,Percentage,Lakes and Rivers permanent water area change (compared to 2015),0.537

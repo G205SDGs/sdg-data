@@ -15,24 +15,26 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "sub-indicator 1: spatial extent of water-related ecosystems",
-                "sub-indicator 3:  quantity discharge of water in rivers",
-                "sub-indicator 4: water bodies with good quality",
+                "km2",
+                "%",
                 ""
               ]
             }
           },
           {
-            "name": "type of water body",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "river water bodies",
-                "open water bodies",
+                "lakes and rivers permanent water area",
+                "lakes and rivers permanent water area as a proportion of total land area",
+                "wetlands area",
+                "wetlands area as a proportion of total land area",
+                "lakes and rivers permanent water area change",
                 ""
               ]
             }

@@ -10,6 +10,7 @@ Year,Units,timeseries,Value
 2018,%,annual growth rate of real gdp,1.1
 2019,%,annual growth rate of real gdp,1.1
 2020,%,annual growth rate of real gdp,-4.6
+2021,%,annual growth rate of real gdp,2.7
 2010,bn eur,available income of private households,1525.6
 2011,bn eur,available income of private households,1577.6
 2012,bn eur,available income of private households,1614.0
@@ -21,6 +22,7 @@ Year,Units,timeseries,Value
 2018,bn eur,available income of private households,1919.4
 2019,bn eur,available income of private households,1959.9
 2020,bn eur,available income of private households,1975.2
+2021,bn eur,available income of private households,2010.4
 2010,bn eur,consumption by private households,1372.9
 2011,bn eur,consumption by private households,1423.6
 2012,bn eur,consumption by private households,1465.9
@@ -32,6 +34,7 @@ Year,Units,timeseries,Value
 2018,bn eur,consumption by private households,1702.8
 2019,bn eur,consumption by private households,1753.1
 2020,bn eur,consumption by private households,1656.2
+2021,bn eur,consumption by private households,1707.4
 2010,bn eur,debt level of the total public budget,2011.7
 2011,bn eur,debt level of the total public budget,2025.4
 2012,bn eur,debt level of the total public budget,2068.3
@@ -43,6 +46,7 @@ Year,Units,timeseries,Value
 2018,bn eur,debt level of the total public budget,1915.8
 2019,bn eur,debt level of the total public budget,1899.1
 2020,bn eur,debt level of the total public budget,2172.9
+2021,bn eur,debt level of the total public budget,
 2010,bn eur,government fiscal balance,-112.3
 2011,bn eur,government fiscal balance,-23.7
 2012,bn eur,government fiscal balance,0.3
@@ -54,6 +58,7 @@ Year,Units,timeseries,Value
 2018,bn eur,government fiscal balance,64.4
 2019,bn eur,government fiscal balance,51.1
 2020,bn eur,government fiscal balance,-145.3
+2021,bn eur,government fiscal balance,-153.9
 2010,bn eur,gross fixed capital formation,501.1
 2011,bn eur,gross fixed capital formation,548.7
 2012,bn eur,gross fixed capital formation,557.9
@@ -65,6 +70,7 @@ Year,Units,timeseries,Value
 2018,bn eur,gross fixed capital formation,709.2
 2019,bn eur,gross fixed capital formation,742.2
 2020,bn eur,gross fixed capital formation,735.9
+2021,bn eur,gross fixed capital formation,782.9
 2010,mn h,hours worked by employees,49314.0
 2011,mn h,hours worked by employees,50102.0
 2012,mn h,hours worked by employees,50100.0
@@ -76,6 +82,7 @@ Year,Units,timeseries,Value
 2018,mn h,hours worked by employees,54030.0
 2019,mn h,hours worked by employees,54624.0
 2020,mn h,hours worked by employees,52479.0
+2021,mn h,hours worked by employees,53501.0
 2010,mn h,hours worked by persons employed,58524.0
 2011,mn h,hours worked by persons employed,59279.0
 2012,mn h,hours worked by persons employed,59162.0
@@ -87,6 +94,7 @@ Year,Units,timeseries,Value
 2018,mn h,hours worked by persons employed,62113.0
 2019,mn h,hours worked by persons employed,62539.0
 2020,mn h,hours worked by persons employed,59454.0
+2021,mn h,hours worked by persons employed,60600.0
 2010,2015 = 100,labour productivity per hour worked by employee,96.5
 2011,2015 = 100,labour productivity per hour worked by employee,98.7
 2012,2015 = 100,labour productivity per hour worked by employee,99.1
@@ -98,6 +106,7 @@ Year,Units,timeseries,Value
 2018,2015 = 100,labour productivity per hour worked by employee,101.6
 2019,2015 = 100,labour productivity per hour worked by employee,101.6
 2020,2015 = 100,labour productivity per hour worked by employee,100.9
+2021,2015 = 100,labour productivity per hour worked by employee,101.6
 2010,2015 = 100,labour productivity per hour worked by persons employed,94.9
 2011,2015 = 100,labour productivity per hour worked by persons employed,97.4
 2012,2015 = 100,labour productivity per hour worked by persons employed,98.0
@@ -109,6 +118,7 @@ Year,Units,timeseries,Value
 2018,2015 = 100,labour productivity per hour worked by persons employed,103.2
 2019,2015 = 100,labour productivity per hour worked by persons employed,103.6
 2020,2015 = 100,labour productivity per hour worked by persons employed,104.0
+2021,2015 = 100,labour productivity per hour worked by persons employed,104.8
 2010,1 000,persons employed,41048.0
 2011,1 000,persons employed,41544.0
 2012,1 000,persons employed,42019.0
@@ -120,6 +130,7 @@ Year,Units,timeseries,Value
 2018,1 000,persons employed,44858.0
 2019,1 000,persons employed,45268.0
 2020,1 000,persons employed,44898.0
+2021,1 000,persons employed,44905.0
 2010,2015 = 100,real gdp per capita,93.6
 2011,2015 = 100,real gdp per capita,97.3
 2012,2015 = 100,real gdp per capita,97.5
@@ -131,6 +142,7 @@ Year,Units,timeseries,Value
 2018,2015 = 100,real gdp per capita,104.6
 2019,2015 = 100,real gdp per capita,105.4
 2020,2015 = 100,real gdp per capita,100.5
+2021,2015 = 100,real gdp per capita,103.2
 2010,bn eur,trade balance,134.9
 2011,bn eur,trade balance,132.2
 2012,bn eur,trade balance,167.5
@@ -142,3 +154,4 @@ Year,Units,timeseries,Value
 2018,bn eur,trade balance,207.7
 2019,bn eur,trade balance,196.2
 2020,bn eur,trade balance,192.8
+2021,bn eur,trade balance,204.3

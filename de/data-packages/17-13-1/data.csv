@@ -10,6 +10,7 @@ Year,Units,Zeitreihe,Value
 2018,Prozent,Jährliche Wachstumsrate des realen BIP,1.1
 2019,Prozent,Jährliche Wachstumsrate des realen BIP,1.1
 2020,Prozent,Jährliche Wachstumsrate des realen BIP,-4.6
+2021,Prozent,Jährliche Wachstumsrate des realen BIP,2.7
 2010,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1525.6
 2011,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1577.6
 2012,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1614.0
@@ -21,6 +22,7 @@ Year,Units,Zeitreihe,Value
 2018,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1919.4
 2019,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1959.9
 2020,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1975.2
+2021,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2010.4
 2010,Milliarden EUR,Konsum privater Haushalte,1372.9
 2011,Milliarden EUR,Konsum privater Haushalte,1423.6
 2012,Milliarden EUR,Konsum privater Haushalte,1465.9
@@ -32,6 +34,7 @@ Year,Units,Zeitreihe,Value
 2018,Milliarden EUR,Konsum privater Haushalte,1702.8
 2019,Milliarden EUR,Konsum privater Haushalte,1753.1
 2020,Milliarden EUR,Konsum privater Haushalte,1656.2
+2021,Milliarden EUR,Konsum privater Haushalte,1707.4
 2010,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2011.7
 2011,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2025.4
 2012,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2068.3
@@ -43,6 +46,7 @@ Year,Units,Zeitreihe,Value
 2018,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,1915.8
 2019,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,1899.1
 2020,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2172.9
+2021,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,
 2010,Milliarden EUR,Finanzierungssaldo des Staates,-112.3
 2011,Milliarden EUR,Finanzierungssaldo des Staates,-23.7
 2012,Milliarden EUR,Finanzierungssaldo des Staates,0.3
@@ -54,6 +58,7 @@ Year,Units,Zeitreihe,Value
 2018,Milliarden EUR,Finanzierungssaldo des Staates,64.4
 2019,Milliarden EUR,Finanzierungssaldo des Staates,51.1
 2020,Milliarden EUR,Finanzierungssaldo des Staates,-145.3
+2021,Milliarden EUR,Finanzierungssaldo des Staates,-153.9
 2010,Milliarden EUR,Bruttoanlageinvestitionen,501.1
 2011,Milliarden EUR,Bruttoanlageinvestitionen,548.7
 2012,Milliarden EUR,Bruttoanlageinvestitionen,557.9
@@ -65,6 +70,7 @@ Year,Units,Zeitreihe,Value
 2018,Milliarden EUR,Bruttoanlageinvestitionen,709.2
 2019,Milliarden EUR,Bruttoanlageinvestitionen,742.2
 2020,Milliarden EUR,Bruttoanlageinvestitionen,735.9
+2021,Milliarden EUR,Bruttoanlageinvestitionen,782.9
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,49314.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,50102.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,50100.0
@@ -76,6 +82,7 @@ Year,Units,Zeitreihe,Value
 2018,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54030.0
 2019,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54624.0
 2020,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,52479.0
+2021,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,53501.0
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,58524.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59279.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59162.0
@@ -87,6 +94,7 @@ Year,Units,Zeitreihe,Value
 2018,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,62113.0
 2019,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,62539.0
 2020,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59454.0
+2021,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,60600.0
 2010,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,96.5
 2011,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,98.7
 2012,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,99.1
@@ -98,6 +106,7 @@ Year,Units,Zeitreihe,Value
 2018,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,101.6
 2019,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,101.6
 2020,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,100.9
+2021,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,101.6
 2010,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,94.9
 2011,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,97.4
 2012,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,98.0
@@ -109,6 +118,7 @@ Year,Units,Zeitreihe,Value
 2018,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,103.2
 2019,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,103.6
 2020,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,104.0
+2021,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,104.8
 2010,1 000,Erwerbstätige,41048.0
 2011,1 000,Erwerbstätige,41544.0
 2012,1 000,Erwerbstätige,42019.0
@@ -120,6 +130,7 @@ Year,Units,Zeitreihe,Value
 2018,1 000,Erwerbstätige,44858.0
 2019,1 000,Erwerbstätige,45268.0
 2020,1 000,Erwerbstätige,44898.0
+2021,1 000,Erwerbstätige,44905.0
 2010,2015 = 100,Reales BIP pro Kopf,93.6
 2011,2015 = 100,Reales BIP pro Kopf,97.3
 2012,2015 = 100,Reales BIP pro Kopf,97.5
@@ -131,6 +142,7 @@ Year,Units,Zeitreihe,Value
 2018,2015 = 100,Reales BIP pro Kopf,104.6
 2019,2015 = 100,Reales BIP pro Kopf,105.4
 2020,2015 = 100,Reales BIP pro Kopf,100.5
+2021,2015 = 100,Reales BIP pro Kopf,103.2
 2010,Milliarden EUR,Außenbeitrag,134.9
 2011,Milliarden EUR,Außenbeitrag,132.2
 2012,Milliarden EUR,Außenbeitrag,167.5
@@ -142,3 +154,4 @@ Year,Units,Zeitreihe,Value
 2018,Milliarden EUR,Außenbeitrag,207.7
 2019,Milliarden EUR,Außenbeitrag,196.2
 2020,Milliarden EUR,Außenbeitrag,192.8
+2021,Milliarden EUR,Außenbeitrag,204.3

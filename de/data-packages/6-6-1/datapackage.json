@@ -16,29 +16,31 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "km²",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Subindikator 1: Fläche der wasserbezogenen Ökosysteme",
-                "Subindikator 3: Wasserabfluss über Flüsse",
-                "Subindikator 4: Gewässer mit guter Wasserqualität",
+                "Permanente Wasserfläche der Seen und Flüsse",
+                "Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche",
+                "Feuchtgebiete",
+                "Feuchtgebiete im Verhältnis zur gesamten Landfläche",
+                "Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)",
                 ""
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "type of water body",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fließgewässer",
-                "Seen und Talsperren",
-                ""
-              ]
-            },
-            "title": "Art des Gewässers"
           },
           {
             "name": "Value",
