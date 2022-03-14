@@ -1307,6 +1307,7 @@
                 "Leishmaniose",
                 "Tollwut",
                 "Frambösie",
+                "Drakunkulose",
                 ""
               ]
             },
@@ -1396,12 +1397,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -1861,12 +1882,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4900,7 +4941,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der sich in seiner Wohnumgebung allein sicher fühlt"
+      "title": "Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung alleine sicher fühlt"
     },
     {
       "path": "11-2-1/data.csv",
@@ -5765,11 +5806,23 @@
                 "DTP-Impfquote zum Schuleintritt",
                 "Masern-Impfquote zum Schuleintritt",
                 "Pneumokokken-Impfquote zum Schuleintritt",
-                "HPV-Impfquote bei 15-jährigen Mädchen",
+                "HPV-Impfquoten bei 15-jährigen Mädchen und Jungen",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -6434,7 +6487,7 @@
               "enum": [
                 "Eigene und gepachtete landwirtschaftlich genutzte Flächen",
                 "Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen",
-                "Betriebe der Rechtsform Einzelunternehmen",
+                "Landwirtschaftliche Betriebe der Rechtsform Einzelunternehmen",
                 ""
               ]
             },
@@ -8643,24 +8696,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]

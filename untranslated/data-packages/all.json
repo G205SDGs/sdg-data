@@ -1202,6 +1202,7 @@
                 "leishmaniases",
                 "rabies",
                 "yaws",
+                "dracunculiasis",
                 ""
               ]
             }
@@ -1284,11 +1285,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -1710,11 +1729,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -4497,7 +4534,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der sich in seiner Wohnumgebung allein sicher fühlt"
+      "title": "Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung alleine sicher fühlt"
     },
     {
       "path": "11-2-1/data.csv",
@@ -5294,6 +5331,17 @@
                 "measles vaccination rate at sschool entrance",
                 "pneumococcal vaccination rate at school entrance",
                 "hpv vaccination rate among 15 years old girls",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -7937,22 +7985,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },

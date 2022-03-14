@@ -23,11 +23,23 @@
                 "DTP vaccination coverage at school entry",
                 "Measles vaccination coverage at school entry",
                 "Pneumococcal vaccination coverage at school entry",
-                "HPV vaccination coverage among 15 year-old girls",
+                "HPV vaccination coverages among 15 years old girls and boys",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

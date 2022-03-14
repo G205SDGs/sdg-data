@@ -23,11 +23,23 @@
                 "DTP-Impfquote zum Schuleintritt",
                 "Masern-Impfquote zum Schuleintritt",
                 "Pneumokokken-Impfquote zum Schuleintritt",
-                "HPV-Impfquote bei 15-jährigen Mädchen",
+                "HPV-Impfquoten bei 15-jährigen Mädchen und Jungen",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
