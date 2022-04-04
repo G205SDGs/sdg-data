@@ -50,121 +50,6 @@
             "type": "integer"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                "divers",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 to under 20 years",
-                "20 to under 25 years",
-                "25 to under 30 years",
-                "30 to under 35 years",
-                "35 to under 40 years",
-                "40 to under 45 years",
-                "45 to under 50 years",
-                "50 to under 55 years",
-                "55 to under 60 years",
-                "60 to under 65 years",
-                "65 years and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "migratory status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "no migrant background",
-                "migrant background",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "income quintile",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "poorest",
-                "second",
-                "middle",
-                "fourth",
-                "richest",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural areas",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "education level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "primary school completed",
-                "lower secondary school completed",
-                "upper secondary school completed and post-secondary non-tertiary education",
-                "bachelor/equivalent degree completed and masters/equivalent degree or above",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "country of origin",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "germany",
-                "other country within eu",
-                "other country outside eu",
-                "multiple citizenships",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "marital status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "never married",
-                "married",
-                "cohabiting",
-                "separated",
-                "divorced",
-                "widowed",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -1349,6 +1234,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "16 to under 75 years",
                 "16 to under 25 years",
                 "25 to under 65 years",
                 ""
@@ -2298,19 +2184,8 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -5125,7 +5000,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -5528,10 +5403,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "area 4 marriage and family",
-                "area 3 employment and economic benefits",
-                "area 2 violence against women",
                 "area 1 overarching legal frameworks and public life",
+                "area 2 violence against women",
+                "area 3 employment and economic benefits",
+                "area 4 marriage and family",
                 ""
               ]
             }
@@ -6492,6 +6367,17 @@
             "type": "integer"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "seats held by women in national parliament",
+                "proportion of women in local governments",
+                ""
+              ]
+            }
+          },
+          {
             "name": "region",
             "type": "string",
             "constraints": {
@@ -6622,7 +6508,7 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8486,121 +8372,6 @@
             "type": "integer"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                "divers",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 to under 20 years",
-                "20 to under 25 years",
-                "25 to under 30 years",
-                "30 to under 35 years",
-                "35 to under 40 years",
-                "40 to under 45 years",
-                "45 to under 50 years",
-                "50 to under 55 years",
-                "55 to under 60 years",
-                "60 to under 65 years",
-                "65 years and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "migratory status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "no migrant background",
-                "migrant background",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "income quintile",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "poorest",
-                "second",
-                "middle",
-                "fourth",
-                "richest",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural areas",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "education level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "primary school completed",
-                "lower secondary school completed",
-                "upper secondary school completed and post-secondary non-tertiary education",
-                "bachelor/equivalent degree completed and masters/equivalent degree or above",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "country of origin",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "germany",
-                "other country within eu",
-                "other country outside eu",
-                "multiple citizenships",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "marital status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "never married",
-                "married",
-                "cohabiting",
-                "separated",
-                "divorced",
-                "widowed",
-                "not classified",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -8972,17 +8743,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "passenger transports",
-                "freight transports",
-                ""
-              ]
-            }
-          },
-          {
             "name": "mode of transport",
             "type": "string",
             "constraints": {
@@ -8993,6 +8753,17 @@
                 "motorised private transport",
                 "inland waterway transport",
                 "transport via pipeline crude oil",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "passenger transports",
+                "freight transports",
                 ""
               ]
             }

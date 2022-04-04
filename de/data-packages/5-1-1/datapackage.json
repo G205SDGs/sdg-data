@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Area 4: Ehe und Familie",
-                "Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen",
-                "Area 2: Gewalt gegen Frauen",
                 "Area 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben",
+                "Area 2: Gewalt gegen Frauen",
+                "Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen",
+                "Area 4: Ehe und Familie",
                 ""
               ]
             },

@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "seats held by women in national parliament",
+                "proportion of women in local governments",
+                ""
+              ]
+            }
+          },
+          {
             "name": "region",
             "type": "string",
             "constraints": {

@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "passenger transports",
-                "freight transports",
-                ""
-              ]
-            }
-          },
-          {
             "name": "mode of transport",
             "type": "string",
             "constraints": {
@@ -47,6 +36,17 @@
                 "motorised private transport",
                 "inland waterway transport",
                 "transport via pipeline crude oil",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "passenger transports",
+                "freight transports",
                 ""
               ]
             }

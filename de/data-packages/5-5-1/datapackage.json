@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauenanteil in Parlamenten",
+                "Frauenanteil in Gemeinden",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "region",
             "type": "string",
             "constraints": {

@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women in parliaments",
+                "Proportion of women in local governments",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "region",
             "type": "string",
             "constraints": {

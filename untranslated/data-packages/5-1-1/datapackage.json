@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "area 4 marriage and family",
-                "area 3 employment and economic benefits",
-                "area 2 violence against women",
                 "area 1 overarching legal frameworks and public life",
+                "area 2 violence against women",
+                "area 3 employment and economic benefits",
+                "area 4 marriage and family",
                 ""
               ]
             }

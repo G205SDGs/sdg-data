@@ -57,7 +57,7 @@ Year,timeseries,type of disease,Value
 2017,inpatient treatment of neglected tropical diseases,,899.0
 2018,inpatient treatment of neglected tropical diseases,,764.0
 2019,inpatient treatment of neglected tropical diseases,,981.0
-2020,inpatient treatment of neglected tropical diseases,,
+2020,inpatient treatment of neglected tropical diseases,,628.0
 2021,inpatient treatment of neglected tropical diseases,,
 2010,inpatient treatment of neglected tropical diseases,buruli ulcer,30.0
 2011,inpatient treatment of neglected tropical diseases,buruli ulcer,20.0
@@ -69,7 +69,7 @@ Year,timeseries,type of disease,Value
 2017,inpatient treatment of neglected tropical diseases,buruli ulcer,22.0
 2018,inpatient treatment of neglected tropical diseases,buruli ulcer,18.0
 2019,inpatient treatment of neglected tropical diseases,buruli ulcer,22.0
-2020,inpatient treatment of neglected tropical diseases,buruli ulcer,
+2020,inpatient treatment of neglected tropical diseases,buruli ulcer,28.0
 2021,inpatient treatment of neglected tropical diseases,buruli ulcer,
 2010,inpatient treatment of neglected tropical diseases,echinococcosis,323.0
 2011,inpatient treatment of neglected tropical diseases,echinococcosis,373.0
@@ -81,7 +81,7 @@ Year,timeseries,type of disease,Value
 2017,inpatient treatment of neglected tropical diseases,echinococcosis,531.0
 2018,inpatient treatment of neglected tropical diseases,echinococcosis,494.0
 2019,inpatient treatment of neglected tropical diseases,echinococcosis,529.0
-2020,inpatient treatment of neglected tropical diseases,echinococcosis,
+2020,inpatient treatment of neglected tropical diseases,echinococcosis,498.0
 2021,inpatient treatment of neglected tropical diseases,echinococcosis,
 2010,inpatient treatment of neglected tropical diseases,human african trypanosomiasis,1.0
 2011,inpatient treatment of neglected tropical diseases,human african trypanosomiasis,0.0
@@ -93,7 +93,7 @@ Year,timeseries,type of disease,Value
 2017,inpatient treatment of neglected tropical diseases,human african trypanosomiasis,2.0
 2018,inpatient treatment of neglected tropical diseases,human african trypanosomiasis,1.0
 2019,inpatient treatment of neglected tropical diseases,human african trypanosomiasis,3.0
-2020,inpatient treatment of neglected tropical diseases,human african trypanosomiasis,
+2020,inpatient treatment of neglected tropical diseases,human african trypanosomiasis,1.0
 2021,inpatient treatment of neglected tropical diseases,human african trypanosomiasis,
 2010,inpatient treatment of neglected tropical diseases,leprosy,4.0
 2011,inpatient treatment of neglected tropical diseases,leprosy,7.0
@@ -105,7 +105,7 @@ Year,timeseries,type of disease,Value
 2017,inpatient treatment of neglected tropical diseases,leprosy,3.0
 2018,inpatient treatment of neglected tropical diseases,leprosy,2.0
 2019,inpatient treatment of neglected tropical diseases,leprosy,7.0
-2020,inpatient treatment of neglected tropical diseases,leprosy,
+2020,inpatient treatment of neglected tropical diseases,leprosy,2.0
 2021,inpatient treatment of neglected tropical diseases,leprosy,
 2010,inpatient treatment of neglected tropical diseases,leishmaniases,42.0
 2011,inpatient treatment of neglected tropical diseases,leishmaniases,25.0
@@ -117,7 +117,7 @@ Year,timeseries,type of disease,Value
 2017,inpatient treatment of neglected tropical diseases,leishmaniases,123.0
 2018,inpatient treatment of neglected tropical diseases,leishmaniases,70.0
 2019,inpatient treatment of neglected tropical diseases,leishmaniases,64.0
-2020,inpatient treatment of neglected tropical diseases,leishmaniases,
+2020,inpatient treatment of neglected tropical diseases,leishmaniases,49.0
 2021,inpatient treatment of neglected tropical diseases,leishmaniases,
 2010,inpatient treatment of neglected tropical diseases,rabies,4.0
 2011,inpatient treatment of neglected tropical diseases,rabies,0.0
@@ -129,7 +129,7 @@ Year,timeseries,type of disease,Value
 2017,inpatient treatment of neglected tropical diseases,rabies,0.0
 2018,inpatient treatment of neglected tropical diseases,rabies,3.0
 2019,inpatient treatment of neglected tropical diseases,rabies,2.0
-2020,inpatient treatment of neglected tropical diseases,rabies,
+2020,inpatient treatment of neglected tropical diseases,rabies,0.0
 2021,inpatient treatment of neglected tropical diseases,rabies,
 2010,inpatient treatment of neglected tropical diseases,yaws,2.0
 2011,inpatient treatment of neglected tropical diseases,yaws,3.0
@@ -141,7 +141,7 @@ Year,timeseries,type of disease,Value
 2017,inpatient treatment of neglected tropical diseases,yaws,1.0
 2018,inpatient treatment of neglected tropical diseases,yaws,2.0
 2019,inpatient treatment of neglected tropical diseases,yaws,0.0
-2020,inpatient treatment of neglected tropical diseases,yaws,
+2020,inpatient treatment of neglected tropical diseases,yaws,0.0
 2021,inpatient treatment of neglected tropical diseases,yaws,
 2010,inpatient treatment of neglected tropical diseases,dengue,0.0
 2011,inpatient treatment of neglected tropical diseases,dengue,0.0
@@ -153,7 +153,7 @@ Year,timeseries,type of disease,Value
 2017,inpatient treatment of neglected tropical diseases,dengue,217.0
 2018,inpatient treatment of neglected tropical diseases,dengue,174.0
 2019,inpatient treatment of neglected tropical diseases,dengue,354.0
-2020,inpatient treatment of neglected tropical diseases,dengue,
+2020,inpatient treatment of neglected tropical diseases,dengue,50.0
 2021,inpatient treatment of neglected tropical diseases,dengue,
 2010,inpatient treatment of neglected tropical diseases,dracunculiasis,0.0
 2011,inpatient treatment of neglected tropical diseases,dracunculiasis,0.0
@@ -165,7 +165,7 @@ Year,timeseries,type of disease,Value
 2017,inpatient treatment of neglected tropical diseases,dracunculiasis,0.0
 2018,inpatient treatment of neglected tropical diseases,dracunculiasis,0.0
 2019,inpatient treatment of neglected tropical diseases,dracunculiasis,0.0
-2020,inpatient treatment of neglected tropical diseases,dracunculiasis,
+2020,inpatient treatment of neglected tropical diseases,dracunculiasis,0.0
 2021,inpatient treatment of neglected tropical diseases,dracunculiasis,
 2010,people requiring interventions against neglected tropical diseases,rabies,0.0
 2011,people requiring interventions against neglected tropical diseases,rabies,0.0

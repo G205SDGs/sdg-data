@@ -10,6 +10,7 @@ Year,Zeitreihe,Value
 2018,Eigenkapitalquote,6.47
 2019,Eigenkapitalquote,6.31
 2020,Eigenkapitalquote,5.93
+2021,Eigenkapitalquote,5.94
 2010,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,11.83
 2011,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,12.14
 2012,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,14.18
@@ -21,6 +22,7 @@ Year,Zeitreihe,Value
 2018,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,16.62
 2019,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,16.54
 2020,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,17.15
+2021,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,16.77
 2010,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,34.22
 2011,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,31.63
 2012,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,27.41
@@ -32,6 +34,7 @@ Year,Zeitreihe,Value
 2018,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,9.06
 2019,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,6.78
 2020,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,
+2021,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,
 2010,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,3.2
 2011,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,3.03
 2012,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,2.86
@@ -43,6 +46,7 @@ Year,Zeitreihe,Value
 2018,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.24
 2019,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.05
 2020,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,
+2021,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,
 2010,Gesamtkapitalrentabilität,0.37
 2011,Gesamtkapitalrentabilität,0.53
 2012,Gesamtkapitalrentabilität,0.45
@@ -53,7 +57,8 @@ Year,Zeitreihe,Value
 2017,Gesamtkapitalrentabilität,0.37
 2018,Gesamtkapitalrentabilität,0.32
 2019,Gesamtkapitalrentabilität,0.26
-2020,Gesamtkapitalrentabilität,
+2020,Gesamtkapitalrentabilität,0.22
+2021,Gesamtkapitalrentabilität,
 2010,Verbindlichkeiten,136.99
 2011,Verbindlichkeiten,137.86
 2012,Verbindlichkeiten,144.17
@@ -65,6 +70,7 @@ Year,Zeitreihe,Value
 2018,Verbindlichkeiten,151.7
 2019,Verbindlichkeiten,161.25
 2020,Verbindlichkeiten,169.64
+2021,Verbindlichkeiten,170.88
 2010,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,4.4
 2011,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,4.48
 2012,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,3.93
@@ -76,3 +82,4 @@ Year,Zeitreihe,Value
 2018,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,3.19
 2019,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,3.72
 2020,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,3.4
+2021,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,4.35

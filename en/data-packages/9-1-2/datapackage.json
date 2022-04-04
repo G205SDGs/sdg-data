@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Passenger transport",
-                "Freight transport",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "mode of transport",
             "type": "string",
             "constraints": {
@@ -54,6 +42,18 @@
               ]
             },
             "title": "Mode of transport"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Passenger transport",
+                "Freight transport",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

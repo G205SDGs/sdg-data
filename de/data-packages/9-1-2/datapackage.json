@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Personenverkehr",
-                "Güterverkehr",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "mode of transport",
             "type": "string",
             "constraints": {
@@ -54,6 +42,18 @@
               ]
             },
             "title": "Verkehrsträger"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personenverkehr",
+                "Güterverkehr",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
