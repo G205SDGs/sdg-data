@@ -15,12 +15,23 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mn usd, constant prices (2019)",
+                "mn usd, constant prices (2020)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (gross disbursements) for poverty reduction",
                 "oda (commitments) for poverty reduction",
+                "oda (gross disbursements) for poverty reduction",
                 ""
               ]
             }

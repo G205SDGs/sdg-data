@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "mobile penetration rate",
-                "private households with at least one mobile phone (%)",
+                "private households with at least one mobile phone",
                 ""
               ]
             }

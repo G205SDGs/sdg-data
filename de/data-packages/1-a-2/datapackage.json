@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Staatsausgaben für Bildung",
                 "Staatsausgaben für Gesundheit",
+                "Staatsausgaben für Bildung",
                 "Staatsausgaben für soziale Sicherung",
                 ""
               ]

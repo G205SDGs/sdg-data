@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population using safely managed drinking water services (%)",
-                "population connected to the public water supply system (%)",
+                "population using safely managed drinking water services",
+                "population connected to the public water supply system",
                 ""
               ]
             }

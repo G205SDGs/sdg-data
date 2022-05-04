@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) hazardous waste generated per capita",
-                "b) hazardous waste treated",
+                "hazardous waste generated per capita",
+                "hazardous waste treated",
                 ""
               ]
             }

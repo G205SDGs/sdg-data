@@ -45,8 +45,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "passenger transports",
-                "freight transports",
+                "passenger transport",
+                "freight transport",
                 ""
               ]
             }

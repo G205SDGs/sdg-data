@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "key biodiversity areas (kbas) covered by protected areas (%)",
-                "protected terrestrial areas (%)",
+                "terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas",
+                "terrestrial and freshwater areas covered by protected areas",
                 ""
               ]
             }

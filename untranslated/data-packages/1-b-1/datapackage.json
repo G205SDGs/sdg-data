@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "at-risk-of-poverty rate (according to eurostat definition) (%)",
-                "c) government expenditure on social protection (cofog division 10) (%)",
+                "at-risk-of-poverty rate",
+                "government expenditure on social protection",
                 ""
               ]
             }

@@ -10,6 +10,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,13 Jahre und jünger,,18
 2019,13 Jahre und jünger,,15
 2020,13 Jahre und jünger,,31
+2021,13 Jahre und jünger,,36
 2010,13 Jahre und jünger,Weiblich,2
 2011,13 Jahre und jünger,Weiblich,13
 2012,13 Jahre und jünger,Weiblich,11
@@ -21,6 +22,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,13 Jahre und jünger,Weiblich,9
 2019,13 Jahre und jünger,Weiblich,9
 2020,13 Jahre und jünger,Weiblich,10
+2021,13 Jahre und jünger,Weiblich,17
 2010,13 Jahre und jünger,Männlich,9
 2011,13 Jahre und jünger,Männlich,16
 2012,13 Jahre und jünger,Männlich,8
@@ -32,6 +34,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,13 Jahre und jünger,Männlich,9
 2019,13 Jahre und jünger,Männlich,6
 2020,13 Jahre und jünger,Männlich,21
+2021,13 Jahre und jünger,Männlich,19
 2010,14 bis unter 18 Jahre,,108
 2011,14 bis unter 18 Jahre,,95
 2012,14 bis unter 18 Jahre,,96
@@ -43,6 +46,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,14 bis unter 18 Jahre,,112
 2019,14 bis unter 18 Jahre,,89
 2020,14 bis unter 18 Jahre,,86
+2021,14 bis unter 18 Jahre,,82
 2010,14 bis unter 18 Jahre,Weiblich,97
 2011,14 bis unter 18 Jahre,Weiblich,82
 2012,14 bis unter 18 Jahre,Weiblich,88
@@ -54,6 +58,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,14 bis unter 18 Jahre,Weiblich,96
 2019,14 bis unter 18 Jahre,Weiblich,74
 2020,14 bis unter 18 Jahre,Weiblich,62
+2021,14 bis unter 18 Jahre,Weiblich,64
 2010,14 bis unter 18 Jahre,Männlich,11
 2011,14 bis unter 18 Jahre,Männlich,13
 2012,14 bis unter 18 Jahre,Männlich,8
@@ -65,6 +70,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,14 bis unter 18 Jahre,Männlich,16
 2019,14 bis unter 18 Jahre,Männlich,15
 2020,14 bis unter 18 Jahre,Männlich,24
+2021,14 bis unter 18 Jahre,Männlich,18
 2010,,,119
 2011,,,124
 2012,,,115
@@ -76,6 +82,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,,,130
 2019,,,104
 2020,,,117
+2021,,,118
 2010,,Weiblich,99
 2011,,Weiblich,95
 2012,,Weiblich,99
@@ -87,6 +94,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,,Weiblich,105
 2019,,Weiblich,83
 2020,,Weiblich,72
+2021,,Weiblich,81
 2010,,Männlich,20
 2011,,Männlich,29
 2012,,Männlich,16
@@ -98,3 +106,4 @@ Year,Altersklasse,Geschlecht,Value
 2018,,Männlich,25
 2019,,Männlich,21
 2020,,Männlich,45
+2021,,Männlich,37

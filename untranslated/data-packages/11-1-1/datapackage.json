@@ -20,11 +20,11 @@
             "constraints": {
               "enum": [
                 "overcrowding rate",
-                "rate of overburdening by housing costs",
-                "population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor",
-                "population that has neither a bath, nor a shower in their home",
-                "population that does not have a toilet for the sole use of their household",
-                "population that considers their accommodation too dark",
+                "housing cost overburden rate",
+                "population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+                "population having neither a bath, nor a shower in their dwelling",
+                "population not having indoor flushing toilet for the sole use of their household",
+                "population considering their dwelling as too dark",
                 ""
               ]
             }

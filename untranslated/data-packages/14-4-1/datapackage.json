@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fish stocks within biologically sustainable levels (%)",
-                "proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks",
+                "proportion of sustainable managed stocks in all msy examined stocks",
+                "proportion of msy examined in all managed stocks",
                 ""
               ]
             }

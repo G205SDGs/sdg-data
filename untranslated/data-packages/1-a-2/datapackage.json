@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) government expenditure on education (cofog division 9) (%)",
-                "a) government expenditure on health (cofog division 7) (%)",
-                "c) government expenditure on social protection (cofog division 10) (%)",
+                "government expenditure on health",
+                "government expenditure on education",
+                "government expenditure on social protection",
                 ""
               ]
             }

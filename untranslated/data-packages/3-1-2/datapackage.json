@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "child deliveries in hospitals",
-                "live births total",
+                "live births in total",
                 ""
               ]
             }

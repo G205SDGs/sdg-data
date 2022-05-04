@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "goverment expenditure on protection of biodiversity and landscape (cofog division 5.4) (bn eur)",
-                "goverment expenditure on cultural services (cofog division 8.2) (bn eur)",
+                "government expenditure on protection of biodiversity and landscape (cofog division 5.4)",
+                "government expenditure on cultural services (cofog division 8.2)",
                 ""
               ]
             }

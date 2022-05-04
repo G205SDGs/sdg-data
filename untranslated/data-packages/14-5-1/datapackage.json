@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "marine key biodiversity areas (kbas) covered by protected areas (%)",
-                "protected marine area (%)",
+                "marine key biodiversity areas (kbas) covered by protected areas",
+                "marine areas covered by protected areas",
                 ""
               ]
             }

@@ -1,21 +1,23 @@
-Year,Time series,Value
-2010,ODA (gross disbursements) for poverty reduction,1008.8
-2011,ODA (gross disbursements) for poverty reduction,1026.6
-2012,ODA (gross disbursements) for poverty reduction,1031.0
-2013,ODA (gross disbursements) for poverty reduction,1027.1
-2014,ODA (gross disbursements) for poverty reduction,1332.1
-2015,ODA (gross disbursements) for poverty reduction,1551.7
-2016,ODA (gross disbursements) for poverty reduction,1953.4
-2017,ODA (gross disbursements) for poverty reduction,1898.6
-2018,ODA (gross disbursements) for poverty reduction,1923.2
-2019,ODA (gross disbursements) for poverty reduction,2087.4
-2010,ODA (commitments) for poverty reduction,1090.8
-2011,ODA (commitments) for poverty reduction,1330.6
-2012,ODA (commitments) for poverty reduction,1936.3
-2013,ODA (commitments) for poverty reduction,1633.6
-2014,ODA (commitments) for poverty reduction,1574.0
-2015,ODA (commitments) for poverty reduction,1809.6
-2016,ODA (commitments) for poverty reduction,1976.7
-2017,ODA (commitments) for poverty reduction,2439.3
-2018,ODA (commitments) for poverty reduction,2686.4
-2019,ODA (commitments) for poverty reduction,2799.4
+Year,Units,Time series,Value
+2010,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,1131.6
+2011,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,1380.4
+2012,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,2008.7
+2013,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,1694.8
+2014,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,1632.9
+2015,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,1877.3
+2016,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,2050.7
+2017,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,2526.8
+2018,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,2774.5
+2019,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,2895.0
+2020,"Million USD, constant prices (2019)",ODA (commitments) for poverty reduction,3937.4
+2010,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,1046.6
+2011,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,1065.0
+2012,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,1069.6
+2013,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,1065.5
+2014,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,1381.9
+2015,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,1609.8
+2016,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,2026.5
+2017,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,1966.7
+2018,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,1986.3
+2019,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,2158.7
+2020,"Million USD, constant prices (2020)",ODA (gross disbursements) for poverty reduction,3635.1

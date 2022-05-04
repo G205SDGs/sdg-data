@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) oda (commitments) for biodiversity",
-                "b) oda (disbursements) for biodiversity",
-                "c) oda (gross disbursements) to the forestry sector",
+                "oda (commitments) for biodiversity",
+                "oda (gross disbursements) for biodiversity",
+                "oda (gross disbursements) to the forestry sector",
                 ""
               ]
             }

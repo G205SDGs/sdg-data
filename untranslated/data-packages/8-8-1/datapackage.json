@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fatal occupational accidents (per 100 000 employees)",
-                "non-fatal occupational accidents (per 100 000 employees)",
+                "fatal occupational accidents",
+                "non-fatal occupational accidents",
                 ""
               ]
             }

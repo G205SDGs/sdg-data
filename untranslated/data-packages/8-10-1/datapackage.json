@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) branches of payment service providers (per 100 000 adults)",
-                "b) atms of national payment service providers (per 100 000 adults)",
+                "branches of payment service providers",
+                "atms of national payment service providers",
                 ""
               ]
             }

@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "key biodiversity areas (kbas) covered by protected areas",
+                "mountain key biodiversity areas (kbas) covered by protected areas",
                 "mountain regions, covered by protected areas",
                 ""
               ]

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Keine Einheit",
+                "ja=1, nein=0",
                 "Anzahl",
                 ""
               ]

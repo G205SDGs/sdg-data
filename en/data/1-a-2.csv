@@ -1,16 +1,4 @@
 Year,Time series,Value
-2010,Government expenditure on education,9.1
-2011,Government expenditure on education,9.49
-2012,Government expenditure on education,9.5
-2013,Government expenditure on education,9.69
-2014,Government expenditure on education,9.73
-2015,Government expenditure on education,9.62
-2016,Government expenditure on education,9.46
-2017,Government expenditure on education,9.47
-2018,Government expenditure on education,9.62
-2019,Government expenditure on education,9.64
-2020,Government expenditure on education,9.17
-2021,Government expenditure on education,8.85
 2010,Government expenditure on health,14.55
 2011,Government expenditure on health,15.08
 2012,Government expenditure on health,15.26
@@ -23,6 +11,18 @@ Year,Time series,Value
 2019,Government expenditure on health,16.23
 2020,Government expenditure on health,16.74
 2021,Government expenditure on health,16.95
+2010,Government expenditure on education,9.1
+2011,Government expenditure on education,9.49
+2012,Government expenditure on education,9.5
+2013,Government expenditure on education,9.69
+2014,Government expenditure on education,9.73
+2015,Government expenditure on education,9.62
+2016,Government expenditure on education,9.46
+2017,Government expenditure on education,9.47
+2018,Government expenditure on education,9.62
+2019,Government expenditure on education,9.64
+2020,Government expenditure on education,9.17
+2021,Government expenditure on education,8.85
 2010,Government expenditure on social protection,41.67
 2011,Government expenditure on social protection,41.73
 2012,Government expenditure on social protection,42.08

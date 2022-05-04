@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Government expenditure on education",
                 "Government expenditure on health",
+                "Government expenditure on education",
                 "Government expenditure on social protection",
                 ""
               ]

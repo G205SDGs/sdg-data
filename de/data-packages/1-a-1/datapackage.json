@@ -16,12 +16,24 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millionen USD, konstante Preise (2019)",
+                "Millionen USD, konstante Preise (2020)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut",
                 "Zusagen (ODA) zur Minderung der Armut",
+                "Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut",
                 ""
               ]
             },

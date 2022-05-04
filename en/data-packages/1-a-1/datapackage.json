@@ -16,12 +16,24 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million USD, constant prices (2019)",
+                "Million USD, constant prices (2020)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) for poverty reduction",
                 "ODA (commitments) for poverty reduction",
+                "ODA (gross disbursements) for poverty reduction",
                 ""
               ]
             },

@@ -1,6 +1,6 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-2-1,"age, sex",2
-#1-2-2,"timeseries, age, sex",3
+#1-2-2,"age, sex, timeseries",3
 #1-3-1,timeseries,1
 #1-a-1,timeseries,1
 #1-a-2,timeseries,1
@@ -11,13 +11,12 @@ Indicator,Disaggregations,Number of disaggregations
 #10-7-2,domain,1
 #10-7-4,country of origin,1
 #10-b-1,type of flow,1
-#11-1-1,"timeseries, sex, urbanisation",3
-#11-2-1,"timeseries, age, sex, region, disability",5
+#11-1-1,"sex, timeseries, urbanisation",3
+#11-2-1,"age, sex, timeseries, region, disability",5
 #11-3-1,timeseries,1
 #11-4-1,timeseries,1
-#11-6-1,timeseries,1
 #11-6-2,fine particulate matter,1
-#11-7-2,"timeseries, age, sex",3
+#11-7-2,"age, sex, timeseries",3
 #12-4-1,timeseries,1
 #12-4-2,"timeseries, type of waste treatment",2
 #12-5-1,"timeseries, type of waste",2
@@ -38,12 +37,13 @@ Indicator,Disaggregations,Number of disaggregations
 #15-b-1,timeseries,1
 #15-c-1,timeseries,1
 #16-1-1,"age, sex",2
-#16-1-3,"timeseries, age, sex",3
+#16-1-3,"age, sex, timeseries",3
 #16-1-4,feelings of insecurity,1
 #16-2-1,"sex, form of abuse",2
 #16-2-2,"age, sex, form of exploitation",3
 #16-3-1,timeseries,1
-#16-3-3,"time series, declination",2
+#16-3-2,sex,1
+#16-3-3,"timeseries, declination",2
 #16-5-1,sex,1
 #16-7-1,"timeseries, field of work, level of court",3
 #16-7-2,sex,1
@@ -59,7 +59,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-9-1,timeseries,1
 #2-1-1,"sex, percentiles",2
 #2-2-1,sex,1
-#2-2-2,"timeseries, sex",2
+#2-2-2,"sex, timeseries",2
 #2-2-3,age,1
 #2-3-1,economic sector,1
 #2-4-1,"timeseries, region",2
@@ -74,8 +74,8 @@ Indicator,Disaggregations,Number of disaggregations
 #3-7-2,age of mother,1
 #3-8-2,household expenditures on health,1
 #3-9-2,type of disease,1
-#3-a-1,"timeseries, sex",2
-#3-b-1,"timeseries, sex",2
+#3-a-1,"sex, timeseries",2
+#3-b-1,"sex, timeseries",2
 #3-c-1,profession,1
 #3-d-2,antimicrobial-resistant organisms,1
 #4-1-1,"education level, subject",2
@@ -105,11 +105,11 @@ Indicator,Disaggregations,Number of disaggregations
 #7-2-1,timeseries,1
 #8-10-1,timeseries,1
 #8-10-2,type of account,1
-#8-5-1,"timeseries, sex, region",3
+#8-5-1,"sex, timeseries, region",3
 #8-5-2,"age, sex",2
 #8-6-1,sex,1
 #8-7-1,"age, sex",2
-#8-8-1,"timeseries, sex",2
+#8-8-1,"sex, timeseries",2
 #8-a-1,timeseries,1
 #9-1-2,mode of transport,1
 #9-4-1,timeseries,1

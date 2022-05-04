@@ -19,13 +19,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "capital to assets ratio (%)",
-                "regulatory tier 1 capital to risk-weighted assets (%)",
-                "nonperforming loans net of provisions to capital (%)",
-                "nonperforming loans net of provisions to gross loans (%)",
-                "return on assets (%)",
-                "liquid assets to short-term liabilities (%)",
-                "net open position in foreign exchange to capital (%)",
+                "capital to assets ratio",
+                "regulatory tier 1 capital to risk-weighted assets",
+                "nonperforming loans net of provisions to capital",
+                "nonperforming loans net of provisions to gross loans",
+                "return on assets",
+                "liquid assets to short-term liabilities",
+                "net open position in foreign exchange to capital",
                 ""
               ]
             }

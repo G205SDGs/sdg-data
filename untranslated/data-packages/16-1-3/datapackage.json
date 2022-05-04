@@ -30,7 +30,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population subjected to physical violence",
+                "population who were exposed to physical violence",
                 "population who were victims of criminal offences",
                 "victims of criminal offences",
                 ""

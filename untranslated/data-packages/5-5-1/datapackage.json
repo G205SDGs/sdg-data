@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "seats held by women in national parliament",
+                "proportion of women in parliaments",
                 "proportion of women in local governments",
                 ""
               ]

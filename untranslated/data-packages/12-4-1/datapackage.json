@@ -19,11 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "compliance with the basel convention (%)",
-                "compliance with the montreal protocol (%)",
-                "compliance with the rotterdam convention (%)",
-                "compliance with the stockholm convention (%)",
-                "compliance with the minamata convention (%)",
+                "basel convention",
+                "montreal protocol",
+                "rotterdam convention",
+                "stockholm convention",
+                "minamata convention",
                 ""
               ]
             }

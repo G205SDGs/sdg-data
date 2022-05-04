@@ -1,4 +1,4 @@
-Year,Units,timeseries,Value
+Year,Units,Series,Value
 2010,%,municipal solid waste regularly collected and treated,100.0
 2011,%,municipal solid waste regularly collected and treated,100.0
 2012,%,municipal solid waste regularly collected and treated,100.0
@@ -10,14 +10,14 @@ Year,Units,timeseries,Value
 2018,%,municipal solid waste regularly collected and treated,100.0
 2019,%,municipal solid waste regularly collected and treated,100.0
 2020,%,municipal solid waste regularly collected and treated,100.0
-2010,1 000 t,total municipal solid waste generated,49237.0
-2011,1 000 t,total municipal solid waste generated,50237.0
-2012,1 000 t,total municipal solid waste generated,49759.0
-2013,1 000 t,total municipal solid waste generated,49570.0
-2014,1 000 t,total municipal solid waste generated,51102.0
-2015,1 000 t,total municipal solid waste generated,51625.0
-2016,1 000 t,total municipal solid waste generated,52133.0
-2017,1 000 t,total municipal solid waste generated,51790.0
-2018,1 000 t,total municipal solid waste generated,50260.0
-2019,1 000 t,total municipal solid waste generated,50643.0
-2020,1 000 t,total municipal solid waste generated,
+2010,1 000 t,municipal solid waste in total,49237.0
+2011,1 000 t,municipal solid waste in total,50237.0
+2012,1 000 t,municipal solid waste in total,49759.0
+2013,1 000 t,municipal solid waste in total,49570.0
+2014,1 000 t,municipal solid waste in total,51102.0
+2015,1 000 t,municipal solid waste in total,51625.0
+2016,1 000 t,municipal solid waste in total,52133.0
+2017,1 000 t,municipal solid waste in total,51790.0
+2018,1 000 t,municipal solid waste in total,50260.0
+2019,1 000 t,municipal solid waste in total,50643.0
+2020,1 000 t,municipal solid waste in total,

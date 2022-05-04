@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) police reporting rate for physical assault (%)",
-                "c) police reporting rate for robbery (%)",
+                "reporting rate for physical assault",
+                "reporting rate for robbery",
                 ""
               ]
             }
