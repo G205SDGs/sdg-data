@@ -1,51 +1,51 @@
 Year,timeseries,sex,Value
-2010,dtp vaccination rate at school entrance,,95.2
-2011,dtp vaccination rate at school entrance,,95.6
-2012,dtp vaccination rate at school entrance,,95.8
-2013,dtp vaccination rate at school entrance,,96.2
-2014,dtp vaccination rate at school entrance,,95.7
-2015,dtp vaccination rate at school entrance,,95.2
-2016,dtp vaccination rate at school entrance,,94.5
-2017,dtp vaccination rate at school entrance,,93.5
-2018,dtp vaccination rate at school entrance,,93.0
-2019,dtp vaccination rate at school entrance,,92.7
-2010,measles vaccination rate at sschool entrance,,91.5
-2011,measles vaccination rate at sschool entrance,,92.1
-2012,measles vaccination rate at sschool entrance,,92.4
-2013,measles vaccination rate at sschool entrance,,92.6
-2014,measles vaccination rate at sschool entrance,,92.8
-2015,measles vaccination rate at sschool entrance,,92.8
-2016,measles vaccination rate at sschool entrance,,92.9
-2017,measles vaccination rate at sschool entrance,,92.8
-2018,measles vaccination rate at sschool entrance,,93.1
-2019,measles vaccination rate at sschool entrance,,92.7
-2010,pneumococcal vaccination rate at school entrance,,15.2
-2011,pneumococcal vaccination rate at school entrance,,41.0
-2012,pneumococcal vaccination rate at school entrance,,68.3
-2013,pneumococcal vaccination rate at school entrance,,84.5
-2014,pneumococcal vaccination rate at school entrance,,85.3
-2015,pneumococcal vaccination rate at school entrance,,86.1
-2016,pneumococcal vaccination rate at school entrance,,84.4
-2017,pneumococcal vaccination rate at school entrance,,83.8
-2018,pneumococcal vaccination rate at school entrance,,83.1
-2019,pneumococcal vaccination rate at school entrance,,83.4
-2010,hpv vaccination rate among 15 years old girls,female,
-2011,hpv vaccination rate among 15 years old girls,female,27.2
-2012,hpv vaccination rate among 15 years old girls,female,27.2
-2013,hpv vaccination rate among 15 years old girls,female,29.3
-2014,hpv vaccination rate among 15 years old girls,female,31.3
-2015,hpv vaccination rate among 15 years old girls,female,33.4
-2016,hpv vaccination rate among 15 years old girls,female,36.6
-2017,hpv vaccination rate among 15 years old girls,female,40.0
-2018,hpv vaccination rate among 15 years old girls,female,43.0
-2019,hpv vaccination rate among 15 years old girls,female,47.2
-2010,hpv vaccination rate among 15 years old girls,male,
-2011,hpv vaccination rate among 15 years old girls,male,
-2012,hpv vaccination rate among 15 years old girls,male,
-2013,hpv vaccination rate among 15 years old girls,male,
-2014,hpv vaccination rate among 15 years old girls,male,
-2015,hpv vaccination rate among 15 years old girls,male,
-2016,hpv vaccination rate among 15 years old girls,male,
-2017,hpv vaccination rate among 15 years old girls,male,
-2018,hpv vaccination rate among 15 years old girls,male,
-2019,hpv vaccination rate among 15 years old girls,male,5.1
+2010,dtp vaccination coverage at school entry,,95.2
+2011,dtp vaccination coverage at school entry,,95.6
+2012,dtp vaccination coverage at school entry,,95.8
+2013,dtp vaccination coverage at school entry,,96.2
+2014,dtp vaccination coverage at school entry,,95.7
+2015,dtp vaccination coverage at school entry,,95.2
+2016,dtp vaccination coverage at school entry,,94.5
+2017,dtp vaccination coverage at school entry,,93.5
+2018,dtp vaccination coverage at school entry,,93.0
+2019,dtp vaccination coverage at school entry,,92.7
+2010,measles vaccination coverage at school entry,,91.5
+2011,measles vaccination coverage at school entry,,92.1
+2012,measles vaccination coverage at school entry,,92.4
+2013,measles vaccination coverage at school entry,,92.6
+2014,measles vaccination coverage at school entry,,92.8
+2015,measles vaccination coverage at school entry,,92.8
+2016,measles vaccination coverage at school entry,,92.9
+2017,measles vaccination coverage at school entry,,92.8
+2018,measles vaccination coverage at school entry,,93.1
+2019,measles vaccination coverage at school entry,,92.7
+2010,pneumococcal vaccination coverage at school entry,,15.2
+2011,pneumococcal vaccination coverage at school entry,,41.0
+2012,pneumococcal vaccination coverage at school entry,,68.3
+2013,pneumococcal vaccination coverage at school entry,,84.5
+2014,pneumococcal vaccination coverage at school entry,,85.3
+2015,pneumococcal vaccination coverage at school entry,,86.1
+2016,pneumococcal vaccination coverage at school entry,,84.4
+2017,pneumococcal vaccination coverage at school entry,,83.8
+2018,pneumococcal vaccination coverage at school entry,,83.1
+2019,pneumococcal vaccination coverage at school entry,,83.4
+2010,hpv vaccination coverages among 15 years old girls and boys,female,
+2011,hpv vaccination coverages among 15 years old girls and boys,female,27.2
+2012,hpv vaccination coverages among 15 years old girls and boys,female,27.2
+2013,hpv vaccination coverages among 15 years old girls and boys,female,29.3
+2014,hpv vaccination coverages among 15 years old girls and boys,female,31.3
+2015,hpv vaccination coverages among 15 years old girls and boys,female,33.4
+2016,hpv vaccination coverages among 15 years old girls and boys,female,36.6
+2017,hpv vaccination coverages among 15 years old girls and boys,female,40.0
+2018,hpv vaccination coverages among 15 years old girls and boys,female,43.0
+2019,hpv vaccination coverages among 15 years old girls and boys,female,47.2
+2010,hpv vaccination coverages among 15 years old girls and boys,male,
+2011,hpv vaccination coverages among 15 years old girls and boys,male,
+2012,hpv vaccination coverages among 15 years old girls and boys,male,
+2013,hpv vaccination coverages among 15 years old girls and boys,male,
+2014,hpv vaccination coverages among 15 years old girls and boys,male,
+2015,hpv vaccination coverages among 15 years old girls and boys,male,
+2016,hpv vaccination coverages among 15 years old girls and boys,male,
+2017,hpv vaccination coverages among 15 years old girls and boys,male,
+2018,hpv vaccination coverages among 15 years old girls and boys,male,
+2019,hpv vaccination coverages among 15 years old girls and boys,male,5.1
