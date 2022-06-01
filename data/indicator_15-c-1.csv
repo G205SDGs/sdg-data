@@ -1,23 +1,25 @@
-Year,timeseries,Value
-2010,documents issued for the import and export of protected species,22601
-2011,documents issued for the import and export of protected species,20687
-2012,documents issued for the import and export of protected species,21045
-2013,documents issued for the import and export of protected species,21364
-2014,documents issued for the import and export of protected species,23170
-2015,documents issued for the import and export of protected species,23093
-2016,documents issued for the import and export of protected species,24248
-2017,documents issued for the import and export of protected species,29644
-2018,documents issued for the import and export of protected species,31738
-2019,documents issued for the import and export of protected species,30397
-2020,documents issued for the import and export of protected species,19710
-2010,seizures by authorities concerning the protection of species,1365
-2011,seizures by authorities concerning the protection of species,1208
-2012,seizures by authorities concerning the protection of species,1112
-2013,seizures by authorities concerning the protection of species,1105
-2014,seizures by authorities concerning the protection of species,852
-2015,seizures by authorities concerning the protection of species,1301
-2016,seizures by authorities concerning the protection of species,915
-2017,seizures by authorities concerning the protection of species,934
-2018,seizures by authorities concerning the protection of species,1294
-2019,seizures by authorities concerning the protection of species,1444
-2020,seizures by authorities concerning the protection of species,1240
+Year,Value,Series
+2010,22601,documents issued for the import and export of protected species
+2011,20687,documents issued for the import and export of protected species
+2012,21045,documents issued for the import and export of protected species
+2013,21364,documents issued for the import and export of protected species
+2014,23170,documents issued for the import and export of protected species
+2015,23093,documents issued for the import and export of protected species
+2016,24248,documents issued for the import and export of protected species
+2017,29644,documents issued for the import and export of protected species
+2018,31738,documents issued for the import and export of protected species
+2019,30397,documents issued for the import and export of protected species
+2020,19710,documents issued for the import and export of protected species
+2021,,documents issued for the import and export of protected species
+2010,1365,seizures by authorities concerning the protection of species
+2011,1208,seizures by authorities concerning the protection of species
+2012,1112,seizures by authorities concerning the protection of species
+2013,1105,seizures by authorities concerning the protection of species
+2014,852,seizures by authorities concerning the protection of species
+2015,1301,seizures by authorities concerning the protection of species
+2016,915,seizures by authorities concerning the protection of species
+2017,934,seizures by authorities concerning the protection of species
+2018,1294,seizures by authorities concerning the protection of species
+2019,1444,seizures by authorities concerning the protection of species
+2020,1240,seizures by authorities concerning the protection of species
+2021,1130,seizures by authorities concerning the protection of species
