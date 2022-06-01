@@ -1,23 +1,23 @@
-Year,timeseries,Value
-2010,oda and oof (gross disbursements) to infrastructure,3405.2
-2011,oda and oof (gross disbursements) to infrastructure,3237.8
-2012,oda and oof (gross disbursements) to infrastructure,2849.1
-2013,oda and oof (gross disbursements) to infrastructure,3282.5
-2014,oda and oof (gross disbursements) to infrastructure,4208.4
-2015,oda and oof (gross disbursements) to infrastructure,5191.4
-2016,oda and oof (gross disbursements) to infrastructure,4404.3
-2017,oda and oof (gross disbursements) to infrastructure,4346.0
-2018,oda and oof (gross disbursements) to infrastructure,4405.2
-2019,oda and oof (gross disbursements) to infrastructure,4588.9
-2020,oda and oof (gross disbursements) to infrastructure,
-2010,oda (gross disbursements) to infrastructure,2592.2
-2011,oda (gross disbursements) to infrastructure,2407.0
-2012,oda (gross disbursements) to infrastructure,1951.1
-2013,oda (gross disbursements) to infrastructure,2631.5
-2014,oda (gross disbursements) to infrastructure,3684.4
-2015,oda (gross disbursements) to infrastructure,4669.9
-2016,oda (gross disbursements) to infrastructure,4040.7
-2017,oda (gross disbursements) to infrastructure,3673.2
-2018,oda (gross disbursements) to infrastructure,3564.0
-2019,oda (gross disbursements) to infrastructure,3831.0
-2020,oda (gross disbursements) to infrastructure,4139.5
+Year,Units,timeseries,Value
+2010,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,3888.9
+2011,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,2907.8
+2012,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,2710.0
+2013,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,4171.2
+2014,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,6172.7
+2015,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,5193.9
+2016,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,5465.5
+2017,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,4694.5
+2018,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,4918.7
+2019,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,4951.4
+2020,"mn usd, constant prices (2019)",oda and oof (gross disbursements) to infrastructure,6056.6
+2010,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,2592.2
+2011,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,2407.0
+2012,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,1951.1
+2013,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,2631.5
+2014,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,3684.4
+2015,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,4669.9
+2016,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,4040.7
+2017,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,3673.2
+2018,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,3564.0
+2019,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,3831.0
+2020,"mn usd, constant prices (2020)",oda (gross disbursements) to infrastructure,4139.5

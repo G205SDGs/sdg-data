@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "type of water body",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "River water bodies",
-                "Open water bodies",
+                "Proportion of flowing water with good ecological status for total phosphorous",
+                "Proportion of groundwater mesuring points below the threshold value for nitrate",
                 ""
               ]
             },
-            "title": "Type of water body"
+            "title": "Time series"
           },
           {
             "name": "Value",

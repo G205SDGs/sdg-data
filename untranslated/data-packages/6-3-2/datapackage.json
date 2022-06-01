@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "type of water body",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "river water bodies",
-                "open water bodies",
+                "proportion of flowing water with good ecological status for total phosphorous",
+                "proportion of groundwater mesuring points below the threshold value for nitrate",
                 ""
               ]
             }

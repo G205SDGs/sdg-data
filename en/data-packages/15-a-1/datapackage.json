@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Million USD, constant prices (2020)",
                 "Million USD, constant prices (2019)",
                 "Million EUR",
                 ""

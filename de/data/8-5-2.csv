@@ -10,6 +10,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,,,3.4
 2019,,,3.1
 2020,,,3.9
+2021,,,3.6
 2010,15 bis unter 25 Jahre,,9.8
 2011,15 bis unter 25 Jahre,,8.5
 2012,15 bis unter 25 Jahre,,8.0
@@ -21,6 +22,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,15 bis unter 25 Jahre,,6.2
 2019,15 bis unter 25 Jahre,,5.8
 2020,15 bis unter 25 Jahre,,7.1
+2021,15 bis unter 25 Jahre,,6.9
 2010,25 bis unter 75 Jahre,,6.6
 2011,25 bis unter 75 Jahre,,5.5
 2012,25 bis unter 75 Jahre,,5.1
@@ -32,6 +34,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,25 bis unter 75 Jahre,,3.1
 2019,25 bis unter 75 Jahre,,2.9
 2020,25 bis unter 75 Jahre,,3.5
+2021,25 bis unter 75 Jahre,,3.2
 2010,,Weiblich,6.5
 2011,,Weiblich,5.6
 2012,,Weiblich,5.2
@@ -43,6 +46,7 @@ Year,Altersklasse,Geschlecht,Value
 2018,,Weiblich,2.9
 2019,,Weiblich,2.7
 2020,,Weiblich,3.4
+2021,,Weiblich,3.2
 2010,,Männlich,7.4
 2011,,Männlich,6.1
 2012,,Männlich,5.6
@@ -54,3 +58,52 @@ Year,Altersklasse,Geschlecht,Value
 2018,,Männlich,3.8
 2019,,Männlich,3.5
 2020,,Männlich,4.2
+2021,,Männlich,3.9
+2010,15 bis unter 25 Jahre,Weiblich,8.8
+2011,15 bis unter 25 Jahre,Weiblich,7.8
+2012,15 bis unter 25 Jahre,Weiblich,7.3
+2013,15 bis unter 25 Jahre,Weiblich,7.1
+2014,15 bis unter 25 Jahre,Weiblich,7.1
+2015,15 bis unter 25 Jahre,Weiblich,6.5
+2016,15 bis unter 25 Jahre,Weiblich,6.1
+2017,15 bis unter 25 Jahre,Weiblich,5.8
+2018,15 bis unter 25 Jahre,Weiblich,5.1
+2019,15 bis unter 25 Jahre,Weiblich,4.8
+2020,15 bis unter 25 Jahre,Weiblich,6.7
+2021,15 bis unter 25 Jahre,Weiblich,6.4
+2010,15 bis unter 25 Jahre,Männlich,10.7
+2011,15 bis unter 25 Jahre,Männlich,9.2
+2012,15 bis unter 25 Jahre,Männlich,8.7
+2013,15 bis unter 25 Jahre,Männlich,8.5
+2014,15 bis unter 25 Jahre,Männlich,8.3
+2015,15 bis unter 25 Jahre,Männlich,7.9
+2016,15 bis unter 25 Jahre,Männlich,7.8
+2017,15 bis unter 25 Jahre,Männlich,7.6
+2018,15 bis unter 25 Jahre,Männlich,7.1
+2019,15 bis unter 25 Jahre,Männlich,6.6
+2020,15 bis unter 25 Jahre,Männlich,7.5
+2021,15 bis unter 25 Jahre,Männlich,7.3
+2010,25 bis unter 75 Jahre,Weiblich,6.2
+2011,25 bis unter 75 Jahre,Weiblich,5.3
+2012,25 bis unter 75 Jahre,Weiblich,4.9
+2013,25 bis unter 75 Jahre,Weiblich,4.7
+2014,25 bis unter 75 Jahre,Weiblich,4.4
+2015,25 bis unter 75 Jahre,Weiblich,4.0
+2016,25 bis unter 75 Jahre,Weiblich,3.5
+2017,25 bis unter 75 Jahre,Weiblich,3.1
+2018,25 bis unter 75 Jahre,Weiblich,2.7
+2019,25 bis unter 75 Jahre,Weiblich,2.5
+2020,25 bis unter 75 Jahre,Weiblich,3.1
+2021,25 bis unter 75 Jahre,Weiblich,2.8
+2010,25 bis unter 75 Jahre,Männlich,7.0
+2011,25 bis unter 75 Jahre,Männlich,5.7
+2012,25 bis unter 75 Jahre,Männlich,5.2
+2013,25 bis unter 75 Jahre,Männlich,5.2
+2014,25 bis unter 75 Jahre,Männlich,5.0
+2015,25 bis unter 75 Jahre,Männlich,4.7
+2016,25 bis unter 75 Jahre,Männlich,4.1
+2017,25 bis unter 75 Jahre,Männlich,3.8
+2018,25 bis unter 75 Jahre,Männlich,3.4
+2019,25 bis unter 75 Jahre,Männlich,3.2
+2020,25 bis unter 75 Jahre,Männlich,3.9
+2021,25 bis unter 75 Jahre,Männlich,3.5

@@ -1,10 +1,23 @@
-Year,type of water body,Value
-2013,,
-2014,,38.99
-2015,,
-2013,river water bodies,
-2014,river water bodies,35.08
-2015,river water bodies,
-2013,open water bodies,
-2014,open water bodies,72.41
-2015,open water bodies,
+Year,timeseries,Value
+2010,proportion of flowing water with good ecological status for total phosphorous,32.1
+2011,proportion of flowing water with good ecological status for total phosphorous,38.2
+2012,proportion of flowing water with good ecological status for total phosphorous,35.7
+2013,proportion of flowing water with good ecological status for total phosphorous,36.1
+2014,proportion of flowing water with good ecological status for total phosphorous,34.8
+2015,proportion of flowing water with good ecological status for total phosphorous,30.6
+2016,proportion of flowing water with good ecological status for total phosphorous,37.1
+2017,proportion of flowing water with good ecological status for total phosphorous,35.5
+2018,proportion of flowing water with good ecological status for total phosphorous,44.3
+2019,proportion of flowing water with good ecological status for total phosphorous,42.8
+2020,proportion of flowing water with good ecological status for total phosphorous,
+2010,proportion of groundwater mesuring points below the threshold value for nitrate,81.7
+2011,proportion of groundwater mesuring points below the threshold value for nitrate,82.0
+2012,proportion of groundwater mesuring points below the threshold value for nitrate,81.0
+2013,proportion of groundwater mesuring points below the threshold value for nitrate,81.4
+2014,proportion of groundwater mesuring points below the threshold value for nitrate,81.8
+2015,proportion of groundwater mesuring points below the threshold value for nitrate,81.0
+2016,proportion of groundwater mesuring points below the threshold value for nitrate,81.8
+2017,proportion of groundwater mesuring points below the threshold value for nitrate,83.1
+2018,proportion of groundwater mesuring points below the threshold value for nitrate,82.7
+2019,proportion of groundwater mesuring points below the threshold value for nitrate,84.2
+2020,proportion of groundwater mesuring points below the threshold value for nitrate,84.1

@@ -16,16 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "type of water body",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fließgewässer",
-                "Seen und Talsperren",
+                "Anteil der Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor",
+                "Anteil der Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat",
                 ""
               ]
             },
-            "title": "Art des Gewässers"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

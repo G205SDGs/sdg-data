@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Durchschnittlicher Stundenlohn Beschäftigter",
-                "Verdienstabstand",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -81,6 +69,18 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Durchschnittlicher Stundenlohn Beschäftigter",
+                "Verdienstabstand",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

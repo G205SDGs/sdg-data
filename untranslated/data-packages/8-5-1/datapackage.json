@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "average hourly earnings of employees",
-                "gender pay gap",
-                ""
-              ]
-            }
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -75,6 +64,17 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "average hourly earnings of employees",
+                "gender pay gap",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,31 +1,34 @@
-Year,Time series,Value
-2010,ODA (commitments) for biodiversity,571.6
-2011,ODA (commitments) for biodiversity,1125.7
-2012,ODA (commitments) for biodiversity,954.5
-2013,ODA (commitments) for biodiversity,934.5
-2014,ODA (commitments) for biodiversity,1126.9
-2015,ODA (commitments) for biodiversity,1255.2
-2016,ODA (commitments) for biodiversity,1184.6
-2017,ODA (commitments) for biodiversity,1863.5
-2018,ODA (commitments) for biodiversity,1545.1
-2019,ODA (commitments) for biodiversity,2228.3
-2010,ODA (gross disbursements) for biodiversity,413.1
-2011,ODA (gross disbursements) for biodiversity,565.2
-2012,ODA (gross disbursements) for biodiversity,760.3
-2013,ODA (gross disbursements) for biodiversity,764.1
-2014,ODA (gross disbursements) for biodiversity,854.7
-2015,ODA (gross disbursements) for biodiversity,820.9
-2016,ODA (gross disbursements) for biodiversity,1102.3
-2017,ODA (gross disbursements) for biodiversity,1537.0
-2018,ODA (gross disbursements) for biodiversity,1391.7
-2019,ODA (gross disbursements) for biodiversity,1623.1
-2010,ODA (gross disbursements) to the forestry sector,63.0
-2011,ODA (gross disbursements) to the forestry sector,59.0
-2012,ODA (gross disbursements) to the forestry sector,97.3
-2013,ODA (gross disbursements) to the forestry sector,89.1
-2014,ODA (gross disbursements) to the forestry sector,74.6
-2015,ODA (gross disbursements) to the forestry sector,74.6
-2016,ODA (gross disbursements) to the forestry sector,70.8
-2017,ODA (gross disbursements) to the forestry sector,80.2
-2018,ODA (gross disbursements) to the forestry sector,120.0
-2019,ODA (gross disbursements) to the forestry sector,120.6
+Year,Units,Time series,Value
+2010,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,593.0
+2011,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,1167.9
+2012,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,990.2
+2013,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,969.5
+2014,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,1169.1
+2015,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,1302.2
+2016,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,1229.0
+2017,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,1930.3
+2018,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,1595.8
+2019,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,2304.4
+2020,"Million USD, constant prices (2020)",ODA (commitments) for biodiversity,2376.0
+2010,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,413.1
+2011,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,565.2
+2012,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,760.3
+2013,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,764.1
+2014,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,854.7
+2015,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,820.9
+2016,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,1102.3
+2017,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,1537.0
+2018,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,1391.7
+2019,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,1623.1
+2020,"Million USD, constant prices (2019)",ODA (gross disbursements) for biodiversity,
+2010,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,65.3
+2011,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,61.2
+2012,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,101.0
+2013,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,92.5
+2014,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,77.4
+2015,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,77.4
+2016,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,73.5
+2017,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,83.1
+2018,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,123.9
+2019,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,124.7
+2020,"Million USD, constant prices (2020)",ODA (gross disbursements) to the forestry sector,222.7

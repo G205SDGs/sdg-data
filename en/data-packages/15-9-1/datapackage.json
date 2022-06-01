@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
+                "Implementation of the System of Environmental-Economic Accounting (SEEA)",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

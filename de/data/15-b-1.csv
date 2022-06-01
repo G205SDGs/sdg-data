@@ -1,31 +1,34 @@
-Year,Zeitreihe,Value
-2010,Zusagen (ODA) für Biodiversität,571.6
-2011,Zusagen (ODA) für Biodiversität,1125.7
-2012,Zusagen (ODA) für Biodiversität,954.5
-2013,Zusagen (ODA) für Biodiversität,934.5
-2014,Zusagen (ODA) für Biodiversität,1126.9
-2015,Zusagen (ODA) für Biodiversität,1255.2
-2016,Zusagen (ODA) für Biodiversität,1184.6
-2017,Zusagen (ODA) für Biodiversität,1863.5
-2018,Zusagen (ODA) für Biodiversität,1545.1
-2019,Zusagen (ODA) für Biodiversität,2228.3
-2010,Bruttoentwicklungsausgaben (ODA) für Biodiversität,413.1
-2011,Bruttoentwicklungsausgaben (ODA) für Biodiversität,565.2
-2012,Bruttoentwicklungsausgaben (ODA) für Biodiversität,760.3
-2013,Bruttoentwicklungsausgaben (ODA) für Biodiversität,764.1
-2014,Bruttoentwicklungsausgaben (ODA) für Biodiversität,854.7
-2015,Bruttoentwicklungsausgaben (ODA) für Biodiversität,820.9
-2016,Bruttoentwicklungsausgaben (ODA) für Biodiversität,1102.3
-2017,Bruttoentwicklungsausgaben (ODA) für Biodiversität,1537.0
-2018,Bruttoentwicklungsausgaben (ODA) für Biodiversität,1391.7
-2019,Bruttoentwicklungsausgaben (ODA) für Biodiversität,1623.1
-2010,Bruttoentwicklungsausgaben (ODA) für den Forstsektor,63.0
-2011,Bruttoentwicklungsausgaben (ODA) für den Forstsektor,59.0
-2012,Bruttoentwicklungsausgaben (ODA) für den Forstsektor,97.3
-2013,Bruttoentwicklungsausgaben (ODA) für den Forstsektor,89.1
-2014,Bruttoentwicklungsausgaben (ODA) für den Forstsektor,74.6
-2015,Bruttoentwicklungsausgaben (ODA) für den Forstsektor,74.6
-2016,Bruttoentwicklungsausgaben (ODA) für den Forstsektor,70.8
-2017,Bruttoentwicklungsausgaben (ODA) für den Forstsektor,80.2
-2018,Bruttoentwicklungsausgaben (ODA) für den Forstsektor,120.0
-2019,Bruttoentwicklungsausgaben (ODA) für den Forstsektor,120.6
+Year,Units,Zeitreihe,Value
+2010,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,593.0
+2011,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,1167.9
+2012,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,990.2
+2013,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,969.5
+2014,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,1169.1
+2015,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,1302.2
+2016,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,1229.0
+2017,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,1930.3
+2018,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,1595.8
+2019,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,2304.4
+2020,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) für Biodiversität,2376.0
+2010,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,413.1
+2011,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,565.2
+2012,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,760.3
+2013,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,764.1
+2014,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,854.7
+2015,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,820.9
+2016,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,1102.3
+2017,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,1537.0
+2018,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,1391.7
+2019,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,1623.1
+2020,"Millionen USD, konstante Preise (2019)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,
+2010,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,65.3
+2011,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,61.2
+2012,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,101.0
+2013,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,92.5
+2014,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,77.4
+2015,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,77.4
+2016,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,73.5
+2017,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,83.1
+2018,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,123.9
+2019,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,124.7
+2020,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für den Forstsektor,222.7
