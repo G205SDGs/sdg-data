@@ -1,41 +1,41 @@
-Year,Units,timeseries,Value
-2010,mn eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2011,mn eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2012,mn eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2013,mn eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2014,mn eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2015,mn eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2016,mn eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,9.0
-2017,mn eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2018,mn eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2019,mn eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,3.3
-2010,"mn usd, constant prices (2019)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.00
-2011,"mn usd, constant prices (2019)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.00
-2012,"mn usd, constant prices (2019)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.00
-2013,"mn usd, constant prices (2019)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.00
-2014,"mn usd, constant prices (2019)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.00
-2015,"mn usd, constant prices (2019)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.00
-2016,"mn usd, constant prices (2019)",oda (commitments) to public-private partnerships (ppp) for infrastructure,10.61
-2017,"mn usd, constant prices (2019)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.00
-2018,"mn usd, constant prices (2019)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.00
-2019,"mn usd, constant prices (2019)",oda (commitments) to public-private partnerships (ppp) for infrastructure,3.69
-2010,mn eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2011,mn eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2012,mn eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2013,mn eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2014,mn eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2015,mn eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2016,mn eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,9.00
-2017,mn eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2018,mn eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2019,mn eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.03
-2010,"mn usd, constant prices (2019)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2011,"mn usd, constant prices (2019)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2012,"mn usd, constant prices (2019)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2013,"mn usd, constant prices (2019)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2014,"mn usd, constant prices (2019)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2015,"mn usd, constant prices (2019)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2016,"mn usd, constant prices (2019)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,10.61
-2017,"mn usd, constant prices (2019)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2018,"mn usd, constant prices (2019)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.00
-2019,"mn usd, constant prices (2019)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.04
+Year,Units,Value,Series
+2010,mn eur,0.0,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2011,mn eur,0.0,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2012,mn eur,0.0,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2013,mn eur,0.0,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2014,mn eur,0.0,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2015,mn eur,0.0,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2016,mn eur,9.0,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2017,mn eur,0.0,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2018,mn eur,0.0,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2019,mn eur,3.3,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2010,"mn usd, constant prices (2019)",0.00,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2011,"mn usd, constant prices (2019)",0.00,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2012,"mn usd, constant prices (2019)",0.00,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2013,"mn usd, constant prices (2019)",0.00,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2014,"mn usd, constant prices (2019)",0.00,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2015,"mn usd, constant prices (2019)",0.00,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2016,"mn usd, constant prices (2019)",10.61,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2017,"mn usd, constant prices (2019)",0.00,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2018,"mn usd, constant prices (2019)",0.00,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2019,"mn usd, constant prices (2019)",3.69,oda (commitments) to public-private partnerships (ppp) for infrastructure
+2010,mn eur,0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2011,mn eur,0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2012,mn eur,0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2013,mn eur,0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2014,mn eur,0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2015,mn eur,0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2016,mn eur,9.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2017,mn eur,0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2018,mn eur,0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2019,mn eur,0.03,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2010,"mn usd, constant prices (2019)",0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2011,"mn usd, constant prices (2019)",0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2012,"mn usd, constant prices (2019)",0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2013,"mn usd, constant prices (2019)",0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2014,"mn usd, constant prices (2019)",0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2015,"mn usd, constant prices (2019)",0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2016,"mn usd, constant prices (2019)",10.61,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2017,"mn usd, constant prices (2019)",0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2018,"mn usd, constant prices (2019)",0.00,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
+2019,"mn usd, constant prices (2019)",0.04,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure
