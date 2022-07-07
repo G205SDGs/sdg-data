@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
-                "Long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
-                "Long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)",
+                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
+                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
+                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)",
                 ""
               ]
             },
