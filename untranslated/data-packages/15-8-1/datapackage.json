@@ -21,7 +21,6 @@
               "enum": [
                 "(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control",
                 "(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020",
-                "(2) online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species",
                 ""
               ]
             }
@@ -47,7 +46,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

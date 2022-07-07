@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Micrograms per cubic meters",
+                "Micrograms per m³",
                 "Million inhabitants",
                 ""
               ]
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM2.5",
                 "PM10",
+                "PM2.5",
                 ""
               ]
             },
@@ -44,7 +44,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population weighted annual mean levels of PM<sub>10</sub>",
+                "Population weighted annual mean levels of fine particulate matter",
                 "Population with excessive exposure to fine particulate matter",
                 ""
               ]
@@ -62,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "11-6-2",
-  "title": "Bevölkerungsgewichtete Jahresmittelwerte der Feinstaubkonzentration (z. B. PM<sub>2,5</sub> und PM<sub>10</sub>) in Städten"
+  "title": "Bevölkerungsgewichtete Jahresmittelwerte der Feinstaubkonzentration (z. B. PM₅﮳₂ und PM₁₀) in Städten"
 }
