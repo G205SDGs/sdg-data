@@ -154,6 +154,17 @@ prose:
             label: "Link to national metadata text"
             value: "UN metadata"
             scope: national
+      - name: "goal_meta_national_link_De"
+        field:
+            element: text
+            label: "Link to national metadata"
+            scope: national
+      - name: "goal_meta_national_link_text_De"
+        field:
+            element: text
+            label: "Link to national metadata text"
+            value: "UN metadata"
+            scope: national
 
 
       # - name: "national_geographical_coverage"
