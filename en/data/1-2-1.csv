@@ -10,6 +10,7 @@ Year,Age group,Sex,Value
 2018,,,16.0
 2019,,,14.8
 2020,,,16.1
+2021,,,15.8
 2010,17 years and younger,,17.5
 2011,17 years and younger,,15.6
 2012,17 years and younger,,15.2
@@ -21,6 +22,7 @@ Year,Age group,Sex,Value
 2018,17 years and younger,,14.5
 2019,17 years and younger,,12.1
 2020,17 years and younger,,15.4
+2021,17 years and younger,,16.2
 2010,18 to under 65 years,,15.6
 2011,18 to under 65 years,,16.4
 2012,18 to under 65 years,,16.6
@@ -32,6 +34,7 @@ Year,Age group,Sex,Value
 2018,18 to under 65 years,,15.7
 2019,18 to under 65 years,,14.5
 2020,18 to under 65 years,,14.9
+2021,18 to under 65 years,,14.5
 2010,65 years and older,,14.1
 2011,65 years and older,,14.2
 2012,65 years and older,,15.0
@@ -43,6 +46,7 @@ Year,Age group,Sex,Value
 2018,65 years and older,,18.2
 2019,65 years and older,,18.0
 2020,65 years and older,,20.0
+2021,65 years and older,,19.4
 2010,,Female,16.4
 2011,,Female,16.8
 2012,,Female,17.2
@@ -54,6 +58,7 @@ Year,Age group,Sex,Value
 2018,,Female,16.8
 2019,,Female,15.7
 2020,,Female,16.8
+2021,,Female,16.5
 2010,,Male,14.9
 2011,,Male,14.9
 2012,,Male,14.9
@@ -65,3 +70,4 @@ Year,Age group,Sex,Value
 2018,,Male,15.2
 2019,,Male,13.9
 2020,,Male,15.3
+2021,,Male,15.1

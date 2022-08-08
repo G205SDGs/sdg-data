@@ -9,6 +9,7 @@ Year,Units,timeseries,type of waste,Value
 2017,%,recycling rate,municipal waste,67
 2018,%,recycling rate,municipal waste,67
 2019,%,recycling rate,municipal waste,68
+2020,%,recycling rate,municipal waste,67
 2010,1 000 t,material recovery,municipal waste,30774
 2011,1 000 t,material recovery,municipal waste,31633
 2012,1 000 t,material recovery,municipal waste,32460
@@ -19,6 +20,7 @@ Year,Units,timeseries,type of waste,Value
 2017,1 000 t,material recovery,municipal waste,34783
 2018,1 000 t,material recovery,municipal waste,33723
 2019,1 000 t,material recovery,municipal waste,34227
+2020,1 000 t,material recovery,municipal waste,34379
 2010,%,recycling rate,total waste,69
 2011,%,recycling rate,total waste,69
 2012,%,recycling rate,total waste,70
@@ -29,6 +31,7 @@ Year,Units,timeseries,type of waste,Value
 2017,%,recycling rate,total waste,69
 2018,%,recycling rate,total waste,70
 2019,%,recycling rate,total waste,70
+2020,%,recycling rate,total waste,70
 2010,1 000 t,material recovery,total waste,257350
 2011,1 000 t,material recovery,total waste,267105
 2012,1 000 t,material recovery,total waste,265363
@@ -39,3 +42,4 @@ Year,Units,timeseries,type of waste,Value
 2017,1 000 t,material recovery,total waste,284847
 2018,1 000 t,material recovery,total waste,290456
 2019,1 000 t,material recovery,total waste,292006
+2020,1 000 t,material recovery,total waste,290157
