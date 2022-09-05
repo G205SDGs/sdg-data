@@ -53,7 +53,6 @@ e.g. https://ONSdigital.github.io/sdg-data/data/1-2-1.json
 /meta/<id>.json
 ```
 
-
 ## Build time routes
 
 At build time you'll need everything. Rather than making you download each indicator separately we have an ID of `all` which you can use.

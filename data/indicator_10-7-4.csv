@@ -10,6 +10,7 @@ Year,Units,country of origin,Value
 2018,%,,1.55
 2019,%,,1.64
 2020,%,,1.68
+2021,%,,1.74
 2010,%,afghanistan,0.03
 2011,%,afghanistan,0.03
 2012,%,afghanistan,0.03
@@ -21,6 +22,7 @@ Year,Units,country of origin,Value
 2018,%,afghanistan,0.16
 2019,%,afghanistan,0.17
 2020,%,afghanistan,0.18
+2021,%,afghanistan,0.20
 2010,%,iraq,0.05
 2011,%,iraq,0.05
 2012,%,iraq,0.05
@@ -32,6 +34,7 @@ Year,Units,country of origin,Value
 2018,%,iraq,0.17
 2019,%,iraq,0.17
 2020,%,iraq,0.17
+2021,%,iraq,0.17
 2010,%,iran,0.02
 2011,%,iran,0.02
 2012,%,iran,0.02
@@ -43,6 +46,7 @@ Year,Units,country of origin,Value
 2018,%,iran,0.05
 2019,%,iran,0.05
 2020,%,iran,0.05
+2021,%,iran,0.05
 2010,%,russian federation,0.04
 2011,%,russian federation,0.05
 2012,%,russian federation,0.05
@@ -54,6 +58,7 @@ Year,Units,country of origin,Value
 2018,%,russian federation,0.05
 2019,%,russian federation,0.05
 2020,%,russian federation,0.05
+2021,%,russian federation,0.05
 2010,%,syria,0.01
 2011,%,syria,0.01
 2012,%,syria,0.02
@@ -65,6 +70,7 @@ Year,Units,country of origin,Value
 2018,%,syria,0.63
 2019,%,syria,0.68
 2020,%,syria,0.70
+2021,%,syria,0.71
 2010,%,turkey,0.05
 2011,%,turkey,0.05
 2012,%,turkey,0.05
@@ -76,6 +82,7 @@ Year,Units,country of origin,Value
 2018,%,turkey,0.05
 2019,%,turkey,0.05
 2020,%,turkey,0.06
+2021,%,turkey,0.06
 2010,number,,382323
 2011,number,,373874
 2012,number,,399051
@@ -87,6 +94,7 @@ Year,Units,country of origin,Value
 2018,number,,1283223
 2019,number,,1360069
 2020,number,,1397686
+2021,number,,1451375
 2010,number,syria,7814
 2011,number,syria,7819
 2012,number,syria,15861
@@ -98,6 +106,7 @@ Year,Units,country of origin,Value
 2018,number,syria,525665
 2019,number,syria,561525
 2020,number,syria,582644
+2021,number,syria,592180
 2010,number,afghanistan,24000
 2011,number,afghanistan,24725
 2012,number,afghanistan,26592
@@ -109,6 +118,7 @@ Year,Units,country of origin,Value
 2018,number,afghanistan,130547
 2019,number,afghanistan,143873
 2020,number,afghanistan,149972
+2021,number,afghanistan,167360
 2010,number,iraq,42454
 2011,number,iraq,41668
 2012,number,iraq,43065
@@ -120,6 +130,7 @@ Year,Units,country of origin,Value
 2018,number,iraq,137506
 2019,number,iraq,140244
 2020,number,iraq,141464
+2021,number,iraq,145235
 2010,number,iran,14960
 2011,number,iran,15649
 2012,number,iran,17224
@@ -131,6 +142,7 @@ Year,Units,country of origin,Value
 2018,number,iran,42597
 2019,number,iran,44107
 2020,number,iran,43282
+2021,number,iran,45545
 2010,number,turkey,44402
 2011,number,turkey,42507
 2012,number,turkey,42827
@@ -142,6 +154,7 @@ Year,Units,country of origin,Value
 2018,number,turkey,41270
 2019,number,turkey,45043
 2020,number,turkey,48825
+2021,number,turkey,51545
 2010,number,russian federation,36189
 2011,number,russian federation,36556
 2012,number,russian federation,36633
@@ -153,3 +166,4 @@ Year,Units,country of origin,Value
 2018,number,russian federation,38466
 2019,number,russian federation,39300
 2020,number,russian federation,39344
+2021,number,russian federation,40210
