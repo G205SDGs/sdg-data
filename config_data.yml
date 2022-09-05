@@ -73,13 +73,18 @@ translations:
   - class: TranslationInputYaml
     source: translations
 
+
 # Reporting status extra fields
 # -----------------------------
 # This allows the build to generate stats for reporting status by additional
 # fields, beyond the default "status by goal" report.
-reporting_status_extra_fields: []
+reporting_status_extra_fields:
+  - un_designated_tier
+  #- un_custodian_agency
+
 
 hide_empty_metadata: true
+
 
 # Map layers
 # ----------
@@ -120,13 +125,15 @@ docs_intro: This is a list of examples of endpoints and output that are
 datapackage:
     sorting: default
 
-data_schema:
-  class: DataSchemaInputTableSchemaYaml
-  source: data-schema/*.yml
 
 map_layers:
-  - geojson_file: boundaries.geojson
+  - geojson_file: laender.geojson
     name_property: GEN
     id_property: AGS
-    output_subfolder: regions
+    output_subfolder: laender
+    filename_prefix: indicator_
+  - geojson_file: kreise.geojson
+    name_property: GEN
+    id_property: ARS
+    output_subfolder: kreise
     filename_prefix: indicator_
