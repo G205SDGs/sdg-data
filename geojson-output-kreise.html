@@ -6,7 +6,7 @@
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>GeoJSON output - regions - SDG data build documentation</title>
+            <title>GeoJSON output - kreise - SDG data build documentation</title>
 
             <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -51,19 +51,45 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
-                    <h1 style="margin:20px 0">GeoJSON output - regions</h1>
+                    <h1 style="margin:20px 0">GeoJSON output - kreise</h1>
                     <div>
-                        <p>This output contains GeoJSON for those indicators that have geocoded data. Examples are below:<p><ul><li><a href="de/geojson/regions/indicator_11-2-1.geojson">de/geojson/regions/indicator_11-2-1.geojson</a></li><li><a href="de/geojson/regions/indicator_2-4-1.geojson">de/geojson/regions/indicator_2-4-1.geojson</a></li><li><a href="de/geojson/regions/indicator_9-5-1.geojson">de/geojson/regions/indicator_9-5-1.geojson</a></li><li><a href="en/geojson/regions/indicator_11-2-1.geojson">en/geojson/regions/indicator_11-2-1.geojson</a></li><li><a href="en/geojson/regions/indicator_2-4-1.geojson">en/geojson/regions/indicator_2-4-1.geojson</a></li><li><a href="en/geojson/regions/indicator_9-5-1.geojson">en/geojson/regions/indicator_9-5-1.geojson</a></li><li>etc...</li></ul>
+                        <p>This output contains GeoJSON for those indicators that have geocoded data. Examples are below:<p><ul><li><a href="de/geojson/kreise/indicator_5-5-1.geojson">de/geojson/kreise/indicator_5-5-1.geojson</a></li><li><a href="de/geojson/kreise/indicator_2-4-1.geojson">de/geojson/kreise/indicator_2-4-1.geojson</a></li><li><a href="de/geojson/kreise/indicator_9-5-1.geojson">de/geojson/kreise/indicator_9-5-1.geojson</a></li><li><a href="en/geojson/kreise/indicator_5-5-1.geojson">en/geojson/kreise/indicator_5-5-1.geojson</a></li><li><a href="en/geojson/kreise/indicator_2-4-1.geojson">en/geojson/kreise/indicator_2-4-1.geojson</a></li><li><a href="en/geojson/kreise/indicator_9-5-1.geojson">en/geojson/kreise/indicator_9-5-1.geojson</a></li><li>etc...</li></ul>
                     </div>
                 </div>
             </div>

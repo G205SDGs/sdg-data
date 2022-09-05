@@ -10,6 +10,7 @@ Year,Units,Herkunftsland,Value
 2018,Prozent,,1.55
 2019,Prozent,,1.64
 2020,Prozent,,1.68
+2021,Prozent,,1.74
 2010,Prozent,Afghanistan,0.03
 2011,Prozent,Afghanistan,0.03
 2012,Prozent,Afghanistan,0.03
@@ -21,6 +22,7 @@ Year,Units,Herkunftsland,Value
 2018,Prozent,Afghanistan,0.16
 2019,Prozent,Afghanistan,0.17
 2020,Prozent,Afghanistan,0.18
+2021,Prozent,Afghanistan,0.2
 2010,Prozent,Irak,0.05
 2011,Prozent,Irak,0.05
 2012,Prozent,Irak,0.05
@@ -32,6 +34,7 @@ Year,Units,Herkunftsland,Value
 2018,Prozent,Irak,0.17
 2019,Prozent,Irak,0.17
 2020,Prozent,Irak,0.17
+2021,Prozent,Irak,0.17
 2010,Prozent,Iran,0.02
 2011,Prozent,Iran,0.02
 2012,Prozent,Iran,0.02
@@ -43,6 +46,7 @@ Year,Units,Herkunftsland,Value
 2018,Prozent,Iran,0.05
 2019,Prozent,Iran,0.05
 2020,Prozent,Iran,0.05
+2021,Prozent,Iran,0.05
 2010,Prozent,Russische Föderation,0.04
 2011,Prozent,Russische Föderation,0.05
 2012,Prozent,Russische Föderation,0.05
@@ -54,6 +58,7 @@ Year,Units,Herkunftsland,Value
 2018,Prozent,Russische Föderation,0.05
 2019,Prozent,Russische Föderation,0.05
 2020,Prozent,Russische Föderation,0.05
+2021,Prozent,Russische Föderation,0.05
 2010,Prozent,Syrien,0.01
 2011,Prozent,Syrien,0.01
 2012,Prozent,Syrien,0.02
@@ -65,6 +70,7 @@ Year,Units,Herkunftsland,Value
 2018,Prozent,Syrien,0.63
 2019,Prozent,Syrien,0.68
 2020,Prozent,Syrien,0.7
+2021,Prozent,Syrien,0.71
 2010,Prozent,Türkei,0.05
 2011,Prozent,Türkei,0.05
 2012,Prozent,Türkei,0.05
@@ -76,6 +82,7 @@ Year,Units,Herkunftsland,Value
 2018,Prozent,Türkei,0.05
 2019,Prozent,Türkei,0.05
 2020,Prozent,Türkei,0.06
+2021,Prozent,Türkei,0.06
 2010,Anzahl,,382323.0
 2011,Anzahl,,373874.0
 2012,Anzahl,,399051.0
@@ -87,6 +94,7 @@ Year,Units,Herkunftsland,Value
 2018,Anzahl,,1283223.0
 2019,Anzahl,,1360069.0
 2020,Anzahl,,1397686.0
+2021,Anzahl,,1451375.0
 2010,Anzahl,Syrien,7814.0
 2011,Anzahl,Syrien,7819.0
 2012,Anzahl,Syrien,15861.0
@@ -98,6 +106,7 @@ Year,Units,Herkunftsland,Value
 2018,Anzahl,Syrien,525665.0
 2019,Anzahl,Syrien,561525.0
 2020,Anzahl,Syrien,582644.0
+2021,Anzahl,Syrien,592180.0
 2010,Anzahl,Afghanistan,24000.0
 2011,Anzahl,Afghanistan,24725.0
 2012,Anzahl,Afghanistan,26592.0
@@ -109,6 +118,7 @@ Year,Units,Herkunftsland,Value
 2018,Anzahl,Afghanistan,130547.0
 2019,Anzahl,Afghanistan,143873.0
 2020,Anzahl,Afghanistan,149972.0
+2021,Anzahl,Afghanistan,167360.0
 2010,Anzahl,Irak,42454.0
 2011,Anzahl,Irak,41668.0
 2012,Anzahl,Irak,43065.0
@@ -120,6 +130,7 @@ Year,Units,Herkunftsland,Value
 2018,Anzahl,Irak,137506.0
 2019,Anzahl,Irak,140244.0
 2020,Anzahl,Irak,141464.0
+2021,Anzahl,Irak,145235.0
 2010,Anzahl,Iran,14960.0
 2011,Anzahl,Iran,15649.0
 2012,Anzahl,Iran,17224.0
@@ -131,6 +142,7 @@ Year,Units,Herkunftsland,Value
 2018,Anzahl,Iran,42597.0
 2019,Anzahl,Iran,44107.0
 2020,Anzahl,Iran,43282.0
+2021,Anzahl,Iran,45545.0
 2010,Anzahl,Türkei,44402.0
 2011,Anzahl,Türkei,42507.0
 2012,Anzahl,Türkei,42827.0
@@ -142,6 +154,7 @@ Year,Units,Herkunftsland,Value
 2018,Anzahl,Türkei,41270.0
 2019,Anzahl,Türkei,45043.0
 2020,Anzahl,Türkei,48825.0
+2021,Anzahl,Türkei,51545.0
 2010,Anzahl,Russische Föderation,36189.0
 2011,Anzahl,Russische Föderation,36556.0
 2012,Anzahl,Russische Föderation,36633.0
@@ -153,3 +166,4 @@ Year,Units,Herkunftsland,Value
 2018,Anzahl,Russische Föderation,38466.0
 2019,Anzahl,Russische Föderation,39300.0
 2020,Anzahl,Russische Föderation,39344.0
+2021,Anzahl,Russische Föderation,40210.0
