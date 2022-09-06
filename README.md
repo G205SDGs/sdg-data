@@ -74,6 +74,7 @@ The following is all metadata for all indicators in one blob for the build.
 /meta/all.json
 ```
 
+
 It's a JSON object with `{<id>: <meta>}` pairs.
 
 Scripts:
