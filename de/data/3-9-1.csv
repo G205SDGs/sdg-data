@@ -1,19 +1,109 @@
-Year,Zeitreihe,Value
-2010,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2011,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2012,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2013,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2014,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2015,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2010,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),38500.0
-2011,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),38800.0
-2012,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),34400.0
-2013,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),35700.0
-2014,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),33300.0
-2015,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),34300.0
-2010,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7900.0
-2011,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),8300.0
-2012,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7400.0
-2013,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7800.0
-2014,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7800.0
-2015,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7200.0
+Year,Units,Art der Erkrankung,Series,Value
+2010,Attributable Todesfälle,,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",20837
+2011,Attributable Todesfälle,,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",20385
+2012,Attributable Todesfälle,,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",17303
+2013,Attributable Todesfälle,,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",18494
+2014,Attributable Todesfälle,,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",17011
+2015,Attributable Todesfälle,,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",16298
+2016,Attributable Todesfälle,,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",15277
+2017,Attributable Todesfälle,,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",15467
+2018,Attributable Todesfälle,,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",15652
+2010,Attributable Todesfälle,Chronisch obstruktive Lungenerkrankung (COPD),"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2427
+2011,Attributable Todesfälle,Chronisch obstruktive Lungenerkrankung (COPD),"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2443
+2012,Attributable Todesfälle,Chronisch obstruktive Lungenerkrankung (COPD),"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2083
+2013,Attributable Todesfälle,Chronisch obstruktive Lungenerkrankung (COPD),"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2389
+2014,Attributable Todesfälle,Chronisch obstruktive Lungenerkrankung (COPD),"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2140
+2015,Attributable Todesfälle,Chronisch obstruktive Lungenerkrankung (COPD),"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2219
+2016,Attributable Todesfälle,Chronisch obstruktive Lungenerkrankung (COPD),"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2036
+2017,Attributable Todesfälle,Chronisch obstruktive Lungenerkrankung (COPD),"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2232
+2018,Attributable Todesfälle,Chronisch obstruktive Lungenerkrankung (COPD),"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2241
+2010,Attributable Todesfälle,Lungenkrebs,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",4773
+2011,Attributable Todesfälle,Lungenkrebs,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",4876
+2012,Attributable Todesfälle,Lungenkrebs,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",4144
+2013,Attributable Todesfälle,Lungenkrebs,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",4431
+2014,Attributable Todesfälle,Lungenkrebs,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",4263
+2015,Attributable Todesfälle,Lungenkrebs,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",3910
+2016,Attributable Todesfälle,Lungenkrebs,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",3808
+2017,Attributable Todesfälle,Lungenkrebs,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",3752
+2018,Attributable Todesfälle,Lungenkrebs,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",3785
+2010,Attributable Todesfälle,Schlaganfall,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2516
+2011,Attributable Todesfälle,Schlaganfall,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2480
+2012,Attributable Todesfälle,Schlaganfall,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2088
+2013,Attributable Todesfälle,Schlaganfall,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2204
+2014,Attributable Todesfälle,Schlaganfall,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",2056
+2015,Attributable Todesfälle,Schlaganfall,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",1933
+2016,Attributable Todesfälle,Schlaganfall,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",1878
+2017,Attributable Todesfälle,Schlaganfall,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",1831
+2018,Attributable Todesfälle,Schlaganfall,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",1871
+2010,Attributable Todesfälle,Ischämische Herzerkrankungen,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",10295
+2011,Attributable Todesfälle,Ischämische Herzerkrankungen,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",9722
+2012,Attributable Todesfälle,Ischämische Herzerkrankungen,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",8236
+2013,Attributable Todesfälle,Ischämische Herzerkrankungen,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",8685
+2014,Attributable Todesfälle,Ischämische Herzerkrankungen,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",7842
+2015,Attributable Todesfälle,Ischämische Herzerkrankungen,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",7491
+2016,Attributable Todesfälle,Ischämische Herzerkrankungen,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",6857
+2017,Attributable Todesfälle,Ischämische Herzerkrankungen,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",6913
+2018,Attributable Todesfälle,Ischämische Herzerkrankungen,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",6977
+2010,Attributable Todesfälle,Diabetes mellitus Typ 2,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",826
+2011,Attributable Todesfälle,Diabetes mellitus Typ 2,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",864
+2012,Attributable Todesfälle,Diabetes mellitus Typ 2,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",752
+2013,Attributable Todesfälle,Diabetes mellitus Typ 2,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",785
+2014,Attributable Todesfälle,Diabetes mellitus Typ 2,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",710
+2015,Attributable Todesfälle,Diabetes mellitus Typ 2,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",745
+2016,Attributable Todesfälle,Diabetes mellitus Typ 2,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",698
+2017,Attributable Todesfälle,Diabetes mellitus Typ 2,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",739
+2018,Attributable Todesfälle,Diabetes mellitus Typ 2,"Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",778
+2010,DALYs,,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",388024
+2011,DALYs,,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",378359
+2012,DALYs,,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",320267
+2013,DALYs,,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",341775
+2014,DALYs,,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",320022
+2015,DALYs,,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",302225
+2016,DALYs,,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",286350
+2017,DALYs,,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",285630
+2018,DALYs,,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",290702
+2010,DALYs,Chronisch obstruktive Lungenerkrankung (COPD),"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",51415
+2011,DALYs,Chronisch obstruktive Lungenerkrankung (COPD),"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",51215
+2012,DALYs,Chronisch obstruktive Lungenerkrankung (COPD),"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",42652
+2013,DALYs,Chronisch obstruktive Lungenerkrankung (COPD),"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",47602
+2014,DALYs,Chronisch obstruktive Lungenerkrankung (COPD),"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",44219
+2015,DALYs,Chronisch obstruktive Lungenerkrankung (COPD),"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",43673
+2016,DALYs,Chronisch obstruktive Lungenerkrankung (COPD),"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",41143
+2017,DALYs,Chronisch obstruktive Lungenerkrankung (COPD),"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",42790
+2018,DALYs,Chronisch obstruktive Lungenerkrankung (COPD),"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",43778
+2010,DALYs,Lungenkrebs,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",78163
+2011,DALYs,Lungenkrebs,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",79777
+2012,DALYs,Lungenkrebs,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",67652
+2013,DALYs,Lungenkrebs,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",72690
+2014,DALYs,Lungenkrebs,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",69466
+2015,DALYs,Lungenkrebs,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",63881
+2016,DALYs,Lungenkrebs,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",61593
+2017,DALYs,Lungenkrebs,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",60268
+2018,DALYs,Lungenkrebs,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",60842
+2010,DALYs,Schlaganfall,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",52395
+2011,DALYs,Schlaganfall,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",51381
+2012,DALYs,Schlaganfall,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",42603
+2013,DALYs,Schlaganfall,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",45064
+2014,DALYs,Schlaganfall,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",42624
+2015,DALYs,Schlaganfall,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",39719
+2016,DALYs,Schlaganfall,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",38335
+2017,DALYs,Schlaganfall,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",37437
+2018,DALYs,Schlaganfall,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",38418
+2010,DALYs,Ischämische Herzerkrankungen,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",151264
+2011,DALYs,Ischämische Herzerkrankungen,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",141532
+2012,DALYs,Ischämische Herzerkrankungen,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",119840
+2013,DALYs,Ischämische Herzerkrankungen,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",126023
+2014,DALYs,Ischämische Herzerkrankungen,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",115213
+2015,DALYs,Ischämische Herzerkrankungen,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",109005
+2016,DALYs,Ischämische Herzerkrankungen,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",100854
+2017,DALYs,Ischämische Herzerkrankungen,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",100345
+2018,DALYs,Ischämische Herzerkrankungen,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",101776
+2010,DALYs,Diabetes mellitus Typ 2,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",54787
+2011,DALYs,Diabetes mellitus Typ 2,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",54453
+2012,DALYs,Diabetes mellitus Typ 2,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",47520
+2013,DALYs,Diabetes mellitus Typ 2,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",50397
+2014,DALYs,Diabetes mellitus Typ 2,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",48500
+2015,DALYs,Diabetes mellitus Typ 2,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",45947
+2016,DALYs,Diabetes mellitus Typ 2,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",44423
+2017,DALYs,Diabetes mellitus Typ 2,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",44790
+2018,DALYs,Diabetes mellitus Typ 2,"DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",45888

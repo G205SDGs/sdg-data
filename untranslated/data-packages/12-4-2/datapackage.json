@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg per capita",
-                "%",
+                "kilogram per capita",
+                "percentage",
                 ""
               ]
             }

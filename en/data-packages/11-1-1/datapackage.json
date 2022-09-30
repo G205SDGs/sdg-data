@@ -16,23 +16,19 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "topic",
             "type": "string",
             "constraints": {
               "enum": [
-                "Overcrowding rate",
-                "Housing cost overburden rate",
-                "Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
-                "Population having neither a bath, nor a shower in their dwelling",
-                "Population not having indoor flushing toilet for the sole use of their household",
-                "Population considering their dwelling as too dark",
+                "Housing conditions",
+                "Housing deprivation",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Topic"
           },
           {
-            "name": "urbanisation",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -61,8 +57,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Housing conditions",
-                "Housing deprivation",
+                "Overcrowding rate",
+                "Housing cost overburden rate",
+                "Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+                "Population having neither a bath, nor a shower in their dwelling",
+                "Population not having indoor flushing toilet for the sole use of their household",
+                "Population considering their dwelling as too dark",
                 ""
               ]
             },

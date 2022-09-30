@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -23,7 +23,7 @@
                 "25 to under 45 years",
                 "45 to under 55 years",
                 "55 to under 65 years",
-                "65 years and over",
+                "65 years and older",
                 ""
               ]
             }

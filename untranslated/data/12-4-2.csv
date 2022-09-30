@@ -1,55 +1,67 @@
 Year,Units,timeseries,type of waste treatment,Value
-2010,kg per capita,hazardous waste generated per capita,,244.0
-2011,kg per capita,hazardous waste generated per capita,,
-2012,kg per capita,hazardous waste generated per capita,,273.0
-2013,kg per capita,hazardous waste generated per capita,,
-2014,kg per capita,hazardous waste generated per capita,,269.0
-2015,kg per capita,hazardous waste generated per capita,,
-2016,kg per capita,hazardous waste generated per capita,,280.0
-2017,kg per capita,hazardous waste generated per capita,,
-2018,kg per capita,hazardous waste generated per capita,,292.0
-2010,%,hazardous waste treated,,100.0
-2011,%,hazardous waste treated,,
-2012,%,hazardous waste treated,,100.0
-2013,%,hazardous waste treated,,
-2014,%,hazardous waste treated,,100.0
-2015,%,hazardous waste treated,,
-2016,%,hazardous waste treated,,100.0
-2017,%,hazardous waste treated,,
-2018,%,hazardous waste treated,,100.0
-2010,%,hazardous waste treated,energy recovery,13.6
-2011,%,hazardous waste treated,energy recovery,
-2012,%,hazardous waste treated,energy recovery,15.0
-2013,%,hazardous waste treated,energy recovery,
-2014,%,hazardous waste treated,energy recovery,13.6
-2015,%,hazardous waste treated,energy recovery,
-2016,%,hazardous waste treated,energy recovery,13.7
-2017,%,hazardous waste treated,energy recovery,
-2018,%,hazardous waste treated,energy recovery,14.0
-2010,%,hazardous waste treated,incineration,5.9
-2011,%,hazardous waste treated,incineration,
-2012,%,hazardous waste treated,incineration,5.4
-2013,%,hazardous waste treated,incineration,
-2014,%,hazardous waste treated,incineration,6.2
-2015,%,hazardous waste treated,incineration,
-2016,%,hazardous waste treated,incineration,4.9
-2017,%,hazardous waste treated,incineration,
-2018,%,hazardous waste treated,incineration,4.2
-2010,%,hazardous waste treated,recovery other than energy recovery,59.6
-2011,%,hazardous waste treated,recovery other than energy recovery,
-2012,%,hazardous waste treated,recovery other than energy recovery,56.5
-2013,%,hazardous waste treated,recovery other than energy recovery,
-2014,%,hazardous waste treated,recovery other than energy recovery,57.6
-2015,%,hazardous waste treated,recovery other than energy recovery,
-2016,%,hazardous waste treated,recovery other than energy recovery,57.1
-2017,%,hazardous waste treated,recovery other than energy recovery,
-2018,%,hazardous waste treated,recovery other than energy recovery,56.0
-2010,%,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,20.9
-2011,%,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
-2012,%,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,23.1
-2013,%,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
-2014,%,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,22.7
-2015,%,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
-2016,%,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,24.3
-2017,%,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
-2018,%,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,25.9
+2010,kilogram per capita,hazardous waste generated per capita,,244.0
+2011,kilogram per capita,hazardous waste generated per capita,,
+2012,kilogram per capita,hazardous waste generated per capita,,273.0
+2013,kilogram per capita,hazardous waste generated per capita,,
+2014,kilogram per capita,hazardous waste generated per capita,,269.0
+2015,kilogram per capita,hazardous waste generated per capita,,
+2016,kilogram per capita,hazardous waste generated per capita,,280.0
+2017,kilogram per capita,hazardous waste generated per capita,,
+2018,kilogram per capita,hazardous waste generated per capita,,292.0
+2019,kilogram per capita,hazardous waste generated per capita,,
+2020,kilogram per capita,hazardous waste generated per capita,,282.0
+2010,percentage,hazardous waste treated,,100.0
+2011,percentage,hazardous waste treated,,
+2012,percentage,hazardous waste treated,,100.0
+2013,percentage,hazardous waste treated,,
+2014,percentage,hazardous waste treated,,100.0
+2015,percentage,hazardous waste treated,,
+2016,percentage,hazardous waste treated,,100.0
+2017,percentage,hazardous waste treated,,
+2018,percentage,hazardous waste treated,,100.0
+2019,percentage,hazardous waste treated,,
+2020,percentage,hazardous waste treated,,100.0
+2010,percentage,hazardous waste treated,energy recovery,13.6
+2011,percentage,hazardous waste treated,energy recovery,
+2012,percentage,hazardous waste treated,energy recovery,15.0
+2013,percentage,hazardous waste treated,energy recovery,
+2014,percentage,hazardous waste treated,energy recovery,13.6
+2015,percentage,hazardous waste treated,energy recovery,
+2016,percentage,hazardous waste treated,energy recovery,13.7
+2017,percentage,hazardous waste treated,energy recovery,
+2018,percentage,hazardous waste treated,energy recovery,14.0
+2019,percentage,hazardous waste treated,energy recovery,
+2020,percentage,hazardous waste treated,energy recovery,14.3
+2010,percentage,hazardous waste treated,incineration,5.9
+2011,percentage,hazardous waste treated,incineration,
+2012,percentage,hazardous waste treated,incineration,5.4
+2013,percentage,hazardous waste treated,incineration,
+2014,percentage,hazardous waste treated,incineration,6.2
+2015,percentage,hazardous waste treated,incineration,
+2016,percentage,hazardous waste treated,incineration,4.9
+2017,percentage,hazardous waste treated,incineration,
+2018,percentage,hazardous waste treated,incineration,4.2
+2019,percentage,hazardous waste treated,incineration,
+2020,percentage,hazardous waste treated,incineration,4.9
+2010,percentage,hazardous waste treated,recovery other than energy recovery,59.6
+2011,percentage,hazardous waste treated,recovery other than energy recovery,
+2012,percentage,hazardous waste treated,recovery other than energy recovery,56.5
+2013,percentage,hazardous waste treated,recovery other than energy recovery,
+2014,percentage,hazardous waste treated,recovery other than energy recovery,57.6
+2015,percentage,hazardous waste treated,recovery other than energy recovery,
+2016,percentage,hazardous waste treated,recovery other than energy recovery,57.1
+2017,percentage,hazardous waste treated,recovery other than energy recovery,
+2018,percentage,hazardous waste treated,recovery other than energy recovery,56.0
+2019,percentage,hazardous waste treated,recovery other than energy recovery,
+2020,percentage,hazardous waste treated,recovery other than energy recovery,55.5
+2010,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,20.9
+2011,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
+2012,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,23.1
+2013,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
+2014,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,22.7
+2015,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
+2016,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,24.3
+2017,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
+2018,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,25.9
+2019,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,
+2020,percentage,hazardous waste treated,deposit onto or into land and land treatment and release into water bodies,25.4

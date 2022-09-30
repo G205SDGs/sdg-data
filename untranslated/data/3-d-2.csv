@@ -1,23 +1,25 @@
-Year,antimicrobial-resistant organisms,Value
-2010,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",8.35820895
-2011,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",7.96265788
-2012,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",8.83898709
-2013,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",10.74039362
-2014,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",10.53474223
-2015,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",10.29786291
-2016,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",11.09947643
-2017,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",12.28139037
-2018,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",12.19700759
-2019,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",11.50642805
-2020,"escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",10.34520348
-2010,methicillin-resistant staphylococcus aureus (mrsa),20.9090909
-2011,methicillin-resistant staphylococcus aureus (mrsa),16.08040201
-2012,methicillin-resistant staphylococcus aureus (mrsa),15.37261022
-2013,methicillin-resistant staphylococcus aureus (mrsa),12.81969309
-2014,methicillin-resistant staphylococcus aureus (mrsa),12.90527654
-2015,methicillin-resistant staphylococcus aureus (mrsa),11.25498007
-2016,methicillin-resistant staphylococcus aureus (mrsa),10.17636326
-2017,methicillin-resistant staphylococcus aureus (mrsa),9.07982937
-2018,methicillin-resistant staphylococcus aureus (mrsa),7.66907199
-2019,methicillin-resistant staphylococcus aureus (mrsa),6.71129707
-2020,methicillin-resistant staphylococcus aureus (mrsa),5.51446829
+Year,pathogens and resistance,Value
+2010,"escherichia coli, 3gcr",8.35820895
+2011,"escherichia coli, 3gcr",7.96265788
+2012,"escherichia coli, 3gcr",8.83898709
+2013,"escherichia coli, 3gcr",10.74039362
+2014,"escherichia coli, 3gcr",10.53474223
+2015,"escherichia coli, 3gcr",10.29786291
+2016,"escherichia coli, 3gcr",11.09947643
+2017,"escherichia coli, 3gcr",12.28139037
+2018,"escherichia coli, 3gcr",12.19700759
+2019,"escherichia coli, 3gcr",11.50642805
+2020,"escherichia coli, 3gcr",10.34520348
+2021,"escherichia coli, 3gcr",9.09686089
+2010,"staphylococcus aureus, mr",20.9090909
+2011,"staphylococcus aureus, mr",16.08040201
+2012,"staphylococcus aureus, mr",15.37261022
+2013,"staphylococcus aureus, mr",12.81969309
+2014,"staphylococcus aureus, mr",12.90527654
+2015,"staphylococcus aureus, mr",11.25498007
+2016,"staphylococcus aureus, mr",10.17636326
+2017,"staphylococcus aureus, mr",9.07982937
+2018,"staphylococcus aureus, mr",7.66907199
+2019,"staphylococcus aureus, mr",6.71129707
+2020,"staphylococcus aureus, mr",5.51446829
+2021,"staphylococcus aureus, mr",4.86199037

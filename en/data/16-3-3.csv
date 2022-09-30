@@ -1,9 +1,49 @@
 Year,Time series,Outcome of the application process,Value
-2016,Applications received,,61694
-2017,Applications received,,68538
-2016,Applications finally processed,,66220
-2017,Applications finally processed,,70423
-2016,Applications finally processed,Admissible applications,53012
-2017,Applications finally processed,Admissible applications,57413
-2016,Applications finally processed,Rejected applications,13208
-2017,Applications finally processed,Rejected applications,13010
+2010,Applications received,,
+2011,Applications received,,
+2012,Applications received,,
+2013,Applications received,,
+2014,Applications received,,
+2015,Applications received,,
+2016,Applications received,,61694.0
+2017,Applications received,,68538.0
+2018,Applications received,,88196.0
+2019,Applications received,,78533.0
+2020,Applications received,,100349.0
+2021,Applications received,,83997.0
+2010,Applications finally processed,,
+2011,Applications finally processed,,
+2012,Applications finally processed,,
+2013,Applications finally processed,,
+2014,Applications finally processed,,
+2015,Applications finally processed,,
+2016,Applications finally processed,,66220.0
+2017,Applications finally processed,,70423.0
+2018,Applications finally processed,,69477.0
+2019,Applications finally processed,,82684.0
+2020,Applications finally processed,,89597.0
+2021,Applications finally processed,,87166.0
+2010,Applications finally processed,Admissible applications,
+2011,Applications finally processed,Admissible applications,
+2012,Applications finally processed,Admissible applications,
+2013,Applications finally processed,Admissible applications,
+2014,Applications finally processed,Admissible applications,
+2015,Applications finally processed,Admissible applications,
+2016,Applications finally processed,Admissible applications,53012.0
+2017,Applications finally processed,Admissible applications,57413.0
+2018,Applications finally processed,Admissible applications,51859.0
+2019,Applications finally processed,Admissible applications,65444.0
+2020,Applications finally processed,Admissible applications,75206.0
+2021,Applications finally processed,Admissible applications,70654.0
+2010,Applications finally processed,Rejected applications,
+2011,Applications finally processed,Rejected applications,
+2012,Applications finally processed,Rejected applications,
+2013,Applications finally processed,Rejected applications,
+2014,Applications finally processed,Rejected applications,
+2015,Applications finally processed,Rejected applications,
+2016,Applications finally processed,Rejected applications,13208.0
+2017,Applications finally processed,Rejected applications,13010.0
+2018,Applications finally processed,Rejected applications,17618.0
+2019,Applications finally processed,Rejected applications,17240.0
+2020,Applications finally processed,Rejected applications,14391.0
+2021,Applications finally processed,Rejected applications,16512.0

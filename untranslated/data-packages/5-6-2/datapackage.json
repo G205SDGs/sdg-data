@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "maternity care",
-                "contraceptive and family planning",
-                "comprehensive sexuality education and information",
-                "hiv and hpv",
+                "section 1: maternity care",
+                "section 2: contraception and family planning",
+                "section 3: comprehensive sexuality education and information",
+                "section 4: hiv and hpv",
                 ""
               ]
             }

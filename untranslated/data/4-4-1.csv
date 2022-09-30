@@ -1,16 +1,16 @@
-Year,activities,age,Value
-2010,copied or moved a file and folder,16 to under 75 years,
-2011,copied or moved a file and folder,16 to under 75 years,72.0
-2012,copied or moved a file and folder,16 to under 75 years,68.0
-2013,copied or moved a file and folder,16 to under 75 years,
-2014,copied or moved a file and folder,16 to under 75 years,76.0
-2015,copied or moved a file and folder,16 to under 75 years,68.0
-2016,copied or moved a file and folder,16 to under 75 years,68.0
-2017,copied or moved a file and folder,16 to under 75 years,69.0
-2018,copied or moved a file and folder,16 to under 75 years,
-2019,copied or moved a file and folder,16 to under 75 years,71.0
-2020,copied or moved a file and folder,16 to under 75 years,
-2021,copied or moved a file and folder,16 to under 75 years,
+Year,activities,age group,Value
+2010,copying or moving of files and folders,16 to under 75 years,
+2011,copying or moving of files and folders,16 to under 75 years,72.0
+2012,copying or moving of files and folders,16 to under 75 years,68.0
+2013,copying or moving of files and folders,16 to under 75 years,
+2014,copying or moving of files and folders,16 to under 75 years,76.0
+2015,copying or moving of files and folders,16 to under 75 years,68.0
+2016,copying or moving of files and folders,16 to under 75 years,68.0
+2017,copying or moving of files and folders,16 to under 75 years,69.0
+2018,copying or moving of files and folders,16 to under 75 years,
+2019,copying or moving of files and folders,16 to under 75 years,71.0
+2020,copying or moving of files and folders,16 to under 75 years,
+2021,copying or moving of files and folders,16 to under 75 years,
 2010,using copy or cut and paste tools to duplicate or move information on screen,16 to under 75 years,
 2011,using copy or cut and paste tools to duplicate or move information on screen,16 to under 75 years,70.0
 2012,using copy or cut and paste tools to duplicate or move information on screen,16 to under 75 years,66.0
@@ -23,18 +23,18 @@ Year,activities,age,Value
 2019,using copy or cut and paste tools to duplicate or move information on screen,16 to under 75 years,
 2020,using copy or cut and paste tools to duplicate or move information on screen,16 to under 75 years,
 2021,using copy or cut and paste tools to duplicate or move information on screen,16 to under 75 years,
-2010,written code in a programming language,16 to under 75 years,
-2011,written code in a programming language,16 to under 75 years,
-2012,written code in a programming language,16 to under 75 years,
-2013,written code in a programming language,16 to under 75 years,
-2014,written code in a programming language,16 to under 75 years,
-2015,written code in a programming language,16 to under 75 years,6.0
-2016,written code in a programming language,16 to under 75 years,6.0
-2017,written code in a programming language,16 to under 75 years,6.0
-2018,written code in a programming language,16 to under 75 years,
-2019,written code in a programming language,16 to under 75 years,6.0
-2020,written code in a programming language,16 to under 75 years,
-2021,written code in a programming language,16 to under 75 years,4.6
+2010,writing code in a programming language,16 to under 75 years,
+2011,writing code in a programming language,16 to under 75 years,
+2012,writing code in a programming language,16 to under 75 years,
+2013,writing code in a programming language,16 to under 75 years,
+2014,writing code in a programming language,16 to under 75 years,
+2015,writing code in a programming language,16 to under 75 years,6.0
+2016,writing code in a programming language,16 to under 75 years,6.0
+2017,writing code in a programming language,16 to under 75 years,6.0
+2018,writing code in a programming language,16 to under 75 years,
+2019,writing code in a programming language,16 to under 75 years,6.0
+2020,writing code in a programming language,16 to under 75 years,
+2021,writing code in a programming language,16 to under 75 years,4.6
 2010,"connecting and installing new devices, eg a printer or a modem",16 to under 75 years,
 2011,"connecting and installing new devices, eg a printer or a modem",16 to under 75 years,45.0
 2012,"connecting and installing new devices, eg a printer or a modem",16 to under 75 years,45.0
@@ -47,66 +47,66 @@ Year,activities,age,Value
 2019,"connecting and installing new devices, eg a printer or a modem",16 to under 75 years,
 2020,"connecting and installing new devices, eg a printer or a modem",16 to under 75 years,
 2021,"connecting and installing new devices, eg a printer or a modem",16 to under 75 years,
-2010,transferred files between computer and other devices,16 to under 75 years,
-2011,transferred files between computer and other devices,16 to under 75 years,61.0
-2012,transferred files between computer and other devices,16 to under 75 years,59.0
-2013,transferred files between computer and other devices,16 to under 75 years,
-2014,transferred files between computer and other devices,16 to under 75 years,65.0
-2015,transferred files between computer and other devices,16 to under 75 years,60.0
-2016,transferred files between computer and other devices,16 to under 75 years,62.0
-2017,transferred files between computer and other devices,16 to under 75 years,64.0
-2018,transferred files between computer and other devices,16 to under 75 years,
-2019,transferred files between computer and other devices,16 to under 75 years,66.0
-2020,transferred files between computer and other devices,16 to under 75 years,
-2021,transferred files between computer and other devices,16 to under 75 years,52.8
-2010,installed software or applications (apps),16 to under 75 years,
-2011,installed software or applications (apps),16 to under 75 years,
-2012,installed software or applications (apps),16 to under 75 years,
-2013,installed software or applications (apps),16 to under 75 years,
-2014,installed software or applications (apps),16 to under 75 years,
-2015,installed software or applications (apps),16 to under 75 years,60.0
-2016,installed software or applications (apps),16 to under 75 years,63.0
-2017,installed software or applications (apps),16 to under 75 years,62.0
-2018,installed software or applications (apps),16 to under 75 years,
-2019,installed software or applications (apps),16 to under 75 years,68.0
-2020,installed software or applications (apps),16 to under 75 years,
-2021,installed software or applications (apps),16 to under 75 years,44.0
-2010,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,
-2011,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,33.0
-2012,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,30.0
-2013,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,
-2014,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,34.0
-2015,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,
-2016,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,
-2017,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,
-2018,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,
-2019,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,
-2020,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,
-2021,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 75 years,
-2010,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
-2011,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
-2012,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
-2013,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
-2014,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
-2015,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,32.0
-2016,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,31.0
-2017,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,33.0
-2018,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
-2019,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,33.0
-2020,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
-2021,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,25.2
-2010,copied or moved a file and folder,16 to under 25 years,
-2011,copied or moved a file and folder,16 to under 25 years,94.0
-2012,copied or moved a file and folder,16 to under 25 years,87.0
-2013,copied or moved a file and folder,16 to under 25 years,
-2014,copied or moved a file and folder,16 to under 25 years,94.0
-2015,copied or moved a file and folder,16 to under 25 years,87.0
-2016,copied or moved a file and folder,16 to under 25 years,86.0
-2017,copied or moved a file and folder,16 to under 25 years,84.0
-2018,copied or moved a file and folder,16 to under 25 years,
-2019,copied or moved a file and folder,16 to under 25 years,82.0
-2020,copied or moved a file and folder,16 to under 25 years,
-2021,copied or moved a file and folder,16 to under 25 years,
+2010,transferring files between computer and other devices,16 to under 75 years,
+2011,transferring files between computer and other devices,16 to under 75 years,61.0
+2012,transferring files between computer and other devices,16 to under 75 years,59.0
+2013,transferring files between computer and other devices,16 to under 75 years,
+2014,transferring files between computer and other devices,16 to under 75 years,65.0
+2015,transferring files between computer and other devices,16 to under 75 years,60.0
+2016,transferring files between computer and other devices,16 to under 75 years,62.0
+2017,transferring files between computer and other devices,16 to under 75 years,64.0
+2018,transferring files between computer and other devices,16 to under 75 years,
+2019,transferring files between computer and other devices,16 to under 75 years,66.0
+2020,transferring files between computer and other devices,16 to under 75 years,
+2021,transferring files between computer and other devices,16 to under 75 years,52.8
+2010,installing software or apps,16 to under 75 years,
+2011,installing software or apps,16 to under 75 years,
+2012,installing software or apps,16 to under 75 years,
+2013,installing software or apps,16 to under 75 years,
+2014,installing software or apps,16 to under 75 years,
+2015,installing software or apps,16 to under 75 years,60.0
+2016,installing software or apps,16 to under 75 years,63.0
+2017,installing software or apps,16 to under 75 years,62.0
+2018,installing software or apps,16 to under 75 years,
+2019,installing software or apps,16 to under 75 years,68.0
+2020,installing software or apps,16 to under 75 years,
+2021,installing software or apps,16 to under 75 years,44.0
+2010,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,
+2011,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,33.0
+2012,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,30.0
+2013,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,
+2014,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,34.0
+2015,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,
+2016,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,
+2017,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,
+2018,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,
+2019,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,
+2020,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,
+2021,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 75 years,
+2010,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
+2011,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
+2012,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
+2013,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
+2014,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
+2015,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,32.0
+2016,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,31.0
+2017,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,33.0
+2018,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
+2019,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,33.0
+2020,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,
+2021,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 75 years,25.2
+2010,copying or moving of files and folders,16 to under 25 years,
+2011,copying or moving of files and folders,16 to under 25 years,94.0
+2012,copying or moving of files and folders,16 to under 25 years,87.0
+2013,copying or moving of files and folders,16 to under 25 years,
+2014,copying or moving of files and folders,16 to under 25 years,94.0
+2015,copying or moving of files and folders,16 to under 25 years,87.0
+2016,copying or moving of files and folders,16 to under 25 years,86.0
+2017,copying or moving of files and folders,16 to under 25 years,84.0
+2018,copying or moving of files and folders,16 to under 25 years,
+2019,copying or moving of files and folders,16 to under 25 years,82.0
+2020,copying or moving of files and folders,16 to under 25 years,
+2021,copying or moving of files and folders,16 to under 25 years,
 2010,using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,
 2011,using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,92.0
 2012,using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,85.0
@@ -119,18 +119,18 @@ Year,activities,age,Value
 2019,using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,
 2020,using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,
 2021,using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,
-2010,written code in a programming language,16 to under 25 years,
-2011,written code in a programming language,16 to under 25 years,
-2012,written code in a programming language,16 to under 25 years,
-2013,written code in a programming language,16 to under 25 years,
-2014,written code in a programming language,16 to under 25 years,
-2015,written code in a programming language,16 to under 25 years,12.0
-2016,written code in a programming language,16 to under 25 years,13.0
-2017,written code in a programming language,16 to under 25 years,12.0
-2018,written code in a programming language,16 to under 25 years,
-2019,written code in a programming language,16 to under 25 years,14.0
-2020,written code in a programming language,16 to under 25 years,
-2021,written code in a programming language,16 to under 25 years,10.1
+2010,writing code in a programming language,16 to under 25 years,
+2011,writing code in a programming language,16 to under 25 years,
+2012,writing code in a programming language,16 to under 25 years,
+2013,writing code in a programming language,16 to under 25 years,
+2014,writing code in a programming language,16 to under 25 years,
+2015,writing code in a programming language,16 to under 25 years,12.0
+2016,writing code in a programming language,16 to under 25 years,13.0
+2017,writing code in a programming language,16 to under 25 years,12.0
+2018,writing code in a programming language,16 to under 25 years,
+2019,writing code in a programming language,16 to under 25 years,14.0
+2020,writing code in a programming language,16 to under 25 years,
+2021,writing code in a programming language,16 to under 25 years,10.1
 2010,"connecting and installing new devices, eg a printer or a modem",16 to under 25 years,
 2011,"connecting and installing new devices, eg a printer or a modem",16 to under 25 years,62.0
 2012,"connecting and installing new devices, eg a printer or a modem",16 to under 25 years,57.0
@@ -143,66 +143,66 @@ Year,activities,age,Value
 2019,"connecting and installing new devices, eg a printer or a modem",16 to under 25 years,
 2020,"connecting and installing new devices, eg a printer or a modem",16 to under 25 years,
 2021,"connecting and installing new devices, eg a printer or a modem",16 to under 25 years,
-2010,transferred files between computer and other devices,16 to under 25 years,
-2011,transferred files between computer and other devices,16 to under 25 years,92.0
-2012,transferred files between computer and other devices,16 to under 25 years,88.0
-2013,transferred files between computer and other devices,16 to under 25 years,
-2014,transferred files between computer and other devices,16 to under 25 years,91.0
-2015,transferred files between computer and other devices,16 to under 25 years,86.0
-2016,transferred files between computer and other devices,16 to under 25 years,85.0
-2017,transferred files between computer and other devices,16 to under 25 years,83.0
-2018,transferred files between computer and other devices,16 to under 25 years,
-2019,transferred files between computer and other devices,16 to under 25 years,80.0
-2020,transferred files between computer and other devices,16 to under 25 years,
-2021,transferred files between computer and other devices,16 to under 25 years,68.2
-2010,installed software or applications (apps),16 to under 25 years,
-2011,installed software or applications (apps),16 to under 25 years,
-2012,installed software or applications (apps),16 to under 25 years,
-2013,installed software or applications (apps),16 to under 25 years,
-2014,installed software or applications (apps),16 to under 25 years,
-2015,installed software or applications (apps),16 to under 25 years,87.0
-2016,installed software or applications (apps),16 to under 25 years,89.0
-2017,installed software or applications (apps),16 to under 25 years,86.0
-2018,installed software or applications (apps),16 to under 25 years,
-2019,installed software or applications (apps),16 to under 25 years,88.0
-2020,installed software or applications (apps),16 to under 25 years,
-2021,installed software or applications (apps),16 to under 25 years,58.5
-2010,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,
-2011,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,67.0
-2012,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,57.0
-2013,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,
-2014,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,67.0
-2015,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,
-2016,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,
-2017,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,
-2018,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,
-2019,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,
-2020,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,
-2021,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",16 to under 25 years,
-2010,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
-2011,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
-2012,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
-2013,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
-2014,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
-2015,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,35.0
-2016,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,34.0
-2017,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,36.0
-2018,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
-2019,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,34.0
-2020,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
-2021,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,33.2
-2010,copied or moved a file and folder,25 to under 65 years,
-2011,copied or moved a file and folder,25 to under 65 years,76.0
-2012,copied or moved a file and folder,25 to under 65 years,71.0
-2013,copied or moved a file and folder,25 to under 65 years,
-2014,copied or moved a file and folder,25 to under 65 years,80.0
-2015,copied or moved a file and folder,25 to under 65 years,72.0
-2016,copied or moved a file and folder,25 to under 65 years,72.0
-2017,copied or moved a file and folder,25 to under 65 years,73.0
-2018,copied or moved a file and folder,25 to under 65 years,
-2019,copied or moved a file and folder,25 to under 65 years,75.0
-2020,copied or moved a file and folder,25 to under 65 years,
-2021,copied or moved a file and folder,25 to under 65 years,
+2010,transferring files between computer and other devices,16 to under 25 years,
+2011,transferring files between computer and other devices,16 to under 25 years,92.0
+2012,transferring files between computer and other devices,16 to under 25 years,88.0
+2013,transferring files between computer and other devices,16 to under 25 years,
+2014,transferring files between computer and other devices,16 to under 25 years,91.0
+2015,transferring files between computer and other devices,16 to under 25 years,86.0
+2016,transferring files between computer and other devices,16 to under 25 years,85.0
+2017,transferring files between computer and other devices,16 to under 25 years,83.0
+2018,transferring files between computer and other devices,16 to under 25 years,
+2019,transferring files between computer and other devices,16 to under 25 years,80.0
+2020,transferring files between computer and other devices,16 to under 25 years,
+2021,transferring files between computer and other devices,16 to under 25 years,68.2
+2010,installing software or apps,16 to under 25 years,
+2011,installing software or apps,16 to under 25 years,
+2012,installing software or apps,16 to under 25 years,
+2013,installing software or apps,16 to under 25 years,
+2014,installing software or apps,16 to under 25 years,
+2015,installing software or apps,16 to under 25 years,87.0
+2016,installing software or apps,16 to under 25 years,89.0
+2017,installing software or apps,16 to under 25 years,86.0
+2018,installing software or apps,16 to under 25 years,
+2019,installing software or apps,16 to under 25 years,88.0
+2020,installing software or apps,16 to under 25 years,
+2021,installing software or apps,16 to under 25 years,58.5
+2010,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,
+2011,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,67.0
+2012,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,57.0
+2013,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,
+2014,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,67.0
+2015,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,
+2016,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,
+2017,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,
+2018,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,
+2019,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,
+2020,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,
+2021,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",16 to under 25 years,
+2010,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
+2011,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
+2012,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
+2013,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
+2014,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
+2015,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,35.0
+2016,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,34.0
+2017,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,36.0
+2018,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
+2019,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,34.0
+2020,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,
+2021,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,33.2
+2010,copying or moving of files and folders,25 to under 65 years,
+2011,copying or moving of files and folders,25 to under 65 years,76.0
+2012,copying or moving of files and folders,25 to under 65 years,71.0
+2013,copying or moving of files and folders,25 to under 65 years,
+2014,copying or moving of files and folders,25 to under 65 years,80.0
+2015,copying or moving of files and folders,25 to under 65 years,72.0
+2016,copying or moving of files and folders,25 to under 65 years,72.0
+2017,copying or moving of files and folders,25 to under 65 years,73.0
+2018,copying or moving of files and folders,25 to under 65 years,
+2019,copying or moving of files and folders,25 to under 65 years,75.0
+2020,copying or moving of files and folders,25 to under 65 years,
+2021,copying or moving of files and folders,25 to under 65 years,
 2010,using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,
 2011,using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,74.0
 2012,using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,69.0
@@ -215,18 +215,18 @@ Year,activities,age,Value
 2019,using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,
 2020,using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,
 2021,using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,
-2010,written code in a programming language,25 to under 65 years,
-2011,written code in a programming language,25 to under 65 years,
-2012,written code in a programming language,25 to under 65 years,
-2013,written code in a programming language,25 to under 65 years,
-2014,written code in a programming language,25 to under 65 years,
-2015,written code in a programming language,25 to under 65 years,6.0
-2016,written code in a programming language,25 to under 65 years,5.0
-2017,written code in a programming language,25 to under 65 years,5.0
-2018,written code in a programming language,25 to under 65 years,
-2019,written code in a programming language,25 to under 65 years,5.0
-2020,written code in a programming language,25 to under 65 years,
-2021,written code in a programming language,25 to under 65 years,4.5
+2010,writing code in a programming language,25 to under 65 years,
+2011,writing code in a programming language,25 to under 65 years,
+2012,writing code in a programming language,25 to under 65 years,
+2013,writing code in a programming language,25 to under 65 years,
+2014,writing code in a programming language,25 to under 65 years,
+2015,writing code in a programming language,25 to under 65 years,6.0
+2016,writing code in a programming language,25 to under 65 years,5.0
+2017,writing code in a programming language,25 to under 65 years,5.0
+2018,writing code in a programming language,25 to under 65 years,
+2019,writing code in a programming language,25 to under 65 years,5.0
+2020,writing code in a programming language,25 to under 65 years,
+2021,writing code in a programming language,25 to under 65 years,4.5
 2010,"connecting and installing new devices, eg a printer or a modem",25 to under 65 years,
 2011,"connecting and installing new devices, eg a printer or a modem",25 to under 65 years,47.0
 2012,"connecting and installing new devices, eg a printer or a modem",25 to under 65 years,48.0
@@ -239,51 +239,51 @@ Year,activities,age,Value
 2019,"connecting and installing new devices, eg a printer or a modem",25 to under 65 years,
 2020,"connecting and installing new devices, eg a printer or a modem",25 to under 65 years,
 2021,"connecting and installing new devices, eg a printer or a modem",25 to under 65 years,
-2010,transferred files between computer and other devices,25 to under 65 years,
-2011,transferred files between computer and other devices,25 to under 65 years,63.0
-2012,transferred files between computer and other devices,25 to under 65 years,61.0
-2013,transferred files between computer and other devices,25 to under 65 years,
-2014,transferred files between computer and other devices,25 to under 65 years,68.0
-2015,transferred files between computer and other devices,25 to under 65 years,63.0
-2016,transferred files between computer and other devices,25 to under 65 years,65.0
-2017,transferred files between computer and other devices,25 to under 65 years,66.0
-2018,transferred files between computer and other devices,25 to under 65 years,
-2019,transferred files between computer and other devices,25 to under 65 years,69.0
-2020,transferred files between computer and other devices,25 to under 65 years,
-2021,transferred files between computer and other devices,25 to under 65 years,54.7
-2010,installed software or applications (apps),25 to under 65 years,
-2011,installed software or applications (apps),25 to under 65 years,
-2012,installed software or applications (apps),25 to under 65 years,
-2013,installed software or applications (apps),25 to under 65 years,
-2014,installed software or applications (apps),25 to under 65 years,
-2015,installed software or applications (apps),25 to under 65 years,63.0
-2016,installed software or applications (apps),25 to under 65 years,66.0
-2017,installed software or applications (apps),25 to under 65 years,65.0
-2018,installed software or applications (apps),25 to under 65 years,
-2019,installed software or applications (apps),25 to under 65 years,72.0
-2020,installed software or applications (apps),25 to under 65 years,
-2021,installed software or applications (apps),25 to under 65 years,45.9
-2010,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,
-2011,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,32.0
-2012,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,30.0
-2013,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,
-2014,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,33.0
-2015,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,
-2016,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,
-2017,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,
-2018,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,
-2019,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,
-2020,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,
-2021,"creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",25 to under 65 years,
-2010,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
-2011,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
-2012,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
-2013,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
-2014,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
-2015,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,35.0
-2016,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,34.0
-2017,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,37.0
-2018,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
-2019,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,37.0
-2020,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
-2021,"used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,26.9
+2010,transferring files between computer and other devices,25 to under 65 years,
+2011,transferring files between computer and other devices,25 to under 65 years,63.0
+2012,transferring files between computer and other devices,25 to under 65 years,61.0
+2013,transferring files between computer and other devices,25 to under 65 years,
+2014,transferring files between computer and other devices,25 to under 65 years,68.0
+2015,transferring files between computer and other devices,25 to under 65 years,63.0
+2016,transferring files between computer and other devices,25 to under 65 years,65.0
+2017,transferring files between computer and other devices,25 to under 65 years,66.0
+2018,transferring files between computer and other devices,25 to under 65 years,
+2019,transferring files between computer and other devices,25 to under 65 years,69.0
+2020,transferring files between computer and other devices,25 to under 65 years,
+2021,transferring files between computer and other devices,25 to under 65 years,54.7
+2010,installing software or apps,25 to under 65 years,
+2011,installing software or apps,25 to under 65 years,
+2012,installing software or apps,25 to under 65 years,
+2013,installing software or apps,25 to under 65 years,
+2014,installing software or apps,25 to under 65 years,
+2015,installing software or apps,25 to under 65 years,63.0
+2016,installing software or apps,25 to under 65 years,66.0
+2017,installing software or apps,25 to under 65 years,65.0
+2018,installing software or apps,25 to under 65 years,
+2019,installing software or apps,25 to under 65 years,72.0
+2020,installing software or apps,25 to under 65 years,
+2021,installing software or apps,25 to under 65 years,45.9
+2010,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,
+2011,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,32.0
+2012,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,30.0
+2013,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,
+2014,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,33.0
+2015,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,
+2016,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,
+2017,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,
+2018,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,
+2019,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,
+2020,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,
+2021,"creating electronic presentations with presentation software, including e.g. images, sound, video or charts",25 to under 65 years,
+2010,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
+2011,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
+2012,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
+2013,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
+2014,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
+2015,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,35.0
+2016,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,34.0
+2017,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,37.0
+2018,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
+2019,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,37.0
+2020,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,
+2021,"using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,26.9

@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) drugs",
-                "b) alcohol and other psychoactive substances",
+                "drugs",
+                "alcohol and other psychoactive substances",
                 ""
               ]
             }

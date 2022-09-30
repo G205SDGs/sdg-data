@@ -59,7 +59,7 @@
             "title": "GeoCode"
           },
           {
-            "name": "disability",
+            "name": "disability status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -70,7 +70,7 @@
             "title": "Disability status"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [

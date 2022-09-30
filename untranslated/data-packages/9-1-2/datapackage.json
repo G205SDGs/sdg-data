@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn pkm",
-                "mn tkm",
+                "million passenger-kilometre",
+                "million tonne-kilometres",
                 ""
               ]
             }
@@ -32,10 +32,10 @@
               "enum": [
                 "road transport",
                 "rail transport",
-                "commercial air transport",
+                "air transport",
                 "motorised private transport",
                 "inland waterway transport",
-                "transport via pipeline crude oil",
+                "pipelines: crude oil",
                 ""
               ]
             }

@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "economic sector",
+            "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [

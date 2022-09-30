@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn t",
-                "t per capita",
+                "million tonnes",
+                "tonnes per capita",
                 "2015 = 100",
                 ""
               ]

@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eur/h",
-                "%",
+                "eur per hour",
+                "percentage",
                 ""
               ]
             }
@@ -41,7 +41,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
+                "baden-württemberg",
                 "bavaria",
                 "berlin",
                 "brandenburg",

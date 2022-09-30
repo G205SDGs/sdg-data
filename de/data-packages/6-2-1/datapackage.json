@@ -28,7 +28,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "characteristics",
+            "name": "availability",
             "type": "string",
             "constraints": {
               "enum": [

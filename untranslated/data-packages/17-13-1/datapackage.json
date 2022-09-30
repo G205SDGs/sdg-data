@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
-                "bn eur",
-                "mn h",
+                "percentage",
+                "billion eur",
+                "million hours",
                 "2015 = 100",
                 "1 000",
                 ""

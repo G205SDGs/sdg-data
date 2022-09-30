@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "antimicrobial-resistant organisms",
+            "name": "pathogens and resistance",
             "type": "string",
             "constraints": {
               "enum": [

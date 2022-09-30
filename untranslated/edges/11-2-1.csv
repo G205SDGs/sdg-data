@@ -1,5 +1,5 @@
 From,To
 timeseries,region
-timeseries,disability
-timeseries,age
+timeseries,disability status
+timeseries,age group
 timeseries,sex

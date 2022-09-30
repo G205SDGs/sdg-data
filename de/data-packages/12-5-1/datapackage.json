@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Prozent",
-                "1 000 Tonnen",
+                "1,000 tonnes",
                 ""
               ]
             },

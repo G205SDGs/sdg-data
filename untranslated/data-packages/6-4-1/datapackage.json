@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "economic sector",
+            "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) agriculture, forestry and fishing (nace rev 2, section a)",
-                "b) mimec (nace rev 2, sections b, c, d, f)",
-                "c) services (nace rev 2, sections e, g to t)",
+                "agriculture, forestry and fishing",
+                "mimec",
+                "services",
                 ""
               ]
             }

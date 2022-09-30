@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "domain",
+            "name": "policy area",
             "type": "string",
             "constraints": {
               "enum": [

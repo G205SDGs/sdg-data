@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "greater 10 percentage",
-                "greater 25 percentage",
+                "greater 10 %",
+                "greater 25 %",
                 ""
               ]
             }

@@ -15,20 +15,46 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
-                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
-                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)",
+                "attributable deaths",
+                "dalys",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "chronic obstructive pulmonary disease (copd)",
+                "lung cancer",
+                "stroke",
+                "ischemic heart diseases",
+                "diabetes mellitus type 2",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
+                "attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease",
+                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
+                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

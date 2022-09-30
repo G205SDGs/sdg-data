@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 1 year",
-                "under 5 years",
+                "11 months and younger",
+                "4 years and younger",
                 ""
               ]
             }

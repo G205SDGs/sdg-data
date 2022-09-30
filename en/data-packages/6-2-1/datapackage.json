@@ -28,7 +28,7 @@
             "title": "Time series"
           },
           {
-            "name": "characteristics",
+            "name": "availability",
             "type": "string",
             "constraints": {
               "enum": [

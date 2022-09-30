@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM₁₀",
+                "pm₁₀",
                 "PM₂,₅",
                 ""
               ]

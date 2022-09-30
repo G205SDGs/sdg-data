@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "level of waterstress",
+            "name": "water use index",
             "type": "string",
             "constraints": {
               "enum": [

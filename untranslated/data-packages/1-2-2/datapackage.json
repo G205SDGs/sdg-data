@@ -26,13 +26,13 @@
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
+                "17 years and younger",
                 "18 to under 65 years",
-                "65 years and over",
+                "65 years and older",
                 ""
               ]
             }

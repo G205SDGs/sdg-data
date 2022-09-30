@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percentage",
                 "number",
                 ""
               ]
@@ -42,11 +42,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) at risk",
-                "a) not at risk",
-                "b) under observation",
-                "c) breeding programs for preservation",
-                "d) rudiments remaining",
+                "at risk",
+                "not at risk",
+                "under observation",
+                "breeding programs for preservation",
+                "rudiments remaining",
                 ""
               ]
             }

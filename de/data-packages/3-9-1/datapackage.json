@@ -16,13 +16,41 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
-                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
-                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)",
+                "Attributable Todesfälle",
+                "DALYs",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chronisch obstruktive Lungenerkrankung (COPD)",
+                "Lungenkrebs",
+                "Schlaganfall",
+                "Ischämische Herzerkrankungen",
+                "Diabetes mellitus Typ 2",
+                ""
+              ]
+            },
+            "title": "Art der Erkrankung"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
+                "DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
                 ""
               ]
             },
@@ -30,7 +58,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) at the end of lower primary education",
+                "b) at the end of primary education",
                 "c) at the end of lower secondary education",
                 ""
               ]

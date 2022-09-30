@@ -1,4 +1,4 @@
-Year,timeseries,age,sex,Value
+Year,timeseries,age group,sex,Value
 2010,victims of physical harassment,,,28870
 2011,victims of physical harassment,,,26876
 2012,victims of physical harassment,,,26360
@@ -35,42 +35,42 @@ Year,timeseries,age,sex,Value
 2019,victims of physical harassment,,male,4805
 2020,victims of physical harassment,,male,5109
 2021,victims of physical harassment,,male,5454
-2010,victims of physical harassment,under 14 years,,443
-2011,victims of physical harassment,under 14 years,,416
-2012,victims of physical harassment,under 14 years,,432
-2013,victims of physical harassment,under 14 years,,427
-2014,victims of physical harassment,under 14 years,,377
-2015,victims of physical harassment,under 14 years,,343
-2016,victims of physical harassment,under 14 years,,336
-2017,victims of physical harassment,under 14 years,,1122
-2018,victims of physical harassment,under 14 years,,1568
-2019,victims of physical harassment,under 14 years,,1675
-2020,victims of physical harassment,under 14 years,,1503
-2021,victims of physical harassment,under 14 years,,1546
-2010,victims of physical harassment,under 14 years,female,272
-2011,victims of physical harassment,under 14 years,female,263
-2012,victims of physical harassment,under 14 years,female,310
-2013,victims of physical harassment,under 14 years,female,273
-2014,victims of physical harassment,under 14 years,female,260
-2015,victims of physical harassment,under 14 years,female,221
-2016,victims of physical harassment,under 14 years,female,221
-2017,victims of physical harassment,under 14 years,female,901
-2018,victims of physical harassment,under 14 years,female,1335
-2019,victims of physical harassment,under 14 years,female,1380
-2020,victims of physical harassment,under 14 years,female,1175
-2021,victims of physical harassment,under 14 years,female,1243
-2010,victims of physical harassment,under 14 years,male,171
-2011,victims of physical harassment,under 14 years,male,153
-2012,victims of physical harassment,under 14 years,male,122
-2013,victims of physical harassment,under 14 years,male,154
-2014,victims of physical harassment,under 14 years,male,117
-2015,victims of physical harassment,under 14 years,male,122
-2016,victims of physical harassment,under 14 years,male,115
-2017,victims of physical harassment,under 14 years,male,221
-2018,victims of physical harassment,under 14 years,male,233
-2019,victims of physical harassment,under 14 years,male,295
-2020,victims of physical harassment,under 14 years,male,328
-2021,victims of physical harassment,under 14 years,male,303
+2010,victims of physical harassment,13 years and younger,,443
+2011,victims of physical harassment,13 years and younger,,416
+2012,victims of physical harassment,13 years and younger,,432
+2013,victims of physical harassment,13 years and younger,,427
+2014,victims of physical harassment,13 years and younger,,377
+2015,victims of physical harassment,13 years and younger,,343
+2016,victims of physical harassment,13 years and younger,,336
+2017,victims of physical harassment,13 years and younger,,1122
+2018,victims of physical harassment,13 years and younger,,1568
+2019,victims of physical harassment,13 years and younger,,1675
+2020,victims of physical harassment,13 years and younger,,1503
+2021,victims of physical harassment,13 years and younger,,1546
+2010,victims of physical harassment,13 years and younger,female,272
+2011,victims of physical harassment,13 years and younger,female,263
+2012,victims of physical harassment,13 years and younger,female,310
+2013,victims of physical harassment,13 years and younger,female,273
+2014,victims of physical harassment,13 years and younger,female,260
+2015,victims of physical harassment,13 years and younger,female,221
+2016,victims of physical harassment,13 years and younger,female,221
+2017,victims of physical harassment,13 years and younger,female,901
+2018,victims of physical harassment,13 years and younger,female,1335
+2019,victims of physical harassment,13 years and younger,female,1380
+2020,victims of physical harassment,13 years and younger,female,1175
+2021,victims of physical harassment,13 years and younger,female,1243
+2010,victims of physical harassment,13 years and younger,male,171
+2011,victims of physical harassment,13 years and younger,male,153
+2012,victims of physical harassment,13 years and younger,male,122
+2013,victims of physical harassment,13 years and younger,male,154
+2014,victims of physical harassment,13 years and younger,male,117
+2015,victims of physical harassment,13 years and younger,male,122
+2016,victims of physical harassment,13 years and younger,male,115
+2017,victims of physical harassment,13 years and younger,male,221
+2018,victims of physical harassment,13 years and younger,male,233
+2019,victims of physical harassment,13 years and younger,male,295
+2020,victims of physical harassment,13 years and younger,male,328
+2021,victims of physical harassment,13 years and younger,male,303
 2010,victims of physical harassment,14 to under 18 years,,1289
 2011,victims of physical harassment,14 to under 18 years,,1227
 2012,victims of physical harassment,14 to under 18 years,,1101
@@ -179,42 +179,42 @@ Year,timeseries,age,sex,Value
 2019,victims of physical harassment,21 to under 60 years,male,3413
 2020,victims of physical harassment,21 to under 60 years,male,3663
 2021,victims of physical harassment,21 to under 60 years,male,3928
-2010,victims of physical harassment,60 years and over,,1652
-2011,victims of physical harassment,60 years and over,,1495
-2012,victims of physical harassment,60 years and over,,1495
-2013,victims of physical harassment,60 years and over,,1440
-2014,victims of physical harassment,60 years and over,,1395
-2015,victims of physical harassment,60 years and over,,1269
-2016,victims of physical harassment,60 years and over,,1251
-2017,victims of physical harassment,60 years and over,,1447
-2018,victims of physical harassment,60 years and over,,1643
-2019,victims of physical harassment,60 years and over,,1645
-2020,victims of physical harassment,60 years and over,,1690
-2021,victims of physical harassment,60 years and over,,1799
-2010,victims of physical harassment,60 years and over,female,978
-2011,victims of physical harassment,60 years and over,female,880
-2012,victims of physical harassment,60 years and over,female,905
-2013,victims of physical harassment,60 years and over,female,902
-2014,victims of physical harassment,60 years and over,female,884
-2015,victims of physical harassment,60 years and over,female,823
-2016,victims of physical harassment,60 years and over,female,788
-2017,victims of physical harassment,60 years and over,female,1038
-2018,victims of physical harassment,60 years and over,female,1156
-2019,victims of physical harassment,60 years and over,female,1190
-2020,victims of physical harassment,60 years and over,female,1208
-2021,victims of physical harassment,60 years and over,female,1247
-2010,victims of physical harassment,60 years and over,male,674
-2011,victims of physical harassment,60 years and over,male,615
-2012,victims of physical harassment,60 years and over,male,590
-2013,victims of physical harassment,60 years and over,male,538
-2014,victims of physical harassment,60 years and over,male,511
-2015,victims of physical harassment,60 years and over,male,446
-2016,victims of physical harassment,60 years and over,male,463
-2017,victims of physical harassment,60 years and over,male,409
-2018,victims of physical harassment,60 years and over,male,487
-2019,victims of physical harassment,60 years and over,male,455
-2020,victims of physical harassment,60 years and over,male,482
-2021,victims of physical harassment,60 years and over,male,552
+2010,victims of physical harassment,60 years and older,,1652
+2011,victims of physical harassment,60 years and older,,1495
+2012,victims of physical harassment,60 years and older,,1495
+2013,victims of physical harassment,60 years and older,,1440
+2014,victims of physical harassment,60 years and older,,1395
+2015,victims of physical harassment,60 years and older,,1269
+2016,victims of physical harassment,60 years and older,,1251
+2017,victims of physical harassment,60 years and older,,1447
+2018,victims of physical harassment,60 years and older,,1643
+2019,victims of physical harassment,60 years and older,,1645
+2020,victims of physical harassment,60 years and older,,1690
+2021,victims of physical harassment,60 years and older,,1799
+2010,victims of physical harassment,60 years and older,female,978
+2011,victims of physical harassment,60 years and older,female,880
+2012,victims of physical harassment,60 years and older,female,905
+2013,victims of physical harassment,60 years and older,female,902
+2014,victims of physical harassment,60 years and older,female,884
+2015,victims of physical harassment,60 years and older,female,823
+2016,victims of physical harassment,60 years and older,female,788
+2017,victims of physical harassment,60 years and older,female,1038
+2018,victims of physical harassment,60 years and older,female,1156
+2019,victims of physical harassment,60 years and older,female,1190
+2020,victims of physical harassment,60 years and older,female,1208
+2021,victims of physical harassment,60 years and older,female,1247
+2010,victims of physical harassment,60 years and older,male,674
+2011,victims of physical harassment,60 years and older,male,615
+2012,victims of physical harassment,60 years and older,male,590
+2013,victims of physical harassment,60 years and older,male,538
+2014,victims of physical harassment,60 years and older,male,511
+2015,victims of physical harassment,60 years and older,male,446
+2016,victims of physical harassment,60 years and older,male,463
+2017,victims of physical harassment,60 years and older,male,409
+2018,victims of physical harassment,60 years and older,male,487
+2019,victims of physical harassment,60 years and older,male,455
+2020,victims of physical harassment,60 years and older,male,482
+2021,victims of physical harassment,60 years and older,male,552
 2010,victims of sexual harassment,,,7523
 2011,victims of sexual harassment,,,8011
 2012,victims of sexual harassment,,,8306
@@ -251,42 +251,42 @@ Year,timeseries,age,sex,Value
 2019,victims of sexual harassment,,male,1194
 2020,victims of sexual harassment,,male,1353
 2021,victims of sexual harassment,,male,1363
-2010,victims of sexual harassment,under 14 years,,0
-2011,victims of sexual harassment,under 14 years,,0
-2012,victims of sexual harassment,under 14 years,,0
-2013,victims of sexual harassment,under 14 years,,0
-2014,victims of sexual harassment,under 14 years,,0
-2015,victims of sexual harassment,under 14 years,,0
-2016,victims of sexual harassment,under 14 years,,0
-2017,victims of sexual harassment,under 14 years,,3
-2018,victims of sexual harassment,under 14 years,,4
-2019,victims of sexual harassment,under 14 years,,5
-2020,victims of sexual harassment,under 14 years,,2
-2021,victims of sexual harassment,under 14 years,,49
-2010,victims of sexual harassment,under 14 years,female,0
-2011,victims of sexual harassment,under 14 years,female,0
-2012,victims of sexual harassment,under 14 years,female,0
-2013,victims of sexual harassment,under 14 years,female,0
-2014,victims of sexual harassment,under 14 years,female,0
-2015,victims of sexual harassment,under 14 years,female,0
-2016,victims of sexual harassment,under 14 years,female,0
-2017,victims of sexual harassment,under 14 years,female,2
-2018,victims of sexual harassment,under 14 years,female,3
-2019,victims of sexual harassment,under 14 years,female,5
-2020,victims of sexual harassment,under 14 years,female,1
-2021,victims of sexual harassment,under 14 years,female,33
-2010,victims of sexual harassment,under 14 years,male,0
-2011,victims of sexual harassment,under 14 years,male,0
-2012,victims of sexual harassment,under 14 years,male,0
-2013,victims of sexual harassment,under 14 years,male,0
-2014,victims of sexual harassment,under 14 years,male,0
-2015,victims of sexual harassment,under 14 years,male,0
-2016,victims of sexual harassment,under 14 years,male,0
-2017,victims of sexual harassment,under 14 years,male,1
-2018,victims of sexual harassment,under 14 years,male,1
-2019,victims of sexual harassment,under 14 years,male,0
-2020,victims of sexual harassment,under 14 years,male,1
-2021,victims of sexual harassment,under 14 years,male,16
+2010,victims of sexual harassment,13 years and younger,,0
+2011,victims of sexual harassment,13 years and younger,,0
+2012,victims of sexual harassment,13 years and younger,,0
+2013,victims of sexual harassment,13 years and younger,,0
+2014,victims of sexual harassment,13 years and younger,,0
+2015,victims of sexual harassment,13 years and younger,,0
+2016,victims of sexual harassment,13 years and younger,,0
+2017,victims of sexual harassment,13 years and younger,,3
+2018,victims of sexual harassment,13 years and younger,,4
+2019,victims of sexual harassment,13 years and younger,,5
+2020,victims of sexual harassment,13 years and younger,,2
+2021,victims of sexual harassment,13 years and younger,,49
+2010,victims of sexual harassment,13 years and younger,female,0
+2011,victims of sexual harassment,13 years and younger,female,0
+2012,victims of sexual harassment,13 years and younger,female,0
+2013,victims of sexual harassment,13 years and younger,female,0
+2014,victims of sexual harassment,13 years and younger,female,0
+2015,victims of sexual harassment,13 years and younger,female,0
+2016,victims of sexual harassment,13 years and younger,female,0
+2017,victims of sexual harassment,13 years and younger,female,2
+2018,victims of sexual harassment,13 years and younger,female,3
+2019,victims of sexual harassment,13 years and younger,female,5
+2020,victims of sexual harassment,13 years and younger,female,1
+2021,victims of sexual harassment,13 years and younger,female,33
+2010,victims of sexual harassment,13 years and younger,male,0
+2011,victims of sexual harassment,13 years and younger,male,0
+2012,victims of sexual harassment,13 years and younger,male,0
+2013,victims of sexual harassment,13 years and younger,male,0
+2014,victims of sexual harassment,13 years and younger,male,0
+2015,victims of sexual harassment,13 years and younger,male,0
+2016,victims of sexual harassment,13 years and younger,male,0
+2017,victims of sexual harassment,13 years and younger,male,1
+2018,victims of sexual harassment,13 years and younger,male,1
+2019,victims of sexual harassment,13 years and younger,male,0
+2020,victims of sexual harassment,13 years and younger,male,1
+2021,victims of sexual harassment,13 years and younger,male,16
 2010,victims of sexual harassment,14 to under 18 years,,1267
 2011,victims of sexual harassment,14 to under 18 years,,1362
 2012,victims of sexual harassment,14 to under 18 years,,1356
@@ -395,39 +395,39 @@ Year,timeseries,age,sex,Value
 2019,victims of sexual harassment,21 to under 60 years,male,913
 2020,victims of sexual harassment,21 to under 60 years,male,999
 2021,victims of sexual harassment,21 to under 60 years,male,1018
-2010,victims of sexual harassment,60 years and over,,663
-2011,victims of sexual harassment,60 years and over,,713
-2012,victims of sexual harassment,60 years and over,,704
-2013,victims of sexual harassment,60 years and over,,732
-2014,victims of sexual harassment,60 years and over,,716
-2015,victims of sexual harassment,60 years and over,,768
-2016,victims of sexual harassment,60 years and over,,780
-2017,victims of sexual harassment,60 years and over,,751
-2018,victims of sexual harassment,60 years and over,,809
-2019,victims of sexual harassment,60 years and over,,738
-2020,victims of sexual harassment,60 years and over,,797
-2021,victims of sexual harassment,60 years and over,,790
-2010,victims of sexual harassment,60 years and over,female,592
-2011,victims of sexual harassment,60 years and over,female,618
-2012,victims of sexual harassment,60 years and over,female,626
-2013,victims of sexual harassment,60 years and over,female,668
-2014,victims of sexual harassment,60 years and over,female,638
-2015,victims of sexual harassment,60 years and over,female,671
-2016,victims of sexual harassment,60 years and over,female,702
-2017,victims of sexual harassment,60 years and over,female,659
-2018,victims of sexual harassment,60 years and over,female,689
-2019,victims of sexual harassment,60 years and over,female,662
-2020,victims of sexual harassment,60 years and over,female,676
-2021,victims of sexual harassment,60 years and over,female,689
-2010,victims of sexual harassment,60 years and over,male,71
-2011,victims of sexual harassment,60 years and over,male,95
-2012,victims of sexual harassment,60 years and over,male,78
-2013,victims of sexual harassment,60 years and over,male,64
-2014,victims of sexual harassment,60 years and over,male,78
-2015,victims of sexual harassment,60 years and over,male,97
-2016,victims of sexual harassment,60 years and over,male,78
-2017,victims of sexual harassment,60 years and over,male,92
-2018,victims of sexual harassment,60 years and over,male,120
-2019,victims of sexual harassment,60 years and over,male,76
-2020,victims of sexual harassment,60 years and over,male,121
-2021,victims of sexual harassment,60 years and over,male,101
+2010,victims of sexual harassment,60 years and older,,663
+2011,victims of sexual harassment,60 years and older,,713
+2012,victims of sexual harassment,60 years and older,,704
+2013,victims of sexual harassment,60 years and older,,732
+2014,victims of sexual harassment,60 years and older,,716
+2015,victims of sexual harassment,60 years and older,,768
+2016,victims of sexual harassment,60 years and older,,780
+2017,victims of sexual harassment,60 years and older,,751
+2018,victims of sexual harassment,60 years and older,,809
+2019,victims of sexual harassment,60 years and older,,738
+2020,victims of sexual harassment,60 years and older,,797
+2021,victims of sexual harassment,60 years and older,,790
+2010,victims of sexual harassment,60 years and older,female,592
+2011,victims of sexual harassment,60 years and older,female,618
+2012,victims of sexual harassment,60 years and older,female,626
+2013,victims of sexual harassment,60 years and older,female,668
+2014,victims of sexual harassment,60 years and older,female,638
+2015,victims of sexual harassment,60 years and older,female,671
+2016,victims of sexual harassment,60 years and older,female,702
+2017,victims of sexual harassment,60 years and older,female,659
+2018,victims of sexual harassment,60 years and older,female,689
+2019,victims of sexual harassment,60 years and older,female,662
+2020,victims of sexual harassment,60 years and older,female,676
+2021,victims of sexual harassment,60 years and older,female,689
+2010,victims of sexual harassment,60 years and older,male,71
+2011,victims of sexual harassment,60 years and older,male,95
+2012,victims of sexual harassment,60 years and older,male,78
+2013,victims of sexual harassment,60 years and older,male,64
+2014,victims of sexual harassment,60 years and older,male,78
+2015,victims of sexual harassment,60 years and older,male,97
+2016,victims of sexual harassment,60 years and older,male,78
+2017,victims of sexual harassment,60 years and older,male,92
+2018,victims of sexual harassment,60 years and older,male,120
+2019,victims of sexual harassment,60 years and older,male,76
+2020,victims of sexual harassment,60 years and older,male,121
+2021,victims of sexual harassment,60 years and older,male,101

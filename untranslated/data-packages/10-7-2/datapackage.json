@@ -15,12 +15,12 @@
             "type": "string"
           },
           {
-            "name": "domain",
+            "name": "policy area",
             "type": "string",
             "constraints": {
               "enum": [
                 "domain 1. migrant rights",
-                "domain 2. whole-of-government/evidence-based policies",
+                "domain 2. whole-of-government/ evidence-based policies",
                 "domain 3. cooperation and partnerships",
                 "domain 4. socioeconomic well-being",
                 "domain 5. mobility dimensions of crises",

@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "d) pharmacists",
-                "a) medical doctors",
-                "c) nursing and midwifery personnel",
-                "b) dentists",
+                "pharmacists",
+                "medical doctors",
+                "nursing and midwifery personnel",
+                "dentists",
                 ""
               ]
             }

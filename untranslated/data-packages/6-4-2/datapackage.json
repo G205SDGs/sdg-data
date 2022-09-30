@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "level of waterstress",
+            "name": "water use index",
             "type": "string",
             "constraints": {
               "enum": [

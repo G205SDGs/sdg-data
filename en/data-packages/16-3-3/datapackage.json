@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,7 +28,7 @@
             "title": "Time series"
           },
           {
-            "name": "declination",
+            "name": "outcome of the application process",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

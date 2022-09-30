@@ -1,34 +1,37 @@
-Year,Units,age,Value
-2010,%,under 15 years,0
-2011,%,under 15 years,0
-2012,%,under 15 years,0
-2013,%,under 15 years,0
-2014,%,under 15 years,0
-2015,%,under 15 years,0
-2016,%,under 15 years,0
-2017,%,under 15 years,0
-2018,%,under 15 years,0
-2019,%,under 15 years,0
-2020,%,under 15 years,0
-2010,%,under 18 years,0
-2011,%,under 18 years,0
-2012,%,under 18 years,0
-2013,%,under 18 years,0
-2014,%,under 18 years,0
-2015,%,under 18 years,0
-2016,%,under 18 years,0
-2017,%,under 18 years,0
-2018,%,under 18 years,0
-2019,%,under 18 years,0
-2020,%,under 18 years,0
-2010,number,under 18 years,225
-2011,number,under 18 years,213
-2012,number,under 18 years,214
-2013,number,under 18 years,256
-2014,number,under 18 years,321
-2015,number,under 18 years,880
-2016,number,under 18 years,700
-2017,number,under 18 years,318
-2018,number,under 18 years,143
-2019,number,under 18 years,90
-2020,number,under 18 years,73
+Year,Units,age group,Value
+2010,percentage,14 years and younger,0
+2011,percentage,14 years and younger,0
+2012,percentage,14 years and younger,0
+2013,percentage,14 years and younger,0
+2014,percentage,14 years and younger,0
+2015,percentage,14 years and younger,0
+2016,percentage,14 years and younger,0
+2017,percentage,14 years and younger,0
+2018,percentage,14 years and younger,0
+2019,percentage,14 years and younger,0
+2020,percentage,14 years and younger,0
+2021,percentage,14 years and younger,0
+2010,percentage,17 years and younger,0
+2011,percentage,17 years and younger,0
+2012,percentage,17 years and younger,0
+2013,percentage,17 years and younger,0
+2014,percentage,17 years and younger,0
+2015,percentage,17 years and younger,0
+2016,percentage,17 years and younger,0
+2017,percentage,17 years and younger,0
+2018,percentage,17 years and younger,0
+2019,percentage,17 years and younger,0
+2020,percentage,17 years and younger,0
+2021,percentage,17 years and younger,0
+2010,number,17 years and younger,225
+2011,number,17 years and younger,213
+2012,number,17 years and younger,214
+2013,number,17 years and younger,256
+2014,number,17 years and younger,321
+2015,number,17 years and younger,880
+2016,number,17 years and younger,700
+2017,number,17 years and younger,318
+2018,number,17 years and younger,143
+2019,number,17 years and younger,90
+2020,number,17 years and younger,73
+2021,number,17 years and younger,67
