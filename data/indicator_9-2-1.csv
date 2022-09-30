@@ -1,28 +1,28 @@
 Year,Units,Value,Series
-2010,%,19.7,manufacturing gross value added as a proportion of gdp
-2011,%,20.2,manufacturing gross value added as a proportion of gdp
-2012,%,20.2,manufacturing gross value added as a proportion of gdp
-2013,%,19.9,manufacturing gross value added as a proportion of gdp
-2014,%,20.2,manufacturing gross value added as a proportion of gdp
-2015,%,20.3,manufacturing gross value added as a proportion of gdp
-2016,%,20.7,manufacturing gross value added as a proportion of gdp
-2017,%,20.4,manufacturing gross value added as a proportion of gdp
-2018,%,20.0,manufacturing gross value added as a proportion of gdp
-2019,%,19.4,manufacturing gross value added as a proportion of gdp
-2020,%,18.2,manufacturing gross value added as a proportion of gdp
-2021,%,18.3,manufacturing gross value added as a proportion of gdp
-2010,%,21.9,manufacturing gross value added as a proportion of total gross value added
-2011,%,22.5,manufacturing gross value added as a proportion of total gross value added
-2012,%,22.4,manufacturing gross value added as a proportion of total gross value added
-2013,%,22.2,manufacturing gross value added as a proportion of total gross value added
-2014,%,22.5,manufacturing gross value added as a proportion of total gross value added
-2015,%,22.6,manufacturing gross value added as a proportion of total gross value added
-2016,%,22.9,manufacturing gross value added as a proportion of total gross value added
-2017,%,22.7,manufacturing gross value added as a proportion of total gross value added
-2018,%,22.2,manufacturing gross value added as a proportion of total gross value added
-2019,%,21.6,manufacturing gross value added as a proportion of total gross value added
-2020,%,20.1,manufacturing gross value added as a proportion of total gross value added
-2021,%,20.2,manufacturing gross value added as a proportion of total gross value added
+2010,percentage,19.7,manufacturing gross value added as a proportion of gdp
+2011,percentage,20.2,manufacturing gross value added as a proportion of gdp
+2012,percentage,20.2,manufacturing gross value added as a proportion of gdp
+2013,percentage,19.9,manufacturing gross value added as a proportion of gdp
+2014,percentage,20.2,manufacturing gross value added as a proportion of gdp
+2015,percentage,20.3,manufacturing gross value added as a proportion of gdp
+2016,percentage,20.7,manufacturing gross value added as a proportion of gdp
+2017,percentage,20.4,manufacturing gross value added as a proportion of gdp
+2018,percentage,20.0,manufacturing gross value added as a proportion of gdp
+2019,percentage,19.6,manufacturing gross value added as a proportion of gdp
+2020,percentage,18.7,manufacturing gross value added as a proportion of gdp
+2021,percentage,18.9,manufacturing gross value added as a proportion of gdp
+2010,percentage,21.9,manufacturing gross value added as a proportion of total gross value added
+2011,percentage,22.5,manufacturing gross value added as a proportion of total gross value added
+2012,percentage,22.4,manufacturing gross value added as a proportion of total gross value added
+2013,percentage,22.2,manufacturing gross value added as a proportion of total gross value added
+2014,percentage,22.5,manufacturing gross value added as a proportion of total gross value added
+2015,percentage,22.6,manufacturing gross value added as a proportion of total gross value added
+2016,percentage,22.9,manufacturing gross value added as a proportion of total gross value added
+2017,percentage,22.7,manufacturing gross value added as a proportion of total gross value added
+2018,percentage,22.2,manufacturing gross value added as a proportion of total gross value added
+2019,percentage,21.7,manufacturing gross value added as a proportion of total gross value added
+2020,percentage,20.6,manufacturing gross value added as a proportion of total gross value added
+2021,percentage,20.8,manufacturing gross value added as a proportion of total gross value added
 2010,eur,6291,manufacturing gross value added per capita
 2011,eur,6789,manufacturing gross value added per capita
 2012,eur,6880,manufacturing gross value added per capita
@@ -31,7 +31,7 @@ Year,Units,Value,Series
 2015,eur,7538,manufacturing gross value added per capita
 2016,eur,7865,manufacturing gross value added per capita
 2017,eur,8060,manufacturing gross value added per capita
-2018,eur,8140,manufacturing gross value added per capita
-2019,eur,8126,manufacturing gross value added per capita
-2020,eur,7358,manufacturing gross value added per capita
-2021,eur,7839,manufacturing gross value added per capita
+2018,eur,8134,manufacturing gross value added per capita
+2019,eur,8175,manufacturing gross value added per capita
+2020,eur,7660,manufacturing gross value added per capita
+2021,eur,8163,manufacturing gross value added per capita

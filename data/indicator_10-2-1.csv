@@ -1,4 +1,4 @@
-Year,age,sex,Value
+Year,age group,sex,Value
 2010,,,9.2
 2011,,,9.7
 2012,,,9.6
@@ -10,17 +10,17 @@ Year,age,sex,Value
 2018,,,9.8
 2019,,,9.0
 2020,,,10.2
-2010,under 18 years,,9.4
-2011,under 18 years,,8.0
-2012,under 18 years,,7.8
-2013,under 18 years,,7.2
-2014,under 18 years,,8.2
-2015,under 18 years,,7.8
-2016,under 18 years,,7.8
-2017,under 18 years,,6.9
-2018,under 18 years,,7.6
-2019,under 18 years,,5.7
-2020,under 18 years,,9.9
+2010,17 years and younger,,9.4
+2011,17 years and younger,,8.0
+2012,17 years and younger,,7.8
+2013,17 years and younger,,7.2
+2014,17 years and younger,,8.2
+2015,17 years and younger,,7.8
+2016,17 years and younger,,7.8
+2017,17 years and younger,,6.9
+2018,17 years and younger,,7.6
+2019,17 years and younger,,5.7
+2020,17 years and younger,,9.9
 2010,18 to under 65 years,,9.8
 2011,18 to under 65 years,,10.8
 2012,18 to under 65 years,,10.4
@@ -32,17 +32,17 @@ Year,age,sex,Value
 2018,18 to under 65 years,,10.4
 2019,18 to under 65 years,,9.6
 2020,18 to under 65 years,,9.9
-2010,65 years and over,,7.0
-2011,65 years and over,,7.3
-2012,65 years and over,,8.4
-2013,65 years and over,,8.0
-2014,65 years and over,,9.1
-2015,65 years and over,,9.0
-2016,65 years and over,,9.4
-2017,65 years and over,,9.2
-2018,65 years and over,,9.7
-2019,65 years and over,,9.8
-2020,65 years and over,,11.5
+2010,65 years and older,,7.0
+2011,65 years and older,,7.3
+2012,65 years and older,,8.4
+2013,65 years and older,,8.0
+2014,65 years and older,,9.1
+2015,65 years and older,,9.0
+2016,65 years and older,,9.4
+2017,65 years and older,,9.2
+2018,65 years and older,,9.7
+2019,65 years and older,,9.8
+2020,65 years and older,,11.5
 2010,,female,9.3
 2011,,female,9.9
 2012,,female,10.1
