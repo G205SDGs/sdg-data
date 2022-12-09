@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "million eur",
+                "million usd, constant prices (2020)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

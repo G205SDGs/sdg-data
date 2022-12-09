@@ -10,6 +10,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),,,7.3
 2019,Organically farmed agricultural land (data from Destatis),,,7.8
 2020,Organically farmed agricultural land (data from Destatis),,,9.6
+2021,Organically farmed agricultural land (data from Destatis),,,9.7
 2010,Organically farmed agricultural land (data from BMEL),,,5.9
 2011,Organically farmed agricultural land (data from BMEL),,,6.1
 2012,Organically farmed agricultural land (data from BMEL),,,6.2
@@ -21,6 +22,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from BMEL),,,9.1
 2019,Organically farmed agricultural land (data from BMEL),,,9.7
 2020,Organically farmed agricultural land (data from BMEL),,,10.3
+2021,Organically farmed agricultural land (data from BMEL),,,10.9
 2010,Organically farmed agricultural land (data from Destatis),Baden-Württemberg,code08,7.0
 2011,Organically farmed agricultural land (data from Destatis),Baden-Württemberg,code08,
 2012,Organically farmed agricultural land (data from Destatis),Baden-Württemberg,code08,
@@ -32,6 +34,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Baden-Württemberg,code08,
 2019,Organically farmed agricultural land (data from Destatis),Baden-Württemberg,code08,
 2020,Organically farmed agricultural land (data from Destatis),Baden-Württemberg,code08,12.3
+2021,Organically farmed agricultural land (data from Destatis),Baden-Württemberg,code08,
 2010,Organically farmed agricultural land (data from Destatis),Bavaria,code09,6.1
 2011,Organically farmed agricultural land (data from Destatis),Bavaria,code09,
 2012,Organically farmed agricultural land (data from Destatis),Bavaria,code09,
@@ -43,6 +46,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Bavaria,code09,
 2019,Organically farmed agricultural land (data from Destatis),Bavaria,code09,
 2020,Organically farmed agricultural land (data from Destatis),Bavaria,code09,12.1
+2021,Organically farmed agricultural land (data from Destatis),Bavaria,code09,
 2010,Organically farmed agricultural land (data from Destatis),Berlin,code11,12.4
 2011,Organically farmed agricultural land (data from Destatis),Berlin,code11,
 2012,Organically farmed agricultural land (data from Destatis),Berlin,code11,
@@ -54,6 +58,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Berlin,code11,
 2019,Organically farmed agricultural land (data from Destatis),Berlin,code11,
 2020,Organically farmed agricultural land (data from Destatis),Berlin,code11,15.8
+2021,Organically farmed agricultural land (data from Destatis),Berlin,code11,
 2010,Organically farmed agricultural land (data from Destatis),Brandenburg,code12,10.6
 2011,Organically farmed agricultural land (data from Destatis),Brandenburg,code12,
 2012,Organically farmed agricultural land (data from Destatis),Brandenburg,code12,
@@ -65,6 +70,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Brandenburg,code12,
 2019,Organically farmed agricultural land (data from Destatis),Brandenburg,code12,
 2020,Organically farmed agricultural land (data from Destatis),Brandenburg,code12,13.3
+2021,Organically farmed agricultural land (data from Destatis),Brandenburg,code12,
 2010,Organically farmed agricultural land (data from Destatis),Bremen,code04,9.8
 2011,Organically farmed agricultural land (data from Destatis),Bremen,code04,
 2012,Organically farmed agricultural land (data from Destatis),Bremen,code04,
@@ -76,6 +82,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Bremen,code04,
 2019,Organically farmed agricultural land (data from Destatis),Bremen,code04,
 2020,Organically farmed agricultural land (data from Destatis),Bremen,code04,22.7
+2021,Organically farmed agricultural land (data from Destatis),Bremen,code04,
 2010,Organically farmed agricultural land (data from Destatis),Hamburg,code02,6.8
 2011,Organically farmed agricultural land (data from Destatis),Hamburg,code02,
 2012,Organically farmed agricultural land (data from Destatis),Hamburg,code02,
@@ -87,6 +94,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Hamburg,code02,
 2019,Organically farmed agricultural land (data from Destatis),Hamburg,code02,
 2020,Organically farmed agricultural land (data from Destatis),Hamburg,code02,8.6
+2021,Organically farmed agricultural land (data from Destatis),Hamburg,code02,
 2010,Organically farmed agricultural land (data from Destatis),Hesse,code06,9.4
 2011,Organically farmed agricultural land (data from Destatis),Hesse,code06,
 2012,Organically farmed agricultural land (data from Destatis),Hesse,code06,
@@ -98,6 +106,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Hesse,code06,
 2019,Organically farmed agricultural land (data from Destatis),Hesse,code06,
 2020,Organically farmed agricultural land (data from Destatis),Hesse,code06,15.0
+2021,Organically farmed agricultural land (data from Destatis),Hesse,code06,
 2010,Organically farmed agricultural land (data from Destatis),Mecklenburg Western Pomerania,code13,8.7
 2011,Organically farmed agricultural land (data from Destatis),Mecklenburg Western Pomerania,code13,
 2012,Organically farmed agricultural land (data from Destatis),Mecklenburg Western Pomerania,code13,
@@ -109,6 +118,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Mecklenburg Western Pomerania,code13,
 2019,Organically farmed agricultural land (data from Destatis),Mecklenburg Western Pomerania,code13,
 2020,Organically farmed agricultural land (data from Destatis),Mecklenburg Western Pomerania,code13,12.2
+2021,Organically farmed agricultural land (data from Destatis),Mecklenburg Western Pomerania,code13,
 2010,Organically farmed agricultural land (data from Destatis),Lower Saxony,code03,2.9
 2011,Organically farmed agricultural land (data from Destatis),Lower Saxony,code03,
 2012,Organically farmed agricultural land (data from Destatis),Lower Saxony,code03,
@@ -120,6 +130,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Lower Saxony,code03,
 2019,Organically farmed agricultural land (data from Destatis),Lower Saxony,code03,
 2020,Organically farmed agricultural land (data from Destatis),Lower Saxony,code03,4.8
+2021,Organically farmed agricultural land (data from Destatis),Lower Saxony,code03,
 2010,Organically farmed agricultural land (data from Destatis),North Rhine-Westphalia,code05,3.6
 2011,Organically farmed agricultural land (data from Destatis),North Rhine-Westphalia,code05,
 2012,Organically farmed agricultural land (data from Destatis),North Rhine-Westphalia,code05,
@@ -131,6 +142,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),North Rhine-Westphalia,code05,
 2019,Organically farmed agricultural land (data from Destatis),North Rhine-Westphalia,code05,
 2020,Organically farmed agricultural land (data from Destatis),North Rhine-Westphalia,code05,5.7
+2021,Organically farmed agricultural land (data from Destatis),North Rhine-Westphalia,code05,
 2010,Organically farmed agricultural land (data from Destatis),Rhineland Palatinate,code07,5.1
 2011,Organically farmed agricultural land (data from Destatis),Rhineland Palatinate,code07,
 2012,Organically farmed agricultural land (data from Destatis),Rhineland Palatinate,code07,
@@ -142,6 +154,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Rhineland Palatinate,code07,
 2019,Organically farmed agricultural land (data from Destatis),Rhineland Palatinate,code07,
 2020,Organically farmed agricultural land (data from Destatis),Rhineland Palatinate,code07,11.3
+2021,Organically farmed agricultural land (data from Destatis),Rhineland Palatinate,code07,
 2010,Organically farmed agricultural land (data from Destatis),Saarland,code10,10.6
 2011,Organically farmed agricultural land (data from Destatis),Saarland,code10,
 2012,Organically farmed agricultural land (data from Destatis),Saarland,code10,
@@ -153,6 +166,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Saarland,code10,
 2019,Organically farmed agricultural land (data from Destatis),Saarland,code10,
 2020,Organically farmed agricultural land (data from Destatis),Saarland,code10,18.0
+2021,Organically farmed agricultural land (data from Destatis),Saarland,code10,
 2010,Organically farmed agricultural land (data from Destatis),Saxony,code14,3.7
 2011,Organically farmed agricultural land (data from Destatis),Saxony,code14,
 2012,Organically farmed agricultural land (data from Destatis),Saxony,code14,
@@ -164,6 +178,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Saxony,code14,
 2019,Organically farmed agricultural land (data from Destatis),Saxony,code14,
 2020,Organically farmed agricultural land (data from Destatis),Saxony,code14,7.9
+2021,Organically farmed agricultural land (data from Destatis),Saxony,code14,
 2010,Organically farmed agricultural land (data from Destatis),Saxony-Anhalt,code15,4.2
 2011,Organically farmed agricultural land (data from Destatis),Saxony-Anhalt,code15,
 2012,Organically farmed agricultural land (data from Destatis),Saxony-Anhalt,code15,
@@ -175,6 +190,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Saxony-Anhalt,code15,
 2019,Organically farmed agricultural land (data from Destatis),Saxony-Anhalt,code15,
 2020,Organically farmed agricultural land (data from Destatis),Saxony-Anhalt,code15,9.0
+2021,Organically farmed agricultural land (data from Destatis),Saxony-Anhalt,code15,
 2010,Organically farmed agricultural land (data from Destatis),Schleswig-Holstein,code01,3.3
 2011,Organically farmed agricultural land (data from Destatis),Schleswig-Holstein,code01,
 2012,Organically farmed agricultural land (data from Destatis),Schleswig-Holstein,code01,
@@ -186,6 +202,7 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Schleswig-Holstein,code01,
 2019,Organically farmed agricultural land (data from Destatis),Schleswig-Holstein,code01,
 2020,Organically farmed agricultural land (data from Destatis),Schleswig-Holstein,code01,6.4
+2021,Organically farmed agricultural land (data from Destatis),Schleswig-Holstein,code01,
 2010,Organically farmed agricultural land (data from Destatis),Thuringia,code16,4.4
 2011,Organically farmed agricultural land (data from Destatis),Thuringia,code16,
 2012,Organically farmed agricultural land (data from Destatis),Thuringia,code16,
@@ -197,3 +214,4 @@ Year,Time series,Region,GeoCode,Value
 2018,Organically farmed agricultural land (data from Destatis),Thuringia,code16,
 2019,Organically farmed agricultural land (data from Destatis),Thuringia,code16,
 2020,Organically farmed agricultural land (data from Destatis),Thuringia,code16,6.6
+2021,Organically farmed agricultural land (data from Destatis),Thuringia,code16,

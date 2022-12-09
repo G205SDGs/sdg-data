@@ -19,9 +19,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) diarrhoea",
-                "b) intestinal nematode infections",
-                "c) protein-energy malnutrition",
+                "a) acute respiratory infections",
+                "b) diarrhoea",
+                "c) intestinal nematode infections",
+                "d) protein-energy malnutrition",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4 years and younger",
                 ""
               ]
             }

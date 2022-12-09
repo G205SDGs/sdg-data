@@ -1,23 +1,45 @@
-Year,Zeitreihe,Value
-2010,Zusagen (ODA) zur Minderung der Armut,1131.6
-2011,Zusagen (ODA) zur Minderung der Armut,1380.4
-2012,Zusagen (ODA) zur Minderung der Armut,2008.7
-2013,Zusagen (ODA) zur Minderung der Armut,1694.8
-2014,Zusagen (ODA) zur Minderung der Armut,1632.9
-2015,Zusagen (ODA) zur Minderung der Armut,1877.3
-2016,Zusagen (ODA) zur Minderung der Armut,2050.7
-2017,Zusagen (ODA) zur Minderung der Armut,2526.8
-2018,Zusagen (ODA) zur Minderung der Armut,2774.5
-2019,Zusagen (ODA) zur Minderung der Armut,2895.0
-2020,Zusagen (ODA) zur Minderung der Armut,3937.4
-2010,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1046.6
-2011,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1065.0
-2012,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1069.6
-2013,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1065.5
-2014,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1381.9
-2015,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1609.8
-2016,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,2026.5
-2017,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1966.7
-2018,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1986.3
-2019,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,2158.7
-2020,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,3635.1
+Year,Units,Zeitreihe,Value
+2010,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,841.3
+2011,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,1037.4
+2012,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,1532.1
+2013,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,1318.0
+2014,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,1293.6
+2015,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,1514.9
+2016,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,1676.8
+2017,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,2097.2
+2018,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,2348.3
+2019,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,2500.7
+2020,Millionen EUR,Zusagen (ODA) zur Minderung der Armut,3455.1
+2010,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,778.1
+2011,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,800.4
+2012,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,815.8
+2013,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,828.7
+2014,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1094.8
+2015,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1299.0
+2016,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1657.0
+2017,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1632.4
+2018,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1681.2
+2019,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1864.7
+2020,Millionen EUR,Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,3189.8
+2010,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,1131.6
+2011,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,1380.4
+2012,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,2008.7
+2013,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,1694.8
+2014,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,1632.9
+2015,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,1877.3
+2016,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,2050.7
+2017,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,2526.8
+2018,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,2774.5
+2019,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,2895.0
+2020,"Millionen USD, konstante Preise (2020)",Zusagen (ODA) zur Minderung der Armut,3937.4
+2010,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1046.6
+2011,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1065.0
+2012,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1069.6
+2013,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1065.5
+2014,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1381.9
+2015,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1609.8
+2016,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,2026.5
+2017,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1966.7
+2018,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,1986.3
+2019,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,2158.7
+2020,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut,3635.1

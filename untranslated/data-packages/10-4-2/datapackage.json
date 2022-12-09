@@ -15,19 +15,20 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "gini coefficient of equivalised disposable income before social transfers (pre-fiscal)",
+                "gini coefficient of equivalised disposable income (post-fiscal)",
+                "redistributive impact of fiscal policy",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

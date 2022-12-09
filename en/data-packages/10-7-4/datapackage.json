@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "country of origin",
+            "name": "country of citizenship",
             "type": "string",
             "constraints": {
               "enum": [

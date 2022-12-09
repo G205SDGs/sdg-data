@@ -16,20 +16,21 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
+                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
+                "Umverteilende Wirkung der Fiskalpolitik",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

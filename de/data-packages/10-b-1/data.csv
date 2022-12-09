@@ -1,67 +1,133 @@
-Year,Art der Finanzströme,Value
-2010,,42281.8
-2011,,53785.1
-2012,,35412.5
-2013,,51423.9
-2014,,50425.3
-2015,,53207.4
-2016,,54410.7
-2017,,57435.5
-2018,,52040.5
-2019,,43633.9
-2020,,44700.6
-2010,Öffentliche Nettoentwicklungsausgaben (ODA),13186.6
-2011,Öffentliche Nettoentwicklungsausgaben (ODA),13486.8
-2012,Öffentliche Nettoentwicklungsausgaben (ODA),13198.8
-2013,Öffentliche Nettoentwicklungsausgaben (ODA),13780.2
-2014,Öffentliche Nettoentwicklungsausgaben (ODA),15760.5
-2015,Öffentliche Nettoentwicklungsausgaben (ODA),20042.4
-2016,Öffentliche Nettoentwicklungsausgaben (ODA),27356.2
-2017,Öffentliche Nettoentwicklungsausgaben (ODA),26725.4
-2018,Öffentliche Nettoentwicklungsausgaben (ODA),25698.6
-2019,Öffentliche Nettoentwicklungsausgaben (ODA),24946.1
-2020,Öffentliche Nettoentwicklungsausgaben (ODA),29320.4
-2010,Sonstige öffentliche Nettoausgaben (OOF),69.1
-2011,Sonstige öffentliche Nettoausgaben (OOF),-138.0
-2012,Sonstige öffentliche Nettoausgaben (OOF),-92.9
-2013,Sonstige öffentliche Nettoausgaben (OOF),-82.4
-2014,Sonstige öffentliche Nettoausgaben (OOF),145.7
-2015,Sonstige öffentliche Nettoausgaben (OOF),1479.9
-2016,Sonstige öffentliche Nettoausgaben (OOF),-506.6
-2017,Sonstige öffentliche Nettoausgaben (OOF),-381.1
-2018,Sonstige öffentliche Nettoausgaben (OOF),-117.6
-2019,Sonstige öffentliche Nettoausgaben (OOF),14.2
-2020,Sonstige öffentliche Nettoausgaben (OOF),422.5
-2010,Öffentlich unterstützte Exportkredite (Nettoausgaben),3764.7
-2011,Öffentlich unterstützte Exportkredite (Nettoausgaben),9836.5
-2012,Öffentlich unterstützte Exportkredite (Nettoausgaben),6397.7
-2013,Öffentlich unterstützte Exportkredite (Nettoausgaben),5250.2
-2014,Öffentlich unterstützte Exportkredite (Nettoausgaben),-152.7
-2015,Öffentlich unterstützte Exportkredite (Nettoausgaben),2084.8
-2016,Öffentlich unterstützte Exportkredite (Nettoausgaben),3815.0
-2017,Öffentlich unterstützte Exportkredite (Nettoausgaben),6.8
-2018,Öffentlich unterstützte Exportkredite (Nettoausgaben),1389.9
-2019,Öffentlich unterstützte Exportkredite (Nettoausgaben),-2014.2
-2020,Öffentlich unterstützte Exportkredite (Nettoausgaben),-1222.2
-2010,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),23774.9
-2011,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),29070.8
-2012,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),14481.7
-2013,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),31105.0
-2014,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),33222.1
-2015,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),28057.5
-2016,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),22171.7
-2017,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),29491.9
-2018,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),23705.1
-2019,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),19108.0
-2020,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),14665.8
-2010,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1486.6
-2011,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1529.0
-2012,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1427.1
-2013,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1371.0
-2014,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1449.7
-2015,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1542.8
-2016,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1574.5
-2017,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1592.5
-2018,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1364.5
-2019,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1579.9
-2020,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1514.2
+Year,Units,Art der Finanzströme,Value
+2010,Millionen EUR,,31435.7
+2011,Millionen EUR,,40420.7
+2012,Millionen EUR,,27009.7
+2013,Millionen EUR,,39992.0
+2014,Millionen EUR,,39948.5
+2015,Millionen EUR,,42935.5
+2016,Millionen EUR,,44490.3
+2017,Millionen EUR,,47671.3
+2018,Millionen EUR,,44045.6
+2019,Millionen EUR,,37691.1
+2020,Millionen EUR,,39224.8
+2010,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),9803.9
+2011,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),10135.6
+2012,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),10066.9
+2013,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),10716.7
+2014,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),12485.9
+2015,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),16173.1
+2016,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),22368.5
+2017,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),22182.0
+2018,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),21750.5
+2019,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),21548.5
+2020,Millionen EUR,Öffentliche Nettoentwicklungsausgaben (ODA),25728.6
+2010,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),51.4
+2011,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),-103.7
+2012,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),-70.8
+2013,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),-64.1
+2014,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),115.5
+2015,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),1194.2
+2016,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),-414.3
+2017,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),-316.3
+2018,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),-99.5
+2019,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),12.2
+2020,Millionen EUR,Sonstige öffentliche Nettoausgaben (OOF),370.7
+2010,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),2799.0
+2011,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),7392.3
+2012,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),4879.6
+2013,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),4083.0
+2014,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),-121.0
+2015,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),1682.3
+2016,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),3119.4
+2017,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),5.6
+2018,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),1176.4
+2019,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),-1739.9
+2020,Millionen EUR,Öffentlich unterstützte Exportkredite (Nettoausgaben),-1072.5
+2010,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),17676.1
+2011,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),21847.4
+2012,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),11045.4
+2013,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),24190.1
+2014,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),26319.6
+2015,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),22640.9
+2016,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),18129.2
+2017,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),24478.2
+2018,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),20063.3
+2019,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),16505.5
+2020,Millionen EUR,Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),12869.2
+2010,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1105.2
+2011,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1149.1
+2012,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1088.5
+2013,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1066.2
+2014,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1148.5
+2015,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1245.0
+2016,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1287.4
+2017,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1321.8
+2018,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1154.9
+2019,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1364.7
+2020,Millionen EUR,Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1328.7
+2010,"Millionen USD, konstante Preise (2020)",,42281.8
+2011,"Millionen USD, konstante Preise (2020)",,53785.1
+2012,"Millionen USD, konstante Preise (2020)",,35412.5
+2013,"Millionen USD, konstante Preise (2020)",,51423.9
+2014,"Millionen USD, konstante Preise (2020)",,50425.3
+2015,"Millionen USD, konstante Preise (2020)",,53207.4
+2016,"Millionen USD, konstante Preise (2020)",,54410.7
+2017,"Millionen USD, konstante Preise (2020)",,57435.5
+2018,"Millionen USD, konstante Preise (2020)",,52040.5
+2019,"Millionen USD, konstante Preise (2020)",,43633.9
+2020,"Millionen USD, konstante Preise (2020)",,44700.6
+2010,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),13186.6
+2011,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),13486.8
+2012,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),13198.8
+2013,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),13780.2
+2014,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),15760.5
+2015,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),20042.4
+2016,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),27356.2
+2017,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),26725.4
+2018,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),25698.6
+2019,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),24946.1
+2020,"Millionen USD, konstante Preise (2020)",Öffentliche Nettoentwicklungsausgaben (ODA),29320.4
+2010,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),69.1
+2011,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),-138.0
+2012,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),-92.9
+2013,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),-82.4
+2014,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),145.7
+2015,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),1479.9
+2016,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),-506.6
+2017,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),-381.1
+2018,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),-117.6
+2019,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),14.2
+2020,"Millionen USD, konstante Preise (2020)",Sonstige öffentliche Nettoausgaben (OOF),422.5
+2010,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),3764.7
+2011,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),9836.5
+2012,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),6397.7
+2013,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),5250.2
+2014,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),-152.7
+2015,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),2084.8
+2016,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),3815.0
+2017,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),6.8
+2018,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),1389.9
+2019,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),-2014.2
+2020,"Millionen USD, konstante Preise (2020)",Öffentlich unterstützte Exportkredite (Nettoausgaben),-1222.2
+2010,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),23774.9
+2011,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),29070.8
+2012,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),14481.7
+2013,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),31105.0
+2014,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),33222.1
+2015,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),28057.5
+2016,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),22171.7
+2017,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),29491.9
+2018,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),23705.1
+2019,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),19108.0
+2020,"Millionen USD, konstante Preise (2020)",Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben),14665.8
+2010,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1486.6
+2011,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1529.0
+2012,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1427.1
+2013,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1371.0
+2014,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1449.7
+2015,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1542.8
+2016,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1574.5
+2017,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1592.5
+2018,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1364.5
+2019,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1579.9
+2020,"Millionen USD, konstante Preise (2020)",Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben),1514.2

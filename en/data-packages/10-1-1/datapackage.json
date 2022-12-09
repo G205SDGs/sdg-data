@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "population",
             "type": "string",
             "constraints": {
               "enum": [
-                "Growth rate of net equivalent income of the total population",
-                "Growth rate of net equivalent income of the bottom 40 per cent of the population",
+                "Population total",
+                "Poorest 40 percent of the population",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Population"
           },
           {
             "name": "Value",

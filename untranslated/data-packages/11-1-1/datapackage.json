@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "topic",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "housing conditions",
-                "housing deprivation",
-                ""
-              ]
-            }
-          },
-          {
             "name": "degree of urbanisation",
             "type": "string",
             "constraints": {

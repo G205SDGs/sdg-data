@@ -16,16 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "population",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung",
-                "Wachstumsrate des Nettoäquivalenzeinkommens der ärmsten 40 Prozent der Bevölkerung",
+                "Gesamtbevölkerung",
+                "Ärmsten 40 Prozent der Bevölkerung",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Bevölkerung"
           },
           {
             "name": "Value",

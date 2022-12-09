@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "topic",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Housing conditions",
-                "Housing deprivation",
-                ""
-              ]
-            },
-            "title": "Topic"
-          },
-          {
             "name": "degree of urbanisation",
             "type": "string",
             "constraints": {

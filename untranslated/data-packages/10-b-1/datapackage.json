@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "million eur",
+                "million usd, constant prices (2020)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "type of flow",
             "type": "string",
             "constraints": {
@@ -22,7 +33,7 @@
                 "oda (net disbursements)",
                 "oof (net disbursements)",
                 "officially supported export credits (net disbursements)",
-                "private sector flows at market terms (net disbursements)",
+                "private sector flows at market terms (net disbursement)",
                 "private concessional flows (net disbursements)",
                 ""
               ]

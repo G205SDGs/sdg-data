@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "population",
             "type": "string",
             "constraints": {
               "enum": [
-                "growth rate of net equivalent income of the total population",
-                "growth rate of net equivalent income of the bottom 40 per cent of the population",
+                "population total",
+                "poorest 40 percent of the population",
                 ""
               ]
             }

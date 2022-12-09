@@ -19,14 +19,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percentage",
                 "number",
                 ""
               ]
             }
           },
           {
-            "name": "country of origin",
+            "name": "country of citizenship",
             "type": "string",
             "constraints": {
               "enum": [

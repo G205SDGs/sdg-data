@@ -1,99 +1,99 @@
-Year,Units,country of origin,Value
-2010,%,,0.47
-2011,%,,0.47
-2012,%,,0.5
-2013,%,,0.51
-2014,%,,0.57
-2015,%,,0.67
-2016,%,,1.05
-2017,%,,1.39
-2018,%,,1.55
-2019,%,,1.64
-2020,%,,1.68
-2021,%,,1.74
-2010,%,afghanistan,0.03
-2011,%,afghanistan,0.03
-2012,%,afghanistan,0.03
-2013,%,afghanistan,0.04
-2014,%,afghanistan,0.04
-2015,%,afghanistan,0.04
-2016,%,afghanistan,0.06
-2017,%,afghanistan,0.13
-2018,%,afghanistan,0.16
-2019,%,afghanistan,0.17
-2020,%,afghanistan,0.18
-2021,%,afghanistan,0.2
-2010,%,iraq,0.05
-2011,%,iraq,0.05
-2012,%,iraq,0.05
-2013,%,iraq,0.05
-2014,%,iraq,0.06
-2015,%,iraq,0.07
-2016,%,iraq,0.1
-2017,%,iraq,0.15
-2018,%,iraq,0.17
-2019,%,iraq,0.17
-2020,%,iraq,0.17
-2021,%,iraq,0.17
-2010,%,iran,0.02
-2011,%,iran,0.02
-2012,%,iran,0.02
-2013,%,iran,0.02
-2014,%,iran,0.03
-2015,%,iran,0.03
-2016,%,iran,0.03
-2017,%,iran,0.05
-2018,%,iran,0.05
-2019,%,iran,0.05
-2020,%,iran,0.05
-2021,%,iran,0.05
-2010,%,russian federation,0.04
-2011,%,russian federation,0.05
-2012,%,russian federation,0.05
-2013,%,russian federation,0.04
-2014,%,russian federation,0.05
-2015,%,russian federation,0.04
-2016,%,russian federation,0.04
-2017,%,russian federation,0.05
-2018,%,russian federation,0.05
-2019,%,russian federation,0.05
-2020,%,russian federation,0.05
-2021,%,russian federation,0.05
-2010,%,syria,0.01
-2011,%,syria,0.01
-2012,%,syria,0.02
-2013,%,syria,0.03
-2014,%,syria,0.07
-2015,%,syria,0.14
-2016,%,syria,0.43
-2017,%,syria,0.57
-2018,%,syria,0.63
-2019,%,syria,0.68
-2020,%,syria,0.7
-2021,%,syria,0.71
-2010,%,turkey,0.05
-2011,%,turkey,0.05
-2012,%,turkey,0.05
-2013,%,turkey,0.05
-2014,%,turkey,0.05
-2015,%,turkey,0.05
-2016,%,turkey,0.05
-2017,%,turkey,0.05
-2018,%,turkey,0.05
-2019,%,turkey,0.05
-2020,%,turkey,0.06
-2021,%,turkey,0.06
-2010,number,,382323.0
-2011,number,,373874.0
-2012,number,,399051.0
-2013,number,,410568.0
-2014,number,,460139.0
-2015,number,,547934.0
-2016,number,,867502.0
-2017,number,,1154363.0
-2018,number,,1283223.0
-2019,number,,1360069.0
-2020,number,,1397686.0
+Year,Units,country of citizenship,Value
+2010,percentage,,0.48
+2011,percentage,,0.47
+2012,percentage,,0.5
+2013,percentage,,0.51
+2014,percentage,,0.57
+2015,percentage,,0.67
+2016,percentage,,1.05
+2017,percentage,,1.39
+2018,percentage,,1.55
+2019,percentage,,1.64
+2020,percentage,,1.68
+2021,percentage,,1.74
+2010,percentage,afghanistan,0.03
+2011,percentage,afghanistan,0.03
+2012,percentage,afghanistan,0.03
+2013,percentage,afghanistan,0.04
+2014,percentage,afghanistan,0.04
+2015,percentage,afghanistan,0.04
+2016,percentage,afghanistan,0.06
+2017,percentage,afghanistan,0.13
+2018,percentage,afghanistan,0.16
+2019,percentage,afghanistan,0.17
+2020,percentage,afghanistan,0.18
+2021,percentage,afghanistan,0.2
+2010,percentage,iraq,0.05
+2011,percentage,iraq,0.05
+2012,percentage,iraq,0.05
+2013,percentage,iraq,0.05
+2014,percentage,iraq,0.06
+2015,percentage,iraq,0.07
+2016,percentage,iraq,0.1
+2017,percentage,iraq,0.15
+2018,percentage,iraq,0.17
+2019,percentage,iraq,0.17
+2020,percentage,iraq,0.17
+2021,percentage,iraq,0.17
+2010,percentage,iran,0.02
+2011,percentage,iran,0.02
+2012,percentage,iran,0.02
+2013,percentage,iran,0.02
+2014,percentage,iran,0.03
+2015,percentage,iran,0.03
+2016,percentage,iran,0.03
+2017,percentage,iran,0.05
+2018,percentage,iran,0.05
+2019,percentage,iran,0.05
+2020,percentage,iran,0.05
+2021,percentage,iran,0.05
+2010,percentage,russian federation,0.05
+2011,percentage,russian federation,0.05
+2012,percentage,russian federation,0.05
+2013,percentage,russian federation,0.04
+2014,percentage,russian federation,0.05
+2015,percentage,russian federation,0.04
+2016,percentage,russian federation,0.04
+2017,percentage,russian federation,0.05
+2018,percentage,russian federation,0.05
+2019,percentage,russian federation,0.05
+2020,percentage,russian federation,0.05
+2021,percentage,russian federation,0.05
+2010,percentage,syria,0.01
+2011,percentage,syria,0.01
+2012,percentage,syria,0.02
+2013,percentage,syria,0.03
+2014,percentage,syria,0.07
+2015,percentage,syria,0.14
+2016,percentage,syria,0.43
+2017,percentage,syria,0.57
+2018,percentage,syria,0.63
+2019,percentage,syria,0.68
+2020,percentage,syria,0.7
+2021,percentage,syria,0.71
+2010,percentage,turkey,0.06
+2011,percentage,turkey,0.05
+2012,percentage,turkey,0.05
+2013,percentage,turkey,0.05
+2014,percentage,turkey,0.05
+2015,percentage,turkey,0.05
+2016,percentage,turkey,0.05
+2017,percentage,turkey,0.05
+2018,percentage,turkey,0.05
+2019,percentage,turkey,0.05
+2020,percentage,turkey,0.06
+2021,percentage,turkey,0.06
+2010,number,,382325.0
+2011,number,,373875.0
+2012,number,,399050.0
+2013,number,,410570.0
+2014,number,,460140.0
+2015,number,,547935.0
+2016,number,,867500.0
+2017,number,,1154365.0
+2018,number,,1283225.0
+2019,number,,1360070.0
+2020,number,,1397685.0
 2021,number,,1451375.0
 2010,number,syria,7814.0
 2011,number,syria,7819.0

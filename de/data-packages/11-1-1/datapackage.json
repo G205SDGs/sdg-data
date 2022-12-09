@@ -16,18 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "topic",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wohnverhältnisse",
-                "Deprivation der Unterkunft",
-                ""
-              ]
-            },
-            "title": "Themenbereich"
-          },
-          {
             "name": "degree of urbanisation",
             "type": "string",
             "constraints": {

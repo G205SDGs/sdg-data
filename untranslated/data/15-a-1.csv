@@ -1,34 +1,56 @@
 Year,Units,timeseries,Value
-2010,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,593.0
-2011,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,1167.9
-2012,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,990.2
-2013,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,969.5
-2014,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,1169.1
-2015,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,1302.2
-2016,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,1229.0
-2017,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,1930.3
-2018,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,1595.8
-2019,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,2304.4
-2020,"mn usd, constant prices (2020)",oda (commitments) for biodiversity,2376.0
-2010,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,413.1
-2011,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,565.2
-2012,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,760.3
-2013,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,764.1
-2014,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,854.7
-2015,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,820.9
-2016,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,1102.3
-2017,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,1537.0
-2018,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,1391.7
-2019,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,1623.1
-2020,"mn usd, constant prices (2019)",oda (gross disbursements) for biodiversity,
-2010,mn eur,environmental protection expenditure,52116.0
-2011,mn eur,environmental protection expenditure,54918.0
-2012,mn eur,environmental protection expenditure,57022.0
-2013,mn eur,environmental protection expenditure,58937.0
-2014,mn eur,environmental protection expenditure,63026.0
-2015,mn eur,environmental protection expenditure,64748.0
-2016,mn eur,environmental protection expenditure,67478.0
-2017,mn eur,environmental protection expenditure,70053.0
-2018,mn eur,environmental protection expenditure,74005.0
-2019,mn eur,environmental protection expenditure,76273.0
-2020,mn eur,environmental protection expenditure,
+2010,million eur,oda (commitments) for biodiversity,440.9
+2011,million eur,oda (commitments) for biodiversity,877.7
+2012,million eur,oda (commitments) for biodiversity,755.2
+2013,million eur,oda (commitments) for biodiversity,754.0
+2014,million eur,oda (commitments) for biodiversity,926.2
+2015,million eur,oda (commitments) for biodiversity,1050.8
+2016,million eur,oda (commitments) for biodiversity,1004.9
+2017,million eur,oda (commitments) for biodiversity,1602.1
+2018,million eur,oda (commitments) for biodiversity,1350.6
+2019,million eur,oda (commitments) for biodiversity,1990.5
+2020,million eur,oda (commitments) for biodiversity,2084.9
+2010,million eur,oda (gross disbursements) for biodiversity,318.6
+2011,million eur,oda (gross disbursements) for biodiversity,440.7
+2012,million eur,oda (gross disbursements) for biodiversity,601.6
+2013,million eur,oda (gross disbursements) for biodiversity,616.5
+2014,million eur,oda (gross disbursements) for biodiversity,702.4
+2015,million eur,oda (gross disbursements) for biodiversity,687.2
+2016,million eur,oda (gross disbursements) for biodiversity,935.1
+2017,million eur,oda (gross disbursements) for biodiversity,1321.5
+2018,million eur,oda (gross disbursements) for biodiversity,1216.5
+2019,million eur,oda (gross disbursements) for biodiversity,1449.9
+2020,million eur,oda (gross disbursements) for biodiversity,1787.8
+2010,million eur,environmental protection expenditure,52116.0
+2011,million eur,environmental protection expenditure,54918.0
+2012,million eur,environmental protection expenditure,57022.0
+2013,million eur,environmental protection expenditure,58937.0
+2014,million eur,environmental protection expenditure,63026.0
+2015,million eur,environmental protection expenditure,64748.0
+2016,million eur,environmental protection expenditure,67478.0
+2017,million eur,environmental protection expenditure,70053.0
+2018,million eur,environmental protection expenditure,74005.0
+2019,million eur,environmental protection expenditure,76273.0
+2020,million eur,environmental protection expenditure,
+2010,"million usd, constant prices (2020)",oda (commitments) for biodiversity,593.0
+2011,"million usd, constant prices (2020)",oda (commitments) for biodiversity,1167.9
+2012,"million usd, constant prices (2020)",oda (commitments) for biodiversity,990.2
+2013,"million usd, constant prices (2020)",oda (commitments) for biodiversity,969.5
+2014,"million usd, constant prices (2020)",oda (commitments) for biodiversity,1169.1
+2015,"million usd, constant prices (2020)",oda (commitments) for biodiversity,1302.2
+2016,"million usd, constant prices (2020)",oda (commitments) for biodiversity,1229.0
+2017,"million usd, constant prices (2020)",oda (commitments) for biodiversity,1930.3
+2018,"million usd, constant prices (2020)",oda (commitments) for biodiversity,1595.8
+2019,"million usd, constant prices (2020)",oda (commitments) for biodiversity,2304.4
+2020,"million usd, constant prices (2020)",oda (commitments) for biodiversity,2376.0
+2010,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,428.5
+2011,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,586.4
+2012,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,788.8
+2013,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,792.7
+2014,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,886.7
+2015,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,851.7
+2016,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,1143.6
+2017,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,1592.2
+2018,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,1437.3
+2019,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,1678.6
+2020,"million usd, constant prices (2020)",oda (gross disbursements) for biodiversity,2037.4

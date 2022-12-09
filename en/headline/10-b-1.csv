@@ -1,12 +1,23 @@
-Year,Value
-2010,42281.8
-2011,53785.1
-2012,35412.5
-2013,51423.9
-2014,50425.3
-2015,53207.4
-2016,54410.7
-2017,57435.5
-2018,52040.5
-2019,43633.9
-2020,44700.6
+Year,Value,Units
+2010,31435.7,Million EUR
+2011,40420.7,Million EUR
+2012,27009.7,Million EUR
+2013,39992.0,Million EUR
+2014,39948.5,Million EUR
+2015,42935.5,Million EUR
+2016,44490.3,Million EUR
+2017,47671.3,Million EUR
+2018,44045.6,Million EUR
+2019,37691.1,Million EUR
+2020,39224.8,Million EUR
+2010,42281.8,"Million USD, constant prices (2020)"
+2011,53785.1,"Million USD, constant prices (2020)"
+2012,35412.5,"Million USD, constant prices (2020)"
+2013,51423.9,"Million USD, constant prices (2020)"
+2014,50425.3,"Million USD, constant prices (2020)"
+2015,53207.4,"Million USD, constant prices (2020)"
+2016,54410.7,"Million USD, constant prices (2020)"
+2017,57435.5,"Million USD, constant prices (2020)"
+2018,52040.5,"Million USD, constant prices (2020)"
+2019,43633.9,"Million USD, constant prices (2020)"
+2020,44700.6,"Million USD, constant prices (2020)"
