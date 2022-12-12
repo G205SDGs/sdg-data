@@ -10,6 +10,7 @@ Year,Units,mode of transport,Value,Series
 2018,million passenger-kilometre,,1161885,passenger transport
 2019,million passenger-kilometre,,1170186,passenger transport
 2020,million passenger-kilometre,,945755,passenger transport
+2021,million passenger-kilometre,,,passenger transport
 2010,million passenger-kilometre,road transport,78092,passenger transport
 2011,million passenger-kilometre,road transport,77957,passenger transport
 2012,million passenger-kilometre,road transport,76019,passenger transport
@@ -21,6 +22,7 @@ Year,Units,mode of transport,Value,Series
 2018,million passenger-kilometre,road transport,80103,passenger transport
 2019,million passenger-kilometre,road transport,78919,passenger transport
 2020,million passenger-kilometre,road transport,45735,passenger transport
+2021,million passenger-kilometre,road transport,,passenger transport
 2010,million passenger-kilometre,rail transport,83886,passenger transport
 2011,million passenger-kilometre,rail transport,85414,passenger transport
 2012,million passenger-kilometre,rail transport,88795,passenger transport
@@ -32,6 +34,7 @@ Year,Units,mode of transport,Value,Series
 2018,million passenger-kilometre,rail transport,98061,passenger transport
 2019,million passenger-kilometre,rail transport,102026,passenger transport
 2020,million passenger-kilometre,rail transport,58816,passenger transport
+2021,million passenger-kilometre,rail transport,,passenger transport
 2010,million passenger-kilometre,air transport,52822,passenger transport
 2011,million passenger-kilometre,air transport,55215,passenger transport
 2012,million passenger-kilometre,air transport,56180,passenger transport
@@ -43,6 +46,7 @@ Year,Units,mode of transport,Value,Series
 2018,million passenger-kilometre,air transport,70445,passenger transport
 2019,million passenger-kilometre,air transport,71841,passenger transport
 2020,million passenger-kilometre,air transport,18704,passenger transport
+2021,million passenger-kilometre,air transport,,passenger transport
 2010,million passenger-kilometre,motorised private transport,902440,passenger transport
 2011,million passenger-kilometre,motorised private transport,912417,passenger transport
 2012,million passenger-kilometre,motorised private transport,914563,passenger transport
@@ -54,6 +58,7 @@ Year,Units,mode of transport,Value,Series
 2018,million passenger-kilometre,motorised private transport,913276,passenger transport
 2019,million passenger-kilometre,motorised private transport,917400,passenger transport
 2020,million passenger-kilometre,motorised private transport,822500,passenger transport
+2021,million passenger-kilometre,motorised private transport,,passenger transport
 2010,million tonne-kilometres,,627882,freight transport
 2011,million tonne-kilometres,,628083,freight transport
 2012,million tonne-kilometres,,618179,freight transport
@@ -64,7 +69,8 @@ Year,Units,mode of transport,Value,Series
 2017,million tonne-kilometres,,692578,freight transport
 2018,million tonne-kilometres,,694963,freight transport
 2019,million tonne-kilometres,,697942,freight transport
-2020,million tonne-kilometres,,670460,freight transport
+2020,million tonne-kilometres,,671760,freight transport
+2021,million tonne-kilometres,,702360,freight transport
 2010,million tonne-kilometres,road transport,440600,freight transport
 2011,million tonne-kilometres,road transport,442600,freight transport
 2012,million tonne-kilometres,road transport,432000,freight transport
@@ -75,7 +81,8 @@ Year,Units,mode of transport,Value,Series
 2017,million tonne-kilometres,road transport,486000,freight transport
 2018,million tonne-kilometres,road transport,499200,freight transport
 2019,million tonne-kilometres,road transport,498600,freight transport
-2020,million tonne-kilometres,road transport,486100,freight transport
+2020,million tonne-kilometres,road transport,487400,freight transport
+2021,million tonne-kilometres,road transport,505600,freight transport
 2010,million tonne-kilometres,rail transport,107317,freight transport
 2011,million tonne-kilometres,rail transport,113317,freight transport
 2012,million tonne-kilometres,rail transport,110065,freight transport
@@ -87,6 +94,7 @@ Year,Units,mode of transport,Value,Series
 2018,million tonne-kilometres,rail transport,129991,freight transport
 2019,million tonne-kilometres,rail transport,129161,freight transport
 2020,million tonne-kilometres,rail transport,119790,freight transport
+2021,million tonne-kilometres,rail transport,131035,freight transport
 2010,million tonne-kilometres,inland waterway transport,62278,freight transport
 2011,million tonne-kilometres,inland waterway transport,55027,freight transport
 2012,million tonne-kilometres,inland waterway transport,58488,freight transport
@@ -98,6 +106,7 @@ Year,Units,mode of transport,Value,Series
 2018,million tonne-kilometres,inland waterway transport,46901,freight transport
 2019,million tonne-kilometres,inland waterway transport,50945,freight transport
 2020,million tonne-kilometres,inland waterway transport,46338,freight transport
+2021,million tonne-kilometres,inland waterway transport,48197,freight transport
 2010,million tonne-kilometres,air transport,1428,freight transport
 2011,million tonne-kilometres,air transport,1480,freight transport
 2012,million tonne-kilometres,air transport,1421,freight transport
@@ -109,6 +118,7 @@ Year,Units,mode of transport,Value,Series
 2018,million tonne-kilometres,air transport,1637,freight transport
 2019,million tonne-kilometres,air transport,1587,freight transport
 2020,million tonne-kilometres,air transport,1546,freight transport
+2021,million tonne-kilometres,air transport,1790,freight transport
 2010,million tonne-kilometres,pipelines: crude oil,16259,freight transport
 2011,million tonne-kilometres,pipelines: crude oil,15623,freight transport
 2012,million tonne-kilometres,pipelines: crude oil,16207,freight transport
@@ -120,3 +130,4 @@ Year,Units,mode of transport,Value,Series
 2018,million tonne-kilometres,pipelines: crude oil,17234,freight transport
 2019,million tonne-kilometres,pipelines: crude oil,17649,freight transport
 2020,million tonne-kilometres,pipelines: crude oil,16686,freight transport
+2021,million tonne-kilometres,pipelines: crude oil,15738,freight transport

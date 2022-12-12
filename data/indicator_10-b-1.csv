@@ -1,67 +1,133 @@
-Year,type of flow,Value
-2010,,42281.8
-2011,,53785.1
-2012,,35412.5
-2013,,51423.9
-2014,,50425.3
-2015,,53207.4
-2016,,54410.7
-2017,,57435.5
-2018,,52040.5
-2019,,43633.9
-2020,,44700.6
-2010,oda (net disbursements),13186.6
-2011,oda (net disbursements),13486.8
-2012,oda (net disbursements),13198.8
-2013,oda (net disbursements),13780.2
-2014,oda (net disbursements),15760.5
-2015,oda (net disbursements),20042.4
-2016,oda (net disbursements),27356.2
-2017,oda (net disbursements),26725.4
-2018,oda (net disbursements),25698.6
-2019,oda (net disbursements),24946.1
-2020,oda (net disbursements),29320.4
-2010,oof (net disbursements),69.1
-2011,oof (net disbursements),-138.0
-2012,oof (net disbursements),-92.9
-2013,oof (net disbursements),-82.4
-2014,oof (net disbursements),145.7
-2015,oof (net disbursements),1479.9
-2016,oof (net disbursements),-506.6
-2017,oof (net disbursements),-381.1
-2018,oof (net disbursements),-117.6
-2019,oof (net disbursements),14.2
-2020,oof (net disbursements),422.5
-2010,officially supported export credits (net disbursements),3764.7
-2011,officially supported export credits (net disbursements),9836.5
-2012,officially supported export credits (net disbursements),6397.7
-2013,officially supported export credits (net disbursements),5250.2
-2014,officially supported export credits (net disbursements),-152.7
-2015,officially supported export credits (net disbursements),2084.8
-2016,officially supported export credits (net disbursements),3815.0
-2017,officially supported export credits (net disbursements),6.8
-2018,officially supported export credits (net disbursements),1389.9
-2019,officially supported export credits (net disbursements),-2014.2
-2020,officially supported export credits (net disbursements),-1222.2
-2010,private sector flows at market terms (net disbursements),23774.9
-2011,private sector flows at market terms (net disbursements),29070.8
-2012,private sector flows at market terms (net disbursements),14481.7
-2013,private sector flows at market terms (net disbursements),31105.0
-2014,private sector flows at market terms (net disbursements),33222.1
-2015,private sector flows at market terms (net disbursements),28057.5
-2016,private sector flows at market terms (net disbursements),22171.7
-2017,private sector flows at market terms (net disbursements),29491.9
-2018,private sector flows at market terms (net disbursements),23705.1
-2019,private sector flows at market terms (net disbursements),19108.0
-2020,private sector flows at market terms (net disbursements),14665.8
-2010,private concessional flows (net disbursements),1486.6
-2011,private concessional flows (net disbursements),1529.0
-2012,private concessional flows (net disbursements),1427.1
-2013,private concessional flows (net disbursements),1371.0
-2014,private concessional flows (net disbursements),1449.7
-2015,private concessional flows (net disbursements),1542.8
-2016,private concessional flows (net disbursements),1574.5
-2017,private concessional flows (net disbursements),1592.5
-2018,private concessional flows (net disbursements),1364.5
-2019,private concessional flows (net disbursements),1579.9
-2020,private concessional flows (net disbursements),1514.2
+Year,Units,type of flow,Value
+2010,million eur,,31435.7
+2011,million eur,,40420.7
+2012,million eur,,27009.7
+2013,million eur,,39992.0
+2014,million eur,,39948.5
+2015,million eur,,42935.5
+2016,million eur,,44490.3
+2017,million eur,,47671.3
+2018,million eur,,44045.6
+2019,million eur,,37691.1
+2020,million eur,,39224.8
+2010,million eur,oda (net disbursements),9803.9
+2011,million eur,oda (net disbursements),10135.6
+2012,million eur,oda (net disbursements),10066.9
+2013,million eur,oda (net disbursements),10716.7
+2014,million eur,oda (net disbursements),12485.9
+2015,million eur,oda (net disbursements),16173.1
+2016,million eur,oda (net disbursements),22368.5
+2017,million eur,oda (net disbursements),22182.0
+2018,million eur,oda (net disbursements),21750.5
+2019,million eur,oda (net disbursements),21548.5
+2020,million eur,oda (net disbursements),25728.6
+2010,million eur,oof (net disbursements),51.4
+2011,million eur,oof (net disbursements),-103.7
+2012,million eur,oof (net disbursements),-70.8
+2013,million eur,oof (net disbursements),-64.1
+2014,million eur,oof (net disbursements),115.5
+2015,million eur,oof (net disbursements),1194.2
+2016,million eur,oof (net disbursements),-414.3
+2017,million eur,oof (net disbursements),-316.3
+2018,million eur,oof (net disbursements),-99.5
+2019,million eur,oof (net disbursements),12.2
+2020,million eur,oof (net disbursements),370.7
+2010,million eur,officially supported export credits (net disbursements),2799.0
+2011,million eur,officially supported export credits (net disbursements),7392.3
+2012,million eur,officially supported export credits (net disbursements),4879.6
+2013,million eur,officially supported export credits (net disbursements),4083.0
+2014,million eur,officially supported export credits (net disbursements),-121.0
+2015,million eur,officially supported export credits (net disbursements),1682.3
+2016,million eur,officially supported export credits (net disbursements),3119.4
+2017,million eur,officially supported export credits (net disbursements),5.6
+2018,million eur,officially supported export credits (net disbursements),1176.4
+2019,million eur,officially supported export credits (net disbursements),-1739.9
+2020,million eur,officially supported export credits (net disbursements),-1072.5
+2010,million eur,private sector flows at market terms (net disbursement),17676.1
+2011,million eur,private sector flows at market terms (net disbursement),21847.4
+2012,million eur,private sector flows at market terms (net disbursement),11045.4
+2013,million eur,private sector flows at market terms (net disbursement),24190.1
+2014,million eur,private sector flows at market terms (net disbursement),26319.6
+2015,million eur,private sector flows at market terms (net disbursement),22640.9
+2016,million eur,private sector flows at market terms (net disbursement),18129.2
+2017,million eur,private sector flows at market terms (net disbursement),24478.2
+2018,million eur,private sector flows at market terms (net disbursement),20063.3
+2019,million eur,private sector flows at market terms (net disbursement),16505.5
+2020,million eur,private sector flows at market terms (net disbursement),12869.2
+2010,million eur,private concessional flows (net disbursements),1105.2
+2011,million eur,private concessional flows (net disbursements),1149.1
+2012,million eur,private concessional flows (net disbursements),1088.5
+2013,million eur,private concessional flows (net disbursements),1066.2
+2014,million eur,private concessional flows (net disbursements),1148.5
+2015,million eur,private concessional flows (net disbursements),1245.0
+2016,million eur,private concessional flows (net disbursements),1287.4
+2017,million eur,private concessional flows (net disbursements),1321.8
+2018,million eur,private concessional flows (net disbursements),1154.9
+2019,million eur,private concessional flows (net disbursements),1364.7
+2020,million eur,private concessional flows (net disbursements),1328.7
+2010,"million usd, constant prices (2020)",,42281.8
+2011,"million usd, constant prices (2020)",,53785.1
+2012,"million usd, constant prices (2020)",,35412.5
+2013,"million usd, constant prices (2020)",,51423.9
+2014,"million usd, constant prices (2020)",,50425.3
+2015,"million usd, constant prices (2020)",,53207.4
+2016,"million usd, constant prices (2020)",,54410.7
+2017,"million usd, constant prices (2020)",,57435.5
+2018,"million usd, constant prices (2020)",,52040.5
+2019,"million usd, constant prices (2020)",,43633.9
+2020,"million usd, constant prices (2020)",,44700.6
+2010,"million usd, constant prices (2020)",oda (net disbursements),13186.6
+2011,"million usd, constant prices (2020)",oda (net disbursements),13486.8
+2012,"million usd, constant prices (2020)",oda (net disbursements),13198.8
+2013,"million usd, constant prices (2020)",oda (net disbursements),13780.2
+2014,"million usd, constant prices (2020)",oda (net disbursements),15760.5
+2015,"million usd, constant prices (2020)",oda (net disbursements),20042.4
+2016,"million usd, constant prices (2020)",oda (net disbursements),27356.2
+2017,"million usd, constant prices (2020)",oda (net disbursements),26725.4
+2018,"million usd, constant prices (2020)",oda (net disbursements),25698.6
+2019,"million usd, constant prices (2020)",oda (net disbursements),24946.1
+2020,"million usd, constant prices (2020)",oda (net disbursements),29320.4
+2010,"million usd, constant prices (2020)",oof (net disbursements),69.1
+2011,"million usd, constant prices (2020)",oof (net disbursements),-138.0
+2012,"million usd, constant prices (2020)",oof (net disbursements),-92.9
+2013,"million usd, constant prices (2020)",oof (net disbursements),-82.4
+2014,"million usd, constant prices (2020)",oof (net disbursements),145.7
+2015,"million usd, constant prices (2020)",oof (net disbursements),1479.9
+2016,"million usd, constant prices (2020)",oof (net disbursements),-506.6
+2017,"million usd, constant prices (2020)",oof (net disbursements),-381.1
+2018,"million usd, constant prices (2020)",oof (net disbursements),-117.6
+2019,"million usd, constant prices (2020)",oof (net disbursements),14.2
+2020,"million usd, constant prices (2020)",oof (net disbursements),422.5
+2010,"million usd, constant prices (2020)",officially supported export credits (net disbursements),3764.7
+2011,"million usd, constant prices (2020)",officially supported export credits (net disbursements),9836.5
+2012,"million usd, constant prices (2020)",officially supported export credits (net disbursements),6397.7
+2013,"million usd, constant prices (2020)",officially supported export credits (net disbursements),5250.2
+2014,"million usd, constant prices (2020)",officially supported export credits (net disbursements),-152.7
+2015,"million usd, constant prices (2020)",officially supported export credits (net disbursements),2084.8
+2016,"million usd, constant prices (2020)",officially supported export credits (net disbursements),3815.0
+2017,"million usd, constant prices (2020)",officially supported export credits (net disbursements),6.8
+2018,"million usd, constant prices (2020)",officially supported export credits (net disbursements),1389.9
+2019,"million usd, constant prices (2020)",officially supported export credits (net disbursements),-2014.2
+2020,"million usd, constant prices (2020)",officially supported export credits (net disbursements),-1222.2
+2010,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),23774.9
+2011,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),29070.8
+2012,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),14481.7
+2013,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),31105.0
+2014,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),33222.1
+2015,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),28057.5
+2016,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),22171.7
+2017,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),29491.9
+2018,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),23705.1
+2019,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),19108.0
+2020,"million usd, constant prices (2020)",private sector flows at market terms (net disbursement),14665.8
+2010,"million usd, constant prices (2020)",private concessional flows (net disbursements),1486.6
+2011,"million usd, constant prices (2020)",private concessional flows (net disbursements),1529.0
+2012,"million usd, constant prices (2020)",private concessional flows (net disbursements),1427.1
+2013,"million usd, constant prices (2020)",private concessional flows (net disbursements),1371.0
+2014,"million usd, constant prices (2020)",private concessional flows (net disbursements),1449.7
+2015,"million usd, constant prices (2020)",private concessional flows (net disbursements),1542.8
+2016,"million usd, constant prices (2020)",private concessional flows (net disbursements),1574.5
+2017,"million usd, constant prices (2020)",private concessional flows (net disbursements),1592.5
+2018,"million usd, constant prices (2020)",private concessional flows (net disbursements),1364.5
+2019,"million usd, constant prices (2020)",private concessional flows (net disbursements),1579.9
+2020,"million usd, constant prices (2020)",private concessional flows (net disbursements),1514.2
