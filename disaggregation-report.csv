@@ -15,7 +15,7 @@ economic activity,2,5
 education level,1,2
 facilities,1,4
 feelings of insecurity,1,4
-field of work,1,4
+fields of work,1,4
 fine particulate matter,1,2
 form of abuse,1,2
 form of exploitation,1,2
@@ -33,7 +33,7 @@ percentiles,1,7
 policy area,1,6
 population,1,2
 profession,1,4
-region,6,18
+region,6,17
 sea,1,2
 sector,1,2
 sex,30,4
@@ -46,7 +46,7 @@ technology sectors,1,2
 technology,1,2
 thematic area,1,4
 time series,1,2
-timeseries,54,141
+timeseries,54,146
 treatment,1,2
 type of account,1,2
 type of disease,4,22

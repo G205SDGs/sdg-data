@@ -16,19 +16,34 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "No unit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio of female members in the public service",
-                "Ratio of female members in the judiciary",
+                "Working-age population",
+                "German Bundestag (lower chamber)",
+                "Bundesrat (upper chamber)",
+                "Public service",
+                "Judiciary",
                 ""
               ]
             },
             "title": "Time series"
           },
           {
-            "name": "field of work",
+            "name": "fields of work",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +54,7 @@
                 ""
               ]
             },
-            "title": "Field of work"
+            "title": "Fields of work"
           },
           {
             "name": "level of court",

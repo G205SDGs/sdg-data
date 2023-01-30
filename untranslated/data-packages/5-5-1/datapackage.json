@@ -19,7 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of women in parliaments",
+                "proportion of women in the german bundestag (lower chamber)",
+                "proportion of women in the bundesrat (upper chamber)",
+                "proportion of women in länder parliaments",
                 "proportion of women in councils of districts and district-free cities",
                 ""
               ]
@@ -31,7 +33,7 @@
             "constraints": {
               "enum": [
                 "germany",
-                "baden-wuerttemberg",
+                "baden-württemberg",
                 "bavaria",
                 "berlin",
                 "brandenburg",

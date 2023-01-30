@@ -16,19 +16,34 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Keine Einheit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis von Frauen im öffentlichen Dienst",
-                "Verhältnis von Frauen in der Justiz",
+                "Bevölkerung im erwerbsfähigen Alter",
+                "Deutscher Bundestag",
+                "Bundesrat",
+                "Öffentlicher Dienst",
+                "Justiz",
                 ""
               ]
             },
             "title": "Zeitreihe"
           },
           {
-            "name": "field of work",
+            "name": "fields of work",
             "type": "string",
             "constraints": {
               "enum": [

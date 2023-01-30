@@ -11,6 +11,7 @@ available income of private households,1,1
 basel convention,1,1
 birth registration,1,1
 branches of payment service providers,1,1
+bundesrat (upper chamber),2,1
 capital to assets ratio,1,1
 child deliveries in hospitals,1,1
 co₂ emissions per gross value added (price adjusted) in manufacturing industries,1,1
@@ -27,6 +28,7 @@ female owners of agricultural holdings with the legal form of a sole proprietors
 forest area located within protected areas,1,1
 forest area net change rate,1,1
 forest area under an independently verified forest management certification scheme,1,1
+german bundestag (lower chamber),2,1
 gini coefficient of equivalised disposable income before social transfers (pre-fiscal),1,1
 gini coefficient of equivalised disposable income (post-fiscal),1,1
 government expenditure on cultural services (cofog division 8.2),1,1
@@ -42,6 +44,7 @@ hours worked by employees,1,1
 hours worked by persons employed,1,1
 hpv vaccination coverages among 15 years old girls and boys,2,1
 inpatient treatment of neglected tropical diseases,10,1
+judiciary,8,1
 labour productivity per hour worked by employee,1,1
 labour productivity per hour worked by persons employed,1,1
 lakes and rivers permanent water area as a proportion of total land area,1,1
@@ -112,9 +115,10 @@ proportion of oda (net disbursements) to gni,1,1
 proportion of settlement and transport areas to population,1,1
 proportion of sustainable managed stocks in all msy examined stocks,3,1
 proportion of women in councils of districts and district-free cities,1,1
-proportion of women in parliaments,17,1
-ratio of female members in the judiciary,4,1
-ratio of female members in the public service,5,1
+proportion of women in länder parliaments,16,1
+proportion of women in the bundesrat (upper chamber),1,1
+proportion of women in the german bundestag (lower chamber),1,1
+public service,10,1
 ratio of land consumption rate to population growth rate (year-to-year),1,1
 real gdp per capita,1,1
 recycling rate,2,1
@@ -140,3 +144,4 @@ victims of sexual harassment,18,1
 wasting,3,1
 wetlands area as a proportion of total land area,1,1
 wetlands area,1,1
+working-age population,1,1

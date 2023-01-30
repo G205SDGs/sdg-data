@@ -9,6 +9,7 @@ Year,timeseries,sex,Value
 2017,dtp vaccination coverage at school entry,,93.5
 2018,dtp vaccination coverage at school entry,,93.0
 2019,dtp vaccination coverage at school entry,,92.7
+2020,dtp vaccination coverage at school entry,,92.7
 2010,measles vaccination coverage at school entry,,91.5
 2011,measles vaccination coverage at school entry,,92.1
 2012,measles vaccination coverage at school entry,,92.4
@@ -19,6 +20,7 @@ Year,timeseries,sex,Value
 2017,measles vaccination coverage at school entry,,92.8
 2018,measles vaccination coverage at school entry,,93.1
 2019,measles vaccination coverage at school entry,,92.7
+2020,measles vaccination coverage at school entry,,93.2
 2010,pneumococcal vaccination coverage at school entry,,15.2
 2011,pneumococcal vaccination coverage at school entry,,41.0
 2012,pneumococcal vaccination coverage at school entry,,68.3
@@ -29,6 +31,7 @@ Year,timeseries,sex,Value
 2017,pneumococcal vaccination coverage at school entry,,83.8
 2018,pneumococcal vaccination coverage at school entry,,83.1
 2019,pneumococcal vaccination coverage at school entry,,83.4
+2020,pneumococcal vaccination coverage at school entry,,82.2
 2010,hpv vaccination coverages among 15 years old girls and boys,female,
 2011,hpv vaccination coverages among 15 years old girls and boys,female,27.2
 2012,hpv vaccination coverages among 15 years old girls and boys,female,27.2
@@ -39,6 +42,7 @@ Year,timeseries,sex,Value
 2017,hpv vaccination coverages among 15 years old girls and boys,female,40.0
 2018,hpv vaccination coverages among 15 years old girls and boys,female,43.0
 2019,hpv vaccination coverages among 15 years old girls and boys,female,47.2
+2020,hpv vaccination coverages among 15 years old girls and boys,female,51.0
 2010,hpv vaccination coverages among 15 years old girls and boys,male,
 2011,hpv vaccination coverages among 15 years old girls and boys,male,
 2012,hpv vaccination coverages among 15 years old girls and boys,male,
@@ -49,3 +53,4 @@ Year,timeseries,sex,Value
 2017,hpv vaccination coverages among 15 years old girls and boys,male,
 2018,hpv vaccination coverages among 15 years old girls and boys,male,
 2019,hpv vaccination coverages among 15 years old girls and boys,male,5.1
+2020,hpv vaccination coverages among 15 years old girls and boys,male,17.0
