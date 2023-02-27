@@ -28,7 +28,20 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "type of biomass",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stehendes Holz",
+                "Sonstige Holzbiomasse",
+                "Sonstige Biomasse in Wäldern",
+                ""
+              ]
+            },
+            "title": "Art der Biomasse"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

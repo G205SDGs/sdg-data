@@ -28,7 +28,20 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "type of biomass",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Standig wood",
+                "Other woody biomass",
+                "Other biomass in forests",
+                ""
+              ]
+            },
+            "title": "Type of biomass"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

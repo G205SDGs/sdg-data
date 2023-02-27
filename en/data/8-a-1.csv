@@ -1,23 +1,45 @@
-Year,Time series,Value
-2010,ODA and OOF (commitments) for aid for trade,4659.4
-2011,ODA and OOF (commitments) for aid for trade,3765.5
-2012,ODA and OOF (commitments) for aid for trade,3723.5
-2013,ODA and OOF (commitments) for aid for trade,4928.4
-2014,ODA and OOF (commitments) for aid for trade,7408.7
-2015,ODA and OOF (commitments) for aid for trade,6401.3
-2016,ODA and OOF (commitments) for aid for trade,6683.1
-2017,ODA and OOF (commitments) for aid for trade,6088.5
-2018,ODA and OOF (commitments) for aid for trade,7322.3
-2019,ODA and OOF (commitments) for aid for trade,8248.0
-2020,ODA and OOF (commitments) for aid for trade,8926.9
-2010,ODA and OOF (gross disbursement) for aid for trade,3411.2
-2011,ODA and OOF (gross disbursement) for aid for trade,3132.0
-2012,ODA and OOF (gross disbursement) for aid for trade,2821.4
-2013,ODA and OOF (gross disbursement) for aid for trade,3533.5
-2014,ODA and OOF (gross disbursement) for aid for trade,4424.3
-2015,ODA and OOF (gross disbursement) for aid for trade,5708.3
-2016,ODA and OOF (gross disbursement) for aid for trade,5110.8
-2017,ODA and OOF (gross disbursement) for aid for trade,4833.5
-2018,ODA and OOF (gross disbursement) for aid for trade,5893.8
-2019,ODA and OOF (gross disbursement) for aid for trade,6310.1
-2020,ODA and OOF (gross disbursement) for aid for trade,6792.7
+Year,Units,Time series,Value
+2010,Million EUR,ODA and OOF (commitments) for aid for trade,4068.9
+2011,Million EUR,ODA and OOF (commitments) for aid for trade,3586.7
+2012,Million EUR,ODA and OOF (commitments) for aid for trade,3575.4
+2013,Million EUR,ODA and OOF (commitments) for aid for trade,4500.8
+2014,Million EUR,ODA and OOF (commitments) for aid for trade,6689.2
+2015,Million EUR,ODA and OOF (commitments) for aid for trade,5840.4
+2016,Million EUR,ODA and OOF (commitments) for aid for trade,5977.4
+2017,Million EUR,ODA and OOF (commitments) for aid for trade,5869.9
+2018,Million EUR,ODA and OOF (commitments) for aid for trade,6197.4
+2019,Million EUR,ODA and OOF (commitments) for aid for trade,7124.6
+2020,Million EUR,ODA and OOF (commitments) for aid for trade,7833.3
+2010,Million EUR,ODA and OOF (gross disbursement) for aid for trade,3186.3
+2011,Million EUR,ODA and OOF (gross disbursement) for aid for trade,3118.5
+2012,Million EUR,ODA and OOF (gross disbursement) for aid for trade,2891.2
+2013,Million EUR,ODA and OOF (gross disbursement) for aid for trade,3476.8
+2014,Million EUR,ODA and OOF (gross disbursement) for aid for trade,4238.5
+2015,Million EUR,ODA and OOF (gross disbursement) for aid for trade,5301.2
+2016,Million EUR,ODA and OOF (gross disbursement) for aid for trade,4706.2
+2017,Million EUR,ODA and OOF (gross disbursement) for aid for trade,4850.6
+2018,Million EUR,ODA and OOF (gross disbursement) for aid for trade,4988.4
+2019,Million EUR,ODA and OOF (gross disbursement) for aid for trade,5450.6
+2020,Million EUR,ODA and OOF (gross disbursement) for aid for trade,5960.6
+2010,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,5472.8
+2011,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,4772.6
+2012,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,4687.7
+2013,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,5787.4
+2014,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,8443.5
+2015,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,7237.7
+2016,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,7310.2
+2017,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,7072.2
+2018,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,7322.3
+2019,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,8248.0
+2020,"Million USD, constant prices (2020)",ODA and OOF (commitments) for aid for trade,8926.9
+2010,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,4285.6
+2011,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,4149.6
+2012,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,3790.7
+2013,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,4470.7
+2014,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,5350.1
+2015,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,6569.5
+2016,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,5755.5
+2017,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,5844.1
+2018,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,5893.8
+2019,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,6310.1
+2020,"Million USD, constant prices (2020)",ODA and OOF (gross disbursement) for aid for trade,6792.7

@@ -1,23 +1,45 @@
-Year,Zeitreihe,Value
-2010,Zusagen (ODA und OOF) für Handelshilfe,4659.4
-2011,Zusagen (ODA und OOF) für Handelshilfe,3765.5
-2012,Zusagen (ODA und OOF) für Handelshilfe,3723.5
-2013,Zusagen (ODA und OOF) für Handelshilfe,4928.4
-2014,Zusagen (ODA und OOF) für Handelshilfe,7408.7
-2015,Zusagen (ODA und OOF) für Handelshilfe,6401.3
-2016,Zusagen (ODA und OOF) für Handelshilfe,6683.1
-2017,Zusagen (ODA und OOF) für Handelshilfe,6088.5
-2018,Zusagen (ODA und OOF) für Handelshilfe,7322.3
-2019,Zusagen (ODA und OOF) für Handelshilfe,8248.0
-2020,Zusagen (ODA und OOF) für Handelshilfe,8926.9
-2010,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,3411.2
-2011,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,3132.0
-2012,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,2821.4
-2013,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,3533.5
-2014,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,4424.3
-2015,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,5708.3
-2016,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,5110.8
-2017,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,4833.5
-2018,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,5893.8
-2019,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,6310.1
-2020,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,6792.7
+Year,Units,Zeitreihe,Value
+2010,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,4068.9
+2011,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,3586.7
+2012,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,3575.4
+2013,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,4500.8
+2014,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,6689.2
+2015,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,5840.4
+2016,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,5977.4
+2017,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,5869.9
+2018,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,6197.4
+2019,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,7124.6
+2020,Millionen EUR,Zusagen (ODA und OOF) für Handelshilfe,7833.3
+2010,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,3186.3
+2011,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,3118.5
+2012,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,2891.2
+2013,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,3476.8
+2014,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,4238.5
+2015,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,5301.2
+2016,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,4706.2
+2017,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,4850.6
+2018,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,4988.4
+2019,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,5450.6
+2020,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,5960.6
+2010,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,5472.8
+2011,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,4772.6
+2012,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,4687.7
+2013,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,5787.4
+2014,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,8443.5
+2015,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,7237.7
+2016,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,7310.2
+2017,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,7072.2
+2018,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,7322.3
+2019,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,8248.0
+2020,"Millionen USD, konstante Preise (2020)",Zusagen (ODA und OOF) für Handelshilfe,8926.9
+2010,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,4285.6
+2011,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,4149.6
+2012,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,3790.7
+2013,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,4470.7
+2014,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,5350.1
+2015,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,6569.5
+2016,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,5755.5
+2017,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,5844.1
+2018,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,5893.8
+2019,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,6310.1
+2020,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe,6792.7

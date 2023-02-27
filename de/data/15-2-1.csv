@@ -1,49 +1,85 @@
-Year,Units,Zeitreihe,Value
-2010,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1571.0
-2011,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1584.9
-2012,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1598.2
-2013,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1611.9
-2014,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1636.4
-2015,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1642.6
-2016,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1651.4
-2017,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1659.5
-2018,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1664.6
-2019,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1666.8
-2020,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,1661.7
-2021,Millionen Tonnen,Gesamtbestand der obererdigen Biomasse in Wäldern,
-2010,Prozent,Waldfläche in Schutzgebieten,
-2011,Prozent,Waldfläche in Schutzgebieten,
-2012,Prozent,Waldfläche in Schutzgebieten,0.68
-2013,Prozent,Waldfläche in Schutzgebieten,
-2014,Prozent,Waldfläche in Schutzgebieten,
-2015,Prozent,Waldfläche in Schutzgebieten,
-2016,Prozent,Waldfläche in Schutzgebieten,0.7
-2017,Prozent,Waldfläche in Schutzgebieten,
-2018,Prozent,Waldfläche in Schutzgebieten,
-2019,Prozent,Waldfläche in Schutzgebieten,
-2020,Prozent,Waldfläche in Schutzgebieten,
-2021,Prozent,Waldfläche in Schutzgebieten,
-2010,Prozent,Jährliche Veränderung der Waldfläche,0.1
-2011,Prozent,Jährliche Veränderung der Waldfläche,0.1
-2012,Prozent,Jährliche Veränderung der Waldfläche,0.2
-2013,Prozent,Jährliche Veränderung der Waldfläche,0.9
-2014,Prozent,Jährliche Veränderung der Waldfläche,0.2
-2015,Prozent,Jährliche Veränderung der Waldfläche,0.2
-2016,Prozent,Jährliche Veränderung der Waldfläche,
-2017,Prozent,Jährliche Veränderung der Waldfläche,0.2
-2018,Prozent,Jährliche Veränderung der Waldfläche,0.2
-2019,Prozent,Jährliche Veränderung der Waldfläche,0.0
-2020,Prozent,Jährliche Veränderung der Waldfläche,0.1
-2021,Prozent,Jährliche Veränderung der Waldfläche,0.1
-2010,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,67.5
-2011,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,67.2
-2012,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,66.9
-2013,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,66.9
-2014,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,66.6
-2015,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,66.2
-2016,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,66.9
-2017,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,67.2
-2018,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,68.6
-2019,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,69.1
-2020,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,73.9
-2021,Prozent,Waldflächen mit einem unabhängig geprüften Wald-Management-System,79.2
+Year,Units,Art der Biomasse,Series,Value
+2010,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1571.0
+2011,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1584.9
+2012,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1598.2
+2013,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1611.9
+2014,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1636.4
+2015,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1642.6
+2016,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1651.4
+2017,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1659.5
+2018,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1664.6
+2019,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1666.8
+2020,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,1661.7
+2021,Millionen Tonnen,,Gesamtbestand der obererdigen Biomasse in Wäldern,
+2010,Prozent,,Waldfläche in Schutzgebieten,
+2011,Prozent,,Waldfläche in Schutzgebieten,
+2012,Prozent,,Waldfläche in Schutzgebieten,0.7
+2013,Prozent,,Waldfläche in Schutzgebieten,
+2014,Prozent,,Waldfläche in Schutzgebieten,
+2015,Prozent,,Waldfläche in Schutzgebieten,0.9
+2016,Prozent,,Waldfläche in Schutzgebieten,
+2017,Prozent,,Waldfläche in Schutzgebieten,
+2018,Prozent,,Waldfläche in Schutzgebieten,0.9
+2019,Prozent,,Waldfläche in Schutzgebieten,
+2020,Prozent,,Waldfläche in Schutzgebieten,
+2021,Prozent,,Waldfläche in Schutzgebieten,
+2010,Prozent,,Jährliche Veränderung der Waldfläche,0.1
+2011,Prozent,,Jährliche Veränderung der Waldfläche,0.1
+2012,Prozent,,Jährliche Veränderung der Waldfläche,0.2
+2013,Prozent,,Jährliche Veränderung der Waldfläche,0.9
+2014,Prozent,,Jährliche Veränderung der Waldfläche,0.2
+2015,Prozent,,Jährliche Veränderung der Waldfläche,0.2
+2016,Prozent,,Jährliche Veränderung der Waldfläche,
+2017,Prozent,,Jährliche Veränderung der Waldfläche,0.2
+2018,Prozent,,Jährliche Veränderung der Waldfläche,0.2
+2019,Prozent,,Jährliche Veränderung der Waldfläche,0.0
+2020,Prozent,,Jährliche Veränderung der Waldfläche,0.1
+2021,Prozent,,Jährliche Veränderung der Waldfläche,0.1
+2010,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,67.5
+2011,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,67.2
+2012,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,66.9
+2013,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,66.9
+2014,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,66.6
+2015,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,66.2
+2016,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,66.9
+2017,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,67.2
+2018,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,68.6
+2019,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,69.1
+2020,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,73.9
+2021,Prozent,,Waldflächen mit einem unabhängig geprüften Wald-Management-System,79.2
+2010,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,1075.0
+2011,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,1084.6
+2012,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,1093.7
+2013,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,1103.1
+2014,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,889.9
+2015,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,893.6
+2016,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,898.7
+2017,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,903.4
+2018,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,906.4
+2019,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,908.0
+2020,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,905.5
+2021,Millionen Tonnen,Stehendes Holz,Gesamtbestand der obererdigen Biomasse in Wäldern,
+2010,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,252.2
+2011,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,254.4
+2012,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,256.6
+2013,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,258.8
+2014,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,492.5
+2015,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,494.1
+2016,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,496.5
+2017,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,498.7
+2018,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,499.9
+2019,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,500.2
+2020,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,498.3
+2021,Millionen Tonnen,Sonstige Holzbiomasse,Gesamtbestand der obererdigen Biomasse in Wäldern,
+2010,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,243.8
+2011,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,246.0
+2012,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,248.0
+2013,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,250.0
+2014,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,253.9
+2015,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,254.8
+2016,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,256.2
+2017,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,257.5
+2018,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,258.3
+2019,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,258.6
+2020,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,257.8
+2021,Millionen Tonnen,Sonstige Biomasse in Wäldern,Gesamtbestand der obererdigen Biomasse in Wäldern,
