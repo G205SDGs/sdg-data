@@ -1,13 +1,53 @@
-Year,Value
-2010,17.39
-2011,17.54
-2012,17.64
-2013,17.56
-2014,17.51
-2015,17.41
-2016,17.25
-2017,17.16
-2018,17.21
-2019,17.15
-2020,16.87
-2021,16.63
+Year,Zeitreihe,Geschlecht,Value
+2010,Daten der VGR des Statistischen Bundesamtes,,17.4
+2011,Daten der VGR des Statistischen Bundesamtes,,17.5
+2012,Daten der VGR des Statistischen Bundesamtes,,17.6
+2013,Daten der VGR des Statistischen Bundesamtes,,17.6
+2014,Daten der VGR des Statistischen Bundesamtes,,17.5
+2015,Daten der VGR des Statistischen Bundesamtes,,17.4
+2016,Daten der VGR des Statistischen Bundesamtes,,17.2
+2017,Daten der VGR des Statistischen Bundesamtes,,17.2
+2018,Daten der VGR des Statistischen Bundesamtes,,17.2
+2019,Daten der VGR des Statistischen Bundesamtes,,17.2
+2020,Daten der VGR des Statistischen Bundesamtes,,16.9
+2021,Daten der VGR des Statistischen Bundesamtes,,16.6
+2022,Daten der VGR des Statistischen Bundesamtes,,16.4
+2010,Daten der AKE des Statistischen Bundesamtes,,20.0
+2011,Daten der AKE des Statistischen Bundesamtes,,19.8
+2012,Daten der AKE des Statistischen Bundesamtes,,19.7
+2013,Daten der AKE des Statistischen Bundesamtes,,19.3
+2014,Daten der AKE des Statistischen Bundesamtes,,19.6
+2015,Daten der AKE des Statistischen Bundesamtes,,19.3
+2016,Daten der AKE des Statistischen Bundesamtes,,19.2
+2017,Daten der AKE des Statistischen Bundesamtes,,19.0
+2018,Daten der AKE des Statistischen Bundesamtes,,19.1
+2019,Daten der AKE des Statistischen Bundesamtes,,18.9
+2020,Daten der AKE des Statistischen Bundesamtes,,19.9
+2021,Daten der AKE des Statistischen Bundesamtes,,19.9
+2022,Daten der AKE des Statistischen Bundesamtes,,
+2010,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.7
+2011,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.6
+2012,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.6
+2013,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.4
+2014,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.5
+2015,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.2
+2016,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.2
+2017,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.1
+2018,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.2
+2019,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.0
+2020,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.2
+2021,Daten der AKE des Statistischen Bundesamtes,Weiblich,11.4
+2022,Daten der AKE des Statistischen Bundesamtes,Weiblich,
+2010,Daten der AKE des Statistischen Bundesamtes,Männlich,27.1
+2011,Daten der AKE des Statistischen Bundesamtes,Männlich,26.9
+2012,Daten der AKE des Statistischen Bundesamtes,Männlich,26.7
+2013,Daten der AKE des Statistischen Bundesamtes,Männlich,26.3
+2014,Daten der AKE des Statistischen Bundesamtes,Männlich,26.6
+2015,Daten der AKE des Statistischen Bundesamtes,Männlich,26.3
+2016,Daten der AKE des Statistischen Bundesamtes,Männlich,26.1
+2017,Daten der AKE des Statistischen Bundesamtes,Männlich,25.9
+2018,Daten der AKE des Statistischen Bundesamtes,Männlich,25.9
+2019,Daten der AKE des Statistischen Bundesamtes,Männlich,25.8
+2020,Daten der AKE des Statistischen Bundesamtes,Männlich,27.6
+2021,Daten der AKE des Statistischen Bundesamtes,Männlich,27.5
+2022,Daten der AKE des Statistischen Bundesamtes,Männlich,

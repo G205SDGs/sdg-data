@@ -10,6 +10,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,a) Acute respiratory infections,,,29.12
 2019,a) Acute respiratory infections,,,25.07
 2020,a) Acute respiratory infections,,,21.29
+2021,a) Acute respiratory infections,,,17.36
 2010,b) Diarrhoea,,,3.68
 2011,b) Diarrhoea,,,5.7
 2012,b) Diarrhoea,,,6.89
@@ -21,6 +22,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,b) Diarrhoea,,,5.08
 2019,b) Diarrhoea,,,4.25
 2020,b) Diarrhoea,,,3.69
+2021,b) Diarrhoea,,,3.35
 2010,c) Intestinal nematode infections,,,0.0
 2011,c) Intestinal nematode infections,,,0.0
 2012,c) Intestinal nematode infections,,,0.0
@@ -32,6 +34,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,c) Intestinal nematode infections,,,0.0
 2019,c) Intestinal nematode infections,,,0.0
 2020,c) Intestinal nematode infections,,,0.0
+2021,c) Intestinal nematode infections,,,0.0
 2010,d) Protein-energy malnutrition,,,0.3
 2011,d) Protein-energy malnutrition,,,0.29
 2012,d) Protein-energy malnutrition,,,0.26
@@ -43,6 +46,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,d) Protein-energy malnutrition,,,0.75
 2019,d) Protein-energy malnutrition,,,0.82
 2020,d) Protein-energy malnutrition,,,0.91
+2021,d) Protein-energy malnutrition,,,1.02
 2010,a) Acute respiratory infections,Male,,25.33
 2011,a) Acute respiratory infections,Male,,24.99
 2012,a) Acute respiratory infections,Male,,24.24
@@ -54,6 +58,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,a) Acute respiratory infections,Male,,29.66
 2019,a) Acute respiratory infections,Male,,26.14
 2020,a) Acute respiratory infections,Male,,23.38
+2021,a) Acute respiratory infections,Male,,19.52
 2010,b) Diarrhoea,Male,,2.82
 2011,b) Diarrhoea,Male,,4.25
 2012,b) Diarrhoea,Male,,5.17
@@ -65,6 +70,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,b) Diarrhoea,Male,,3.98
 2019,b) Diarrhoea,Male,,3.3
 2020,b) Diarrhoea,Male,,2.91
+2021,b) Diarrhoea,Male,,2.71
 2010,c) Intestinal nematode infections,Male,,0.0
 2011,c) Intestinal nematode infections,Male,,0.0
 2012,c) Intestinal nematode infections,Male,,0.0
@@ -76,6 +82,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,c) Intestinal nematode infections,Male,,0.0
 2019,c) Intestinal nematode infections,Male,,0.0
 2020,c) Intestinal nematode infections,Male,,0.0
+2021,c) Intestinal nematode infections,Male,,0.0
 2010,d) Protein-energy malnutrition,Male,,0.22
 2011,d) Protein-energy malnutrition,Male,,0.17
 2012,d) Protein-energy malnutrition,Male,,0.15
@@ -87,6 +94,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,d) Protein-energy malnutrition,Male,,0.5
 2019,d) Protein-energy malnutrition,Male,,0.53
 2020,d) Protein-energy malnutrition,Male,,0.54
+2021,d) Protein-energy malnutrition,Male,,0.66
 2010,a) Acute respiratory infections,Female,,26.41
 2011,a) Acute respiratory infections,Female,,25.68
 2012,a) Acute respiratory infections,Female,,24.64
@@ -98,6 +106,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,a) Acute respiratory infections,Female,,28.6
 2019,a) Acute respiratory infections,Female,,24.03
 2020,a) Acute respiratory infections,Female,,19.26
+2021,a) Acute respiratory infections,Female,,15.26
 2010,b) Diarrhoea,Female,,4.5
 2011,b) Diarrhoea,Female,,7.09
 2012,b) Diarrhoea,Female,,8.53
@@ -109,6 +118,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,b) Diarrhoea,Female,,6.15
 2019,b) Diarrhoea,Female,,5.17
 2020,b) Diarrhoea,Female,,4.45
+2021,b) Diarrhoea,Female,,3.97
 2010,c) Intestinal nematode infections,Female,,0.0
 2011,c) Intestinal nematode infections,Female,,0.0
 2012,c) Intestinal nematode infections,Female,,0.0
@@ -120,6 +130,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,c) Intestinal nematode infections,Female,,0.0
 2019,c) Intestinal nematode infections,Female,,0.0
 2020,c) Intestinal nematode infections,Female,,0.0
+2021,c) Intestinal nematode infections,Female,,0.0
 2010,d) Protein-energy malnutrition,Female,,0.37
 2011,d) Protein-energy malnutrition,Female,,0.4
 2012,d) Protein-energy malnutrition,Female,,0.37
@@ -131,6 +142,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,d) Protein-energy malnutrition,Female,,0.99
 2019,d) Protein-energy malnutrition,Female,,1.1
 2020,d) Protein-energy malnutrition,Female,,1.27
+2021,d) Protein-energy malnutrition,Female,,1.38
 2010,a) Acute respiratory infections,,4 years and younger,0.77
 2011,a) Acute respiratory infections,,4 years and younger,1.15
 2012,a) Acute respiratory infections,,4 years and younger,0.83
@@ -142,6 +154,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,a) Acute respiratory infections,,4 years and younger,0.85
 2019,a) Acute respiratory infections,,4 years and younger,0.74
 2020,a) Acute respiratory infections,,4 years and younger,0.58
+2021,a) Acute respiratory infections,,4 years and younger,0.33
 2010,b) Diarrhoea,,4 years and younger,0.32
 2011,b) Diarrhoea,,4 years and younger,0.15
 2012,b) Diarrhoea,,4 years and younger,0.24
@@ -153,6 +166,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,b) Diarrhoea,,4 years and younger,0.41
 2019,b) Diarrhoea,,4 years and younger,0.15
 2020,b) Diarrhoea,,4 years and younger,0.08
+2021,b) Diarrhoea,,4 years and younger,0.25
 2010,c) Intestinal nematode infections,,4 years and younger,0.0
 2011,c) Intestinal nematode infections,,4 years and younger,0.0
 2012,c) Intestinal nematode infections,,4 years and younger,0.0
@@ -164,6 +178,7 @@ Year,Type of disease,Sex,Age group,Value
 2018,c) Intestinal nematode infections,,4 years and younger,0.0
 2019,c) Intestinal nematode infections,,4 years and younger,0.0
 2020,c) Intestinal nematode infections,,4 years and younger,0.0
+2021,c) Intestinal nematode infections,,4 years and younger,0.0
 2010,d) Protein-energy malnutrition,,4 years and younger,0.03
 2011,d) Protein-energy malnutrition,,4 years and younger,0.0
 2012,d) Protein-energy malnutrition,,4 years and younger,0.0
@@ -175,3 +190,4 @@ Year,Type of disease,Sex,Age group,Value
 2018,d) Protein-energy malnutrition,,4 years and younger,0.0
 2019,d) Protein-energy malnutrition,,4 years and younger,0.0
 2020,d) Protein-energy malnutrition,,4 years and younger,0.0
+2021,d) Protein-energy malnutrition,,4 years and younger,0.0

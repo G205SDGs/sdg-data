@@ -9,7 +9,8 @@ Year,Profession,Value
 2017,,382.04
 2018,,391.11
 2019,,398.0
-2020,,405.27
+2020,,404.91
+2021,,410.63
 2010,Pharmacists,6.36
 2011,Pharmacists,6.35
 2012,Pharmacists,6.21
@@ -21,6 +22,7 @@ Year,Profession,Value
 2018,Pharmacists,6.56
 2019,Pharmacists,6.66
 2020,Pharmacists,6.73
+2021,Pharmacists,6.73
 2010,Medical doctors,37.89
 2011,Medical doctors,38.72
 2012,Medical doctors,39.37
@@ -31,7 +33,8 @@ Year,Profession,Value
 2017,Medical doctors,42.42
 2018,Medical doctors,43.05
 2019,Medical doctors,43.9
-2020,Medical doctors,44.62
+2020,Medical doctors,44.74
+2021,Medical doctors,45.29
 2010,Nursing and midwifery personnel,103.21
 2011,Nursing and midwifery personnel,104.07
 2012,Nursing and midwifery personnel,104.57
@@ -42,7 +45,8 @@ Year,Profession,Value
 2017,Nursing and midwifery personnel,113.42
 2018,Nursing and midwifery personnel,117.92
 2019,Nursing and midwifery personnel,120.84
-2020,Nursing and midwifery personnel,123.62
+2020,Nursing and midwifery personnel,123.38
+2021,Nursing and midwifery personnel,123.26
 2010,Dentists,8.23
 2011,Dentists,8.34
 2012,Dentists,8.44
@@ -54,3 +58,4 @@ Year,Profession,Value
 2018,Dentists,8.56
 2019,Dentists,8.54
 2020,Dentists,8.54
+2021,Dentists,8.53
