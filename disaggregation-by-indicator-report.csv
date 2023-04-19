@@ -13,7 +13,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-7-4,country of citizenship,1
 #10-b-1,type of flow,1
 #11-1-1,"sex, degree of urbanisation",2
-#11-2-1,"timeseries, age group, sex, region, disability status",5
+#11-2-1,"timeseries, region, disability status, age group, sex",5
 #11-3-1,timeseries,1
 #11-4-1,timeseries,1
 #11-6-2,fine particulate matter,1
@@ -104,7 +104,7 @@ Indicator,Disaggregations,Number of disaggregations
 #7-2-1,timeseries,1
 #8-10-1,timeseries,1
 #8-10-2,type of account,1
-#8-5-1,"sex, region",2
+#8-5-1,"region, sex",2
 #8-5-2,"age group, sex",2
 #8-6-1,sex,1
 #8-7-1,"age group, sex",2
