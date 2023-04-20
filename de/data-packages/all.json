@@ -6964,8 +6964,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) mountain green cover index",
-                "(b) proportion of degraded mountain area",
+                "a) Index der Grünbedeckung in Gebirgen",
+                "b) Anteil der degradierten Gebirgsfläche",
                 ""
               ]
             },

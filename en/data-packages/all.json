@@ -6964,8 +6964,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) mountain green cover index",
-                "(b) proportion of degraded mountain area",
+                "(a) Mountain Green Cover Index",
+                "(b) Proportion of degraded mountain area",
                 ""
               ]
             },
