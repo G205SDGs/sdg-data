@@ -6960,18 +6960,16 @@
             "title": "Year"
           },
           {
-            "name": "classification",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Class 3 areas (elavation 2500-3500 meters)",
-                "Class 4 areas (elavation 1500-2500 meters)",
-                "Class 5 areas (elavation 1000-1500 meters)",
-                "Class 6 areas (elavation 300-1000 meters)",
+                "(a) mountain green cover index",
+                "(b) proportion of degraded mountain area",
                 ""
               ]
             },
-            "title": "Classification"
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -6980,7 +6978,7 @@
           }
         ]
       },
-      "title": "Index der Grünbedeckung in den Bergen"
+      "title": "a) Index der Grünbedeckung in Gebirgen und b) Anteil der degradierten Gebirgsfläche"
     },
     {
       "path": "11-b-2/data.csv",

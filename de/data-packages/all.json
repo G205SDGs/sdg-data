@@ -6960,18 +6960,16 @@
             "title": "Jahr"
           },
           {
-            "name": "classification",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gebiete der Klasse 3 (Höhe 2500-3500 Meter)",
-                "Gebiete der Klasse 4 (Höhe 1500-2500 Meter)",
-                "Gebiete der Klasse 5 (Höhe 1000-1500 Meter)",
-                "Gebiete der Klasse 6 (Höhe  300-1000 Meter)",
+                "(a) mountain green cover index",
+                "(b) proportion of degraded mountain area",
                 ""
               ]
             },
-            "title": "Klassifikation"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -6980,7 +6978,7 @@
           }
         ]
       },
-      "title": "Index der Grünbedeckung in den Bergen"
+      "title": "a) Index der Grünbedeckung in Gebirgen und b) Anteil der degradierten Gebirgsfläche"
     },
     {
       "path": "11-b-2/data.csv",
