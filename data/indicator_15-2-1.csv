@@ -10,19 +10,9 @@ Year,Units,type of biomass,Value,Series
 2018,million tonnes,,1664.6,above-ground biomass stock in forest
 2019,million tonnes,,1666.8,above-ground biomass stock in forest
 2020,million tonnes,,1661.7,above-ground biomass stock in forest
-2021,million tonnes,,,above-ground biomass stock in forest
-2010,percentage,,,forest area located within protected areas
-2011,percentage,,,forest area located within protected areas
 2012,percentage,,0.7,forest area located within protected areas
-2013,percentage,,,forest area located within protected areas
-2014,percentage,,,forest area located within protected areas
 2015,percentage,,0.9,forest area located within protected areas
-2016,percentage,,,forest area located within protected areas
-2017,percentage,,,forest area located within protected areas
 2018,percentage,,0.9,forest area located within protected areas
-2019,percentage,,,forest area located within protected areas
-2020,percentage,,,forest area located within protected areas
-2021,percentage,,,forest area located within protected areas
 2010,percentage,,0.1,forest area net change rate
 2011,percentage,,0.1,forest area net change rate
 2012,percentage,,0.2,forest area net change rate
@@ -47,6 +37,7 @@ Year,Units,type of biomass,Value,Series
 2019,percentage,,69.1,forest area under an independently verified forest management certification scheme
 2020,percentage,,73.9,forest area under an independently verified forest management certification scheme
 2021,percentage,,79.2,forest area under an independently verified forest management certification scheme
+2022,percentage,,79.4,forest area under an independently verified forest management certification scheme
 2010,million tonnes,standig wood,1075.0,above-ground biomass stock in forest
 2011,million tonnes,standig wood,1084.6,above-ground biomass stock in forest
 2012,million tonnes,standig wood,1093.7,above-ground biomass stock in forest
@@ -58,7 +49,6 @@ Year,Units,type of biomass,Value,Series
 2018,million tonnes,standig wood,906.4,above-ground biomass stock in forest
 2019,million tonnes,standig wood,908.0,above-ground biomass stock in forest
 2020,million tonnes,standig wood,905.5,above-ground biomass stock in forest
-2021,million tonnes,standig wood,,above-ground biomass stock in forest
 2010,million tonnes,other woody biomass,252.2,above-ground biomass stock in forest
 2011,million tonnes,other woody biomass,254.4,above-ground biomass stock in forest
 2012,million tonnes,other woody biomass,256.6,above-ground biomass stock in forest
@@ -70,7 +60,6 @@ Year,Units,type of biomass,Value,Series
 2018,million tonnes,other woody biomass,499.9,above-ground biomass stock in forest
 2019,million tonnes,other woody biomass,500.2,above-ground biomass stock in forest
 2020,million tonnes,other woody biomass,498.3,above-ground biomass stock in forest
-2021,million tonnes,other woody biomass,,above-ground biomass stock in forest
 2010,million tonnes,other biomass in forests,243.8,above-ground biomass stock in forest
 2011,million tonnes,other biomass in forests,246.0,above-ground biomass stock in forest
 2012,million tonnes,other biomass in forests,248.0,above-ground biomass stock in forest
@@ -82,4 +71,3 @@ Year,Units,type of biomass,Value,Series
 2018,million tonnes,other biomass in forests,258.3,above-ground biomass stock in forest
 2019,million tonnes,other biomass in forests,258.6,above-ground biomass stock in forest
 2020,million tonnes,other biomass in forests,257.8,above-ground biomass stock in forest
-2021,million tonnes,other biomass in forests,,above-ground biomass stock in forest
