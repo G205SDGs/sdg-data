@@ -15,12 +15,24 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "hectare",
+                ""
+              ]
+            }
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "mountain key biodiversity areas (kbas) covered by protected areas",
                 "mountain regions, covered by protected areas",
+                "mountain regions, covered by effective protected areas",
                 ""
               ]
             }

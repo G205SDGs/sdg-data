@@ -16,12 +16,25 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Hectare",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Marine Key Biodiversity Areas (KBAs) covered by protected areas",
                 "Marine areas covered by protected areas",
+                "Marine areas covered by effective protected areas",
                 ""
               ]
             },
@@ -29,7 +42,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

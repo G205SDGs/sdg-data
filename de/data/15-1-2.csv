@@ -1,27 +1,79 @@
-Year,Zeitreihe,Value
-2010,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69
-2011,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69
-2012,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69
-2013,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69
-2014,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69
-2015,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69
-2016,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69
-2017,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69
-2018,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69
-2019,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",70
-2020,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",70
-2021,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",71
-2022,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",72
-2010,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",34
-2011,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",34
-2012,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",35
-2013,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",35
-2014,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",35
-2015,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",35
-2016,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",36
-2017,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",36
-2018,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",37
-2019,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",37
-2020,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",37
-2021,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",37
-2022,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",38
+Year,Units,Zeitreihe,Value
+2010,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",68.743
+2011,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",68.879
+2012,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",68.895
+2013,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",68.895
+2014,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",68.999
+2015,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69.035
+2016,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69.035
+2017,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69.134
+2018,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",69.432
+2019,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",70.152
+2020,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",70.152
+2021,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",71.476
+2022,Prozent,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",71.566
+2010,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",3999698.924
+2011,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4007560.836
+2012,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4008502.894
+2013,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4008502.894
+2014,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4014581.599
+2015,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4016635.106
+2016,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4016635.106
+2017,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4022416.328
+2018,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4039782.721
+2019,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4081651.296
+2020,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4081651.296
+2021,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4158660.757
+2022,Hektar,"Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",4163924.472
+2010,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",12171366.24
+2011,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",12259124.467
+2012,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",12357497.507
+2013,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",12458418.937
+2014,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",12534161.681
+2015,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",12586428.78
+2016,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",12828449.534
+2017,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",12915156.22
+2018,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",13079997.866
+2019,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",13362069.354
+2020,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",13362069.354
+2021,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",13362069.354
+2022,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",13410677.803
+2010,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",34.042
+2011,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",34.287
+2012,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",34.562
+2013,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",34.844
+2014,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",35.056
+2015,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",35.203
+2016,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",35.879
+2017,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",36.122
+2018,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",36.583
+2019,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",37.372
+2020,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",37.372
+2021,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",37.372
+2022,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",37.508
+2010,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",5089703.403
+2011,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",5093891.158
+2012,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",5100975.527
+2013,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",5108865.457
+2014,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",5119865.548
+2015,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",5129577.676
+2016,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",5136238.901
+2017,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",5140828.639
+2018,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",5148571.637
+2019,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",5153851.601
+2020,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",
+2021,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",
+2022,Hektar,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",
+2010,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",14.235
+2011,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",14.247
+2012,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",14.267
+2013,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",14.289
+2014,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",14.32
+2015,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",14.347
+2016,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",14.365
+2017,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",14.378
+2018,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",14.4
+2019,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",14.415
+2020,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",
+2021,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",
+2022,Prozent,"Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",

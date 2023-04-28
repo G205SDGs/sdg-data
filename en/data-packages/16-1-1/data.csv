@@ -11,6 +11,7 @@ Year,Units,Age group,Sex,Value
 2019,"Per 100,000 inhabitants",,,0.75
 2020,"Per 100,000 inhabitants",,,0.94
 2021,"Per 100,000 inhabitants",,,0.84
+2022,"Per 100,000 inhabitants",,,0.82
 2010,Number,,,793.0
 2011,Number,,,738.0
 2012,Number,,,659.0
@@ -23,6 +24,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,,,623.0
 2020,Number,,,782.0
 2021,Number,,,695.0
+2022,Number,,,686.0
 2010,Number,13 years and younger,,77.0
 2011,Number,13 years and younger,,73.0
 2012,Number,13 years and younger,,90.0
@@ -35,6 +37,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,13 years and younger,,46.0
 2020,Number,13 years and younger,,79.0
 2021,Number,13 years and younger,,83.0
+2022,Number,13 years and younger,,51.0
 2010,Number,14 to under 18 years,,22.0
 2011,Number,14 to under 18 years,,27.0
 2012,Number,14 to under 18 years,,6.0
@@ -47,6 +50,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,14 to under 18 years,,11.0
 2020,Number,14 to under 18 years,,12.0
 2021,Number,14 to under 18 years,,14.0
+2022,Number,14 to under 18 years,,14.0
 2010,Number,18 to under 21 years,,38.0
 2011,Number,18 to under 21 years,,29.0
 2012,Number,18 to under 21 years,,23.0
@@ -59,6 +63,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,18 to under 21 years,,16.0
 2020,Number,18 to under 21 years,,21.0
 2021,Number,18 to under 21 years,,19.0
+2022,Number,18 to under 21 years,,23.0
 2010,Number,21 to under 60 years,,448.0
 2011,Number,21 to under 60 years,,424.0
 2012,Number,21 to under 60 years,,359.0
@@ -71,6 +76,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,21 to under 60 years,,349.0
 2020,Number,21 to under 60 years,,378.0
 2021,Number,21 to under 60 years,,336.0
+2022,Number,21 to under 60 years,,334.0
 2010,Number,60 years and older,,208.0
 2011,Number,60 years and older,,185.0
 2012,Number,60 years and older,,181.0
@@ -83,6 +89,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,60 years and older,,201.0
 2020,Number,60 years and older,,292.0
 2021,Number,60 years and older,,243.0
+2022,Number,60 years and older,,264.0
 2010,Number,,Female,393.0
 2011,Number,,Female,338.0
 2012,Number,,Female,296.0
@@ -95,6 +102,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,,Female,276.0
 2020,Number,,Female,357.0
 2021,Number,,Female,337.0
+2022,Number,,Female,349.0
 2010,Number,,Male,400.0
 2011,Number,,Male,400.0
 2012,Number,,Male,363.0
@@ -107,6 +115,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,,Male,347.0
 2020,Number,,Male,425.0
 2021,Number,,Male,358.0
+2022,Number,,Male,337.0
 2010,Number,13 years and younger,Female,
 2011,Number,13 years and younger,Female,
 2012,Number,13 years and younger,Female,39.0
@@ -119,6 +128,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,13 years and younger,Female,17.0
 2020,Number,13 years and younger,Female,43.0
 2021,Number,13 years and younger,Female,43.0
+2022,Number,13 years and younger,Female,27.0
 2010,Number,13 years and younger,Male,
 2011,Number,13 years and younger,Male,
 2012,Number,13 years and younger,Male,51.0
@@ -131,6 +141,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,13 years and younger,Male,29.0
 2020,Number,13 years and younger,Male,36.0
 2021,Number,13 years and younger,Male,40.0
+2022,Number,13 years and younger,Male,24.0
 2010,Number,14 to under 18 years,Female,
 2011,Number,14 to under 18 years,Female,
 2012,Number,14 to under 18 years,Female,0.0
@@ -143,6 +154,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,14 to under 18 years,Female,4.0
 2020,Number,14 to under 18 years,Female,4.0
 2021,Number,14 to under 18 years,Female,7.0
+2022,Number,14 to under 18 years,Female,12.0
 2010,Number,14 to under 18 years,Male,
 2011,Number,14 to under 18 years,Male,
 2012,Number,14 to under 18 years,Male,6.0
@@ -155,6 +167,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,14 to under 18 years,Male,7.0
 2020,Number,14 to under 18 years,Male,8.0
 2021,Number,14 to under 18 years,Male,7.0
+2022,Number,14 to under 18 years,Male,2.0
 2010,Number,18 to under 21 years,Female,
 2011,Number,18 to under 21 years,Female,
 2012,Number,18 to under 21 years,Female,10.0
@@ -167,6 +180,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,18 to under 21 years,Female,5.0
 2020,Number,18 to under 21 years,Female,6.0
 2021,Number,18 to under 21 years,Female,4.0
+2022,Number,18 to under 21 years,Female,8.0
 2010,Number,18 to under 21 years,Male,
 2011,Number,18 to under 21 years,Male,
 2012,Number,18 to under 21 years,Male,13.0
@@ -179,6 +193,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,18 to under 21 years,Male,11.0
 2020,Number,18 to under 21 years,Male,15.0
 2021,Number,18 to under 21 years,Male,15.0
+2022,Number,18 to under 21 years,Male,15.0
 2010,Number,21 to under 60 years,Female,
 2011,Number,21 to under 60 years,Female,
 2012,Number,21 to under 60 years,Female,139.0
@@ -191,6 +206,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,21 to under 60 years,Female,144.0
 2020,Number,21 to under 60 years,Female,142.0
 2021,Number,21 to under 60 years,Female,140.0
+2022,Number,21 to under 60 years,Female,136.0
 2010,Number,21 to under 60 years,Male,
 2011,Number,21 to under 60 years,Male,
 2012,Number,21 to under 60 years,Male,220.0
@@ -203,6 +219,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,21 to under 60 years,Male,205.0
 2020,Number,21 to under 60 years,Male,236.0
 2021,Number,21 to under 60 years,Male,196.0
+2022,Number,21 to under 60 years,Male,198.0
 2010,Number,60 years and older,Female,
 2011,Number,60 years and older,Female,
 2012,Number,60 years and older,Female,108.0
@@ -215,6 +232,7 @@ Year,Units,Age group,Sex,Value
 2019,Number,60 years and older,Female,106.0
 2020,Number,60 years and older,Female,162.0
 2021,Number,60 years and older,Female,143.0
+2022,Number,60 years and older,Female,166.0
 2010,Number,60 years and older,Male,
 2011,Number,60 years and older,Male,
 2012,Number,60 years and older,Male,73.0
@@ -227,3 +245,4 @@ Year,Units,Age group,Sex,Value
 2019,Number,60 years and older,Male,95.0
 2020,Number,60 years and older,Male,130.0
 2021,Number,60 years and older,Male,100.0
+2022,Number,60 years and older,Male,98.0

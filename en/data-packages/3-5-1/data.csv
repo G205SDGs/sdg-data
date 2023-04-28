@@ -35,18 +35,6 @@ Year,Substance,Bound,Sex,Series,Value
 2019,Drugs,,Male,Inpatient treatment of substance use disorders,40569.0
 2020,Drugs,,Male,Inpatient treatment of substance use disorders,35701.0
 2021,Drugs,,Male,Inpatient treatment of substance use disorders,35354.0
-2010,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2011,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2012,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2013,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2014,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2015,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2016,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2017,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2018,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2019,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2020,Drugs,,Unknown,Inpatient treatment of substance use disorders,
-2021,Drugs,,Unknown,Inpatient treatment of substance use disorders,
 2010,Alcohol and other psychoactive substances,,,Inpatient treatment of substance use disorders,191512.0
 2011,Alcohol and other psychoactive substances,,,Inpatient treatment of substance use disorders,192159.0
 2012,Alcohol and other psychoactive substances,,,Inpatient treatment of substance use disorders,195976.0
@@ -83,18 +71,9 @@ Year,Substance,Bound,Sex,Series,Value
 2019,Alcohol and other psychoactive substances,,Male,Inpatient treatment of substance use disorders,117263.0
 2020,Alcohol and other psychoactive substances,,Male,Inpatient treatment of substance use disorders,102532.0
 2021,Alcohol and other psychoactive substances,,Male,Inpatient treatment of substance use disorders,101031.0
-2010,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
 2011,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
 2012,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,1.0
 2013,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
-2014,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
-2015,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
-2016,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
-2017,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
-2018,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
-2019,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
-2020,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
-2021,Alcohol and other psychoactive substances,,Unknown,Inpatient treatment of substance use disorders,
 2010,,Lower bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",215078.0
 2011,,Lower bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",231052.0
 2012,,Lower bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",218360.0
@@ -106,7 +85,6 @@ Year,Substance,Bound,Sex,Series,Value
 2018,,Lower bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",204906.0
 2019,,Lower bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",182451.0
 2020,,Lower bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",181668.0
-2021,,Lower bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",
 2010,,Upper bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",255405.0
 2011,,Upper bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",274374.0
 2012,,Upper bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",259303.0
@@ -118,4 +96,3 @@ Year,Substance,Bound,Sex,Series,Value
 2018,,Upper bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",243326.0
 2019,,Upper bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",216660.0
 2020,,Upper bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",215731.0
-2021,,Upper bound,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",

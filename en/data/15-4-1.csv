@@ -1,27 +1,79 @@
-Year,Time series,Value
-2010,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.87
-2011,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.87
-2012,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.9
-2013,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.9
-2014,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.99
-2015,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.99
-2016,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,72.06
-2017,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,72.06
-2018,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,72.07
-2019,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,72.87
-2020,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,74.37
-2021,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,74.37
-2022,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,74.37
-2010,"Mountain regions, covered by protected areas",49.03
-2011,"Mountain regions, covered by protected areas",49.32
-2012,"Mountain regions, covered by protected areas",49.51
-2013,"Mountain regions, covered by protected areas",49.94
-2014,"Mountain regions, covered by protected areas",50.13
-2015,"Mountain regions, covered by protected areas",50.34
-2016,"Mountain regions, covered by protected areas",51.13
-2017,"Mountain regions, covered by protected areas",51.14
-2018,"Mountain regions, covered by protected areas",51.74
-2019,"Mountain regions, covered by protected areas",52.48
-2020,"Mountain regions, covered by protected areas",53.5
-2021,"Mountain regions, covered by protected areas",53.5
-2022,"Mountain regions, covered by protected areas",53.5
+Year,Units,Time series,Value
+2010,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.87
+2011,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.87
+2012,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.9
+2013,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.9
+2014,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.99
+2015,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,71.99
+2016,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,72.06
+2017,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,72.06
+2018,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,72.07
+2019,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,72.87
+2020,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,74.37
+2021,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,74.37
+2022,Percentage,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,74.37
+2010,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1112350.172
+2011,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1112476.445
+2012,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1112848.397
+2013,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1112884.662
+2014,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1114192.784
+2015,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1114193.078
+2016,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1115404.3
+2017,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1115404.3
+2018,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1115419.061
+2019,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1127920.476
+2020,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1151164.599
+2021,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1151164.599
+2022,Hectare,Mountain Key Biodiversity Areas (KBAs) covered by protected areas,1151164.599
+2010,Percentage,"Mountain regions, covered by protected areas",49.03
+2011,Percentage,"Mountain regions, covered by protected areas",49.32
+2012,Percentage,"Mountain regions, covered by protected areas",49.51
+2013,Percentage,"Mountain regions, covered by protected areas",49.94
+2014,Percentage,"Mountain regions, covered by protected areas",50.13
+2015,Percentage,"Mountain regions, covered by protected areas",50.34
+2016,Percentage,"Mountain regions, covered by protected areas",51.13
+2017,Percentage,"Mountain regions, covered by protected areas",51.14
+2018,Percentage,"Mountain regions, covered by protected areas",51.74
+2019,Percentage,"Mountain regions, covered by protected areas",52.48
+2020,Percentage,"Mountain regions, covered by protected areas",53.5
+2021,Percentage,"Mountain regions, covered by protected areas",53.5
+2022,Percentage,"Mountain regions, covered by protected areas",53.5
+2010,Hectare,"Mountain regions, covered by protected areas",3322888.877
+2011,Hectare,"Mountain regions, covered by protected areas",3342450.778
+2012,Hectare,"Mountain regions, covered by protected areas",3355067.625
+2013,Hectare,"Mountain regions, covered by protected areas",3384336.696
+2014,Hectare,"Mountain regions, covered by protected areas",3397202.327
+2015,Hectare,"Mountain regions, covered by protected areas",3411552.304
+2016,Hectare,"Mountain regions, covered by protected areas",3465268.332
+2017,Hectare,"Mountain regions, covered by protected areas",3465463.362
+2018,Hectare,"Mountain regions, covered by protected areas",3506452.003
+2019,Hectare,"Mountain regions, covered by protected areas",3556706.333
+2020,Hectare,"Mountain regions, covered by protected areas",3625393.782
+2021,Hectare,"Mountain regions, covered by protected areas",3625393.782
+2022,Hectare,"Mountain regions, covered by protected areas",3625393.782
+2010,Percentage,"Mountain regions, covered by effective protected areas",19.149
+2011,Percentage,"Mountain regions, covered by effective protected areas",19.158
+2012,Percentage,"Mountain regions, covered by effective protected areas",19.164
+2013,Percentage,"Mountain regions, covered by effective protected areas",19.188
+2014,Percentage,"Mountain regions, covered by effective protected areas",19.25
+2015,Percentage,"Mountain regions, covered by effective protected areas",19.354
+2016,Percentage,"Mountain regions, covered by effective protected areas",19.358
+2017,Percentage,"Mountain regions, covered by effective protected areas",19.36
+2018,Percentage,"Mountain regions, covered by effective protected areas",19.365
+2019,Percentage,"Mountain regions, covered by effective protected areas",19.371
+2020,Percentage,"Mountain regions, covered by effective protected areas",
+2021,Percentage,"Mountain regions, covered by effective protected areas",
+2022,Percentage,"Mountain regions, covered by effective protected areas",
+2010,Hectare,"Mountain regions, covered by effective protected areas",1297687.97
+2011,Hectare,"Mountain regions, covered by effective protected areas",1298278.703
+2012,Hectare,"Mountain regions, covered by effective protected areas",1298720.641
+2013,Hectare,"Mountain regions, covered by effective protected areas",1300335.815
+2014,Hectare,"Mountain regions, covered by effective protected areas",1304500.284
+2015,Hectare,"Mountain regions, covered by effective protected areas",1311550.677
+2016,Hectare,"Mountain regions, covered by effective protected areas",1311857.4
+2017,Hectare,"Mountain regions, covered by effective protected areas",1311946.268
+2018,Hectare,"Mountain regions, covered by effective protected areas",1312285.598
+2019,Hectare,"Mountain regions, covered by effective protected areas",1312732.718
+2020,Hectare,"Mountain regions, covered by effective protected areas",
+2021,Hectare,"Mountain regions, covered by effective protected areas",
+2022,Hectare,"Mountain regions, covered by effective protected areas",

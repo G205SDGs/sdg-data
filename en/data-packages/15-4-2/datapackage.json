@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Hectare",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {

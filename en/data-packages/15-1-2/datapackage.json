@@ -16,12 +16,25 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Hectare",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas",
                 "Terrestrial and freshwater areas covered by protected areas",
+                "Terrestrial and freshwater areas covered by effective protected areas",
                 ""
               ]
             },
@@ -29,7 +42,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

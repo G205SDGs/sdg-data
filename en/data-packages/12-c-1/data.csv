@@ -1,7 +1,67 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Time series,Value
+2010,Million EUR,Total,
+2011,Million EUR,Total,
+2012,Million EUR,Total,
+2013,Million EUR,Total,
+2014,Million EUR,Total,
+2015,Million EUR,Total,5849.894
+2016,Million EUR,Total,5900.123
+2017,Million EUR,Total,5687.281
+2018,Million EUR,Total,5775.046
+2019,Million EUR,Total,4414.115
+2020,Million EUR,Total,3996.652
+2010,Million EUR,Tax breaks,
+2011,Million EUR,Tax breaks,
+2012,Million EUR,Tax breaks,
+2013,Million EUR,Tax breaks,
+2014,Million EUR,Tax breaks,
+2015,Million EUR,Tax breaks,4679.637
+2016,Million EUR,Tax breaks,4451.453
+2017,Million EUR,Tax breaks,4486.55
+2018,Million EUR,Tax breaks,4666.09
+2019,Million EUR,Tax breaks,4414.115
+2020,Million EUR,Tax breaks,3996.652
+2010,Million EUR,Direct transfers of funds,
+2011,Million EUR,Direct transfers of funds,
+2012,Million EUR,Direct transfers of funds,
+2013,Million EUR,Direct transfers of funds,
+2014,Million EUR,Direct transfers of funds,
+2015,Million EUR,Direct transfers of funds,1170.257
+2016,Million EUR,Direct transfers of funds,1448.67
+2017,Million EUR,Direct transfers of funds,1200.731
+2018,Million EUR,Direct transfers of funds,1108.956
+2019,Million EUR,Direct transfers of funds,0.0
+2020,Million EUR,Direct transfers of funds,0.0
+2010,Percent of GDP,Total,
+2011,Percent of GDP,Total,
+2012,Percent of GDP,Total,
+2013,Percent of GDP,Total,
+2014,Percent of GDP,Total,
+2015,Percent of GDP,Total,0.193
+2016,Percent of GDP,Total,0.188
+2017,Percent of GDP,Total,0.174
+2018,Percent of GDP,Total,0.172
+2019,Percent of GDP,Total,0.127
+2020,Percent of GDP,Total,0.117
+2010,Percent of GDP,Tax breaks,
+2011,Percent of GDP,Tax breaks,
+2012,Percent of GDP,Tax breaks,
+2013,Percent of GDP,Tax breaks,
+2014,Percent of GDP,Tax breaks,
+2015,Percent of GDP,Tax breaks,0.155
+2016,Percent of GDP,Tax breaks,0.142
+2017,Percent of GDP,Tax breaks,0.137
+2018,Percent of GDP,Tax breaks,0.139
+2019,Percent of GDP,Tax breaks,0.127
+2020,Percent of GDP,Tax breaks,0.117
+2010,Percent of GDP,Direct transfers of funds,
+2011,Percent of GDP,Direct transfers of funds,
+2012,Percent of GDP,Direct transfers of funds,
+2013,Percent of GDP,Direct transfers of funds,
+2014,Percent of GDP,Direct transfers of funds,
+2015,Percent of GDP,Direct transfers of funds,0.039
+2016,Percent of GDP,Direct transfers of funds,0.046
+2017,Percent of GDP,Direct transfers of funds,0.037
+2018,Percent of GDP,Direct transfers of funds,0.033
+2019,Percent of GDP,Direct transfers of funds,0.0
+2020,Percent of GDP,Direct transfers of funds,0.0

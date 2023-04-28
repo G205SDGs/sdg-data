@@ -16,12 +16,25 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Hektar",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",
                 "Flächen in Gebirgen, die unter Schutz stehen",
+                "Flächen in Gebirgen, die unter effektivem Schutz stehen",
                 ""
               ]
             },

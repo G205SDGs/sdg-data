@@ -34,7 +34,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)",
+                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)",
                 "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
                 ""
               ]

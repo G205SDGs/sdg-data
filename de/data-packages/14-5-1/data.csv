@@ -1,27 +1,79 @@
-Year,Zeitreihe,Value
-2010,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2011,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2012,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2013,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2014,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2015,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2016,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2017,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2018,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2019,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2020,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2021,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2022,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2010,"Meeresfläche, die unter Schutz steht",45
-2011,"Meeresfläche, die unter Schutz steht",45
-2012,"Meeresfläche, die unter Schutz steht",45
-2013,"Meeresfläche, die unter Schutz steht",45
-2014,"Meeresfläche, die unter Schutz steht",45
-2015,"Meeresfläche, die unter Schutz steht",45
-2016,"Meeresfläche, die unter Schutz steht",45
-2017,"Meeresfläche, die unter Schutz steht",45
-2018,"Meeresfläche, die unter Schutz steht",45
-2019,"Meeresfläche, die unter Schutz steht",45
-2020,"Meeresfläche, die unter Schutz steht",45
-2021,"Meeresfläche, die unter Schutz steht",45
-2022,"Meeresfläche, die unter Schutz steht",45
+Year,Units,Zeitreihe,Value
+2010,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.326
+2011,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.326
+2012,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.326
+2013,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.401
+2014,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.401
+2015,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.401
+2016,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.401
+2017,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.415
+2018,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.416
+2019,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.44
+2020,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.44
+2021,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.196
+2022,Prozent,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89.379
+2010,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1888322.648
+2011,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1888322.66
+2012,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1888325.569
+2013,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1889916.806
+2014,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1889916.806
+2015,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1889917.08
+2016,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1889917.08
+2017,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1890212.64
+2018,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1890228.909
+2019,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1890739.753
+2020,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1890739.753
+2021,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1885574.568
+2022,Hektar,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",1889444.756
+2010,Hektar,"Meeresfläche, die unter Schutz steht",2573079.952
+2011,Hektar,"Meeresfläche, die unter Schutz steht",2573084.987
+2012,Hektar,"Meeresfläche, die unter Schutz steht",2573111.579
+2013,Hektar,"Meeresfläche, die unter Schutz steht",2576762.745
+2014,Hektar,"Meeresfläche, die unter Schutz steht",2576762.745
+2015,Hektar,"Meeresfläche, die unter Schutz steht",2576778.718
+2016,Hektar,"Meeresfläche, die unter Schutz steht",2576778.718
+2017,Hektar,"Meeresfläche, die unter Schutz steht",2577709.038
+2018,Hektar,"Meeresfläche, die unter Schutz steht",2577766.587
+2019,Hektar,"Meeresfläche, die unter Schutz steht",2581616.907
+2020,Hektar,"Meeresfläche, die unter Schutz steht",2581616.907
+2021,Hektar,"Meeresfläche, die unter Schutz steht",2581616.907
+2022,Hektar,"Meeresfläche, die unter Schutz steht",2581585.92
+2010,Prozent,"Meeresfläche, die unter Schutz steht",45.26
+2011,Prozent,"Meeresfläche, die unter Schutz steht",45.26
+2012,Prozent,"Meeresfläche, die unter Schutz steht",45.261
+2013,Prozent,"Meeresfläche, die unter Schutz steht",45.325
+2014,Prozent,"Meeresfläche, die unter Schutz steht",45.325
+2015,Prozent,"Meeresfläche, die unter Schutz steht",45.325
+2016,Prozent,"Meeresfläche, die unter Schutz steht",45.325
+2017,Prozent,"Meeresfläche, die unter Schutz steht",45.342
+2018,Prozent,"Meeresfläche, die unter Schutz steht",45.343
+2019,Prozent,"Meeresfläche, die unter Schutz steht",45.41
+2020,Prozent,"Meeresfläche, die unter Schutz steht",45.41
+2021,Prozent,"Meeresfläche, die unter Schutz steht",45.41
+2022,Prozent,"Meeresfläche, die unter Schutz steht",45.41
+2010,Hektar,"Meeresfläche, die unter effektivem Schutz steht",2179802.882
+2011,Hektar,"Meeresfläche, die unter effektivem Schutz steht",2179803.77
+2012,Hektar,"Meeresfläche, die unter effektivem Schutz steht",2179803.77
+2013,Hektar,"Meeresfläche, die unter effektivem Schutz steht",2179803.77
+2014,Hektar,"Meeresfläche, die unter effektivem Schutz steht",2179803.77
+2015,Hektar,"Meeresfläche, die unter effektivem Schutz steht",2179804.385
+2016,Hektar,"Meeresfläche, die unter effektivem Schutz steht",2179804.385
+2017,Hektar,"Meeresfläche, die unter effektivem Schutz steht",2180865.779
+2018,Hektar,"Meeresfläche, die unter effektivem Schutz steht",2180878.567
+2019,Hektar,"Meeresfläche, die unter effektivem Schutz steht",2185090.117
+2020,Hektar,"Meeresfläche, die unter effektivem Schutz steht",
+2021,Hektar,"Meeresfläche, die unter effektivem Schutz steht",
+2022,Hektar,"Meeresfläche, die unter effektivem Schutz steht",
+2010,Prozent,"Meeresfläche, die unter effektivem Schutz steht",38.343
+2011,Prozent,"Meeresfläche, die unter effektivem Schutz steht",38.343
+2012,Prozent,"Meeresfläche, die unter effektivem Schutz steht",38.343
+2013,Prozent,"Meeresfläche, die unter effektivem Schutz steht",38.343
+2014,Prozent,"Meeresfläche, die unter effektivem Schutz steht",38.343
+2015,Prozent,"Meeresfläche, die unter effektivem Schutz steht",38.343
+2016,Prozent,"Meeresfläche, die unter effektivem Schutz steht",38.343
+2017,Prozent,"Meeresfläche, die unter effektivem Schutz steht",38.361
+2018,Prozent,"Meeresfläche, die unter effektivem Schutz steht",38.362
+2019,Prozent,"Meeresfläche, die unter effektivem Schutz steht",38.436
+2020,Prozent,"Meeresfläche, die unter effektivem Schutz steht",
+2021,Prozent,"Meeresfläche, die unter effektivem Schutz steht",
+2022,Prozent,"Meeresfläche, die unter effektivem Schutz steht",

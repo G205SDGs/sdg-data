@@ -16,12 +16,25 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Hectare",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Mountain Key Biodiversity Areas (KBAs) covered by protected areas",
                 "Mountain regions, covered by protected areas",
+                "Mountain regions, covered by effective protected areas",
                 ""
               ]
             },
