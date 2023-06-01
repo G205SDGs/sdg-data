@@ -11,7 +11,7 @@ Year,Units,Zeitreihe,Value
 2019,Prozent,Jährliche Wachstumsrate des realen BIP,1.1
 2020,Prozent,Jährliche Wachstumsrate des realen BIP,-3.7
 2021,Prozent,Jährliche Wachstumsrate des realen BIP,2.6
-2022,Prozent,Jährliche Wachstumsrate des realen BIP,1.9
+2022,Prozent,Jährliche Wachstumsrate des realen BIP,1.8
 2010,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1525.6
 2011,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1577.6
 2012,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1614.0
@@ -24,7 +24,7 @@ Year,Units,Zeitreihe,Value
 2019,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1960.5
 2020,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1988.9
 2021,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2031.2
-2022,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2176.7
+2022,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2176.8
 2010,Milliarden EUR,Konsum privater Haushalte,1372.9
 2011,Milliarden EUR,Konsum privater Haushalte,1423.6
 2012,Milliarden EUR,Konsum privater Haushalte,1465.9
@@ -37,7 +37,7 @@ Year,Units,Zeitreihe,Value
 2019,Milliarden EUR,Konsum privater Haushalte,1754.0
 2020,Milliarden EUR,Konsum privater Haushalte,1659.6
 2021,Milliarden EUR,Konsum privater Haushalte,1718.1
-2022,Milliarden EUR,Konsum privater Haushalte,1926.6
+2022,Milliarden EUR,Konsum privater Haushalte,1924.3
 2010,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2011.7
 2011,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2025.4
 2012,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2068.3
@@ -63,7 +63,7 @@ Year,Units,Zeitreihe,Value
 2019,Milliarden EUR,Finanzierungssaldo des Staates,53.2
 2020,Milliarden EUR,Finanzierungssaldo des Staates,-147.6
 2021,Milliarden EUR,Finanzierungssaldo des Staates,-134.3
-2022,Milliarden EUR,Finanzierungssaldo des Staates,-101.6
+2022,Milliarden EUR,Finanzierungssaldo des Staates,-106.0
 2010,Milliarden EUR,Bruttoanlageinvestitionen,501.1
 2011,Milliarden EUR,Bruttoanlageinvestitionen,548.7
 2012,Milliarden EUR,Bruttoanlageinvestitionen,557.9
@@ -76,7 +76,7 @@ Year,Units,Zeitreihe,Value
 2019,Milliarden EUR,Bruttoanlageinvestitionen,742.4
 2020,Milliarden EUR,Bruttoanlageinvestitionen,736.1
 2021,Milliarden EUR,Bruttoanlageinvestitionen,783.8
-2022,Milliarden EUR,Bruttoanlageinvestitionen,871.8
+2022,Milliarden EUR,Bruttoanlageinvestitionen,872.4
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,49314.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,50102.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,50100.0
@@ -89,7 +89,7 @@ Year,Units,Zeitreihe,Value
 2019,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54259.0
 2020,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,52128.0
 2021,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,53141.0
-2022,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54091.0
+2022,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,53942.0
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,58524.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59279.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59162.0
@@ -102,7 +102,7 @@ Year,Units,Zeitreihe,Value
 2019,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,62127.0
 2020,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59249.0
 2021,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,60281.0
-2022,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,61232.0
+2022,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,61078.0
 2010,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,96.5
 2011,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,98.7
 2012,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,99.1
@@ -115,7 +115,7 @@ Year,Units,Zeitreihe,Value
 2019,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.2
 2020,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.4
 2021,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,103.1
-2022,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,103.2
+2022,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,103.4
 2010,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,94.9
 2011,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,97.4
 2012,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,98.0
@@ -128,7 +128,7 @@ Year,Units,Zeitreihe,Value
 2019,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,104.2
 2020,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,105.2
 2021,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,106.1
-2022,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,106.4
+2022,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,106.6
 2010,1 000,Erwerbstätige,41048.0
 2011,1 000,Erwerbstätige,41544.0
 2012,1 000,Erwerbstätige,42019.0
@@ -141,7 +141,7 @@ Year,Units,Zeitreihe,Value
 2019,1 000,Erwerbstätige,45277.0
 2020,1 000,Erwerbstätige,44915.0
 2021,1 000,Erwerbstätige,44980.0
-2022,1 000,Erwerbstätige,45569.0
+2022,1 000,Erwerbstätige,45572.0
 2010,2015 = 100,Reales BIP pro Kopf,93.6
 2011,2015 = 100,Reales BIP pro Kopf,97.3
 2012,2015 = 100,Reales BIP pro Kopf,97.5
@@ -167,4 +167,4 @@ Year,Units,Zeitreihe,Value
 2019,Milliarden EUR,Außenbeitrag,196.3
 2020,Milliarden EUR,Außenbeitrag,191.7
 2021,Milliarden EUR,Außenbeitrag,191.6
-2022,Milliarden EUR,Außenbeitrag,75.4
+2022,Milliarden EUR,Außenbeitrag,75.9

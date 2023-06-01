@@ -12,6 +12,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil im Deutschen Bundestag,Deutschland,,31.3
 2021,Frauenanteil im Deutschen Bundestag,Deutschland,,31.5
 2022,Frauenanteil im Deutschen Bundestag,Deutschland,,34.9
+2023,Frauenanteil im Deutschen Bundestag,Deutschland,,35.1
 2010,Frauenanteil im Bundesrat,Deutschland,,18.8
 2011,Frauenanteil im Bundesrat,Deutschland,,24.6
 2012,Frauenanteil im Bundesrat,Deutschland,,27.5
@@ -25,6 +26,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil im Bundesrat,Deutschland,,34.8
 2021,Frauenanteil im Bundesrat,Deutschland,,33.3
 2022,Frauenanteil im Bundesrat,Deutschland,,31.9
+2023,Frauenanteil im Bundesrat,Deutschland,,37.7
 2010,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
 2011,Frauenanteil in den Landtagen,Baden-Württemberg,code08,18.1
 2012,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
@@ -38,6 +40,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
 2021,Frauenanteil in den Landtagen,Baden-Württemberg,code08,29.2
 2022,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
+2023,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
 2010,Frauenanteil in den Landtagen,Bayern,code09,
 2011,Frauenanteil in den Landtagen,Bayern,code09,
 2012,Frauenanteil in den Landtagen,Bayern,code09,
@@ -51,6 +54,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Bayern,code09,
 2021,Frauenanteil in den Landtagen,Bayern,code09,
 2022,Frauenanteil in den Landtagen,Bayern,code09,
+2023,Frauenanteil in den Landtagen,Bayern,code09,
 2010,Frauenanteil in den Landtagen,Berlin,code11,
 2011,Frauenanteil in den Landtagen,Berlin,code11,34.9
 2012,Frauenanteil in den Landtagen,Berlin,code11,
@@ -64,6 +68,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Berlin,code11,
 2021,Frauenanteil in den Landtagen,Berlin,code11,35.4
 2022,Frauenanteil in den Landtagen,Berlin,code11,
+2023,Frauenanteil in den Landtagen,Berlin,code11,
 2010,Frauenanteil in den Landtagen,Brandenburg,code12,
 2011,Frauenanteil in den Landtagen,Brandenburg,code12,
 2012,Frauenanteil in den Landtagen,Brandenburg,code12,
@@ -77,6 +82,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Brandenburg,code12,
 2021,Frauenanteil in den Landtagen,Brandenburg,code12,
 2022,Frauenanteil in den Landtagen,Brandenburg,code12,
+2023,Frauenanteil in den Landtagen,Brandenburg,code12,
 2010,Frauenanteil in den Landtagen,Bremen,code04,
 2011,Frauenanteil in den Landtagen,Bremen,code04,43.4
 2012,Frauenanteil in den Landtagen,Bremen,code04,
@@ -90,6 +96,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Bremen,code04,
 2021,Frauenanteil in den Landtagen,Bremen,code04,
 2022,Frauenanteil in den Landtagen,Bremen,code04,
+2023,Frauenanteil in den Landtagen,Bremen,code04,
 2010,Frauenanteil in den Landtagen,Hamburg,code02,
 2011,Frauenanteil in den Landtagen,Hamburg,code02,38.8
 2012,Frauenanteil in den Landtagen,Hamburg,code02,
@@ -103,6 +110,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Hamburg,code02,43.9
 2021,Frauenanteil in den Landtagen,Hamburg,code02,
 2022,Frauenanteil in den Landtagen,Hamburg,code02,
+2023,Frauenanteil in den Landtagen,Hamburg,code02,
 2010,Frauenanteil in den Landtagen,Hessen,code06,
 2011,Frauenanteil in den Landtagen,Hessen,code06,
 2012,Frauenanteil in den Landtagen,Hessen,code06,
@@ -116,6 +124,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Hessen,code06,
 2021,Frauenanteil in den Landtagen,Hessen,code06,
 2022,Frauenanteil in den Landtagen,Hessen,code06,
+2023,Frauenanteil in den Landtagen,Hessen,code06,
 2010,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
 2011,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,28.2
 2012,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
@@ -129,6 +138,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
 2021,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,36.7
 2022,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
+2023,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
 2010,Frauenanteil in den Landtagen,Niedersachsen,code03,
 2011,Frauenanteil in den Landtagen,Niedersachsen,code03,
 2012,Frauenanteil in den Landtagen,Niedersachsen,code03,
@@ -142,6 +152,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Niedersachsen,code03,
 2021,Frauenanteil in den Landtagen,Niedersachsen,code03,
 2022,Frauenanteil in den Landtagen,Niedersachsen,code03,34.2
+2023,Frauenanteil in den Landtagen,Niedersachsen,code03,
 2010,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,27.1
 2011,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
 2012,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,30.0
@@ -155,6 +166,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
 2021,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
 2022,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,33.8
+2023,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
 2010,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
 2011,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,41.6
 2012,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
@@ -168,6 +180,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
 2021,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,31.7
 2022,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
+2023,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
 2010,Frauenanteil in den Landtagen,Saarland,code10,
 2011,Frauenanteil in den Landtagen,Saarland,code10,
 2012,Frauenanteil in den Landtagen,Saarland,code10,39.2
@@ -181,6 +194,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Saarland,code10,
 2021,Frauenanteil in den Landtagen,Saarland,code10,
 2022,Frauenanteil in den Landtagen,Saarland,code10,37.3
+2023,Frauenanteil in den Landtagen,Saarland,code10,
 2010,Frauenanteil in den Landtagen,Sachsen,code14,
 2011,Frauenanteil in den Landtagen,Sachsen,code14,
 2012,Frauenanteil in den Landtagen,Sachsen,code14,
@@ -194,6 +208,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Sachsen,code14,
 2021,Frauenanteil in den Landtagen,Sachsen,code14,
 2022,Frauenanteil in den Landtagen,Sachsen,code14,
+2023,Frauenanteil in den Landtagen,Sachsen,code14,
 2010,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
 2011,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,31.4
 2012,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
@@ -207,6 +222,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
 2021,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,27.8
 2022,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
+2023,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
 2010,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
 2011,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
 2012,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,31.9
@@ -220,6 +236,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
 2021,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
 2022,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,37.7
+2023,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
 2010,Frauenanteil in den Landtagen,Thüringen,code16,
 2011,Frauenanteil in den Landtagen,Thüringen,code16,
 2012,Frauenanteil in den Landtagen,Thüringen,code16,
@@ -233,6 +250,7 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in den Landtagen,Thüringen,code16,
 2021,Frauenanteil in den Landtagen,Thüringen,code16,
 2022,Frauenanteil in den Landtagen,Thüringen,code16,
+2023,Frauenanteil in den Landtagen,Thüringen,code16,
 2010,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
 2011,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,26.1
 2012,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
@@ -246,3 +264,4 @@ Year,Zeitreihe,Region,GeoCode,Value
 2020,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
 2021,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,30.3
 2022,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
+2023,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
