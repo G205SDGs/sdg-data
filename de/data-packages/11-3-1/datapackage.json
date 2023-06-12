@@ -43,6 +43,18 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "presentation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jährliche Werte",
+                "Gleitender Vierjahresdurchschnitt",
+                ""
+              ]
+            },
+            "title": "Darstellung"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

@@ -16,19 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "17 Jahre und jünger",
-                "18 bis unter 65 Jahre",
-                "65 Jahre und älter",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {

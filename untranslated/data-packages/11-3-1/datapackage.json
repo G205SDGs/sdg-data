@@ -31,10 +31,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio of land consumption rate to population growth rate (year-to-year)",
+                "ratio of land consumption rate to population growth rate",
                 "proportion of settlement and transport areas to population",
                 "land consumption rate",
                 "population growth rate",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "presentation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "annual values",
+                "moving four-year average",
                 ""
               ]
             }
