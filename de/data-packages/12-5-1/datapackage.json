@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Recyclingquote",
-                "Stoffliche Verwertung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "type of waste",
             "type": "string",
             "constraints": {
@@ -50,6 +38,18 @@
               ]
             },
             "title": "Abfallart"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Recyclingquote",
+                "Stoffliche Verwertung",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

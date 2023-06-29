@@ -20,25 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Severely materially deprived persons",
                 "Persons at risk of poverty or social exclusion",
+                "At-risk-of-poverty rate",
+                "persons living in households with very low work intensity",
+                "severely materially and socially deprived persons",
                 ""
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "17 years and younger",
-                "18 to under 65 years",
-                "65 years and older",
-                ""
-              ]
-            },
-            "title": "Age group"
           },
           {
             "name": "sex",

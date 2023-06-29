@@ -4,7 +4,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 agricultural holdings with the legal form of a sole proprietorship,1,1
 annual growth rate of real gdp,1,1
 at least one population and housing census in the last 10 years conducted,1,1
-at-risk-of-poverty rate,1,1
+at-risk-of-poverty rate,4,2
 atms of national payment service providers,1,1
 available income of private households,1,1
 basel convention,1,1
@@ -57,7 +57,6 @@ live births in total,1,1
 marine areas covered by effective protected areas,2,1
 marine areas covered by protected areas,2,1
 marine key biodiversity areas (kbas) covered by protected areas,2,1
-material recovery,2,1
 measles vaccination coverage at school entry,1,1
 minamata convention,1,1
 mobile penetration rate,1,1
@@ -91,8 +90,9 @@ organically farmed agricultural land (data from the federal statistical office),
 overweight,3,1
 owned and leased agricultural land,3,1
 people requiring interventions against neglected tropical diseases,5,1
-persons at risk of poverty or social exclusion,6,1
+persons at risk of poverty or social exclusion,3,1
 persons employed,1,1
+persons living in households with very low work intensity,3,1
 pneumococcal vaccination coverage at school entry,1,1
 population connected to the public water supply system,1,1
 population covered by health insurance,1,1
@@ -121,7 +121,6 @@ proportion of women in the german bundestag (lower chamber),1,1
 public service,10,1
 ratio of land consumption rate to population growth rate,2,1
 real gdp per capita,1,1
-recycling rate,2,1
 redistributive impact of fiscal policy,1,1
 regulatory tier 1 capital to risk-weighted assets,1,1
 renewable energy share in gross final energy consumption,1,1
@@ -132,7 +131,7 @@ return on assets,1,1
 rotterdam convention,1,1
 score for the implementation of unclos and ist two implementing agreements,1,1
 score for the ratification of and accession to unclos and ist two implementing agreements,1,1
-severely materially deprived persons,1,1
+severely materially and socially deprived persons,3,1
 stockholm convention,1,1
 terrestrial and freshwater areas covered by effective protected areas,2,1
 terrestrial and freshwater areas covered by protected areas,2,1

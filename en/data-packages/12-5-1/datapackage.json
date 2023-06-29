@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Recycling rate",
-                "Material recovery",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "type of waste",
             "type": "string",
             "constraints": {
@@ -50,6 +38,18 @@
               ]
             },
             "title": "Type of waste"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Recycling rate",
+                "Material recovery",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

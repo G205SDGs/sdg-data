@@ -10,7 +10,8 @@ Year,degree of urbanisation,sex,Series,Value
 2018,cities,,overcrowding rate,11.5
 2019,cities,,overcrowding rate,12.7
 2020,cities,,overcrowding rate,15.0
-2021,cities,,overcrowding rate,15.5
+2021,cities,,overcrowding rate,15.7
+2022,cities,,overcrowding rate,16.1
 2010,towns and suburbs,,overcrowding rate,4.7
 2011,towns and suburbs,,overcrowding rate,4.1
 2012,towns and suburbs,,overcrowding rate,4.8
@@ -22,7 +23,8 @@ Year,degree of urbanisation,sex,Series,Value
 2018,towns and suburbs,,overcrowding rate,5.5
 2019,towns and suburbs,,overcrowding rate,5.5
 2020,towns and suburbs,,overcrowding rate,8.0
-2021,towns and suburbs,,overcrowding rate,8.6
+2021,towns and suburbs,,overcrowding rate,8.7
+2022,towns and suburbs,,overcrowding rate,8.9
 2010,rural areas,,overcrowding rate,4.7
 2011,rural areas,,overcrowding rate,4.1
 2012,rural areas,,overcrowding rate,3.7
@@ -34,7 +36,8 @@ Year,degree of urbanisation,sex,Series,Value
 2018,rural areas,,overcrowding rate,4.2
 2019,rural areas,,overcrowding rate,4.0
 2020,rural areas,,overcrowding rate,5.5
-2021,rural areas,,overcrowding rate,4.9
+2021,rural areas,,overcrowding rate,5.0
+2022,rural areas,,overcrowding rate,5.4
 2010,cities,,housing cost overburden rate,16.2
 2011,cities,,housing cost overburden rate,18.0
 2012,cities,,housing cost overburden rate,19.8
@@ -46,7 +49,8 @@ Year,degree of urbanisation,sex,Series,Value
 2018,cities,,housing cost overburden rate,17.6
 2019,cities,,housing cost overburden rate,16.2
 2020,cities,,housing cost overburden rate,11.4
-2021,cities,,housing cost overburden rate,12.2
+2021,cities,,housing cost overburden rate,12.4
+2022,cities,,housing cost overburden rate,13.0
 2010,towns and suburbs,,housing cost overburden rate,13.0
 2011,towns and suburbs,,housing cost overburden rate,14.5
 2012,towns and suburbs,,housing cost overburden rate,15.5
@@ -58,7 +62,8 @@ Year,degree of urbanisation,sex,Series,Value
 2018,towns and suburbs,,housing cost overburden rate,13.3
 2019,towns and suburbs,,housing cost overburden rate,12.7
 2020,towns and suburbs,,housing cost overburden rate,7.8
-2021,towns and suburbs,,housing cost overburden rate,10.4
+2021,towns and suburbs,,housing cost overburden rate,10.7
+2022,towns and suburbs,,housing cost overburden rate,11.4
 2010,rural areas,,housing cost overburden rate,12.3
 2011,rural areas,,housing cost overburden rate,13.6
 2012,rural areas,,housing cost overburden rate,13.9
@@ -70,7 +75,8 @@ Year,degree of urbanisation,sex,Series,Value
 2018,rural areas,,housing cost overburden rate,10.4
 2019,rural areas,,housing cost overburden rate,12.4
 2020,rural areas,,housing cost overburden rate,6.8
-2021,rural areas,,housing cost overburden rate,8.5
+2021,rural areas,,housing cost overburden rate,8.6
+2022,rural areas,,housing cost overburden rate,10.5
 2010,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.3
 2011,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.7
 2012,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.5

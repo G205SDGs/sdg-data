@@ -26,23 +26,23 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "recycling rate",
-                "material recovery",
-                ""
-              ]
-            }
-          },
-          {
             "name": "type of waste",
             "type": "string",
             "constraints": {
               "enum": [
                 "municipal waste",
                 "total waste",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "recycling rate",
+                "material recovery",
                 ""
               ]
             }

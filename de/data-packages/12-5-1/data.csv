@@ -1,45 +1,49 @@
-Year,Units,Zeitreihe,Abfallart,Value
-2010,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,63
-2011,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,63
-2012,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,65
-2013,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,64
-2014,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,66
-2015,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,67
-2016,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,67
-2017,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,67
-2018,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,67
-2019,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,68
-2020,Prozent,Recyclingquote,Siedlungsabfälle insgesamt,67
-2010,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,30774
-2011,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,31633
-2012,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,32460
-2013,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,31629
-2014,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,33544
-2015,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,34453
-2016,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,34958
-2017,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,34783
-2018,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,33723
-2019,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,34227
-2020,1 000 Tonnen,Stoffliche Verwertung,Siedlungsabfälle insgesamt,34379
-2010,Prozent,Recyclingquote,Abfallaufkommen insgesamt,69
-2011,Prozent,Recyclingquote,Abfallaufkommen insgesamt,69
-2012,Prozent,Recyclingquote,Abfallaufkommen insgesamt,70
-2013,Prozent,Recyclingquote,Abfallaufkommen insgesamt,69
-2014,Prozent,Recyclingquote,Abfallaufkommen insgesamt,69
-2015,Prozent,Recyclingquote,Abfallaufkommen insgesamt,68
-2016,Prozent,Recyclingquote,Abfallaufkommen insgesamt,70
-2017,Prozent,Recyclingquote,Abfallaufkommen insgesamt,69
-2018,Prozent,Recyclingquote,Abfallaufkommen insgesamt,70
-2019,Prozent,Recyclingquote,Abfallaufkommen insgesamt,70
-2020,Prozent,Recyclingquote,Abfallaufkommen insgesamt,70
-2010,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,257350
-2011,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,267105
-2012,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,265363
-2013,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,265552
-2014,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,276265
-2015,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,274619
-2016,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,287631
-2017,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,284847
-2018,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,290456
-2019,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,292006
-2020,1 000 Tonnen,Stoffliche Verwertung,Abfallaufkommen insgesamt,290157
+Year,Units,Abfallart,Series,Value
+2010,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,63
+2011,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,63
+2012,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,65
+2013,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,64
+2014,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,66
+2015,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,67
+2016,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,67
+2017,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,67
+2018,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,67
+2019,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,68
+2020,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,67
+2021,Prozent,Siedlungsabfälle insgesamt,Recyclingquote,68
+2010,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,30774
+2011,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,31633
+2012,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,32460
+2013,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,31629
+2014,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,33544
+2015,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,34453
+2016,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,34958
+2017,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,34783
+2018,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,33723
+2019,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,34227
+2020,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,34379
+2021,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,35115
+2010,Prozent,Abfallaufkommen insgesamt,Recyclingquote,69
+2011,Prozent,Abfallaufkommen insgesamt,Recyclingquote,69
+2012,Prozent,Abfallaufkommen insgesamt,Recyclingquote,70
+2013,Prozent,Abfallaufkommen insgesamt,Recyclingquote,69
+2014,Prozent,Abfallaufkommen insgesamt,Recyclingquote,69
+2015,Prozent,Abfallaufkommen insgesamt,Recyclingquote,68
+2016,Prozent,Abfallaufkommen insgesamt,Recyclingquote,70
+2017,Prozent,Abfallaufkommen insgesamt,Recyclingquote,69
+2018,Prozent,Abfallaufkommen insgesamt,Recyclingquote,70
+2019,Prozent,Abfallaufkommen insgesamt,Recyclingquote,70
+2020,Prozent,Abfallaufkommen insgesamt,Recyclingquote,70
+2021,Prozent,Abfallaufkommen insgesamt,Recyclingquote,70
+2010,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,257350
+2011,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,267105
+2012,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,265363
+2013,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,265552
+2014,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,276265
+2015,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,274619
+2016,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,287631
+2017,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,284847
+2018,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,290456
+2019,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,292006
+2020,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,290157
+2021,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,288460
