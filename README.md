@@ -82,7 +82,6 @@ Scripts:
 * `build_data.py`: Builds main data, headline, and edges output in csv, and json.
 
 Packages:
-
 This uses the `sdg` package from the `sdg-build` repository during the build.
 
 ## License
