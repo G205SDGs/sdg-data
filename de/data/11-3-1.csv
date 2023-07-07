@@ -1,17 +1,17 @@
 Year,Units,Zeitreihe,Darstellung,Value
-2010,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,
-2011,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,6.841
-2012,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,2.008
-2013,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,1.563
-2014,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,1.15
-2015,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,0.292
-2016,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,0.909
-2017,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,1.551
-2018,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,2.314
-2019,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,1.857
-2020,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,
-2021,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,4.246
-2022,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Jährliche Werte,
+2010,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,
+2011,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,6.841
+2012,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,2.008
+2013,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,1.563
+2014,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,1.15
+2015,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,0.292
+2016,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,0.909
+2017,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,1.551
+2018,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,2.314
+2019,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,1.857
+2020,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,
+2021,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,4.246
+2022,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,
 2010,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,99.587
 2011,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,100.353
 2012,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,100.599
@@ -25,19 +25,19 @@ Year,Units,Zeitreihe,Darstellung,Value
 2020,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,101.097
 2021,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,101.42
 2022,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,
-2010,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.604
-2011,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.591
-2012,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.902
-2013,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.489
-2014,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.473
-2015,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.612
-2016,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.351
-2017,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.382
-2018,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.509
-2019,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.634
-2020,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.33
-2021,Prozent,Flächenverbrauchsrate,Jährliche Werte,0.426
-2022,Prozent,Flächenverbrauchsrate,Jährliche Werte,
+2010,Prozent,Flächennutzungssrate,Jährliche Werte,0.604
+2011,Prozent,Flächennutzungssrate,Jährliche Werte,0.591
+2012,Prozent,Flächennutzungssrate,Jährliche Werte,0.902
+2013,Prozent,Flächennutzungssrate,Jährliche Werte,0.489
+2014,Prozent,Flächennutzungssrate,Jährliche Werte,0.473
+2015,Prozent,Flächennutzungssrate,Jährliche Werte,0.612
+2016,Prozent,Flächennutzungssrate,Jährliche Werte,0.351
+2017,Prozent,Flächennutzungssrate,Jährliche Werte,0.382
+2018,Prozent,Flächennutzungssrate,Jährliche Werte,0.509
+2019,Prozent,Flächennutzungssrate,Jährliche Werte,0.634
+2020,Prozent,Flächennutzungssrate,Jährliche Werte,0.33
+2021,Prozent,Flächennutzungssrate,Jährliche Werte,0.426
+2022,Prozent,Flächennutzungssrate,Jährliche Werte,
 2010,Prozent,Bevölkerungsentwicklung,Jährliche Werte,-0.155
 2011,Prozent,Bevölkerungsentwicklung,Jährliche Werte,0.132
 2012,Prozent,Bevölkerungsentwicklung,Jährliche Werte,0.244
@@ -51,19 +51,19 @@ Year,Units,Zeitreihe,Darstellung,Value
 2020,Prozent,Bevölkerungsentwicklung,Jährliche Werte,-0.014
 2021,Prozent,Bevölkerungsentwicklung,Jährliche Werte,0.099
 2022,Prozent,Bevölkerungsentwicklung,Jährliche Werte,1.339
-2010,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,
-2011,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,
-2012,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,
-2013,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,4.691
-2014,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,2.046
-2015,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,0.844
-2016,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,0.74
-2017,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,0.747
-2018,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,0.843
-2019,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,1.545
-2020,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,2.48
-2021,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,3.373
-2022,Keine Einheit,Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,
+2010,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,
+2011,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,
+2012,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,
+2013,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,4.691
+2014,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,2.046
+2015,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,0.844
+2016,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,0.74
+2017,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,0.747
+2018,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,0.843
+2019,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,1.545
+2020,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,2.48
+2021,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,3.373
+2022,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,
 2010,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,
 2011,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,98.632
 2012,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,99.299
@@ -77,19 +77,19 @@ Year,Units,Zeitreihe,Darstellung,Value
 2020,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,100.046
 2021,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,100.363
 2022,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,
-2010,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,
-2011,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,
-2012,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,0.647
-2013,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,0.614
-2014,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,0.619
-2015,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,0.482
-2016,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,0.455
-2017,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,0.464
-2018,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,0.469
-2019,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,0.464
-2020,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,0.474
-2021,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,0.452
-2022,Prozent,Flächenverbrauchsrate,Gleitender Vierjahresdurchschnitt,
+2010,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,
+2011,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,
+2012,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,0.647
+2013,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,0.614
+2014,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,0.619
+2015,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,0.482
+2016,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,0.455
+2017,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,0.464
+2018,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,0.469
+2019,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,0.464
+2020,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,0.474
+2021,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,0.452
+2022,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,
 2010,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,
 2011,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,
 2012,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,-0.03

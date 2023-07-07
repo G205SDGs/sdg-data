@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung",
+                "Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung",
                 "Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung",
-                "Flächenverbrauchsrate",
+                "Flächennutzungssrate",
                 "Bevölkerungsentwicklung",
                 ""
               ]
