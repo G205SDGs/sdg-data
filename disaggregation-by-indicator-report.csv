@@ -13,7 +13,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-7-4,country of citizenship,1
 #10-b-1,type of flow,1
 #11-1-1,"sex, degree of urbanisation",2
-#11-2-1,"timeseries, sex, region, age group, disability status",5
+#11-2-1,"timeseries, sex, age group, region, disability status",5
 #11-3-1,"timeseries, presentation",2
 #11-4-1,timeseries,1
 #11-6-2,fine particulate matter,1
@@ -72,7 +72,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-7-2,age of mother,1
 #3-8-2,household expenditures on health,1
 #3-9-1,type of disease,1
-#3-9-2,"sex, type of disease, age group",3
+#3-9-2,"sex, age group, type of disease",3
 #3-a-1,"timeseries, sex",2
 #3-b-1,"timeseries, sex",2
 #3-c-1,profession,1
@@ -80,7 +80,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-1,"education level, subject",2
 #4-2-2,sex,1
 #4-3-1,"sex, age group",2
-#4-4-1,"activities, age group",2
+#4-4-1,"age group, activities",2
 #4-5-1,indicator,1
 #4-6-1,"skill, level of proficiency",2
 #4-7-1,area2,1
