@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "household expenditures on health",
+            "name": "share of household expenditure spent on health care",
             "type": "string",
             "constraints": {
               "enum": [

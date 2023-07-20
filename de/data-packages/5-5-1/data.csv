@@ -1,267 +1,547 @@
-Year,Zeitreihe,Region,GeoCode,Value
-2010,Frauenanteil im Deutschen Bundestag,Deutschland,,32.8
-2011,Frauenanteil im Deutschen Bundestag,Deutschland,,33.1
-2012,Frauenanteil im Deutschen Bundestag,Deutschland,,32.9
-2013,Frauenanteil im Deutschen Bundestag,Deutschland,,32.9
-2014,Frauenanteil im Deutschen Bundestag,Deutschland,,36.5
-2015,Frauenanteil im Deutschen Bundestag,Deutschland,,36.3
-2016,Frauenanteil im Deutschen Bundestag,Deutschland,,36.8
-2017,Frauenanteil im Deutschen Bundestag,Deutschland,,37.1
-2018,Frauenanteil im Deutschen Bundestag,Deutschland,,30.9
-2019,Frauenanteil im Deutschen Bundestag,Deutschland,,31.2
-2020,Frauenanteil im Deutschen Bundestag,Deutschland,,31.3
-2021,Frauenanteil im Deutschen Bundestag,Deutschland,,31.5
-2022,Frauenanteil im Deutschen Bundestag,Deutschland,,34.9
-2023,Frauenanteil im Deutschen Bundestag,Deutschland,,35.1
-2010,Frauenanteil im Bundesrat,Deutschland,,18.8
-2011,Frauenanteil im Bundesrat,Deutschland,,24.6
-2012,Frauenanteil im Bundesrat,Deutschland,,27.5
-2013,Frauenanteil im Bundesrat,Deutschland,,29.0
-2014,Frauenanteil im Bundesrat,Deutschland,,34.8
-2015,Frauenanteil im Bundesrat,Deutschland,,40.6
-2016,Frauenanteil im Bundesrat,Deutschland,,37.7
-2017,Frauenanteil im Bundesrat,Deutschland,,39.1
-2018,Frauenanteil im Bundesrat,Deutschland,,39.1
-2019,Frauenanteil im Bundesrat,Deutschland,,36.2
-2020,Frauenanteil im Bundesrat,Deutschland,,34.8
-2021,Frauenanteil im Bundesrat,Deutschland,,33.3
-2022,Frauenanteil im Bundesrat,Deutschland,,31.9
-2023,Frauenanteil im Bundesrat,Deutschland,,37.7
-2010,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2011,Frauenanteil in den Landtagen,Baden-Württemberg,code08,18.1
-2012,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2013,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2014,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2015,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2016,Frauenanteil in den Landtagen,Baden-Württemberg,code08,24.5
-2017,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2018,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2019,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2020,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2021,Frauenanteil in den Landtagen,Baden-Württemberg,code08,29.2
-2022,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2023,Frauenanteil in den Landtagen,Baden-Württemberg,code08,
-2010,Frauenanteil in den Landtagen,Bayern,code09,
-2011,Frauenanteil in den Landtagen,Bayern,code09,
-2012,Frauenanteil in den Landtagen,Bayern,code09,
-2013,Frauenanteil in den Landtagen,Bayern,code09,29.4
-2014,Frauenanteil in den Landtagen,Bayern,code09,
-2015,Frauenanteil in den Landtagen,Bayern,code09,
-2016,Frauenanteil in den Landtagen,Bayern,code09,
-2017,Frauenanteil in den Landtagen,Bayern,code09,
-2018,Frauenanteil in den Landtagen,Bayern,code09,26.8
-2019,Frauenanteil in den Landtagen,Bayern,code09,
-2020,Frauenanteil in den Landtagen,Bayern,code09,
-2021,Frauenanteil in den Landtagen,Bayern,code09,
-2022,Frauenanteil in den Landtagen,Bayern,code09,
-2023,Frauenanteil in den Landtagen,Bayern,code09,
-2010,Frauenanteil in den Landtagen,Berlin,code11,
-2011,Frauenanteil in den Landtagen,Berlin,code11,34.9
-2012,Frauenanteil in den Landtagen,Berlin,code11,
-2013,Frauenanteil in den Landtagen,Berlin,code11,
-2014,Frauenanteil in den Landtagen,Berlin,code11,
-2015,Frauenanteil in den Landtagen,Berlin,code11,
-2016,Frauenanteil in den Landtagen,Berlin,code11,33.1
-2017,Frauenanteil in den Landtagen,Berlin,code11,
-2018,Frauenanteil in den Landtagen,Berlin,code11,
-2019,Frauenanteil in den Landtagen,Berlin,code11,
-2020,Frauenanteil in den Landtagen,Berlin,code11,
-2021,Frauenanteil in den Landtagen,Berlin,code11,35.4
-2022,Frauenanteil in den Landtagen,Berlin,code11,
-2023,Frauenanteil in den Landtagen,Berlin,code11,
-2010,Frauenanteil in den Landtagen,Brandenburg,code12,
-2011,Frauenanteil in den Landtagen,Brandenburg,code12,
-2012,Frauenanteil in den Landtagen,Brandenburg,code12,
-2013,Frauenanteil in den Landtagen,Brandenburg,code12,
-2014,Frauenanteil in den Landtagen,Brandenburg,code12,34.1
-2015,Frauenanteil in den Landtagen,Brandenburg,code12,
-2016,Frauenanteil in den Landtagen,Brandenburg,code12,
-2017,Frauenanteil in den Landtagen,Brandenburg,code12,
-2018,Frauenanteil in den Landtagen,Brandenburg,code12,
-2019,Frauenanteil in den Landtagen,Brandenburg,code12,31.8
-2020,Frauenanteil in den Landtagen,Brandenburg,code12,
-2021,Frauenanteil in den Landtagen,Brandenburg,code12,
-2022,Frauenanteil in den Landtagen,Brandenburg,code12,
-2023,Frauenanteil in den Landtagen,Brandenburg,code12,
-2010,Frauenanteil in den Landtagen,Bremen,code04,
-2011,Frauenanteil in den Landtagen,Bremen,code04,43.4
-2012,Frauenanteil in den Landtagen,Bremen,code04,
-2013,Frauenanteil in den Landtagen,Bremen,code04,
-2014,Frauenanteil in den Landtagen,Bremen,code04,
-2015,Frauenanteil in den Landtagen,Bremen,code04,33.7
-2016,Frauenanteil in den Landtagen,Bremen,code04,
-2017,Frauenanteil in den Landtagen,Bremen,code04,
-2018,Frauenanteil in den Landtagen,Bremen,code04,
-2019,Frauenanteil in den Landtagen,Bremen,code04,40.5
-2020,Frauenanteil in den Landtagen,Bremen,code04,
-2021,Frauenanteil in den Landtagen,Bremen,code04,
-2022,Frauenanteil in den Landtagen,Bremen,code04,
-2023,Frauenanteil in den Landtagen,Bremen,code04,
-2010,Frauenanteil in den Landtagen,Hamburg,code02,
-2011,Frauenanteil in den Landtagen,Hamburg,code02,38.8
-2012,Frauenanteil in den Landtagen,Hamburg,code02,
-2013,Frauenanteil in den Landtagen,Hamburg,code02,
-2014,Frauenanteil in den Landtagen,Hamburg,code02,
-2015,Frauenanteil in den Landtagen,Hamburg,code02,38.8
-2016,Frauenanteil in den Landtagen,Hamburg,code02,
-2017,Frauenanteil in den Landtagen,Hamburg,code02,
-2018,Frauenanteil in den Landtagen,Hamburg,code02,
-2019,Frauenanteil in den Landtagen,Hamburg,code02,
-2020,Frauenanteil in den Landtagen,Hamburg,code02,43.9
-2021,Frauenanteil in den Landtagen,Hamburg,code02,
-2022,Frauenanteil in den Landtagen,Hamburg,code02,
-2023,Frauenanteil in den Landtagen,Hamburg,code02,
-2010,Frauenanteil in den Landtagen,Hessen,code06,
-2011,Frauenanteil in den Landtagen,Hessen,code06,
-2012,Frauenanteil in den Landtagen,Hessen,code06,
-2013,Frauenanteil in den Landtagen,Hessen,code06,31.8
-2014,Frauenanteil in den Landtagen,Hessen,code06,
-2015,Frauenanteil in den Landtagen,Hessen,code06,
-2016,Frauenanteil in den Landtagen,Hessen,code06,
-2017,Frauenanteil in den Landtagen,Hessen,code06,
-2018,Frauenanteil in den Landtagen,Hessen,code06,33.6
-2019,Frauenanteil in den Landtagen,Hessen,code06,
-2020,Frauenanteil in den Landtagen,Hessen,code06,
-2021,Frauenanteil in den Landtagen,Hessen,code06,
-2022,Frauenanteil in den Landtagen,Hessen,code06,
-2023,Frauenanteil in den Landtagen,Hessen,code06,
-2010,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2011,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,28.2
-2012,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2013,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2014,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2015,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2016,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,25.4
-2017,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2018,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2019,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2020,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2021,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,36.7
-2022,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2023,Frauenanteil in den Landtagen,Mecklenburg-Vorpommern,code13,
-2010,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2011,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2012,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2013,Frauenanteil in den Landtagen,Niedersachsen,code03,29.2
-2014,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2015,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2016,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2017,Frauenanteil in den Landtagen,Niedersachsen,code03,27.7
-2018,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2019,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2020,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2021,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2022,Frauenanteil in den Landtagen,Niedersachsen,code03,34.2
-2023,Frauenanteil in den Landtagen,Niedersachsen,code03,
-2010,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,27.1
-2011,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
-2012,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,30.0
-2013,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
-2014,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
-2015,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
-2016,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
-2017,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,27.1
-2018,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
-2019,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
-2020,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
-2021,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
-2022,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,33.8
-2023,Frauenanteil in den Landtagen,Nordrhein-Westfalen,code05,
-2010,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2011,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,41.6
-2012,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2013,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2014,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2015,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2016,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,35.6
-2017,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2018,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2019,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2020,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2021,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,31.7
-2022,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2023,Frauenanteil in den Landtagen,Rheinland-Pfalz,code07,
-2010,Frauenanteil in den Landtagen,Saarland,code10,
-2011,Frauenanteil in den Landtagen,Saarland,code10,
-2012,Frauenanteil in den Landtagen,Saarland,code10,39.2
-2013,Frauenanteil in den Landtagen,Saarland,code10,
-2014,Frauenanteil in den Landtagen,Saarland,code10,
-2015,Frauenanteil in den Landtagen,Saarland,code10,
-2016,Frauenanteil in den Landtagen,Saarland,code10,
-2017,Frauenanteil in den Landtagen,Saarland,code10,35.3
-2018,Frauenanteil in den Landtagen,Saarland,code10,
-2019,Frauenanteil in den Landtagen,Saarland,code10,
-2020,Frauenanteil in den Landtagen,Saarland,code10,
-2021,Frauenanteil in den Landtagen,Saarland,code10,
-2022,Frauenanteil in den Landtagen,Saarland,code10,37.3
-2023,Frauenanteil in den Landtagen,Saarland,code10,
-2010,Frauenanteil in den Landtagen,Sachsen,code14,
-2011,Frauenanteil in den Landtagen,Sachsen,code14,
-2012,Frauenanteil in den Landtagen,Sachsen,code14,
-2013,Frauenanteil in den Landtagen,Sachsen,code14,
-2014,Frauenanteil in den Landtagen,Sachsen,code14,31.7
-2015,Frauenanteil in den Landtagen,Sachsen,code14,
-2016,Frauenanteil in den Landtagen,Sachsen,code14,
-2017,Frauenanteil in den Landtagen,Sachsen,code14,
-2018,Frauenanteil in den Landtagen,Sachsen,code14,
-2019,Frauenanteil in den Landtagen,Sachsen,code14,27.7
-2020,Frauenanteil in den Landtagen,Sachsen,code14,
-2021,Frauenanteil in den Landtagen,Sachsen,code14,
-2022,Frauenanteil in den Landtagen,Sachsen,code14,
-2023,Frauenanteil in den Landtagen,Sachsen,code14,
-2010,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2011,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,31.4
-2012,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2013,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2014,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2015,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2016,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,26.4
-2017,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2018,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2019,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2020,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2021,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,27.8
-2022,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2023,Frauenanteil in den Landtagen,Sachsen-Anhalt,code15,
-2010,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2011,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2012,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,31.9
-2013,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2014,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2015,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2016,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2017,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,30.1
-2018,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2019,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2020,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2021,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2022,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,37.7
-2023,Frauenanteil in den Landtagen,Schleswig-Holstein,code01,
-2010,Frauenanteil in den Landtagen,Thüringen,code16,
-2011,Frauenanteil in den Landtagen,Thüringen,code16,
-2012,Frauenanteil in den Landtagen,Thüringen,code16,
-2013,Frauenanteil in den Landtagen,Thüringen,code16,
-2014,Frauenanteil in den Landtagen,Thüringen,code16,38.5
-2015,Frauenanteil in den Landtagen,Thüringen,code16,
-2016,Frauenanteil in den Landtagen,Thüringen,code16,
-2017,Frauenanteil in den Landtagen,Thüringen,code16,
-2018,Frauenanteil in den Landtagen,Thüringen,code16,
-2019,Frauenanteil in den Landtagen,Thüringen,code16,31.1
-2020,Frauenanteil in den Landtagen,Thüringen,code16,
-2021,Frauenanteil in den Landtagen,Thüringen,code16,
-2022,Frauenanteil in den Landtagen,Thüringen,code16,
-2023,Frauenanteil in den Landtagen,Thüringen,code16,
-2010,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
-2011,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,26.1
-2012,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
-2013,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
-2014,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
-2015,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,27.1
-2016,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
-2017,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,27.0
-2018,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
-2019,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,27.8
-2020,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
-2021,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,30.3
-2022,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
-2023,Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten,Deutschland,,
+Year,Units,Politische Institutionen,Bundesland,GeoCode,Value
+2010,Prozent,Deutscher Bundestag,,,32.8
+2011,Prozent,Deutscher Bundestag,,,33.1
+2012,Prozent,Deutscher Bundestag,,,32.9
+2013,Prozent,Deutscher Bundestag,,,32.9
+2014,Prozent,Deutscher Bundestag,,,36.5
+2015,Prozent,Deutscher Bundestag,,,36.3
+2016,Prozent,Deutscher Bundestag,,,36.8
+2017,Prozent,Deutscher Bundestag,,,37.1
+2018,Prozent,Deutscher Bundestag,,,30.9
+2019,Prozent,Deutscher Bundestag,,,31.2
+2020,Prozent,Deutscher Bundestag,,,31.3
+2021,Prozent,Deutscher Bundestag,,,31.5
+2022,Prozent,Deutscher Bundestag,,,34.9
+2023,Prozent,Deutscher Bundestag,,,35.1
+2010,Anzahl,Deutscher Bundestag,,,622.0
+2011,Anzahl,Deutscher Bundestag,,,622.0
+2012,Anzahl,Deutscher Bundestag,,,620.0
+2013,Anzahl,Deutscher Bundestag,,,620.0
+2014,Anzahl,Deutscher Bundestag,,,631.0
+2015,Anzahl,Deutscher Bundestag,,,631.0
+2016,Anzahl,Deutscher Bundestag,,,630.0
+2017,Anzahl,Deutscher Bundestag,,,630.0
+2018,Anzahl,Deutscher Bundestag,,,709.0
+2019,Anzahl,Deutscher Bundestag,,,709.0
+2020,Anzahl,Deutscher Bundestag,,,709.0
+2021,Anzahl,Deutscher Bundestag,,,709.0
+2022,Anzahl,Deutscher Bundestag,,,736.0
+2023,Anzahl,Deutscher Bundestag,,,736.0
+2010,Prozent,Bundesrat,,,18.8
+2011,Prozent,Bundesrat,,,24.6
+2012,Prozent,Bundesrat,,,27.5
+2013,Prozent,Bundesrat,,,29.0
+2014,Prozent,Bundesrat,,,34.8
+2015,Prozent,Bundesrat,,,40.6
+2016,Prozent,Bundesrat,,,37.7
+2017,Prozent,Bundesrat,,,39.1
+2018,Prozent,Bundesrat,,,39.1
+2019,Prozent,Bundesrat,,,36.2
+2020,Prozent,Bundesrat,,,34.8
+2021,Prozent,Bundesrat,,,33.3
+2022,Prozent,Bundesrat,,,31.9
+2023,Prozent,Bundesrat,,,37.7
+2010,Anzahl,Bundesrat,,,13.0
+2011,Anzahl,Bundesrat,,,17.0
+2012,Anzahl,Bundesrat,,,19.0
+2013,Anzahl,Bundesrat,,,20.0
+2014,Anzahl,Bundesrat,,,24.0
+2015,Anzahl,Bundesrat,,,28.0
+2016,Anzahl,Bundesrat,,,26.0
+2017,Anzahl,Bundesrat,,,27.0
+2018,Anzahl,Bundesrat,,,27.0
+2019,Anzahl,Bundesrat,,,25.0
+2020,Anzahl,Bundesrat,,,24.0
+2021,Anzahl,Bundesrat,,,23.0
+2022,Anzahl,Bundesrat,,,22.0
+2023,Anzahl,Bundesrat,,,26.0
+2010,Prozent,Landtage,Baden-Württemberg,code08,23.7
+2011,Prozent,Landtage,Baden-Württemberg,code08,18.1
+2012,Prozent,Landtage,Baden-Württemberg,code08,18.1
+2013,Prozent,Landtage,Baden-Württemberg,code08,18.1
+2014,Prozent,Landtage,Baden-Württemberg,code08,18.1
+2015,Prozent,Landtage,Baden-Württemberg,code08,18.1
+2016,Prozent,Landtage,Baden-Württemberg,code08,24.5
+2017,Prozent,Landtage,Baden-Württemberg,code08,24.5
+2018,Prozent,Landtage,Baden-Württemberg,code08,24.5
+2019,Prozent,Landtage,Baden-Württemberg,code08,24.5
+2020,Prozent,Landtage,Baden-Württemberg,code08,24.5
+2021,Prozent,Landtage,Baden-Württemberg,code08,29.2
+2022,Prozent,Landtage,Baden-Württemberg,code08,29.2
+2023,Prozent,Landtage,Baden-Württemberg,code08,29.2
+2010,Anzahl,Landtage,Baden-Württemberg,code08,33.0
+2011,Anzahl,Landtage,Baden-Württemberg,code08,25.0
+2012,Anzahl,Landtage,Baden-Württemberg,code08,25.0
+2013,Anzahl,Landtage,Baden-Württemberg,code08,25.0
+2014,Anzahl,Landtage,Baden-Württemberg,code08,25.0
+2015,Anzahl,Landtage,Baden-Württemberg,code08,25.0
+2016,Anzahl,Landtage,Baden-Württemberg,code08,35.0
+2017,Anzahl,Landtage,Baden-Württemberg,code08,35.0
+2018,Anzahl,Landtage,Baden-Württemberg,code08,35.0
+2019,Anzahl,Landtage,Baden-Württemberg,code08,35.0
+2020,Anzahl,Landtage,Baden-Württemberg,code08,35.0
+2021,Anzahl,Landtage,Baden-Württemberg,code08,45.0
+2022,Anzahl,Landtage,Baden-Württemberg,code08,45.0
+2023,Anzahl,Landtage,Baden-Württemberg,code08,45.0
+2010,Prozent,Landtage,Bayern,code09,31.0
+2011,Prozent,Landtage,Bayern,code09,31.0
+2012,Prozent,Landtage,Bayern,code09,31.0
+2013,Prozent,Landtage,Bayern,code09,29.4
+2014,Prozent,Landtage,Bayern,code09,29.4
+2015,Prozent,Landtage,Bayern,code09,29.4
+2016,Prozent,Landtage,Bayern,code09,29.4
+2017,Prozent,Landtage,Bayern,code09,29.4
+2018,Prozent,Landtage,Bayern,code09,26.8
+2019,Prozent,Landtage,Bayern,code09,26.8
+2020,Prozent,Landtage,Bayern,code09,26.8
+2021,Prozent,Landtage,Bayern,code09,26.8
+2022,Prozent,Landtage,Bayern,code09,26.8
+2023,Prozent,Landtage,Bayern,code09,26.8
+2010,Anzahl,Landtage,Bayern,code09,58.0
+2011,Anzahl,Landtage,Bayern,code09,58.0
+2012,Anzahl,Landtage,Bayern,code09,58.0
+2013,Anzahl,Landtage,Bayern,code09,53.0
+2014,Anzahl,Landtage,Bayern,code09,53.0
+2015,Anzahl,Landtage,Bayern,code09,53.0
+2016,Anzahl,Landtage,Bayern,code09,53.0
+2017,Anzahl,Landtage,Bayern,code09,53.0
+2018,Anzahl,Landtage,Bayern,code09,55.0
+2019,Anzahl,Landtage,Bayern,code09,55.0
+2020,Anzahl,Landtage,Bayern,code09,55.0
+2021,Anzahl,Landtage,Bayern,code09,55.0
+2022,Anzahl,Landtage,Bayern,code09,55.0
+2023,Anzahl,Landtage,Bayern,code09,55.0
+2010,Prozent,Landtage,Berlin,code11,39.6
+2011,Prozent,Landtage,Berlin,code11,34.9
+2012,Prozent,Landtage,Berlin,code11,34.9
+2013,Prozent,Landtage,Berlin,code11,34.9
+2014,Prozent,Landtage,Berlin,code11,34.9
+2015,Prozent,Landtage,Berlin,code11,34.9
+2016,Prozent,Landtage,Berlin,code11,33.1
+2017,Prozent,Landtage,Berlin,code11,33.1
+2018,Prozent,Landtage,Berlin,code11,33.1
+2019,Prozent,Landtage,Berlin,code11,33.1
+2020,Prozent,Landtage,Berlin,code11,33.1
+2021,Prozent,Landtage,Berlin,code11,37.7
+2022,Prozent,Landtage,Berlin,code11,37.7
+2023,Prozent,Landtage,Berlin,code11,37.7
+2010,Anzahl,Landtage,Berlin,code11,59.0
+2011,Anzahl,Landtage,Berlin,code11,52.0
+2012,Anzahl,Landtage,Berlin,code11,52.0
+2013,Anzahl,Landtage,Berlin,code11,52.0
+2014,Anzahl,Landtage,Berlin,code11,52.0
+2015,Anzahl,Landtage,Berlin,code11,52.0
+2016,Anzahl,Landtage,Berlin,code11,53.0
+2017,Anzahl,Landtage,Berlin,code11,53.0
+2018,Anzahl,Landtage,Berlin,code11,53.0
+2019,Anzahl,Landtage,Berlin,code11,53.0
+2020,Anzahl,Landtage,Berlin,code11,53.0
+2021,Anzahl,Landtage,Berlin,code11,60.0
+2022,Anzahl,Landtage,Berlin,code11,60.0
+2023,Anzahl,Landtage,Berlin,code11,60.0
+2010,Prozent,Landtage,Brandenburg,code12,38.6
+2011,Prozent,Landtage,Brandenburg,code12,38.6
+2012,Prozent,Landtage,Brandenburg,code12,38.6
+2013,Prozent,Landtage,Brandenburg,code12,38.6
+2014,Prozent,Landtage,Brandenburg,code12,34.1
+2015,Prozent,Landtage,Brandenburg,code12,34.1
+2016,Prozent,Landtage,Brandenburg,code12,34.1
+2017,Prozent,Landtage,Brandenburg,code12,34.1
+2018,Prozent,Landtage,Brandenburg,code12,34.1
+2019,Prozent,Landtage,Brandenburg,code12,31.8
+2020,Prozent,Landtage,Brandenburg,code12,31.8
+2021,Prozent,Landtage,Brandenburg,code12,31.8
+2022,Prozent,Landtage,Brandenburg,code12,31.8
+2023,Prozent,Landtage,Brandenburg,code12,31.8
+2010,Anzahl,Landtage,Brandenburg,code12,34.0
+2011,Anzahl,Landtage,Brandenburg,code12,34.0
+2012,Anzahl,Landtage,Brandenburg,code12,34.0
+2013,Anzahl,Landtage,Brandenburg,code12,34.0
+2014,Anzahl,Landtage,Brandenburg,code12,30.0
+2015,Anzahl,Landtage,Brandenburg,code12,30.0
+2016,Anzahl,Landtage,Brandenburg,code12,30.0
+2017,Anzahl,Landtage,Brandenburg,code12,30.0
+2018,Anzahl,Landtage,Brandenburg,code12,30.0
+2019,Anzahl,Landtage,Brandenburg,code12,28.0
+2020,Anzahl,Landtage,Brandenburg,code12,28.0
+2021,Anzahl,Landtage,Brandenburg,code12,28.0
+2022,Anzahl,Landtage,Brandenburg,code12,28.0
+2023,Anzahl,Landtage,Brandenburg,code12,28.0
+2010,Prozent,Landtage,Bremen,code04,38.6
+2011,Prozent,Landtage,Bremen,code04,43.4
+2012,Prozent,Landtage,Bremen,code04,43.4
+2013,Prozent,Landtage,Bremen,code04,43.4
+2014,Prozent,Landtage,Bremen,code04,43.4
+2015,Prozent,Landtage,Bremen,code04,33.7
+2016,Prozent,Landtage,Bremen,code04,33.7
+2017,Prozent,Landtage,Bremen,code04,33.7
+2018,Prozent,Landtage,Bremen,code04,33.7
+2019,Prozent,Landtage,Bremen,code04,40.5
+2020,Prozent,Landtage,Bremen,code04,40.5
+2021,Prozent,Landtage,Bremen,code04,40.5
+2022,Prozent,Landtage,Bremen,code04,40.5
+2023,Prozent,Landtage,Bremen,code04,40.5
+2010,Anzahl,Landtage,Bremen,code04,32.0
+2011,Anzahl,Landtage,Bremen,code04,36.0
+2012,Anzahl,Landtage,Bremen,code04,36.0
+2013,Anzahl,Landtage,Bremen,code04,36.0
+2014,Anzahl,Landtage,Bremen,code04,36.0
+2015,Anzahl,Landtage,Bremen,code04,28.0
+2016,Anzahl,Landtage,Bremen,code04,28.0
+2017,Anzahl,Landtage,Bremen,code04,28.0
+2018,Anzahl,Landtage,Bremen,code04,28.0
+2019,Anzahl,Landtage,Bremen,code04,34.0
+2020,Anzahl,Landtage,Bremen,code04,34.0
+2021,Anzahl,Landtage,Bremen,code04,34.0
+2022,Anzahl,Landtage,Bremen,code04,34.0
+2023,Anzahl,Landtage,Bremen,code04,34.0
+2010,Prozent,Landtage,Hamburg,code02,33.1
+2011,Prozent,Landtage,Hamburg,code02,38.8
+2012,Prozent,Landtage,Hamburg,code02,38.8
+2013,Prozent,Landtage,Hamburg,code02,38.8
+2014,Prozent,Landtage,Hamburg,code02,38.8
+2015,Prozent,Landtage,Hamburg,code02,38.8
+2016,Prozent,Landtage,Hamburg,code02,38.8
+2017,Prozent,Landtage,Hamburg,code02,38.8
+2018,Prozent,Landtage,Hamburg,code02,38.8
+2019,Prozent,Landtage,Hamburg,code02,38.8
+2020,Prozent,Landtage,Hamburg,code02,43.9
+2021,Prozent,Landtage,Hamburg,code02,43.9
+2022,Prozent,Landtage,Hamburg,code02,43.9
+2023,Prozent,Landtage,Hamburg,code02,43.9
+2010,Anzahl,Landtage,Hamburg,code02,40.0
+2011,Anzahl,Landtage,Hamburg,code02,47.0
+2012,Anzahl,Landtage,Hamburg,code02,47.0
+2013,Anzahl,Landtage,Hamburg,code02,47.0
+2014,Anzahl,Landtage,Hamburg,code02,47.0
+2015,Anzahl,Landtage,Hamburg,code02,47.0
+2016,Anzahl,Landtage,Hamburg,code02,47.0
+2017,Anzahl,Landtage,Hamburg,code02,47.0
+2018,Anzahl,Landtage,Hamburg,code02,47.0
+2019,Anzahl,Landtage,Hamburg,code02,47.0
+2020,Anzahl,Landtage,Hamburg,code02,54.0
+2021,Anzahl,Landtage,Hamburg,code02,54.0
+2022,Anzahl,Landtage,Hamburg,code02,54.0
+2023,Anzahl,Landtage,Hamburg,code02,54.0
+2010,Prozent,Landtage,Hessen,code06,28.0
+2011,Prozent,Landtage,Hessen,code06,28.0
+2012,Prozent,Landtage,Hessen,code06,28.0
+2013,Prozent,Landtage,Hessen,code06,31.8
+2014,Prozent,Landtage,Hessen,code06,31.8
+2015,Prozent,Landtage,Hessen,code06,31.8
+2016,Prozent,Landtage,Hessen,code06,31.8
+2017,Prozent,Landtage,Hessen,code06,31.8
+2018,Prozent,Landtage,Hessen,code06,33.6
+2019,Prozent,Landtage,Hessen,code06,33.6
+2020,Prozent,Landtage,Hessen,code06,33.6
+2021,Prozent,Landtage,Hessen,code06,33.6
+2022,Prozent,Landtage,Hessen,code06,33.6
+2023,Prozent,Landtage,Hessen,code06,33.6
+2010,Anzahl,Landtage,Hessen,code06,33.0
+2011,Anzahl,Landtage,Hessen,code06,33.0
+2012,Anzahl,Landtage,Hessen,code06,33.0
+2013,Anzahl,Landtage,Hessen,code06,35.0
+2014,Anzahl,Landtage,Hessen,code06,35.0
+2015,Anzahl,Landtage,Hessen,code06,35.0
+2016,Anzahl,Landtage,Hessen,code06,35.0
+2017,Anzahl,Landtage,Hessen,code06,35.0
+2018,Anzahl,Landtage,Hessen,code06,46.0
+2019,Anzahl,Landtage,Hessen,code06,46.0
+2020,Anzahl,Landtage,Hessen,code06,46.0
+2021,Anzahl,Landtage,Hessen,code06,46.0
+2022,Anzahl,Landtage,Hessen,code06,46.0
+2023,Anzahl,Landtage,Hessen,code06,46.0
+2010,Prozent,Landtage,Mecklenburg-Vorpommern,code13,32.4
+2011,Prozent,Landtage,Mecklenburg-Vorpommern,code13,28.2
+2012,Prozent,Landtage,Mecklenburg-Vorpommern,code13,28.2
+2013,Prozent,Landtage,Mecklenburg-Vorpommern,code13,28.2
+2014,Prozent,Landtage,Mecklenburg-Vorpommern,code13,28.2
+2015,Prozent,Landtage,Mecklenburg-Vorpommern,code13,28.2
+2016,Prozent,Landtage,Mecklenburg-Vorpommern,code13,25.4
+2017,Prozent,Landtage,Mecklenburg-Vorpommern,code13,25.4
+2018,Prozent,Landtage,Mecklenburg-Vorpommern,code13,25.4
+2019,Prozent,Landtage,Mecklenburg-Vorpommern,code13,25.4
+2020,Prozent,Landtage,Mecklenburg-Vorpommern,code13,25.4
+2021,Prozent,Landtage,Mecklenburg-Vorpommern,code13,36.7
+2022,Prozent,Landtage,Mecklenburg-Vorpommern,code13,36.7
+2023,Prozent,Landtage,Mecklenburg-Vorpommern,code13,36.7
+2010,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,23.0
+2011,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,20.0
+2012,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,20.0
+2013,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,20.0
+2014,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,20.0
+2015,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,20.0
+2016,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,18.0
+2017,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,18.0
+2018,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,18.0
+2019,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,18.0
+2020,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,18.0
+2021,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,29.0
+2022,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,29.0
+2023,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,29.0
+2010,Prozent,Landtage,Niedersachsen,code03,30.9
+2011,Prozent,Landtage,Niedersachsen,code03,30.9
+2012,Prozent,Landtage,Niedersachsen,code03,30.9
+2013,Prozent,Landtage,Niedersachsen,code03,29.2
+2014,Prozent,Landtage,Niedersachsen,code03,29.2
+2015,Prozent,Landtage,Niedersachsen,code03,29.2
+2016,Prozent,Landtage,Niedersachsen,code03,29.2
+2017,Prozent,Landtage,Niedersachsen,code03,27.7
+2018,Prozent,Landtage,Niedersachsen,code03,27.7
+2019,Prozent,Landtage,Niedersachsen,code03,27.7
+2020,Prozent,Landtage,Niedersachsen,code03,27.7
+2021,Prozent,Landtage,Niedersachsen,code03,27.7
+2022,Prozent,Landtage,Niedersachsen,code03,34.2
+2023,Prozent,Landtage,Niedersachsen,code03,34.2
+2010,Anzahl,Landtage,Niedersachsen,code03,47.0
+2011,Anzahl,Landtage,Niedersachsen,code03,47.0
+2012,Anzahl,Landtage,Niedersachsen,code03,47.0
+2013,Anzahl,Landtage,Niedersachsen,code03,40.0
+2014,Anzahl,Landtage,Niedersachsen,code03,40.0
+2015,Anzahl,Landtage,Niedersachsen,code03,40.0
+2016,Anzahl,Landtage,Niedersachsen,code03,40.0
+2017,Anzahl,Landtage,Niedersachsen,code03,38.0
+2018,Anzahl,Landtage,Niedersachsen,code03,38.0
+2019,Anzahl,Landtage,Niedersachsen,code03,38.0
+2020,Anzahl,Landtage,Niedersachsen,code03,38.0
+2021,Anzahl,Landtage,Niedersachsen,code03,38.0
+2022,Anzahl,Landtage,Niedersachsen,code03,50.0
+2023,Anzahl,Landtage,Niedersachsen,code03,50.0
+2010,Prozent,Landtage,Nordrhein-Westfalen,code05,27.1
+2011,Prozent,Landtage,Nordrhein-Westfalen,code05,27.1
+2012,Prozent,Landtage,Nordrhein-Westfalen,code05,30.0
+2013,Prozent,Landtage,Nordrhein-Westfalen,code05,30.0
+2014,Prozent,Landtage,Nordrhein-Westfalen,code05,30.0
+2015,Prozent,Landtage,Nordrhein-Westfalen,code05,30.0
+2016,Prozent,Landtage,Nordrhein-Westfalen,code05,30.0
+2017,Prozent,Landtage,Nordrhein-Westfalen,code05,27.1
+2018,Prozent,Landtage,Nordrhein-Westfalen,code05,27.1
+2019,Prozent,Landtage,Nordrhein-Westfalen,code05,27.1
+2020,Prozent,Landtage,Nordrhein-Westfalen,code05,27.1
+2021,Prozent,Landtage,Nordrhein-Westfalen,code05,27.1
+2022,Prozent,Landtage,Nordrhein-Westfalen,code05,33.8
+2023,Prozent,Landtage,Nordrhein-Westfalen,code05,33.8
+2010,Anzahl,Landtage,Nordrhein-Westfalen,code05,49.0
+2011,Anzahl,Landtage,Nordrhein-Westfalen,code05,49.0
+2012,Anzahl,Landtage,Nordrhein-Westfalen,code05,71.0
+2013,Anzahl,Landtage,Nordrhein-Westfalen,code05,71.0
+2014,Anzahl,Landtage,Nordrhein-Westfalen,code05,71.0
+2015,Anzahl,Landtage,Nordrhein-Westfalen,code05,71.0
+2016,Anzahl,Landtage,Nordrhein-Westfalen,code05,71.0
+2017,Anzahl,Landtage,Nordrhein-Westfalen,code05,54.0
+2018,Anzahl,Landtage,Nordrhein-Westfalen,code05,54.0
+2019,Anzahl,Landtage,Nordrhein-Westfalen,code05,54.0
+2020,Anzahl,Landtage,Nordrhein-Westfalen,code05,54.0
+2021,Anzahl,Landtage,Nordrhein-Westfalen,code05,54.0
+2022,Anzahl,Landtage,Nordrhein-Westfalen,code05,66.0
+2023,Anzahl,Landtage,Nordrhein-Westfalen,code05,66.0
+2010,Prozent,Landtage,Rheinland-Pfalz,code07,37.6
+2011,Prozent,Landtage,Rheinland-Pfalz,code07,41.6
+2012,Prozent,Landtage,Rheinland-Pfalz,code07,41.6
+2013,Prozent,Landtage,Rheinland-Pfalz,code07,41.6
+2014,Prozent,Landtage,Rheinland-Pfalz,code07,41.6
+2015,Prozent,Landtage,Rheinland-Pfalz,code07,41.6
+2016,Prozent,Landtage,Rheinland-Pfalz,code07,35.6
+2017,Prozent,Landtage,Rheinland-Pfalz,code07,35.6
+2018,Prozent,Landtage,Rheinland-Pfalz,code07,35.6
+2019,Prozent,Landtage,Rheinland-Pfalz,code07,35.6
+2020,Prozent,Landtage,Rheinland-Pfalz,code07,35.6
+2021,Prozent,Landtage,Rheinland-Pfalz,code07,31.7
+2022,Prozent,Landtage,Rheinland-Pfalz,code07,31.7
+2023,Prozent,Landtage,Rheinland-Pfalz,code07,31.7
+2010,Anzahl,Landtage,Rheinland-Pfalz,code07,38.0
+2011,Anzahl,Landtage,Rheinland-Pfalz,code07,42.0
+2012,Anzahl,Landtage,Rheinland-Pfalz,code07,42.0
+2013,Anzahl,Landtage,Rheinland-Pfalz,code07,42.0
+2014,Anzahl,Landtage,Rheinland-Pfalz,code07,42.0
+2015,Anzahl,Landtage,Rheinland-Pfalz,code07,42.0
+2016,Anzahl,Landtage,Rheinland-Pfalz,code07,36.0
+2017,Anzahl,Landtage,Rheinland-Pfalz,code07,36.0
+2018,Anzahl,Landtage,Rheinland-Pfalz,code07,36.0
+2019,Anzahl,Landtage,Rheinland-Pfalz,code07,36.0
+2020,Anzahl,Landtage,Rheinland-Pfalz,code07,36.0
+2021,Anzahl,Landtage,Rheinland-Pfalz,code07,32.0
+2022,Anzahl,Landtage,Rheinland-Pfalz,code07,32.0
+2023,Anzahl,Landtage,Rheinland-Pfalz,code07,32.0
+2010,Prozent,Landtage,Saarland,code10,33.3
+2011,Prozent,Landtage,Saarland,code10,33.3
+2012,Prozent,Landtage,Saarland,code10,39.2
+2013,Prozent,Landtage,Saarland,code10,39.2
+2014,Prozent,Landtage,Saarland,code10,39.2
+2015,Prozent,Landtage,Saarland,code10,39.2
+2016,Prozent,Landtage,Saarland,code10,39.2
+2017,Prozent,Landtage,Saarland,code10,35.3
+2018,Prozent,Landtage,Saarland,code10,35.3
+2019,Prozent,Landtage,Saarland,code10,35.3
+2020,Prozent,Landtage,Saarland,code10,35.3
+2021,Prozent,Landtage,Saarland,code10,35.3
+2022,Prozent,Landtage,Saarland,code10,37.3
+2023,Prozent,Landtage,Saarland,code10,37.3
+2010,Anzahl,Landtage,Saarland,code10,17.0
+2011,Anzahl,Landtage,Saarland,code10,17.0
+2012,Anzahl,Landtage,Saarland,code10,20.0
+2013,Anzahl,Landtage,Saarland,code10,20.0
+2014,Anzahl,Landtage,Saarland,code10,20.0
+2015,Anzahl,Landtage,Saarland,code10,20.0
+2016,Anzahl,Landtage,Saarland,code10,20.0
+2017,Anzahl,Landtage,Saarland,code10,18.0
+2018,Anzahl,Landtage,Saarland,code10,18.0
+2019,Anzahl,Landtage,Saarland,code10,18.0
+2020,Anzahl,Landtage,Saarland,code10,18.0
+2021,Anzahl,Landtage,Saarland,code10,18.0
+2022,Anzahl,Landtage,Saarland,code10,19.0
+2023,Anzahl,Landtage,Saarland,code10,19.0
+2010,Prozent,Landtage,Sachsen,code14,31.1
+2011,Prozent,Landtage,Sachsen,code14,31.1
+2012,Prozent,Landtage,Sachsen,code14,31.1
+2013,Prozent,Landtage,Sachsen,code14,31.1
+2014,Prozent,Landtage,Sachsen,code14,31.7
+2015,Prozent,Landtage,Sachsen,code14,31.7
+2016,Prozent,Landtage,Sachsen,code14,31.7
+2017,Prozent,Landtage,Sachsen,code14,31.7
+2018,Prozent,Landtage,Sachsen,code14,31.7
+2019,Prozent,Landtage,Sachsen,code14,27.7
+2020,Prozent,Landtage,Sachsen,code14,27.7
+2021,Prozent,Landtage,Sachsen,code14,27.7
+2022,Prozent,Landtage,Sachsen,code14,27.7
+2023,Prozent,Landtage,Sachsen,code14,27.7
+2010,Anzahl,Landtage,Sachsen,code14,41.0
+2011,Anzahl,Landtage,Sachsen,code14,41.0
+2012,Anzahl,Landtage,Sachsen,code14,41.0
+2013,Anzahl,Landtage,Sachsen,code14,41.0
+2014,Anzahl,Landtage,Sachsen,code14,40.0
+2015,Anzahl,Landtage,Sachsen,code14,40.0
+2016,Anzahl,Landtage,Sachsen,code14,40.0
+2017,Anzahl,Landtage,Sachsen,code14,40.0
+2018,Anzahl,Landtage,Sachsen,code14,40.0
+2019,Anzahl,Landtage,Sachsen,code14,33.0
+2020,Anzahl,Landtage,Sachsen,code14,33.0
+2021,Anzahl,Landtage,Sachsen,code14,33.0
+2022,Anzahl,Landtage,Sachsen,code14,33.0
+2023,Anzahl,Landtage,Sachsen,code14,33.0
+2010,Prozent,Landtage,Sachsen-Anhalt,code15,30.9
+2011,Prozent,Landtage,Sachsen-Anhalt,code15,31.4
+2012,Prozent,Landtage,Sachsen-Anhalt,code15,31.4
+2013,Prozent,Landtage,Sachsen-Anhalt,code15,31.4
+2014,Prozent,Landtage,Sachsen-Anhalt,code15,31.4
+2015,Prozent,Landtage,Sachsen-Anhalt,code15,31.4
+2016,Prozent,Landtage,Sachsen-Anhalt,code15,26.4
+2017,Prozent,Landtage,Sachsen-Anhalt,code15,26.4
+2018,Prozent,Landtage,Sachsen-Anhalt,code15,26.4
+2019,Prozent,Landtage,Sachsen-Anhalt,code15,26.4
+2020,Prozent,Landtage,Sachsen-Anhalt,code15,26.4
+2021,Prozent,Landtage,Sachsen-Anhalt,code15,27.8
+2022,Prozent,Landtage,Sachsen-Anhalt,code15,27.8
+2023,Prozent,Landtage,Sachsen-Anhalt,code15,27.8
+2010,Anzahl,Landtage,Sachsen-Anhalt,code15,30.0
+2011,Anzahl,Landtage,Sachsen-Anhalt,code15,33.0
+2012,Anzahl,Landtage,Sachsen-Anhalt,code15,33.0
+2013,Anzahl,Landtage,Sachsen-Anhalt,code15,33.0
+2014,Anzahl,Landtage,Sachsen-Anhalt,code15,33.0
+2015,Anzahl,Landtage,Sachsen-Anhalt,code15,33.0
+2016,Anzahl,Landtage,Sachsen-Anhalt,code15,23.0
+2017,Anzahl,Landtage,Sachsen-Anhalt,code15,23.0
+2018,Anzahl,Landtage,Sachsen-Anhalt,code15,23.0
+2019,Anzahl,Landtage,Sachsen-Anhalt,code15,23.0
+2020,Anzahl,Landtage,Sachsen-Anhalt,code15,23.0
+2021,Anzahl,Landtage,Sachsen-Anhalt,code15,27.0
+2022,Anzahl,Landtage,Sachsen-Anhalt,code15,27.0
+2023,Anzahl,Landtage,Sachsen-Anhalt,code15,27.0
+2010,Prozent,Landtage,Schleswig-Holstein,code01,35.8
+2011,Prozent,Landtage,Schleswig-Holstein,code01,35.8
+2012,Prozent,Landtage,Schleswig-Holstein,code01,31.9
+2013,Prozent,Landtage,Schleswig-Holstein,code01,31.9
+2014,Prozent,Landtage,Schleswig-Holstein,code01,31.9
+2015,Prozent,Landtage,Schleswig-Holstein,code01,31.9
+2016,Prozent,Landtage,Schleswig-Holstein,code01,31.9
+2017,Prozent,Landtage,Schleswig-Holstein,code01,30.1
+2018,Prozent,Landtage,Schleswig-Holstein,code01,30.1
+2019,Prozent,Landtage,Schleswig-Holstein,code01,30.1
+2020,Prozent,Landtage,Schleswig-Holstein,code01,30.1
+2021,Prozent,Landtage,Schleswig-Holstein,code01,30.1
+2022,Prozent,Landtage,Schleswig-Holstein,code01,37.7
+2023,Prozent,Landtage,Schleswig-Holstein,code01,37.7
+2010,Anzahl,Landtage,Schleswig-Holstein,code01,34.0
+2011,Anzahl,Landtage,Schleswig-Holstein,code01,34.0
+2012,Anzahl,Landtage,Schleswig-Holstein,code01,22.0
+2013,Anzahl,Landtage,Schleswig-Holstein,code01,22.0
+2014,Anzahl,Landtage,Schleswig-Holstein,code01,22.0
+2015,Anzahl,Landtage,Schleswig-Holstein,code01,22.0
+2016,Anzahl,Landtage,Schleswig-Holstein,code01,22.0
+2017,Anzahl,Landtage,Schleswig-Holstein,code01,22.0
+2018,Anzahl,Landtage,Schleswig-Holstein,code01,22.0
+2019,Anzahl,Landtage,Schleswig-Holstein,code01,22.0
+2020,Anzahl,Landtage,Schleswig-Holstein,code01,22.0
+2021,Anzahl,Landtage,Schleswig-Holstein,code01,22.0
+2022,Anzahl,Landtage,Schleswig-Holstein,code01,26.0
+2023,Anzahl,Landtage,Schleswig-Holstein,code01,26.0
+2010,Prozent,Landtage,Thüringen,code16,26.1
+2011,Prozent,Landtage,Thüringen,code16,26.1
+2012,Prozent,Landtage,Thüringen,code16,26.1
+2013,Prozent,Landtage,Thüringen,code16,26.1
+2014,Prozent,Landtage,Thüringen,code16,38.5
+2015,Prozent,Landtage,Thüringen,code16,38.5
+2016,Prozent,Landtage,Thüringen,code16,38.5
+2017,Prozent,Landtage,Thüringen,code16,38.5
+2018,Prozent,Landtage,Thüringen,code16,38.5
+2019,Prozent,Landtage,Thüringen,code16,31.1
+2020,Prozent,Landtage,Thüringen,code16,31.1
+2021,Prozent,Landtage,Thüringen,code16,31.1
+2022,Prozent,Landtage,Thüringen,code16,31.1
+2023,Prozent,Landtage,Thüringen,code16,31.1
+2010,Anzahl,Landtage,Thüringen,code16,34.0
+2011,Anzahl,Landtage,Thüringen,code16,34.0
+2012,Anzahl,Landtage,Thüringen,code16,34.0
+2013,Anzahl,Landtage,Thüringen,code16,34.0
+2014,Anzahl,Landtage,Thüringen,code16,35.0
+2015,Anzahl,Landtage,Thüringen,code16,35.0
+2016,Anzahl,Landtage,Thüringen,code16,35.0
+2017,Anzahl,Landtage,Thüringen,code16,35.0
+2018,Anzahl,Landtage,Thüringen,code16,35.0
+2019,Anzahl,Landtage,Thüringen,code16,28.0
+2020,Anzahl,Landtage,Thüringen,code16,28.0
+2021,Anzahl,Landtage,Thüringen,code16,28.0
+2022,Anzahl,Landtage,Thüringen,code16,28.0
+2023,Anzahl,Landtage,Thüringen,code16,28.0
+2010,Prozent,Landtage,,,31.768
+2011,Prozent,Landtage,,,31.651
+2012,Prozent,Landtage,,,31.832
+2013,Prozent,Landtage,,,31.809
+2014,Prozent,Landtage,,,32.364
+2015,Prozent,Landtage,,,31.933
+2016,Prozent,Landtage,,,31.59
+2017,Prozent,Landtage,,,31.027
+2018,Prozent,Landtage,,,30.86
+2019,Prozent,Landtage,,,30.439
+2020,Prozent,Landtage,,,30.782
+2021,Prozent,Landtage,,,31.804
+2022,Prozent,Landtage,,,33.316
+2023,Prozent,Landtage,,,33.316
+2010,Anzahl,Landtage,,,602.0
+2011,Anzahl,Landtage,,,602.0
+2012,Anzahl,Landtage,,,615.0
+2013,Anzahl,Landtage,,,605.0
+2014,Anzahl,Landtage,,,601.0
+2015,Anzahl,Landtage,,,593.0
+2016,Anzahl,Landtage,,,586.0
+2017,Anzahl,Landtage,,,565.0
+2018,Anzahl,Landtage,,,578.0
+2019,Anzahl,Landtage,,,568.0
+2020,Anzahl,Landtage,,,575.0
+2021,Anzahl,Landtage,,,603.0
+2022,Anzahl,Landtage,,,632.0
+2023,Anzahl,Landtage,,,632.0
+2010,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,
+2011,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,26.1
+2012,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,26.1
+2013,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,26.1
+2014,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,26.1
+2015,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,27.1
+2016,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,27.1
+2017,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,27.0
+2018,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,27.0
+2019,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,27.8
+2020,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,27.8
+2021,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,30.3
+2022,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,30.3
+2023,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,30.3

@@ -16,25 +16,36 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Frauenanteil im Deutschen Bundestag",
-                "Frauenanteil im Bundesrat",
-                "Frauenanteil in den Landtagen",
-                "Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten",
+                "Prozent",
+                "Anzahl",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Units"
           },
           {
-            "name": "region",
+            "name": "political institutions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutschland",
+                "Deutscher Bundestag",
+                "Bundesrat",
+                "Landtage",
+                "Kreistage und Stadträte von kreisfreien Städten",
+                ""
+              ]
+            },
+            "title": "Politische Institutionen"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
@@ -54,7 +65,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

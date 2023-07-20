@@ -1898,7 +1898,7 @@
             "title": "Jahr"
           },
           {
-            "name": "household expenditures on health",
+            "name": "share of household expenditure spent on health care",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1907,7 +1907,7 @@
                 ""
               ]
             },
-            "title": "Haushaltsausgaben für Gesundheit"
+            "title": "Anteil der Haushaltsausgaben, der für Gesundheit aufgewendet wird"
           },
           {
             "name": "Value",
@@ -2051,12 +2051,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -2079,7 +2079,7 @@
             "title": "Jahr"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2102,7 +2102,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -2132,18 +2132,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
           },
           {
             "name": "Value",
@@ -3959,7 +3947,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3982,7 +3970,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -5192,25 +5180,36 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Frauenanteil im Deutschen Bundestag",
-                "Frauenanteil im Bundesrat",
-                "Frauenanteil in den Landtagen",
-                "Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten",
+                "Prozent",
+                "Anzahl",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Units"
           },
           {
-            "name": "region",
+            "name": "political institutions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutschland",
+                "Deutscher Bundestag",
+                "Bundesrat",
+                "Landtage",
+                "Kreistage und Stadträte von kreisfreien Städten",
+                ""
+              ]
+            },
+            "title": "Politische Institutionen"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
@@ -5230,7 +5229,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -6583,7 +6582,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6606,7 +6605,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -6924,7 +6923,7 @@
             "title": "Jahr"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6947,7 +6946,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -8041,8 +8040,10 @@
             "constraints": {
               "enum": [
                 "SDG-Indikator 4.2.2",
-                "SDG-Indikator 4.3.1 (Jugendliche)",
-                "SDG-Indikator 4.3.1 (Erwachsene)",
+                "SDG-Indikator 4.3.1 (15 bis unter 25 Jahre)",
+                "SDG-Indikator 4.3.1 (15 bis unter 65 Jahre)",
+                "SDG-Indikator 4.3.1 (25 bis unter 55 Jahre)",
+                "SDG-Indikator 4.3.1 (55 bis unter 65 Jahre)",
                 ""
               ]
             },
@@ -8992,12 +8993,26 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
                 "15 bis unter 25 Jahre",
-                "25 bis unter 65 Jahre",
+                "15 bis unter 65 Jahre",
+                "25 bis unter 55 Jahre",
+                "55 bis unter 65 Jahre",
                 ""
               ]
             },
@@ -9481,7 +9496,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9504,7 +9519,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

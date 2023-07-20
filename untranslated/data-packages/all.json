@@ -1742,7 +1742,7 @@
             "type": "integer"
           },
           {
-            "name": "household expenditures on health",
+            "name": "share of household expenditure spent on health care",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1883,11 +1883,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -1908,7 +1908,7 @@
             "type": "integer"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1957,17 +1957,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3635,7 +3624,7 @@
             }
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4768,24 +4757,34 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of women in the german bundestag (lower chamber)",
-                "proportion of women in the bundesrat (upper chamber)",
-                "proportion of women in länder parliaments",
-                "proportion of women in councils of districts and district-free cities",
+                "percentage",
+                "number",
                 ""
               ]
             }
           },
           {
-            "name": "region",
+            "name": "political institutions",
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
+                "bundestag (lower chamber)",
+                "bundesrat (upper chamber)",
+                "länder parliaments",
+                "councils of districts and district-free cities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "baden-württemberg",
                 "bavaria",
                 "berlin",
@@ -6044,7 +6043,7 @@
             }
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6357,7 +6356,7 @@
             "type": "integer"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7383,8 +7382,10 @@
             "constraints": {
               "enum": [
                 "sdg indicator 4.2.2",
-                "sdg-indicator 4.3.1 (youths)",
-                "sdg-indicator 4.3.1 (adults)",
+                "sdg-indicator 4.3.1 (15 to under 25 years)",
+                "sdg-indicator 4.3.1 (15 to under 65 years)",
+                "sdg-indicator 4.3.1 (25 to under 55 years)",
+                "sdg-indicator 4.3.1 (55 to under 65 years)",
                 ""
               ]
             }
@@ -8256,12 +8257,25 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "number",
+                ""
+              ]
+            }
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
                 "15 to under 25 years",
-                "25 to under 65 years",
+                "15 to under 65 years",
+                "25 to under 55 years",
+                "55 to under 65 years",
                 ""
               ]
             }
@@ -8704,7 +8718,7 @@
             }
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [

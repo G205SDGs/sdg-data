@@ -37,7 +37,7 @@
             }
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [

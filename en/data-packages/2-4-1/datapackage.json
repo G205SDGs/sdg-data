@@ -28,7 +28,7 @@
             "title": "Time series"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -51,7 +51,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",

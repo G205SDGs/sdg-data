@@ -1898,7 +1898,7 @@
             "title": "Year"
           },
           {
-            "name": "household expenditures on health",
+            "name": "share of household expenditure spent on health care",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1907,7 +1907,7 @@
                 ""
               ]
             },
-            "title": "Household expenditures on health"
+            "title": "Share of household expenditure spent on health care"
           },
           {
             "name": "Value",
@@ -2051,12 +2051,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2079,7 +2079,7 @@
             "title": "Year"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2102,7 +2102,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -2132,18 +2132,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
           },
           {
             "name": "Value",
@@ -3959,7 +3947,7 @@
             "title": "Sex"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3982,7 +3970,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -5192,25 +5180,36 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women in the German Bundestag (lower chamber)",
-                "Proportion of women in the Bundesrat (upper chamber)",
-                "Proportion of women in Länder parliaments",
-                "Proportion of women in councils of districts and district-free cities",
+                "Percentage",
+                "Number",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Units"
           },
           {
-            "name": "region",
+            "name": "political institutions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany",
+                "Bundestag (Lower chamber)",
+                "Bundesrat (upper chamber)",
+                "Länder parliaments",
+                "Councils of districts and district-free cities",
+                ""
+              ]
+            },
+            "title": "Political institutions"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Baden-Württemberg",
                 "Bavaria",
                 "Berlin",
@@ -5230,7 +5229,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -6583,7 +6582,7 @@
             "title": "Time series"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6606,7 +6605,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -6924,7 +6923,7 @@
             "title": "Year"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6947,7 +6946,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -8041,8 +8040,10 @@
             "constraints": {
               "enum": [
                 "SDG indicator 4.2.2",
-                "SDG-Indicator 4.3.1 (Youths)",
-                "SDG-Indicator 4.3.1 (Adults)",
+                "SDG-Indicator 4.3.1 (15 to under 25 years)",
+                "SDG-Indicator 4.3.1 (15 to under 65 years)",
+                "SDG-Indicator 4.3.1 (25 to under 55 years)",
+                "SDG-Indicator 4.3.1 (55 to under 65 years)",
                 ""
               ]
             },
@@ -8992,12 +8993,26 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
                 "15 to under 25 years",
-                "25 to under 65 years",
+                "15 to under 65 years",
+                "25 to under 55 years",
+                "55 to under 65 years",
                 ""
               ]
             },
@@ -9481,7 +9496,7 @@
             "title": "Time series"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9504,7 +9519,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",

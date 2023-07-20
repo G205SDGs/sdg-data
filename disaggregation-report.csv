@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 activities,1,8
-age group,16,32
+age group,16,34
 age of mother,1,2
 area of law,1,4
 area2,3,4
@@ -18,25 +18,26 @@ fields of work,1,4
 fine particulate matter,1,2
 form of abuse,1,2
 form of exploitation,1,2
-household expenditures on health,1,2
-indicator,1,3
+indicator,1,5
 legislation,1,10
 level of court,1,3
 level of proficiency,1,2
 level of risk of extinction,1,5
+länder,6,16
 mode of transport,1,6
 outcome of the application process,1,2
 ownership,1,2
 pathogens and resistance,1,2
 percentiles,1,7
 policy area,1,6
+political institutions,1,4
 population,1,2
 presentation,1,2
 profession,1,4
-region,6,17
 sea,1,2
 sector,1,2
 sex,31,4
+share of household expenditure spent on health care,1,2
 skill,1,2
 speed,1,5
 standard accounting system,1,2
@@ -46,7 +47,7 @@ technology sectors,1,2
 technology,1,3
 thematic area,1,4
 time series,2,5
-timeseries,53,146
+timeseries,52,142
 treatment,1,2
 type of account,1,2
 type of biomass,1,3

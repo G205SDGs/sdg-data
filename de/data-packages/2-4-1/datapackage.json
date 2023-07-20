@@ -28,7 +28,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -51,7 +51,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

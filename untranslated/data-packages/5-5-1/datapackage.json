@@ -15,24 +15,34 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of women in the german bundestag (lower chamber)",
-                "proportion of women in the bundesrat (upper chamber)",
-                "proportion of women in länder parliaments",
-                "proportion of women in councils of districts and district-free cities",
+                "percentage",
+                "number",
                 ""
               ]
             }
           },
           {
-            "name": "region",
+            "name": "political institutions",
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
+                "bundestag (lower chamber)",
+                "bundesrat (upper chamber)",
+                "länder parliaments",
+                "councils of districts and district-free cities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "baden-württemberg",
                 "bavaria",
                 "berlin",
