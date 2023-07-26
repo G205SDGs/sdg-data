@@ -13,20 +13,20 @@ Year,Units,Political institutions,Länder,GeoCode,Value
 2021,Percentage,Bundestag (Lower chamber),,,31.5
 2022,Percentage,Bundestag (Lower chamber),,,34.9
 2023,Percentage,Bundestag (Lower chamber),,,35.1
-2010,Number,Bundestag (Lower chamber),,,622.0
-2011,Number,Bundestag (Lower chamber),,,622.0
-2012,Number,Bundestag (Lower chamber),,,620.0
-2013,Number,Bundestag (Lower chamber),,,620.0
-2014,Number,Bundestag (Lower chamber),,,631.0
-2015,Number,Bundestag (Lower chamber),,,631.0
-2016,Number,Bundestag (Lower chamber),,,630.0
-2017,Number,Bundestag (Lower chamber),,,630.0
-2018,Number,Bundestag (Lower chamber),,,709.0
-2019,Number,Bundestag (Lower chamber),,,709.0
-2020,Number,Bundestag (Lower chamber),,,709.0
-2021,Number,Bundestag (Lower chamber),,,709.0
-2022,Number,Bundestag (Lower chamber),,,736.0
-2023,Number,Bundestag (Lower chamber),,,736.0
+2010,Number,Bundestag (Lower chamber),,,204.0
+2011,Number,Bundestag (Lower chamber),,,206.0
+2012,Number,Bundestag (Lower chamber),,,204.0
+2013,Number,Bundestag (Lower chamber),,,204.0
+2014,Number,Bundestag (Lower chamber),,,230.0
+2015,Number,Bundestag (Lower chamber),,,229.0
+2016,Number,Bundestag (Lower chamber),,,232.0
+2017,Number,Bundestag (Lower chamber),,,234.0
+2018,Number,Bundestag (Lower chamber),,,219.0
+2019,Number,Bundestag (Lower chamber),,,221.0
+2020,Number,Bundestag (Lower chamber),,,222.0
+2021,Number,Bundestag (Lower chamber),,,223.0
+2022,Number,Bundestag (Lower chamber),,,257.0
+2023,Number,Bundestag (Lower chamber),,,258.0
 2010,Percentage,Bundesrat (upper chamber),,,18.8
 2011,Percentage,Bundesrat (upper chamber),,,24.6
 2012,Percentage,Bundesrat (upper chamber),,,27.5
@@ -96,7 +96,7 @@ Year,Units,Political institutions,Länder,GeoCode,Value
 2020,Percentage,Länder parliaments,Bavaria,code09,26.8
 2021,Percentage,Länder parliaments,Bavaria,code09,26.8
 2022,Percentage,Länder parliaments,Bavaria,code09,26.8
-2023,Percentage,Länder parliaments,Bavaria,code09,26.8
+2023,Percentage,Länder parliaments,Bavaria,code09,
 2010,Number,Länder parliaments,Bavaria,code09,58.0
 2011,Number,Länder parliaments,Bavaria,code09,58.0
 2012,Number,Länder parliaments,Bavaria,code09,58.0
@@ -110,7 +110,7 @@ Year,Units,Political institutions,Länder,GeoCode,Value
 2020,Number,Länder parliaments,Bavaria,code09,55.0
 2021,Number,Länder parliaments,Bavaria,code09,55.0
 2022,Number,Länder parliaments,Bavaria,code09,55.0
-2023,Number,Länder parliaments,Bavaria,code09,55.0
+2023,Number,Länder parliaments,Bavaria,code09,
 2010,Percentage,Länder parliaments,Berlin,code11,39.6
 2011,Percentage,Länder parliaments,Berlin,code11,34.9
 2012,Percentage,Länder parliaments,Berlin,code11,34.9
@@ -180,7 +180,7 @@ Year,Units,Political institutions,Länder,GeoCode,Value
 2020,Percentage,Länder parliaments,Bremen,code04,40.5
 2021,Percentage,Länder parliaments,Bremen,code04,40.5
 2022,Percentage,Länder parliaments,Bremen,code04,40.5
-2023,Percentage,Länder parliaments,Bremen,code04,40.5
+2023,Percentage,Länder parliaments,Bremen,code04,42.5
 2010,Number,Länder parliaments,Bremen,code04,32.0
 2011,Number,Länder parliaments,Bremen,code04,36.0
 2012,Number,Länder parliaments,Bremen,code04,36.0
@@ -194,7 +194,7 @@ Year,Units,Political institutions,Länder,GeoCode,Value
 2020,Number,Länder parliaments,Bremen,code04,34.0
 2021,Number,Länder parliaments,Bremen,code04,34.0
 2022,Number,Länder parliaments,Bremen,code04,34.0
-2023,Number,Länder parliaments,Bremen,code04,34.0
+2023,Number,Länder parliaments,Bremen,code04,37.0
 2010,Percentage,Länder parliaments,Hamburg,code02,33.1
 2011,Percentage,Länder parliaments,Hamburg,code02,38.8
 2012,Percentage,Länder parliaments,Hamburg,code02,38.8
@@ -236,7 +236,7 @@ Year,Units,Political institutions,Länder,GeoCode,Value
 2020,Percentage,Länder parliaments,Hesse,code06,33.6
 2021,Percentage,Länder parliaments,Hesse,code06,33.6
 2022,Percentage,Länder parliaments,Hesse,code06,33.6
-2023,Percentage,Länder parliaments,Hesse,code06,33.6
+2023,Percentage,Länder parliaments,Hesse,code06,
 2010,Number,Länder parliaments,Hesse,code06,33.0
 2011,Number,Länder parliaments,Hesse,code06,33.0
 2012,Number,Länder parliaments,Hesse,code06,33.0
@@ -250,7 +250,7 @@ Year,Units,Political institutions,Länder,GeoCode,Value
 2020,Number,Länder parliaments,Hesse,code06,46.0
 2021,Number,Länder parliaments,Hesse,code06,46.0
 2022,Number,Länder parliaments,Hesse,code06,46.0
-2023,Number,Länder parliaments,Hesse,code06,46.0
+2023,Number,Länder parliaments,Hesse,code06,
 2010,Percentage,Länder parliaments,Mecklenburg Western Pomerania,code13,32.4
 2011,Percentage,Länder parliaments,Mecklenburg Western Pomerania,code13,28.2
 2012,Percentage,Länder parliaments,Mecklenburg Western Pomerania,code13,28.2
