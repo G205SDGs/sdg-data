@@ -72,7 +72,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-7-2,age of mother,1
 #3-8-2,share of household expenditure spent on health care,1
 #3-9-1,type of disease,1
-#3-9-2,"sex, age group, type of disease",3
+#3-9-2,"sex, type of disease, age group",3
 #3-a-1,"timeseries, sex",2
 #3-b-1,"timeseries, sex",2
 #3-c-1,profession,1

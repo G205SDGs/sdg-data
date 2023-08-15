@@ -25,18 +25,18 @@ Year,Units,timeseries,presentation,Value
 2020,2015 = 100,proportion of settlement and transport areas to population,annual values,101.097
 2021,2015 = 100,proportion of settlement and transport areas to population,annual values,101.42
 2022,2015 = 100,proportion of settlement and transport areas to population,annual values,
-2010,percentage,land consumption rate,annual values,0.604
-2011,percentage,land consumption rate,annual values,0.591
-2012,percentage,land consumption rate,annual values,0.902
-2013,percentage,land consumption rate,annual values,0.489
-2014,percentage,land consumption rate,annual values,0.473
-2015,percentage,land consumption rate,annual values,0.612
-2016,percentage,land consumption rate,annual values,0.351
-2017,percentage,land consumption rate,annual values,0.382
-2018,percentage,land consumption rate,annual values,0.509
-2019,percentage,land consumption rate,annual values,0.634
-2020,percentage,land consumption rate,annual values,0.33
-2021,percentage,land consumption rate,annual values,0.426
+2010,percentage,land consumption rate,annual values,0.591
+2011,percentage,land consumption rate,annual values,0.902
+2012,percentage,land consumption rate,annual values,0.489
+2013,percentage,land consumption rate,annual values,0.473
+2014,percentage,land consumption rate,annual values,0.612
+2015,percentage,land consumption rate,annual values,0.351
+2016,percentage,land consumption rate,annual values,0.382
+2017,percentage,land consumption rate,annual values,0.509
+2018,percentage,land consumption rate,annual values,0.634
+2019,percentage,land consumption rate,annual values,0.33
+2020,percentage,land consumption rate,annual values,0.426
+2021,percentage,land consumption rate,annual values,0.419
 2022,percentage,land consumption rate,annual values,
 2010,percentage,population growth rate,annual values,-0.155
 2011,percentage,population growth rate,annual values,0.132
@@ -87,7 +87,7 @@ Year,Units,timeseries,presentation,Value
 2017,percentage,land consumption rate,moving four-year average,0.464
 2018,percentage,land consumption rate,moving four-year average,0.469
 2019,percentage,land consumption rate,moving four-year average,0.464
-2020,percentage,land consumption rate,moving four-year average,0.474
+2020,percentage,land consumption rate,moving four-year average,0.475
 2021,percentage,land consumption rate,moving four-year average,0.452
 2022,percentage,land consumption rate,moving four-year average,
 2010,percentage,population growth rate,moving four-year average,
