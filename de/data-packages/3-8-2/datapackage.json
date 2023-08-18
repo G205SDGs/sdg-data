@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "share of household expenditure spent on health care",
+            "name": "proportion of household expenditures on health",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Anteil der Haushaltsausgaben, der für Gesundheit aufgewendet wird"
+            "title": "Anteil der Haushaltsausgaben für Gesundheit"
           },
           {
             "name": "Value",

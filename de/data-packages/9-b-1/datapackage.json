@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medium-Hightech",
-                "Hightech",
+                "Medium-High-Tech",
+                "High-Tech",
                 ""
               ]
             },

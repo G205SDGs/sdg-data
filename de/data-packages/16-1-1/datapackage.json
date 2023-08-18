@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Je 100 000 Einwohner/ -innen",
+                "Je 100 000 Einwohner/-innen",
                 "Anzahl",
                 ""
               ]
@@ -65,5 +65,5 @@
   ],
   "profile": "data-package",
   "name": "16-1-1",
-  "title": "Anzahl der Opfer vorsätzlicher Tötung je 100&nbsp;000 Einwohner/ -innen, nach Geschlecht und Alter"
+  "title": "Anzahl der Opfer vorsätzlicher Tötung je 100&nbsp;000 Einwohner/-innen, nach Geschlecht und Alter"
 }

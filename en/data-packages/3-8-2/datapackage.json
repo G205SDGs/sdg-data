@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "share of household expenditure spent on health care",
+            "name": "proportion of household expenditures on health",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Share of household expenditure spent on health care"
+            "title": "Proportion of household expenditures on health"
           },
           {
             "name": "Value",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Organically farmed agricultural land (data from the Federal Statistical Office)",
-                "Organically farmed agricultural land (data from the Federal Ministry of Food and Agriculture)",
+                "Data from the Federal Statistical Office",
+                "Data from the Federal Ministry of Food and Agriculture",
                 ""
               ]
             },

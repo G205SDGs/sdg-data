@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)",
-                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)",
+                "Daten des Statistischen Bundesamtes",
+                "Daten des BMEL",
                 ""
               ]
             },
