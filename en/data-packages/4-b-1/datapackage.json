@@ -28,12 +28,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) for scholarships",
-                "ODA (gross disbursements) for imputed student costs",
+                "Scholarships",
+                "Imputed student costs",
                 ""
               ]
             },

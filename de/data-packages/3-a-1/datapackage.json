@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tabakkonsum in der Bevölkerung ab 15 Jahren",
-                "Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)",
+                "Tabakkonsum",
+                "Tabakkonsum (altersstandardisiert auf die WHO-Standardbevölkerung)",
                 ""
               ]
             },

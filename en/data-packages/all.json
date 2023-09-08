@@ -807,12 +807,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (commitments) for poverty reduction",
-                "ODA (gross disbursements) for poverty reduction",
+                "ODA (commitments)",
+                "ODA (gross disbursements)",
                 ""
               ]
             },
@@ -1019,7 +1019,7 @@
             "title": "Units"
           },
           {
-            "name": "political institutions",
+            "name": "political institution",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1030,7 +1030,7 @@
                 ""
               ]
             },
-            "title": "Political institutions"
+            "title": "Political institution"
           },
           {
             "name": "länder",
@@ -1180,7 +1180,7 @@
             "constraints": {
               "enum": [
                 "Percentage",
-                "1 000",
+                "number in 1,000",
                 ""
               ]
             },
@@ -2396,12 +2396,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) for aid for trade",
-                "ODA and OOF (gross disbursement) for aid for trade",
+                "ODA and OOF (commitments)",
+                "ODA and OOF (gross disbursements)",
                 ""
               ]
             },
@@ -3360,8 +3360,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Current tobacco use among persons aged 15 years and older",
-                "Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)",
+                "Current tobacco use",
+                "Current tobacco use (age-standardised to WHO Standard Population)",
                 ""
               ]
             },
@@ -4100,12 +4100,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) for water and sanitation",
-                "ODA (gross disbursements) for other related purposes",
+                "Water and sanitation",
+                "Other related purposes",
                 ""
               ]
             },
@@ -4482,12 +4482,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) for scholarships",
-                "ODA (gross disbursements) for imputed student costs",
+                "Scholarships",
+                "Imputed student costs",
                 ""
               ]
             },
@@ -4972,7 +4972,7 @@
             "title": "Year"
           },
           {
-            "name": "percentiles",
+            "name": "percentile",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4986,7 +4986,7 @@
                 ""
               ]
             },
-            "title": "Percentiles"
+            "title": "Percentile"
           },
           {
             "name": "sex",
@@ -5449,12 +5449,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) to strengthen statistical capacity",
-                "ODA and OOF (gross disbursements) to strengthen statistical capacity",
+                "ODA and OOF (commitments)",
+                "ODA and OOF (gross disbursements)",
                 ""
               ]
             },
@@ -5497,12 +5497,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)",
-                "ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)",
+                "ODA and OOF (commitments)",
+                "ODA and OOF (gross disbursements)",
                 ""
               ]
             },
@@ -7264,34 +7264,6 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Number",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "country of citizenship",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Afghanistan",
-                "Iraq",
-                "Iran",
-                "Russian Federation",
-                "Syria",
-                "Turkey",
-                ""
-              ]
-            },
-            "title": "Country of citizenship"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -8683,6 +8655,18 @@
             "title": "Year"
           },
           {
+            "name": "enterprise definition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Legal entities",
+                "EU enterprise definition",
+                ""
+              ]
+            },
+            "title": "Enterprise definition"
+          },
+          {
             "name": "technology sectors",
             "type": "string",
             "constraints": {
@@ -8696,7 +8680,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -8779,12 +8763,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (gross disbursements) to infrastructure",
-                "ODA (gross disbursements) to infrastructure",
+                "ODA and OOF (gross disbursements)",
+                "ODA (gross disbursements)",
                 ""
               ]
             },
@@ -9408,7 +9392,7 @@
                 "Billion EUR",
                 "Million hours",
                 "2015 = 100",
-                "1 000",
+                "number in 1,000",
                 ""
               ]
             },

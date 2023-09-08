@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "percentiles",
+            "name": "percentile",
             "type": "string",
             "constraints": {
               "enum": [

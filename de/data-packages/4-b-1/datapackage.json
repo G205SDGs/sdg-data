@@ -28,12 +28,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) für Stipendien",
-                "Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten",
+                "Stipendien",
+                "Kalkulatorische Studienplatzkosten",
                 ""
               ]
             },

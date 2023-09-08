@@ -9,8 +9,8 @@ Year,Units,Time series,Value
 2017,Percentage,Annual growth rate of real GDP,2.7
 2018,Percentage,Annual growth rate of real GDP,1.0
 2019,Percentage,Annual growth rate of real GDP,1.1
-2020,Percentage,Annual growth rate of real GDP,-3.7
-2021,Percentage,Annual growth rate of real GDP,2.6
+2020,Percentage,Annual growth rate of real GDP,-3.8
+2021,Percentage,Annual growth rate of real GDP,3.2
 2022,Percentage,Annual growth rate of real GDP,1.8
 2010,Billion EUR,Available income of private households,1525.6
 2011,Billion EUR,Available income of private households,1577.6
@@ -21,10 +21,10 @@ Year,Units,Time series,Value
 2016,Billion EUR,Available income of private households,1784.9
 2017,Billion EUR,Available income of private households,1844.5
 2018,Billion EUR,Available income of private households,1920.3
-2019,Billion EUR,Available income of private households,1960.5
-2020,Billion EUR,Available income of private households,1988.9
-2021,Billion EUR,Available income of private households,2031.2
-2022,Billion EUR,Available income of private households,2176.8
+2019,Billion EUR,Available income of private households,1961.2
+2020,Billion EUR,Available income of private households,1987.0
+2021,Billion EUR,Available income of private households,2035.6
+2022,Billion EUR,Available income of private households,2164.5
 2010,Billion EUR,Consumption by private households,1372.9
 2011,Billion EUR,Consumption by private households,1423.6
 2012,Billion EUR,Consumption by private households,1465.9
@@ -34,10 +34,10 @@ Year,Units,Time series,Value
 2016,Billion EUR,Consumption by private households,1608.2
 2017,Billion EUR,Consumption by private households,1654.6
 2018,Billion EUR,Consumption by private households,1703.4
-2019,Billion EUR,Consumption by private households,1754.0
-2020,Billion EUR,Consumption by private households,1659.6
-2021,Billion EUR,Consumption by private households,1718.1
-2022,Billion EUR,Consumption by private households,1924.3
+2019,Billion EUR,Consumption by private households,1752.9
+2020,Billion EUR,Consumption by private households,1654.5
+2021,Billion EUR,Consumption by private households,1730.7
+2022,Billion EUR,Consumption by private households,1921.6
 2010,Billion EUR,Debts of the total public budget,2011.7
 2011,Billion EUR,Debts of the total public budget,2025.4
 2012,Billion EUR,Debts of the total public budget,2068.3
@@ -49,8 +49,8 @@ Year,Units,Time series,Value
 2018,Billion EUR,Debts of the total public budget,1915.8
 2019,Billion EUR,Debts of the total public budget,1899.1
 2020,Billion EUR,Debts of the total public budget,2172.9
-2021,Billion EUR,Debts of the total public budget,2321.1
-2022,Billion EUR,Debts of the total public budget,
+2021,Billion EUR,Debts of the total public budget,2321.0
+2022,Billion EUR,Debts of the total public budget,2368.0
 2010,Billion EUR,Government fiscal balance,-112.3
 2011,Billion EUR,Government fiscal balance,-23.7
 2012,Billion EUR,Government fiscal balance,0.3
@@ -60,10 +60,10 @@ Year,Units,Time series,Value
 2016,Billion EUR,Government fiscal balance,36.4
 2017,Billion EUR,Government fiscal balance,43.7
 2018,Billion EUR,Government fiscal balance,65.6
-2019,Billion EUR,Government fiscal balance,53.2
-2020,Billion EUR,Government fiscal balance,-147.6
-2021,Billion EUR,Government fiscal balance,-134.3
-2022,Billion EUR,Government fiscal balance,-106.0
+2019,Billion EUR,Government fiscal balance,53.0
+2020,Billion EUR,Government fiscal balance,-147.7
+2021,Billion EUR,Government fiscal balance,-129.7
+2022,Billion EUR,Government fiscal balance,-96.9
 2010,Billion EUR,Gross fixed capital formation,501.1
 2011,Billion EUR,Gross fixed capital formation,548.7
 2012,Billion EUR,Gross fixed capital formation,557.9
@@ -73,10 +73,10 @@ Year,Units,Time series,Value
 2016,Billion EUR,Gross fixed capital formation,636.3
 2017,Billion EUR,Gross fixed capital formation,666.9
 2018,Billion EUR,Gross fixed capital formation,708.9
-2019,Billion EUR,Gross fixed capital formation,742.4
-2020,Billion EUR,Gross fixed capital formation,736.1
-2021,Billion EUR,Gross fixed capital formation,783.8
-2022,Billion EUR,Gross fixed capital formation,872.4
+2019,Billion EUR,Gross fixed capital formation,740.5
+2020,Billion EUR,Gross fixed capital formation,733.2
+2021,Billion EUR,Gross fixed capital formation,770.5
+2022,Billion EUR,Gross fixed capital formation,856.2
 2010,Million hours,Hours worked by employees,49314.0
 2011,Million hours,Hours worked by employees,50102.0
 2012,Million hours,Hours worked by employees,50100.0
@@ -86,10 +86,10 @@ Year,Units,Time series,Value
 2016,Million hours,Hours worked by employees,52451.0
 2017,Million hours,Hours worked by employees,53219.0
 2018,Million hours,Hours worked by employees,53876.0
-2019,Million hours,Hours worked by employees,54259.0
-2020,Million hours,Hours worked by employees,52128.0
-2021,Million hours,Hours worked by employees,53141.0
-2022,Million hours,Hours worked by employees,53942.0
+2019,Million hours,Hours worked by employees,54304.1
+2020,Million hours,Hours worked by employees,52000.3
+2021,Million hours,Hours worked by employees,53517.7
+2022,Million hours,Hours worked by employees,54316.7
 2010,Million hours,Hours worked by persons employed,58524.0
 2011,Million hours,Hours worked by persons employed,59279.0
 2012,Million hours,Hours worked by persons employed,59162.0
@@ -99,10 +99,10 @@ Year,Units,Time series,Value
 2016,Million hours,Hours worked by persons employed,60933.0
 2017,Million hours,Hours worked by persons employed,61471.0
 2018,Million hours,Hours worked by persons employed,61945.0
-2019,Million hours,Hours worked by persons employed,62127.0
-2020,Million hours,Hours worked by persons employed,59249.0
-2021,Million hours,Hours worked by persons employed,60281.0
-2022,Million hours,Hours worked by persons employed,61078.0
+2019,Million hours,Hours worked by persons employed,62168.0
+2020,Million hours,Hours worked by persons employed,59104.0
+2021,Million hours,Hours worked by persons employed,60623.0
+2022,Million hours,Hours worked by persons employed,61410.0
 2010,2015 = 100,Labour productivity per hour worked by employee,96.5
 2011,2015 = 100,Labour productivity per hour worked by employee,98.7
 2012,2015 = 100,Labour productivity per hour worked by employee,99.1
@@ -112,10 +112,10 @@ Year,Units,Time series,Value
 2016,2015 = 100,Labour productivity per hour worked by employee,100.9
 2017,2015 = 100,Labour productivity per hour worked by employee,102.1
 2018,2015 = 100,Labour productivity per hour worked by employee,101.8
-2019,2015 = 100,Labour productivity per hour worked by employee,102.2
-2020,2015 = 100,Labour productivity per hour worked by employee,102.4
-2021,2015 = 100,Labour productivity per hour worked by employee,103.1
-2022,2015 = 100,Labour productivity per hour worked by employee,103.4
+2019,2015 = 100,Labour productivity per hour worked by employee,102.1
+2020,2015 = 100,Labour productivity per hour worked by employee,102.6
+2021,2015 = 100,Labour productivity per hour worked by employee,102.8
+2022,2015 = 100,Labour productivity per hour worked by employee,103.1
 2010,2015 = 100,Labour productivity per hour worked by persons employed,94.9
 2011,2015 = 100,Labour productivity per hour worked by persons employed,97.4
 2012,2015 = 100,Labour productivity per hour worked by persons employed,98.0
@@ -125,23 +125,23 @@ Year,Units,Time series,Value
 2016,2015 = 100,Labour productivity per hour worked by persons employed,101.4
 2017,2015 = 100,Labour productivity per hour worked by persons employed,103.2
 2018,2015 = 100,Labour productivity per hour worked by persons employed,103.4
-2019,2015 = 100,Labour productivity per hour worked by persons employed,104.2
-2020,2015 = 100,Labour productivity per hour worked by persons employed,105.2
-2021,2015 = 100,Labour productivity per hour worked by persons employed,106.1
-2022,2015 = 100,Labour productivity per hour worked by persons employed,106.6
-2010,1 000,Persons employed,41048.0
-2011,1 000,Persons employed,41544.0
-2012,1 000,Persons employed,42019.0
-2013,1 000,Persons employed,42350.0
-2014,1 000,Persons employed,42721.0
-2015,1 000,Persons employed,43122.0
-2016,1 000,Persons employed,43661.0
-2017,1 000,Persons employed,44251.0
-2018,1 000,Persons employed,44866.0
-2019,1 000,Persons employed,45277.0
-2020,1 000,Persons employed,44915.0
-2021,1 000,Persons employed,44980.0
-2022,1 000,Persons employed,45572.0
+2019,2015 = 100,Labour productivity per hour worked by persons employed,104.1
+2020,2015 = 100,Labour productivity per hour worked by persons employed,105.3
+2021,2015 = 100,Labour productivity per hour worked by persons employed,105.9
+2022,2015 = 100,Labour productivity per hour worked by persons employed,106.5
+2010,"number in 1,000",Persons employed,41048.0
+2011,"number in 1,000",Persons employed,41544.0
+2012,"number in 1,000",Persons employed,42019.0
+2013,"number in 1,000",Persons employed,42350.0
+2014,"number in 1,000",Persons employed,42721.0
+2015,"number in 1,000",Persons employed,43122.0
+2016,"number in 1,000",Persons employed,43661.0
+2017,"number in 1,000",Persons employed,44251.0
+2018,"number in 1,000",Persons employed,44866.0
+2019,"number in 1,000",Persons employed,45276.0
+2020,"number in 1,000",Persons employed,44915.0
+2021,"number in 1,000",Persons employed,44984.0
+2022,"number in 1,000",Persons employed,45596.0
 2010,2015 = 100,Real GDP per capita,93.6
 2011,2015 = 100,Real GDP per capita,97.3
 2012,2015 = 100,Real GDP per capita,97.5
@@ -152,9 +152,9 @@ Year,Units,Time series,Value
 2017,2015 = 100,Real GDP per capita,103.7
 2018,2015 = 100,Real GDP per capita,104.4
 2019,2015 = 100,Real GDP per capita,105.3
-2020,2015 = 100,Real GDP per capita,101.3
-2021,2015 = 100,Real GDP per capita,104.0
-2022,2015 = 100,Real GDP per capita,105.1
+2020,2015 = 100,Real GDP per capita,101.2
+2021,2015 = 100,Real GDP per capita,104.4
+2022,2015 = 100,Real GDP per capita,105.5
 2010,Billion EUR,Trade balance,134.9
 2011,Billion EUR,Trade balance,132.2
 2012,Billion EUR,Trade balance,167.5
@@ -164,7 +164,7 @@ Year,Units,Time series,Value
 2016,Billion EUR,Trade balance,231.2
 2017,Billion EUR,Trade balance,231.6
 2018,Billion EUR,Trade balance,205.2
-2019,Billion EUR,Trade balance,196.3
-2020,Billion EUR,Trade balance,191.7
-2021,Billion EUR,Trade balance,191.6
-2022,Billion EUR,Trade balance,75.9
+2019,Billion EUR,Trade balance,206.3
+2020,Billion EUR,Trade balance,197.6
+2021,Billion EUR,Trade balance,195.3
+2022,Billion EUR,Trade balance,76.3

@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "enterprise definition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "legal entities",
+                "eu enterprise definition",
+                ""
+              ]
+            }
+          },
+          {
             "name": "technology sectors",
             "type": "string",
             "constraints": {
@@ -27,7 +38,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

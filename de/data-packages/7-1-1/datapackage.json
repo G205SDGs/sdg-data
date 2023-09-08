@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Prozent",
-                "1 000",
+                "Anzahl in 1 000",
                 ""
               ]
             },

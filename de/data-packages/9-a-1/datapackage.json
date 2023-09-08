@@ -28,12 +28,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur",
-                "Bruttoentwicklungsausgaben (ODA) für Infrastruktur",
+                "Bruttoausgaben (ODA und OOF)",
+                "Bruttoentwicklungsausgaben (ODA)",
                 ""
               ]
             },

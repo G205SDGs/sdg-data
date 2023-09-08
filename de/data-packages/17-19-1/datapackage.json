@@ -28,12 +28,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten",
-                "Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten",
+                "Zusagen (ODA and OOF)",
+                "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
             },

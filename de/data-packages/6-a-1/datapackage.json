@@ -28,12 +28,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär",
-                "Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke",
+                "Wasser und Sanitär",
+                "Verwandte Zwecke",
                 ""
               ]
             },

@@ -1,49 +1,49 @@
-Year,Units,timeseries,Value
-2010,million eur,oda (commitments) for poverty reduction,841.3
-2011,million eur,oda (commitments) for poverty reduction,1037.4
-2012,million eur,oda (commitments) for poverty reduction,1532.1
-2013,million eur,oda (commitments) for poverty reduction,1318.0
-2014,million eur,oda (commitments) for poverty reduction,1293.6
-2015,million eur,oda (commitments) for poverty reduction,1514.9
-2016,million eur,oda (commitments) for poverty reduction,1676.8
-2017,million eur,oda (commitments) for poverty reduction,2097.2
-2018,million eur,oda (commitments) for poverty reduction,2348.3
-2019,million eur,oda (commitments) for poverty reduction,2500.7
-2020,million eur,oda (commitments) for poverty reduction,3455.1
-2021,million eur,oda (commitments) for poverty reduction,4384.1
-2010,million eur,oda (gross disbursements) for poverty reduction,778.1
-2011,million eur,oda (gross disbursements) for poverty reduction,800.4
-2012,million eur,oda (gross disbursements) for poverty reduction,815.8
-2013,million eur,oda (gross disbursements) for poverty reduction,828.7
-2014,million eur,oda (gross disbursements) for poverty reduction,1094.8
-2015,million eur,oda (gross disbursements) for poverty reduction,1299.0
-2016,million eur,oda (gross disbursements) for poverty reduction,1657.0
-2017,million eur,oda (gross disbursements) for poverty reduction,1632.4
-2018,million eur,oda (gross disbursements) for poverty reduction,1681.2
-2019,million eur,oda (gross disbursements) for poverty reduction,1864.7
-2020,million eur,oda (gross disbursements) for poverty reduction,3189.8
-2021,million eur,oda (gross disbursements) for poverty reduction,3363.4
-2010,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,1214.0
-2011,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,1480.9
-2012,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,2154.9
-2013,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,1818.1
-2014,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,1751.7
-2015,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,2013.9
-2016,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,2199.9
-2017,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,2710.7
-2018,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,2975.5
-2019,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,3102.7
-2020,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,4210.8
-2021,"million usd, constant prices (2021)",oda (commitments) for poverty reduction,5184.6
-2010,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,1122.7
-2011,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,1142.6
-2012,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,1147.4
-2013,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,1143.1
-2014,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,1482.5
-2015,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,1726.9
-2016,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,2174.0
-2017,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,2109.8
-2018,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,2130.2
-2019,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,2313.6
-2020,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,3887.5
-2021,"million usd, constant prices (2021)",oda (gross disbursements) for poverty reduction,3977.6
+Year,Units,time series,Value
+2010,million eur,oda (commitments),841.3
+2011,million eur,oda (commitments),1037.4
+2012,million eur,oda (commitments),1532.1
+2013,million eur,oda (commitments),1318.0
+2014,million eur,oda (commitments),1293.6
+2015,million eur,oda (commitments),1514.9
+2016,million eur,oda (commitments),1676.8
+2017,million eur,oda (commitments),2097.2
+2018,million eur,oda (commitments),2348.3
+2019,million eur,oda (commitments),2500.7
+2020,million eur,oda (commitments),3455.1
+2021,million eur,oda (commitments),4384.1
+2010,million eur,oda (gross disbursements),778.1
+2011,million eur,oda (gross disbursements),800.4
+2012,million eur,oda (gross disbursements),815.8
+2013,million eur,oda (gross disbursements),828.7
+2014,million eur,oda (gross disbursements),1094.8
+2015,million eur,oda (gross disbursements),1299.0
+2016,million eur,oda (gross disbursements),1657.0
+2017,million eur,oda (gross disbursements),1632.4
+2018,million eur,oda (gross disbursements),1681.2
+2019,million eur,oda (gross disbursements),1864.7
+2020,million eur,oda (gross disbursements),3189.8
+2021,million eur,oda (gross disbursements),3363.4
+2010,"million usd, constant prices (2021)",oda (commitments),1214.0
+2011,"million usd, constant prices (2021)",oda (commitments),1480.9
+2012,"million usd, constant prices (2021)",oda (commitments),2154.9
+2013,"million usd, constant prices (2021)",oda (commitments),1818.1
+2014,"million usd, constant prices (2021)",oda (commitments),1751.7
+2015,"million usd, constant prices (2021)",oda (commitments),2013.9
+2016,"million usd, constant prices (2021)",oda (commitments),2199.9
+2017,"million usd, constant prices (2021)",oda (commitments),2710.7
+2018,"million usd, constant prices (2021)",oda (commitments),2975.5
+2019,"million usd, constant prices (2021)",oda (commitments),3102.7
+2020,"million usd, constant prices (2021)",oda (commitments),4210.8
+2021,"million usd, constant prices (2021)",oda (commitments),5184.6
+2010,"million usd, constant prices (2021)",oda (gross disbursements),1122.7
+2011,"million usd, constant prices (2021)",oda (gross disbursements),1142.6
+2012,"million usd, constant prices (2021)",oda (gross disbursements),1147.4
+2013,"million usd, constant prices (2021)",oda (gross disbursements),1143.1
+2014,"million usd, constant prices (2021)",oda (gross disbursements),1482.5
+2015,"million usd, constant prices (2021)",oda (gross disbursements),1726.9
+2016,"million usd, constant prices (2021)",oda (gross disbursements),2174.0
+2017,"million usd, constant prices (2021)",oda (gross disbursements),2109.8
+2018,"million usd, constant prices (2021)",oda (gross disbursements),2130.2
+2019,"million usd, constant prices (2021)",oda (gross disbursements),2313.6
+2020,"million usd, constant prices (2021)",oda (gross disbursements),3887.5
+2021,"million usd, constant prices (2021)",oda (gross disbursements),3977.6

@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (gross disbursements) for scholarships",
-                "oda (gross disbursements) for imputed student costs",
+                "scholarships",
+                "imputed student costs",
                 ""
               ]
             }

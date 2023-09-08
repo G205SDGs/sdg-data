@@ -741,12 +741,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (commitments) for poverty reduction",
-                "oda (gross disbursements) for poverty reduction",
+                "oda (commitments)",
+                "oda (gross disbursements)",
                 ""
               ]
             }
@@ -935,7 +935,7 @@
             }
           },
           {
-            "name": "political institutions",
+            "name": "political institution",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1084,7 +1084,7 @@
             "constraints": {
               "enum": [
                 "percentage",
-                "1 000",
+                "number in 1,000",
                 ""
               ]
             }
@@ -2201,12 +2201,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments) for aid for trade",
-                "oda and oof (gross disbursement) for aid for trade",
+                "oda and oof (commitments)",
+                "oda and oof (gross disbursements)",
                 ""
               ]
             }
@@ -3085,8 +3085,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "current tobacco use among persons aged 15 years and older",
-                "current tobacco use among persons aged 15 years and older (age-standardised to who standard population)",
+                "current tobacco use",
+                "current tobacco use (age-standardised to who standard population)",
                 ""
               ]
             }
@@ -3763,12 +3763,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (gross disbursements) for water and sanitation",
-                "oda (gross disbursements) for other related purposes",
+                "water and sanitation",
+                "other related purposes",
                 ""
               ]
             }
@@ -4113,12 +4113,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (gross disbursements) for scholarships",
-                "oda (gross disbursements) for imputed student costs",
+                "scholarships",
+                "imputed student costs",
                 ""
               ]
             }
@@ -4563,7 +4563,7 @@
             "type": "integer"
           },
           {
-            "name": "percentiles",
+            "name": "percentile",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5001,12 +5001,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments) to strengthen statistical capacity",
-                "oda and oof (gross disbursements) to strengthen statistical capacity",
+                "oda and oof (commitments)",
+                "oda and oof (gross disbursements)",
                 ""
               ]
             }
@@ -5045,12 +5045,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments) for capacity building and national planning (without south-south cooperations)",
-                "oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)",
+                "oda and oof (commitments)",
+                "oda and oof (gross disbursements)",
                 ""
               ]
             }
@@ -6668,32 +6668,6 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage",
-                "number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "country of citizenship",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "afghanistan",
-                "iraq",
-                "iran",
-                "russian federation",
-                "syria",
-                "turkey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -7972,6 +7946,17 @@
             "type": "integer"
           },
           {
+            "name": "enterprise definition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "legal entities",
+                "eu enterprise definition",
+                ""
+              ]
+            }
+          },
+          {
             "name": "technology sectors",
             "type": "string",
             "constraints": {
@@ -7984,7 +7969,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -8060,12 +8045,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (gross disbursements) to infrastructure",
-                "oda (gross disbursements) to infrastructure",
+                "oda and oof (gross disbursements)",
+                "oda (gross disbursements)",
                 ""
               ]
             }
@@ -8637,7 +8622,7 @@
                 "billion eur",
                 "million hours",
                 "2015 = 100",
-                "1 000",
+                "number in 1,000",
                 ""
               ]
             }

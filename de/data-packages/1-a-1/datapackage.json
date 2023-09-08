@@ -28,12 +28,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA) zur Minderung der Armut",
-                "Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut",
+                "Zusagen (ODA)",
+                "Bruttoentwicklungsausgaben (ODA)",
                 ""
               ]
             },

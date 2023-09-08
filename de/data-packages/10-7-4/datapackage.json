@@ -16,34 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Anzahl",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "country of citizenship",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Afghanistan",
-                "Irak",
-                "Iran",
-                "Russische Föderation",
-                "Syrien",
-                "Türkei",
-                ""
-              ]
-            },
-            "title": "Herkunftsland"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

@@ -9,8 +9,8 @@ Year,Units,Zeitreihe,Value
 2017,Prozent,Jährliche Wachstumsrate des realen BIP,2.7
 2018,Prozent,Jährliche Wachstumsrate des realen BIP,1.0
 2019,Prozent,Jährliche Wachstumsrate des realen BIP,1.1
-2020,Prozent,Jährliche Wachstumsrate des realen BIP,-3.7
-2021,Prozent,Jährliche Wachstumsrate des realen BIP,2.6
+2020,Prozent,Jährliche Wachstumsrate des realen BIP,-3.8
+2021,Prozent,Jährliche Wachstumsrate des realen BIP,3.2
 2022,Prozent,Jährliche Wachstumsrate des realen BIP,1.8
 2010,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1525.6
 2011,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1577.6
@@ -21,10 +21,10 @@ Year,Units,Zeitreihe,Value
 2016,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1784.9
 2017,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1844.5
 2018,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1920.3
-2019,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1960.5
-2020,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1988.9
-2021,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2031.2
-2022,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2176.8
+2019,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1961.2
+2020,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1987.0
+2021,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2035.6
+2022,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2164.5
 2010,Milliarden EUR,Konsum privater Haushalte,1372.9
 2011,Milliarden EUR,Konsum privater Haushalte,1423.6
 2012,Milliarden EUR,Konsum privater Haushalte,1465.9
@@ -34,10 +34,10 @@ Year,Units,Zeitreihe,Value
 2016,Milliarden EUR,Konsum privater Haushalte,1608.2
 2017,Milliarden EUR,Konsum privater Haushalte,1654.6
 2018,Milliarden EUR,Konsum privater Haushalte,1703.4
-2019,Milliarden EUR,Konsum privater Haushalte,1754.0
-2020,Milliarden EUR,Konsum privater Haushalte,1659.6
-2021,Milliarden EUR,Konsum privater Haushalte,1718.1
-2022,Milliarden EUR,Konsum privater Haushalte,1924.3
+2019,Milliarden EUR,Konsum privater Haushalte,1752.9
+2020,Milliarden EUR,Konsum privater Haushalte,1654.5
+2021,Milliarden EUR,Konsum privater Haushalte,1730.7
+2022,Milliarden EUR,Konsum privater Haushalte,1921.6
 2010,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2011.7
 2011,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2025.4
 2012,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2068.3
@@ -49,8 +49,8 @@ Year,Units,Zeitreihe,Value
 2018,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,1915.8
 2019,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,1899.1
 2020,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2172.9
-2021,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2321.1
-2022,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,
+2021,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2321.0
+2022,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2368.0
 2010,Milliarden EUR,Finanzierungssaldo des Staates,-112.3
 2011,Milliarden EUR,Finanzierungssaldo des Staates,-23.7
 2012,Milliarden EUR,Finanzierungssaldo des Staates,0.3
@@ -60,10 +60,10 @@ Year,Units,Zeitreihe,Value
 2016,Milliarden EUR,Finanzierungssaldo des Staates,36.4
 2017,Milliarden EUR,Finanzierungssaldo des Staates,43.7
 2018,Milliarden EUR,Finanzierungssaldo des Staates,65.6
-2019,Milliarden EUR,Finanzierungssaldo des Staates,53.2
-2020,Milliarden EUR,Finanzierungssaldo des Staates,-147.6
-2021,Milliarden EUR,Finanzierungssaldo des Staates,-134.3
-2022,Milliarden EUR,Finanzierungssaldo des Staates,-106.0
+2019,Milliarden EUR,Finanzierungssaldo des Staates,53.0
+2020,Milliarden EUR,Finanzierungssaldo des Staates,-147.7
+2021,Milliarden EUR,Finanzierungssaldo des Staates,-129.7
+2022,Milliarden EUR,Finanzierungssaldo des Staates,-96.9
 2010,Milliarden EUR,Bruttoanlageinvestitionen,501.1
 2011,Milliarden EUR,Bruttoanlageinvestitionen,548.7
 2012,Milliarden EUR,Bruttoanlageinvestitionen,557.9
@@ -73,10 +73,10 @@ Year,Units,Zeitreihe,Value
 2016,Milliarden EUR,Bruttoanlageinvestitionen,636.3
 2017,Milliarden EUR,Bruttoanlageinvestitionen,666.9
 2018,Milliarden EUR,Bruttoanlageinvestitionen,708.9
-2019,Milliarden EUR,Bruttoanlageinvestitionen,742.4
-2020,Milliarden EUR,Bruttoanlageinvestitionen,736.1
-2021,Milliarden EUR,Bruttoanlageinvestitionen,783.8
-2022,Milliarden EUR,Bruttoanlageinvestitionen,872.4
+2019,Milliarden EUR,Bruttoanlageinvestitionen,740.5
+2020,Milliarden EUR,Bruttoanlageinvestitionen,733.2
+2021,Milliarden EUR,Bruttoanlageinvestitionen,770.5
+2022,Milliarden EUR,Bruttoanlageinvestitionen,856.2
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,49314.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,50102.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,50100.0
@@ -86,10 +86,10 @@ Year,Units,Zeitreihe,Value
 2016,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,52451.0
 2017,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,53219.0
 2018,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,53876.0
-2019,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54259.0
-2020,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,52128.0
-2021,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,53141.0
-2022,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,53942.0
+2019,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54304.1
+2020,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,52000.3
+2021,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,53517.7
+2022,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54316.7
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,58524.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59279.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59162.0
@@ -99,10 +99,10 @@ Year,Units,Zeitreihe,Value
 2016,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,60933.0
 2017,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,61471.0
 2018,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,61945.0
-2019,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,62127.0
-2020,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59249.0
-2021,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,60281.0
-2022,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,61078.0
+2019,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,62168.0
+2020,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59104.0
+2021,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,60623.0
+2022,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,61410.0
 2010,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,96.5
 2011,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,98.7
 2012,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,99.1
@@ -112,10 +112,10 @@ Year,Units,Zeitreihe,Value
 2016,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,100.9
 2017,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.1
 2018,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,101.8
-2019,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.2
-2020,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.4
-2021,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,103.1
-2022,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,103.4
+2019,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.1
+2020,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.6
+2021,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.8
+2022,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,103.1
 2010,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,94.9
 2011,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,97.4
 2012,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,98.0
@@ -125,23 +125,23 @@ Year,Units,Zeitreihe,Value
 2016,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,101.4
 2017,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,103.2
 2018,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,103.4
-2019,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,104.2
-2020,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,105.2
-2021,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,106.1
-2022,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,106.6
-2010,1 000,Erwerbstätige,41048.0
-2011,1 000,Erwerbstätige,41544.0
-2012,1 000,Erwerbstätige,42019.0
-2013,1 000,Erwerbstätige,42350.0
-2014,1 000,Erwerbstätige,42721.0
-2015,1 000,Erwerbstätige,43122.0
-2016,1 000,Erwerbstätige,43661.0
-2017,1 000,Erwerbstätige,44251.0
-2018,1 000,Erwerbstätige,44866.0
-2019,1 000,Erwerbstätige,45277.0
-2020,1 000,Erwerbstätige,44915.0
-2021,1 000,Erwerbstätige,44980.0
-2022,1 000,Erwerbstätige,45572.0
+2019,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,104.1
+2020,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,105.3
+2021,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,105.9
+2022,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,106.5
+2010,Anzahl in 1 000,Erwerbstätige,41048.0
+2011,Anzahl in 1 000,Erwerbstätige,41544.0
+2012,Anzahl in 1 000,Erwerbstätige,42019.0
+2013,Anzahl in 1 000,Erwerbstätige,42350.0
+2014,Anzahl in 1 000,Erwerbstätige,42721.0
+2015,Anzahl in 1 000,Erwerbstätige,43122.0
+2016,Anzahl in 1 000,Erwerbstätige,43661.0
+2017,Anzahl in 1 000,Erwerbstätige,44251.0
+2018,Anzahl in 1 000,Erwerbstätige,44866.0
+2019,Anzahl in 1 000,Erwerbstätige,45276.0
+2020,Anzahl in 1 000,Erwerbstätige,44915.0
+2021,Anzahl in 1 000,Erwerbstätige,44984.0
+2022,Anzahl in 1 000,Erwerbstätige,45596.0
 2010,2015 = 100,Reales BIP pro Kopf,93.6
 2011,2015 = 100,Reales BIP pro Kopf,97.3
 2012,2015 = 100,Reales BIP pro Kopf,97.5
@@ -152,9 +152,9 @@ Year,Units,Zeitreihe,Value
 2017,2015 = 100,Reales BIP pro Kopf,103.7
 2018,2015 = 100,Reales BIP pro Kopf,104.4
 2019,2015 = 100,Reales BIP pro Kopf,105.3
-2020,2015 = 100,Reales BIP pro Kopf,101.3
-2021,2015 = 100,Reales BIP pro Kopf,104.0
-2022,2015 = 100,Reales BIP pro Kopf,105.1
+2020,2015 = 100,Reales BIP pro Kopf,101.2
+2021,2015 = 100,Reales BIP pro Kopf,104.4
+2022,2015 = 100,Reales BIP pro Kopf,105.5
 2010,Milliarden EUR,Außenbeitrag,134.9
 2011,Milliarden EUR,Außenbeitrag,132.2
 2012,Milliarden EUR,Außenbeitrag,167.5
@@ -164,7 +164,7 @@ Year,Units,Zeitreihe,Value
 2016,Milliarden EUR,Außenbeitrag,231.2
 2017,Milliarden EUR,Außenbeitrag,231.6
 2018,Milliarden EUR,Außenbeitrag,205.2
-2019,Milliarden EUR,Außenbeitrag,196.3
-2020,Milliarden EUR,Außenbeitrag,191.7
-2021,Milliarden EUR,Außenbeitrag,191.6
-2022,Milliarden EUR,Außenbeitrag,75.9
+2019,Milliarden EUR,Außenbeitrag,206.3
+2020,Milliarden EUR,Außenbeitrag,197.6
+2021,Milliarden EUR,Außenbeitrag,195.3
+2022,Milliarden EUR,Außenbeitrag,76.3

@@ -1,37 +1,73 @@
-Year,Technology sectors,Value
-2010,,59
-2011,,59
-2012,,59
-2013,,59
-2014,,61
-2015,,61
-2016,,61
-2017,,61
-2018,,61
-2019,,61
-2020,,60
-2021,,60
-2010,Medium-high-tech,49
-2011,Medium-high-tech,50
-2012,Medium-high-tech,50
-2013,Medium-high-tech,50
-2014,Medium-high-tech,51
-2015,Medium-high-tech,51
-2016,Medium-high-tech,51
-2017,Medium-high-tech,51
-2018,Medium-high-tech,51
-2019,Medium-high-tech,50
-2020,Medium-high-tech,49
-2021,Medium-high-tech,49
-2010,High-tech,10
-2011,High-tech,10
-2012,High-tech,10
-2013,High-tech,10
-2014,High-tech,10
-2015,High-tech,10
-2016,High-tech,10
-2017,High-tech,10
-2018,High-tech,10
-2019,High-tech,11
-2020,High-tech,11
-2021,High-tech,11
+Year,Enterprise definition,Technology sectors,Value
+2010,Legal entities,,59.0
+2011,Legal entities,,59.0
+2012,Legal entities,,59.0
+2013,Legal entities,,59.0
+2014,Legal entities,,61.0
+2015,Legal entities,,61.0
+2016,Legal entities,,61.0
+2017,Legal entities,,61.0
+2018,Legal entities,,61.0
+2019,Legal entities,,61.0
+2020,Legal entities,,60.0
+2021,Legal entities,,60.0
+2010,Legal entities,Medium-high-tech,49.0
+2011,Legal entities,Medium-high-tech,50.0
+2012,Legal entities,Medium-high-tech,50.0
+2013,Legal entities,Medium-high-tech,50.0
+2014,Legal entities,Medium-high-tech,51.0
+2015,Legal entities,Medium-high-tech,51.0
+2016,Legal entities,Medium-high-tech,51.0
+2017,Legal entities,Medium-high-tech,51.0
+2018,Legal entities,Medium-high-tech,51.0
+2019,Legal entities,Medium-high-tech,50.0
+2020,Legal entities,Medium-high-tech,49.0
+2021,Legal entities,Medium-high-tech,49.0
+2010,Legal entities,High-tech,10.0
+2011,Legal entities,High-tech,10.0
+2012,Legal entities,High-tech,10.0
+2013,Legal entities,High-tech,10.0
+2014,Legal entities,High-tech,10.0
+2015,Legal entities,High-tech,10.0
+2016,Legal entities,High-tech,10.0
+2017,Legal entities,High-tech,10.0
+2018,Legal entities,High-tech,10.0
+2019,Legal entities,High-tech,11.0
+2020,Legal entities,High-tech,11.0
+2021,Legal entities,High-tech,11.0
+2010,EU enterprise definition,,
+2011,EU enterprise definition,,
+2012,EU enterprise definition,,
+2013,EU enterprise definition,,
+2014,EU enterprise definition,,
+2015,EU enterprise definition,,
+2016,EU enterprise definition,,
+2017,EU enterprise definition,,
+2018,EU enterprise definition,,60.668
+2019,EU enterprise definition,,60.769
+2020,EU enterprise definition,,60.648
+2021,EU enterprise definition,,57.983
+2010,EU enterprise definition,Medium-high-tech,
+2011,EU enterprise definition,Medium-high-tech,
+2012,EU enterprise definition,Medium-high-tech,
+2013,EU enterprise definition,Medium-high-tech,
+2014,EU enterprise definition,Medium-high-tech,
+2015,EU enterprise definition,Medium-high-tech,
+2016,EU enterprise definition,Medium-high-tech,
+2017,EU enterprise definition,Medium-high-tech,
+2018,EU enterprise definition,Medium-high-tech,50.512
+2019,EU enterprise definition,Medium-high-tech,49.637
+2020,EU enterprise definition,Medium-high-tech,48.744
+2021,EU enterprise definition,Medium-high-tech,47.494
+2010,EU enterprise definition,High-tech,
+2011,EU enterprise definition,High-tech,
+2012,EU enterprise definition,High-tech,
+2013,EU enterprise definition,High-tech,
+2014,EU enterprise definition,High-tech,
+2015,EU enterprise definition,High-tech,
+2016,EU enterprise definition,High-tech,
+2017,EU enterprise definition,High-tech,
+2018,EU enterprise definition,High-tech,10.156
+2019,EU enterprise definition,High-tech,11.132
+2020,EU enterprise definition,High-tech,11.904
+2021,EU enterprise definition,High-tech,10.489

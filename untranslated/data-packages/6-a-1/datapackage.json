@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (gross disbursements) for water and sanitation",
-                "oda (gross disbursements) for other related purposes",
+                "water and sanitation",
+                "other related purposes",
                 ""
               ]
             }

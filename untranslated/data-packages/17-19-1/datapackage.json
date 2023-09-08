@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments) to strengthen statistical capacity",
-                "oda and oof (gross disbursements) to strengthen statistical capacity",
+                "oda and oof (commitments)",
+                "oda and oof (gross disbursements)",
                 ""
               ]
             }

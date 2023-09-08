@@ -807,12 +807,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA) zur Minderung der Armut",
-                "Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut",
+                "Zusagen (ODA)",
+                "Bruttoentwicklungsausgaben (ODA)",
                 ""
               ]
             },
@@ -1019,7 +1019,7 @@
             "title": "Units"
           },
           {
-            "name": "political institutions",
+            "name": "political institution",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1030,7 +1030,7 @@
                 ""
               ]
             },
-            "title": "Politische Institutionen"
+            "title": "Politische Institution"
           },
           {
             "name": "länder",
@@ -1180,7 +1180,7 @@
             "constraints": {
               "enum": [
                 "Prozent",
-                "1 000",
+                "Anzahl in 1 000",
                 ""
               ]
             },
@@ -2396,12 +2396,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) für Handelshilfe",
-                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe",
+                "Zusagen (ODA and OOF)",
+                "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
             },
@@ -3360,8 +3360,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tabakkonsum in der Bevölkerung ab 15 Jahren",
-                "Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)",
+                "Tabakkonsum",
+                "Tabakkonsum (altersstandardisiert auf die WHO-Standardbevölkerung)",
                 ""
               ]
             },
@@ -4100,12 +4100,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär",
-                "Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke",
+                "Wasser und Sanitär",
+                "Verwandte Zwecke",
                 ""
               ]
             },
@@ -4482,12 +4482,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) für Stipendien",
-                "Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten",
+                "Stipendien",
+                "Kalkulatorische Studienplatzkosten",
                 ""
               ]
             },
@@ -4972,7 +4972,7 @@
             "title": "Jahr"
           },
           {
-            "name": "percentiles",
+            "name": "percentile",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4986,7 +4986,7 @@
                 ""
               ]
             },
-            "title": "Perzentile"
+            "title": "Perzentil"
           },
           {
             "name": "sex",
@@ -5097,7 +5097,7 @@
                 ""
               ]
             },
-            "title": "Art der Finanzströme"
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "Value",
@@ -5449,12 +5449,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten",
-                "Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten",
+                "Zusagen (ODA and OOF)",
+                "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
             },
@@ -5497,12 +5497,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
-                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
+                "Zusagen (ODA and OOF)",
+                "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
             },
@@ -7264,34 +7264,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Anzahl",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "country of citizenship",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Afghanistan",
-                "Irak",
-                "Iran",
-                "Russische Föderation",
-                "Syrien",
-                "Türkei",
-                ""
-              ]
-            },
-            "title": "Herkunftsland"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -8683,6 +8655,18 @@
             "title": "Jahr"
           },
           {
+            "name": "enterprise definition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rechtliche Einheiten",
+                "EU-Unternehmensdefinition",
+                ""
+              ]
+            },
+            "title": "Unternehmensdefinition"
+          },
+          {
             "name": "technology sectors",
             "type": "string",
             "constraints": {
@@ -8696,7 +8680,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -8779,12 +8763,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur",
-                "Bruttoentwicklungsausgaben (ODA) für Infrastruktur",
+                "Bruttoausgaben (ODA und OOF)",
+                "Bruttoentwicklungsausgaben (ODA)",
                 ""
               ]
             },
@@ -9408,7 +9392,7 @@
                 "Milliarden EUR",
                 "Millionen Stunden",
                 "2015 = 100",
-                "1 000",
+                "Anzahl in 1 000",
                 ""
               ]
             },

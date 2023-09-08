@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "political institutions",
+            "name": "political institution",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Political institutions"
+            "title": "Political institution"
           },
           {
             "name": "länder",

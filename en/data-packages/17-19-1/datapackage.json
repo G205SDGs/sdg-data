@@ -28,12 +28,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) to strengthen statistical capacity",
-                "ODA and OOF (gross disbursements) to strengthen statistical capacity",
+                "ODA and OOF (commitments)",
+                "ODA and OOF (gross disbursements)",
                 ""
               ]
             },

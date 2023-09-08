@@ -28,12 +28,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (gross disbursements) to infrastructure",
-                "ODA (gross disbursements) to infrastructure",
+                "ODA and OOF (gross disbursements)",
+                "ODA (gross disbursements)",
                 ""
               ]
             },

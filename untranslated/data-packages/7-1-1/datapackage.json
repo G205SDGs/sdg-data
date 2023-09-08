@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "percentage",
-                "1 000",
+                "number in 1,000",
                 ""
               ]
             }

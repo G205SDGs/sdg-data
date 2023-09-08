@@ -15,32 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage",
-                "number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "country of citizenship",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "afghanistan",
-                "iraq",
-                "iran",
-                "russian federation",
-                "syria",
-                "turkey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

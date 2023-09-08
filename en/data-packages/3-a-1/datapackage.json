@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Current tobacco use among persons aged 15 years and older",
-                "Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)",
+                "Current tobacco use",
+                "Current tobacco use (age-standardised to WHO Standard Population)",
                 ""
               ]
             },

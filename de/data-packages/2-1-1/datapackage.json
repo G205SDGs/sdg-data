@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "percentiles",
+            "name": "percentile",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,7 +30,7 @@
                 ""
               ]
             },
-            "title": "Perzentile"
+            "title": "Perzentil"
           },
           {
             "name": "sex",
