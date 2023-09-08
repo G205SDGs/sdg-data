@@ -5196,22 +5196,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -6712,7 +6701,7 @@
             "type": "integer"
           },
           {
-            "name": "activities",
+            "name": "type of ict competence",
             "type": "string",
             "constraints": {
               "enum": [

@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "activities",
+            "name": "type of ict competence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -31,7 +31,7 @@
                 ""
               ]
             },
-            "title": "Activities"
+            "title": "type of ict competence"
           },
           {
             "name": "age group",

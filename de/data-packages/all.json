@@ -5661,24 +5661,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Jahr"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -7312,7 +7300,7 @@
             "title": "Jahr"
           },
           {
-            "name": "activities",
+            "name": "type of ict competence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7327,7 +7315,7 @@
                 ""
               ]
             },
-            "title": "Aktivitäten"
+            "title": "type of ict competence"
           },
           {
             "name": "age group",
