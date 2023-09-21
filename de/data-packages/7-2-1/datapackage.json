@@ -16,12 +16,12 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch",
-                "Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch",
+                "Erneuerbaren Energien am gesamten Endenergieverbrauch",
+                "Erneuerbaren Energien am Bruttoendenergieverbrauch",
                 ""
               ]
             },

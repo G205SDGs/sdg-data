@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "type of disease",
+            "name": "disease",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,7 +27,7 @@
                 ""
               ]
             },
-            "title": "Type of disease"
+            "title": "Disease"
           },
           {
             "name": "Value",

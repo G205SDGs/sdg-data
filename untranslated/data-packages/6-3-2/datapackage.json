@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of flowing water with good ecological status for total phosphorous",
-                "proportion of groundwater mesuring points below the threshold value for nitrate",
+                "flowing water with good ecological status for total phosphorous",
+                "groundwater mesuring points below the threshold value for nitrate",
                 ""
               ]
             }

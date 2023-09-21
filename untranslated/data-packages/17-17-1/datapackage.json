@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (commitments) to public-private partnerships (ppp) for infrastructure",
-                "oda (gross disbursements) to public-private partnerships (ppp) for infrastructure",
+                "oda (commitments)",
+                "oda (gross disbursements)",
                 ""
               ]
             }

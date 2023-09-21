@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "renewable energy share in total final energy consumption",
-                "renewable energy share in gross final energy consumption",
+                "renewable energy in total final energy consumption",
+                "renewable energy in gross final energy consumption",
                 ""
               ]
             }

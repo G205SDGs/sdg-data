@@ -1,49 +1,49 @@
-Year,Units,Series,Value
-2010,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2011,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2012,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2013,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2014,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2015,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2016,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,9.0
-2017,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2018,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2019,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,3.3
-2020,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,26.5
-2021,million eur,oda (commitments) to public-private partnerships (ppp) for infrastructure,25.46
-2010,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2011,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2012,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2013,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2014,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2015,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2016,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,11.81
-2017,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2018,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,0.0
-2019,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,4.09
-2020,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,32.3
-2021,"million usd, constant prices (2021)",oda (commitments) to public-private partnerships (ppp) for infrastructure,30.11
-2010,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2011,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2012,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2013,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2014,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2015,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2016,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,9.0
-2017,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2018,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2019,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.03
-2020,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,24.75
-2021,million eur,oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,25.0
-2010,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2011,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2012,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2013,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2014,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2015,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2016,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,11.81
-2017,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2018,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.0
-2019,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,0.04
-2020,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,30.16
-2021,"million usd, constant prices (2021)",oda (gross disbursements) to public-private partnerships (ppp) for infrastructure,29.56
+Year,Units,time series,Value
+2010,million eur,oda (commitments),0.0
+2011,million eur,oda (commitments),0.0
+2012,million eur,oda (commitments),0.0
+2013,million eur,oda (commitments),0.0
+2014,million eur,oda (commitments),0.0
+2015,million eur,oda (commitments),0.0
+2016,million eur,oda (commitments),9.0
+2017,million eur,oda (commitments),0.0
+2018,million eur,oda (commitments),0.0
+2019,million eur,oda (commitments),3.3
+2020,million eur,oda (commitments),26.5
+2021,million eur,oda (commitments),25.46
+2010,"million usd, constant prices (2021)",oda (commitments),0.0
+2011,"million usd, constant prices (2021)",oda (commitments),0.0
+2012,"million usd, constant prices (2021)",oda (commitments),0.0
+2013,"million usd, constant prices (2021)",oda (commitments),0.0
+2014,"million usd, constant prices (2021)",oda (commitments),0.0
+2015,"million usd, constant prices (2021)",oda (commitments),0.0
+2016,"million usd, constant prices (2021)",oda (commitments),11.81
+2017,"million usd, constant prices (2021)",oda (commitments),0.0
+2018,"million usd, constant prices (2021)",oda (commitments),0.0
+2019,"million usd, constant prices (2021)",oda (commitments),4.09
+2020,"million usd, constant prices (2021)",oda (commitments),32.3
+2021,"million usd, constant prices (2021)",oda (commitments),30.11
+2010,million eur,oda (gross disbursements),0.0
+2011,million eur,oda (gross disbursements),0.0
+2012,million eur,oda (gross disbursements),0.0
+2013,million eur,oda (gross disbursements),0.0
+2014,million eur,oda (gross disbursements),0.0
+2015,million eur,oda (gross disbursements),0.0
+2016,million eur,oda (gross disbursements),9.0
+2017,million eur,oda (gross disbursements),0.0
+2018,million eur,oda (gross disbursements),0.0
+2019,million eur,oda (gross disbursements),0.03
+2020,million eur,oda (gross disbursements),24.75
+2021,million eur,oda (gross disbursements),25.0
+2010,"million usd, constant prices (2021)",oda (gross disbursements),0.0
+2011,"million usd, constant prices (2021)",oda (gross disbursements),0.0
+2012,"million usd, constant prices (2021)",oda (gross disbursements),0.0
+2013,"million usd, constant prices (2021)",oda (gross disbursements),0.0
+2014,"million usd, constant prices (2021)",oda (gross disbursements),0.0
+2015,"million usd, constant prices (2021)",oda (gross disbursements),0.0
+2016,"million usd, constant prices (2021)",oda (gross disbursements),11.81
+2017,"million usd, constant prices (2021)",oda (gross disbursements),0.0
+2018,"million usd, constant prices (2021)",oda (gross disbursements),0.0
+2019,"million usd, constant prices (2021)",oda (gross disbursements),0.04
+2020,"million usd, constant prices (2021)",oda (gross disbursements),30.16
+2021,"million usd, constant prices (2021)",oda (gross disbursements),29.56

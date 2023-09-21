@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "type of disease",
+            "name": "disease",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,7 +27,7 @@
                 ""
               ]
             },
-            "title": "Art der Erkrankung"
+            "title": "Erkrankung"
           },
           {
             "name": "sex",

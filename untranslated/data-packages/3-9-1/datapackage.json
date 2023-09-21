@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "type of disease",
+            "name": "disease",
             "type": "string",
             "constraints": {
               "enum": [

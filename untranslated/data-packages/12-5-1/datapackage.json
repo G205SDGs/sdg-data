@@ -41,7 +41,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "recycling rate",
+                "national recycling rate",
                 "material recovery",
                 ""
               ]

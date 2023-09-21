@@ -16,19 +16,19 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten",
-                "Stationäre Behandlung bei vernachlässigten Tropenkrankheiten",
+                "Personen mit Behandlungsbedarf",
+                "Stationäre Behandlung",
                 ""
               ]
             },
             "title": "Zeitreihe"
           },
           {
-            "name": "type of disease",
+            "name": "disease",
             "type": "string",
             "constraints": {
               "enum": [
@@ -44,7 +44,7 @@
                 ""
               ]
             },
-            "title": "Art der Erkrankung"
+            "title": "Erkrankung"
           },
           {
             "name": "Value",

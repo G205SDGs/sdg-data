@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "type of disease",
+            "name": "disease",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "Type of disease"
+            "title": "Disease"
           },
           {
             "name": "Series",

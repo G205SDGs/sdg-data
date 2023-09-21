@@ -15,18 +15,18 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "people requiring interventions against neglected tropical diseases",
-                "inpatient treatment of neglected tropical diseases",
+                "people requiring interventions",
+                "inpatient treatment",
                 ""
               ]
             }
           },
           {
-            "name": "type of disease",
+            "name": "disease",
             "type": "string",
             "constraints": {
               "enum": [

@@ -16,19 +16,19 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "People requiring interventions against neglected tropical diseases",
-                "Inpatient treatment of neglected tropical diseases",
+                "People requiring interventions",
+                "Inpatient treatment",
                 ""
               ]
             },
             "title": "Time series"
           },
           {
-            "name": "type of disease",
+            "name": "disease",
             "type": "string",
             "constraints": {
               "enum": [
@@ -44,7 +44,7 @@
                 ""
               ]
             },
-            "title": "Type of disease"
+            "title": "Disease"
           },
           {
             "name": "Value",
