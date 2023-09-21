@@ -1,27 +1,27 @@
-Year,timeseries,Value
-2010,mobile penetration rate,
-2011,mobile penetration rate,
-2012,mobile penetration rate,120.5
-2013,mobile penetration rate,127.9
-2014,mobile penetration rate,126.4
-2015,mobile penetration rate,129.9
-2016,mobile penetration rate,132.6
-2017,mobile penetration rate,132.5
-2018,mobile penetration rate,129.5
-2019,mobile penetration rate,128.8
-2020,mobile penetration rate,129.2
-2021,mobile penetration rate,127.9
-2022,mobile penetration rate,124.0
-2010,private households with at least one mobile phone,88.9
-2011,private households with at least one mobile phone,90.0
-2012,private households with at least one mobile phone,90.3
-2013,private households with at least one mobile phone,92.7
-2014,private households with at least one mobile phone,93.6
-2015,private households with at least one mobile phone,93.5
-2016,private households with at least one mobile phone,95.1
-2017,private households with at least one mobile phone,95.5
-2018,private households with at least one mobile phone,96.7
-2019,private households with at least one mobile phone,97.0
-2020,private households with at least one mobile phone,97.5
-2021,private households with at least one mobile phone,97.6
-2022,private households with at least one mobile phone,98.1
+Year,Value,Series
+2010,,mobile penetration rate
+2011,,mobile penetration rate
+2012,120.5,mobile penetration rate
+2013,127.9,mobile penetration rate
+2014,126.4,mobile penetration rate
+2015,129.9,mobile penetration rate
+2016,132.6,mobile penetration rate
+2017,132.5,mobile penetration rate
+2018,129.5,mobile penetration rate
+2019,128.8,mobile penetration rate
+2020,129.2,mobile penetration rate
+2021,127.9,mobile penetration rate
+2022,124.0,mobile penetration rate
+2010,88.9,private households with at least one mobile phone
+2011,90.0,private households with at least one mobile phone
+2012,90.3,private households with at least one mobile phone
+2013,92.7,private households with at least one mobile phone
+2014,93.6,private households with at least one mobile phone
+2015,93.5,private households with at least one mobile phone
+2016,95.1,private households with at least one mobile phone
+2017,95.5,private households with at least one mobile phone
+2018,96.7,private households with at least one mobile phone
+2019,97.0,private households with at least one mobile phone
+2020,97.5,private households with at least one mobile phone
+2021,97.6,private households with at least one mobile phone
+2022,98.1,private households with at least one mobile phone
