@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "restaurants and food services",
+                "Restaurants and food services",
                 "Private households",
-                "retail and other distribution of food",
+                "Retail and other distribution of food",
                 ""
               ]
             },
-            "title": "stages of the food chain"
+            "title": "Stages of the food chain"
           },
           {
             "name": "Value",

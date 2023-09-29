@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "restaurants and food services",
+                "Gaststätten und Verpflegungsdienstleistungen",
                 "Private Haushalte",
-                "retail and other distribution of food",
+                "Einzelhandel und andere Formen des Vertriebs",
                 ""
               ]
             },
-            "title": "stages of the food chain"
+            "title": "Stufen der Lebensmittelkette"
           },
           {
             "name": "Value",

@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "gross disbursements (oda and oof)",
-                "gross disbursements (oda)",
+                "Bruttoausgaben (ODA und OOF)",
+                "Bruttoentwicklungsausgaben (ODA)",
                 ""
               ]
             },

@@ -211,8 +211,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda)",
-                "gross disbursements (oda)",
+                "Commitments (ODA)",
+                "Gross disbursements (ODA)",
                 ""
               ]
             },
@@ -838,8 +838,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "gross disbursements (oda and oof)",
-                "gross disbursements (oda)",
+                "Gross disbursements (ODA and OOF)",
+                "Gross disbursements (ODA)",
                 ""
               ]
             },
@@ -979,8 +979,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda and oof)",
-                "gross disbursements (oda and oof)",
+                "Commitments (ODA and OOF)",
+                "Gross disbursements (ODA and OOF)",
                 ""
               ]
             },
@@ -2419,8 +2419,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda)",
-                "gross disbursements (oda)",
+                "Commitments (ODA)",
+                "Gross disbursements (ODA)",
                 ""
               ]
             },
@@ -4346,8 +4346,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda and oof)",
-                "gross disbursements (oda and oof)",
+                "Commitments (ODA and OOF)",
+                "Gross disbursements (ODA and OOF)",
                 ""
               ]
             },
@@ -4961,8 +4961,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda and oof)",
-                "gross disbursements (oda and oof)",
+                "Commitments (ODA and OOF)",
+                "Gross disbursements (ODA and OOF)",
                 ""
               ]
             },
@@ -5199,13 +5199,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "restaurants and food services",
+                "Restaurants and food services",
                 "Private households",
-                "retail and other distribution of food",
+                "Retail and other distribution of food",
                 ""
               ]
             },
-            "title": "stages of the food chain"
+            "title": "Stages of the food chain"
           },
           {
             "name": "Value",
@@ -6475,7 +6475,7 @@
                 "Population who were exposed to physical violence",
                 "Population who were victims of criminal offences",
                 "Victims of criminal offences",
-                "population who were exposed to sexual violence",
+                "Population who were exposed to sexual violence",
                 ""
               ]
             },
@@ -7922,7 +7922,7 @@
                 ""
               ]
             },
-            "title": "function"
+            "title": "Function"
           },
           {
             "name": "Value",
@@ -8988,7 +8988,7 @@
               "enum": [
                 "Population not living in an area with crime, violence or vandalism",
                 "Feeling of (in)security of the population in its neighbourhood (after dark)",
-                "feeling of (in)security of the population in its neighbourhood (during the day)",
+                "Feeling of (in)security of the population in its neighbourhood (during the day)",
                 ""
               ]
             },
