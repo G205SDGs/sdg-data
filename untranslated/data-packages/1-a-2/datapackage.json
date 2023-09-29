@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "function",
             "type": "string",
             "constraints": {
               "enum": [
-                "government expenditure on health",
-                "government expenditure on education",
-                "government expenditure on social protection",
+                "health",
+                "education",
+                "social protection",
                 ""
               ]
             }

@@ -16,17 +16,17 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "function",
             "type": "string",
             "constraints": {
               "enum": [
-                "Government expenditure on health",
-                "Government expenditure on education",
-                "Government expenditure on social protection",
+                "Health",
+                "Education",
+                "Social protection",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "function"
           },
           {
             "name": "Value",

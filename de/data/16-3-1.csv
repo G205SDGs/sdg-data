@@ -1,7 +1,54 @@
-Year,Zeitreihe,Value
-2012,Anzeigequote bei Körperverletzung,32.9
-2017,Anzeigequote bei Körperverletzung,36.6
-2020,Anzeigequote bei Körperverletzung,33.5
-2012,Anzeigequote bei Raub,33.6
-2017,Anzeigequote bei Raub,32.0
-2020,Anzeigequote bei Raub,24.0
+Year,Zeitreihe,Geschlecht,Altersklasse,Value
+2012,Anzeigequote bei Körperverletzung,,,32.9
+2017,Anzeigequote bei Körperverletzung,,,36.6
+2020,Anzeigequote bei Körperverletzung,,,33.5
+2012,Anzeigequote bei Raub,,,33.6
+2017,Anzeigequote bei Raub,,,32.0
+2020,Anzeigequote bei Raub,,,24.0
+2012,Anzeigequote bei Körperverletzung,Weiblich,,34.1
+2017,Anzeigequote bei Körperverletzung,Weiblich,,40.0
+2020,Anzeigequote bei Körperverletzung,Weiblich,,21.3
+2012,Anzeigequote bei Körperverletzung,Männlich,,32.3
+2017,Anzeigequote bei Körperverletzung,Männlich,,34.6
+2020,Anzeigequote bei Körperverletzung,Männlich,,40.3
+2012,Anzeigequote bei Körperverletzung,,16 bis unter 25 Jahre,25.2
+2017,Anzeigequote bei Körperverletzung,,16 bis unter 25 Jahre,28.8
+2020,Anzeigequote bei Körperverletzung,,16 bis unter 25 Jahre,22.7
+2012,Anzeigequote bei Körperverletzung,,25 bis unter 35 Jahre,28.6
+2017,Anzeigequote bei Körperverletzung,,25 bis unter 35 Jahre,37.6
+2020,Anzeigequote bei Körperverletzung,,25 bis unter 35 Jahre,34.1
+2012,Anzeigequote bei Körperverletzung,,35 bis unter 45 Jahre,45.0
+2017,Anzeigequote bei Körperverletzung,,35 bis unter 45 Jahre,34.3
+2020,Anzeigequote bei Körperverletzung,,35 bis unter 45 Jahre,40.3
+2012,Anzeigequote bei Körperverletzung,,45 bis unter 55 Jahre,46.7
+2017,Anzeigequote bei Körperverletzung,,45 bis unter 55 Jahre,45.2
+2020,Anzeigequote bei Körperverletzung,,45 bis unter 55 Jahre,37.1
+2012,Anzeigequote bei Körperverletzung,,55 bis unter 65 Jahre,55.2
+2017,Anzeigequote bei Körperverletzung,,55 bis unter 65 Jahre,56.8
+2020,Anzeigequote bei Körperverletzung,,55 bis unter 65 Jahre,40.1
+2012,Anzeigequote bei Körperverletzung,,65 bis unter 75 Jahre,15.9
+2017,Anzeigequote bei Körperverletzung,,65 bis unter 75 Jahre,46.6
+2020,Anzeigequote bei Körperverletzung,,65 bis unter 75 Jahre,77.0
+2020,Anzeigequote bei Körperverletzung,,75 Jahre und älter,52.6
+2012,Anzeigequote bei Raub,Weiblich,,42.8
+2017,Anzeigequote bei Raub,Weiblich,,38.8
+2020,Anzeigequote bei Raub,Weiblich,,13.1
+2012,Anzeigequote bei Raub,Männlich,,28.3
+2017,Anzeigequote bei Raub,Männlich,,27.3
+2020,Anzeigequote bei Raub,Männlich,,37.2
+2012,Anzeigequote bei Raub,,16 bis unter 25 Jahre,28.0
+2017,Anzeigequote bei Raub,,16 bis unter 25 Jahre,29.8
+2020,Anzeigequote bei Raub,,16 bis unter 25 Jahre,12.6
+2012,Anzeigequote bei Raub,,25 bis unter 35 Jahre,34.2
+2017,Anzeigequote bei Raub,,25 bis unter 35 Jahre,25.0
+2020,Anzeigequote bei Raub,,25 bis unter 35 Jahre,23.0
+2012,Anzeigequote bei Raub,,35 bis unter 45 Jahre,35.8
+2017,Anzeigequote bei Raub,,35 bis unter 45 Jahre,39.3
+2020,Anzeigequote bei Raub,,35 bis unter 45 Jahre,40.4
+2012,Anzeigequote bei Raub,,45 bis unter 55 Jahre,33.7
+2017,Anzeigequote bei Raub,,45 bis unter 55 Jahre,44.6
+2020,Anzeigequote bei Raub,,45 bis unter 55 Jahre,43.2
+2012,Anzeigequote bei Raub,,55 bis unter 65 Jahre,59.3
+2017,Anzeigequote bei Raub,,55 bis unter 65 Jahre,31.1
+2020,Anzeigequote bei Raub,,55 bis unter 65 Jahre,19.3
+2020,Anzeigequote bei Raub,,65 bis unter 75 Jahre,90.9

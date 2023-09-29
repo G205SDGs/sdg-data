@@ -33,10 +33,8 @@ german bundestag (lower chamber),2,1
 gini coefficient of equivalised disposable income before social transfers (pre-fiscal),1,1
 gini coefficient of equivalised disposable income (post-fiscal),1,1
 government expenditure on cultural services (cofog division 8.2),1,1
-government expenditure on education,1,1
-government expenditure on health,1,1
 government expenditure on protection of biodiversity and landscape (cofog division 5.4),1,1
-government expenditure on social protection,2,2
+government expenditure on social protection,1,1
 government fiscal balance,1,1
 gross fixed capital formation,1,1
 groundwater mesuring points below the threshold value for nitrate,1,1
@@ -85,7 +83,8 @@ population growth rate,2,1
 population that has convenient access to public transport (within 10 minutes walking distance),9,1
 population that has convenient access to public transport (within 500 meters),17,1
 population using safely managed drinking water services,1,1
-population who were exposed to physical violence,1,1
+population who were exposed to physical violence,10,1
+population who were exposed to sexual violence,10,1
 population who were victims of criminal offences,1,1
 population with (own) bathtub or shower,2,1
 population with (own) toilet,2,1
@@ -101,8 +100,8 @@ ratio of land consumption rate to population growth rate,2,1
 real gdp per capita,1,1
 redistributive impact of fiscal policy,1,1
 regulatory tier 1 capital to risk-weighted assets,1,1
-reporting rate for physical assault,1,1
-reporting rate for robbery,1,1
+reporting rate for physical assault,10,1
+reporting rate for robbery,9,1
 return on assets,1,1
 rotterdam convention,1,1
 score for the implementation of unclos and ist two implementing agreements,1,1

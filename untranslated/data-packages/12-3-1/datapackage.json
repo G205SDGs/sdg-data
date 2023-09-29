@@ -15,19 +15,31 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "1,000 tonnes",
+                "kilogram per capita",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "stages of the food chain",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "restaurants and food services",
+                "private households",
+                "retail and other distribution of food",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

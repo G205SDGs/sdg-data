@@ -16,17 +16,17 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "function",
             "type": "string",
             "constraints": {
               "enum": [
-                "Staatsausgaben für Gesundheit",
-                "Staatsausgaben für Bildung",
-                "Staatsausgaben für soziale Sicherung",
+                "Gesundheit",
+                "Bildung",
+                "Soziale Sicherung",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "function"
           },
           {
             "name": "Value",

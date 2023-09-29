@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments)",
-                "ODA and OOF (gross disbursements)",
+                "commitments (oda and oof)",
+                "gross disbursements (oda and oof)",
                 ""
               ]
             },

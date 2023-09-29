@@ -1,7 +1,54 @@
-Year,timeseries,Value
-2012,reporting rate for physical assault,32.9
-2017,reporting rate for physical assault,36.6
-2020,reporting rate for physical assault,33.5
-2012,reporting rate for robbery,33.6
-2017,reporting rate for robbery,32.0
-2020,reporting rate for robbery,24.0
+Year,timeseries,sex,age group,Value
+2012,reporting rate for physical assault,,,32.9
+2017,reporting rate for physical assault,,,36.6
+2020,reporting rate for physical assault,,,33.5
+2012,reporting rate for robbery,,,33.6
+2017,reporting rate for robbery,,,32.0
+2020,reporting rate for robbery,,,24.0
+2012,reporting rate for physical assault,female,,34.1
+2017,reporting rate for physical assault,female,,40.0
+2020,reporting rate for physical assault,female,,21.3
+2012,reporting rate for physical assault,male,,32.3
+2017,reporting rate for physical assault,male,,34.6
+2020,reporting rate for physical assault,male,,40.3
+2012,reporting rate for physical assault,,16 to under 25 years,25.2
+2017,reporting rate for physical assault,,16 to under 25 years,28.8
+2020,reporting rate for physical assault,,16 to under 25 years,22.7
+2012,reporting rate for physical assault,,25 to under 35 years,28.6
+2017,reporting rate for physical assault,,25 to under 35 years,37.6
+2020,reporting rate for physical assault,,25 to under 35 years,34.1
+2012,reporting rate for physical assault,,35 to under 45 years,45.0
+2017,reporting rate for physical assault,,35 to under 45 years,34.3
+2020,reporting rate for physical assault,,35 to under 45 years,40.3
+2012,reporting rate for physical assault,,45 to under 55 years,46.7
+2017,reporting rate for physical assault,,45 to under 55 years,45.2
+2020,reporting rate for physical assault,,45 to under 55 years,37.1
+2012,reporting rate for physical assault,,55 to under 65 years,55.2
+2017,reporting rate for physical assault,,55 to under 65 years,56.8
+2020,reporting rate for physical assault,,55 to under 65 years,40.1
+2012,reporting rate for physical assault,,65 to under 75 years,15.9
+2017,reporting rate for physical assault,,65 to under 75 years,46.6
+2020,reporting rate for physical assault,,65 to under 75 years,77.0
+2020,reporting rate for physical assault,,75 years and older,52.6
+2012,reporting rate for robbery,female,,42.8
+2017,reporting rate for robbery,female,,38.8
+2020,reporting rate for robbery,female,,13.1
+2012,reporting rate for robbery,male,,28.3
+2017,reporting rate for robbery,male,,27.3
+2020,reporting rate for robbery,male,,37.2
+2012,reporting rate for robbery,,16 to under 25 years,28.0
+2017,reporting rate for robbery,,16 to under 25 years,29.8
+2020,reporting rate for robbery,,16 to under 25 years,12.6
+2012,reporting rate for robbery,,25 to under 35 years,34.2
+2017,reporting rate for robbery,,25 to under 35 years,25.0
+2020,reporting rate for robbery,,25 to under 35 years,23.0
+2012,reporting rate for robbery,,35 to under 45 years,35.8
+2017,reporting rate for robbery,,35 to under 45 years,39.3
+2020,reporting rate for robbery,,35 to under 45 years,40.4
+2012,reporting rate for robbery,,45 to under 55 years,33.7
+2017,reporting rate for robbery,,45 to under 55 years,44.6
+2020,reporting rate for robbery,,45 to under 55 years,43.2
+2012,reporting rate for robbery,,55 to under 65 years,59.3
+2017,reporting rate for robbery,,55 to under 65 years,31.1
+2020,reporting rate for robbery,,55 to under 65 years,19.3
+2020,reporting rate for robbery,,65 to under 75 years,90.9

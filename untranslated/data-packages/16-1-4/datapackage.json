@@ -15,6 +15,33 @@
             "type": "integer"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 25 years",
+                "25 to under 35 years",
+                "35 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 to under 75 years",
+                "75 years and older",
+                ""
+              ]
+            }
+          },
+          {
             "name": "feelings of insecurity",
             "type": "string",
             "constraints": {
@@ -32,8 +59,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "feeling of (in)security of the population in its neighbourhood (after dark)",
                 "population not living in an area with crime, violence or vandalism",
+                "feeling of (in)security of the population in its neighbourhood (after dark)",
+                "feeling of (in)security of the population in its neighbourhood (during the day)",
                 ""
               ]
             }
