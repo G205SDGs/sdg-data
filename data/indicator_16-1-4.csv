@@ -1,15 +1,4 @@
 Year,sex,age group,feelings of insecurity,Value,Series
-2010,,,,88.0,"population not living in an area with crime, violence or vandalism"
-2011,,,,87.1,"population not living in an area with crime, violence or vandalism"
-2012,,,,87.5,"population not living in an area with crime, violence or vandalism"
-2013,,,,86.5,"population not living in an area with crime, violence or vandalism"
-2014,,,,86.9,"population not living in an area with crime, violence or vandalism"
-2015,,,,86.2,"population not living in an area with crime, violence or vandalism"
-2016,,,,85.9,"population not living in an area with crime, violence or vandalism"
-2017,,,,85.8,"population not living in an area with crime, violence or vandalism"
-2018,,,,86.7,"population not living in an area with crime, violence or vandalism"
-2019,,,,86.9,"population not living in an area with crime, violence or vandalism"
-2020,,,,91.8,"population not living in an area with crime, violence or vandalism"
 2012,,,very safe,41.6,feeling of (in)security of the population in its neighbourhood (after dark)
 2017,,,very safe,36.7,feeling of (in)security of the population in its neighbourhood (after dark)
 2020,,,very safe,25.8,feeling of (in)security of the population in its neighbourhood (after dark)
@@ -250,3 +239,14 @@ Year,sex,age group,feelings of insecurity,Value,Series
 2019,,75 years and older,very unsafe,,feeling of (in)security of the population in its neighbourhood (during the day)
 2020,,75 years and older,very unsafe,0.3,feeling of (in)security of the population in its neighbourhood (during the day)
 2021,,75 years and older,very unsafe,,feeling of (in)security of the population in its neighbourhood (during the day)
+2010,,,,88.0,"population not living in an area with crime, violence or vandalism"
+2011,,,,87.1,"population not living in an area with crime, violence or vandalism"
+2012,,,,87.5,"population not living in an area with crime, violence or vandalism"
+2013,,,,86.5,"population not living in an area with crime, violence or vandalism"
+2014,,,,86.9,"population not living in an area with crime, violence or vandalism"
+2015,,,,86.2,"population not living in an area with crime, violence or vandalism"
+2016,,,,85.9,"population not living in an area with crime, violence or vandalism"
+2017,,,,85.8,"population not living in an area with crime, violence or vandalism"
+2018,,,,86.7,"population not living in an area with crime, violence or vandalism"
+2019,,,,86.9,"population not living in an area with crime, violence or vandalism"
+2020,,,,91.8,"population not living in an area with crime, violence or vandalism"
