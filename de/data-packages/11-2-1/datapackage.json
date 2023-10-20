@@ -16,12 +16,12 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)",
-                "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)",
+                "Erreichbarkeit innerhalb von 500 m",
+                "Erreichbarkeit innerhalb von 10 Minuten zu Fuß",
                 ""
               ]
             },

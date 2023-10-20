@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Erneuerbaren Energien am gesamten Endenergieverbrauch",
-                "Erneuerbaren Energien am Bruttoendenergieverbrauch",
+                "Erneuerbare Energien am gesamten Endenergieverbrauch",
+                "Erneuerbare Energien am Bruttoendenergieverbrauch",
                 ""
               ]
             },

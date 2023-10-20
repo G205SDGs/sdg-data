@@ -15,23 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "proportion of sustainable managed stocks in all msy examined stocks",
-                "proportion of msy examined in all managed stocks",
-                ""
-              ]
-            }
-          },
-          {
             "name": "sea",
             "type": "string",
             "constraints": {
               "enum": [
                 "greater north sea",
                 "baltic sea",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sustainably managed fish stocks in the north and baltic seas on all msy examined stocks",
+                "msy examined fish stocks in all managed stocks",
                 ""
               ]
             }

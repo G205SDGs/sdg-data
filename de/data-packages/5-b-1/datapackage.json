@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Penetrationsrate Mobilfunk",
                 "Privathaushalte mit mindestens einem Mobiltelefon",
+                "Penetrationsrate Mobilfunk",
                 ""
               ]
             },

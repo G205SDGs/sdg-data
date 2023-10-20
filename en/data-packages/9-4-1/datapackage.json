@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

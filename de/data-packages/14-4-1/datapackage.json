@@ -16,18 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte an allen bewirtschafteten Beständen",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "sea",
             "type": "string",
             "constraints": {
@@ -38,6 +26,18 @@
               ]
             },
             "title": "Meer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nachhaltig befischte Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen",
+                "MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

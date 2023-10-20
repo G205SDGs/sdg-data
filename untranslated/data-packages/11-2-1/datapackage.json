@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "population that has convenient access to public transport (within 500 meters)",
-                "population that has convenient access to public transport (within 10 minutes walking distance)",
+                "accessibility within 500 m",
+                "accessibility within 10 minutes on foot",
                 ""
               ]
             }

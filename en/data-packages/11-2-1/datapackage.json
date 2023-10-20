@@ -16,12 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Population that has convenient access to public transport (within 500 meters)",
-                "Population that has convenient access to public transport (within 10 minutes walking distance)",
+                "Accessibility within 500 m",
+                "Accessibility within 10 minutes on foot",
                 ""
               ]
             },

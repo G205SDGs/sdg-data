@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mobile penetration rate",
                 "Private households with at least one mobile phone",
+                "Mobile penetration rate",
                 ""
               ]
             },
