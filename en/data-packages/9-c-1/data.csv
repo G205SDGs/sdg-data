@@ -1,40 +1,456 @@
-Year,Technology,Value
-2010,3G,86.6
-2011,3G,88.5
-2012,3G,90.4
-2013,3G,92.2
-2014,3G,92.5
-2015,3G,91.9
-2016,3G,91.4
-2017,3G,90.6
-2018,3G,91.8
-2019,3G,91.8
-2020,3G,88.9
-2021,3G,25.8
-2022,3G,
-2010,LTE,2.1
-2011,LTE,21.5
-2012,LTE,51.7
-2013,LTE,81.0
-2014,LTE,92.1
-2015,LTE,95.7
-2016,LTE,96.2
-2017,LTE,96.2
-2018,LTE,98.2
-2019,LTE,97.9
-2020,LTE,99.9
-2021,LTE,99.8
-2022,LTE,99.9
-2010,5G,
-2011,5G,
-2012,5G,
-2013,5G,
-2014,5G,
-2015,5G,
-2016,5G,
-2017,5G,
-2018,5G,
-2019,5G,
-2020,5G,
-2021,5G,86.3
-2022,5G,96.9
+Year,Technology,Länder,GeoCode,Value
+2010,3G,Germany,,86.6
+2011,3G,Germany,,88.5
+2012,3G,Germany,,90.4
+2013,3G,Germany,,92.2
+2014,3G,Germany,,92.5
+2015,3G,Germany,,91.9
+2016,3G,Germany,,91.4
+2017,3G,Germany,,90.6
+2018,3G,Germany,,91.8
+2019,3G,Germany,,91.8
+2020,3G,Germany,,88.9
+2021,3G,Germany,,25.8
+2022,3G,Germany,,
+2010,LTE,Germany,,2.1
+2011,LTE,Germany,,21.5
+2012,LTE,Germany,,51.7
+2013,LTE,Germany,,81.0
+2014,LTE,Germany,,92.1
+2015,LTE,Germany,,95.7
+2016,LTE,Germany,,96.2
+2017,LTE,Germany,,96.2
+2018,LTE,Germany,,98.2
+2019,LTE,Germany,,97.9
+2020,LTE,Germany,,99.9
+2021,LTE,Germany,,99.8
+2022,LTE,Germany,,99.8
+2010,LTE,Baden-Württemberg,code08,
+2011,LTE,Baden-Württemberg,code08,
+2012,LTE,Baden-Württemberg,code08,
+2013,LTE,Baden-Württemberg,code08,
+2014,LTE,Baden-Württemberg,code08,
+2015,LTE,Baden-Württemberg,code08,
+2016,LTE,Baden-Württemberg,code08,
+2017,LTE,Baden-Württemberg,code08,
+2018,LTE,Baden-Württemberg,code08,
+2019,LTE,Baden-Württemberg,code08,
+2020,LTE,Baden-Württemberg,code08,
+2021,LTE,Baden-Württemberg,code08,99.6
+2022,LTE,Baden-Württemberg,code08,99.7
+2010,LTE,Bavaria,code09,
+2011,LTE,Bavaria,code09,
+2012,LTE,Bavaria,code09,
+2013,LTE,Bavaria,code09,
+2014,LTE,Bavaria,code09,
+2015,LTE,Bavaria,code09,
+2016,LTE,Bavaria,code09,
+2017,LTE,Bavaria,code09,
+2018,LTE,Bavaria,code09,
+2019,LTE,Bavaria,code09,
+2020,LTE,Bavaria,code09,
+2021,LTE,Bavaria,code09,99.7
+2022,LTE,Bavaria,code09,99.7
+2010,LTE,Berlin,code11,
+2011,LTE,Berlin,code11,
+2012,LTE,Berlin,code11,
+2013,LTE,Berlin,code11,
+2014,LTE,Berlin,code11,
+2015,LTE,Berlin,code11,
+2016,LTE,Berlin,code11,
+2017,LTE,Berlin,code11,
+2018,LTE,Berlin,code11,
+2019,LTE,Berlin,code11,
+2020,LTE,Berlin,code11,
+2021,LTE,Berlin,code11,100.0
+2022,LTE,Berlin,code11,100.0
+2010,LTE,Brandenburg,code12,
+2011,LTE,Brandenburg,code12,
+2012,LTE,Brandenburg,code12,
+2013,LTE,Brandenburg,code12,
+2014,LTE,Brandenburg,code12,
+2015,LTE,Brandenburg,code12,
+2016,LTE,Brandenburg,code12,
+2017,LTE,Brandenburg,code12,
+2018,LTE,Brandenburg,code12,
+2019,LTE,Brandenburg,code12,
+2020,LTE,Brandenburg,code12,
+2021,LTE,Brandenburg,code12,99.8
+2022,LTE,Brandenburg,code12,99.8
+2010,LTE,Bremen,code04,
+2011,LTE,Bremen,code04,
+2012,LTE,Bremen,code04,
+2013,LTE,Bremen,code04,
+2014,LTE,Bremen,code04,
+2015,LTE,Bremen,code04,
+2016,LTE,Bremen,code04,
+2017,LTE,Bremen,code04,
+2018,LTE,Bremen,code04,
+2019,LTE,Bremen,code04,
+2020,LTE,Bremen,code04,
+2021,LTE,Bremen,code04,100.0
+2022,LTE,Bremen,code04,100.0
+2010,LTE,Hamburg,code02,
+2011,LTE,Hamburg,code02,
+2012,LTE,Hamburg,code02,
+2013,LTE,Hamburg,code02,
+2014,LTE,Hamburg,code02,
+2015,LTE,Hamburg,code02,
+2016,LTE,Hamburg,code02,
+2017,LTE,Hamburg,code02,
+2018,LTE,Hamburg,code02,
+2019,LTE,Hamburg,code02,
+2020,LTE,Hamburg,code02,
+2021,LTE,Hamburg,code02,100.0
+2022,LTE,Hamburg,code02,100.0
+2010,LTE,Hesse,code06,
+2011,LTE,Hesse,code06,
+2012,LTE,Hesse,code06,
+2013,LTE,Hesse,code06,
+2014,LTE,Hesse,code06,
+2015,LTE,Hesse,code06,
+2016,LTE,Hesse,code06,
+2017,LTE,Hesse,code06,
+2018,LTE,Hesse,code06,
+2019,LTE,Hesse,code06,
+2020,LTE,Hesse,code06,
+2021,LTE,Hesse,code06,99.7
+2022,LTE,Hesse,code06,99.8
+2010,LTE,Mecklenburg Western Pomerania,code13,
+2011,LTE,Mecklenburg Western Pomerania,code13,
+2012,LTE,Mecklenburg Western Pomerania,code13,
+2013,LTE,Mecklenburg Western Pomerania,code13,
+2014,LTE,Mecklenburg Western Pomerania,code13,
+2015,LTE,Mecklenburg Western Pomerania,code13,
+2016,LTE,Mecklenburg Western Pomerania,code13,
+2017,LTE,Mecklenburg Western Pomerania,code13,
+2018,LTE,Mecklenburg Western Pomerania,code13,
+2019,LTE,Mecklenburg Western Pomerania,code13,
+2020,LTE,Mecklenburg Western Pomerania,code13,
+2021,LTE,Mecklenburg Western Pomerania,code13,99.8
+2022,LTE,Mecklenburg Western Pomerania,code13,99.9
+2010,LTE,Lower Saxony,code03,
+2011,LTE,Lower Saxony,code03,
+2012,LTE,Lower Saxony,code03,
+2013,LTE,Lower Saxony,code03,
+2014,LTE,Lower Saxony,code03,
+2015,LTE,Lower Saxony,code03,
+2016,LTE,Lower Saxony,code03,
+2017,LTE,Lower Saxony,code03,
+2018,LTE,Lower Saxony,code03,
+2019,LTE,Lower Saxony,code03,
+2020,LTE,Lower Saxony,code03,
+2021,LTE,Lower Saxony,code03,99.9
+2022,LTE,Lower Saxony,code03,99.9
+2010,LTE,North Rhine-Westphalia,code05,
+2011,LTE,North Rhine-Westphalia,code05,
+2012,LTE,North Rhine-Westphalia,code05,
+2013,LTE,North Rhine-Westphalia,code05,
+2014,LTE,North Rhine-Westphalia,code05,
+2015,LTE,North Rhine-Westphalia,code05,
+2016,LTE,North Rhine-Westphalia,code05,
+2017,LTE,North Rhine-Westphalia,code05,
+2018,LTE,North Rhine-Westphalia,code05,
+2019,LTE,North Rhine-Westphalia,code05,
+2020,LTE,North Rhine-Westphalia,code05,
+2021,LTE,North Rhine-Westphalia,code05,100.0
+2022,LTE,North Rhine-Westphalia,code05,100.0
+2010,LTE,Rhineland Palatinate,code07,
+2011,LTE,Rhineland Palatinate,code07,
+2012,LTE,Rhineland Palatinate,code07,
+2013,LTE,Rhineland Palatinate,code07,
+2014,LTE,Rhineland Palatinate,code07,
+2015,LTE,Rhineland Palatinate,code07,
+2016,LTE,Rhineland Palatinate,code07,
+2017,LTE,Rhineland Palatinate,code07,
+2018,LTE,Rhineland Palatinate,code07,
+2019,LTE,Rhineland Palatinate,code07,
+2020,LTE,Rhineland Palatinate,code07,
+2021,LTE,Rhineland Palatinate,code07,99.6
+2022,LTE,Rhineland Palatinate,code07,99.7
+2010,LTE,Saarland,code10,
+2011,LTE,Saarland,code10,
+2012,LTE,Saarland,code10,
+2013,LTE,Saarland,code10,
+2014,LTE,Saarland,code10,
+2015,LTE,Saarland,code10,
+2016,LTE,Saarland,code10,
+2017,LTE,Saarland,code10,
+2018,LTE,Saarland,code10,
+2019,LTE,Saarland,code10,
+2020,LTE,Saarland,code10,
+2021,LTE,Saarland,code10,99.8
+2022,LTE,Saarland,code10,99.8
+2010,LTE,Saxony,code14,
+2011,LTE,Saxony,code14,
+2012,LTE,Saxony,code14,
+2013,LTE,Saxony,code14,
+2014,LTE,Saxony,code14,
+2015,LTE,Saxony,code14,
+2016,LTE,Saxony,code14,
+2017,LTE,Saxony,code14,
+2018,LTE,Saxony,code14,
+2019,LTE,Saxony,code14,
+2020,LTE,Saxony,code14,
+2021,LTE,Saxony,code14,99.9
+2022,LTE,Saxony,code14,99.9
+2010,LTE,Saxony-Anhalt,code15,
+2011,LTE,Saxony-Anhalt,code15,
+2012,LTE,Saxony-Anhalt,code15,
+2013,LTE,Saxony-Anhalt,code15,
+2014,LTE,Saxony-Anhalt,code15,
+2015,LTE,Saxony-Anhalt,code15,
+2016,LTE,Saxony-Anhalt,code15,
+2017,LTE,Saxony-Anhalt,code15,
+2018,LTE,Saxony-Anhalt,code15,
+2019,LTE,Saxony-Anhalt,code15,
+2020,LTE,Saxony-Anhalt,code15,
+2021,LTE,Saxony-Anhalt,code15,99.5
+2022,LTE,Saxony-Anhalt,code15,99.8
+2010,LTE,Schleswig-Holstein,code01,
+2011,LTE,Schleswig-Holstein,code01,
+2012,LTE,Schleswig-Holstein,code01,
+2013,LTE,Schleswig-Holstein,code01,
+2014,LTE,Schleswig-Holstein,code01,
+2015,LTE,Schleswig-Holstein,code01,
+2016,LTE,Schleswig-Holstein,code01,
+2017,LTE,Schleswig-Holstein,code01,
+2018,LTE,Schleswig-Holstein,code01,
+2019,LTE,Schleswig-Holstein,code01,
+2020,LTE,Schleswig-Holstein,code01,
+2021,LTE,Schleswig-Holstein,code01,100.0
+2022,LTE,Schleswig-Holstein,code01,100.0
+2010,LTE,Thuringia,code16,
+2011,LTE,Thuringia,code16,
+2012,LTE,Thuringia,code16,
+2013,LTE,Thuringia,code16,
+2014,LTE,Thuringia,code16,
+2015,LTE,Thuringia,code16,
+2016,LTE,Thuringia,code16,
+2017,LTE,Thuringia,code16,
+2018,LTE,Thuringia,code16,
+2019,LTE,Thuringia,code16,
+2020,LTE,Thuringia,code16,
+2021,LTE,Thuringia,code16,99.5
+2022,LTE,Thuringia,code16,99.6
+2010,5G,Germany,,
+2011,5G,Germany,,
+2012,5G,Germany,,
+2013,5G,Germany,,
+2014,5G,Germany,,
+2015,5G,Germany,,
+2016,5G,Germany,,
+2017,5G,Germany,,
+2018,5G,Germany,,
+2019,5G,Germany,,
+2020,5G,Germany,,
+2021,5G,Germany,,86.3
+2022,5G,Germany,,95.1
+2010,5G,Baden-Württemberg,code08,
+2011,5G,Baden-Württemberg,code08,
+2012,5G,Baden-Württemberg,code08,
+2013,5G,Baden-Württemberg,code08,
+2014,5G,Baden-Württemberg,code08,
+2015,5G,Baden-Württemberg,code08,
+2016,5G,Baden-Württemberg,code08,
+2017,5G,Baden-Württemberg,code08,
+2018,5G,Baden-Württemberg,code08,
+2019,5G,Baden-Württemberg,code08,
+2020,5G,Baden-Württemberg,code08,
+2021,5G,Baden-Württemberg,code08,80.5
+2022,5G,Baden-Württemberg,code08,91.7
+2010,5G,Bavaria,code09,
+2011,5G,Bavaria,code09,
+2012,5G,Bavaria,code09,
+2013,5G,Bavaria,code09,
+2014,5G,Bavaria,code09,
+2015,5G,Bavaria,code09,
+2016,5G,Bavaria,code09,
+2017,5G,Bavaria,code09,
+2018,5G,Bavaria,code09,
+2019,5G,Bavaria,code09,
+2020,5G,Bavaria,code09,
+2021,5G,Bavaria,code09,87.3
+2022,5G,Bavaria,code09,95.5
+2010,5G,Berlin,code11,
+2011,5G,Berlin,code11,
+2012,5G,Berlin,code11,
+2013,5G,Berlin,code11,
+2014,5G,Berlin,code11,
+2015,5G,Berlin,code11,
+2016,5G,Berlin,code11,
+2017,5G,Berlin,code11,
+2018,5G,Berlin,code11,
+2019,5G,Berlin,code11,
+2020,5G,Berlin,code11,
+2021,5G,Berlin,code11,99.5
+2022,5G,Berlin,code11,100.0
+2010,5G,Brandenburg,code12,
+2011,5G,Brandenburg,code12,
+2012,5G,Brandenburg,code12,
+2013,5G,Brandenburg,code12,
+2014,5G,Brandenburg,code12,
+2015,5G,Brandenburg,code12,
+2016,5G,Brandenburg,code12,
+2017,5G,Brandenburg,code12,
+2018,5G,Brandenburg,code12,
+2019,5G,Brandenburg,code12,
+2020,5G,Brandenburg,code12,
+2021,5G,Brandenburg,code12,82.5
+2022,5G,Brandenburg,code12,94.8
+2010,5G,Bremen,code04,
+2011,5G,Bremen,code04,
+2012,5G,Bremen,code04,
+2013,5G,Bremen,code04,
+2014,5G,Bremen,code04,
+2015,5G,Bremen,code04,
+2016,5G,Bremen,code04,
+2017,5G,Bremen,code04,
+2018,5G,Bremen,code04,
+2019,5G,Bremen,code04,
+2020,5G,Bremen,code04,
+2021,5G,Bremen,code04,98.8
+2022,5G,Bremen,code04,99.9
+2010,5G,Hamburg,code02,
+2011,5G,Hamburg,code02,
+2012,5G,Hamburg,code02,
+2013,5G,Hamburg,code02,
+2014,5G,Hamburg,code02,
+2015,5G,Hamburg,code02,
+2016,5G,Hamburg,code02,
+2017,5G,Hamburg,code02,
+2018,5G,Hamburg,code02,
+2019,5G,Hamburg,code02,
+2020,5G,Hamburg,code02,
+2021,5G,Hamburg,code02,99.3
+2022,5G,Hamburg,code02,99.8
+2010,5G,Hesse,code06,
+2011,5G,Hesse,code06,
+2012,5G,Hesse,code06,
+2013,5G,Hesse,code06,
+2014,5G,Hesse,code06,
+2015,5G,Hesse,code06,
+2016,5G,Hesse,code06,
+2017,5G,Hesse,code06,
+2018,5G,Hesse,code06,
+2019,5G,Hesse,code06,
+2020,5G,Hesse,code06,
+2021,5G,Hesse,code06,87.5
+2022,5G,Hesse,code06,94.4
+2010,5G,Mecklenburg Western Pomerania,code13,
+2011,5G,Mecklenburg Western Pomerania,code13,
+2012,5G,Mecklenburg Western Pomerania,code13,
+2013,5G,Mecklenburg Western Pomerania,code13,
+2014,5G,Mecklenburg Western Pomerania,code13,
+2015,5G,Mecklenburg Western Pomerania,code13,
+2016,5G,Mecklenburg Western Pomerania,code13,
+2017,5G,Mecklenburg Western Pomerania,code13,
+2018,5G,Mecklenburg Western Pomerania,code13,
+2019,5G,Mecklenburg Western Pomerania,code13,
+2020,5G,Mecklenburg Western Pomerania,code13,
+2021,5G,Mecklenburg Western Pomerania,code13,77.3
+2022,5G,Mecklenburg Western Pomerania,code13,90.5
+2010,5G,Lower Saxony,code03,
+2011,5G,Lower Saxony,code03,
+2012,5G,Lower Saxony,code03,
+2013,5G,Lower Saxony,code03,
+2014,5G,Lower Saxony,code03,
+2015,5G,Lower Saxony,code03,
+2016,5G,Lower Saxony,code03,
+2017,5G,Lower Saxony,code03,
+2018,5G,Lower Saxony,code03,
+2019,5G,Lower Saxony,code03,
+2020,5G,Lower Saxony,code03,
+2021,5G,Lower Saxony,code03,84.7
+2022,5G,Lower Saxony,code03,93.9
+2010,5G,North Rhine-Westphalia,code05,
+2011,5G,North Rhine-Westphalia,code05,
+2012,5G,North Rhine-Westphalia,code05,
+2013,5G,North Rhine-Westphalia,code05,
+2014,5G,North Rhine-Westphalia,code05,
+2015,5G,North Rhine-Westphalia,code05,
+2016,5G,North Rhine-Westphalia,code05,
+2017,5G,North Rhine-Westphalia,code05,
+2018,5G,North Rhine-Westphalia,code05,
+2019,5G,North Rhine-Westphalia,code05,
+2020,5G,North Rhine-Westphalia,code05,
+2021,5G,North Rhine-Westphalia,code05,92.7
+2022,5G,North Rhine-Westphalia,code05,98.2
+2010,5G,Rhineland Palatinate,code07,
+2011,5G,Rhineland Palatinate,code07,
+2012,5G,Rhineland Palatinate,code07,
+2013,5G,Rhineland Palatinate,code07,
+2014,5G,Rhineland Palatinate,code07,
+2015,5G,Rhineland Palatinate,code07,
+2016,5G,Rhineland Palatinate,code07,
+2017,5G,Rhineland Palatinate,code07,
+2018,5G,Rhineland Palatinate,code07,
+2019,5G,Rhineland Palatinate,code07,
+2020,5G,Rhineland Palatinate,code07,
+2021,5G,Rhineland Palatinate,code07,78.8
+2022,5G,Rhineland Palatinate,code07,89.9
+2010,5G,Saarland,code10,
+2011,5G,Saarland,code10,
+2012,5G,Saarland,code10,
+2013,5G,Saarland,code10,
+2014,5G,Saarland,code10,
+2015,5G,Saarland,code10,
+2016,5G,Saarland,code10,
+2017,5G,Saarland,code10,
+2018,5G,Saarland,code10,
+2019,5G,Saarland,code10,
+2020,5G,Saarland,code10,
+2021,5G,Saarland,code10,83.9
+2022,5G,Saarland,code10,92.8
+2010,5G,Saxony,code14,
+2011,5G,Saxony,code14,
+2012,5G,Saxony,code14,
+2013,5G,Saxony,code14,
+2014,5G,Saxony,code14,
+2015,5G,Saxony,code14,
+2016,5G,Saxony,code14,
+2017,5G,Saxony,code14,
+2018,5G,Saxony,code14,
+2019,5G,Saxony,code14,
+2020,5G,Saxony,code14,
+2021,5G,Saxony,code14,80.7
+2022,5G,Saxony,code14,96.1
+2010,5G,Saxony-Anhalt,code15,
+2011,5G,Saxony-Anhalt,code15,
+2012,5G,Saxony-Anhalt,code15,
+2013,5G,Saxony-Anhalt,code15,
+2014,5G,Saxony-Anhalt,code15,
+2015,5G,Saxony-Anhalt,code15,
+2016,5G,Saxony-Anhalt,code15,
+2017,5G,Saxony-Anhalt,code15,
+2018,5G,Saxony-Anhalt,code15,
+2019,5G,Saxony-Anhalt,code15,
+2020,5G,Saxony-Anhalt,code15,
+2021,5G,Saxony-Anhalt,code15,75.2
+2022,5G,Saxony-Anhalt,code15,91.6
+2010,5G,Schleswig-Holstein,code01,
+2011,5G,Schleswig-Holstein,code01,
+2012,5G,Schleswig-Holstein,code01,
+2013,5G,Schleswig-Holstein,code01,
+2014,5G,Schleswig-Holstein,code01,
+2015,5G,Schleswig-Holstein,code01,
+2016,5G,Schleswig-Holstein,code01,
+2017,5G,Schleswig-Holstein,code01,
+2018,5G,Schleswig-Holstein,code01,
+2019,5G,Schleswig-Holstein,code01,
+2020,5G,Schleswig-Holstein,code01,
+2021,5G,Schleswig-Holstein,code01,85.3
+2022,5G,Schleswig-Holstein,code01,95.3
+2010,5G,Thuringia,code16,
+2011,5G,Thuringia,code16,
+2012,5G,Thuringia,code16,
+2013,5G,Thuringia,code16,
+2014,5G,Thuringia,code16,
+2015,5G,Thuringia,code16,
+2016,5G,Thuringia,code16,
+2017,5G,Thuringia,code16,
+2018,5G,Thuringia,code16,
+2019,5G,Thuringia,code16,
+2020,5G,Thuringia,code16,
+2021,5G,Thuringia,code16,71.7
+2022,5G,Thuringia,code16,90.4

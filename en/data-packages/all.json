@@ -1835,8 +1835,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control",
-                "(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020",
+                "(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control",
+                "(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020",
                 ""
               ]
             },
@@ -4012,8 +4012,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population weighted annual mean levels of fine particulate matter",
-                "population with excessive exposure to fine particulate matter",
+                "Population weighted annual mean levels of fine particulate matter",
+                "Population with excessive exposure to fine particulate matter",
                 ""
               ]
             },
@@ -9098,6 +9098,38 @@
               ]
             },
             "title": "Technology"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Germany",
+                "Baden-Württemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                ""
+              ]
+            },
+            "title": "Länder"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

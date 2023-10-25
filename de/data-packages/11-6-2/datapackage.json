@@ -44,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population weighted annual mean levels of fine particulate matter",
-                "population with excessive exposure to fine particulate matter",
+                "Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub",
+                "Bevölkerung mit erhöhter Feinstaubexposition",
                 ""
               ]
             },

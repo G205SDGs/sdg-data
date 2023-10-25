@@ -1835,8 +1835,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control",
-                "(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020",
+                "(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden",
+                "(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020",
                 ""
               ]
             },
@@ -4012,8 +4012,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population weighted annual mean levels of fine particulate matter",
-                "population with excessive exposure to fine particulate matter",
+                "Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub",
+                "Bevölkerung mit erhöhter Feinstaubexposition",
                 ""
               ]
             },
@@ -9098,6 +9098,38 @@
               ]
             },
             "title": "Technologie"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutschland",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
