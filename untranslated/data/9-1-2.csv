@@ -71,6 +71,7 @@ Year,Units,mode of transport,Series,Value
 2019,million tonne-kilometres,,freight transport,697942
 2020,million tonne-kilometres,,freight transport,671760
 2021,million tonne-kilometres,,freight transport,702360
+2022,million tonne-kilometres,,freight transport,703029
 2010,million tonne-kilometres,road transport,freight transport,440600
 2011,million tonne-kilometres,road transport,freight transport,442600
 2012,million tonne-kilometres,road transport,freight transport,432000
@@ -79,10 +80,11 @@ Year,Units,mode of transport,Series,Value
 2015,million tonne-kilometres,road transport,freight transport,464600
 2016,million tonne-kilometres,road transport,freight transport,473400
 2017,million tonne-kilometres,road transport,freight transport,486000
-2018,million tonne-kilometres,road transport,freight transport,499200
-2019,million tonne-kilometres,road transport,freight transport,498600
-2020,million tonne-kilometres,road transport,freight transport,487400
-2021,million tonne-kilometres,road transport,freight transport,505600
+2018,million tonne-kilometres,road transport,freight transport,497200
+2019,million tonne-kilometres,road transport,freight transport,498700
+2020,million tonne-kilometres,road transport,freight transport,487500
+2021,million tonne-kilometres,road transport,freight transport,506100
+2022,million tonne-kilometres,road transport,freight transport,504800
 2010,million tonne-kilometres,rail transport,freight transport,107317
 2011,million tonne-kilometres,rail transport,freight transport,113317
 2012,million tonne-kilometres,rail transport,freight transport,110065
@@ -95,6 +97,7 @@ Year,Units,mode of transport,Series,Value
 2019,million tonne-kilometres,rail transport,freight transport,129161
 2020,million tonne-kilometres,rail transport,freight transport,119790
 2021,million tonne-kilometres,rail transport,freight transport,131035
+2022,million tonne-kilometres,rail transport,freight transport,134754
 2010,million tonne-kilometres,inland waterway transport,freight transport,62278
 2011,million tonne-kilometres,inland waterway transport,freight transport,55027
 2012,million tonne-kilometres,inland waterway transport,freight transport,58488
@@ -106,7 +109,8 @@ Year,Units,mode of transport,Series,Value
 2018,million tonne-kilometres,inland waterway transport,freight transport,46901
 2019,million tonne-kilometres,inland waterway transport,freight transport,50945
 2020,million tonne-kilometres,inland waterway transport,freight transport,46338
-2021,million tonne-kilometres,inland waterway transport,freight transport,48197
+2021,million tonne-kilometres,inland waterway transport,freight transport,48182
+2022,million tonne-kilometres,inland waterway transport,freight transport,44117
 2010,million tonne-kilometres,air transport,freight transport,1428
 2011,million tonne-kilometres,air transport,freight transport,1480
 2012,million tonne-kilometres,air transport,freight transport,1421
@@ -119,6 +123,7 @@ Year,Units,mode of transport,Series,Value
 2019,million tonne-kilometres,air transport,freight transport,1587
 2020,million tonne-kilometres,air transport,freight transport,1546
 2021,million tonne-kilometres,air transport,freight transport,1790
+2022,million tonne-kilometres,air transport,freight transport,1635
 2010,million tonne-kilometres,pipelines: crude oil,freight transport,16259
 2011,million tonne-kilometres,pipelines: crude oil,freight transport,15623
 2012,million tonne-kilometres,pipelines: crude oil,freight transport,16207
@@ -131,3 +136,4 @@ Year,Units,mode of transport,Series,Value
 2019,million tonne-kilometres,pipelines: crude oil,freight transport,17649
 2020,million tonne-kilometres,pipelines: crude oil,freight transport,16686
 2021,million tonne-kilometres,pipelines: crude oil,freight transport,15738
+2022,million tonne-kilometres,pipelines: crude oil,freight transport,17723

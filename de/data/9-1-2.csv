@@ -71,6 +71,7 @@ Year,Units,Verkehrsträger,Series,Value
 2019,Millionen Tonnenkilometer,,Güterverkehr,697942
 2020,Millionen Tonnenkilometer,,Güterverkehr,671760
 2021,Millionen Tonnenkilometer,,Güterverkehr,702360
+2022,Millionen Tonnenkilometer,,Güterverkehr,703029
 2010,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,440600
 2011,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,442600
 2012,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,432000
@@ -79,10 +80,11 @@ Year,Units,Verkehrsträger,Series,Value
 2015,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,464600
 2016,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,473400
 2017,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,486000
-2018,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,499200
-2019,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,498600
-2020,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,487400
-2021,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,505600
+2018,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,497200
+2019,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,498700
+2020,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,487500
+2021,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,506100
+2022,Millionen Tonnenkilometer,Straßenverkehr,Güterverkehr,504800
 2010,Millionen Tonnenkilometer,Eisenbahnverkehr,Güterverkehr,107317
 2011,Millionen Tonnenkilometer,Eisenbahnverkehr,Güterverkehr,113317
 2012,Millionen Tonnenkilometer,Eisenbahnverkehr,Güterverkehr,110065
@@ -95,6 +97,7 @@ Year,Units,Verkehrsträger,Series,Value
 2019,Millionen Tonnenkilometer,Eisenbahnverkehr,Güterverkehr,129161
 2020,Millionen Tonnenkilometer,Eisenbahnverkehr,Güterverkehr,119790
 2021,Millionen Tonnenkilometer,Eisenbahnverkehr,Güterverkehr,131035
+2022,Millionen Tonnenkilometer,Eisenbahnverkehr,Güterverkehr,134754
 2010,Millionen Tonnenkilometer,Binnenschifffahrt,Güterverkehr,62278
 2011,Millionen Tonnenkilometer,Binnenschifffahrt,Güterverkehr,55027
 2012,Millionen Tonnenkilometer,Binnenschifffahrt,Güterverkehr,58488
@@ -106,7 +109,8 @@ Year,Units,Verkehrsträger,Series,Value
 2018,Millionen Tonnenkilometer,Binnenschifffahrt,Güterverkehr,46901
 2019,Millionen Tonnenkilometer,Binnenschifffahrt,Güterverkehr,50945
 2020,Millionen Tonnenkilometer,Binnenschifffahrt,Güterverkehr,46338
-2021,Millionen Tonnenkilometer,Binnenschifffahrt,Güterverkehr,48197
+2021,Millionen Tonnenkilometer,Binnenschifffahrt,Güterverkehr,48182
+2022,Millionen Tonnenkilometer,Binnenschifffahrt,Güterverkehr,44117
 2010,Millionen Tonnenkilometer,Luftverkehr,Güterverkehr,1428
 2011,Millionen Tonnenkilometer,Luftverkehr,Güterverkehr,1480
 2012,Millionen Tonnenkilometer,Luftverkehr,Güterverkehr,1421
@@ -119,6 +123,7 @@ Year,Units,Verkehrsträger,Series,Value
 2019,Millionen Tonnenkilometer,Luftverkehr,Güterverkehr,1587
 2020,Millionen Tonnenkilometer,Luftverkehr,Güterverkehr,1546
 2021,Millionen Tonnenkilometer,Luftverkehr,Güterverkehr,1790
+2022,Millionen Tonnenkilometer,Luftverkehr,Güterverkehr,1635
 2010,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,Güterverkehr,16259
 2011,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,Güterverkehr,15623
 2012,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,Güterverkehr,16207
@@ -131,3 +136,4 @@ Year,Units,Verkehrsträger,Series,Value
 2019,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,Güterverkehr,17649
 2020,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,Güterverkehr,16686
 2021,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,Güterverkehr,15738
+2022,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,Güterverkehr,17723
