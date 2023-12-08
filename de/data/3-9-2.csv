@@ -11,6 +11,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,a) Akute Atemwegsinfektionen,,,25.07
 2020,a) Akute Atemwegsinfektionen,,,21.29
 2021,a) Akute Atemwegsinfektionen,,,17.36
+2022,a) Akute Atemwegsinfektionen,,,22.6
 2010,b) Durchfallerkrankungen,,,3.68
 2011,b) Durchfallerkrankungen,,,5.7
 2012,b) Durchfallerkrankungen,,,6.89
@@ -23,6 +24,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,b) Durchfallerkrankungen,,,4.25
 2020,b) Durchfallerkrankungen,,,3.69
 2021,b) Durchfallerkrankungen,,,3.35
+2022,b) Durchfallerkrankungen,,,3.74
 2010,c) Intestinale Nematodeninfektionen,,,0.0
 2011,c) Intestinale Nematodeninfektionen,,,0.0
 2012,c) Intestinale Nematodeninfektionen,,,0.0
@@ -35,6 +37,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,c) Intestinale Nematodeninfektionen,,,0.0
 2020,c) Intestinale Nematodeninfektionen,,,0.0
 2021,c) Intestinale Nematodeninfektionen,,,0.0
+2022,c) Intestinale Nematodeninfektionen,,,0.0
 2010,d) Energie- und Eiweißmangelernährung,,,0.3
 2011,d) Energie- und Eiweißmangelernährung,,,0.29
 2012,d) Energie- und Eiweißmangelernährung,,,0.26
@@ -47,6 +50,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,d) Energie- und Eiweißmangelernährung,,,0.82
 2020,d) Energie- und Eiweißmangelernährung,,,0.91
 2021,d) Energie- und Eiweißmangelernährung,,,1.02
+2022,d) Energie- und Eiweißmangelernährung,,,1.05
 2010,a) Akute Atemwegsinfektionen,Männlich,,25.33
 2011,a) Akute Atemwegsinfektionen,Männlich,,24.99
 2012,a) Akute Atemwegsinfektionen,Männlich,,24.24
@@ -59,6 +63,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,a) Akute Atemwegsinfektionen,Männlich,,26.14
 2020,a) Akute Atemwegsinfektionen,Männlich,,23.38
 2021,a) Akute Atemwegsinfektionen,Männlich,,19.52
+2022,a) Akute Atemwegsinfektionen,Männlich,,24.86
 2010,b) Durchfallerkrankungen,Männlich,,2.82
 2011,b) Durchfallerkrankungen,Männlich,,4.25
 2012,b) Durchfallerkrankungen,Männlich,,5.17
@@ -71,6 +76,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,b) Durchfallerkrankungen,Männlich,,3.3
 2020,b) Durchfallerkrankungen,Männlich,,2.91
 2021,b) Durchfallerkrankungen,Männlich,,2.71
+2022,b) Durchfallerkrankungen,Männlich,,3.12
 2010,c) Intestinale Nematodeninfektionen,Männlich,,0.0
 2011,c) Intestinale Nematodeninfektionen,Männlich,,0.0
 2012,c) Intestinale Nematodeninfektionen,Männlich,,0.0
@@ -83,6 +89,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,c) Intestinale Nematodeninfektionen,Männlich,,0.0
 2020,c) Intestinale Nematodeninfektionen,Männlich,,0.0
 2021,c) Intestinale Nematodeninfektionen,Männlich,,0.0
+2022,c) Intestinale Nematodeninfektionen,Männlich,,0.0
 2010,d) Energie- und Eiweißmangelernährung,Männlich,,0.22
 2011,d) Energie- und Eiweißmangelernährung,Männlich,,0.17
 2012,d) Energie- und Eiweißmangelernährung,Männlich,,0.15
@@ -95,6 +102,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,d) Energie- und Eiweißmangelernährung,Männlich,,0.53
 2020,d) Energie- und Eiweißmangelernährung,Männlich,,0.54
 2021,d) Energie- und Eiweißmangelernährung,Männlich,,0.66
+2022,d) Energie- und Eiweißmangelernährung,Männlich,,0.69
 2010,a) Akute Atemwegsinfektionen,Weiblich,,26.41
 2011,a) Akute Atemwegsinfektionen,Weiblich,,25.68
 2012,a) Akute Atemwegsinfektionen,Weiblich,,24.64
@@ -107,6 +115,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,a) Akute Atemwegsinfektionen,Weiblich,,24.03
 2020,a) Akute Atemwegsinfektionen,Weiblich,,19.26
 2021,a) Akute Atemwegsinfektionen,Weiblich,,15.26
+2022,a) Akute Atemwegsinfektionen,Weiblich,,20.41
 2010,b) Durchfallerkrankungen,Weiblich,,4.5
 2011,b) Durchfallerkrankungen,Weiblich,,7.09
 2012,b) Durchfallerkrankungen,Weiblich,,8.53
@@ -119,6 +128,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,b) Durchfallerkrankungen,Weiblich,,5.17
 2020,b) Durchfallerkrankungen,Weiblich,,4.45
 2021,b) Durchfallerkrankungen,Weiblich,,3.97
+2022,b) Durchfallerkrankungen,Weiblich,,4.35
 2010,c) Intestinale Nematodeninfektionen,Weiblich,,0.0
 2011,c) Intestinale Nematodeninfektionen,Weiblich,,0.0
 2012,c) Intestinale Nematodeninfektionen,Weiblich,,0.0
@@ -131,6 +141,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,c) Intestinale Nematodeninfektionen,Weiblich,,0.0
 2020,c) Intestinale Nematodeninfektionen,Weiblich,,0.0
 2021,c) Intestinale Nematodeninfektionen,Weiblich,,0.0
+2022,c) Intestinale Nematodeninfektionen,Weiblich,,0.0
 2010,d) Energie- und Eiweißmangelernährung,Weiblich,,0.37
 2011,d) Energie- und Eiweißmangelernährung,Weiblich,,0.4
 2012,d) Energie- und Eiweißmangelernährung,Weiblich,,0.37
@@ -143,6 +154,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,d) Energie- und Eiweißmangelernährung,Weiblich,,1.1
 2020,d) Energie- und Eiweißmangelernährung,Weiblich,,1.27
 2021,d) Energie- und Eiweißmangelernährung,Weiblich,,1.38
+2022,d) Energie- und Eiweißmangelernährung,Weiblich,,1.39
 2010,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.77
 2011,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,1.15
 2012,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.83
@@ -155,6 +167,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.74
 2020,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.58
 2021,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.33
+2022,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.45
 2010,b) Durchfallerkrankungen,,4 Jahre und jünger,0.32
 2011,b) Durchfallerkrankungen,,4 Jahre und jünger,0.15
 2012,b) Durchfallerkrankungen,,4 Jahre und jünger,0.24
@@ -167,6 +180,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,b) Durchfallerkrankungen,,4 Jahre und jünger,0.15
 2020,b) Durchfallerkrankungen,,4 Jahre und jünger,0.08
 2021,b) Durchfallerkrankungen,,4 Jahre und jünger,0.25
+2022,b) Durchfallerkrankungen,,4 Jahre und jünger,0.28
 2010,c) Intestinale Nematodeninfektionen,,4 Jahre und jünger,0.0
 2011,c) Intestinale Nematodeninfektionen,,4 Jahre und jünger,0.0
 2012,c) Intestinale Nematodeninfektionen,,4 Jahre und jünger,0.0
@@ -179,6 +193,7 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,c) Intestinale Nematodeninfektionen,,4 Jahre und jünger,0.0
 2020,c) Intestinale Nematodeninfektionen,,4 Jahre und jünger,0.0
 2021,c) Intestinale Nematodeninfektionen,,4 Jahre und jünger,0.0
+2022,c) Intestinale Nematodeninfektionen,,4 Jahre und jünger,0.0
 2010,d) Energie- und Eiweißmangelernährung,,4 Jahre und jünger,0.03
 2011,d) Energie- und Eiweißmangelernährung,,4 Jahre und jünger,0.0
 2012,d) Energie- und Eiweißmangelernährung,,4 Jahre und jünger,0.0
@@ -191,3 +206,4 @@ Year,Erkrankung,Geschlecht,Altersklasse,Value
 2019,d) Energie- und Eiweißmangelernährung,,4 Jahre und jünger,0.0
 2020,d) Energie- und Eiweißmangelernährung,,4 Jahre und jünger,0.0
 2021,d) Energie- und Eiweißmangelernährung,,4 Jahre und jünger,0.0
+2022,d) Energie- und Eiweißmangelernährung,,4 Jahre und jünger,0.03

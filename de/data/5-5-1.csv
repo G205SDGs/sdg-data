@@ -96,7 +96,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,Value
 2020,Prozent,Landtage,Bayern,code09,26.8
 2021,Prozent,Landtage,Bayern,code09,26.8
 2022,Prozent,Landtage,Bayern,code09,26.8
-2023,Prozent,Landtage,Bayern,code09,
+2023,Prozent,Landtage,Bayern,code09,24.6
 2010,Anzahl,Landtage,Bayern,code09,58.0
 2011,Anzahl,Landtage,Bayern,code09,58.0
 2012,Anzahl,Landtage,Bayern,code09,58.0
@@ -110,7 +110,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,Value
 2020,Anzahl,Landtage,Bayern,code09,55.0
 2021,Anzahl,Landtage,Bayern,code09,55.0
 2022,Anzahl,Landtage,Bayern,code09,55.0
-2023,Anzahl,Landtage,Bayern,code09,
+2023,Anzahl,Landtage,Bayern,code09,50.0
 2010,Prozent,Landtage,Berlin,code11,39.6
 2011,Prozent,Landtage,Berlin,code11,34.9
 2012,Prozent,Landtage,Berlin,code11,34.9
@@ -236,7 +236,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,Value
 2020,Prozent,Landtage,Hessen,code06,33.6
 2021,Prozent,Landtage,Hessen,code06,33.6
 2022,Prozent,Landtage,Hessen,code06,33.6
-2023,Prozent,Landtage,Hessen,code06,
+2023,Prozent,Landtage,Hessen,code06,33.1
 2010,Anzahl,Landtage,Hessen,code06,33.0
 2011,Anzahl,Landtage,Hessen,code06,33.0
 2012,Anzahl,Landtage,Hessen,code06,33.0
@@ -250,7 +250,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,Value
 2020,Anzahl,Landtage,Hessen,code06,46.0
 2021,Anzahl,Landtage,Hessen,code06,46.0
 2022,Anzahl,Landtage,Hessen,code06,46.0
-2023,Anzahl,Landtage,Hessen,code06,
+2023,Anzahl,Landtage,Hessen,code06,44.0
 2010,Prozent,Landtage,Mecklenburg-Vorpommern,code13,32.4
 2011,Prozent,Landtage,Mecklenburg-Vorpommern,code13,28.2
 2012,Prozent,Landtage,Mecklenburg-Vorpommern,code13,28.2
@@ -516,7 +516,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,Value
 2020,Prozent,Landtage,,,30.782
 2021,Prozent,Landtage,,,31.804
 2022,Prozent,Landtage,,,33.316
-2023,Prozent,Landtage,,,33.316
+2023,Prozent,Landtage,,,33.157
 2010,Anzahl,Landtage,,,602.0
 2011,Anzahl,Landtage,,,602.0
 2012,Anzahl,Landtage,,,615.0
@@ -530,7 +530,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,Value
 2020,Anzahl,Landtage,,,575.0
 2021,Anzahl,Landtage,,,603.0
 2022,Anzahl,Landtage,,,632.0
-2023,Anzahl,Landtage,,,632.0
+2023,Anzahl,Landtage,,,628.0
 2010,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,
 2011,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,26.1
 2012,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,26.1

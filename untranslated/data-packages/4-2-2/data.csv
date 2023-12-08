@@ -12,6 +12,7 @@ Year,sex,Value
 2020,,95.3
 2021,,95.2
 2022,,94.7
+2023,,93.7
 2010,female,95.5
 2011,female,95.7
 2012,female,96.6
@@ -25,6 +26,7 @@ Year,sex,Value
 2020,female,95.6
 2021,female,95.5
 2022,female,94.7
+2023,female,93.9
 2010,male,95.4
 2011,male,95.2
 2012,male,96.2
@@ -38,3 +40,4 @@ Year,sex,Value
 2020,male,95.1
 2021,male,95.0
 2022,male,94.6
+2023,male,93.5

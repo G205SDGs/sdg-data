@@ -11,6 +11,7 @@ Year,education level,subject,Value
 2019,b) at the end of primary education,reading,
 2020,b) at the end of primary education,reading,
 2021,b) at the end of primary education,reading,94.0
+2022,b) at the end of primary education,reading,
 2010,b) at the end of primary education,mathematics,
 2011,b) at the end of primary education,mathematics,97.0
 2012,b) at the end of primary education,mathematics,
@@ -23,6 +24,7 @@ Year,education level,subject,Value
 2019,b) at the end of primary education,mathematics,96.0
 2020,b) at the end of primary education,mathematics,
 2021,b) at the end of primary education,mathematics,
+2022,b) at the end of primary education,mathematics,
 2010,c) at the end of lower secondary education,reading,
 2011,c) at the end of lower secondary education,reading,
 2012,c) at the end of lower secondary education,reading,85.6
@@ -35,6 +37,7 @@ Year,education level,subject,Value
 2019,c) at the end of lower secondary education,reading,
 2020,c) at the end of lower secondary education,reading,
 2021,c) at the end of lower secondary education,reading,
+2022,c) at the end of lower secondary education,reading,74.4
 2010,c) at the end of lower secondary education,mathematics,
 2011,c) at the end of lower secondary education,mathematics,
 2012,c) at the end of lower secondary education,mathematics,82.3
@@ -47,3 +50,4 @@ Year,education level,subject,Value
 2019,c) at the end of lower secondary education,mathematics,
 2020,c) at the end of lower secondary education,mathematics,
 2021,c) at the end of lower secondary education,mathematics,
+2022,c) at the end of lower secondary education,mathematics,70.5

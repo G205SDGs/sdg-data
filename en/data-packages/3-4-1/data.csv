@@ -11,6 +11,7 @@ Year,Disease,Value
 2019,a) Cardiovascular disease,39.8
 2020,a) Cardiovascular disease,40.7
 2021,a) Cardiovascular disease,41.9
+2022,a) Cardiovascular disease,42.2
 2010,b) Cancer,77.9
 2011,b) Cancer,76.9
 2012,b) Cancer,75.0
@@ -23,6 +24,7 @@ Year,Disease,Value
 2019,b) Cancer,74.7
 2020,b) Cancer,74.2
 2021,b) Cancer,72.9
+2022,b) Cancer,73.3
 2010,c) Diabetes mellitus,3.5
 2011,c) Diabetes mellitus,3.4
 2012,c) Diabetes mellitus,3.4
@@ -35,6 +37,7 @@ Year,Disease,Value
 2019,c) Diabetes mellitus,3.7
 2020,c) Diabetes mellitus,3.8
 2021,c) Diabetes mellitus,3.9
+2022,c) Diabetes mellitus,3.9
 2010,d) Chronic respiratory disease,7.4
 2011,d) Chronic respiratory disease,7.5
 2012,d) Chronic respiratory disease,7.1
@@ -47,3 +50,4 @@ Year,Disease,Value
 2019,d) Chronic respiratory disease,9.7
 2020,d) Chronic respiratory disease,9.3
 2021,d) Chronic respiratory disease,9.1
+2022,d) Chronic respiratory disease,10.4
