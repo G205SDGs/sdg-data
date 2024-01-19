@@ -12,6 +12,7 @@ Year,Units,Time series,Value
 2020,Number,At least one population and housing census in the last 10 years conducted,1
 2021,Number,At least one population and housing census in the last 10 years conducted,0
 2022,Number,At least one population and housing census in the last 10 years conducted,1
+2023,Number,At least one population and housing census in the last 10 years conducted,1
 2010,Percentage,Birth registration,100
 2011,Percentage,Birth registration,100
 2012,Percentage,Birth registration,100
@@ -25,6 +26,7 @@ Year,Units,Time series,Value
 2020,Percentage,Birth registration,100
 2021,Percentage,Birth registration,100
 2022,Percentage,Birth registration,100
+2023,Percentage,Birth registration,100
 2010,Percentage,Death registration,100
 2011,Percentage,Death registration,100
 2012,Percentage,Death registration,100
@@ -38,3 +40,4 @@ Year,Units,Time series,Value
 2020,Percentage,Death registration,100
 2021,Percentage,Death registration,100
 2022,Percentage,Death registration,100
+2023,Percentage,Death registration,100
