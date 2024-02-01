@@ -6,17 +6,17 @@ Indicator,Disaggregations,Number of disaggregations
 #1-a-2,function,1
 #1-b-1,timeseries,1
 #10-1-1,population,1
-#10-2-1,"age group, sex",2
+#10-2-1,"sex, age group",2
 #10-4-2,timeseries,1
 #10-5-1,timeseries,1
 #10-7-2,policy area,1
 #10-b-1,type of flow,1
 #11-1-1,"sex, degree of urbanisation",2
-#11-2-1,"age group, länder, time series, sex, disability status",5
+#11-2-1,"sex, länder, age group, time series, disability status",5
 #11-3-1,"timeseries, presentation",2
 #11-4-1,timeseries,1
 #11-6-2,fine particulate matter,1
-#11-7-2,"age group, timeseries, sex",3
+#11-7-2,"timeseries, sex, age group",3
 #12-3-1,stages of the food chain,1
 #12-4-1,timeseries,1
 #12-4-2,"timeseries, type of waste treatment",2
@@ -36,12 +36,12 @@ Indicator,Disaggregations,Number of disaggregations
 #15-8-1,"timeseries, legislation",2
 #15-a-1,timeseries,1
 #15-b-1,timeseries,1
-#16-1-1,"age group, sex",2
-#16-1-3,"age group, timeseries, sex",3
-#16-1-4,"age group, sex, feelings of insecurity",3
+#16-1-1,"sex, age group",2
+#16-1-3,"timeseries, sex, age group",3
+#16-1-4,"sex, age group, feelings of insecurity",3
 #16-2-1,"sex, form of abuse",2
-#16-2-2,"age group, sex, form of exploitation",3
-#16-3-1,"age group, timeseries, sex",3
+#16-2-2,"sex, age group, form of exploitation",3
+#16-3-1,"timeseries, sex, age group",3
 #16-3-2,sex,1
 #16-3-3,"time series, outcome of the application process",2
 #16-5-1,sex,1
@@ -55,14 +55,14 @@ Indicator,Disaggregations,Number of disaggregations
 #17-2-1,timeseries,1
 #17-6-1,speed,1
 #17-7-1,sector,1
-#17-8-1,"age group, sex",2
+#17-8-1,"sex, age group",2
 #17-9-1,time series,1
 #2-1-1,"sex, percentile",2
 #2-2-1,sex,1
 #2-2-2,"timeseries, sex",2
 #2-2-3,age group,1
 #2-3-1,economic activity,1
-#2-4-1,"länder, timeseries",2
+#2-4-1,"timeseries, länder",2
 #2-5-2,"timeseries, level of risk of extinction",2
 #3-1-2,timeseries,1
 #3-2-1,age group,1
@@ -74,14 +74,14 @@ Indicator,Disaggregations,Number of disaggregations
 #3-7-2,age of mother,1
 #3-8-2,proportion of household expenditures on health,1
 #3-9-1,disease,1
-#3-9-2,"age group, sex, disease",3
+#3-9-2,"sex, age group, disease",3
 #3-a-1,"timeseries, sex",2
 #3-b-1,"timeseries, sex",2
 #3-c-1,profession,1
 #3-d-2,pathogens and resistance,1
 #4-1-1,"education level, subject",2
 #4-2-2,sex,1
-#4-3-1,"age group, sex",2
+#4-3-1,"sex, age group",2
 #4-4-1,"age group, type of ict competence",2
 #4-5-1,indicator,1
 #4-6-1,"skill, level of proficiency",2
@@ -90,8 +90,8 @@ Indicator,Disaggregations,Number of disaggregations
 #4-b-1,time series,1
 #5-1-1,area of law,1
 #5-3-1,age group,1
-#5-4-1,"age group, sex",2
-#5-5-1,"political institution, länder",2
+#5-4-1,"sex, age group",2
+#5-5-1,"länder, political institution",2
 #5-6-2,thematic area,1
 #5-a-1,"timeseries, ownership",2
 #6-1-1,timeseries,1
@@ -104,10 +104,10 @@ Indicator,Disaggregations,Number of disaggregations
 #6-a-1,time series,1
 #8-10-1,timeseries,1
 #8-10-2,type of account,1
-#8-5-1,"länder, sex",2
-#8-5-2,"age group, sex",2
+#8-5-1,"sex, länder",2
+#8-5-2,"sex, age group",2
 #8-6-1,sex,1
-#8-7-1,"age group, sex",2
+#8-7-1,"sex, age group",2
 #8-8-1,"timeseries, sex",2
 #8-a-1,time series,1
 #9-1-2,mode of transport,1
