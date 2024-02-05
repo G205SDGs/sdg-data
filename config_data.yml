@@ -125,7 +125,6 @@ docs_intro: This is a list of examples of endpoints and output that are
 datapackage:
     sorting: default
 
-
 map_layers:
   - geojson_file: laender.geojson
     name_property: GEN
