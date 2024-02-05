@@ -9,8 +9,9 @@ Year,Units,mode of transport,Series,Value
 2017,million passenger-kilometre,,passenger transport,1155136
 2018,million passenger-kilometre,,passenger transport,1161885
 2019,million passenger-kilometre,,passenger transport,1170186
-2020,million passenger-kilometre,,passenger transport,921930
-2021,million passenger-kilometre,,passenger transport,930469
+2020,million passenger-kilometre,,passenger transport,921937
+2021,million passenger-kilometre,,passenger transport,962304
+2022,million passenger-kilometre,,passenger transport,1065901
 2010,million passenger-kilometre,road transport,passenger transport,78092
 2011,million passenger-kilometre,road transport,passenger transport,77957
 2012,million passenger-kilometre,road transport,passenger transport,76019
@@ -23,6 +24,7 @@ Year,Units,mode of transport,Series,Value
 2019,million passenger-kilometre,road transport,passenger transport,78919
 2020,million passenger-kilometre,road transport,passenger transport,45741
 2021,million passenger-kilometre,road transport,passenger transport,45425
+2022,million passenger-kilometre,road transport,passenger transport,59861
 2010,million passenger-kilometre,rail transport,passenger transport,83886
 2011,million passenger-kilometre,rail transport,passenger transport,85414
 2012,million passenger-kilometre,rail transport,passenger transport,88795
@@ -33,8 +35,9 @@ Year,Units,mode of transport,Series,Value
 2017,million passenger-kilometre,rail transport,passenger transport,95530
 2018,million passenger-kilometre,rail transport,passenger transport,98061
 2019,million passenger-kilometre,rail transport,passenger transport,102026
-2020,million passenger-kilometre,rail transport,passenger transport,58816
-2021,million passenger-kilometre,rail transport,passenger transport,57377
+2020,million passenger-kilometre,rail transport,passenger transport,58823
+2021,million passenger-kilometre,rail transport,passenger transport,57553
+2022,million passenger-kilometre,rail transport,passenger transport,95158
 2010,million passenger-kilometre,air transport,passenger transport,52822
 2011,million passenger-kilometre,air transport,passenger transport,55215
 2012,million passenger-kilometre,air transport,passenger transport,56180
@@ -47,6 +50,7 @@ Year,Units,mode of transport,Series,Value
 2019,million passenger-kilometre,air transport,passenger transport,71841
 2020,million passenger-kilometre,air transport,passenger transport,18704
 2021,million passenger-kilometre,air transport,passenger transport,23378
+2022,million passenger-kilometre,air transport,passenger transport,48303
 2010,million passenger-kilometre,motorised private transport,passenger transport,902440
 2011,million passenger-kilometre,motorised private transport,passenger transport,912417
 2012,million passenger-kilometre,motorised private transport,passenger transport,914563
@@ -58,7 +62,8 @@ Year,Units,mode of transport,Series,Value
 2018,million passenger-kilometre,motorised private transport,passenger transport,913276
 2019,million passenger-kilometre,motorised private transport,passenger transport,917400
 2020,million passenger-kilometre,motorised private transport,passenger transport,798669
-2021,million passenger-kilometre,motorised private transport,passenger transport,804289
+2021,million passenger-kilometre,motorised private transport,passenger transport,835948
+2022,million passenger-kilometre,motorised private transport,passenger transport,862579
 2010,million tonne-kilometres,,freight transport,627882
 2011,million tonne-kilometres,,freight transport,628083
 2012,million tonne-kilometres,,freight transport,618179

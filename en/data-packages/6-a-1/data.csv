@@ -1,28 +1,30 @@
 Year,Units,Time series,Value
-2010,Million EUR,Water and sanitation,486.1
-2011,Million EUR,Water and sanitation,563.5
-2012,Million EUR,Water and sanitation,497.0
-2013,Million EUR,Water and sanitation,552.9
-2014,Million EUR,Water and sanitation,748.5
-2015,Million EUR,Water and sanitation,827.6
-2016,Million EUR,Water and sanitation,835.0
-2017,Million EUR,Water and sanitation,856.6
-2018,Million EUR,Water and sanitation,894.9
-2019,Million EUR,Water and sanitation,823.0
-2020,Million EUR,Water and sanitation,874.2
+2010,Million EUR,Water and sanitation,446.2
+2011,Million EUR,Water and sanitation,548.9
+2012,Million EUR,Water and sanitation,454.2
+2013,Million EUR,Water and sanitation,532.1
+2014,Million EUR,Water and sanitation,733.4
+2015,Million EUR,Water and sanitation,690.5
+2016,Million EUR,Water and sanitation,703.8
+2017,Million EUR,Water and sanitation,747.1
+2018,Million EUR,Water and sanitation,833.5
+2019,Million EUR,Water and sanitation,742.5
+2020,Million EUR,Water and sanitation,817.5
 2021,Million EUR,Water and sanitation,771.8
-2010,Million EUR,Other related purposes,41.2
-2011,Million EUR,Other related purposes,76.4
-2012,Million EUR,Other related purposes,57.8
-2013,Million EUR,Other related purposes,51.8
-2014,Million EUR,Other related purposes,54.4
-2015,Million EUR,Other related purposes,21.9
-2016,Million EUR,Other related purposes,19.4
-2017,Million EUR,Other related purposes,7.0
-2018,Million EUR,Other related purposes,29.4
-2019,Million EUR,Other related purposes,10.9
-2020,Million EUR,Other related purposes,11.0
+2022,Million EUR,Water and sanitation,766.6
+2010,Million EUR,Other related purposes,37.8
+2011,Million EUR,Other related purposes,74.5
+2012,Million EUR,Other related purposes,52.9
+2013,Million EUR,Other related purposes,49.8
+2014,Million EUR,Other related purposes,53.3
+2015,Million EUR,Other related purposes,18.3
+2016,Million EUR,Other related purposes,16.3
+2017,Million EUR,Other related purposes,6.1
+2018,Million EUR,Other related purposes,27.4
+2019,Million EUR,Other related purposes,9.8
+2020,Million EUR,Other related purposes,10.3
 2021,Million EUR,Other related purposes,16.8
+2022,Million EUR,Other related purposes,13.8
 2010,"Million USD, constant prices (2021)",Water and sanitation,643.9
 2011,"Million USD, constant prices (2021)",Water and sanitation,783.5
 2012,"Million USD, constant prices (2021)",Water and sanitation,638.8
@@ -35,6 +37,7 @@ Year,Units,Time series,Value
 2019,"Million USD, constant prices (2021)",Water and sanitation,921.3
 2020,"Million USD, constant prices (2021)",Water and sanitation,996.3
 2021,"Million USD, constant prices (2021)",Water and sanitation,912.7
+2022,"Million USD, constant prices (2021)",Water and sanitation,
 2010,"Million USD, constant prices (2021)",Other related purposes,54.6
 2011,"Million USD, constant prices (2021)",Other related purposes,106.3
 2012,"Million USD, constant prices (2021)",Other related purposes,74.4
@@ -47,3 +50,4 @@ Year,Units,Time series,Value
 2019,"Million USD, constant prices (2021)",Other related purposes,12.2
 2020,"Million USD, constant prices (2021)",Other related purposes,12.6
 2021,"Million USD, constant prices (2021)",Other related purposes,19.9
+2022,"Million USD, constant prices (2021)",Other related purposes,
