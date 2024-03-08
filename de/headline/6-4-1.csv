@@ -1,4 +1,21 @@
-Year,Value
-2010,100.0
-2013,137.5
-2016,152.9
+Year,Value,Units,Series
+2010,,Prozent,Veränderung der Wassernutzungseffizienz
+2011,9.6,Prozent,Veränderung der Wassernutzungseffizienz
+2012,7.9,Prozent,Veränderung der Wassernutzungseffizienz
+2013,7.4,Prozent,Veränderung der Wassernutzungseffizienz
+2014,2.8,Prozent,Veränderung der Wassernutzungseffizienz
+2015,7.2,Prozent,Veränderung der Wassernutzungseffizienz
+2016,6.1,Prozent,Veränderung der Wassernutzungseffizienz
+2017,12.3,Prozent,Veränderung der Wassernutzungseffizienz
+2018,6.2,Prozent,Veränderung der Wassernutzungseffizienz
+2019,7.8,Prozent,Veränderung der Wassernutzungseffizienz
+2010,63.3,Euro pro m³,Wassernutzungseffizienz
+2011,69.4,Euro pro m³,Wassernutzungseffizienz
+2012,74.9,Euro pro m³,Wassernutzungseffizienz
+2013,80.4,Euro pro m³,Wassernutzungseffizienz
+2014,82.7,Euro pro m³,Wassernutzungseffizienz
+2015,88.7,Euro pro m³,Wassernutzungseffizienz
+2016,94.0,Euro pro m³,Wassernutzungseffizienz
+2017,105.6,Euro pro m³,Wassernutzungseffizienz
+2018,112.2,Euro pro m³,Wassernutzungseffizienz
+2019,120.9,Euro pro m³,Wassernutzungseffizienz

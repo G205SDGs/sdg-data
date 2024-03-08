@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "euro per m³",
+                ""
+              ]
+            }
+          },
+          {
             "name": "economic activity",
             "type": "string",
             "constraints": {
@@ -22,6 +33,17 @@
                 "agriculture, forestry and fishing",
                 "mimec",
                 "services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "change in water-use efficiency",
+                "water-use efficiency",
                 ""
               ]
             }

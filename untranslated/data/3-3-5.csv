@@ -12,6 +12,7 @@ Year,time series,disease,Value
 2020,people requiring interventions,,374.0
 2021,people requiring interventions,,222.0
 2022,people requiring interventions,,541.0
+2023,people requiring interventions,,
 2010,people requiring interventions,dengue,595.0
 2011,people requiring interventions,dengue,288.0
 2012,people requiring interventions,dengue,616.0
@@ -21,10 +22,11 @@ Year,time series,disease,Value
 2016,people requiring interventions,dengue,956.0
 2017,people requiring interventions,dengue,635.0
 2018,people requiring interventions,dengue,612.0
-2019,people requiring interventions,dengue,1176.0
+2019,people requiring interventions,dengue,1175.0
 2020,people requiring interventions,dengue,203.0
 2021,people requiring interventions,dengue,60.0
 2022,people requiring interventions,dengue,375.0
+2023,people requiring interventions,dengue,953.0
 2010,people requiring interventions,echinococcosis,123.0
 2011,people requiring interventions,echinococcosis,147.0
 2012,people requiring interventions,echinococcosis,119.0
@@ -38,6 +40,7 @@ Year,time series,disease,Value
 2020,people requiring interventions,echinococcosis,171.0
 2021,people requiring interventions,echinococcosis,160.0
 2022,people requiring interventions,echinococcosis,163.0
+2023,people requiring interventions,echinococcosis,
 2010,people requiring interventions,leprosy,2.0
 2011,people requiring interventions,leprosy,2.0
 2012,people requiring interventions,leprosy,5.0
@@ -51,6 +54,7 @@ Year,time series,disease,Value
 2020,people requiring interventions,leprosy,0.0
 2021,people requiring interventions,leprosy,2.0
 2022,people requiring interventions,leprosy,3.0
+2023,people requiring interventions,leprosy,3.0
 2010,inpatient treatment,,406.0
 2011,inpatient treatment,,428.0
 2012,inpatient treatment,,427.0
@@ -64,6 +68,7 @@ Year,time series,disease,Value
 2020,inpatient treatment,,628.0
 2021,inpatient treatment,,576.0
 2022,inpatient treatment,,661.0
+2023,inpatient treatment,,
 2010,inpatient treatment,buruli ulcer,30.0
 2011,inpatient treatment,buruli ulcer,20.0
 2012,inpatient treatment,buruli ulcer,16.0
@@ -77,6 +82,7 @@ Year,time series,disease,Value
 2020,inpatient treatment,buruli ulcer,28.0
 2021,inpatient treatment,buruli ulcer,25.0
 2022,inpatient treatment,buruli ulcer,20.0
+2023,inpatient treatment,buruli ulcer,
 2010,inpatient treatment,echinococcosis,323.0
 2011,inpatient treatment,echinococcosis,373.0
 2012,inpatient treatment,echinococcosis,359.0
@@ -90,6 +96,7 @@ Year,time series,disease,Value
 2020,inpatient treatment,echinococcosis,498.0
 2021,inpatient treatment,echinococcosis,468.0
 2022,inpatient treatment,echinococcosis,452.0
+2023,inpatient treatment,echinococcosis,
 2010,inpatient treatment,human african trypanosomiasis,1.0
 2011,inpatient treatment,human african trypanosomiasis,0.0
 2012,inpatient treatment,human african trypanosomiasis,3.0
@@ -103,6 +110,7 @@ Year,time series,disease,Value
 2020,inpatient treatment,human african trypanosomiasis,1.0
 2021,inpatient treatment,human african trypanosomiasis,0.0
 2022,inpatient treatment,human african trypanosomiasis,2.0
+2023,inpatient treatment,human african trypanosomiasis,
 2010,inpatient treatment,leprosy,4.0
 2011,inpatient treatment,leprosy,7.0
 2012,inpatient treatment,leprosy,11.0
@@ -116,6 +124,7 @@ Year,time series,disease,Value
 2020,inpatient treatment,leprosy,2.0
 2021,inpatient treatment,leprosy,5.0
 2022,inpatient treatment,leprosy,2.0
+2023,inpatient treatment,leprosy,
 2010,inpatient treatment,leishmaniases,42.0
 2011,inpatient treatment,leishmaniases,25.0
 2012,inpatient treatment,leishmaniases,38.0
@@ -129,6 +138,7 @@ Year,time series,disease,Value
 2020,inpatient treatment,leishmaniases,49.0
 2021,inpatient treatment,leishmaniases,56.0
 2022,inpatient treatment,leishmaniases,75.0
+2023,inpatient treatment,leishmaniases,
 2010,inpatient treatment,rabies,4.0
 2011,inpatient treatment,rabies,0.0
 2012,inpatient treatment,rabies,0.0
@@ -142,6 +152,7 @@ Year,time series,disease,Value
 2020,inpatient treatment,rabies,0.0
 2021,inpatient treatment,rabies,0.0
 2022,inpatient treatment,rabies,0.0
+2023,inpatient treatment,rabies,
 2010,inpatient treatment,yaws,2.0
 2011,inpatient treatment,yaws,3.0
 2012,inpatient treatment,yaws,0.0
@@ -155,6 +166,7 @@ Year,time series,disease,Value
 2020,inpatient treatment,yaws,0.0
 2021,inpatient treatment,yaws,0.0
 2022,inpatient treatment,yaws,0.0
+2023,inpatient treatment,yaws,
 2010,inpatient treatment,dengue,0.0
 2011,inpatient treatment,dengue,0.0
 2012,inpatient treatment,dengue,0.0
@@ -168,6 +180,7 @@ Year,time series,disease,Value
 2020,inpatient treatment,dengue,50.0
 2021,inpatient treatment,dengue,22.0
 2022,inpatient treatment,dengue,109.0
+2023,inpatient treatment,dengue,
 2010,inpatient treatment,dracunculiasis,0.0
 2011,inpatient treatment,dracunculiasis,0.0
 2012,inpatient treatment,dracunculiasis,0.0
@@ -181,6 +194,7 @@ Year,time series,disease,Value
 2020,inpatient treatment,dracunculiasis,0.0
 2021,inpatient treatment,dracunculiasis,0.0
 2022,inpatient treatment,dracunculiasis,1.0
+2023,inpatient treatment,dracunculiasis,
 2010,people requiring interventions,rabies,0.0
 2011,people requiring interventions,rabies,0.0
 2012,people requiring interventions,rabies,0.0
@@ -193,4 +207,5 @@ Year,time series,disease,Value
 2019,people requiring interventions,rabies,0.0
 2020,people requiring interventions,rabies,0.0
 2021,people requiring interventions,rabies,0.0
-2022,people requiring interventions,rabies,
+2022,people requiring interventions,rabies,0.0
+2023,people requiring interventions,rabies,

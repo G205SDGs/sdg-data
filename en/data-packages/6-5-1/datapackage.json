@@ -16,6 +16,20 @@
             "title": "Year"
           },
           {
+            "name": "section",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enabling environment",
+                "Institutions and participation",
+                "Management Instruments",
+                "Financing",
+                ""
+              ]
+            },
+            "title": "Section"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

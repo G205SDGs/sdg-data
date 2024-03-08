@@ -16,6 +16,20 @@
             "title": "Jahr"
           },
           {
+            "name": "section",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rahmenbedingungen",
+                "Institutionen und Beteiligung",
+                "Managementinstrumente",
+                "Finanzierung",
+                ""
+              ]
+            },
+            "title": "Abschnitt"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Wert"

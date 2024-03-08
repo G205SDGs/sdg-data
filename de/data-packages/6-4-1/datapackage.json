@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Euro pro m³",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "economic activity",
             "type": "string",
             "constraints": {
@@ -27,6 +39,18 @@
               ]
             },
             "title": "Wirtschaftszweig"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Veränderung der Wassernutzungseffizienz",
+                "Wassernutzungseffizienz",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

@@ -1,4 +1,21 @@
-Year,Value
-2010,100.0
-2013,137.5
-2016,152.9
+Year,Value,Units,Series
+2010,,Percentage,Change in water-use efficiency
+2011,9.6,Percentage,Change in water-use efficiency
+2012,7.9,Percentage,Change in water-use efficiency
+2013,7.4,Percentage,Change in water-use efficiency
+2014,2.8,Percentage,Change in water-use efficiency
+2015,7.2,Percentage,Change in water-use efficiency
+2016,6.1,Percentage,Change in water-use efficiency
+2017,12.3,Percentage,Change in water-use efficiency
+2018,6.2,Percentage,Change in water-use efficiency
+2019,7.8,Percentage,Change in water-use efficiency
+2010,63.3,Euro per m³,Water-use efficiency
+2011,69.4,Euro per m³,Water-use efficiency
+2012,74.9,Euro per m³,Water-use efficiency
+2013,80.4,Euro per m³,Water-use efficiency
+2014,82.7,Euro per m³,Water-use efficiency
+2015,88.7,Euro per m³,Water-use efficiency
+2016,94.0,Euro per m³,Water-use efficiency
+2017,105.6,Euro per m³,Water-use efficiency
+2018,112.2,Euro per m³,Water-use efficiency
+2019,120.9,Euro per m³,Water-use efficiency
