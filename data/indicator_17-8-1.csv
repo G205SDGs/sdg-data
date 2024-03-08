@@ -12,6 +12,7 @@ Year,age group,sex,Value
 2020,16 to under 75 years,,94
 2021,16 to under 75 years,,91
 2022,16 to under 75 years,,92
+2023,16 to under 75 years,,92
 2010,16 to under 75 years,female,76
 2011,16 to under 75 years,female,78
 2012,16 to under 75 years,female,79
@@ -25,6 +26,7 @@ Year,age group,sex,Value
 2020,16 to under 75 years,female,93
 2021,16 to under 75 years,female,91
 2022,16 to under 75 years,female,90
+2023,16 to under 75 years,female,91
 2010,16 to under 75 years,male,84
 2011,16 to under 75 years,male,84
 2012,16 to under 75 years,male,85
@@ -38,6 +40,7 @@ Year,age group,sex,Value
 2020,16 to under 75 years,male,95
 2021,16 to under 75 years,male,92
 2022,16 to under 75 years,male,93
+2023,16 to under 75 years,male,93
 2010,16 to under 25 years,,98
 2011,16 to under 25 years,,99
 2012,16 to under 25 years,,98
@@ -51,6 +54,7 @@ Year,age group,sex,Value
 2020,16 to under 25 years,,99
 2021,16 to under 25 years,,98
 2022,16 to under 25 years,,96
+2023,16 to under 25 years,,97
 2010,25 to under 65 years,,85
 2011,25 to under 65 years,,87
 2012,25 to under 65 years,,88
@@ -64,6 +68,7 @@ Year,age group,sex,Value
 2020,25 to under 65 years,,97
 2021,25 to under 65 years,,94
 2022,25 to under 65 years,,94
+2023,25 to under 65 years,,95
 2010,65 to under 75 years,,41
 2011,65 to under 75 years,,41
 2012,65 to under 75 years,,43
@@ -77,3 +82,4 @@ Year,age group,sex,Value
 2020,65 to under 75 years,,76
 2021,65 to under 75 years,,74
 2022,65 to under 75 years,,77
+2023,65 to under 75 years,,79
