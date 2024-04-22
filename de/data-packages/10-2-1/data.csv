@@ -11,7 +11,8 @@ Year,Altersklasse,Geschlecht,Value
 2019,,,9.0
 2020,,,10.2
 2021,,,9.9
-2022,,,8.4
+2022,,,8.5
+2023,,,8.3
 2010,17 Jahre und jünger,,9.4
 2011,17 Jahre und jünger,,8.0
 2012,17 Jahre und jünger,,7.8
@@ -25,6 +26,7 @@ Year,Altersklasse,Geschlecht,Value
 2020,17 Jahre und jünger,,9.9
 2021,17 Jahre und jünger,,9.3
 2022,17 Jahre und jünger,,7.5
+2023,17 Jahre und jünger,,7.5
 2010,18 bis unter 65 Jahre,,9.8
 2011,18 bis unter 65 Jahre,,10.8
 2012,18 bis unter 65 Jahre,,10.4
@@ -37,7 +39,8 @@ Year,Altersklasse,Geschlecht,Value
 2019,18 bis unter 65 Jahre,,9.6
 2020,18 bis unter 65 Jahre,,9.9
 2021,18 bis unter 65 Jahre,,9.4
-2022,18 bis unter 65 Jahre,,8.1
+2022,18 bis unter 65 Jahre,,8.2
+2023,18 bis unter 65 Jahre,,7.9
 2010,65 Jahre und älter,,7.0
 2011,65 Jahre und älter,,7.3
 2012,65 Jahre und älter,,8.4
@@ -50,7 +53,8 @@ Year,Altersklasse,Geschlecht,Value
 2019,65 Jahre und älter,,9.8
 2020,65 Jahre und älter,,11.5
 2021,65 Jahre und älter,,11.8
-2022,65 Jahre und älter,,9.9
+2022,65 Jahre und älter,,10.0
+2023,65 Jahre und älter,,9.8
 2010,,Weiblich,9.3
 2011,,Weiblich,9.9
 2012,,Weiblich,10.1
@@ -63,7 +67,8 @@ Year,Altersklasse,Geschlecht,Value
 2019,,Weiblich,9.4
 2020,,Weiblich,10.6
 2021,,Weiblich,10.1
-2022,,Weiblich,8.8
+2022,,Weiblich,8.9
+2023,,Weiblich,8.6
 2010,,Männlich,9.0
 2011,,Männlich,9.4
 2012,,Männlich,9.0
@@ -76,4 +81,5 @@ Year,Altersklasse,Geschlecht,Value
 2019,,Männlich,8.5
 2020,,Männlich,9.9
 2021,,Männlich,9.6
-2022,,Männlich,7.9
+2022,,Männlich,8.0
+2023,,Männlich,7.9

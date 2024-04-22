@@ -11,7 +11,8 @@ Year,Time series,Sex,Value
 2019,Persons at risk of poverty or social exclusion,,17.3
 2020,Persons at risk of poverty or social exclusion,,20.4
 2021,Persons at risk of poverty or social exclusion,,21.0
-2022,Persons at risk of poverty or social exclusion,,20.9
+2022,Persons at risk of poverty or social exclusion,,21.1
+2023,Persons at risk of poverty or social exclusion,,21.2
 2010,Persons at risk of poverty or social exclusion,Female,
 2011,Persons at risk of poverty or social exclusion,Female,
 2012,Persons at risk of poverty or social exclusion,Female,
@@ -24,7 +25,8 @@ Year,Time series,Sex,Value
 2019,Persons at risk of poverty or social exclusion,Female,18.4
 2020,Persons at risk of poverty or social exclusion,Female,21.2
 2021,Persons at risk of poverty or social exclusion,Female,21.7
-2022,Persons at risk of poverty or social exclusion,Female,21.6
+2022,Persons at risk of poverty or social exclusion,Female,21.9
+2023,Persons at risk of poverty or social exclusion,Female,22.0
 2010,Persons at risk of poverty or social exclusion,Male,
 2011,Persons at risk of poverty or social exclusion,Male,
 2012,Persons at risk of poverty or social exclusion,Male,
@@ -37,7 +39,8 @@ Year,Time series,Sex,Value
 2019,Persons at risk of poverty or social exclusion,Male,16.1
 2020,Persons at risk of poverty or social exclusion,Male,19.5
 2021,Persons at risk of poverty or social exclusion,Male,20.2
-2022,Persons at risk of poverty or social exclusion,Male,20.1
+2022,Persons at risk of poverty or social exclusion,Male,20.3
+2023,Persons at risk of poverty or social exclusion,Male,20.4
 2010,At-risk-of-poverty rate,,15.6
 2011,At-risk-of-poverty rate,,15.8
 2012,At-risk-of-poverty rate,,16.1
@@ -50,7 +53,8 @@ Year,Time series,Sex,Value
 2019,At-risk-of-poverty rate,,14.8
 2020,At-risk-of-poverty rate,,16.1
 2021,At-risk-of-poverty rate,,16.0
-2022,At-risk-of-poverty rate,,14.7
+2022,At-risk-of-poverty rate,,14.8
+2023,At-risk-of-poverty rate,,14.3
 2010,At-risk-of-poverty rate,Female,16.4
 2011,At-risk-of-poverty rate,Female,16.8
 2012,At-risk-of-poverty rate,Female,17.2
@@ -63,7 +67,8 @@ Year,Time series,Sex,Value
 2019,At-risk-of-poverty rate,Female,15.7
 2020,At-risk-of-poverty rate,Female,16.8
 2021,At-risk-of-poverty rate,Female,16.6
-2022,At-risk-of-poverty rate,Female,15.4
+2022,At-risk-of-poverty rate,Female,15.5
+2023,At-risk-of-poverty rate,Female,15.0
 2010,At-risk-of-poverty rate,Male,14.9
 2011,At-risk-of-poverty rate,Male,14.9
 2012,At-risk-of-poverty rate,Male,14.9
@@ -76,7 +81,8 @@ Year,Time series,Sex,Value
 2019,At-risk-of-poverty rate,Male,13.9
 2020,At-risk-of-poverty rate,Male,15.3
 2021,At-risk-of-poverty rate,Male,15.4
-2022,At-risk-of-poverty rate,Male,13.9
+2022,At-risk-of-poverty rate,Male,14.0
+2023,At-risk-of-poverty rate,Male,13.6
 2010,Persons living in households with very low work intensity,,
 2011,Persons living in households with very low work intensity,,
 2012,Persons living in households with very low work intensity,,
@@ -89,7 +95,8 @@ Year,Time series,Sex,Value
 2019,Persons living in households with very low work intensity,,7.6
 2020,Persons living in households with very low work intensity,,8.3
 2021,Persons living in households with very low work intensity,,9.5
-2022,Persons living in households with very low work intensity,,9.7
+2022,Persons living in households with very low work intensity,,9.8
+2023,Persons living in households with very low work intensity,,9.8
 2010,Persons living in households with very low work intensity,Female,
 2011,Persons living in households with very low work intensity,Female,
 2012,Persons living in households with very low work intensity,Female,
@@ -102,7 +109,8 @@ Year,Time series,Sex,Value
 2019,Persons living in households with very low work intensity,Female,8.0
 2020,Persons living in households with very low work intensity,Female,8.5
 2021,Persons living in households with very low work intensity,Female,9.8
-2022,Persons living in households with very low work intensity,Female,9.9
+2022,Persons living in households with very low work intensity,Female,10.0
+2023,Persons living in households with very low work intensity,Female,9.9
 2010,Persons living in households with very low work intensity,Male,
 2011,Persons living in households with very low work intensity,Male,
 2012,Persons living in households with very low work intensity,Male,
@@ -116,6 +124,7 @@ Year,Time series,Sex,Value
 2020,Persons living in households with very low work intensity,Male,8.1
 2021,Persons living in households with very low work intensity,Male,9.2
 2022,Persons living in households with very low work intensity,Male,9.6
+2023,Persons living in households with very low work intensity,Male,9.7
 2010,Severely materially and socially deprived persons,,
 2011,Severely materially and socially deprived persons,,
 2012,Severely materially and socially deprived persons,,
@@ -128,7 +137,8 @@ Year,Time series,Sex,Value
 2019,Severely materially and socially deprived persons,,3.0
 2020,Severely materially and socially deprived persons,,4.4
 2021,Severely materially and socially deprived persons,,4.3
-2022,Severely materially and socially deprived persons,,6.1
+2022,Severely materially and socially deprived persons,,6.2
+2023,Severely materially and socially deprived persons,,6.9
 2010,Severely materially and socially deprived persons,Female,
 2011,Severely materially and socially deprived persons,Female,
 2012,Severely materially and socially deprived persons,Female,
@@ -141,7 +151,8 @@ Year,Time series,Sex,Value
 2019,Severely materially and socially deprived persons,Female,3.3
 2020,Severely materially and socially deprived persons,Female,4.4
 2021,Severely materially and socially deprived persons,Female,4.3
-2022,Severely materially and socially deprived persons,Female,6.0
+2022,Severely materially and socially deprived persons,Female,6.1
+2023,Severely materially and socially deprived persons,Female,6.8
 2010,Severely materially and socially deprived persons,Male,
 2011,Severely materially and socially deprived persons,Male,
 2012,Severely materially and socially deprived persons,Male,
@@ -154,4 +165,5 @@ Year,Time series,Sex,Value
 2019,Severely materially and socially deprived persons,Male,2.6
 2020,Severely materially and socially deprived persons,Male,4.3
 2021,Severely materially and socially deprived persons,Male,4.4
-2022,Severely materially and socially deprived persons,Male,6.2
+2022,Severely materially and socially deprived persons,Male,6.3
+2023,Severely materially and socially deprived persons,Male,6.9

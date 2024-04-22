@@ -11,7 +11,8 @@ Year,degree of urbanisation,sex,Series,Value
 2019,cities,,overcrowding rate,12.7
 2020,cities,,overcrowding rate,15.0
 2021,cities,,overcrowding rate,15.7
-2022,cities,,overcrowding rate,16.1
+2022,cities,,overcrowding rate,16.5
+2023,cities,,overcrowding rate,16.4
 2010,towns and suburbs,,overcrowding rate,4.7
 2011,towns and suburbs,,overcrowding rate,4.1
 2012,towns and suburbs,,overcrowding rate,4.8
@@ -24,7 +25,8 @@ Year,degree of urbanisation,sex,Series,Value
 2019,towns and suburbs,,overcrowding rate,5.5
 2020,towns and suburbs,,overcrowding rate,8.0
 2021,towns and suburbs,,overcrowding rate,8.7
-2022,towns and suburbs,,overcrowding rate,8.9
+2022,towns and suburbs,,overcrowding rate,9.0
+2023,towns and suburbs,,overcrowding rate,9.2
 2010,rural areas,,overcrowding rate,4.7
 2011,rural areas,,overcrowding rate,4.1
 2012,rural areas,,overcrowding rate,3.7
@@ -37,7 +39,8 @@ Year,degree of urbanisation,sex,Series,Value
 2019,rural areas,,overcrowding rate,4.0
 2020,rural areas,,overcrowding rate,5.5
 2021,rural areas,,overcrowding rate,5.0
-2022,rural areas,,overcrowding rate,5.4
+2022,rural areas,,overcrowding rate,5.5
+2023,rural areas,,overcrowding rate,5.4
 2010,cities,,housing cost overburden rate,16.2
 2011,cities,,housing cost overburden rate,18.0
 2012,cities,,housing cost overburden rate,19.8
@@ -50,7 +53,8 @@ Year,degree of urbanisation,sex,Series,Value
 2019,cities,,housing cost overburden rate,16.2
 2020,cities,,housing cost overburden rate,11.4
 2021,cities,,housing cost overburden rate,12.4
-2022,cities,,housing cost overburden rate,13.0
+2022,cities,,housing cost overburden rate,13.1
+2023,cities,,housing cost overburden rate,14.5
 2010,towns and suburbs,,housing cost overburden rate,13.0
 2011,towns and suburbs,,housing cost overburden rate,14.5
 2012,towns and suburbs,,housing cost overburden rate,15.5
@@ -63,7 +67,8 @@ Year,degree of urbanisation,sex,Series,Value
 2019,towns and suburbs,,housing cost overburden rate,12.7
 2020,towns and suburbs,,housing cost overburden rate,7.8
 2021,towns and suburbs,,housing cost overburden rate,10.7
-2022,towns and suburbs,,housing cost overburden rate,11.4
+2022,towns and suburbs,,housing cost overburden rate,11.5
+2023,towns and suburbs,,housing cost overburden rate,13.3
 2010,rural areas,,housing cost overburden rate,12.3
 2011,rural areas,,housing cost overburden rate,13.6
 2012,rural areas,,housing cost overburden rate,13.9
@@ -77,6 +82,7 @@ Year,degree of urbanisation,sex,Series,Value
 2020,rural areas,,housing cost overburden rate,6.8
 2021,rural areas,,housing cost overburden rate,8.6
 2022,rural areas,,housing cost overburden rate,10.5
+2023,rural areas,,housing cost overburden rate,12.7
 2010,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.3
 2011,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.7
 2012,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.5
@@ -88,6 +94,9 @@ Year,degree of urbanisation,sex,Series,Value
 2018,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.4
 2019,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",12.0
 2020,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",12.0
+2021,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+2022,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+2023,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",15.9
 2010,,female,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.7
 2011,,female,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",14.1
 2012,,female,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.7
@@ -99,6 +108,9 @@ Year,degree of urbanisation,sex,Series,Value
 2018,,female,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.7
 2019,,female,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",12.3
 2020,,female,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",12.2
+2021,,female,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+2022,,female,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+2023,,female,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",16.1
 2010,,male,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.0
 2011,,male,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.4
 2012,,male,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.2
@@ -110,6 +122,9 @@ Year,degree of urbanisation,sex,Series,Value
 2018,,male,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",13.2
 2019,,male,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",11.7
 2020,,male,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",11.8
+2021,,male,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+2022,,male,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+2023,,male,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",15.6
 2010,,,"population having neither a bath, nor a shower in their dwelling",0.5
 2011,,,"population having neither a bath, nor a shower in their dwelling",0.1
 2012,,,"population having neither a bath, nor a shower in their dwelling",0.1
@@ -186,6 +201,10 @@ Year,degree of urbanisation,sex,Series,Value
 2017,,,population considering their dwelling as too dark,4.0
 2018,,,population considering their dwelling as too dark,4.4
 2019,,,population considering their dwelling as too dark,4.0
+2020,,,population considering their dwelling as too dark,
+2021,,,population considering their dwelling as too dark,
+2022,,,population considering their dwelling as too dark,
+2023,,,population considering their dwelling as too dark,7.1
 2010,,female,population considering their dwelling as too dark,3.9
 2011,,female,population considering their dwelling as too dark,3.9
 2012,,female,population considering their dwelling as too dark,3.9
@@ -196,6 +215,10 @@ Year,degree of urbanisation,sex,Series,Value
 2017,,female,population considering their dwelling as too dark,3.9
 2018,,female,population considering their dwelling as too dark,4.4
 2019,,female,population considering their dwelling as too dark,4.2
+2020,,female,population considering their dwelling as too dark,
+2021,,female,population considering their dwelling as too dark,
+2022,,female,population considering their dwelling as too dark,
+2023,,female,population considering their dwelling as too dark,7.0
 2010,,male,population considering their dwelling as too dark,4.5
 2011,,male,population considering their dwelling as too dark,4.2
 2012,,male,population considering their dwelling as too dark,3.9
@@ -206,3 +229,7 @@ Year,degree of urbanisation,sex,Series,Value
 2017,,male,population considering their dwelling as too dark,4.0
 2018,,male,population considering their dwelling as too dark,4.4
 2019,,male,population considering their dwelling as too dark,3.8
+2020,,male,population considering their dwelling as too dark,
+2021,,male,population considering their dwelling as too dark,
+2022,,male,population considering their dwelling as too dark,
+2023,,male,population considering their dwelling as too dark,7.2

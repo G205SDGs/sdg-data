@@ -11,7 +11,8 @@ Year,Time series,Länder,GeoCode,Value
 2019,Data from the Federal Statistical Office,,,7.8
 2020,Data from the Federal Statistical Office,,,9.6
 2021,Data from the Federal Statistical Office,,,9.7
-2022,Data from the Federal Statistical Office,,,
+2022,Data from the Federal Statistical Office,,,9.8
+2023,Data from the Federal Statistical Office,,,11.2
 2010,Data from the Federal Ministry of Food and Agriculture,,,5.9
 2011,Data from the Federal Ministry of Food and Agriculture,,,6.1
 2012,Data from the Federal Ministry of Food and Agriculture,,,6.2
@@ -25,6 +26,7 @@ Year,Time series,Länder,GeoCode,Value
 2020,Data from the Federal Ministry of Food and Agriculture,,,10.3
 2021,Data from the Federal Ministry of Food and Agriculture,,,10.9
 2022,Data from the Federal Ministry of Food and Agriculture,,,11.2
+2023,Data from the Federal Ministry of Food and Agriculture,,,
 2010,Data from the Federal Statistical Office,Baden-Württemberg,code08,7.0
 2011,Data from the Federal Statistical Office,Baden-Württemberg,code08,
 2012,Data from the Federal Statistical Office,Baden-Württemberg,code08,
@@ -35,9 +37,10 @@ Year,Time series,Länder,GeoCode,Value
 2017,Data from the Federal Statistical Office,Baden-Württemberg,code08,
 2018,Data from the Federal Statistical Office,Baden-Württemberg,code08,
 2019,Data from the Federal Statistical Office,Baden-Württemberg,code08,
-2020,Data from the Federal Statistical Office,Baden-Württemberg,code08,12.3
+2020,Data from the Federal Statistical Office,Baden-Württemberg,code08,12.2
 2021,Data from the Federal Statistical Office,Baden-Württemberg,code08,
 2022,Data from the Federal Statistical Office,Baden-Württemberg,code08,
+2023,Data from the Federal Statistical Office,Baden-Württemberg,code08,14.0
 2010,Data from the Federal Statistical Office,Bavaria,code09,6.1
 2011,Data from the Federal Statistical Office,Bavaria,code09,
 2012,Data from the Federal Statistical Office,Bavaria,code09,
@@ -48,9 +51,10 @@ Year,Time series,Länder,GeoCode,Value
 2017,Data from the Federal Statistical Office,Bavaria,code09,
 2018,Data from the Federal Statistical Office,Bavaria,code09,
 2019,Data from the Federal Statistical Office,Bavaria,code09,
-2020,Data from the Federal Statistical Office,Bavaria,code09,12.1
+2020,Data from the Federal Statistical Office,Bavaria,code09,12.2
 2021,Data from the Federal Statistical Office,Bavaria,code09,
 2022,Data from the Federal Statistical Office,Bavaria,code09,
+2023,Data from the Federal Statistical Office,Bavaria,code09,13.7
 2010,Data from the Federal Statistical Office,Berlin,code11,12.4
 2011,Data from the Federal Statistical Office,Berlin,code11,
 2012,Data from the Federal Statistical Office,Berlin,code11,
@@ -61,9 +65,10 @@ Year,Time series,Länder,GeoCode,Value
 2017,Data from the Federal Statistical Office,Berlin,code11,
 2018,Data from the Federal Statistical Office,Berlin,code11,
 2019,Data from the Federal Statistical Office,Berlin,code11,
-2020,Data from the Federal Statistical Office,Berlin,code11,15.8
+2020,Data from the Federal Statistical Office,Berlin,code11,21.4
 2021,Data from the Federal Statistical Office,Berlin,code11,
 2022,Data from the Federal Statistical Office,Berlin,code11,
+2023,Data from the Federal Statistical Office,Berlin,code11,33.3
 2010,Data from the Federal Statistical Office,Brandenburg,code12,10.6
 2011,Data from the Federal Statistical Office,Brandenburg,code12,
 2012,Data from the Federal Statistical Office,Brandenburg,code12,
@@ -74,9 +79,10 @@ Year,Time series,Länder,GeoCode,Value
 2017,Data from the Federal Statistical Office,Brandenburg,code12,
 2018,Data from the Federal Statistical Office,Brandenburg,code12,
 2019,Data from the Federal Statistical Office,Brandenburg,code12,
-2020,Data from the Federal Statistical Office,Brandenburg,code12,13.3
+2020,Data from the Federal Statistical Office,Brandenburg,code12,13.4
 2021,Data from the Federal Statistical Office,Brandenburg,code12,
 2022,Data from the Federal Statistical Office,Brandenburg,code12,
+2023,Data from the Federal Statistical Office,Brandenburg,code12,17.6
 2010,Data from the Federal Statistical Office,Bremen,code04,9.8
 2011,Data from the Federal Statistical Office,Bremen,code04,
 2012,Data from the Federal Statistical Office,Bremen,code04,
@@ -87,9 +93,10 @@ Year,Time series,Länder,GeoCode,Value
 2017,Data from the Federal Statistical Office,Bremen,code04,
 2018,Data from the Federal Statistical Office,Bremen,code04,
 2019,Data from the Federal Statistical Office,Bremen,code04,
-2020,Data from the Federal Statistical Office,Bremen,code04,22.7
+2020,Data from the Federal Statistical Office,Bremen,code04,22.2
 2021,Data from the Federal Statistical Office,Bremen,code04,
 2022,Data from the Federal Statistical Office,Bremen,code04,
+2023,Data from the Federal Statistical Office,Bremen,code04,14.8
 2010,Data from the Federal Statistical Office,Hamburg,code02,6.8
 2011,Data from the Federal Statistical Office,Hamburg,code02,
 2012,Data from the Federal Statistical Office,Hamburg,code02,
@@ -100,9 +107,10 @@ Year,Time series,Länder,GeoCode,Value
 2017,Data from the Federal Statistical Office,Hamburg,code02,
 2018,Data from the Federal Statistical Office,Hamburg,code02,
 2019,Data from the Federal Statistical Office,Hamburg,code02,
-2020,Data from the Federal Statistical Office,Hamburg,code02,8.6
+2020,Data from the Federal Statistical Office,Hamburg,code02,7.9
 2021,Data from the Federal Statistical Office,Hamburg,code02,
 2022,Data from the Federal Statistical Office,Hamburg,code02,
+2023,Data from the Federal Statistical Office,Hamburg,code02,9.5
 2010,Data from the Federal Statistical Office,Hesse,code06,9.4
 2011,Data from the Federal Statistical Office,Hesse,code06,
 2012,Data from the Federal Statistical Office,Hesse,code06,
@@ -116,6 +124,7 @@ Year,Time series,Länder,GeoCode,Value
 2020,Data from the Federal Statistical Office,Hesse,code06,15.0
 2021,Data from the Federal Statistical Office,Hesse,code06,
 2022,Data from the Federal Statistical Office,Hesse,code06,
+2023,Data from the Federal Statistical Office,Hesse,code06,15.4
 2010,Data from the Federal Statistical Office,Mecklenburg Western Pomerania,code13,8.7
 2011,Data from the Federal Statistical Office,Mecklenburg Western Pomerania,code13,
 2012,Data from the Federal Statistical Office,Mecklenburg Western Pomerania,code13,
@@ -129,6 +138,7 @@ Year,Time series,Länder,GeoCode,Value
 2020,Data from the Federal Statistical Office,Mecklenburg Western Pomerania,code13,12.2
 2021,Data from the Federal Statistical Office,Mecklenburg Western Pomerania,code13,
 2022,Data from the Federal Statistical Office,Mecklenburg Western Pomerania,code13,
+2023,Data from the Federal Statistical Office,Mecklenburg Western Pomerania,code13,14.8
 2010,Data from the Federal Statistical Office,Lower Saxony,code03,2.9
 2011,Data from the Federal Statistical Office,Lower Saxony,code03,
 2012,Data from the Federal Statistical Office,Lower Saxony,code03,
@@ -142,6 +152,7 @@ Year,Time series,Länder,GeoCode,Value
 2020,Data from the Federal Statistical Office,Lower Saxony,code03,4.8
 2021,Data from the Federal Statistical Office,Lower Saxony,code03,
 2022,Data from the Federal Statistical Office,Lower Saxony,code03,
+2023,Data from the Federal Statistical Office,Lower Saxony,code03,5.7
 2010,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,3.6
 2011,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,
 2012,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,
@@ -152,9 +163,10 @@ Year,Time series,Länder,GeoCode,Value
 2017,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,
 2018,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,
 2019,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,
-2020,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,5.7
+2020,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,5.6
 2021,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,
 2022,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,
+2023,Data from the Federal Statistical Office,North Rhine-Westphalia,code05,6.1
 2010,Data from the Federal Statistical Office,Rhineland Palatinate,code07,5.1
 2011,Data from the Federal Statistical Office,Rhineland Palatinate,code07,
 2012,Data from the Federal Statistical Office,Rhineland Palatinate,code07,
@@ -165,9 +177,10 @@ Year,Time series,Länder,GeoCode,Value
 2017,Data from the Federal Statistical Office,Rhineland Palatinate,code07,
 2018,Data from the Federal Statistical Office,Rhineland Palatinate,code07,
 2019,Data from the Federal Statistical Office,Rhineland Palatinate,code07,
-2020,Data from the Federal Statistical Office,Rhineland Palatinate,code07,11.3
+2020,Data from the Federal Statistical Office,Rhineland Palatinate,code07,11.2
 2021,Data from the Federal Statistical Office,Rhineland Palatinate,code07,
 2022,Data from the Federal Statistical Office,Rhineland Palatinate,code07,
+2023,Data from the Federal Statistical Office,Rhineland Palatinate,code07,12.4
 2010,Data from the Federal Statistical Office,Saarland,code10,10.6
 2011,Data from the Federal Statistical Office,Saarland,code10,
 2012,Data from the Federal Statistical Office,Saarland,code10,
@@ -178,9 +191,10 @@ Year,Time series,Länder,GeoCode,Value
 2017,Data from the Federal Statistical Office,Saarland,code10,
 2018,Data from the Federal Statistical Office,Saarland,code10,
 2019,Data from the Federal Statistical Office,Saarland,code10,
-2020,Data from the Federal Statistical Office,Saarland,code10,18.0
+2020,Data from the Federal Statistical Office,Saarland,code10,18.2
 2021,Data from the Federal Statistical Office,Saarland,code10,
 2022,Data from the Federal Statistical Office,Saarland,code10,
+2023,Data from the Federal Statistical Office,Saarland,code10,19.4
 2010,Data from the Federal Statistical Office,Saxony,code14,3.7
 2011,Data from the Federal Statistical Office,Saxony,code14,
 2012,Data from the Federal Statistical Office,Saxony,code14,
@@ -194,6 +208,7 @@ Year,Time series,Länder,GeoCode,Value
 2020,Data from the Federal Statistical Office,Saxony,code14,7.9
 2021,Data from the Federal Statistical Office,Saxony,code14,
 2022,Data from the Federal Statistical Office,Saxony,code14,
+2023,Data from the Federal Statistical Office,Saxony,code14,9.5
 2010,Data from the Federal Statistical Office,Saxony-Anhalt,code15,4.2
 2011,Data from the Federal Statistical Office,Saxony-Anhalt,code15,
 2012,Data from the Federal Statistical Office,Saxony-Anhalt,code15,
@@ -207,6 +222,7 @@ Year,Time series,Länder,GeoCode,Value
 2020,Data from the Federal Statistical Office,Saxony-Anhalt,code15,9.0
 2021,Data from the Federal Statistical Office,Saxony-Anhalt,code15,
 2022,Data from the Federal Statistical Office,Saxony-Anhalt,code15,
+2023,Data from the Federal Statistical Office,Saxony-Anhalt,code15,10.2
 2010,Data from the Federal Statistical Office,Schleswig-Holstein,code01,3.3
 2011,Data from the Federal Statistical Office,Schleswig-Holstein,code01,
 2012,Data from the Federal Statistical Office,Schleswig-Holstein,code01,
@@ -220,6 +236,7 @@ Year,Time series,Länder,GeoCode,Value
 2020,Data from the Federal Statistical Office,Schleswig-Holstein,code01,6.4
 2021,Data from the Federal Statistical Office,Schleswig-Holstein,code01,
 2022,Data from the Federal Statistical Office,Schleswig-Holstein,code01,
+2023,Data from the Federal Statistical Office,Schleswig-Holstein,code01,7.9
 2010,Data from the Federal Statistical Office,Thuringia,code16,4.4
 2011,Data from the Federal Statistical Office,Thuringia,code16,
 2012,Data from the Federal Statistical Office,Thuringia,code16,
@@ -233,3 +250,4 @@ Year,Time series,Länder,GeoCode,Value
 2020,Data from the Federal Statistical Office,Thuringia,code16,6.6
 2021,Data from the Federal Statistical Office,Thuringia,code16,
 2022,Data from the Federal Statistical Office,Thuringia,code16,
+2023,Data from the Federal Statistical Office,Thuringia,code16,8.2

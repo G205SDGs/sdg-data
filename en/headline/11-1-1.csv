@@ -10,6 +10,9 @@ Year,Value,Series
 2018,13.4,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
 2019,12.0,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
 2020,12.0,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2021,,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2022,,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2023,15.9,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
 2010,0.5,"Population having neither a bath, nor a shower in their dwelling"
 2011,0.1,"Population having neither a bath, nor a shower in their dwelling"
 2012,0.1,"Population having neither a bath, nor a shower in their dwelling"
@@ -42,3 +45,7 @@ Year,Value,Series
 2017,4.0,Population considering their dwelling as too dark
 2018,4.4,Population considering their dwelling as too dark
 2019,4.0,Population considering their dwelling as too dark
+2020,,Population considering their dwelling as too dark
+2021,,Population considering their dwelling as too dark
+2022,,Population considering their dwelling as too dark
+2023,7.1,Population considering their dwelling as too dark

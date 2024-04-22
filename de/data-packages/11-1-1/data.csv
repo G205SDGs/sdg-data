@@ -11,7 +11,8 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2019,Städte,,Überbelegungsquote,12.7
 2020,Städte,,Überbelegungsquote,15.0
 2021,Städte,,Überbelegungsquote,15.7
-2022,Städte,,Überbelegungsquote,16.1
+2022,Städte,,Überbelegungsquote,16.5
+2023,Städte,,Überbelegungsquote,16.4
 2010,Kleinere Städte und Vororte,,Überbelegungsquote,4.7
 2011,Kleinere Städte und Vororte,,Überbelegungsquote,4.1
 2012,Kleinere Städte und Vororte,,Überbelegungsquote,4.8
@@ -24,7 +25,8 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2019,Kleinere Städte und Vororte,,Überbelegungsquote,5.5
 2020,Kleinere Städte und Vororte,,Überbelegungsquote,8.0
 2021,Kleinere Städte und Vororte,,Überbelegungsquote,8.7
-2022,Kleinere Städte und Vororte,,Überbelegungsquote,8.9
+2022,Kleinere Städte und Vororte,,Überbelegungsquote,9.0
+2023,Kleinere Städte und Vororte,,Überbelegungsquote,9.2
 2010,Ländliche Gebiete,,Überbelegungsquote,4.7
 2011,Ländliche Gebiete,,Überbelegungsquote,4.1
 2012,Ländliche Gebiete,,Überbelegungsquote,3.7
@@ -37,7 +39,8 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2019,Ländliche Gebiete,,Überbelegungsquote,4.0
 2020,Ländliche Gebiete,,Überbelegungsquote,5.5
 2021,Ländliche Gebiete,,Überbelegungsquote,5.0
-2022,Ländliche Gebiete,,Überbelegungsquote,5.4
+2022,Ländliche Gebiete,,Überbelegungsquote,5.5
+2023,Ländliche Gebiete,,Überbelegungsquote,5.4
 2010,Städte,,Quote der Überbelastung durch Wohnkosten,16.2
 2011,Städte,,Quote der Überbelastung durch Wohnkosten,18.0
 2012,Städte,,Quote der Überbelastung durch Wohnkosten,19.8
@@ -50,7 +53,8 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2019,Städte,,Quote der Überbelastung durch Wohnkosten,16.2
 2020,Städte,,Quote der Überbelastung durch Wohnkosten,11.4
 2021,Städte,,Quote der Überbelastung durch Wohnkosten,12.4
-2022,Städte,,Quote der Überbelastung durch Wohnkosten,13.0
+2022,Städte,,Quote der Überbelastung durch Wohnkosten,13.1
+2023,Städte,,Quote der Überbelastung durch Wohnkosten,14.5
 2010,Kleinere Städte und Vororte,,Quote der Überbelastung durch Wohnkosten,13.0
 2011,Kleinere Städte und Vororte,,Quote der Überbelastung durch Wohnkosten,14.5
 2012,Kleinere Städte und Vororte,,Quote der Überbelastung durch Wohnkosten,15.5
@@ -63,7 +67,8 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2019,Kleinere Städte und Vororte,,Quote der Überbelastung durch Wohnkosten,12.7
 2020,Kleinere Städte und Vororte,,Quote der Überbelastung durch Wohnkosten,7.8
 2021,Kleinere Städte und Vororte,,Quote der Überbelastung durch Wohnkosten,10.7
-2022,Kleinere Städte und Vororte,,Quote der Überbelastung durch Wohnkosten,11.4
+2022,Kleinere Städte und Vororte,,Quote der Überbelastung durch Wohnkosten,11.5
+2023,Kleinere Städte und Vororte,,Quote der Überbelastung durch Wohnkosten,13.3
 2010,Ländliche Gebiete,,Quote der Überbelastung durch Wohnkosten,12.3
 2011,Ländliche Gebiete,,Quote der Überbelastung durch Wohnkosten,13.6
 2012,Ländliche Gebiete,,Quote der Überbelastung durch Wohnkosten,13.9
@@ -77,6 +82,7 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2020,Ländliche Gebiete,,Quote der Überbelastung durch Wohnkosten,6.8
 2021,Ländliche Gebiete,,Quote der Überbelastung durch Wohnkosten,8.6
 2022,Ländliche Gebiete,,Quote der Überbelastung durch Wohnkosten,10.5
+2023,Ländliche Gebiete,,Quote der Überbelastung durch Wohnkosten,12.7
 2010,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.3
 2011,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.7
 2012,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.5
@@ -88,6 +94,9 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2018,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.4
 2019,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",12.0
 2020,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",12.0
+2021,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
+2022,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
+2023,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",15.9
 2010,,Weiblich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.7
 2011,,Weiblich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",14.1
 2012,,Weiblich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.7
@@ -99,6 +108,9 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2018,,Weiblich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.7
 2019,,Weiblich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",12.3
 2020,,Weiblich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",12.2
+2021,,Weiblich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
+2022,,Weiblich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
+2023,,Weiblich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",16.1
 2010,,Männlich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.0
 2011,,Männlich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.4
 2012,,Männlich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.2
@@ -110,6 +122,9 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2018,,Männlich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.2
 2019,,Männlich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",11.7
 2020,,Männlich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",11.8
+2021,,Männlich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
+2022,,Männlich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
+2023,,Männlich,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",15.6
 2010,,,"Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",0.5
 2011,,,"Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",0.1
 2012,,,"Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",0.1
@@ -186,6 +201,10 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2017,,,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",4.0
 2018,,,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",4.4
 2019,,,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",4.0
+2020,,,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+2021,,,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+2022,,,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+2023,,,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",7.1
 2010,,Weiblich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",3.9
 2011,,Weiblich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",3.9
 2012,,Weiblich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",3.9
@@ -196,6 +215,10 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2017,,Weiblich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",3.9
 2018,,Weiblich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",4.4
 2019,,Weiblich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",4.2
+2020,,Weiblich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+2021,,Weiblich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+2022,,Weiblich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+2023,,Weiblich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",7.0
 2010,,Männlich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",4.5
 2011,,Männlich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",4.2
 2012,,Männlich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",3.9
@@ -206,3 +229,7 @@ Year,Verstädterungsgrad,Geschlecht,Series,Value
 2017,,Männlich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",4.0
 2018,,Männlich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",4.4
 2019,,Männlich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",3.8
+2020,,Männlich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+2021,,Männlich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+2022,,Männlich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+2023,,Männlich,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",7.2

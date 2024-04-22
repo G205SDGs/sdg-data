@@ -12,6 +12,7 @@ Year,timeseries,sex,Value
 2020,data from na from federal statistical office,,16.9
 2021,data from na from federal statistical office,,16.6
 2022,data from na from federal statistical office,,16.4
+2023,data from na from federal statistical office,,16.3
 2010,data from lfs from federal statistical office,,20.0
 2011,data from lfs from federal statistical office,,19.8
 2012,data from lfs from federal statistical office,,19.7
@@ -25,6 +26,7 @@ Year,timeseries,sex,Value
 2020,data from lfs from federal statistical office,,19.9
 2021,data from lfs from federal statistical office,,19.8
 2022,data from lfs from federal statistical office,,19.0
+2023,data from lfs from federal statistical office,,
 2010,data from lfs from federal statistical office,female,11.7
 2011,data from lfs from federal statistical office,female,11.6
 2012,data from lfs from federal statistical office,female,11.6
@@ -38,6 +40,7 @@ Year,timeseries,sex,Value
 2020,data from lfs from federal statistical office,female,11.2
 2021,data from lfs from federal statistical office,female,11.3
 2022,data from lfs from federal statistical office,female,11.0
+2023,data from lfs from federal statistical office,female,
 2010,data from lfs from federal statistical office,male,27.1
 2011,data from lfs from federal statistical office,male,26.9
 2012,data from lfs from federal statistical office,male,26.7
@@ -51,3 +54,4 @@ Year,timeseries,sex,Value
 2020,data from lfs from federal statistical office,male,27.6
 2021,data from lfs from federal statistical office,male,27.2
 2022,data from lfs from federal statistical office,male,26.1
+2023,data from lfs from federal statistical office,male,
