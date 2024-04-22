@@ -12,6 +12,7 @@ Year,age group,sex,Value
 2020,13 years and younger,,31
 2021,13 years and younger,,36
 2022,13 years and younger,,20
+2023,13 years and younger,,13
 2010,13 years and younger,female,2
 2011,13 years and younger,female,13
 2012,13 years and younger,female,11
@@ -25,6 +26,7 @@ Year,age group,sex,Value
 2020,13 years and younger,female,10
 2021,13 years and younger,female,17
 2022,13 years and younger,female,13
+2023,13 years and younger,female,8
 2010,13 years and younger,male,9
 2011,13 years and younger,male,16
 2012,13 years and younger,male,8
@@ -38,6 +40,7 @@ Year,age group,sex,Value
 2020,13 years and younger,male,21
 2021,13 years and younger,male,19
 2022,13 years and younger,male,7
+2023,13 years and younger,male,5
 2010,14 to under 18 years,,108
 2011,14 to under 18 years,,95
 2012,14 to under 18 years,,96
@@ -51,6 +54,7 @@ Year,age group,sex,Value
 2020,14 to under 18 years,,86
 2021,14 to under 18 years,,82
 2022,14 to under 18 years,,86
+2023,14 to under 18 years,,67
 2010,14 to under 18 years,female,97
 2011,14 to under 18 years,female,82
 2012,14 to under 18 years,female,88
@@ -64,6 +68,7 @@ Year,age group,sex,Value
 2020,14 to under 18 years,female,62
 2021,14 to under 18 years,female,64
 2022,14 to under 18 years,female,72
+2023,14 to under 18 years,female,61
 2010,14 to under 18 years,male,11
 2011,14 to under 18 years,male,13
 2012,14 to under 18 years,male,8
@@ -77,6 +82,7 @@ Year,age group,sex,Value
 2020,14 to under 18 years,male,24
 2021,14 to under 18 years,male,18
 2022,14 to under 18 years,male,14
+2023,14 to under 18 years,male,6
 2010,,,119
 2011,,,124
 2012,,,115
@@ -90,6 +96,7 @@ Year,age group,sex,Value
 2020,,,117
 2021,,,118
 2022,,,106
+2023,,,80
 2010,,female,99
 2011,,female,95
 2012,,female,99
@@ -103,6 +110,7 @@ Year,age group,sex,Value
 2020,,female,72
 2021,,female,81
 2022,,female,85
+2023,,female,69
 2010,,male,20
 2011,,male,29
 2012,,male,16
@@ -116,3 +124,4 @@ Year,age group,sex,Value
 2020,,male,45
 2021,,male,37
 2022,,male,21
+2023,,male,11
