@@ -37,6 +37,16 @@
             }
           },
           {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years and older",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

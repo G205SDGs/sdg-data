@@ -43,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "documents issued for the import and export of protected species",
+                "authorized imports and exports of protected species",
                 "seizures by authorities concerning the protection of species",
                 ""
               ]
@@ -1564,7 +1564,7 @@
           }
         ]
       },
-      "title": "Anzahl der Festnetz-Breitbandanschlüsse je 100 Einwohner/-innen, nach Geschwindigkeit"
+      "title": "Anzahl der Breitbandanschlüsse je 100 Einwohner/-innen, nach Geschwindigkeit"
     },
     {
       "path": "1-5-3/data.csv",
@@ -2804,7 +2804,7 @@
           }
         ]
       },
-      "title": "Indikator der statistischen Kapazitäten für die Überwachung der Nachhaltigkeitsziele"
+      "title": "Indikatoren der statistischen Kapazitäten"
     },
     {
       "path": "17-1-2/data.csv",
@@ -3197,7 +3197,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million tonnes",
+                "million tonnes carbon",
                 "percentage",
                 ""
               ]
@@ -3995,6 +3995,16 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years and older",
                 ""
               ]
             }
@@ -5367,7 +5377,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "documents issued for the import and export of protected species",
+                "authorized imports and exports of protected species",
                 "seizures by authorities concerning the protection of species",
                 ""
               ]
@@ -5457,7 +5467,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und c) sexueller Gewalt ausgesetzt war"
+      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und/oder c) sexueller Gewalt ausgesetzt war"
     },
     {
       "path": "11-a-1/data.csv",
@@ -5717,6 +5727,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "finale score",
                 "enabling environment",
                 "institutions and participation",
                 "management instruments",
@@ -6771,7 +6782,7 @@
           }
         ]
       },
-      "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten Opfer körperlicher oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Tatort"
+      "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten Opfer nicht-sexueller oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Tatort"
     },
     {
       "path": "9-4-1/data.csv",
@@ -7292,7 +7303,7 @@
           }
         ]
       },
-      "title": "Anteil der Opfer von Gewalttaten in den vorangegangenen 12 Monaten, die den zuständigen Behörden oder anderen offiziell anerkannten Mechanismen zur Konfliktbeilegung diese Gewalt angezeigt haben"
+      "title": "Anteil der Opfer von a) physischer, b) psychischer und/oder c) sexueller Gewalt in den vorangegangenen 12 Monaten, die den zuständigen Behörden oder anderen offiziell anerkannten Mechanismen zur Konfliktbeilegung diese Gewalt angezeigt haben"
     },
     {
       "path": "7-3-1/data.csv",
@@ -8884,7 +8895,7 @@
           }
         ]
       },
-      "title": "a) Index der Lebensmittelverluste und b) Index der Lebensmittelverschwendung"
+      "title": "a) Index der Lebensmittelverluste und b) Index der Lebensmittelabfälle"
     },
     {
       "path": "3-5-1/data.csv",

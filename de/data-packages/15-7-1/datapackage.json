@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
+                "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
                 ""
               ]

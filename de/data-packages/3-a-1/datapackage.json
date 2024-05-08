@@ -40,6 +40,17 @@
             "title": "Geschlecht"
           },
           {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

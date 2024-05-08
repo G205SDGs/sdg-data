@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million tonnes",
+                "million tonnes carbon",
                 "percentage",
                 ""
               ]

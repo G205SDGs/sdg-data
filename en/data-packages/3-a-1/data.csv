@@ -1,13 +1,13 @@
-Year,Time series,Sex,Value
-2013,Current tobacco use,,24.5
-2017,Current tobacco use,,22.4
-2021,Current tobacco use,,18.9
-2013,Current tobacco use,Female,20.3
-2017,Current tobacco use,Female,18.6
-2021,Current tobacco use,Female,15.7
-2013,Current tobacco use,Male,29.0
-2017,Current tobacco use,Male,26.4
-2021,Current tobacco use,Male,22.3
-2013,Current tobacco use (age-standardised to WHO Standard Population),,27.6
-2017,Current tobacco use (age-standardised to WHO Standard Population),,24.4
-2021,Current tobacco use (age-standardised to WHO Standard Population),,20.2
+Year,Time series,Sex,Age group,Value
+2013,Current tobacco use,,15 years and older,24.5
+2017,Current tobacco use,,15 years and older,22.4
+2021,Current tobacco use,,15 years and older,18.9
+2013,Current tobacco use,Female,15 years and older,20.3
+2017,Current tobacco use,Female,15 years and older,18.6
+2021,Current tobacco use,Female,15 years and older,15.7
+2013,Current tobacco use,Male,15 years and older,29.0
+2017,Current tobacco use,Male,15 years and older,26.4
+2021,Current tobacco use,Male,15 years and older,22.3
+2013,Current tobacco use (age-standardised to WHO Standard Population),,,27.6
+2017,Current tobacco use (age-standardised to WHO Standard Population),,,24.4
+2021,Current tobacco use (age-standardised to WHO Standard Population),,,20.2
