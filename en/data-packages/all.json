@@ -46,8 +46,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Authorized imports and exports of protected species",
+                "Documents issued for the import and export of protected species",
                 "Seizures by authorities concerning the protection of species",
+                "Authorized imports and exports of protected species",
                 ""
               ]
             },
@@ -5856,7 +5857,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Authorized imports and exports of protected species",
+                "Documents issued for the import and export of protected species",
                 "Seizures by authorities concerning the protection of species",
                 ""
               ]
@@ -8907,8 +8908,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
-                "Implementation of the System of Environmental-Economic Accounting (SEEA)",
+                "(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020",
+                "(b) implementation of the principles of biodiversity in the seea",
                 ""
               ]
             },

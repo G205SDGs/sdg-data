@@ -19,8 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "authorized imports and exports of protected species",
+                "documents issued for the import and export of protected species",
                 "seizures by authorities concerning the protection of species",
+                "authorized imports and exports of protected species",
                 ""
               ]
             }

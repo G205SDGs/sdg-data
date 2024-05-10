@@ -46,8 +46,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Genehmigte Ein- und Ausfuhren geschützter Arten",
+                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
                 "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
+                "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]
             },
@@ -5856,7 +5857,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Genehmigte Ein- und Ausfuhren geschützter Arten",
+                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
                 "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
                 ""
               ]
@@ -8907,8 +8908,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020",
-                "Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)",
+                "(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020",
+                "(b) implementation of the principles of biodiversity in the seea",
                 ""
               ]
             },
