@@ -21,6 +21,7 @@
               "enum": [
                 "documents issued for the import and export of protected species",
                 "seizures by authorities concerning the protection of species",
+                "authorized imports and exports of protected species",
                 ""
               ]
             }

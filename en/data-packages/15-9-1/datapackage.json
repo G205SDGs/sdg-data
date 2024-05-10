@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020",
-                "(b) implementation of the principles of biodiversity in the seea",
+                "(a) Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
+                "(b) Implementation of the principles of biodiversity in the SEEA",
                 ""
               ]
             },
