@@ -12,6 +12,7 @@ Year,Units,Zeitreihe,Value
 2020,Prozent,Jährliche Wachstumsrate des realen BIP,-3.8
 2021,Prozent,Jährliche Wachstumsrate des realen BIP,3.2
 2022,Prozent,Jährliche Wachstumsrate des realen BIP,1.8
+2023,Prozent,Jährliche Wachstumsrate des realen BIP,-0.2
 2010,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1525.6
 2011,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1577.6
 2012,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1614.0
@@ -25,6 +26,7 @@ Year,Units,Zeitreihe,Value
 2020,Milliarden EUR,Verfügbares Einkommen privater Haushalte,1987.0
 2021,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2035.6
 2022,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2164.5
+2023,Milliarden EUR,Verfügbares Einkommen privater Haushalte,2295.0
 2010,Milliarden EUR,Konsum privater Haushalte,1372.9
 2011,Milliarden EUR,Konsum privater Haushalte,1423.6
 2012,Milliarden EUR,Konsum privater Haushalte,1465.9
@@ -38,6 +40,7 @@ Year,Units,Zeitreihe,Value
 2020,Milliarden EUR,Konsum privater Haushalte,1654.5
 2021,Milliarden EUR,Konsum privater Haushalte,1730.7
 2022,Milliarden EUR,Konsum privater Haushalte,1921.6
+2023,Milliarden EUR,Konsum privater Haushalte,2030.5
 2010,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2011.7
 2011,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2025.4
 2012,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2068.3
@@ -51,6 +54,7 @@ Year,Units,Zeitreihe,Value
 2020,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2172.9
 2021,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2321.0
 2022,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,2368.0
+2023,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,
 2010,Milliarden EUR,Finanzierungssaldo des Staates,-112.3
 2011,Milliarden EUR,Finanzierungssaldo des Staates,-23.7
 2012,Milliarden EUR,Finanzierungssaldo des Staates,0.3
@@ -64,6 +68,7 @@ Year,Units,Zeitreihe,Value
 2020,Milliarden EUR,Finanzierungssaldo des Staates,-147.7
 2021,Milliarden EUR,Finanzierungssaldo des Staates,-129.7
 2022,Milliarden EUR,Finanzierungssaldo des Staates,-96.9
+2023,Milliarden EUR,Finanzierungssaldo des Staates,-99.1
 2010,Milliarden EUR,Bruttoanlageinvestitionen,501.1
 2011,Milliarden EUR,Bruttoanlageinvestitionen,548.7
 2012,Milliarden EUR,Bruttoanlageinvestitionen,557.9
@@ -77,6 +82,7 @@ Year,Units,Zeitreihe,Value
 2020,Milliarden EUR,Bruttoanlageinvestitionen,733.2
 2021,Milliarden EUR,Bruttoanlageinvestitionen,770.5
 2022,Milliarden EUR,Bruttoanlageinvestitionen,856.2
+2023,Milliarden EUR,Bruttoanlageinvestitionen,903.1
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,49314.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,50102.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,50100.0
@@ -89,7 +95,8 @@ Year,Units,Zeitreihe,Value
 2019,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54304.1
 2020,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,52000.3
 2021,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,53517.7
-2022,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54316.7
+2022,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54317.0
+2023,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,54716.0
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,58524.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59279.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59162.0
@@ -103,6 +110,7 @@ Year,Units,Zeitreihe,Value
 2020,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,59104.0
 2021,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,60623.0
 2022,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,61410.0
+2023,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,61671.0
 2010,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,96.5
 2011,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,98.7
 2012,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,99.1
@@ -116,6 +124,7 @@ Year,Units,Zeitreihe,Value
 2020,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.6
 2021,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.8
 2022,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,103.1
+2023,2015 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,102.2
 2010,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,94.9
 2011,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,97.4
 2012,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,98.0
@@ -129,6 +138,7 @@ Year,Units,Zeitreihe,Value
 2020,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,105.3
 2021,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,105.9
 2022,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,106.5
+2023,2015 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,105.8
 2010,Anzahl in 1 000,Erwerbstätige,41048.0
 2011,Anzahl in 1 000,Erwerbstätige,41544.0
 2012,Anzahl in 1 000,Erwerbstätige,42019.0
@@ -142,6 +152,7 @@ Year,Units,Zeitreihe,Value
 2020,Anzahl in 1 000,Erwerbstätige,44915.0
 2021,Anzahl in 1 000,Erwerbstätige,44984.0
 2022,Anzahl in 1 000,Erwerbstätige,45596.0
+2023,Anzahl in 1 000,Erwerbstätige,45932.0
 2010,2015 = 100,Reales BIP pro Kopf,93.6
 2011,2015 = 100,Reales BIP pro Kopf,97.3
 2012,2015 = 100,Reales BIP pro Kopf,97.5
@@ -155,6 +166,7 @@ Year,Units,Zeitreihe,Value
 2020,2015 = 100,Reales BIP pro Kopf,101.2
 2021,2015 = 100,Reales BIP pro Kopf,104.4
 2022,2015 = 100,Reales BIP pro Kopf,105.5
+2023,2015 = 100,Reales BIP pro Kopf,104.4
 2010,Milliarden EUR,Außenbeitrag,134.9
 2011,Milliarden EUR,Außenbeitrag,132.2
 2012,Milliarden EUR,Außenbeitrag,167.5
@@ -168,3 +180,4 @@ Year,Units,Zeitreihe,Value
 2020,Milliarden EUR,Außenbeitrag,197.6
 2021,Milliarden EUR,Außenbeitrag,195.3
 2022,Milliarden EUR,Außenbeitrag,76.3
+2023,Milliarden EUR,Außenbeitrag,186.9

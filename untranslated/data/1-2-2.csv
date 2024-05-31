@@ -12,7 +12,7 @@ Year,timeseries,sex,Value
 2020,persons at risk of poverty or social exclusion,,20.4
 2021,persons at risk of poverty or social exclusion,,21.0
 2022,persons at risk of poverty or social exclusion,,21.1
-2023,persons at risk of poverty or social exclusion,,21.2
+2023,persons at risk of poverty or social exclusion,,21.3
 2010,persons at risk of poverty or social exclusion,female,
 2011,persons at risk of poverty or social exclusion,female,
 2012,persons at risk of poverty or social exclusion,female,
@@ -26,7 +26,7 @@ Year,timeseries,sex,Value
 2020,persons at risk of poverty or social exclusion,female,21.2
 2021,persons at risk of poverty or social exclusion,female,21.7
 2022,persons at risk of poverty or social exclusion,female,21.9
-2023,persons at risk of poverty or social exclusion,female,22.0
+2023,persons at risk of poverty or social exclusion,female,22.1
 2010,persons at risk of poverty or social exclusion,male,
 2011,persons at risk of poverty or social exclusion,male,
 2012,persons at risk of poverty or social exclusion,male,
@@ -40,7 +40,7 @@ Year,timeseries,sex,Value
 2020,persons at risk of poverty or social exclusion,male,19.5
 2021,persons at risk of poverty or social exclusion,male,20.2
 2022,persons at risk of poverty or social exclusion,male,20.3
-2023,persons at risk of poverty or social exclusion,male,20.4
+2023,persons at risk of poverty or social exclusion,male,20.5
 2010,at-risk-of-poverty rate,,15.6
 2011,at-risk-of-poverty rate,,15.8
 2012,at-risk-of-poverty rate,,16.1
@@ -54,7 +54,7 @@ Year,timeseries,sex,Value
 2020,at-risk-of-poverty rate,,16.1
 2021,at-risk-of-poverty rate,,16.0
 2022,at-risk-of-poverty rate,,14.8
-2023,at-risk-of-poverty rate,,14.3
+2023,at-risk-of-poverty rate,,14.4
 2010,at-risk-of-poverty rate,female,16.4
 2011,at-risk-of-poverty rate,female,16.8
 2012,at-risk-of-poverty rate,female,17.2
@@ -68,7 +68,7 @@ Year,timeseries,sex,Value
 2020,at-risk-of-poverty rate,female,16.8
 2021,at-risk-of-poverty rate,female,16.6
 2022,at-risk-of-poverty rate,female,15.5
-2023,at-risk-of-poverty rate,female,15.0
+2023,at-risk-of-poverty rate,female,15.1
 2010,at-risk-of-poverty rate,male,14.9
 2011,at-risk-of-poverty rate,male,14.9
 2012,at-risk-of-poverty rate,male,14.9
@@ -82,7 +82,7 @@ Year,timeseries,sex,Value
 2020,at-risk-of-poverty rate,male,15.3
 2021,at-risk-of-poverty rate,male,15.4
 2022,at-risk-of-poverty rate,male,14.0
-2023,at-risk-of-poverty rate,male,13.6
+2023,at-risk-of-poverty rate,male,13.7
 2010,persons living in households with very low work intensity,,
 2011,persons living in households with very low work intensity,,
 2012,persons living in households with very low work intensity,,

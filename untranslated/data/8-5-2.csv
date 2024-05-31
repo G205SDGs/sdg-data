@@ -12,6 +12,7 @@ Year,age group,sex,Value
 2020,,,3.9
 2021,,,3.7
 2022,,,3.1
+2023,,,3.1
 2010,15 to under 25 years,,9.8
 2011,15 to under 25 years,,8.5
 2012,15 to under 25 years,,8.0
@@ -25,6 +26,7 @@ Year,age group,sex,Value
 2020,15 to under 25 years,,7.1
 2021,15 to under 25 years,,7.0
 2022,15 to under 25 years,,6.0
+2023,15 to under 25 years,,5.9
 2010,25 to under 75 years,,6.6
 2011,25 to under 75 years,,5.5
 2012,25 to under 75 years,,5.1
@@ -38,6 +40,7 @@ Year,age group,sex,Value
 2020,25 to under 75 years,,3.5
 2021,25 to under 75 years,,3.3
 2022,25 to under 75 years,,2.8
+2023,25 to under 75 years,,2.8
 2010,,female,6.5
 2011,,female,5.6
 2012,,female,5.2
@@ -51,6 +54,7 @@ Year,age group,sex,Value
 2020,,female,3.4
 2021,,female,3.2
 2022,,female,2.9
+2023,,female,2.8
 2010,,male,7.4
 2011,,male,6.1
 2012,,male,5.6
@@ -64,6 +68,7 @@ Year,age group,sex,Value
 2020,,male,4.2
 2021,,male,4.0
 2022,,male,3.4
+2023,,male,3.3
 2010,15 to under 25 years,female,8.8
 2011,15 to under 25 years,female,7.8
 2012,15 to under 25 years,female,7.3
@@ -77,6 +82,7 @@ Year,age group,sex,Value
 2020,15 to under 25 years,female,6.7
 2021,15 to under 25 years,female,6.6
 2022,15 to under 25 years,female,5.5
+2023,15 to under 25 years,female,5.2
 2010,15 to under 25 years,male,10.7
 2011,15 to under 25 years,male,9.2
 2012,15 to under 25 years,male,8.7
@@ -90,6 +96,7 @@ Year,age group,sex,Value
 2020,15 to under 25 years,male,7.5
 2021,15 to under 25 years,male,7.4
 2022,15 to under 25 years,male,6.4
+2023,15 to under 25 years,male,6.5
 2010,25 to under 75 years,female,6.2
 2011,25 to under 75 years,female,5.3
 2012,25 to under 75 years,female,4.9
@@ -103,6 +110,7 @@ Year,age group,sex,Value
 2020,25 to under 75 years,female,3.1
 2021,25 to under 75 years,female,2.9
 2022,25 to under 75 years,female,2.6
+2023,25 to under 75 years,female,2.6
 2010,25 to under 75 years,male,7.0
 2011,25 to under 75 years,male,5.7
 2012,25 to under 75 years,male,5.2
@@ -116,3 +124,4 @@ Year,age group,sex,Value
 2020,25 to under 75 years,male,3.9
 2021,25 to under 75 years,male,3.6
 2022,25 to under 75 years,male,3.0
+2023,25 to under 75 years,male,2.9

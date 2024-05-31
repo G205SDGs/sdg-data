@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda and oof)",
-                "gross disbursements (oda and oof)",
+                "commitments (oda)",
+                "gross disbursements (oda)",
                 ""
               ]
             }

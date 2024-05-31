@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA and OOF)",
-                "Bruttoausgaben (ODA und OOF)",
+                "Zusagen (ODA)",
+                "Bruttoentwicklungsausgaben (ODA)",
                 ""
               ]
             },
