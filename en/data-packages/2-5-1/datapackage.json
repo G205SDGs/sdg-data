@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Animal genetic resources",
                 "Plant genetic resources",
+                "Animal genetic resources",
                 ""
               ]
             },

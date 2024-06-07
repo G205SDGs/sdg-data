@@ -782,7 +782,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der in den vorangegan¬genen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und/oder c) sexueller Gewalt ausgesetzt war"
+      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und/oder c) sexueller Gewalt ausgesetzt war"
     },
     {
       "path": "17-18-3/data.csv",
@@ -6140,8 +6140,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tiergenetische Ressourcen",
                 "Pflanzengenetische Ressourcen",
+                "Tiergenetische Ressourcen",
                 ""
               ]
             },
@@ -6466,7 +6466,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
