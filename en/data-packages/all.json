@@ -678,18 +678,18 @@
             "title": "Year"
           },
           {
-            "name": "facilities",
+            "name": "type of service",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Schools with access to electricity",
-                "e) Schools with access to basic drinking water",
-                "f) Schools with access to single-sex basic sanitation facilities",
-                "g) Schools with access to basic handwashing facilities",
+                "Schools with access to electricity",
+                "Schools with access to basic drinking water",
+                "Schools with access to single-sex basic sanitation facilities",
+                "Schools with access to basic handwashing facilities",
                 ""
               ]
             },
-            "title": "Facilities"
+            "title": "Type of service"
           },
           {
             "name": "Value",
@@ -2362,17 +2362,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 years and older",
-                ""
-              ]
-            },
-            "title": "Age group"
           },
           {
             "name": "Value",
@@ -8563,7 +8552,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of physical harassment",
+                "Victims of non-sexual harassment",
                 "Victims of sexual harassment",
                 ""
               ]
@@ -8933,32 +8922,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -9074,7 +9043,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

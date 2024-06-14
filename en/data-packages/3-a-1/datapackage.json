@@ -40,17 +40,6 @@
             "title": "Sex"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 years and older",
-                ""
-              ]
-            },
-            "title": "Age group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

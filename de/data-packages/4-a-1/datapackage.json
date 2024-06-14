@@ -16,18 +16,18 @@
             "title": "Jahr"
           },
           {
-            "name": "facilities",
+            "name": "type of service",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Schulen mit Zugang zu Elektrizität",
-                "e) Schulen mit Zugang zu Trinkwasser",
-                "f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen",
-                "g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen",
+                "Schulen mit Zugang zu Elektrizität",
+                "Schulen mit Zugang zu Trinkwasser",
+                "Schulen mit Zugang zu geschlechterspezifischen, grundlegenden sanitären Anlagen",
+                "Schulen mit Zugang zu grundlegenden Einrichtungen zum Händewaschen",
                 ""
               ]
             },
-            "title": "Ausstattung"
+            "title": "Versorgungsleistung"
           },
           {
             "name": "Value",
