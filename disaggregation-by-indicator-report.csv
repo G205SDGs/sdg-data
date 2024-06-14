@@ -2,6 +2,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1,sex,1
 #1-2-2,"sex, timeseries",2
 #1-3-1,timeseries,1
+#1-5-1,cause of death,1
 #1-a-1,time series,1
 #1-a-2,function,1
 #1-b-1,timeseries,1
@@ -15,6 +16,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-2-1,"time series, sex, age group, länder, disability status",5
 #11-3-1,"timeseries, presentation",2
 #11-4-1,timeseries,1
+#11-5-1,cause of death,1
 #11-6-2,fine particulate matter,1
 #11-7-2,"sex, timeseries, age group",3
 #12-3-1,stages of the food chain,1
@@ -25,6 +27,7 @@ Indicator,Disaggregations,Number of disaggregations
 #12-8-1,area2,1
 #12-b-1,standard accounting system,1
 #12-c-1,time series,1
+#13-1-1,cause of death,1
 #13-2-2,länder,1
 #13-3-1,area2,1
 #14-4-1,sea,1

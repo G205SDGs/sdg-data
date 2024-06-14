@@ -1,7 +1,144 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Cause of death,Value
+2010,,0.2
+2011,,0.1
+2012,,0.2
+2013,,0.2
+2014,,0.1
+2015,,0.2
+2016,,0.1
+2017,,0.2
+2018,,0.2
+2019,,0.2
+2020,,0.1
+2021,,0.4
+2022,,0.3
+2010,Exposure to excessive natural heat,0.0
+2011,Exposure to excessive natural heat,0.0
+2012,Exposure to excessive natural heat,0.0
+2013,Exposure to excessive natural heat,0.0
+2014,Exposure to excessive natural heat,0.0
+2015,Exposure to excessive natural heat,0.1
+2016,Exposure to excessive natural heat,0.0
+2017,Exposure to excessive natural heat,0.0
+2018,Exposure to excessive natural heat,0.0
+2019,Exposure to excessive natural heat,0.0
+2020,Exposure to excessive natural heat,0.0
+2021,Exposure to excessive natural heat,0.0
+2022,Exposure to excessive natural heat,0.0
+2010,Exposure to excessive natural cold,0.2
+2011,Exposure to excessive natural cold,0.1
+2012,Exposure to excessive natural cold,0.2
+2013,Exposure to excessive natural cold,0.2
+2014,Exposure to excessive natural cold,0.1
+2015,Exposure to excessive natural cold,0.1
+2016,Exposure to excessive natural cold,0.1
+2017,Exposure to excessive natural cold,0.2
+2018,Exposure to excessive natural cold,0.2
+2019,Exposure to excessive natural cold,0.2
+2020,Exposure to excessive natural cold,0.1
+2021,Exposure to excessive natural cold,0.2
+2022,Exposure to excessive natural cold,0.2
+2010,Exposure to sunlight,0.0
+2011,Exposure to sunlight,
+2012,Exposure to sunlight,
+2013,Exposure to sunlight,
+2014,Exposure to sunlight,
+2015,Exposure to sunlight,
+2016,Exposure to sunlight,
+2017,Exposure to sunlight,
+2018,Exposure to sunlight,0.0
+2019,Exposure to sunlight,0.0
+2020,Exposure to sunlight,0.0
+2021,Exposure to sunlight,0.0
+2022,Exposure to sunlight,0.0
+2010,Victim of lightning,
+2011,Victim of lightning,0.0
+2012,Victim of lightning,0.0
+2013,Victim of lightning,0.0
+2014,Victim of lightning,0.0
+2015,Victim of lightning,0.0
+2016,Victim of lightning,0.0
+2017,Victim of lightning,0.0
+2018,Victim of lightning,0.0
+2019,Victim of lightning,
+2020,Victim of lightning,0.0
+2021,Victim of lightning,0.0
+2022,Victim of lightning,0.0
+2010,Victim of earthquake,
+2011,Victim of earthquake,
+2012,Victim of earthquake,
+2013,Victim of earthquake,
+2014,Victim of earthquake,
+2015,Victim of earthquake,
+2016,Victim of earthquake,
+2017,Victim of earthquake,
+2018,Victim of earthquake,
+2019,Victim of earthquake,
+2020,Victim of earthquake,
+2021,Victim of earthquake,
+2022,Victim of earthquake,
+2010,Victim of volcanic eruption,
+2011,Victim of volcanic eruption,
+2012,Victim of volcanic eruption,
+2013,Victim of volcanic eruption,
+2014,Victim of volcanic eruption,
+2015,Victim of volcanic eruption,
+2016,Victim of volcanic eruption,
+2017,Victim of volcanic eruption,
+2018,Victim of volcanic eruption,
+2019,Victim of volcanic eruption,
+2020,Victim of volcanic eruption,
+2021,Victim of volcanic eruption,
+2022,Victim of volcanic eruption,
+2010,"Victim of avalanche, landslide and other earth movements",0.0
+2011,"Victim of avalanche, landslide and other earth movements",0.0
+2012,"Victim of avalanche, landslide and other earth movements",0.0
+2013,"Victim of avalanche, landslide and other earth movements",0.0
+2014,"Victim of avalanche, landslide and other earth movements",0.0
+2015,"Victim of avalanche, landslide and other earth movements",0.0
+2016,"Victim of avalanche, landslide and other earth movements",0.0
+2017,"Victim of avalanche, landslide and other earth movements",
+2018,"Victim of avalanche, landslide and other earth movements",0.0
+2019,"Victim of avalanche, landslide and other earth movements",0.0
+2020,"Victim of avalanche, landslide and other earth movements",
+2021,"Victim of avalanche, landslide and other earth movements",
+2022,"Victim of avalanche, landslide and other earth movements",0.0
+2010,Victim of cataclysmic storm,0.0
+2011,Victim of cataclysmic storm,0.0
+2012,Victim of cataclysmic storm,
+2013,Victim of cataclysmic storm,
+2014,Victim of cataclysmic storm,
+2015,Victim of cataclysmic storm,0.0
+2016,Victim of cataclysmic storm,
+2017,Victim of cataclysmic storm,
+2018,Victim of cataclysmic storm,0.0
+2019,Victim of cataclysmic storm,0.0
+2020,Victim of cataclysmic storm,0.0
+2021,Victim of cataclysmic storm,
+2022,Victim of cataclysmic storm,0.0
+2010,Victim of flood,
+2011,Victim of flood,
+2012,Victim of flood,
+2013,Victim of flood,0.0
+2014,Victim of flood,
+2015,Victim of flood,
+2016,Victim of flood,0.0
+2017,Victim of flood,0.0
+2018,Victim of flood,
+2019,Victim of flood,
+2020,Victim of flood,
+2021,Victim of flood,0.2
+2022,Victim of flood,
+2010,Exposure to other and unspecified forces of nature,0.0
+2011,Exposure to other and unspecified forces of nature,0.0
+2012,Exposure to other and unspecified forces of nature,0.0
+2013,Exposure to other and unspecified forces of nature,
+2014,Exposure to other and unspecified forces of nature,
+2015,Exposure to other and unspecified forces of nature,
+2016,Exposure to other and unspecified forces of nature,
+2017,Exposure to other and unspecified forces of nature,
+2018,Exposure to other and unspecified forces of nature,
+2019,Exposure to other and unspecified forces of nature,
+2020,Exposure to other and unspecified forces of nature,
+2021,Exposure to other and unspecified forces of nature,
+2022,Exposure to other and unspecified forces of nature,0.0

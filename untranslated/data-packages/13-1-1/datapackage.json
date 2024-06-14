@@ -15,19 +15,27 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "cause of death",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "exposure to excessive natural heat",
+                "exposure to excessive natural cold",
+                "exposure to sunlight",
+                "victim of lightning",
+                "victim of earthquake",
+                "victim of volcanic eruption",
+                "victim of avalanche, landslide and other earth movements",
+                "victim of cataclysmic storm",
+                "victim of flood",
+                "exposure to other and unspecified forces of nature",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
