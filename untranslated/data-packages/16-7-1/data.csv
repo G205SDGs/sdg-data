@@ -12,7 +12,7 @@ Year,Units,timeseries,fields of work,level of court,Value
 2020,percentage,working-age population,,,49.4
 2021,percentage,working-age population,,,49.4
 2022,percentage,working-age population,,,49.5
-2023,percentage,working-age population,,,
+2023,percentage,working-age population,,,49.4
 2024,percentage,working-age population,,,
 2010,percentage,german bundestag (lower chamber),,,32.8
 2011,percentage,german bundestag (lower chamber),,,33.1
@@ -193,7 +193,7 @@ Year,Units,timeseries,fields of work,level of court,Value
 2021,no unit,german bundestag (lower chamber),,,0.64
 2022,no unit,german bundestag (lower chamber),,,0.71
 2023,no unit,german bundestag (lower chamber),,,0.71
-2024,no unit,german bundestag (lower chamber),,,
+2024,no unit,german bundestag (lower chamber),,,0.71
 2010,no unit,bundesrat (upper chamber),,,0.38
 2011,no unit,bundesrat (upper chamber),,,0.5
 2012,no unit,bundesrat (upper chamber),,,0.55
@@ -208,7 +208,7 @@ Year,Units,timeseries,fields of work,level of court,Value
 2021,no unit,bundesrat (upper chamber),,,0.68
 2022,no unit,bundesrat (upper chamber),,,0.65
 2023,no unit,bundesrat (upper chamber),,,0.76
-2024,no unit,bundesrat (upper chamber),,,
+2024,no unit,bundesrat (upper chamber),,,0.76
 2010,no unit,public service,,,1.02
 2011,no unit,public service,,,1.01
 2012,no unit,public service,,,1.02

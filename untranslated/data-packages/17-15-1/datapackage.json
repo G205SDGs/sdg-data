@@ -15,6 +15,18 @@
             "type": "integer"
           },
           {
+            "name": "level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "objectives",
+                "indicators",
+                "data",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

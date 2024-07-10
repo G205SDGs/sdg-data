@@ -20,23 +20,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "km²",
                 "Prozent",
+                "km²",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "ecosystem",
             "type": "string",
             "constraints": {
               "enum": [
                 "Permanente Wasserfläche der Seen und Flüsse",
-                "Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche",
                 "Feuchtgebiete",
-                "Feuchtgebiete im Verhältnis zur gesamten Landfläche",
-                "Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)",
+                "Künstliche oder erheblich veränderte große Seen",
+                ""
+              ]
+            },
+            "title": "Ökosystem"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Veränderung der Fläche im Vergleich zu 2015",
+                "Fläche",
+                "Fläche im Verhältnis zur gesamten Landfläche",
                 ""
               ]
             },

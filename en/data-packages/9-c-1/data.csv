@@ -12,6 +12,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,3G,Germany,,88.9
 2021,3G,Germany,,25.8
 2022,3G,Germany,,
+2023,3G,Germany,,
 2010,LTE,Germany,,2.1
 2011,LTE,Germany,,21.5
 2012,LTE,Germany,,51.7
@@ -25,6 +26,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Germany,,99.9
 2021,LTE,Germany,,99.8
 2022,LTE,Germany,,99.8
+2023,LTE,Germany,,99.9
 2010,LTE,Baden-Württemberg,code08,
 2011,LTE,Baden-Württemberg,code08,
 2012,LTE,Baden-Württemberg,code08,
@@ -38,6 +40,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Baden-Württemberg,code08,
 2021,LTE,Baden-Württemberg,code08,99.6
 2022,LTE,Baden-Württemberg,code08,99.7
+2023,LTE,Baden-Württemberg,code08,99.8
 2010,LTE,Bavaria,code09,
 2011,LTE,Bavaria,code09,
 2012,LTE,Bavaria,code09,
@@ -51,6 +54,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Bavaria,code09,
 2021,LTE,Bavaria,code09,99.7
 2022,LTE,Bavaria,code09,99.7
+2023,LTE,Bavaria,code09,99.8
 2010,LTE,Berlin,code11,
 2011,LTE,Berlin,code11,
 2012,LTE,Berlin,code11,
@@ -64,6 +68,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Berlin,code11,
 2021,LTE,Berlin,code11,100.0
 2022,LTE,Berlin,code11,100.0
+2023,LTE,Berlin,code11,100.0
 2010,LTE,Brandenburg,code12,
 2011,LTE,Brandenburg,code12,
 2012,LTE,Brandenburg,code12,
@@ -77,6 +82,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Brandenburg,code12,
 2021,LTE,Brandenburg,code12,99.8
 2022,LTE,Brandenburg,code12,99.8
+2023,LTE,Brandenburg,code12,99.9
 2010,LTE,Bremen,code04,
 2011,LTE,Bremen,code04,
 2012,LTE,Bremen,code04,
@@ -90,6 +96,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Bremen,code04,
 2021,LTE,Bremen,code04,100.0
 2022,LTE,Bremen,code04,100.0
+2023,LTE,Bremen,code04,100.0
 2010,LTE,Hamburg,code02,
 2011,LTE,Hamburg,code02,
 2012,LTE,Hamburg,code02,
@@ -103,6 +110,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Hamburg,code02,
 2021,LTE,Hamburg,code02,100.0
 2022,LTE,Hamburg,code02,100.0
+2023,LTE,Hamburg,code02,100.0
 2010,LTE,Hesse,code06,
 2011,LTE,Hesse,code06,
 2012,LTE,Hesse,code06,
@@ -116,6 +124,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Hesse,code06,
 2021,LTE,Hesse,code06,99.7
 2022,LTE,Hesse,code06,99.8
+2023,LTE,Hesse,code06,99.9
 2010,LTE,Mecklenburg Western Pomerania,code13,
 2011,LTE,Mecklenburg Western Pomerania,code13,
 2012,LTE,Mecklenburg Western Pomerania,code13,
@@ -129,6 +138,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Mecklenburg Western Pomerania,code13,
 2021,LTE,Mecklenburg Western Pomerania,code13,99.8
 2022,LTE,Mecklenburg Western Pomerania,code13,99.9
+2023,LTE,Mecklenburg Western Pomerania,code13,99.9
 2010,LTE,Lower Saxony,code03,
 2011,LTE,Lower Saxony,code03,
 2012,LTE,Lower Saxony,code03,
@@ -142,6 +152,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Lower Saxony,code03,
 2021,LTE,Lower Saxony,code03,99.9
 2022,LTE,Lower Saxony,code03,99.9
+2023,LTE,Lower Saxony,code03,99.9
 2010,LTE,North Rhine-Westphalia,code05,
 2011,LTE,North Rhine-Westphalia,code05,
 2012,LTE,North Rhine-Westphalia,code05,
@@ -155,6 +166,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,North Rhine-Westphalia,code05,
 2021,LTE,North Rhine-Westphalia,code05,100.0
 2022,LTE,North Rhine-Westphalia,code05,100.0
+2023,LTE,North Rhine-Westphalia,code05,100.0
 2010,LTE,Rhineland Palatinate,code07,
 2011,LTE,Rhineland Palatinate,code07,
 2012,LTE,Rhineland Palatinate,code07,
@@ -168,6 +180,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Rhineland Palatinate,code07,
 2021,LTE,Rhineland Palatinate,code07,99.6
 2022,LTE,Rhineland Palatinate,code07,99.7
+2023,LTE,Rhineland Palatinate,code07,99.8
 2010,LTE,Saarland,code10,
 2011,LTE,Saarland,code10,
 2012,LTE,Saarland,code10,
@@ -181,6 +194,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Saarland,code10,
 2021,LTE,Saarland,code10,99.8
 2022,LTE,Saarland,code10,99.8
+2023,LTE,Saarland,code10,99.9
 2010,LTE,Saxony,code14,
 2011,LTE,Saxony,code14,
 2012,LTE,Saxony,code14,
@@ -194,6 +208,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Saxony,code14,
 2021,LTE,Saxony,code14,99.9
 2022,LTE,Saxony,code14,99.9
+2023,LTE,Saxony,code14,99.9
 2010,LTE,Saxony-Anhalt,code15,
 2011,LTE,Saxony-Anhalt,code15,
 2012,LTE,Saxony-Anhalt,code15,
@@ -207,6 +222,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Saxony-Anhalt,code15,
 2021,LTE,Saxony-Anhalt,code15,99.5
 2022,LTE,Saxony-Anhalt,code15,99.8
+2023,LTE,Saxony-Anhalt,code15,99.9
 2010,LTE,Schleswig-Holstein,code01,
 2011,LTE,Schleswig-Holstein,code01,
 2012,LTE,Schleswig-Holstein,code01,
@@ -220,6 +236,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Schleswig-Holstein,code01,
 2021,LTE,Schleswig-Holstein,code01,100.0
 2022,LTE,Schleswig-Holstein,code01,100.0
+2023,LTE,Schleswig-Holstein,code01,100.0
 2010,LTE,Thuringia,code16,
 2011,LTE,Thuringia,code16,
 2012,LTE,Thuringia,code16,
@@ -233,6 +250,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,LTE,Thuringia,code16,
 2021,LTE,Thuringia,code16,99.5
 2022,LTE,Thuringia,code16,99.6
+2023,LTE,Thuringia,code16,99.7
 2010,5G,Germany,,
 2011,5G,Germany,,
 2012,5G,Germany,,
@@ -246,6 +264,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Germany,,
 2021,5G,Germany,,20.3
 2022,5G,Germany,,74.6
+2023,5G,Germany,,98.0
 2010,5G,Baden-Württemberg,code08,
 2011,5G,Baden-Württemberg,code08,
 2012,5G,Baden-Württemberg,code08,
@@ -259,6 +278,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Baden-Württemberg,code08,
 2021,5G,Baden-Württemberg,code08,17.3
 2022,5G,Baden-Württemberg,code08,64.6
+2023,5G,Baden-Württemberg,code08,96.0
 2010,5G,Bavaria,code09,
 2011,5G,Bavaria,code09,
 2012,5G,Bavaria,code09,
@@ -272,6 +292,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Bavaria,code09,
 2021,5G,Bavaria,code09,22.2
 2022,5G,Bavaria,code09,75.7
+2023,5G,Bavaria,code09,98.4
 2010,5G,Berlin,code11,
 2011,5G,Berlin,code11,
 2012,5G,Berlin,code11,
@@ -285,6 +306,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Berlin,code11,
 2021,5G,Berlin,code11,64.5
 2022,5G,Berlin,code11,97.9
+2023,5G,Berlin,code11,100.0
 2010,5G,Brandenburg,code12,
 2011,5G,Brandenburg,code12,
 2012,5G,Brandenburg,code12,
@@ -298,6 +320,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Brandenburg,code12,
 2021,5G,Brandenburg,code12,5.2
 2022,5G,Brandenburg,code12,72.5
+2023,5G,Brandenburg,code12,97.8
 2010,5G,Bremen,code04,
 2011,5G,Bremen,code04,
 2012,5G,Bremen,code04,
@@ -311,6 +334,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Bremen,code04,
 2021,5G,Bremen,code04,31.8
 2022,5G,Bremen,code04,94.2
+2023,5G,Bremen,code04,100.0
 2010,5G,Hamburg,code02,
 2011,5G,Hamburg,code02,
 2012,5G,Hamburg,code02,
@@ -324,6 +348,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Hamburg,code02,
 2021,5G,Hamburg,code02,63.9
 2022,5G,Hamburg,code02,96.7
+2023,5G,Hamburg,code02,100.0
 2010,5G,Hesse,code06,
 2011,5G,Hesse,code06,
 2012,5G,Hesse,code06,
@@ -337,6 +362,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Hesse,code06,
 2021,5G,Hesse,code06,13.5
 2022,5G,Hesse,code06,59.3
+2023,5G,Hesse,code06,97.4
 2010,5G,Mecklenburg Western Pomerania,code13,
 2011,5G,Mecklenburg Western Pomerania,code13,
 2012,5G,Mecklenburg Western Pomerania,code13,
@@ -350,6 +376,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Mecklenburg Western Pomerania,code13,
 2021,5G,Mecklenburg Western Pomerania,code13,4.8
 2022,5G,Mecklenburg Western Pomerania,code13,61.8
+2023,5G,Mecklenburg Western Pomerania,code13,97.1
 2010,5G,Lower Saxony,code03,
 2011,5G,Lower Saxony,code03,
 2012,5G,Lower Saxony,code03,
@@ -363,6 +390,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Lower Saxony,code03,
 2021,5G,Lower Saxony,code03,10.4
 2022,5G,Lower Saxony,code03,71.2
+2023,5G,Lower Saxony,code03,98.2
 2010,5G,North Rhine-Westphalia,code05,
 2011,5G,North Rhine-Westphalia,code05,
 2012,5G,North Rhine-Westphalia,code05,
@@ -376,6 +404,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,North Rhine-Westphalia,code05,
 2021,5G,North Rhine-Westphalia,code05,26.3
 2022,5G,North Rhine-Westphalia,code05,83.8
+2023,5G,North Rhine-Westphalia,code05,99.4
 2010,5G,Rhineland Palatinate,code07,
 2011,5G,Rhineland Palatinate,code07,
 2012,5G,Rhineland Palatinate,code07,
@@ -389,6 +418,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Rhineland Palatinate,code07,
 2021,5G,Rhineland Palatinate,code07,7.6
 2022,5G,Rhineland Palatinate,code07,53.3
+2023,5G,Rhineland Palatinate,code07,95.8
 2010,5G,Saarland,code10,
 2011,5G,Saarland,code10,
 2012,5G,Saarland,code10,
@@ -402,6 +432,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Saarland,code10,
 2021,5G,Saarland,code10,6.6
 2022,5G,Saarland,code10,62.0
+2023,5G,Saarland,code10,96.7
 2010,5G,Saxony,code14,
 2011,5G,Saxony,code14,
 2012,5G,Saxony,code14,
@@ -415,6 +446,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Saxony,code14,
 2021,5G,Saxony,code14,17.6
 2022,5G,Saxony,code14,85.7
+2023,5G,Saxony,code14,98.1
 2010,5G,Saxony-Anhalt,code15,
 2011,5G,Saxony-Anhalt,code15,
 2012,5G,Saxony-Anhalt,code15,
@@ -428,6 +460,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Saxony-Anhalt,code15,
 2021,5G,Saxony-Anhalt,code15,2.8
 2022,5G,Saxony-Anhalt,code15,67.0
+2023,5G,Saxony-Anhalt,code15,96.9
 2010,5G,Schleswig-Holstein,code01,
 2011,5G,Schleswig-Holstein,code01,
 2012,5G,Schleswig-Holstein,code01,
@@ -441,6 +474,7 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Schleswig-Holstein,code01,
 2021,5G,Schleswig-Holstein,code01,7.2
 2022,5G,Schleswig-Holstein,code01,69.9
+2023,5G,Schleswig-Holstein,code01,98.9
 2010,5G,Thuringia,code16,
 2011,5G,Thuringia,code16,
 2012,5G,Thuringia,code16,
@@ -454,3 +488,4 @@ Year,Technology,Länder,GeoCode,Value
 2020,5G,Thuringia,code16,
 2021,5G,Thuringia,code16,8.5
 2022,5G,Thuringia,code16,75.5
+2023,5G,Thuringia,code16,96.0

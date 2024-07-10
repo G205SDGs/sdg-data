@@ -16,20 +16,44 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "completeness of disaggregation",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Fully disaggregated",
+                "Partially disaggregated",
+                "Not disaggregated",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Completeness of disaggregation"
+          },
+          {
+            "name": "goal",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 - No poverty",
+                "2 - Zero hunger",
+                "3 - Good health and well-being",
+                "4 - Quality education",
+                "5 - Gender equality",
+                "8 - Decent work and economic Growth",
+                "9 - Industry, innovation and infrastructure",
+                "10 - Reduced inequalities",
+                "11 - Sustainable cities and communities",
+                "12 - Responsible consumption and production",
+                "15 - Life on land",
+                "16 - Peace and justice",
+                "17 - Partnerships for the goals",
+                ""
+              ]
+            },
+            "title": "Goal"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

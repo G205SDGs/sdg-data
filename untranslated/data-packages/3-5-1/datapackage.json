@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "lower bound",
                 "upper bound",
+                "lower bound",
                 ""
               ]
             }

@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Untere Grenze",
                 "Obere Grenze",
+                "Untere Grenze",
                 ""
               ]
             },

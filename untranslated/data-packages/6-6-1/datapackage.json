@@ -19,22 +19,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "km²",
                 "percentage",
+                "km²",
                 ""
               ]
             }
           },
           {
-            "name": "timeseries",
+            "name": "ecosystem",
             "type": "string",
             "constraints": {
               "enum": [
                 "lakes and rivers permanent water area",
-                "lakes and rivers permanent water area as a proportion of total land area",
                 "wetlands area",
-                "wetlands area as a proportion of total land area",
-                "lakes and rivers permanent water area change (compared to 2015)",
+                "large artificial or heavily modified lakes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "area change in comparison to 2015",
+                "area",
+                "area as a proportion of total land area",
                 ""
               ]
             }

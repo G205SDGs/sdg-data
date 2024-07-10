@@ -16,36 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden",
-                "(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020",
+                "a) Nationale Strategien zur Bekämpfung oder Kontrolle IAS",
+                "b) Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des NSB",
                 ""
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "legislation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Übereinkommen über die biologische Vielfalt",
-                "Cartagena-Protokoll",
-                "Internationales Pflanzenschutzübereinkommen",
-                "Übereinkommen über gesundheitspolizeiliche und pflanzenschutzrechtliche Maßnahmen der Welthandelsorganisation",
-                "Weltorganisation für Tiergesundheit",
-                "Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen",
-                "Ramsar-Konvention",
-                "Übereinkommen zur Erhaltung wandernder wild lebender Tierarten",
-                "Welterbekonvention",
-                "Ballastwasser-Übereinkommen",
-                ""
-              ]
-            },
-            "title": "Rechtsvorschrift"
           },
           {
             "name": "Value",

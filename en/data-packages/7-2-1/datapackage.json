@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Renewable energy in total final energy consumption",
-                "Renewable energy in gross final energy consumption",
+                "renewable energy in total final energy consumption",
+                "renewable energy in gross final energy consumption",
                 ""
               ]
             },

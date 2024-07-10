@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vertragsparteien des Internationalen Saatgutvertrags",
-                "Vertragsparteien des Nagoya-Protokolls",
-                "Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden",
-                "Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden",
-                "Anzahl standardisierter Materialübertragungs-vereinbarungen",
+                "1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind",
+                "2) Länder, die Vertragsparteien des Nagoya-Protokolls sind",
+                "3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden",
+                "4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden",
+                "5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
                 ""
               ]
             },

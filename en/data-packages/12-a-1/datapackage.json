@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-a-1",
-  "title": "Installierte Kapazitäten zur Erzeugung erneuerbarer Energie in Entwicklungs- und Industrieländern (in Watt pro Kopf)"
+  "title": "Installierte Kapazitäten zur Erzeugung erneuerbarer Energie in Entwicklungsländern und entwickelten Ländern (in Watt pro Kopf)"
 }

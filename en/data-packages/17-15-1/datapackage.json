@@ -16,6 +16,19 @@
             "title": "Year"
           },
           {
+            "name": "level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Objectives",
+                "Indicators",
+                "Data",
+                ""
+              ]
+            },
+            "title": "Level"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

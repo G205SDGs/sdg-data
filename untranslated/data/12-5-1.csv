@@ -11,6 +11,7 @@ Year,Units,type of waste,Series,Value
 2019,percentage,municipal waste,national recycling rate,68
 2020,percentage,municipal waste,national recycling rate,67
 2021,percentage,municipal waste,national recycling rate,68
+2022,percentage,municipal waste,national recycling rate,68
 2010,"1,000 tonnes",municipal waste,material recovery,30774
 2011,"1,000 tonnes",municipal waste,material recovery,31633
 2012,"1,000 tonnes",municipal waste,material recovery,32460
@@ -23,6 +24,7 @@ Year,Units,type of waste,Series,Value
 2019,"1,000 tonnes",municipal waste,material recovery,34227
 2020,"1,000 tonnes",municipal waste,material recovery,34379
 2021,"1,000 tonnes",municipal waste,material recovery,35115
+2022,"1,000 tonnes",municipal waste,material recovery,32873
 2010,percentage,total waste,national recycling rate,69
 2011,percentage,total waste,national recycling rate,69
 2012,percentage,total waste,national recycling rate,70
@@ -35,6 +37,7 @@ Year,Units,type of waste,Series,Value
 2019,percentage,total waste,national recycling rate,70
 2020,percentage,total waste,national recycling rate,70
 2021,percentage,total waste,national recycling rate,70
+2022,percentage,total waste,national recycling rate,70
 2010,"1,000 tonnes",total waste,material recovery,257350
 2011,"1,000 tonnes",total waste,material recovery,267105
 2012,"1,000 tonnes",total waste,material recovery,265363
@@ -47,3 +50,4 @@ Year,Units,type of waste,Series,Value
 2019,"1,000 tonnes",total waste,material recovery,292006
 2020,"1,000 tonnes",total waste,material recovery,290157
 2021,"1,000 tonnes",total waste,material recovery,288460
+2022,"1,000 tonnes",total waste,material recovery,279975

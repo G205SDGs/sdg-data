@@ -103,19 +103,6 @@ Year,Substanz,Grenze,Geschlecht,Series,Value
 2020,Alkohol und andere psychoaktive Substanzen,,Unbekannt,Stationäre Behandlung bei Störungen durch Substanzgebrauch,0
 2021,Alkohol und andere psychoaktive Substanzen,,Unbekannt,Stationäre Behandlung bei Störungen durch Substanzgebrauch,0
 2022,Alkohol und andere psychoaktive Substanzen,,Unbekannt,Stationäre Behandlung bei Störungen durch Substanzgebrauch,0
-2010,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",215078
-2011,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",231052
-2012,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",218360
-2013,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",215436
-2014,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",230672
-2015,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",225471
-2016,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",225324
-2017,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",217220
-2018,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",204906
-2019,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",182451
-2020,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",181668
-2021,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",176381
-2022,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",166631
 2010,,Obere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",255405
 2011,,Obere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",274374
 2012,,Obere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",259303
@@ -129,3 +116,16 @@ Year,Substanz,Grenze,Geschlecht,Series,Value
 2020,,Obere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",215731
 2021,,Obere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",209453
 2022,,Obere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",197874
+2010,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",215078
+2011,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",231052
+2012,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",218360
+2013,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",215436
+2014,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",230672
+2015,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",225471
+2016,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",225324
+2017,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",217220
+2018,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",204906
+2019,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",182451
+2020,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",181668
+2021,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",176381
+2022,,Untere Grenze,,"Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",166631

@@ -30,11 +30,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "contracting parties to the international treaty on plant genetic resources for food and agriculture",
-                "parties to the nagoya protocol",
-                "countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture",
-                "countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-                "number of standard material transfer agreements (smtas)",
+                "1) countries that are contracting parties to the international treaty on pgrfa",
+                "2) countries that are parties to the nagoya protocol",
+                "3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa",
+                "4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house",
+                "5) total reported number of smtas transferring pgrfa to germany",
                 ""
               ]
             }
