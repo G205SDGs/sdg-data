@@ -1,10 +1,18 @@
-Year,Units,timeseries,Value
-2015,km²,lakes and rivers permanent water area,5851
-2018,km²,lakes and rivers permanent water area,5881
-2015,percentage,lakes and rivers permanent water area as a proportion of total land area,1.635
-2018,percentage,lakes and rivers permanent water area as a proportion of total land area,1.644
-2015,km²,wetlands area,1548
-2018,km²,wetlands area,1559
-2015,percentage,wetlands area as a proportion of total land area,0.433
-2018,percentage,wetlands area as a proportion of total land area,0.436
-2018,percentage,lakes and rivers permanent water area change (compared to 2015),0.519
+Year,Units,ecosystem,Value,Series
+2017,percentage,lakes and rivers permanent water area,,area change in comparison to 2015
+2018,percentage,lakes and rivers permanent water area,0.519,area change in comparison to 2015
+2019,percentage,lakes and rivers permanent water area,,area change in comparison to 2015
+2017,percentage,wetlands area,,area change in comparison to 2015
+2018,percentage,wetlands area,0.711,area change in comparison to 2015
+2019,percentage,wetlands area,,area change in comparison to 2015
+2017,percentage,large artificial or heavily modified lakes,,area change in comparison to 2015
+2018,percentage,large artificial or heavily modified lakes,3.501,area change in comparison to 2015
+2019,percentage,large artificial or heavily modified lakes,,area change in comparison to 2015
+2015,km²,lakes and rivers permanent water area,5851,area
+2018,km²,lakes and rivers permanent water area,5881,area
+2015,km²,large artificial or heavily modified lakes,457,area
+2018,km²,large artificial or heavily modified lakes,473,area
+2015,percentage,lakes and rivers permanent water area,1.635,area as a proportion of total land area
+2018,percentage,lakes and rivers permanent water area,1.644,area as a proportion of total land area
+2015,percentage,large artificial or heavily modified lakes,0.128,area as a proportion of total land area
+2018,percentage,large artificial or heavily modified lakes,0.132,area as a proportion of total land area
