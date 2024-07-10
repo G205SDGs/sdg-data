@@ -3155,8 +3155,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Gewinnung an den erneuerbaren Wasserressourcen",
-                "Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)",
+                "Anteil der Entnahme an den erneuerbaren Wasserressourcen",
+                "Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)",
                 ""
               ]
             },
