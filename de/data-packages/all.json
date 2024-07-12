@@ -9151,13 +9151,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "capital to assets ratio",
-                "regulatory tier 1 capital to risk-weighted assets",
-                "nonperforming loans net of provisions to capital",
-                "nonperforming loans net of provisions to gross loans",
-                "return on assets",
-                "liquid assets to short-term liabilities",
-                "net open position in foreign exchange to capital",
+                "Eigenkapitalquote",
+                "Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen",
+                "Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
+                "Anteil der notleidenden Kredite an den Bruttokrediten insgesamt",
+                "Gesamtkapitalrentabilität",
+                "Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten",
+                "Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln",
                 ""
               ]
             },
