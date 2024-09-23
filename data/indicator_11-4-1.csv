@@ -1,29 +1,29 @@
-Year,timeseries,Value
-2010,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.082
-2011,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.209
-2012,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.236
-2013,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.291
-2014,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.412
-2015,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.446
-2016,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.492
-2017,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.613
-2018,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.605
-2019,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.742
-2020,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.762
-2021,government expenditure on protection of biodiversity and landscape (cofog division 5.4),1.891
-2022,government expenditure on protection of biodiversity and landscape (cofog division 5.4),2.303
-2023,government expenditure on protection of biodiversity and landscape (cofog division 5.4),2.387
-2010,government expenditure on cultural services (cofog division 8.2),9.793
-2011,government expenditure on cultural services (cofog division 8.2),10.459
-2012,government expenditure on cultural services (cofog division 8.2),10.494
-2013,government expenditure on cultural services (cofog division 8.2),10.896
-2014,government expenditure on cultural services (cofog division 8.2),11.493
-2015,government expenditure on cultural services (cofog division 8.2),11.563
-2016,government expenditure on cultural services (cofog division 8.2),11.777
-2017,government expenditure on cultural services (cofog division 8.2),12.381
-2018,government expenditure on cultural services (cofog division 8.2),12.754
-2019,government expenditure on cultural services (cofog division 8.2),13.684
-2020,government expenditure on cultural services (cofog division 8.2),14.392
-2021,government expenditure on cultural services (cofog division 8.2),14.344
-2022,government expenditure on cultural services (cofog division 8.2),15.496
-2023,government expenditure on cultural services (cofog division 8.2),16.448
+Year,time series,Value
+2010,protection of biodiversity and landscape (cofog 5.4),1.082
+2011,protection of biodiversity and landscape (cofog 5.4),1.209
+2012,protection of biodiversity and landscape (cofog 5.4),1.236
+2013,protection of biodiversity and landscape (cofog 5.4),1.291
+2014,protection of biodiversity and landscape (cofog 5.4),1.412
+2015,protection of biodiversity and landscape (cofog 5.4),1.446
+2016,protection of biodiversity and landscape (cofog 5.4),1.492
+2017,protection of biodiversity and landscape (cofog 5.4),1.613
+2018,protection of biodiversity and landscape (cofog 5.4),1.605
+2019,protection of biodiversity and landscape (cofog 5.4),1.742
+2020,protection of biodiversity and landscape (cofog 5.4),1.762
+2021,protection of biodiversity and landscape (cofog 5.4),1.891
+2022,protection of biodiversity and landscape (cofog 5.4),2.303
+2023,protection of biodiversity and landscape (cofog 5.4),2.387
+2010,cultural services (cofog 8.2),9.793
+2011,cultural services (cofog 8.2),10.459
+2012,cultural services (cofog 8.2),10.494
+2013,cultural services (cofog 8.2),10.896
+2014,cultural services (cofog 8.2),11.493
+2015,cultural services (cofog 8.2),11.563
+2016,cultural services (cofog 8.2),11.777
+2017,cultural services (cofog 8.2),12.381
+2018,cultural services (cofog 8.2),12.754
+2019,cultural services (cofog 8.2),13.684
+2020,cultural services (cofog 8.2),14.392
+2021,cultural services (cofog 8.2),14.344
+2022,cultural services (cofog 8.2),15.496
+2023,cultural services (cofog 8.2),16.448
