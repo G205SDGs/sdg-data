@@ -16,10 +16,48 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Houres per day",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of unpaid work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic and care work",
+                "Domestic work",
+                "Care work",
+                ""
+              ]
+            },
+            "title": "Type of unpaid work"
+          },
+          {
+            "name": "degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural areas",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
+                "15 years and older",
                 "15 to under 25 years",
                 "25 to under 45 years",
                 "45 to under 55 years",

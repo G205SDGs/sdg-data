@@ -11,6 +11,7 @@ Year,enterprise definition,technology sectors,Value
 2019,legal entities,,61.0
 2020,legal entities,,60.0
 2021,legal entities,,60.0
+2022,legal entities,,
 2010,legal entities,medium-high-tech,49.0
 2011,legal entities,medium-high-tech,50.0
 2012,legal entities,medium-high-tech,50.0
@@ -23,6 +24,7 @@ Year,enterprise definition,technology sectors,Value
 2019,legal entities,medium-high-tech,50.0
 2020,legal entities,medium-high-tech,49.0
 2021,legal entities,medium-high-tech,49.0
+2022,legal entities,medium-high-tech,
 2010,legal entities,high-tech,10.0
 2011,legal entities,high-tech,10.0
 2012,legal entities,high-tech,10.0
@@ -35,6 +37,7 @@ Year,enterprise definition,technology sectors,Value
 2019,legal entities,high-tech,11.0
 2020,legal entities,high-tech,11.0
 2021,legal entities,high-tech,11.0
+2022,legal entities,high-tech,
 2010,eu enterprise definition,,
 2011,eu enterprise definition,,
 2012,eu enterprise definition,,
@@ -47,6 +50,7 @@ Year,enterprise definition,technology sectors,Value
 2019,eu enterprise definition,,60.769
 2020,eu enterprise definition,,60.648
 2021,eu enterprise definition,,57.983
+2022,eu enterprise definition,,52.0
 2010,eu enterprise definition,medium-high-tech,
 2011,eu enterprise definition,medium-high-tech,
 2012,eu enterprise definition,medium-high-tech,
@@ -59,6 +63,7 @@ Year,enterprise definition,technology sectors,Value
 2019,eu enterprise definition,medium-high-tech,49.637
 2020,eu enterprise definition,medium-high-tech,48.744
 2021,eu enterprise definition,medium-high-tech,47.494
+2022,eu enterprise definition,medium-high-tech,42.0
 2010,eu enterprise definition,high-tech,
 2011,eu enterprise definition,high-tech,
 2012,eu enterprise definition,high-tech,
@@ -71,3 +76,4 @@ Year,enterprise definition,technology sectors,Value
 2019,eu enterprise definition,high-tech,11.132
 2020,eu enterprise definition,high-tech,11.904
 2021,eu enterprise definition,high-tech,10.489
+2022,eu enterprise definition,high-tech,10.0

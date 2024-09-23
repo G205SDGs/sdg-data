@@ -16,12 +16,12 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)",
-                "Staatsausgaben für Kultur (COFOG Abteilung 8.2)",
+                "Arten- und Landschaftsschutz (COFOG 5.4)",
+                "Kultur (COFOG 8.2)",
                 ""
               ]
             },

@@ -4840,18 +4840,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Hektar",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5275,12 +5263,12 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)",
-                "Staatsausgaben für Kultur (COFOG Abteilung 8.2)",
+                "Arten- und Landschaftsschutz (COFOG 5.4)",
+                "Kultur (COFOG 8.2)",
                 ""
               ]
             },
@@ -6055,7 +6043,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -7011,18 +6999,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Aufkommen gefährlicher Abfälle",
-                "Behandelte gefährliche Abfälle",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
@@ -7035,6 +7011,18 @@
               ]
             },
             "title": "Art der Abfallbehandlung"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Aufkommen gefährlicher Abfälle",
+                "b) Behandelte gefährliche Abfälle",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -8228,10 +8216,48 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Stunden pro Tag",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of unpaid work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Haus- und Pflegearbeit",
+                "Hausarbeit",
+                "Pflegearbeit",
+                ""
+              ]
+            },
+            "title": "Art der unbezahlten Arbeit"
+          },
+          {
+            "name": "degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Städte",
+                "Ländliche Gebiete",
+                ""
+              ]
+            },
+            "title": "Verstädterungsgrad"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
+                "15 Jahre und älter",
                 "15 bis unter 25 Jahre",
                 "25 bis unter 45 Jahre",
                 "45 bis unter 55 Jahre",
@@ -9876,8 +9902,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zweigstellen von Zahlungsverkehrsdienstleistern",
-                "Bankautomaten von inländischen Zahlungsdienstleistern",
+                "a) Zweigstellen von Zahlungsverkehrsdienstleistern",
+                "b) Bankautomaten von inländischen Zahlungsdienstleistern",
                 ""
               ]
             },

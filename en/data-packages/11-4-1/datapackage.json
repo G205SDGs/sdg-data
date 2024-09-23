@@ -16,12 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)",
-                "Government expenditure on cultural services (COFOG division 8.2)",
+                "Protection of biodiversity and landscape (COFOG 5.4)",
+                "Cultural services (COFOG 8.2)",
                 ""
               ]
             },

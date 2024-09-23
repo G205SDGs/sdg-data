@@ -4840,18 +4840,6 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Hectare",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5275,12 +5263,12 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)",
-                "Government expenditure on cultural services (COFOG division 8.2)",
+                "Protection of biodiversity and landscape (COFOG 5.4)",
+                "Cultural services (COFOG 8.2)",
                 ""
               ]
             },
@@ -6055,7 +6043,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7011,18 +6999,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hazardous waste generated per capita",
-                "Hazardous waste treated",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
@@ -7035,6 +7011,18 @@
               ]
             },
             "title": "Type of waste treatment"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Hazardous waste generated per capita",
+                "b) Hazardous waste treated",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -8228,10 +8216,48 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Houres per day",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of unpaid work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic and care work",
+                "Domestic work",
+                "Care work",
+                ""
+              ]
+            },
+            "title": "Type of unpaid work"
+          },
+          {
+            "name": "degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural areas",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
+                "15 years and older",
                 "15 to under 25 years",
                 "25 to under 45 years",
                 "45 to under 55 years",
@@ -9375,7 +9401,7 @@
             "constraints": {
               "enum": [
                 "Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older",
-                "Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease",
+                "Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease",
                 "DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older",
                 "DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease",
                 ""
@@ -9876,8 +9902,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Branches of payment service providers",
-                "ATMs of national payment service providers",
+                "a) Branches of payment service providers",
+                "b) ATMs of national payment service providers",
                 ""
               ]
             },

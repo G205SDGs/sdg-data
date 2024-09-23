@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "hazardous waste generated per capita",
-                "hazardous waste treated",
-                ""
-              ]
-            }
-          },
-          {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
@@ -45,6 +34,17 @@
                 "incineration",
                 "recovery other than energy recovery",
                 "deposit onto or into land and land treatment and release into water bodies",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) hazardous waste generated per capita",
+                "b) hazardous waste treated",
                 ""
               ]
             }

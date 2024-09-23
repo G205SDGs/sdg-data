@@ -1,6 +1,6 @@
-Year,Value,Units,Series
-2015,92.2,percentage,(a) mountain green cover index
-2018,92.15,percentage,(a) mountain green cover index
-2017,,hectare,(b) proportion of degraded mountain area
-2018,0.05,hectare,(b) proportion of degraded mountain area
-2019,,hectare,(b) proportion of degraded mountain area
+Year,Value,Series
+2015,92.2,(a) mountain green cover index
+2018,92.15,(a) mountain green cover index
+2017,,(b) proportion of degraded mountain area
+2018,0.05,(b) proportion of degraded mountain area
+2019,,(b) proportion of degraded mountain area

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zweigstellen von Zahlungsverkehrsdienstleistern",
-                "Bankautomaten von inländischen Zahlungsdienstleistern",
+                "a) Zweigstellen von Zahlungsverkehrsdienstleistern",
+                "b) Bankautomaten von inländischen Zahlungsdienstleistern",
                 ""
               ]
             },

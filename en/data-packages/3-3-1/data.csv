@@ -12,6 +12,7 @@ Year,Sex,Value
 2020,,0.02
 2021,,0.02
 2022,,0.02
+2023,,0.03
 2010,Female,0.01
 2011,Female,0.01
 2012,Female,0.01
@@ -25,6 +26,7 @@ Year,Sex,Value
 2020,Female,0.01
 2021,Female,0.01
 2022,Female,
+2023,Female,0.01
 2010,Male,0.06
 2011,Male,0.06
 2012,Male,0.06
@@ -38,3 +40,4 @@ Year,Sex,Value
 2020,Male,0.04
 2021,Male,0.03
 2022,Male,
+2023,Male,0.04

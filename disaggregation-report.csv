@@ -1,5 +1,5 @@
 Disaggregation,Number of indicators,Number of values
-age group,18,37
+age group,18,38
 age of mother,1,2
 area of law,1,4
 area2,3,4
@@ -8,7 +8,7 @@ bound,1,2
 cause of death,3,10
 completeness of disaggregation,1,3
 conversion,1,2
-degree of urbanisation,1,3
+degree of urbanisation,2,4
 disability status,1,1
 disease,4,22
 economic activity,2,5
@@ -52,14 +52,15 @@ substance,1,2
 technology sectors,1,2
 technology,1,3
 thematic area,1,4
-time series,12,17
-timeseries,36,108
+time series,13,19
+timeseries,34,104
 treatment,1,2
 type of account,1,2
 type of biomass,1,3
 type of flow,1,5
 type of ict competence,1,8
 type of service,1,4
+type of unpaid work,1,3
 type of waste treatment,1,4
 type of waste water,1,2
 type of waste,1,2

@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage",
-                "hectare",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
