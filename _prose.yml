@@ -35,13 +35,6 @@ prose:
             label: "Target name"
             translation_key: metadata_fields.target
             scope: global
-    # - name: "target_id"
-    #   field:
-    #       element: text
-    #       label: "Target number"
-    #       translation_key: metadata_fields.target_id
-    #       scope: global
-
       - name: "indicator_name"
         field:
             element: text
@@ -56,6 +49,12 @@ prose:
       #       scope: global
 
       - name: "un_designated_tier"
+        field:
+            element: text
+            label: "UN designated tier"
+            translation_key: metadata_fields.un_designated_tier
+            scope: global
+      - name: "un_designated_tier_url"
         field:
             element: text
             label: "UN designated tier"
@@ -221,30 +220,13 @@ prose:
             label: "Rationale and interpretation"
             translation_key: metadata_fields.rationale_interpretation
             scope: national
-      - name: "national_data_update_url"
+      - name: "data_last_update"
         field:
-            element: hidden
+            element: text
             label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url
+            translation_key: metadata_fields.data_last_update
             scope: national
-      - name: "national_data_update_url_text"
-        field:
-            element: hidden
-            label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url_text
-            scope: national
-      - name: "national_metadata_update_url"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url
-            scope: national
-      - name: "national_metadata_update_url_text"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url_text
-            scope: national
+
        ######### Data Info #########
       - name: "reporting_status"
         field:
