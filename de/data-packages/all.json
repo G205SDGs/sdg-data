@@ -5415,20 +5415,32 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Anzahl der Müllteile aus Plastik pro 100 m Küstenlinie",
+                "Prozent",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Plastikmüll an Stränden der deutschen Nordsee-Küste",
+                "Plastikmüll in Mägen von Eissturmvögeln",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

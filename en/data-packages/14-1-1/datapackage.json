@@ -16,20 +16,32 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Number of pieces of platic waste per 100 meters of beach length",
+                "Percentage",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Plastic waste on the beaches of the German North Sea coast",
+                "Plastic particles in fulmar stomachs",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
