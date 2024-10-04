@@ -1,66 +1,66 @@
-Year,Beruf,Value
-2010,,
-2011,,
-2012,,350.08
-2013,,360.17
-2014,,366.64
-2015,,369.33
-2016,,376.02
-2017,,382.04
-2018,,391.11
-2019,,397.88
-2020,,404.91
-2021,,410.99
-2022,,409.32
-2010,Apotheker,6.36
-2011,Apotheker,6.35
-2012,Apotheker,6.21
-2013,Apotheker,6.31
-2014,Apotheker,6.4
-2015,Apotheker,6.45
-2016,Apotheker,6.3
-2017,Apotheker,6.46
-2018,Apotheker,6.56
-2019,Apotheker,6.66
-2020,Apotheker,6.73
-2021,Apotheker,6.73
-2022,Apotheker,6.64
-2010,Ärzte,37.89
-2011,Ärzte,38.72
-2012,Ärzte,39.37
-2013,Ärzte,40.24
-2014,Ärzte,41.01
-2015,Ärzte,41.13
-2016,Ärzte,41.78
-2017,Ärzte,42.42
-2018,Ärzte,43.05
-2019,Ärzte,43.9
-2020,Ärzte,44.74
-2021,Ärzte,45.29
-2022,Ärzte,45.16
-2010,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,103.21
-2011,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,104.07
-2012,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,104.57
-2013,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,108.09
-2014,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,109.61
-2015,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,109.52
-2016,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,111.36
-2017,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,113.42
-2018,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,117.92
-2019,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,120.84
-2020,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,123.5
-2021,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,123.26
-2022,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,122.1
-2010,Zahnärzte,8.23
-2011,Zahnärzte,8.34
-2012,Zahnärzte,8.44
-2013,Zahnärzte,8.42
-2014,Zahnärzte,8.5
-2015,Zahnärzte,8.52
-2016,Zahnärzte,8.48
-2017,Zahnärzte,8.55
-2018,Zahnärzte,8.56
-2019,Zahnärzte,8.54
-2020,Zahnärzte,8.54
-2021,Zahnärzte,8.53
-2022,Zahnärzte,8.18
+Year,Beruf,COMMENT_OBS_0,Value
+2010,,.,
+2011,,.,
+2012,,,350.08
+2013,,,360.17
+2014,,,366.64
+2015,,,369.33
+2016,,,376.02
+2017,,,382.04
+2018,,,391.11
+2019,,r,397.88
+2020,,,404.91
+2021,,r,410.99
+2022,,,409.32
+2010,Apotheker,,6.36
+2011,Apotheker,,6.35
+2012,Apotheker,,6.21
+2013,Apotheker,,6.31
+2014,Apotheker,,6.4
+2015,Apotheker,,6.45
+2016,Apotheker,,6.3
+2017,Apotheker,,6.46
+2018,Apotheker,,6.56
+2019,Apotheker,,6.66
+2020,Apotheker,,6.73
+2021,Apotheker,,6.73
+2022,Apotheker,,6.64
+2010,Ärzte,,37.89
+2011,Ärzte,,38.72
+2012,Ärzte,,39.37
+2013,Ärzte,,40.24
+2014,Ärzte,,41.01
+2015,Ärzte,,41.13
+2016,Ärzte,,41.78
+2017,Ärzte,,42.42
+2018,Ärzte,,43.05
+2019,Ärzte,,43.9
+2020,Ärzte,,44.74
+2021,Ärzte,,45.29
+2022,Ärzte,,45.16
+2010,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,103.21
+2011,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,104.07
+2012,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,104.57
+2013,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,108.09
+2014,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,109.61
+2015,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,109.52
+2016,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,111.36
+2017,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,113.42
+2018,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,117.92
+2019,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,120.84
+2020,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,r,123.5
+2021,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,123.26
+2022,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,122.1
+2010,Zahnärzte,,8.23
+2011,Zahnärzte,,8.34
+2012,Zahnärzte,,8.44
+2013,Zahnärzte,,8.42
+2014,Zahnärzte,,8.5
+2015,Zahnärzte,,8.52
+2016,Zahnärzte,,8.48
+2017,Zahnärzte,,8.55
+2018,Zahnärzte,,8.56
+2019,Zahnärzte,,8.54
+2020,Zahnärzte,,8.54
+2021,Zahnärzte,,8.53
+2022,Zahnärzte,,8.18

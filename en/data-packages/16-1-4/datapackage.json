@@ -59,6 +59,20 @@
             "title": "Feelings of insecurity"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "|",
+                ".",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {

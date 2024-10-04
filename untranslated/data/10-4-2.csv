@@ -1,43 +1,43 @@
-Year,timeseries,Value
-2010,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),55.4
-2011,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),55.5
-2012,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),54.4
-2013,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),56.4
-2014,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),57.7
-2015,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),56.4
-2016,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),55.5
-2017,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),54.4
-2018,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),56.4
-2019,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),55.4
-2020,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),54.9
-2021,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),56.4
-2022,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),48.9
-2023,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),48.9
-2010,gini coefficient of equivalised disposable income (post-fiscal),29.3
-2011,gini coefficient of equivalised disposable income (post-fiscal),29.0
-2012,gini coefficient of equivalised disposable income (post-fiscal),28.3
-2013,gini coefficient of equivalised disposable income (post-fiscal),29.7
-2014,gini coefficient of equivalised disposable income (post-fiscal),30.7
-2015,gini coefficient of equivalised disposable income (post-fiscal),30.1
-2016,gini coefficient of equivalised disposable income (post-fiscal),29.5
-2017,gini coefficient of equivalised disposable income (post-fiscal),29.1
-2018,gini coefficient of equivalised disposable income (post-fiscal),31.1
-2019,gini coefficient of equivalised disposable income (post-fiscal),29.7
-2020,gini coefficient of equivalised disposable income (post-fiscal),30.5
-2021,gini coefficient of equivalised disposable income (post-fiscal),31.2
-2022,gini coefficient of equivalised disposable income (post-fiscal),29.0
-2023,gini coefficient of equivalised disposable income (post-fiscal),29.4
-2010,redistributive impact of fiscal policy,26.1
-2011,redistributive impact of fiscal policy,26.5
-2012,redistributive impact of fiscal policy,27.1
-2013,redistributive impact of fiscal policy,26.7
-2014,redistributive impact of fiscal policy,27.0
-2015,redistributive impact of fiscal policy,26.3
-2016,redistributive impact of fiscal policy,26.0
-2017,redistributive impact of fiscal policy,25.3
-2018,redistributive impact of fiscal policy,25.3
-2019,redistributive impact of fiscal policy,25.7
-2020,redistributive impact of fiscal policy,24.4
-2021,redistributive impact of fiscal policy,25.2
-2022,redistributive impact of fiscal policy,19.9
-2023,redistributive impact of fiscal policy,19.5
+Year,timeseries,COMMENT_OBS_0,Value
+2010,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,55.4
+2011,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,55.5
+2012,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,54.4
+2013,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,56.4
+2014,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,57.7
+2015,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,56.4
+2016,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,55.5
+2017,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,54.4
+2018,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,56.4
+2019,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,55.4
+2020,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,54.9
+2021,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,56.4
+2022,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,48.9
+2023,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,48.9
+2010,gini coefficient of equivalised disposable income (post-fiscal),,29.3
+2011,gini coefficient of equivalised disposable income (post-fiscal),,29.0
+2012,gini coefficient of equivalised disposable income (post-fiscal),,28.3
+2013,gini coefficient of equivalised disposable income (post-fiscal),,29.7
+2014,gini coefficient of equivalised disposable income (post-fiscal),,30.7
+2015,gini coefficient of equivalised disposable income (post-fiscal),,30.1
+2016,gini coefficient of equivalised disposable income (post-fiscal),,29.5
+2017,gini coefficient of equivalised disposable income (post-fiscal),,29.1
+2018,gini coefficient of equivalised disposable income (post-fiscal),,31.1
+2019,gini coefficient of equivalised disposable income (post-fiscal),,29.7
+2020,gini coefficient of equivalised disposable income (post-fiscal),,30.5
+2021,gini coefficient of equivalised disposable income (post-fiscal),,31.2
+2022,gini coefficient of equivalised disposable income (post-fiscal),,29.0
+2023,gini coefficient of equivalised disposable income (post-fiscal),,29.4
+2010,redistributive impact of fiscal policy,,26.1
+2011,redistributive impact of fiscal policy,,26.5
+2012,redistributive impact of fiscal policy,r,27.1
+2013,redistributive impact of fiscal policy,,26.7
+2014,redistributive impact of fiscal policy,r,27.0
+2015,redistributive impact of fiscal policy,,26.3
+2016,redistributive impact of fiscal policy,r,26.0
+2017,redistributive impact of fiscal policy,,25.3
+2018,redistributive impact of fiscal policy,,25.3
+2019,redistributive impact of fiscal policy,,25.7
+2020,redistributive impact of fiscal policy,,24.4
+2021,redistributive impact of fiscal policy,,25.2
+2022,redistributive impact of fiscal policy,,19.9
+2023,redistributive impact of fiscal policy,,19.5

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -46,6 +46,17 @@
                 "persons employed",
                 "real gdp per capita",
                 "trade balance",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
                 ""
               ]
             }

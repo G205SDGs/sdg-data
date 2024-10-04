@@ -40,6 +40,17 @@
             "title": "Type of waste"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {

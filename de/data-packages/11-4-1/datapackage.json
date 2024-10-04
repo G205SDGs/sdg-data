@@ -28,6 +28,17 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

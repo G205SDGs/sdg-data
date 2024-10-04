@@ -1,53 +1,53 @@
-Year,Units,Abfallart,Series,Value
-2010,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,63
-2011,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,63
-2012,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,65
-2013,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,64
-2014,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,66
-2015,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,67
-2016,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,67
-2017,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,67
-2018,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,67
-2019,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,68
-2020,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,67
-2021,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,68
-2022,Prozent,Siedlungsabfälle insgesamt,Nationale Recyclingquote,68
-2010,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,30774
-2011,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,31633
-2012,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,32460
-2013,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,31629
-2014,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,33544
-2015,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,34453
-2016,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,34958
-2017,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,34783
-2018,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,33723
-2019,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,34227
-2020,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,34379
-2021,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,35115
-2022,1 000 Tonnen,Siedlungsabfälle insgesamt,Stoffliche Verwertung,32873
-2010,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,69
-2011,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,69
-2012,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,70
-2013,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,69
-2014,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,69
-2015,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,68
-2016,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,70
-2017,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,69
-2018,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,70
-2019,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,70
-2020,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,70
-2021,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,70
-2022,Prozent,Abfallaufkommen insgesamt,Nationale Recyclingquote,70
-2010,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,257350
-2011,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,267105
-2012,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,265363
-2013,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,265552
-2014,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,276265
-2015,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,274619
-2016,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,287631
-2017,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,284847
-2018,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,290456
-2019,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,292006
-2020,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,290157
-2021,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,288460
-2022,1 000 Tonnen,Abfallaufkommen insgesamt,Stoffliche Verwertung,279975
+Year,Units,Abfallart,COMMENT_OBS_0,Series,Value
+2010,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,63
+2011,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,63
+2012,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,65
+2013,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,64
+2014,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,66
+2015,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,67
+2016,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,67
+2017,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,67
+2018,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,67
+2019,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,68
+2020,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,67
+2021,Prozent,Siedlungsabfälle insgesamt,,Nationale Recyclingquote,68
+2022,Prozent,Siedlungsabfälle insgesamt,p,Nationale Recyclingquote,68
+2010,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,30774
+2011,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,31633
+2012,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,32460
+2013,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,31629
+2014,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,33544
+2015,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,34453
+2016,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,34958
+2017,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,34783
+2018,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,33723
+2019,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,34227
+2020,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,34379
+2021,1 000 Tonnen,Siedlungsabfälle insgesamt,,Stoffliche Verwertung,35115
+2022,1 000 Tonnen,Siedlungsabfälle insgesamt,p,Stoffliche Verwertung,32873
+2010,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,69
+2011,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,69
+2012,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,70
+2013,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,69
+2014,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,69
+2015,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,68
+2016,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,70
+2017,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,69
+2018,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,70
+2019,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,70
+2020,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,70
+2021,Prozent,Abfallaufkommen insgesamt,,Nationale Recyclingquote,70
+2022,Prozent,Abfallaufkommen insgesamt,p,Nationale Recyclingquote,70
+2010,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,257350
+2011,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,267105
+2012,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,265363
+2013,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,265552
+2014,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,276265
+2015,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,274619
+2016,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,287631
+2017,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,284847
+2018,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,290456
+2019,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,292006
+2020,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,290157
+2021,1 000 Tonnen,Abfallaufkommen insgesamt,,Stoffliche Verwertung,288460
+2022,1 000 Tonnen,Abfallaufkommen insgesamt,p,Stoffliche Verwertung,279975

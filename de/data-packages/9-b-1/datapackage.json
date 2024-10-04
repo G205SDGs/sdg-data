@@ -40,6 +40,17 @@
             "title": "Technologiesektoren"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

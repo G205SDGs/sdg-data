@@ -1,67 +1,67 @@
-Year,Units,time series,Value
-2010,million eur,total,
-2011,million eur,total,
-2012,million eur,total,
-2013,million eur,total,
-2014,million eur,total,
-2015,million eur,total,5930.0
-2016,million eur,total,5900.123
-2017,million eur,total,5687.281
-2018,million eur,total,5775.046
-2019,million eur,total,4414.115
-2020,million eur,total,3996.652
-2010,million eur,tax breaks,
-2011,million eur,tax breaks,
-2012,million eur,tax breaks,
-2013,million eur,tax breaks,
-2014,million eur,tax breaks,
-2015,million eur,tax breaks,4679.637
-2016,million eur,tax breaks,4451.453
-2017,million eur,tax breaks,4486.55
-2018,million eur,tax breaks,4666.09
-2019,million eur,tax breaks,4414.115
-2020,million eur,tax breaks,3996.652
-2010,million eur,direct transfers of funds,
-2011,million eur,direct transfers of funds,
-2012,million eur,direct transfers of funds,
-2013,million eur,direct transfers of funds,
-2014,million eur,direct transfers of funds,
-2015,million eur,direct transfers of funds,1250.0
-2016,million eur,direct transfers of funds,1448.67
-2017,million eur,direct transfers of funds,1200.731
-2018,million eur,direct transfers of funds,1108.956
-2019,million eur,direct transfers of funds,0.0
-2020,million eur,direct transfers of funds,0.0
-2010,percent of gdp,total,
-2011,percent of gdp,total,
-2012,percent of gdp,total,
-2013,percent of gdp,total,
-2014,percent of gdp,total,
-2015,percent of gdp,total,0.196
-2016,percent of gdp,total,0.188
-2017,percent of gdp,total,0.174
-2018,percent of gdp,total,0.172
-2019,percent of gdp,total,0.127
-2020,percent of gdp,total,0.117
-2010,percent of gdp,tax breaks,
-2011,percent of gdp,tax breaks,
-2012,percent of gdp,tax breaks,
-2013,percent of gdp,tax breaks,
-2014,percent of gdp,tax breaks,
-2015,percent of gdp,tax breaks,0.155
-2016,percent of gdp,tax breaks,0.142
-2017,percent of gdp,tax breaks,0.137
-2018,percent of gdp,tax breaks,0.139
-2019,percent of gdp,tax breaks,0.127
-2020,percent of gdp,tax breaks,0.117
-2010,percent of gdp,direct transfers of funds,
-2011,percent of gdp,direct transfers of funds,
-2012,percent of gdp,direct transfers of funds,
-2013,percent of gdp,direct transfers of funds,
-2014,percent of gdp,direct transfers of funds,
-2015,percent of gdp,direct transfers of funds,0.041
-2016,percent of gdp,direct transfers of funds,0.046
-2017,percent of gdp,direct transfers of funds,0.037
-2018,percent of gdp,direct transfers of funds,0.033
-2019,percent of gdp,direct transfers of funds,0.0
-2020,percent of gdp,direct transfers of funds,0.0
+Year,Units,time series,COMMENT_OBS_0,Value
+2010,million eur,total,.,
+2011,million eur,total,.,
+2012,million eur,total,.,
+2013,million eur,total,.,
+2014,million eur,total,,
+2015,million eur,total,r,5930.0
+2016,million eur,total,,5900.123
+2017,million eur,total,,5687.281
+2018,million eur,total,,5775.046
+2019,million eur,total,,4414.115
+2020,million eur,total,,3996.652
+2010,million eur,tax breaks,.,
+2011,million eur,tax breaks,.,
+2012,million eur,tax breaks,.,
+2013,million eur,tax breaks,.,
+2014,million eur,tax breaks,.,
+2015,million eur,tax breaks,,4679.637
+2016,million eur,tax breaks,,4451.453
+2017,million eur,tax breaks,,4486.55
+2018,million eur,tax breaks,,4666.09
+2019,million eur,tax breaks,,4414.115
+2020,million eur,tax breaks,,3996.652
+2010,million eur,direct transfers of funds,.,
+2011,million eur,direct transfers of funds,.,
+2012,million eur,direct transfers of funds,.,
+2013,million eur,direct transfers of funds,.,
+2014,million eur,direct transfers of funds,.,
+2015,million eur,direct transfers of funds,r,1250.0
+2016,million eur,direct transfers of funds,,1448.67
+2017,million eur,direct transfers of funds,,1200.731
+2018,million eur,direct transfers of funds,,1108.956
+2019,million eur,direct transfers of funds,-,0.0
+2020,million eur,direct transfers of funds,-,0.0
+2010,percent of gdp,total,.,
+2011,percent of gdp,total,.,
+2012,percent of gdp,total,.,
+2013,percent of gdp,total,.,
+2014,percent of gdp,total,.,
+2015,percent of gdp,total,r,0.196
+2016,percent of gdp,total,,0.188
+2017,percent of gdp,total,,0.174
+2018,percent of gdp,total,,0.172
+2019,percent of gdp,total,,0.127
+2020,percent of gdp,total,,0.117
+2010,percent of gdp,tax breaks,.,
+2011,percent of gdp,tax breaks,.,
+2012,percent of gdp,tax breaks,.,
+2013,percent of gdp,tax breaks,.,
+2014,percent of gdp,tax breaks,.,
+2015,percent of gdp,tax breaks,,0.155
+2016,percent of gdp,tax breaks,,0.142
+2017,percent of gdp,tax breaks,,0.137
+2018,percent of gdp,tax breaks,,0.139
+2019,percent of gdp,tax breaks,,0.127
+2020,percent of gdp,tax breaks,,0.117
+2010,percent of gdp,direct transfers of funds,.,
+2011,percent of gdp,direct transfers of funds,.,
+2012,percent of gdp,direct transfers of funds,.,
+2013,percent of gdp,direct transfers of funds,.,
+2014,percent of gdp,direct transfers of funds,.,
+2015,percent of gdp,direct transfers of funds,r,0.041
+2016,percent of gdp,direct transfers of funds,,0.046
+2017,percent of gdp,direct transfers of funds,,0.037
+2018,percent of gdp,direct transfers of funds,,0.033
+2019,percent of gdp,direct transfers of funds,-,0.0
+2020,percent of gdp,direct transfers of funds,-,0.0

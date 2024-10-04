@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -21,6 +21,16 @@
               "enum": [
                 "child deliveries in hospitals",
                 "live births in total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }

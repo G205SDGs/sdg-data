@@ -1,66 +1,66 @@
-Year,profession,Value
-2010,,
-2011,,
-2012,,350.08
-2013,,360.17
-2014,,366.64
-2015,,369.33
-2016,,376.02
-2017,,382.04
-2018,,391.11
-2019,,397.88
-2020,,404.91
-2021,,410.99
-2022,,409.32
-2010,pharmacists,6.36
-2011,pharmacists,6.35
-2012,pharmacists,6.21
-2013,pharmacists,6.31
-2014,pharmacists,6.4
-2015,pharmacists,6.45
-2016,pharmacists,6.3
-2017,pharmacists,6.46
-2018,pharmacists,6.56
-2019,pharmacists,6.66
-2020,pharmacists,6.73
-2021,pharmacists,6.73
-2022,pharmacists,6.64
-2010,medical doctors,37.89
-2011,medical doctors,38.72
-2012,medical doctors,39.37
-2013,medical doctors,40.24
-2014,medical doctors,41.01
-2015,medical doctors,41.13
-2016,medical doctors,41.78
-2017,medical doctors,42.42
-2018,medical doctors,43.05
-2019,medical doctors,43.9
-2020,medical doctors,44.74
-2021,medical doctors,45.29
-2022,medical doctors,45.16
-2010,nursing and midwifery personnel,103.21
-2011,nursing and midwifery personnel,104.07
-2012,nursing and midwifery personnel,104.57
-2013,nursing and midwifery personnel,108.09
-2014,nursing and midwifery personnel,109.61
-2015,nursing and midwifery personnel,109.52
-2016,nursing and midwifery personnel,111.36
-2017,nursing and midwifery personnel,113.42
-2018,nursing and midwifery personnel,117.92
-2019,nursing and midwifery personnel,120.84
-2020,nursing and midwifery personnel,123.5
-2021,nursing and midwifery personnel,123.26
-2022,nursing and midwifery personnel,122.1
-2010,dentists,8.23
-2011,dentists,8.34
-2012,dentists,8.44
-2013,dentists,8.42
-2014,dentists,8.5
-2015,dentists,8.52
-2016,dentists,8.48
-2017,dentists,8.55
-2018,dentists,8.56
-2019,dentists,8.54
-2020,dentists,8.54
-2021,dentists,8.53
-2022,dentists,8.18
+Year,profession,COMMENT_OBS_0,Value
+2010,,.,
+2011,,.,
+2012,,,350.08
+2013,,,360.17
+2014,,,366.64
+2015,,,369.33
+2016,,,376.02
+2017,,,382.04
+2018,,,391.11
+2019,,r,397.88
+2020,,,404.91
+2021,,r,410.99
+2022,,,409.32
+2010,pharmacists,,6.36
+2011,pharmacists,,6.35
+2012,pharmacists,,6.21
+2013,pharmacists,,6.31
+2014,pharmacists,,6.4
+2015,pharmacists,,6.45
+2016,pharmacists,,6.3
+2017,pharmacists,,6.46
+2018,pharmacists,,6.56
+2019,pharmacists,,6.66
+2020,pharmacists,,6.73
+2021,pharmacists,,6.73
+2022,pharmacists,,6.64
+2010,medical doctors,,37.89
+2011,medical doctors,,38.72
+2012,medical doctors,,39.37
+2013,medical doctors,,40.24
+2014,medical doctors,,41.01
+2015,medical doctors,,41.13
+2016,medical doctors,,41.78
+2017,medical doctors,,42.42
+2018,medical doctors,,43.05
+2019,medical doctors,,43.9
+2020,medical doctors,,44.74
+2021,medical doctors,,45.29
+2022,medical doctors,,45.16
+2010,nursing and midwifery personnel,,103.21
+2011,nursing and midwifery personnel,,104.07
+2012,nursing and midwifery personnel,,104.57
+2013,nursing and midwifery personnel,,108.09
+2014,nursing and midwifery personnel,,109.61
+2015,nursing and midwifery personnel,,109.52
+2016,nursing and midwifery personnel,,111.36
+2017,nursing and midwifery personnel,,113.42
+2018,nursing and midwifery personnel,,117.92
+2019,nursing and midwifery personnel,,120.84
+2020,nursing and midwifery personnel,r,123.5
+2021,nursing and midwifery personnel,,123.26
+2022,nursing and midwifery personnel,,122.1
+2010,dentists,,8.23
+2011,dentists,,8.34
+2012,dentists,,8.44
+2013,dentists,,8.42
+2014,dentists,,8.5
+2015,dentists,,8.52
+2016,dentists,,8.48
+2017,dentists,,8.55
+2018,dentists,,8.56
+2019,dentists,,8.54
+2020,dentists,,8.54
+2021,dentists,,8.53
+2022,dentists,,8.18
