@@ -1,17 +1,17 @@
 Value,Disaggregation combinations using this value,Number of indicators
 a) branches of payment service providers,1,1
 agricultural holdings with the legal form of a sole proprietorship,1,1
-annual growth rate of real gdp,2,1
+annual growth rate of real gdp,3,1
 at least one population and housing census in the last 10 years conducted,1,1
 at-risk-of-poverty rate,4,2
-available income of private households,2,1
+available income of private households,3,1
 b) atms of national payment service providers,1,1
 basel convention,1,1
 birth registration,1,1
 bundesrat (upper chamber),2,1
 capital to assets ratio,1,1
 child deliveries in hospitals,2,1
-consumption by private households,2,1
+consumption by private households,3,1
 current tobacco use (age-standardised to who standard population),1,1
 current tobacco use,3,1
 data from lfs from federal statistical office,3,1
@@ -19,7 +19,7 @@ data from na from federal statistical office,2,1
 data from the federal ministry of food and agriculture,1,1
 data from the federal statistical office,43,1
 death registration,1,1
-debts of the total public budget,3,1
+debts of the total public budget,2,1
 dtp vaccination coverage at school entry,1,1
 environmental protection expenditure,1,1
 fatal occupational accidents,1,1
@@ -29,11 +29,11 @@ german bundestag (lower chamber),2,1
 gini coefficient of equivalised disposable income before social transfers (pre-fiscal),1,1
 gini coefficient of equivalised disposable income (post-fiscal),1,1
 government expenditure on social protection,2,1
-government fiscal balance,2,1
-gross fixed capital formation,2,1
+government fiscal balance,3,1
+gross fixed capital formation,3,1
 groundwater mesuring points below the threshold value for nitrate,1,1
-hours worked by employees,2,1
-hours worked by persons employed,2,1
+hours worked by employees,3,1
+hours worked by persons employed,3,1
 hpv vaccination coverages among 15 years old girls and boys,4,1
 judiciary,13,1
 labour productivity per hour worked by employee,2,1
@@ -63,7 +63,7 @@ oda (gross disbursements) to the forestry sector,2,1
 overweight,4,1
 owned and leased agricultural land,3,1
 persons at risk of poverty or social exclusion,3,1
-persons employed,2,1
+persons employed,3,1
 persons living in households with very low work intensity,5,1
 pneumococcal vaccination coverage at school entry,1,1
 population connected to the public water supply system,2,1
@@ -76,8 +76,8 @@ population who were victims of criminal offences,1,1
 population with (own) bathtub or shower,2,1
 population with (own) toilet,2,1
 proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),1,1
-proportion of domestic expenditures funded by national taxes and insurance contributions,2,1
-proportion of domestic expenditures funded by national taxes,2,1
+proportion of domestic expenditures funded by national taxes and insurance contributions,3,1
+proportion of domestic expenditures funded by national taxes,3,1
 proportion of oda (net disbursements) to gni,1,1
 proportion of settlement and transport areas to population,2,1
 public service,19,1
@@ -96,7 +96,7 @@ stockholm convention,1,1
 terrestrial and freshwater areas covered by effective protected areas,2,1
 terrestrial and freshwater areas covered by protected areas,2,1
 terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas,2,1
-trade balance,2,1
+trade balance,3,1
 unemployed persons with unemployment benefits,1,1
 victims of criminal offences,8,1
 victims of non-sexual harassment,18,1

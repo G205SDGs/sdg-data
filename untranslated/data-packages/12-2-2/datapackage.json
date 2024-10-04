@@ -21,17 +21,7 @@
               "enum": [
                 "million tonnes",
                 "tonnes per capita",
-                "2015 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
+                "2020 = 100",
                 ""
               ]
             }

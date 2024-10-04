@@ -8,6 +8,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-b-1,"COMMENT_OBS_0, timeseries",2
 #10-1-1,population,1
 #10-2-1,"age group, sex",2
+#10-3-1,COMMENT_OBS_0,1
 #10-4-1,COMMENT_OBS_0,1
 #10-4-2,"COMMENT_OBS_0, timeseries",2
 #10-5-1,timeseries,1
@@ -21,7 +22,6 @@ Indicator,Disaggregations,Number of disaggregations
 #11-5-1,cause of death,1
 #11-6-2,fine particulate matter,1
 #11-7-2,"age group, sex, timeseries",3
-#12-2-2,COMMENT_OBS_0,1
 #12-3-1,stages of the food chain,1
 #12-4-1,timeseries,1
 #12-4-2,"COMMENT_OBS_0, type of waste treatment",2
@@ -38,6 +38,7 @@ Indicator,Disaggregations,Number of disaggregations
 #14-3-1,COMMENT_OBS_0,1
 #14-4-1,sea,1
 #14-5-1,timeseries,1
+#14-7-1,COMMENT_OBS_0,1
 #14-c-1,"COMMENT_OBS_0, timeseries",2
 #15-1-2,timeseries,1
 #15-2-1,"COMMENT_OBS_0, type of biomass",2
@@ -53,9 +54,11 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-1,"age group, sex, timeseries",3
 #16-3-2,"COMMENT_OBS_0, sex",2
 #16-3-3,"time series, outcome of the application process",2
-#16-5-1,sex,1
+#16-5-1,"COMMENT_OBS_0, sex",2
+#16-5-2,COMMENT_OBS_0,1
+#16-6-2,COMMENT_OBS_0,1
 #16-7-1,"COMMENT_OBS_0, timeseries, fields of work, level of court",4
-#16-7-2,sex,1
+#16-7-2,"COMMENT_OBS_0, sex",2
 #17-1-1,COMMENT_OBS_0,1
 #17-1-2,"COMMENT_OBS_0, timeseries",2
 #17-13-1,"COMMENT_OBS_0, timeseries",2
@@ -128,7 +131,6 @@ Indicator,Disaggregations,Number of disaggregations
 #8-10-1,timeseries,1
 #8-10-2,type of account,1
 #8-2-1,COMMENT_OBS_0,1
-#8-4-2,COMMENT_OBS_0,1
 #8-5-1,"länder, sex",2
 #8-5-2,"age group, sex",2
 #8-6-1,sex,1
@@ -138,6 +140,7 @@ Indicator,Disaggregations,Number of disaggregations
 #9-1-2,"COMMENT_OBS_0, mode of transport",2
 #9-2-1,COMMENT_OBS_0,1
 #9-2-2,"COMMENT_OBS_0, sex, timeseries",3
+#9-3-1,COMMENT_OBS_0,1
 #9-5-1,länder,1
 #9-a-1,time series,1
 #9-b-1,"COMMENT_OBS_0, enterprise definition, technology sectors",3

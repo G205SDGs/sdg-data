@@ -1116,6 +1116,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -1412,7 +1413,7 @@
               "enum": [
                 "Millionen Tonnen",
                 "Tonnen pro Kopf",
-                "2015 = 100",
+                "2020 = 100",
                 ""
               ]
             },
@@ -1488,6 +1489,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -1753,6 +1765,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2138,6 +2161,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -2828,6 +2852,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -3392,22 +3417,11 @@
               "enum": [
                 "Millionen Tonnen",
                 "Tonnen pro Kopf",
-                "2015 = 100",
+                "2020 = 100",
                 ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",
@@ -3462,6 +3476,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -4006,7 +4021,7 @@
               "enum": [
                 "Millionen Tonnen",
                 "Tonnen pro Kopf",
-                "2015 = 100",
+                "2020 = 100",
                 ""
               ]
             },
@@ -4359,6 +4374,18 @@
             "title": "Geschlecht"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "s",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4602,7 +4629,7 @@
                 "Prozent",
                 "Milliarden EUR",
                 "Millionen Stunden",
-                "2015 = 100",
+                "2020 = 100",
                 "Anzahl in 1 000",
                 ""
               ]
@@ -4637,8 +4664,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
-                "…",
                 ""
               ]
             },
@@ -5179,6 +5206,18 @@
             "title": "Geschlecht"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -5606,6 +5645,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -5843,6 +5883,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -8197,6 +8248,18 @@
             "title": "Jahr"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -8534,6 +8597,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -8642,6 +8706,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -9826,6 +9891,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -9981,6 +10047,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -10479,6 +10546,17 @@
             "title": "Jahr"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -10717,22 +10795,11 @@
               "enum": [
                 "Millionen Tonnen",
                 "Tonnen pro Kopf",
-                "2015 = 100",
+                "2020 = 100",
                 ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",

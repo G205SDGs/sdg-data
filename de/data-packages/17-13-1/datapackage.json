@@ -23,7 +23,7 @@
                 "Prozent",
                 "Milliarden EUR",
                 "Millionen Stunden",
-                "2015 = 100",
+                "2020 = 100",
                 "Anzahl in 1 000",
                 ""
               ]
@@ -58,8 +58,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
-                "…",
                 ""
               ]
             },

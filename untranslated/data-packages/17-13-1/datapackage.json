@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -22,7 +22,7 @@
                 "percentage",
                 "billion eur",
                 "million hours",
-                "2015 = 100",
+                "2020 = 100",
                 "number in 1,000",
                 ""
               ]
@@ -55,8 +55,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
-                "…",
                 ""
               ]
             }
