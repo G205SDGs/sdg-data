@@ -21,6 +21,24 @@ site_dir: _site
 # Currently this needs to be a prose.io config, and defaults to '_prose.yml'.
 schema_file: _prose.yml
 
+observation_attributes:
+  - field: COMMENT_OBS
+    label:
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - Observation status
+    - Unit multiplier
+    - Unit measure
+  series_column: Series
+  unit_column: Units
+  observation_attributes:
+    - COMMENT_OBS
+    - test      
 # Source directory
 # ----------------
 # This identifies the directory that holds the 'data' and 'meta' folders.
