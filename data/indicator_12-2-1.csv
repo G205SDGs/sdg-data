@@ -1,37 +1,37 @@
-Year,Units,Value,Series
-2010,million tonnes,1256,raw material consumption (rmc)
-2011,million tonnes,1369,raw material consumption (rmc)
-2012,million tonnes,1290,raw material consumption (rmc)
-2013,million tonnes,1289,raw material consumption (rmc)
-2014,million tonnes,1302,raw material consumption (rmc)
-2015,million tonnes,1250,raw material consumption (rmc)
-2016,million tonnes,1286,raw material consumption (rmc)
-2017,million tonnes,1328,raw material consumption (rmc)
-2018,million tonnes,1342,raw material consumption (rmc)
-2019,million tonnes,1327,raw material consumption (rmc)
-2020,million tonnes,1268,raw material consumption (rmc)
-2021,million tonnes,1277,raw material consumption (rmc)
-2010,tonnes per capita,15.4,raw material consumption (rmc)
-2011,tonnes per capita,17.0,raw material consumption (rmc)
-2012,tonnes per capita,16.0,raw material consumption (rmc)
-2013,tonnes per capita,16.0,raw material consumption (rmc)
-2014,tonnes per capita,16.0,raw material consumption (rmc)
-2015,tonnes per capita,15.2,raw material consumption (rmc)
-2016,tonnes per capita,15.6,raw material consumption (rmc)
-2017,tonnes per capita,16.0,raw material consumption (rmc)
-2018,tonnes per capita,16.2,raw material consumption (rmc)
-2019,tonnes per capita,16.0,raw material consumption (rmc)
-2020,tonnes per capita,15.3,raw material consumption (rmc)
-2021,tonnes per capita,15.3,raw material consumption (rmc)
-2010,2020 = 100,110.8,raw material consumption per real gdp
-2011,2020 = 100,116.4,raw material consumption per real gdp
-2012,2020 = 100,109.1,raw material consumption per real gdp
-2013,2020 = 100,108.6,raw material consumption per real gdp
-2014,2020 = 100,107.4,raw material consumption per real gdp
-2015,2020 = 100,101.4,raw material consumption per real gdp
-2016,2020 = 100,102.0,raw material consumption per real gdp
-2017,2020 = 100,102.6,raw material consumption per real gdp
-2018,2020 = 100,102.5,raw material consumption per real gdp
-2019,2020 = 100,100.4,raw material consumption per real gdp
-2020,2020 = 100,100.0,raw material consumption per real gdp
-2021,2020 = 100,97.1,raw material consumption per real gdp
+Year,Units,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series
+2010,million tonnes,1256,r,,,raw material consumption (rmc)
+2011,million tonnes,1369,r,,,raw material consumption (rmc)
+2012,million tonnes,1290,r,,,raw material consumption (rmc)
+2013,million tonnes,1289,r,,,raw material consumption (rmc)
+2014,million tonnes,1302,r,,,raw material consumption (rmc)
+2015,million tonnes,1250,r,,,raw material consumption (rmc)
+2016,million tonnes,1286,r,,,raw material consumption (rmc)
+2017,million tonnes,1328,r,,,raw material consumption (rmc)
+2018,million tonnes,1342,r,,,raw material consumption (rmc)
+2019,million tonnes,1327,,,,raw material consumption (rmc)
+2020,million tonnes,1268,,,,raw material consumption (rmc)
+2021,million tonnes,1277,,,,raw material consumption (rmc)
+2010,tonnes per capita,15.4,r,,,raw material consumption (rmc)
+2011,tonnes per capita,17.0,r,,,raw material consumption (rmc)
+2012,tonnes per capita,16.0,r,,,raw material consumption (rmc)
+2013,tonnes per capita,16.0,r,,,raw material consumption (rmc)
+2014,tonnes per capita,16.0,r,,,raw material consumption (rmc)
+2015,tonnes per capita,15.2,r,,,raw material consumption (rmc)
+2016,tonnes per capita,15.6,r,,,raw material consumption (rmc)
+2017,tonnes per capita,16.0,r,,,raw material consumption (rmc)
+2018,tonnes per capita,16.2,r,,,raw material consumption (rmc)
+2019,tonnes per capita,16.0,,,,raw material consumption (rmc)
+2020,tonnes per capita,15.3,,,,raw material consumption (rmc)
+2021,tonnes per capita,15.3,,,,raw material consumption (rmc)
+2010,2020 = 100,110.8,,,,raw material consumption per real gdp
+2011,2020 = 100,116.4,,,,raw material consumption per real gdp
+2012,2020 = 100,109.1,,,,raw material consumption per real gdp
+2013,2020 = 100,108.6,,,,raw material consumption per real gdp
+2014,2020 = 100,107.4,,,,raw material consumption per real gdp
+2015,2020 = 100,101.4,,,,raw material consumption per real gdp
+2016,2020 = 100,102.0,,,,raw material consumption per real gdp
+2017,2020 = 100,102.6,,,,raw material consumption per real gdp
+2018,2020 = 100,102.5,,,,raw material consumption per real gdp
+2019,2020 = 100,100.4,,,,raw material consumption per real gdp
+2020,2020 = 100,100.0,,,,raw material consumption per real gdp
+2021,2020 = 100,97.1,p,,,raw material consumption per real gdp
