@@ -1,67 +1,79 @@
-Year,Units,type of waste treatment,Value,COMMENT_OBS_0,Series
-2010,kilogram per capita,,244,,a) hazardous waste generated per capita
-2011,kilogram per capita,,,.,a) hazardous waste generated per capita
-2012,kilogram per capita,,273,,a) hazardous waste generated per capita
-2013,kilogram per capita,,,.,a) hazardous waste generated per capita
-2014,kilogram per capita,,269,,a) hazardous waste generated per capita
-2015,kilogram per capita,,,.,a) hazardous waste generated per capita
-2016,kilogram per capita,,280,,a) hazardous waste generated per capita
-2017,kilogram per capita,,,.,a) hazardous waste generated per capita
-2018,kilogram per capita,,292,,a) hazardous waste generated per capita
-2019,kilogram per capita,,,.,a) hazardous waste generated per capita
-2020,kilogram per capita,,282,,a) hazardous waste generated per capita
-2010,percentage,,100,,b) hazardous waste treated
-2011,percentage,,,.,b) hazardous waste treated
-2012,percentage,,100,,b) hazardous waste treated
-2013,percentage,,,.,b) hazardous waste treated
-2014,percentage,,100,,b) hazardous waste treated
-2015,percentage,,,.,b) hazardous waste treated
-2016,percentage,,100,,b) hazardous waste treated
-2017,percentage,,,.,b) hazardous waste treated
-2018,percentage,,100,,b) hazardous waste treated
-2019,percentage,,,.,b) hazardous waste treated
-2020,percentage,,100,,b) hazardous waste treated
-2010,percentage,energy recovery,13.6,,b) hazardous waste treated
-2011,percentage,energy recovery,,.,b) hazardous waste treated
-2012,percentage,energy recovery,15.0,,b) hazardous waste treated
-2013,percentage,energy recovery,,.,b) hazardous waste treated
-2014,percentage,energy recovery,13.6,,b) hazardous waste treated
-2015,percentage,energy recovery,,.,b) hazardous waste treated
-2016,percentage,energy recovery,13.7,,b) hazardous waste treated
-2017,percentage,energy recovery,,.,b) hazardous waste treated
-2018,percentage,energy recovery,14.0,,b) hazardous waste treated
-2019,percentage,energy recovery,,.,b) hazardous waste treated
-2020,percentage,energy recovery,14.3,,b) hazardous waste treated
-2010,percentage,incineration,5.9,,b) hazardous waste treated
-2011,percentage,incineration,,.,b) hazardous waste treated
-2012,percentage,incineration,5.4,,b) hazardous waste treated
-2013,percentage,incineration,,.,b) hazardous waste treated
-2014,percentage,incineration,6.2,,b) hazardous waste treated
-2015,percentage,incineration,,.,b) hazardous waste treated
-2016,percentage,incineration,4.9,,b) hazardous waste treated
-2017,percentage,incineration,,.,b) hazardous waste treated
-2018,percentage,incineration,4.2,,b) hazardous waste treated
-2019,percentage,incineration,,.,b) hazardous waste treated
-2020,percentage,incineration,4.9,,b) hazardous waste treated
-2010,percentage,recovery other than energy recovery,59.6,,b) hazardous waste treated
-2011,percentage,recovery other than energy recovery,,.,b) hazardous waste treated
-2012,percentage,recovery other than energy recovery,56.5,,b) hazardous waste treated
-2013,percentage,recovery other than energy recovery,,.,b) hazardous waste treated
-2014,percentage,recovery other than energy recovery,57.6,,b) hazardous waste treated
-2015,percentage,recovery other than energy recovery,,.,b) hazardous waste treated
-2016,percentage,recovery other than energy recovery,57.1,,b) hazardous waste treated
-2017,percentage,recovery other than energy recovery,,.,b) hazardous waste treated
-2018,percentage,recovery other than energy recovery,56.0,,b) hazardous waste treated
-2019,percentage,recovery other than energy recovery,,.,b) hazardous waste treated
-2020,percentage,recovery other than energy recovery,55.5,,b) hazardous waste treated
-2010,percentage,deposit onto or into land and land treatment and release into water bodies,20.9,,b) hazardous waste treated
-2011,percentage,deposit onto or into land and land treatment and release into water bodies,,.,b) hazardous waste treated
-2012,percentage,deposit onto or into land and land treatment and release into water bodies,23.1,,b) hazardous waste treated
-2013,percentage,deposit onto or into land and land treatment and release into water bodies,,.,b) hazardous waste treated
-2014,percentage,deposit onto or into land and land treatment and release into water bodies,22.7,,b) hazardous waste treated
-2015,percentage,deposit onto or into land and land treatment and release into water bodies,,.,b) hazardous waste treated
-2016,percentage,deposit onto or into land and land treatment and release into water bodies,24.3,,b) hazardous waste treated
-2017,percentage,deposit onto or into land and land treatment and release into water bodies,,.,b) hazardous waste treated
-2018,percentage,deposit onto or into land and land treatment and release into water bodies,25.9,,b) hazardous waste treated
-2019,percentage,deposit onto or into land and land treatment and release into water bodies,,.,b) hazardous waste treated
-2020,percentage,deposit onto or into land and land treatment and release into water bodies,25.4,,b) hazardous waste treated
+Year,Units,type of waste treatment,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series
+2010,kilogram per capita,,244,,,,a) hazardous waste generated per capita
+2011,kilogram per capita,,,.,,,a) hazardous waste generated per capita
+2012,kilogram per capita,,273,,,,a) hazardous waste generated per capita
+2013,kilogram per capita,,,.,,,a) hazardous waste generated per capita
+2014,kilogram per capita,,269,,,,a) hazardous waste generated per capita
+2015,kilogram per capita,,,.,,,a) hazardous waste generated per capita
+2016,kilogram per capita,,280,,,,a) hazardous waste generated per capita
+2017,kilogram per capita,,,.,,,a) hazardous waste generated per capita
+2018,kilogram per capita,,292,,,,a) hazardous waste generated per capita
+2019,kilogram per capita,,,.,,,a) hazardous waste generated per capita
+2020,kilogram per capita,,282,,,,a) hazardous waste generated per capita
+2021,kilogram per capita,,,.,,,a) hazardous waste generated per capita
+2022,kilogram per capita,,272,,,,a) hazardous waste generated per capita
+2010,percentage,,100,,,,b) hazardous waste treated
+2011,percentage,,,.,,,b) hazardous waste treated
+2012,percentage,,100,,,,b) hazardous waste treated
+2013,percentage,,,.,,,b) hazardous waste treated
+2014,percentage,,100,,,,b) hazardous waste treated
+2015,percentage,,,.,,,b) hazardous waste treated
+2016,percentage,,100,,,,b) hazardous waste treated
+2017,percentage,,,.,,,b) hazardous waste treated
+2018,percentage,,100,,,,b) hazardous waste treated
+2019,percentage,,,.,,,b) hazardous waste treated
+2020,percentage,,100,,,,b) hazardous waste treated
+2021,percentage,,,.,,,b) hazardous waste treated
+2022,percentage,,100,,,,b) hazardous waste treated
+2010,percentage,energy recovery,13.6,,,,b) hazardous waste treated
+2011,percentage,energy recovery,,.,,,b) hazardous waste treated
+2012,percentage,energy recovery,15.0,,,,b) hazardous waste treated
+2013,percentage,energy recovery,,.,,,b) hazardous waste treated
+2014,percentage,energy recovery,13.6,,,,b) hazardous waste treated
+2015,percentage,energy recovery,,.,,,b) hazardous waste treated
+2016,percentage,energy recovery,13.7,,,,b) hazardous waste treated
+2017,percentage,energy recovery,,.,,,b) hazardous waste treated
+2018,percentage,energy recovery,14.0,,,,b) hazardous waste treated
+2019,percentage,energy recovery,,.,,,b) hazardous waste treated
+2020,percentage,energy recovery,14.3,,,,b) hazardous waste treated
+2021,percentage,energy recovery,,.,,,b) hazardous waste treated
+2022,percentage,energy recovery,13.9,,,,b) hazardous waste treated
+2010,percentage,incineration,5.9,,,,b) hazardous waste treated
+2011,percentage,incineration,,.,,,b) hazardous waste treated
+2012,percentage,incineration,5.4,,,,b) hazardous waste treated
+2013,percentage,incineration,,.,,,b) hazardous waste treated
+2014,percentage,incineration,6.2,,,,b) hazardous waste treated
+2015,percentage,incineration,,.,,,b) hazardous waste treated
+2016,percentage,incineration,4.9,,,,b) hazardous waste treated
+2017,percentage,incineration,,.,,,b) hazardous waste treated
+2018,percentage,incineration,4.2,,,,b) hazardous waste treated
+2019,percentage,incineration,,.,,,b) hazardous waste treated
+2020,percentage,incineration,4.9,,,,b) hazardous waste treated
+2021,percentage,incineration,,.,,,b) hazardous waste treated
+2022,percentage,incineration,4.4,,,,b) hazardous waste treated
+2010,percentage,recovery other than energy recovery,59.5,r,,,b) hazardous waste treated
+2011,percentage,recovery other than energy recovery,,.,,,b) hazardous waste treated
+2012,percentage,recovery other than energy recovery,56.5,,,,b) hazardous waste treated
+2013,percentage,recovery other than energy recovery,,.,,,b) hazardous waste treated
+2014,percentage,recovery other than energy recovery,57.6,,,,b) hazardous waste treated
+2015,percentage,recovery other than energy recovery,,.,,,b) hazardous waste treated
+2016,percentage,recovery other than energy recovery,57.1,,,,b) hazardous waste treated
+2017,percentage,recovery other than energy recovery,,.,,,b) hazardous waste treated
+2018,percentage,recovery other than energy recovery,56.0,,,,b) hazardous waste treated
+2019,percentage,recovery other than energy recovery,,.,,,b) hazardous waste treated
+2020,percentage,recovery other than energy recovery,55.5,,,,b) hazardous waste treated
+2021,percentage,recovery other than energy recovery,,.,,,b) hazardous waste treated
+2022,percentage,recovery other than energy recovery,56.0,,,,b) hazardous waste treated
+2010,percentage,deposit onto or into land and land treatment and release into water bodies,20.9,,,,b) hazardous waste treated
+2011,percentage,deposit onto or into land and land treatment and release into water bodies,,.,,,b) hazardous waste treated
+2012,percentage,deposit onto or into land and land treatment and release into water bodies,23.1,,,,b) hazardous waste treated
+2013,percentage,deposit onto or into land and land treatment and release into water bodies,,.,,,b) hazardous waste treated
+2014,percentage,deposit onto or into land and land treatment and release into water bodies,22.7,,,,b) hazardous waste treated
+2015,percentage,deposit onto or into land and land treatment and release into water bodies,,.,,,b) hazardous waste treated
+2016,percentage,deposit onto or into land and land treatment and release into water bodies,24.3,,,,b) hazardous waste treated
+2017,percentage,deposit onto or into land and land treatment and release into water bodies,,.,,,b) hazardous waste treated
+2018,percentage,deposit onto or into land and land treatment and release into water bodies,25.9,,,,b) hazardous waste treated
+2019,percentage,deposit onto or into land and land treatment and release into water bodies,,.,,,b) hazardous waste treated
+2020,percentage,deposit onto or into land and land treatment and release into water bodies,25.4,,,,b) hazardous waste treated
+2021,percentage,deposit onto or into land and land treatment and release into water bodies,,.,,,b) hazardous waste treated
+2022,percentage,deposit onto or into land and land treatment and release into water bodies,25.7,,,,b) hazardous waste treated

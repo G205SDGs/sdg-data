@@ -1,29 +1,29 @@
-Year,time series,Value,COMMENT_OBS_0
-2010,protection of biodiversity and landscape (cofog 5.4),1.084,r
-2011,protection of biodiversity and landscape (cofog 5.4),1.206,r
-2012,protection of biodiversity and landscape (cofog 5.4),1.231,r
-2013,protection of biodiversity and landscape (cofog 5.4),1.283,r
-2014,protection of biodiversity and landscape (cofog 5.4),1.408,r
-2015,protection of biodiversity and landscape (cofog 5.4),1.439,r
-2016,protection of biodiversity and landscape (cofog 5.4),1.491,r
-2017,protection of biodiversity and landscape (cofog 5.4),1.604,r
-2018,protection of biodiversity and landscape (cofog 5.4),1.602,r
-2019,protection of biodiversity and landscape (cofog 5.4),1.736,r
-2020,protection of biodiversity and landscape (cofog 5.4),1.715,
-2021,protection of biodiversity and landscape (cofog 5.4),1.843,p
-2022,protection of biodiversity and landscape (cofog 5.4),1.955,p
-2023,protection of biodiversity and landscape (cofog 5.4),2.376,p
-2010,cultural services (cofog 8.2),9.804,
-2011,cultural services (cofog 8.2),10.427,
-2012,cultural services (cofog 8.2),10.417,
-2013,cultural services (cofog 8.2),10.838,
-2014,cultural services (cofog 8.2),11.458,
-2015,cultural services (cofog 8.2),11.580,
-2016,cultural services (cofog 8.2),11.820,
-2017,cultural services (cofog 8.2),12.407,
-2018,cultural services (cofog 8.2),12.791,
-2019,cultural services (cofog 8.2),13.688,
-2020,cultural services (cofog 8.2),14.137,
-2021,cultural services (cofog 8.2),13.788,p
-2022,cultural services (cofog 8.2),14.510,p
-2023,cultural services (cofog 8.2),16.023,p
+Year,time series,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2
+2010,protection of biodiversity and landscape (cofog 5.4),1.084,r,,
+2011,protection of biodiversity and landscape (cofog 5.4),1.206,r,,
+2012,protection of biodiversity and landscape (cofog 5.4),1.231,r,,
+2013,protection of biodiversity and landscape (cofog 5.4),1.283,r,,
+2014,protection of biodiversity and landscape (cofog 5.4),1.408,r,,
+2015,protection of biodiversity and landscape (cofog 5.4),1.439,r,,
+2016,protection of biodiversity and landscape (cofog 5.4),1.491,r,,
+2017,protection of biodiversity and landscape (cofog 5.4),1.604,r,,
+2018,protection of biodiversity and landscape (cofog 5.4),1.602,r,,
+2019,protection of biodiversity and landscape (cofog 5.4),1.736,r,,
+2020,protection of biodiversity and landscape (cofog 5.4),1.715,,,
+2021,protection of biodiversity and landscape (cofog 5.4),1.843,p,,
+2022,protection of biodiversity and landscape (cofog 5.4),1.955,p,,
+2023,protection of biodiversity and landscape (cofog 5.4),2.376,p,,
+2010,cultural services (cofog 8.2),9.804,r,,
+2011,cultural services (cofog 8.2),10.427,r,,
+2012,cultural services (cofog 8.2),10.417,r,,
+2013,cultural services (cofog 8.2),10.838,r,,
+2014,cultural services (cofog 8.2),11.458,r,,
+2015,cultural services (cofog 8.2),11.580,r,,
+2016,cultural services (cofog 8.2),11.820,r,,
+2017,cultural services (cofog 8.2),12.407,r,,
+2018,cultural services (cofog 8.2),12.791,r,,
+2019,cultural services (cofog 8.2),13.688,r,,
+2020,cultural services (cofog 8.2),14.137,,,
+2021,cultural services (cofog 8.2),13.788,p,,
+2022,cultural services (cofog 8.2),14.510,p,,
+2023,cultural services (cofog 8.2),16.023,p,,

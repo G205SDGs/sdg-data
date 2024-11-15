@@ -1,40 +1,43 @@
-Year,type of account,Value
-2010,,
-2011,,
-2012,,
-2013,,
-2014,,145480
-2015,,148138
-2016,,150897
-2017,,151359
-2018,,153183
-2019,,155998
-2020,,159637
-2021,,163161
-2022,,139612
-2010,online accounts,
-2011,online accounts,
-2012,online accounts,
-2013,online accounts,
-2014,online accounts,78631
-2015,online accounts,81488
-2016,online accounts,85985
-2017,online accounts,89337
-2018,online accounts,93527
-2019,online accounts,98968
-2020,online accounts,104023
-2021,online accounts,110759
-2022,online accounts,106120
-2010,current accounts,94982
-2011,current accounts,95684
-2012,current accounts,96858
-2013,current accounts,98512
-2014,current accounts,99875
-2015,current accounts,101661
-2016,current accounts,103844
-2017,current accounts,103846
-2018,current accounts,105927
-2019,current accounts,107946
-2020,current accounts,109636
-2021,current accounts,113879
-2022,current accounts,103368
+Year,type of account,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2
+2010,,,.,,
+2011,,,.,,
+2012,,,.,,
+2013,,,.,,
+2014,,145480,,,
+2015,,148138,,,
+2016,,150897,,,
+2017,,151359,,,
+2018,,153183,,,
+2019,,155998,,,
+2020,,159637,,,
+2021,,163161,,,
+2022,,138518,r,|,
+2023,,145364,,,
+2010,online accounts,,.,,
+2011,online accounts,,.,,
+2012,online accounts,,.,,
+2013,online accounts,,.,,
+2014,online accounts,78631,,,
+2015,online accounts,81488,,,
+2016,online accounts,85985,,,
+2017,online accounts,89337,,,
+2018,online accounts,93527,,,
+2019,online accounts,98968,,,
+2020,online accounts,104023,,,
+2021,online accounts,110759,,,
+2022,online accounts,105743,r,|,
+2023,online accounts,116487,,,
+2010,current accounts,94982,,,
+2011,current accounts,95684,,,
+2012,current accounts,96858,,,
+2013,current accounts,98512,,,
+2014,current accounts,99875,,,
+2015,current accounts,101661,,,
+2016,current accounts,103844,,,
+2017,current accounts,103846,,,
+2018,current accounts,105927,,,
+2019,current accounts,107946,,,
+2020,current accounts,109636,,,
+2021,current accounts,113879,,,
+2022,current accounts,102158,r,|,
+2023,current accounts,106518,,,

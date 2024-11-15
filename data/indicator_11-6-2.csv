@@ -1,49 +1,49 @@
-Year,Units,fine particulate matter,Value,Series
-2010,micrograms per m³,pm10,19.5,population weighted annual mean levels of fine particulate matter
-2011,micrograms per m³,pm10,19.4,population weighted annual mean levels of fine particulate matter
-2012,micrograms per m³,pm10,16.8,population weighted annual mean levels of fine particulate matter
-2013,micrograms per m³,pm10,17.5,population weighted annual mean levels of fine particulate matter
-2014,micrograms per m³,pm10,17.0,population weighted annual mean levels of fine particulate matter
-2015,micrograms per m³,pm10,15.8,population weighted annual mean levels of fine particulate matter
-2016,micrograms per m³,pm10,15.3,population weighted annual mean levels of fine particulate matter
-2017,micrograms per m³,pm10,14.4,population weighted annual mean levels of fine particulate matter
-2018,micrograms per m³,pm10,15.4,population weighted annual mean levels of fine particulate matter
-2019,micrograms per m³,pm10,13.2,population weighted annual mean levels of fine particulate matter
-2020,micrograms per m³,pm10,12.3,population weighted annual mean levels of fine particulate matter
-2021,micrograms per m³,pm10,13.0,population weighted annual mean levels of fine particulate matter
-2010,micrograms per m³,pm2.5,15.9,population weighted annual mean levels of fine particulate matter
-2011,micrograms per m³,pm2.5,15.2,population weighted annual mean levels of fine particulate matter
-2012,micrograms per m³,pm2.5,12.4,population weighted annual mean levels of fine particulate matter
-2013,micrograms per m³,pm2.5,13.2,population weighted annual mean levels of fine particulate matter
-2014,micrograms per m³,pm2.5,13.0,population weighted annual mean levels of fine particulate matter
-2015,micrograms per m³,pm2.5,11.7,population weighted annual mean levels of fine particulate matter
-2016,micrograms per m³,pm2.5,11.4,population weighted annual mean levels of fine particulate matter
-2017,micrograms per m³,pm2.5,10.9,population weighted annual mean levels of fine particulate matter
-2018,micrograms per m³,pm2.5,11.2,population weighted annual mean levels of fine particulate matter
-2019,micrograms per m³,pm2.5,9.4,population weighted annual mean levels of fine particulate matter
-2020,micrograms per m³,pm2.5,8.8,population weighted annual mean levels of fine particulate matter
-2021,micrograms per m³,pm2.5,9.3,population weighted annual mean levels of fine particulate matter
-2010,million inhabitants,pm2.5,81.7,population with excessive exposure to fine particulate matter
-2011,million inhabitants,pm2.5,80.3,population with excessive exposure to fine particulate matter
-2012,million inhabitants,pm2.5,80.5,population with excessive exposure to fine particulate matter
-2013,million inhabitants,pm2.5,80.8,population with excessive exposure to fine particulate matter
-2014,million inhabitants,pm2.5,81.2,population with excessive exposure to fine particulate matter
-2015,million inhabitants,pm2.5,82.2,population with excessive exposure to fine particulate matter
-2016,million inhabitants,pm2.5,82.5,population with excessive exposure to fine particulate matter
-2017,million inhabitants,pm2.5,82.8,population with excessive exposure to fine particulate matter
-2018,million inhabitants,pm2.5,83.0,population with excessive exposure to fine particulate matter
-2019,million inhabitants,pm2.5,83.2,population with excessive exposure to fine particulate matter
-2020,million inhabitants,pm2.5,83.1,population with excessive exposure to fine particulate matter
-2021,million inhabitants,pm2.5,83.2,population with excessive exposure to fine particulate matter
-2010,million inhabitants,pm10,74.0,population with excessive exposure to fine particulate matter
-2011,million inhabitants,pm10,71.0,population with excessive exposure to fine particulate matter
-2012,million inhabitants,pm10,56.5,population with excessive exposure to fine particulate matter
-2013,million inhabitants,pm10,64.1,population with excessive exposure to fine particulate matter
-2014,million inhabitants,pm10,59.2,population with excessive exposure to fine particulate matter
-2015,million inhabitants,pm10,50.6,population with excessive exposure to fine particulate matter
-2016,million inhabitants,pm10,45.0,population with excessive exposure to fine particulate matter
-2017,million inhabitants,pm10,30.9,population with excessive exposure to fine particulate matter
-2018,million inhabitants,pm10,46.3,population with excessive exposure to fine particulate matter
-2019,million inhabitants,pm10,17.6,population with excessive exposure to fine particulate matter
-2020,million inhabitants,pm10,9.9,population with excessive exposure to fine particulate matter
-2021,million inhabitants,pm10,16.9,population with excessive exposure to fine particulate matter
+Year,Units,fine particulate matter,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series
+2010,micrograms per m³,pm10,19.5,r,,,population weighted annual mean levels of fine particulate matter
+2011,micrograms per m³,pm10,19.4,r,,,population weighted annual mean levels of fine particulate matter
+2012,micrograms per m³,pm10,16.8,r,,,population weighted annual mean levels of fine particulate matter
+2013,micrograms per m³,pm10,17.5,r,,,population weighted annual mean levels of fine particulate matter
+2014,micrograms per m³,pm10,17.0,r,,,population weighted annual mean levels of fine particulate matter
+2015,micrograms per m³,pm10,15.8,r,,,population weighted annual mean levels of fine particulate matter
+2016,micrograms per m³,pm10,15.3,r,,,population weighted annual mean levels of fine particulate matter
+2017,micrograms per m³,pm10,14.4,r,,,population weighted annual mean levels of fine particulate matter
+2018,micrograms per m³,pm10,15.4,,,,population weighted annual mean levels of fine particulate matter
+2019,micrograms per m³,pm10,13.2,,,,population weighted annual mean levels of fine particulate matter
+2020,micrograms per m³,pm10,12.3,,,,population weighted annual mean levels of fine particulate matter
+2021,micrograms per m³,pm10,13.0,,,,population weighted annual mean levels of fine particulate matter
+2010,micrograms per m³,pm2.5,15.9,r,,,population weighted annual mean levels of fine particulate matter
+2011,micrograms per m³,pm2.5,15.2,r,,,population weighted annual mean levels of fine particulate matter
+2012,micrograms per m³,pm2.5,12.4,r,,,population weighted annual mean levels of fine particulate matter
+2013,micrograms per m³,pm2.5,13.2,r,,,population weighted annual mean levels of fine particulate matter
+2014,micrograms per m³,pm2.5,13.0,r,,,population weighted annual mean levels of fine particulate matter
+2015,micrograms per m³,pm2.5,11.7,r,,,population weighted annual mean levels of fine particulate matter
+2016,micrograms per m³,pm2.5,11.4,r,,,population weighted annual mean levels of fine particulate matter
+2017,micrograms per m³,pm2.5,10.9,r,,,population weighted annual mean levels of fine particulate matter
+2018,micrograms per m³,pm2.5,11.2,r,,,population weighted annual mean levels of fine particulate matter
+2019,micrograms per m³,pm2.5,9.4,r,,,population weighted annual mean levels of fine particulate matter
+2020,micrograms per m³,pm2.5,8.8,r,,,population weighted annual mean levels of fine particulate matter
+2021,micrograms per m³,pm2.5,9.3,,,,population weighted annual mean levels of fine particulate matter
+2010,million inhabitants,pm2.5,81.7,,,,population with excessive exposure to fine particulate matter
+2011,million inhabitants,pm2.5,80.3,,,,population with excessive exposure to fine particulate matter
+2012,million inhabitants,pm2.5,80.5,,,,population with excessive exposure to fine particulate matter
+2013,million inhabitants,pm2.5,80.8,,,,population with excessive exposure to fine particulate matter
+2014,million inhabitants,pm2.5,81.2,,,,population with excessive exposure to fine particulate matter
+2015,million inhabitants,pm2.5,82.2,,,,population with excessive exposure to fine particulate matter
+2016,million inhabitants,pm2.5,82.5,,,,population with excessive exposure to fine particulate matter
+2017,million inhabitants,pm2.5,82.8,,,,population with excessive exposure to fine particulate matter
+2018,million inhabitants,pm2.5,83.0,,,,population with excessive exposure to fine particulate matter
+2019,million inhabitants,pm2.5,83.2,,,,population with excessive exposure to fine particulate matter
+2020,million inhabitants,pm2.5,83.1,,,,population with excessive exposure to fine particulate matter
+2021,million inhabitants,pm2.5,83.2,,,,population with excessive exposure to fine particulate matter
+2010,million inhabitants,pm10,74.0,,,,population with excessive exposure to fine particulate matter
+2011,million inhabitants,pm10,71.0,,,,population with excessive exposure to fine particulate matter
+2012,million inhabitants,pm10,56.5,,,,population with excessive exposure to fine particulate matter
+2013,million inhabitants,pm10,64.1,,,,population with excessive exposure to fine particulate matter
+2014,million inhabitants,pm10,59.2,,,,population with excessive exposure to fine particulate matter
+2015,million inhabitants,pm10,50.6,,,,population with excessive exposure to fine particulate matter
+2016,million inhabitants,pm10,45.0,,,,population with excessive exposure to fine particulate matter
+2017,million inhabitants,pm10,30.9,,,,population with excessive exposure to fine particulate matter
+2018,million inhabitants,pm10,46.3,,,,population with excessive exposure to fine particulate matter
+2019,million inhabitants,pm10,17.6,,,,population with excessive exposure to fine particulate matter
+2020,million inhabitants,pm10,9.9,,,,population with excessive exposure to fine particulate matter
+2021,million inhabitants,pm10,16.9,,,,population with excessive exposure to fine particulate matter
