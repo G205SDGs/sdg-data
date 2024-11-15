@@ -16,20 +16,65 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "educational level",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Sekundarstufe I (ISCED-Stufe 2)",
+                "Sekundarstufe II (ISCED-Stufe 3)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Bildungsstand"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "|",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

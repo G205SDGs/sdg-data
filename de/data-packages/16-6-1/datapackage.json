@@ -16,6 +16,56 @@
             "title": "Jahr"
           },
           {
+            "name": "sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Allgemeine Dienste",
+                "Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",
+                "Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",
+                "Ernährung, Landwirtschaft und Forsten",
+                "Finanzwirtschaft",
+                "Gesundheit, Umwelt, Sport und Erholung",
+                "Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",
+                "Verkehrs- und Nachrichtenwesen",
+                "Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",
+                ""
+              ]
+            },
+            "title": "Sektor"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

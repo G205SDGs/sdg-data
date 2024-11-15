@@ -1,43 +1,43 @@
-Year,Aufgabenbereich,COMMENT_OBS_0,Value
-2010,Gesundheit,r,14.25
-2011,Gesundheit,r,14.74
-2012,Gesundheit,r,14.87
-2013,Gesundheit,r,15.32
-2014,Gesundheit,r,15.71
-2015,Gesundheit,r,15.82
-2016,Gesundheit,r,15.77
-2017,Gesundheit,r,15.67
-2018,Gesundheit,r,15.74
-2019,Gesundheit,r,15.71
-2020,Gesundheit,p,16.3
-2021,Gesundheit,p,16.81
-2022,Gesundheit,p,17.06
-2023,Gesundheit,p,15.56
-2010,Bildung,r,8.99
-2011,Bildung,r,9.36
-2012,Bildung,r,9.21
-2013,Bildung,r,9.36
-2014,Bildung,r,9.4
-2015,Bildung,r,9.35
-2016,Bildung,r,9.2
-2017,Bildung,r,9.2
-2018,Bildung,r,9.36
-2019,Bildung,r,9.43
-2020,Bildung,p,8.94
-2021,Bildung,p,8.82
-2022,Bildung,p,8.96
-2023,Bildung,p,9.25
-2010,Soziale Sicherung,r,40.82
-2011,Soziale Sicherung,r,40.9
-2012,Soziale Sicherung,r,41.04
-2013,Soziale Sicherung,r,41.15
-2014,Soziale Sicherung,r,41.35
-2015,Soziale Sicherung,r,42.06
-2016,Soziale Sicherung,r,42.77
-2017,Soziale Sicherung,r,42.73
-2018,Soziale Sicherung,r,42.27
-2019,Soziale Sicherung,r,42.21
-2020,Soziale Sicherung,p,41.86
-2021,Soziale Sicherung,p,40.41
-2022,Soziale Sicherung,p,40.79
-2023,Soziale Sicherung,p,40.62
+Year,Aufgabenbereich,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Gesundheit,r,,,14.25
+2011,Gesundheit,r,,,14.74
+2012,Gesundheit,r,,,14.87
+2013,Gesundheit,r,,,15.32
+2014,Gesundheit,r,,,15.71
+2015,Gesundheit,r,,,15.82
+2016,Gesundheit,r,,,15.77
+2017,Gesundheit,r,,,15.67
+2018,Gesundheit,r,,,15.74
+2019,Gesundheit,r,,,15.71
+2020,Gesundheit,p,,,16.3
+2021,Gesundheit,p,,,16.81
+2022,Gesundheit,p,,,17.06
+2023,Gesundheit,p,,,15.56
+2010,Bildung,r,,,8.99
+2011,Bildung,r,,,9.36
+2012,Bildung,r,,,9.21
+2013,Bildung,r,,,9.36
+2014,Bildung,r,,,9.4
+2015,Bildung,r,,,9.35
+2016,Bildung,r,,,9.2
+2017,Bildung,r,,,9.2
+2018,Bildung,r,,,9.36
+2019,Bildung,r,,,9.43
+2020,Bildung,p,,,8.94
+2021,Bildung,p,,,8.82
+2022,Bildung,p,,,8.96
+2023,Bildung,p,,,9.25
+2010,Soziale Sicherung,r,,,40.82
+2011,Soziale Sicherung,r,,,40.9
+2012,Soziale Sicherung,r,,,41.04
+2013,Soziale Sicherung,r,,,41.15
+2014,Soziale Sicherung,r,,,41.35
+2015,Soziale Sicherung,r,,,42.06
+2016,Soziale Sicherung,r,,,42.77
+2017,Soziale Sicherung,r,,,42.73
+2018,Soziale Sicherung,r,,,42.27
+2019,Soziale Sicherung,r,,,42.21
+2020,Soziale Sicherung,p,,,41.86
+2021,Soziale Sicherung,p,,,40.41
+2022,Soziale Sicherung,p,,,40.79
+2023,Soziale Sicherung,p,,,40.62

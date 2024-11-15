@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "megajoule per eur",
-                "2015 = 100",
+                "2020 = 100",
                 ""
               ]
             }
@@ -30,7 +30,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }

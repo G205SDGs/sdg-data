@@ -1,14 +1,141 @@
-Year,Value
-2010,95.14
-2011,96.98
-2012,98.56
-2013,99.42
-2014,99.79
-2015,101.57
-2016,100.17
-2017,100.59
-2018,101.37
-2019,100.2
-2020,87.2
-2021,97.3
-2022,97.1
+Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,,,,,95.1
+2011,,,,,97.0
+2012,,,,,98.6
+2013,,,,,99.4
+2014,,,,,99.8
+2015,,,,,101.6
+2016,,,,,100.2
+2017,,,,,100.6
+2018,,,,,101.4
+2019,,,,,100.2
+2020,,,,,87.2
+2021,,,,,97.3
+2022,,,,,97.1
+2023,,,,,99.2
+2010,general services,.,,,
+2011,general services,.,,,
+2012,general services,,,,101.6
+2013,general services,,,,99.6
+2014,general services,,,,100.2
+2015,general services,,,,100.5
+2016,general services,,,,100.9
+2017,general services,,,,99.0
+2018,general services,,,,98.3
+2019,general services,,,,98.0
+2020,general services,,,,97.4
+2021,general services,,,,96.6
+2022,general services,,,,98.8
+2023,general services,,,,102.4
+2010,"education, science, research, cultural affairs",.,,,
+2011,"education, science, research, cultural affairs",.,,,
+2012,"education, science, research, cultural affairs",,,,98.2
+2013,"education, science, research, cultural affairs",,,,98.6
+2014,"education, science, research, cultural affairs",,,,97.5
+2015,"education, science, research, cultural affairs",,,,97.7
+2016,"education, science, research, cultural affairs",,,,97.8
+2017,"education, science, research, cultural affairs",,,,96.0
+2018,"education, science, research, cultural affairs",,,,95.3
+2019,"education, science, research, cultural affairs",,,,92.7
+2020,"education, science, research, cultural affairs",,,,94.5
+2021,"education, science, research, cultural affairs",,,,91.1
+2022,"education, science, research, cultural affairs",,,,87.0
+2023,"education, science, research, cultural affairs",,,,88.0
+2010,"energy and water management, trade, services",.,,,
+2011,"energy and water management, trade, services",.,,,
+2012,"energy and water management, trade, services",,,,94.6
+2013,"energy and water management, trade, services",,,,85.0
+2014,"energy and water management, trade, services",,,,97.5
+2015,"energy and water management, trade, services",,,,98.1
+2016,"energy and water management, trade, services",,,,72.4
+2017,"energy and water management, trade, services",,,,69.5
+2018,"energy and water management, trade, services",,,,78.7
+2019,"energy and water management, trade, services",,,,78.9
+2020,"energy and water management, trade, services",,,,35.8
+2021,"energy and water management, trade, services",,,,39.0
+2022,"energy and water management, trade, services",,,,58.3
+2023,"energy and water management, trade, services",,,,70.6
+2010,"food, agriculture and forestry",.,,,
+2011,"food, agriculture and forestry",.,,,
+2012,"food, agriculture and forestry",,,,95.0
+2013,"food, agriculture and forestry",,,,92.8
+2014,"food, agriculture and forestry",,,,89.8
+2015,"food, agriculture and forestry",,,,87.0
+2016,"food, agriculture and forestry",,,,84.4
+2017,"food, agriculture and forestry",,,,85.5
+2018,"food, agriculture and forestry",,,,88.1
+2019,"food, agriculture and forestry",,,,88.7
+2020,"food, agriculture and forestry",,,,71.8
+2021,"food, agriculture and forestry",,,,74.8
+2022,"food, agriculture and forestry",,,,78.8
+2023,"food, agriculture and forestry",,,,80.7
+2010,financial services,.,,,
+2011,financial services,.,,,
+2012,financial services,.,,,
+2013,financial services,,,,98.6
+2014,financial services,,,,99.3
+2015,financial services,,,,116.8
+2016,financial services,,,,112.7
+2017,financial services,,,,132.1
+2018,financial services,,,,131.3
+2019,financial services,,,,136.9
+2020,financial services,,,,99.3
+2021,financial services,,,,122.6
+2022,financial services,,,,89.5
+2023,financial services,,,,114.9
+2010,"health, environment, sport and recreation",.,,,
+2011,"health, environment, sport and recreation",.,,,
+2012,"health, environment, sport and recreation",,,,90.3
+2013,"health, environment, sport and recreation",,,,93.8
+2014,"health, environment, sport and recreation",,,,94.1
+2015,"health, environment, sport and recreation",,,,93.8
+2016,"health, environment, sport and recreation",,,,89.7
+2017,"health, environment, sport and recreation",,,,99.1
+2018,"health, environment, sport and recreation",,,,86.7
+2019,"health, environment, sport and recreation",,,,79.8
+2020,"health, environment, sport and recreation",,,,75.2
+2021,"health, environment, sport and recreation",,,,67.5
+2022,"health, environment, sport and recreation",,,,89.3
+2023,"health, environment, sport and recreation",,,,69.5
+2010,"social security, family and youth, labour market policy",.,,,
+2011,"social security, family and youth, labour market policy",.,,,
+2012,"social security, family and youth, labour market policy",.,,,
+2013,"social security, family and youth, labour market policy",,,,100.4
+2014,"social security, family and youth, labour market policy",,,,100.6
+2015,"social security, family and youth, labour market policy",,,,99.6
+2016,"social security, family and youth, labour market policy",,,,99.4
+2017,"social security, family and youth, labour market policy",,,,99.0
+2018,"social security, family and youth, labour market policy",,,,99.5
+2019,"social security, family and youth, labour market policy",,,,98.7
+2020,"social security, family and youth, labour market policy",,,,85.5
+2021,"social security, family and youth, labour market policy",,,,98.8
+2022,"social security, family and youth, labour market policy",,,,102.1
+2023,"social security, family and youth, labour market policy",,,,100.5
+2010,transport and communications,.,,,
+2011,transport and communications,.,,,
+2012,transport and communications,,,,97.8
+2013,transport and communications,,,,98.2
+2014,transport and communications,,,,97.4
+2015,transport and communications,,,,98.0
+2016,transport and communications,,,,97.0
+2017,transport and communications,,,,102.0
+2018,transport and communications,,,,103.8
+2019,transport and communications,,,,100.5
+2020,transport and communications,,,,79.4
+2021,transport and communications,,,,88.4
+2022,transport and communications,,,,97.5
+2023,transport and communications,,,,101.7
+2010,"housing, urban development, regional planning and municipal community services",.,,,
+2011,"housing, urban development, regional planning and municipal community services",.,,,
+2012,"housing, urban development, regional planning and municipal community services",,,,101.1
+2013,"housing, urban development, regional planning and municipal community services",,,,99.5
+2014,"housing, urban development, regional planning and municipal community services",,,,91.7
+2015,"housing, urban development, regional planning and municipal community services",,,,91.3
+2016,"housing, urban development, regional planning and municipal community services",,,,97.0
+2017,"housing, urban development, regional planning and municipal community services",,,,87.9
+2018,"housing, urban development, regional planning and municipal community services",,,,83.0
+2019,"housing, urban development, regional planning and municipal community services",,,,84.4
+2020,"housing, urban development, regional planning and municipal community services",,,,69.2
+2021,"housing, urban development, regional planning and municipal community services",,,,76.4
+2022,"housing, urban development, regional planning and municipal community services",,,,74.0
+2023,"housing, urban development, regional planning and municipal community services",,,,90.8

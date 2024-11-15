@@ -1,53 +1,53 @@
-Year,Units,type of waste water,treatment,Series,Value
-2010,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2011,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2012,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2013,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2014,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2015,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2016,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2017,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2018,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2019,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2020,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2021,percentage,,,wastewater that is safely treated or does not require treatment,100.0
-2010,1 000 m³,total wastewater produced from public and non-public disposal,,wastewater and cooling water,11202690.0
-2011,1 000 m³,total wastewater produced from public and non-public disposal,,wastewater and cooling water,
-2012,1 000 m³,total wastewater produced from public and non-public disposal,,wastewater and cooling water,
-2013,1 000 m³,total wastewater produced from public and non-public disposal,,wastewater and cooling water,10912539.0
-2014,1 000 m³,total wastewater produced from public and non-public disposal,,wastewater and cooling water,
-2015,1 000 m³,total wastewater produced from public and non-public disposal,,wastewater and cooling water,
-2016,1 000 m³,total wastewater produced from public and non-public disposal,,wastewater and cooling water,10618410.0
-2017,1 000 m³,total wastewater produced from public and non-public disposal,,wastewater and cooling water,
-2018,1 000 m³,total wastewater produced from public and non-public disposal,,wastewater and cooling water,
-2019,1 000 m³,total wastewater produced from public and non-public disposal,,wastewater and cooling water,10127012.0
-2010,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,wastewater and cooling water,1568324.0
-2011,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,wastewater and cooling water,
-2012,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,wastewater and cooling water,
-2013,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,wastewater and cooling water,1513440.0
-2014,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,wastewater and cooling water,
-2015,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,wastewater and cooling water,
-2016,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,wastewater and cooling water,1510666.0
-2017,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,wastewater and cooling water,
-2018,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,wastewater and cooling water,
-2019,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,wastewater and cooling water,1601599.0
-2010,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,wastewater and cooling water,9634366.0
-2011,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,wastewater and cooling water,
-2012,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,wastewater and cooling water,
-2013,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,wastewater and cooling water,9399099.0
-2014,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,wastewater and cooling water,
-2015,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,wastewater and cooling water,
-2016,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,wastewater and cooling water,9107744.0
-2017,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,wastewater and cooling water,
-2018,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,wastewater and cooling water,
-2019,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,wastewater and cooling water,8525413.0
-2010,1 000 m³,cooling water,,wastewater and cooling water,24153706.0
-2011,1 000 m³,cooling water,,wastewater and cooling water,
-2012,1 000 m³,cooling water,,wastewater and cooling water,
-2013,1 000 m³,cooling water,,wastewater and cooling water,16582729.0
-2014,1 000 m³,cooling water,,wastewater and cooling water,
-2015,1 000 m³,cooling water,,wastewater and cooling water,
-2016,1 000 m³,cooling water,,wastewater and cooling water,15725418.0
-2017,1 000 m³,cooling water,,wastewater and cooling water,
-2018,1 000 m³,cooling water,,wastewater and cooling water,
-2019,1 000 m³,cooling water,,wastewater and cooling water,11848201.0
+Year,Units,type of waste water,treatment,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,percentage,,,,,,wastewater that is safely treated or does not require treatment,100.0
+2011,percentage,,,s,,,wastewater that is safely treated or does not require treatment,100.0
+2012,percentage,,,s,,,wastewater that is safely treated or does not require treatment,100.0
+2013,percentage,,,,,,wastewater that is safely treated or does not require treatment,100.0
+2014,percentage,,,s,,,wastewater that is safely treated or does not require treatment,100.0
+2015,percentage,,,s,,,wastewater that is safely treated or does not require treatment,100.0
+2016,percentage,,,,,,wastewater that is safely treated or does not require treatment,100.0
+2017,percentage,,,s,,,wastewater that is safely treated or does not require treatment,100.0
+2018,percentage,,,s,,,wastewater that is safely treated or does not require treatment,100.0
+2019,percentage,,,,,,wastewater that is safely treated or does not require treatment,100.0
+2020,percentage,,,s,,,wastewater that is safely treated or does not require treatment,100.0
+2021,percentage,,,s,,,wastewater that is safely treated or does not require treatment,100.0
+2010,1 000 m³,total wastewater produced from public and non-public disposal,,,,,wastewater and cooling water,11202690.0
+2011,1 000 m³,total wastewater produced from public and non-public disposal,,.,,,wastewater and cooling water,
+2012,1 000 m³,total wastewater produced from public and non-public disposal,,.,,,wastewater and cooling water,
+2013,1 000 m³,total wastewater produced from public and non-public disposal,,,,,wastewater and cooling water,10912539.0
+2014,1 000 m³,total wastewater produced from public and non-public disposal,,.,,,wastewater and cooling water,
+2015,1 000 m³,total wastewater produced from public and non-public disposal,,.,,,wastewater and cooling water,
+2016,1 000 m³,total wastewater produced from public and non-public disposal,,,,,wastewater and cooling water,10618410.0
+2017,1 000 m³,total wastewater produced from public and non-public disposal,,.,,,wastewater and cooling water,
+2018,1 000 m³,total wastewater produced from public and non-public disposal,,.,,,wastewater and cooling water,
+2019,1 000 m³,total wastewater produced from public and non-public disposal,,,,,wastewater and cooling water,10127012.0
+2010,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,,,,wastewater and cooling water,1568324.0
+2011,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,.,,,wastewater and cooling water,
+2012,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,.,,,wastewater and cooling water,
+2013,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,,,,wastewater and cooling water,1513440.0
+2014,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,.,,,wastewater and cooling water,
+2015,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,.,,,wastewater and cooling water,
+2016,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,,,,wastewater and cooling water,1510666.0
+2017,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,.,,,wastewater and cooling water,
+2018,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,.,,,wastewater and cooling water,
+2019,1 000 m³,total wastewater produced from public and non-public disposal,untreated wastewater,,,,wastewater and cooling water,1601599.0
+2010,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,,,,wastewater and cooling water,9634366.0
+2011,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,.,,,wastewater and cooling water,
+2012,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,.,,,wastewater and cooling water,
+2013,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,,,,wastewater and cooling water,9399099.0
+2014,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,.,,,wastewater and cooling water,
+2015,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,.,,,wastewater and cooling water,
+2016,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,,,,wastewater and cooling water,9107744.0
+2017,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,.,,,wastewater and cooling water,
+2018,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,.,,,wastewater and cooling water,
+2019,1 000 m³,total wastewater produced from public and non-public disposal,treated wastewater,,,,wastewater and cooling water,8525413.0
+2010,1 000 m³,cooling water,,,,,wastewater and cooling water,24153706.0
+2011,1 000 m³,cooling water,,.,,,wastewater and cooling water,
+2012,1 000 m³,cooling water,,.,,,wastewater and cooling water,
+2013,1 000 m³,cooling water,,,,,wastewater and cooling water,16582729.0
+2014,1 000 m³,cooling water,,.,,,wastewater and cooling water,
+2015,1 000 m³,cooling water,,.,,,wastewater and cooling water,
+2016,1 000 m³,cooling water,,,,,wastewater and cooling water,15725418.0
+2017,1 000 m³,cooling water,,.,,,wastewater and cooling water,
+2018,1 000 m³,cooling water,,.,,,wastewater and cooling water,
+2019,1 000 m³,cooling water,,,,,wastewater and cooling water,11848201.0

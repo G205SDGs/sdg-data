@@ -1,14 +1,141 @@
-Year,Value
-2010,95.14
-2011,96.98
-2012,98.56
-2013,99.42
-2014,99.79
-2015,101.57
-2016,100.17
-2017,100.59
-2018,101.37
-2019,100.2
-2020,87.2
-2021,97.3
-2022,97.1
+Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,,,,,95.1
+2011,,,,,97.0
+2012,,,,,98.6
+2013,,,,,99.4
+2014,,,,,99.8
+2015,,,,,101.6
+2016,,,,,100.2
+2017,,,,,100.6
+2018,,,,,101.4
+2019,,,,,100.2
+2020,,,,,87.2
+2021,,,,,97.3
+2022,,,,,97.1
+2023,,,,,99.2
+2010,Allgemeine Dienste,.,,,
+2011,Allgemeine Dienste,.,,,
+2012,Allgemeine Dienste,,,,101.6
+2013,Allgemeine Dienste,,,,99.6
+2014,Allgemeine Dienste,,,,100.2
+2015,Allgemeine Dienste,,,,100.5
+2016,Allgemeine Dienste,,,,100.9
+2017,Allgemeine Dienste,,,,99.0
+2018,Allgemeine Dienste,,,,98.3
+2019,Allgemeine Dienste,,,,98.0
+2020,Allgemeine Dienste,,,,97.4
+2021,Allgemeine Dienste,,,,96.6
+2022,Allgemeine Dienste,,,,98.8
+2023,Allgemeine Dienste,,,,102.4
+2010,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",.,,,
+2011,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",.,,,
+2012,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,98.2
+2013,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,98.6
+2014,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,97.5
+2015,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,97.7
+2016,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,97.8
+2017,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,96.0
+2018,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,95.3
+2019,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,92.7
+2020,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,94.5
+2021,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,91.1
+2022,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,87.0
+2023,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,88.0
+2010,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",.,,,
+2011,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",.,,,
+2012,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,94.6
+2013,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,85.0
+2014,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,97.5
+2015,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,98.1
+2016,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,72.4
+2017,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,69.5
+2018,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,78.7
+2019,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,78.9
+2020,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,35.8
+2021,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,39.0
+2022,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,58.3
+2023,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,70.6
+2010,"Ernährung, Landwirtschaft und Forsten",.,,,
+2011,"Ernährung, Landwirtschaft und Forsten",.,,,
+2012,"Ernährung, Landwirtschaft und Forsten",,,,95.0
+2013,"Ernährung, Landwirtschaft und Forsten",,,,92.8
+2014,"Ernährung, Landwirtschaft und Forsten",,,,89.8
+2015,"Ernährung, Landwirtschaft und Forsten",,,,87.0
+2016,"Ernährung, Landwirtschaft und Forsten",,,,84.4
+2017,"Ernährung, Landwirtschaft und Forsten",,,,85.5
+2018,"Ernährung, Landwirtschaft und Forsten",,,,88.1
+2019,"Ernährung, Landwirtschaft und Forsten",,,,88.7
+2020,"Ernährung, Landwirtschaft und Forsten",,,,71.8
+2021,"Ernährung, Landwirtschaft und Forsten",,,,74.8
+2022,"Ernährung, Landwirtschaft und Forsten",,,,78.8
+2023,"Ernährung, Landwirtschaft und Forsten",,,,80.7
+2010,Finanzwirtschaft,.,,,
+2011,Finanzwirtschaft,.,,,
+2012,Finanzwirtschaft,.,,,
+2013,Finanzwirtschaft,,,,98.6
+2014,Finanzwirtschaft,,,,99.3
+2015,Finanzwirtschaft,,,,116.8
+2016,Finanzwirtschaft,,,,112.7
+2017,Finanzwirtschaft,,,,132.1
+2018,Finanzwirtschaft,,,,131.3
+2019,Finanzwirtschaft,,,,136.9
+2020,Finanzwirtschaft,,,,99.3
+2021,Finanzwirtschaft,,,,122.6
+2022,Finanzwirtschaft,,,,89.5
+2023,Finanzwirtschaft,,,,114.9
+2010,"Gesundheit, Umwelt, Sport und Erholung",.,,,
+2011,"Gesundheit, Umwelt, Sport und Erholung",.,,,
+2012,"Gesundheit, Umwelt, Sport und Erholung",,,,90.3
+2013,"Gesundheit, Umwelt, Sport und Erholung",,,,93.8
+2014,"Gesundheit, Umwelt, Sport und Erholung",,,,94.1
+2015,"Gesundheit, Umwelt, Sport und Erholung",,,,93.8
+2016,"Gesundheit, Umwelt, Sport und Erholung",,,,89.7
+2017,"Gesundheit, Umwelt, Sport und Erholung",,,,99.1
+2018,"Gesundheit, Umwelt, Sport und Erholung",,,,86.7
+2019,"Gesundheit, Umwelt, Sport und Erholung",,,,79.8
+2020,"Gesundheit, Umwelt, Sport und Erholung",,,,75.2
+2021,"Gesundheit, Umwelt, Sport und Erholung",,,,67.5
+2022,"Gesundheit, Umwelt, Sport und Erholung",,,,89.3
+2023,"Gesundheit, Umwelt, Sport und Erholung",,,,69.5
+2010,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",.,,,
+2011,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",.,,,
+2012,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",.,,,
+2013,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,100.4
+2014,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,100.6
+2015,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,99.6
+2016,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,99.4
+2017,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,99.0
+2018,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,99.5
+2019,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,98.7
+2020,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,85.5
+2021,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,98.8
+2022,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,102.1
+2023,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,100.5
+2010,Verkehrs- und Nachrichtenwesen,.,,,
+2011,Verkehrs- und Nachrichtenwesen,.,,,
+2012,Verkehrs- und Nachrichtenwesen,,,,97.8
+2013,Verkehrs- und Nachrichtenwesen,,,,98.2
+2014,Verkehrs- und Nachrichtenwesen,,,,97.4
+2015,Verkehrs- und Nachrichtenwesen,,,,98.0
+2016,Verkehrs- und Nachrichtenwesen,,,,97.0
+2017,Verkehrs- und Nachrichtenwesen,,,,102.0
+2018,Verkehrs- und Nachrichtenwesen,,,,103.8
+2019,Verkehrs- und Nachrichtenwesen,,,,100.5
+2020,Verkehrs- und Nachrichtenwesen,,,,79.4
+2021,Verkehrs- und Nachrichtenwesen,,,,88.4
+2022,Verkehrs- und Nachrichtenwesen,,,,97.5
+2023,Verkehrs- und Nachrichtenwesen,,,,101.7
+2010,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",.,,,
+2011,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",.,,,
+2012,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,101.1
+2013,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,99.5
+2014,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,91.7
+2015,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,91.3
+2016,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,97.0
+2017,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,87.9
+2018,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,83.0
+2019,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,84.4
+2020,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,69.2
+2021,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,76.4
+2022,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,74.0
+2023,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,90.8

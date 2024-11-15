@@ -1,6 +1,6 @@
-Year,Series,Value
-2015,(a) Mountain Green Cover Index,92.2
-2018,(a) Mountain Green Cover Index,92.15
-2017,(b) Proportion of degraded mountain area,
-2018,(b) Proportion of degraded mountain area,0.05
-2019,(b) Proportion of degraded mountain area,
+Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2015,r,,,(a) Mountain Green Cover Index,92.2
+2018,r,,,(a) Mountain Green Cover Index,92.15
+2017,.,,,(b) Proportion of degraded mountain area,
+2018,,,,(b) Proportion of degraded mountain area,0.05
+2019,…,,,(b) Proportion of degraded mountain area,

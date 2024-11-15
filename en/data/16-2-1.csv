@@ -1,113 +1,113 @@
-Year,Sex,Form of abuse,COMMENT_OBS_0,Value
-2010,Female,,.,
-2011,Female,,.,
-2012,Female,,,0.08
-2013,Female,,,0.08
-2014,Female,,,0.08
-2015,Female,,,0.09
-2016,Female,,,0.1
-2017,Female,,,0.1
-2018,Female,,,0.12
-2019,Female,,,0.14
-2020,Female,,,0.15
-2021,Female,,,0.16
-2022,Female,,,0.17
-2023,Female,,,0.17
-2010,Male,,.,
-2011,Male,,.,
-2012,Male,,,0.07
-2013,Male,,,0.07
-2014,Male,,,0.07
-2015,Male,,,0.08
-2016,Male,,,0.09
-2017,Male,,,0.09
-2018,Male,,,0.11
-2019,Male,,,0.13
-2020,Male,,,0.13
-2021,Male,,,0.13
-2022,Male,,,0.15
-2023,Male,,,0.16
-2010,,Physical abuse,.,
-2011,,Physical abuse,.,
-2012,,Physical abuse,,0.04
-2013,,Physical abuse,,0.04
-2014,,Physical abuse,,0.04
-2015,,Physical abuse,,0.04
-2016,,Physical abuse,,0.05
-2017,,Physical abuse,,0.05
-2018,,Physical abuse,,0.06
-2019,,Physical abuse,,0.07
-2020,,Physical abuse,,0.07
-2021,,Physical abuse,,0.07
-2022,,Physical abuse,,0.08
-2023,,Physical abuse,,0.08
-2010,Female,Physical abuse,.,
-2011,Female,Physical abuse,.,
-2012,Female,Physical abuse,,0.04
-2013,Female,Physical abuse,,0.04
-2014,Female,Physical abuse,,0.04
-2015,Female,Physical abuse,,0.04
-2016,Female,Physical abuse,,0.05
-2017,Female,Physical abuse,,0.05
-2018,Female,Physical abuse,,0.06
-2019,Female,Physical abuse,,0.07
-2020,Female,Physical abuse,,0.07
-2021,Female,Physical abuse,,0.07
-2022,Female,Physical abuse,,0.08
-2023,Female,Physical abuse,,0.08
-2010,Male,Physical abuse,.,
-2011,Male,Physical abuse,.,
-2012,Male,Physical abuse,,0.03
-2013,Male,Physical abuse,,0.03
-2014,Male,Physical abuse,,0.04
-2015,Male,Physical abuse,,0.04
-2016,Male,Physical abuse,,0.04
-2017,Male,Physical abuse,,0.05
-2018,Male,Physical abuse,,0.05
-2019,Male,Physical abuse,,0.06
-2020,Male,Physical abuse,,0.06
-2021,Male,Physical abuse,,0.06
-2022,Male,Physical abuse,,0.07
-2023,Male,Physical abuse,,0.07
-2010,,Psychological abuse,.,
-2011,,Psychological abuse,.,
-2012,,Psychological abuse,,0.03
-2013,,Psychological abuse,,0.03
-2014,,Psychological abuse,,0.04
-2015,,Psychological abuse,,0.04
-2016,,Psychological abuse,,0.05
-2017,,Psychological abuse,,0.05
-2018,,Psychological abuse,,0.06
-2019,,Psychological abuse,,0.07
-2020,,Psychological abuse,,0.07
-2021,,Psychological abuse,,0.08
-2022,,Psychological abuse,,0.09
-2023,,Psychological abuse,,0.09
-2010,Female,Psychological abuse,.,
-2011,Female,Psychological abuse,.,
-2012,Female,Psychological abuse,,0.04
-2013,Female,Psychological abuse,,0.04
-2014,Female,Psychological abuse,,0.04
-2015,Female,Psychological abuse,,0.05
-2016,Female,Psychological abuse,,0.05
-2017,Female,Psychological abuse,,0.05
-2018,Female,Psychological abuse,,0.06
-2019,Female,Psychological abuse,,0.07
-2020,Female,Psychological abuse,,0.08
-2021,Female,Psychological abuse,,0.09
-2022,Female,Psychological abuse,,0.09
-2023,Female,Psychological abuse,,0.09
-2010,Male,Psychological abuse,.,
-2011,Male,Psychological abuse,.,
-2012,Male,Psychological abuse,,0.03
-2013,Male,Psychological abuse,,0.03
-2014,Male,Psychological abuse,,0.04
-2015,Male,Psychological abuse,,0.04
-2016,Male,Psychological abuse,,0.04
-2017,Male,Psychological abuse,,0.05
-2018,Male,Psychological abuse,,0.06
-2019,Male,Psychological abuse,,0.06
-2020,Male,Psychological abuse,,0.07
-2021,Male,Psychological abuse,,0.07
-2022,Male,Psychological abuse,,0.08
-2023,Male,Psychological abuse,,0.09
+Year,Sex,Form of abuse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Female,,.,,,
+2011,Female,,.,,,
+2012,Female,,,,,0.08
+2013,Female,,,,,0.08
+2014,Female,,,,,0.08
+2015,Female,,,,,0.09
+2016,Female,,,,,0.1
+2017,Female,,,,,0.1
+2018,Female,,,,,0.12
+2019,Female,,,,,0.14
+2020,Female,,,,,0.15
+2021,Female,,,,,0.16
+2022,Female,,,,,0.17
+2023,Female,,,,,0.17
+2010,Male,,.,,,
+2011,Male,,.,,,
+2012,Male,,,,,0.07
+2013,Male,,,,,0.07
+2014,Male,,,,,0.07
+2015,Male,,,,,0.08
+2016,Male,,,,,0.09
+2017,Male,,,,,0.09
+2018,Male,,,,,0.11
+2019,Male,,,,,0.13
+2020,Male,,,,,0.13
+2021,Male,,,,,0.13
+2022,Male,,,,,0.15
+2023,Male,,,,,0.16
+2010,,Physical abuse,.,,,
+2011,,Physical abuse,.,,,
+2012,,Physical abuse,,,,0.04
+2013,,Physical abuse,,,,0.04
+2014,,Physical abuse,,,,0.04
+2015,,Physical abuse,,,,0.04
+2016,,Physical abuse,,,,0.05
+2017,,Physical abuse,,,,0.05
+2018,,Physical abuse,,,,0.06
+2019,,Physical abuse,,,,0.07
+2020,,Physical abuse,,,,0.07
+2021,,Physical abuse,,,,0.07
+2022,,Physical abuse,,,,0.08
+2023,,Physical abuse,,,,0.08
+2010,Female,Physical abuse,.,,,
+2011,Female,Physical abuse,.,,,
+2012,Female,Physical abuse,,,,0.04
+2013,Female,Physical abuse,,,,0.04
+2014,Female,Physical abuse,,,,0.04
+2015,Female,Physical abuse,,,,0.04
+2016,Female,Physical abuse,,,,0.05
+2017,Female,Physical abuse,,,,0.05
+2018,Female,Physical abuse,,,,0.06
+2019,Female,Physical abuse,,,,0.07
+2020,Female,Physical abuse,,,,0.07
+2021,Female,Physical abuse,,,,0.07
+2022,Female,Physical abuse,,,,0.08
+2023,Female,Physical abuse,,,,0.08
+2010,Male,Physical abuse,.,,,
+2011,Male,Physical abuse,.,,,
+2012,Male,Physical abuse,,,,0.03
+2013,Male,Physical abuse,,,,0.03
+2014,Male,Physical abuse,,,,0.04
+2015,Male,Physical abuse,,,,0.04
+2016,Male,Physical abuse,,,,0.04
+2017,Male,Physical abuse,,,,0.05
+2018,Male,Physical abuse,,,,0.05
+2019,Male,Physical abuse,,,,0.06
+2020,Male,Physical abuse,,,,0.06
+2021,Male,Physical abuse,,,,0.06
+2022,Male,Physical abuse,,,,0.07
+2023,Male,Physical abuse,,,,0.07
+2010,,Psychological abuse,.,,,
+2011,,Psychological abuse,.,,,
+2012,,Psychological abuse,,,,0.03
+2013,,Psychological abuse,,,,0.03
+2014,,Psychological abuse,,,,0.04
+2015,,Psychological abuse,,,,0.04
+2016,,Psychological abuse,,,,0.05
+2017,,Psychological abuse,,,,0.05
+2018,,Psychological abuse,,,,0.06
+2019,,Psychological abuse,,,,0.07
+2020,,Psychological abuse,,,,0.07
+2021,,Psychological abuse,,,,0.08
+2022,,Psychological abuse,,,,0.09
+2023,,Psychological abuse,,,,0.09
+2010,Female,Psychological abuse,.,,,
+2011,Female,Psychological abuse,.,,,
+2012,Female,Psychological abuse,,,,0.04
+2013,Female,Psychological abuse,,,,0.04
+2014,Female,Psychological abuse,,,,0.04
+2015,Female,Psychological abuse,,,,0.05
+2016,Female,Psychological abuse,,,,0.05
+2017,Female,Psychological abuse,,,,0.05
+2018,Female,Psychological abuse,,,,0.06
+2019,Female,Psychological abuse,,,,0.07
+2020,Female,Psychological abuse,,,,0.08
+2021,Female,Psychological abuse,,,,0.09
+2022,Female,Psychological abuse,,,,0.09
+2023,Female,Psychological abuse,,,,0.09
+2010,Male,Psychological abuse,.,,,
+2011,Male,Psychological abuse,.,,,
+2012,Male,Psychological abuse,,,,0.03
+2013,Male,Psychological abuse,,,,0.03
+2014,Male,Psychological abuse,,,,0.04
+2015,Male,Psychological abuse,,,,0.04
+2016,Male,Psychological abuse,,,,0.04
+2017,Male,Psychological abuse,,,,0.05
+2018,Male,Psychological abuse,,,,0.06
+2019,Male,Psychological abuse,,,,0.06
+2020,Male,Psychological abuse,,,,0.07
+2021,Male,Psychological abuse,,,,0.07
+2022,Male,Psychological abuse,,,,0.08
+2023,Male,Psychological abuse,,,,0.09

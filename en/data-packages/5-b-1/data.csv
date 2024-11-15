@@ -1,28 +1,28 @@
-Year,COMMENT_OBS_0,Series,Value
-2010,,Private households with at least one mobile phone,88.9
-2011,,Private households with at least one mobile phone,90.0
-2012,,Private households with at least one mobile phone,90.3
-2013,,Private households with at least one mobile phone,92.7
-2014,,Private households with at least one mobile phone,93.6
-2015,,Private households with at least one mobile phone,93.5
-2016,,Private households with at least one mobile phone,95.1
-2017,,Private households with at least one mobile phone,95.5
-2018,,Private households with at least one mobile phone,96.7
-2019,,Private households with at least one mobile phone,97.0
-2020,,Private households with at least one mobile phone,97.5
-2021,,Private households with at least one mobile phone,97.6
-2022,,Private households with at least one mobile phone,98.1
-2010,.,Mobile penetration rate,
-2011,.,Mobile penetration rate,
-2012,,Mobile penetration rate,120.5
-2013,,Mobile penetration rate,127.9
-2014,,Mobile penetration rate,126.4
-2015,,Mobile penetration rate,129.9
-2016,,Mobile penetration rate,132.6
-2017,,Mobile penetration rate,132.5
-2018,,Mobile penetration rate,129.5
-2019,,Mobile penetration rate,128.8
-2020,,Mobile penetration rate,129.2
-2021,,Mobile penetration rate,127.9
-2022,,Mobile penetration rate,124.0
-2023,,Mobile penetration rate,124.0
+Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,,,,Private households with at least one mobile phone,88.9
+2011,,,,Private households with at least one mobile phone,90.0
+2012,,,,Private households with at least one mobile phone,90.3
+2013,,,,Private households with at least one mobile phone,92.7
+2014,,,,Private households with at least one mobile phone,93.6
+2015,,,,Private households with at least one mobile phone,93.5
+2016,,,,Private households with at least one mobile phone,95.1
+2017,,,,Private households with at least one mobile phone,95.5
+2018,,,,Private households with at least one mobile phone,96.7
+2019,,,,Private households with at least one mobile phone,97.0
+2020,,,,Private households with at least one mobile phone,97.5
+2021,,,,Private households with at least one mobile phone,97.6
+2022,,,,Private households with at least one mobile phone,98.1
+2010,.,,,Mobile penetration rate,
+2011,.,,,Mobile penetration rate,
+2012,,,,Mobile penetration rate,120.5
+2013,,,,Mobile penetration rate,127.9
+2014,,,,Mobile penetration rate,126.4
+2015,,,,Mobile penetration rate,129.9
+2016,,,,Mobile penetration rate,132.6
+2017,,,,Mobile penetration rate,132.5
+2018,,,,Mobile penetration rate,129.5
+2019,,,,Mobile penetration rate,128.8
+2020,,,,Mobile penetration rate,129.2
+2021,,,,Mobile penetration rate,127.9
+2022,,,,Mobile penetration rate,124.0
+2023,,,,Mobile penetration rate,124.0

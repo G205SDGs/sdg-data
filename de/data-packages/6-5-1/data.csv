@@ -1,16 +1,16 @@
-Year,Abschnitt,Value
-2017,Endbewertung,88
-2020,Endbewertung,89
-2023,Endbewertung,88
-2017,Rahmenbedingungen,96
-2020,Rahmenbedingungen,94
-2023,Rahmenbedingungen,94
-2017,Institutionen und Beteiligung,89
-2020,Institutionen und Beteiligung,89
-2023,Institutionen und Beteiligung,85
-2017,Managementinstrumente,83
-2020,Managementinstrumente,87
-2023,Managementinstrumente,87
-2017,Finanzierung,84
-2020,Finanzierung,85
-2023,Finanzierung,85
+Year,Abschnitt,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2017,Endbewertung,,,,88
+2020,Endbewertung,,,,89
+2023,Endbewertung,,,,88
+2017,Rahmenbedingungen,,,,96
+2020,Rahmenbedingungen,,,,94
+2023,Rahmenbedingungen,,,,94
+2017,Institutionen und Beteiligung,,,,89
+2020,Institutionen und Beteiligung,,,,89
+2023,Institutionen und Beteiligung,,,,85
+2017,Managementinstrumente,,,,83
+2020,Managementinstrumente,,,,87
+2023,Managementinstrumente,,,,87
+2017,Finanzierung,,,,84
+2020,Finanzierung,,,,85
+2023,Finanzierung,,,,85

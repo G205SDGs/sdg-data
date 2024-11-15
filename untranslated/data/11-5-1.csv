@@ -1,155 +1,155 @@
-Year,cause of death,Value
-2010,,0.2
-2011,,0.1
-2012,,0.2
-2013,,0.2
-2014,,0.1
-2015,,0.2
-2016,,0.1
-2017,,0.2
-2018,,0.2
-2019,,0.2
-2020,,0.1
-2021,,0.4
-2022,,0.3
-2023,,0.3
-2010,exposure to excessive natural heat,0.0
-2011,exposure to excessive natural heat,0.0
-2012,exposure to excessive natural heat,0.0
-2013,exposure to excessive natural heat,0.0
-2014,exposure to excessive natural heat,0.0
-2015,exposure to excessive natural heat,0.1
-2016,exposure to excessive natural heat,0.0
-2017,exposure to excessive natural heat,0.0
-2018,exposure to excessive natural heat,0.0
-2019,exposure to excessive natural heat,0.0
-2020,exposure to excessive natural heat,0.0
-2021,exposure to excessive natural heat,0.0
-2022,exposure to excessive natural heat,0.0
-2023,exposure to excessive natural heat,0.0
-2010,exposure to excessive natural cold,0.2
-2011,exposure to excessive natural cold,0.1
-2012,exposure to excessive natural cold,0.2
-2013,exposure to excessive natural cold,0.2
-2014,exposure to excessive natural cold,0.1
-2015,exposure to excessive natural cold,0.1
-2016,exposure to excessive natural cold,0.1
-2017,exposure to excessive natural cold,0.2
-2018,exposure to excessive natural cold,0.2
-2019,exposure to excessive natural cold,0.2
-2020,exposure to excessive natural cold,0.1
-2021,exposure to excessive natural cold,0.2
-2022,exposure to excessive natural cold,0.2
-2023,exposure to excessive natural cold,0.2
-2010,exposure to sunlight,0.0
-2011,exposure to sunlight,
-2012,exposure to sunlight,
-2013,exposure to sunlight,
-2014,exposure to sunlight,
-2015,exposure to sunlight,
-2016,exposure to sunlight,
-2017,exposure to sunlight,
-2018,exposure to sunlight,0.0
-2019,exposure to sunlight,0.0
-2020,exposure to sunlight,0.0
-2021,exposure to sunlight,0.0
-2022,exposure to sunlight,0.0
-2023,exposure to sunlight,
-2010,victim of lightning,
-2011,victim of lightning,0.0
-2012,victim of lightning,0.0
-2013,victim of lightning,0.0
-2014,victim of lightning,0.0
-2015,victim of lightning,0.0
-2016,victim of lightning,0.0
-2017,victim of lightning,0.0
-2018,victim of lightning,0.0
-2019,victim of lightning,
-2020,victim of lightning,0.0
-2021,victim of lightning,0.0
-2022,victim of lightning,0.0
-2023,victim of lightning,0.0
-2010,victim of earthquake,
-2011,victim of earthquake,
-2012,victim of earthquake,
-2013,victim of earthquake,
-2014,victim of earthquake,
-2015,victim of earthquake,
-2016,victim of earthquake,
-2017,victim of earthquake,
-2018,victim of earthquake,
-2019,victim of earthquake,
-2020,victim of earthquake,
-2021,victim of earthquake,
-2022,victim of earthquake,
-2023,victim of earthquake,
-2010,victim of volcanic eruption,
-2011,victim of volcanic eruption,
-2012,victim of volcanic eruption,
-2013,victim of volcanic eruption,
-2014,victim of volcanic eruption,
-2015,victim of volcanic eruption,
-2016,victim of volcanic eruption,
-2017,victim of volcanic eruption,
-2018,victim of volcanic eruption,
-2019,victim of volcanic eruption,
-2020,victim of volcanic eruption,
-2021,victim of volcanic eruption,
-2022,victim of volcanic eruption,
-2023,victim of volcanic eruption,
-2010,"victim of avalanche, landslide and other earth movements",0.0
-2011,"victim of avalanche, landslide and other earth movements",0.0
-2012,"victim of avalanche, landslide and other earth movements",0.0
-2013,"victim of avalanche, landslide and other earth movements",0.0
-2014,"victim of avalanche, landslide and other earth movements",0.0
-2015,"victim of avalanche, landslide and other earth movements",0.0
-2016,"victim of avalanche, landslide and other earth movements",0.0
-2017,"victim of avalanche, landslide and other earth movements",
-2018,"victim of avalanche, landslide and other earth movements",0.0
-2019,"victim of avalanche, landslide and other earth movements",0.0
-2020,"victim of avalanche, landslide and other earth movements",
-2021,"victim of avalanche, landslide and other earth movements",
-2022,"victim of avalanche, landslide and other earth movements",0.0
-2023,"victim of avalanche, landslide and other earth movements",
-2010,victim of cataclysmic storm,0.0
-2011,victim of cataclysmic storm,0.0
-2012,victim of cataclysmic storm,
-2013,victim of cataclysmic storm,
-2014,victim of cataclysmic storm,
-2015,victim of cataclysmic storm,0.0
-2016,victim of cataclysmic storm,
-2017,victim of cataclysmic storm,
-2018,victim of cataclysmic storm,0.0
-2019,victim of cataclysmic storm,0.0
-2020,victim of cataclysmic storm,0.0
-2021,victim of cataclysmic storm,
-2022,victim of cataclysmic storm,0.0
-2023,victim of cataclysmic storm,
-2010,victim of flood,
-2011,victim of flood,
-2012,victim of flood,
-2013,victim of flood,0.0
-2014,victim of flood,
-2015,victim of flood,
-2016,victim of flood,0.0
-2017,victim of flood,0.0
-2018,victim of flood,
-2019,victim of flood,
-2020,victim of flood,
-2021,victim of flood,0.2
-2022,victim of flood,
-2023,victim of flood,0.0
-2010,exposure to other and unspecified forces of nature,0.0
-2011,exposure to other and unspecified forces of nature,0.0
-2012,exposure to other and unspecified forces of nature,0.0
-2013,exposure to other and unspecified forces of nature,
-2014,exposure to other and unspecified forces of nature,
-2015,exposure to other and unspecified forces of nature,
-2016,exposure to other and unspecified forces of nature,
-2017,exposure to other and unspecified forces of nature,
-2018,exposure to other and unspecified forces of nature,
-2019,exposure to other and unspecified forces of nature,
-2020,exposure to other and unspecified forces of nature,
-2021,exposure to other and unspecified forces of nature,
-2022,exposure to other and unspecified forces of nature,0.0
-2023,exposure to other and unspecified forces of nature,
+Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,,,,,0.2
+2011,,,,,0.1
+2012,,,,,0.2
+2013,,,,,0.2
+2014,,,,,0.1
+2015,,,,,0.2
+2016,,,,,0.1
+2017,,,,,0.2
+2018,,,,,0.2
+2019,,,,,0.2
+2020,,,,,0.1
+2021,,,,,0.4
+2022,,,,,0.3
+2023,,,,,0.3
+2010,exposure to excessive natural heat,0,,,0.0
+2011,exposure to excessive natural heat,0,,,0.0
+2012,exposure to excessive natural heat,0,,,0.0
+2013,exposure to excessive natural heat,0,,,0.0
+2014,exposure to excessive natural heat,0,,,0.0
+2015,exposure to excessive natural heat,,,,0.1
+2016,exposure to excessive natural heat,0,,,0.0
+2017,exposure to excessive natural heat,0,,,0.0
+2018,exposure to excessive natural heat,0,,,0.0
+2019,exposure to excessive natural heat,0,,,0.0
+2020,exposure to excessive natural heat,0,,,0.0
+2021,exposure to excessive natural heat,0,,,0.0
+2022,exposure to excessive natural heat,0,,,0.0
+2023,exposure to excessive natural heat,0,,,0.0
+2010,exposure to excessive natural cold,,,,0.2
+2011,exposure to excessive natural cold,,,,0.1
+2012,exposure to excessive natural cold,,,,0.2
+2013,exposure to excessive natural cold,,,,0.2
+2014,exposure to excessive natural cold,,,,0.1
+2015,exposure to excessive natural cold,,,,0.1
+2016,exposure to excessive natural cold,,,,0.1
+2017,exposure to excessive natural cold,,,,0.2
+2018,exposure to excessive natural cold,,,,0.2
+2019,exposure to excessive natural cold,,,,0.2
+2020,exposure to excessive natural cold,,,,0.1
+2021,exposure to excessive natural cold,,,,0.2
+2022,exposure to excessive natural cold,,,,0.2
+2023,exposure to excessive natural cold,,,,0.2
+2010,exposure to sunlight,0,,,0.0
+2011,exposure to sunlight,‒,,,0.0
+2012,exposure to sunlight,‒,,,0.0
+2013,exposure to sunlight,‒,,,0.0
+2014,exposure to sunlight,‒,,,0.0
+2015,exposure to sunlight,‒,,,0.0
+2016,exposure to sunlight,‒,,,0.0
+2017,exposure to sunlight,‒,,,0.0
+2018,exposure to sunlight,0,,,0.0
+2019,exposure to sunlight,0,,,0.0
+2020,exposure to sunlight,0,,,0.0
+2021,exposure to sunlight,0,,,0.0
+2022,exposure to sunlight,0,,,0.0
+2023,exposure to sunlight,‒,,,0.0
+2010,victim of lightning,‒,,,0.0
+2011,victim of lightning,0,,,0.0
+2012,victim of lightning,0,,,0.0
+2013,victim of lightning,0,,,0.0
+2014,victim of lightning,0,,,0.0
+2015,victim of lightning,0,,,0.0
+2016,victim of lightning,0,,,0.0
+2017,victim of lightning,0,,,0.0
+2018,victim of lightning,0,,,0.0
+2019,victim of lightning,‒,,,0.0
+2020,victim of lightning,0,,,0.0
+2021,victim of lightning,0,,,0.0
+2022,victim of lightning,0,,,0.0
+2023,victim of lightning,0,,,0.0
+2010,victim of earthquake,‒,,,0.0
+2011,victim of earthquake,‒,,,0.0
+2012,victim of earthquake,‒,,,0.0
+2013,victim of earthquake,‒,,,0.0
+2014,victim of earthquake,‒,,,0.0
+2015,victim of earthquake,‒,,,0.0
+2016,victim of earthquake,‒,,,0.0
+2017,victim of earthquake,‒,,,0.0
+2018,victim of earthquake,‒,,,0.0
+2019,victim of earthquake,‒,,,0.0
+2020,victim of earthquake,‒,,,0.0
+2021,victim of earthquake,‒,,,0.0
+2022,victim of earthquake,‒,,,0.0
+2023,victim of earthquake,‒,,,0.0
+2010,victim of volcanic eruption,‒,,,0.0
+2011,victim of volcanic eruption,‒,,,0.0
+2012,victim of volcanic eruption,‒,,,0.0
+2013,victim of volcanic eruption,‒,,,0.0
+2014,victim of volcanic eruption,‒,,,0.0
+2015,victim of volcanic eruption,‒,,,0.0
+2016,victim of volcanic eruption,‒,,,0.0
+2017,victim of volcanic eruption,‒,,,0.0
+2018,victim of volcanic eruption,‒,,,0.0
+2019,victim of volcanic eruption,‒,,,0.0
+2020,victim of volcanic eruption,‒,,,0.0
+2021,victim of volcanic eruption,‒,,,0.0
+2022,victim of volcanic eruption,‒,,,0.0
+2023,victim of volcanic eruption,‒,,,0.0
+2010,"victim of avalanche, landslide and other earth movements",0,,,0.0
+2011,"victim of avalanche, landslide and other earth movements",0,,,0.0
+2012,"victim of avalanche, landslide and other earth movements",0,,,0.0
+2013,"victim of avalanche, landslide and other earth movements",0,,,0.0
+2014,"victim of avalanche, landslide and other earth movements",0,,,0.0
+2015,"victim of avalanche, landslide and other earth movements",0,,,0.0
+2016,"victim of avalanche, landslide and other earth movements",0,,,0.0
+2017,"victim of avalanche, landslide and other earth movements",‒,,,0.0
+2018,"victim of avalanche, landslide and other earth movements",‒,,,0.0
+2019,"victim of avalanche, landslide and other earth movements",‒,,,0.0
+2020,"victim of avalanche, landslide and other earth movements",‒,,,0.0
+2021,"victim of avalanche, landslide and other earth movements",‒,,,0.0
+2022,"victim of avalanche, landslide and other earth movements",0,,,0.0
+2023,"victim of avalanche, landslide and other earth movements",‒,,,0.0
+2010,victim of cataclysmic storm,0,,,0.0
+2011,victim of cataclysmic storm,0,,,0.0
+2012,victim of cataclysmic storm,‒,,,0.0
+2013,victim of cataclysmic storm,‒,,,0.0
+2014,victim of cataclysmic storm,‒,,,0.0
+2015,victim of cataclysmic storm,0,,,0.0
+2016,victim of cataclysmic storm,‒,,,0.0
+2017,victim of cataclysmic storm,‒,,,0.0
+2018,victim of cataclysmic storm,0,,,0.0
+2019,victim of cataclysmic storm,0,,,0.0
+2020,victim of cataclysmic storm,0,,,0.0
+2021,victim of cataclysmic storm,‒,,,0.0
+2022,victim of cataclysmic storm,0,,,0.0
+2023,victim of cataclysmic storm,‒,,,0.0
+2010,victim of flood,‒,,,0.0
+2011,victim of flood,‒,,,0.0
+2012,victim of flood,‒,,,0.0
+2013,victim of flood,0,,,0.0
+2014,victim of flood,‒,,,0.0
+2015,victim of flood,‒,,,0.0
+2016,victim of flood,0,,,0.0
+2017,victim of flood,0,,,0.0
+2018,victim of flood,‒,,,0.0
+2019,victim of flood,‒,,,0.0
+2020,victim of flood,‒,,,0.0
+2021,victim of flood,,,,0.2
+2022,victim of flood,‒,,,0.0
+2023,victim of flood,0,,,0.0
+2010,exposure to other and unspecified forces of nature,0,,,0.0
+2011,exposure to other and unspecified forces of nature,0,,,0.0
+2012,exposure to other and unspecified forces of nature,0,,,0.0
+2013,exposure to other and unspecified forces of nature,‒,,,0.0
+2014,exposure to other and unspecified forces of nature,‒,,,0.0
+2015,exposure to other and unspecified forces of nature,‒,,,0.0
+2016,exposure to other and unspecified forces of nature,‒,,,0.0
+2017,exposure to other and unspecified forces of nature,‒,,,0.0
+2018,exposure to other and unspecified forces of nature,‒,,,0.0
+2019,exposure to other and unspecified forces of nature,‒,,,0.0
+2020,exposure to other and unspecified forces of nature,‒,,,0.0
+2021,exposure to other and unspecified forces of nature,‒,,,0.0
+2022,exposure to other and unspecified forces of nature,0,,,0.0
+2023,exposure to other and unspecified forces of nature,‒,,,0.0

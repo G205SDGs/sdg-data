@@ -1,29 +1,29 @@
-Year,Zeitreihe,COMMENT_OBS_0,Value
-2010,Arten- und Landschaftsschutz (COFOG 5.4),r,1.084
-2011,Arten- und Landschaftsschutz (COFOG 5.4),r,1.206
-2012,Arten- und Landschaftsschutz (COFOG 5.4),r,1.231
-2013,Arten- und Landschaftsschutz (COFOG 5.4),r,1.283
-2014,Arten- und Landschaftsschutz (COFOG 5.4),r,1.408
-2015,Arten- und Landschaftsschutz (COFOG 5.4),r,1.439
-2016,Arten- und Landschaftsschutz (COFOG 5.4),r,1.491
-2017,Arten- und Landschaftsschutz (COFOG 5.4),r,1.604
-2018,Arten- und Landschaftsschutz (COFOG 5.4),r,1.602
-2019,Arten- und Landschaftsschutz (COFOG 5.4),r,1.736
-2020,Arten- und Landschaftsschutz (COFOG 5.4),,1.715
-2021,Arten- und Landschaftsschutz (COFOG 5.4),p,1.843
-2022,Arten- und Landschaftsschutz (COFOG 5.4),p,1.955
-2023,Arten- und Landschaftsschutz (COFOG 5.4),p,2.376
-2010,Kultur (COFOG 8.2),,9.804
-2011,Kultur (COFOG 8.2),,10.427
-2012,Kultur (COFOG 8.2),,10.417
-2013,Kultur (COFOG 8.2),,10.838
-2014,Kultur (COFOG 8.2),,11.458
-2015,Kultur (COFOG 8.2),,11.58
-2016,Kultur (COFOG 8.2),,11.82
-2017,Kultur (COFOG 8.2),,12.407
-2018,Kultur (COFOG 8.2),,12.791
-2019,Kultur (COFOG 8.2),,13.688
-2020,Kultur (COFOG 8.2),,14.137
-2021,Kultur (COFOG 8.2),p,13.788
-2022,Kultur (COFOG 8.2),p,14.51
-2023,Kultur (COFOG 8.2),p,16.023
+Year,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Arten- und Landschaftsschutz (COFOG 5.4),r,,,1.084
+2011,Arten- und Landschaftsschutz (COFOG 5.4),r,,,1.206
+2012,Arten- und Landschaftsschutz (COFOG 5.4),r,,,1.231
+2013,Arten- und Landschaftsschutz (COFOG 5.4),r,,,1.283
+2014,Arten- und Landschaftsschutz (COFOG 5.4),r,,,1.408
+2015,Arten- und Landschaftsschutz (COFOG 5.4),r,,,1.439
+2016,Arten- und Landschaftsschutz (COFOG 5.4),r,,,1.491
+2017,Arten- und Landschaftsschutz (COFOG 5.4),r,,,1.604
+2018,Arten- und Landschaftsschutz (COFOG 5.4),r,,,1.602
+2019,Arten- und Landschaftsschutz (COFOG 5.4),r,,,1.736
+2020,Arten- und Landschaftsschutz (COFOG 5.4),,,,1.715
+2021,Arten- und Landschaftsschutz (COFOG 5.4),p,,,1.843
+2022,Arten- und Landschaftsschutz (COFOG 5.4),p,,,1.955
+2023,Arten- und Landschaftsschutz (COFOG 5.4),p,,,2.376
+2010,Kultur (COFOG 8.2),r,,,9.804
+2011,Kultur (COFOG 8.2),r,,,10.427
+2012,Kultur (COFOG 8.2),r,,,10.417
+2013,Kultur (COFOG 8.2),r,,,10.838
+2014,Kultur (COFOG 8.2),r,,,11.458
+2015,Kultur (COFOG 8.2),r,,,11.58
+2016,Kultur (COFOG 8.2),r,,,11.82
+2017,Kultur (COFOG 8.2),r,,,12.407
+2018,Kultur (COFOG 8.2),r,,,12.791
+2019,Kultur (COFOG 8.2),r,,,13.688
+2020,Kultur (COFOG 8.2),,,,14.137
+2021,Kultur (COFOG 8.2),p,,,13.788
+2022,Kultur (COFOG 8.2),p,,,14.51
+2023,Kultur (COFOG 8.2),p,,,16.023

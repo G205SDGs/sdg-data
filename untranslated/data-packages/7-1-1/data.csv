@@ -1,28 +1,28 @@
-Year,Units,Series,Value
-2010,percentage,population with access to electricity,100.0
-2011,percentage,population with access to electricity,100.0
-2012,percentage,population with access to electricity,100.0
-2013,percentage,population with access to electricity,100.0
-2014,percentage,population with access to electricity,100.0
-2015,percentage,population with access to electricity,100.0
-2016,percentage,population with access to electricity,100.0
-2017,percentage,population with access to electricity,100.0
-2018,percentage,population with access to electricity,100.0
-2019,percentage,population with access to electricity,100.0
-2020,percentage,population with access to electricity,100.0
-2021,percentage,population with access to electricity,100.0
-2022,percentage,population with access to electricity,100.0
-2023,percentage,population with access to electricity,100.0
-2010,"number in 1,000",households and small-sized enterprises connected to the electricity network,44391.3
-2011,"number in 1,000",households and small-sized enterprises connected to the electricity network,44766.6
-2012,"number in 1,000",households and small-sized enterprises connected to the electricity network,45722.9
-2013,"number in 1,000",households and small-sized enterprises connected to the electricity network,46105.0
-2014,"number in 1,000",households and small-sized enterprises connected to the electricity network,46918.7
-2015,"number in 1,000",households and small-sized enterprises connected to the electricity network,47283.1
-2016,"number in 1,000",households and small-sized enterprises connected to the electricity network,47606.5
-2017,"number in 1,000",households and small-sized enterprises connected to the electricity network,47241.7
-2018,"number in 1,000",households and small-sized enterprises connected to the electricity network,48394.5
-2019,"number in 1,000",households and small-sized enterprises connected to the electricity network,48441.5
-2020,"number in 1,000",households and small-sized enterprises connected to the electricity network,49137.9
-2021,"number in 1,000",households and small-sized enterprises connected to the electricity network,49296.9
-2022,"number in 1,000",households and small-sized enterprises connected to the electricity network,49061.7
+Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,percentage,,,,population with access to electricity,100.0
+2011,percentage,,,,population with access to electricity,100.0
+2012,percentage,,,,population with access to electricity,100.0
+2013,percentage,,,,population with access to electricity,100.0
+2014,percentage,,,,population with access to electricity,100.0
+2015,percentage,,,,population with access to electricity,100.0
+2016,percentage,,,,population with access to electricity,100.0
+2017,percentage,,,,population with access to electricity,100.0
+2018,percentage,,,,population with access to electricity,100.0
+2019,percentage,,,,population with access to electricity,100.0
+2020,percentage,,,,population with access to electricity,100.0
+2021,percentage,,,,population with access to electricity,100.0
+2022,percentage,,,,population with access to electricity,100.0
+2023,percentage,,,,population with access to electricity,100.0
+2010,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,44391.3
+2011,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,44766.6
+2012,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,45722.9
+2013,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,46105.0
+2014,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,46918.7
+2015,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,47283.1
+2016,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,47606.5
+2017,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,47241.7
+2018,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,48394.5
+2019,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,48441.5
+2020,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,49137.9
+2021,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,49296.9
+2022,"number in 1,000",,,,households and small-sized enterprises connected to the electricity network,49061.7

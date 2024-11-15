@@ -1,67 +1,67 @@
-Year,Units,Zeitreihe,COMMENT_OBS_0,Value
-2010,Millionen EUR,Insgesamt,.,
-2011,Millionen EUR,Insgesamt,.,
-2012,Millionen EUR,Insgesamt,.,
-2013,Millionen EUR,Insgesamt,.,
-2014,Millionen EUR,Insgesamt,,
-2015,Millionen EUR,Insgesamt,r,5930.0
-2016,Millionen EUR,Insgesamt,,5900.123
-2017,Millionen EUR,Insgesamt,,5687.281
-2018,Millionen EUR,Insgesamt,,5775.046
-2019,Millionen EUR,Insgesamt,,4414.115
-2020,Millionen EUR,Insgesamt,,3996.652
-2010,Millionen EUR,Steuervergünstigungen,.,
-2011,Millionen EUR,Steuervergünstigungen,.,
-2012,Millionen EUR,Steuervergünstigungen,.,
-2013,Millionen EUR,Steuervergünstigungen,.,
-2014,Millionen EUR,Steuervergünstigungen,.,
-2015,Millionen EUR,Steuervergünstigungen,,4679.637
-2016,Millionen EUR,Steuervergünstigungen,,4451.453
-2017,Millionen EUR,Steuervergünstigungen,,4486.55
-2018,Millionen EUR,Steuervergünstigungen,,4666.09
-2019,Millionen EUR,Steuervergünstigungen,,4414.115
-2020,Millionen EUR,Steuervergünstigungen,,3996.652
-2010,Millionen EUR,Direkte finanzielle Beihilfen,.,
-2011,Millionen EUR,Direkte finanzielle Beihilfen,.,
-2012,Millionen EUR,Direkte finanzielle Beihilfen,.,
-2013,Millionen EUR,Direkte finanzielle Beihilfen,.,
-2014,Millionen EUR,Direkte finanzielle Beihilfen,.,
-2015,Millionen EUR,Direkte finanzielle Beihilfen,r,1250.0
-2016,Millionen EUR,Direkte finanzielle Beihilfen,,1448.67
-2017,Millionen EUR,Direkte finanzielle Beihilfen,,1200.731
-2018,Millionen EUR,Direkte finanzielle Beihilfen,,1108.956
-2019,Millionen EUR,Direkte finanzielle Beihilfen,-,0.0
-2020,Millionen EUR,Direkte finanzielle Beihilfen,-,0.0
-2010,Prozent des BIP,Insgesamt,.,
-2011,Prozent des BIP,Insgesamt,.,
-2012,Prozent des BIP,Insgesamt,.,
-2013,Prozent des BIP,Insgesamt,.,
-2014,Prozent des BIP,Insgesamt,.,
-2015,Prozent des BIP,Insgesamt,r,0.196
-2016,Prozent des BIP,Insgesamt,,0.188
-2017,Prozent des BIP,Insgesamt,,0.174
-2018,Prozent des BIP,Insgesamt,,0.172
-2019,Prozent des BIP,Insgesamt,,0.127
-2020,Prozent des BIP,Insgesamt,,0.117
-2010,Prozent des BIP,Steuervergünstigungen,.,
-2011,Prozent des BIP,Steuervergünstigungen,.,
-2012,Prozent des BIP,Steuervergünstigungen,.,
-2013,Prozent des BIP,Steuervergünstigungen,.,
-2014,Prozent des BIP,Steuervergünstigungen,.,
-2015,Prozent des BIP,Steuervergünstigungen,,0.155
-2016,Prozent des BIP,Steuervergünstigungen,,0.142
-2017,Prozent des BIP,Steuervergünstigungen,,0.137
-2018,Prozent des BIP,Steuervergünstigungen,,0.139
-2019,Prozent des BIP,Steuervergünstigungen,,0.127
-2020,Prozent des BIP,Steuervergünstigungen,,0.117
-2010,Prozent des BIP,Direkte finanzielle Beihilfen,.,
-2011,Prozent des BIP,Direkte finanzielle Beihilfen,.,
-2012,Prozent des BIP,Direkte finanzielle Beihilfen,.,
-2013,Prozent des BIP,Direkte finanzielle Beihilfen,.,
-2014,Prozent des BIP,Direkte finanzielle Beihilfen,.,
-2015,Prozent des BIP,Direkte finanzielle Beihilfen,r,0.041
-2016,Prozent des BIP,Direkte finanzielle Beihilfen,,0.046
-2017,Prozent des BIP,Direkte finanzielle Beihilfen,,0.037
-2018,Prozent des BIP,Direkte finanzielle Beihilfen,,0.033
-2019,Prozent des BIP,Direkte finanzielle Beihilfen,-,0.0
-2020,Prozent des BIP,Direkte finanzielle Beihilfen,-,0.0
+Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Millionen EUR,Insgesamt,.,,,
+2011,Millionen EUR,Insgesamt,.,,,
+2012,Millionen EUR,Insgesamt,.,,,
+2013,Millionen EUR,Insgesamt,.,,,
+2014,Millionen EUR,Insgesamt,,,,
+2015,Millionen EUR,Insgesamt,r,,,5930.0
+2016,Millionen EUR,Insgesamt,,,,5900.123
+2017,Millionen EUR,Insgesamt,,,,5687.281
+2018,Millionen EUR,Insgesamt,,,,5775.046
+2019,Millionen EUR,Insgesamt,,,,4414.115
+2020,Millionen EUR,Insgesamt,,,,3996.652
+2010,Millionen EUR,Steuervergünstigungen,.,,,
+2011,Millionen EUR,Steuervergünstigungen,.,,,
+2012,Millionen EUR,Steuervergünstigungen,.,,,
+2013,Millionen EUR,Steuervergünstigungen,.,,,
+2014,Millionen EUR,Steuervergünstigungen,.,,,
+2015,Millionen EUR,Steuervergünstigungen,,,,4679.637
+2016,Millionen EUR,Steuervergünstigungen,,,,4451.453
+2017,Millionen EUR,Steuervergünstigungen,,,,4486.55
+2018,Millionen EUR,Steuervergünstigungen,,,,4666.09
+2019,Millionen EUR,Steuervergünstigungen,,,,4414.115
+2020,Millionen EUR,Steuervergünstigungen,,,,3996.652
+2010,Millionen EUR,Direkte finanzielle Beihilfen,.,,,
+2011,Millionen EUR,Direkte finanzielle Beihilfen,.,,,
+2012,Millionen EUR,Direkte finanzielle Beihilfen,.,,,
+2013,Millionen EUR,Direkte finanzielle Beihilfen,.,,,
+2014,Millionen EUR,Direkte finanzielle Beihilfen,.,,,
+2015,Millionen EUR,Direkte finanzielle Beihilfen,r,,,1250.0
+2016,Millionen EUR,Direkte finanzielle Beihilfen,,,,1448.67
+2017,Millionen EUR,Direkte finanzielle Beihilfen,,,,1200.731
+2018,Millionen EUR,Direkte finanzielle Beihilfen,,,,1108.956
+2019,Millionen EUR,Direkte finanzielle Beihilfen,-,,,0.0
+2020,Millionen EUR,Direkte finanzielle Beihilfen,-,,,0.0
+2010,Prozent des BIP,Insgesamt,.,,,
+2011,Prozent des BIP,Insgesamt,.,,,
+2012,Prozent des BIP,Insgesamt,.,,,
+2013,Prozent des BIP,Insgesamt,.,,,
+2014,Prozent des BIP,Insgesamt,.,,,
+2015,Prozent des BIP,Insgesamt,r,,,0.196
+2016,Prozent des BIP,Insgesamt,,,,0.188
+2017,Prozent des BIP,Insgesamt,,,,0.174
+2018,Prozent des BIP,Insgesamt,,,,0.172
+2019,Prozent des BIP,Insgesamt,,,,0.127
+2020,Prozent des BIP,Insgesamt,,,,0.117
+2010,Prozent des BIP,Steuervergünstigungen,.,,,
+2011,Prozent des BIP,Steuervergünstigungen,.,,,
+2012,Prozent des BIP,Steuervergünstigungen,.,,,
+2013,Prozent des BIP,Steuervergünstigungen,.,,,
+2014,Prozent des BIP,Steuervergünstigungen,.,,,
+2015,Prozent des BIP,Steuervergünstigungen,,,,0.155
+2016,Prozent des BIP,Steuervergünstigungen,,,,0.142
+2017,Prozent des BIP,Steuervergünstigungen,,,,0.137
+2018,Prozent des BIP,Steuervergünstigungen,,,,0.139
+2019,Prozent des BIP,Steuervergünstigungen,,,,0.127
+2020,Prozent des BIP,Steuervergünstigungen,,,,0.117
+2010,Prozent des BIP,Direkte finanzielle Beihilfen,.,,,
+2011,Prozent des BIP,Direkte finanzielle Beihilfen,.,,,
+2012,Prozent des BIP,Direkte finanzielle Beihilfen,.,,,
+2013,Prozent des BIP,Direkte finanzielle Beihilfen,.,,,
+2014,Prozent des BIP,Direkte finanzielle Beihilfen,.,,,
+2015,Prozent des BIP,Direkte finanzielle Beihilfen,r,,,0.041
+2016,Prozent des BIP,Direkte finanzielle Beihilfen,,,,0.046
+2017,Prozent des BIP,Direkte finanzielle Beihilfen,,,,0.037
+2018,Prozent des BIP,Direkte finanzielle Beihilfen,,,,0.033
+2019,Prozent des BIP,Direkte finanzielle Beihilfen,-,,,0.0
+2020,Prozent des BIP,Direkte finanzielle Beihilfen,-,,,0.0

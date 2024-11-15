@@ -1,7 +1,85 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,educational level,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,lower secondary education (isced level 2),,,,,93.9
+2011,lower secondary education (isced level 2),,,,,92.8
+2012,lower secondary education (isced level 2),,,,,93.1
+2013,lower secondary education (isced level 2),,,,,93.5
+2014,lower secondary education (isced level 2),,,,,93.8
+2015,lower secondary education (isced level 2),,,,,93.5
+2016,lower secondary education (isced level 2),,.,,,
+2017,lower secondary education (isced level 2),,.,,,
+2018,lower secondary education (isced level 2),,,,,92.8
+2019,lower secondary education (isced level 2),,,,,92.9
+2020,lower secondary education (isced level 2),,|,,,93.0
+2021,lower secondary education (isced level 2),,,,,91.6
+2022,lower secondary education (isced level 2),,,,,90.8
+2023,lower secondary education (isced level 2),,p,,,91.3
+2010,lower secondary education (isced level 2),female,,,,94.6
+2011,lower secondary education (isced level 2),female,,,,93.5
+2012,lower secondary education (isced level 2),female,,,,93.8
+2013,lower secondary education (isced level 2),female,,,,93.9
+2014,lower secondary education (isced level 2),female,,,,94.2
+2015,lower secondary education (isced level 2),female,,,,94.2
+2016,lower secondary education (isced level 2),female,.,,,
+2017,lower secondary education (isced level 2),female,.,,,
+2018,lower secondary education (isced level 2),female,,,,93.7
+2019,lower secondary education (isced level 2),female,,,,93.8
+2020,lower secondary education (isced level 2),female,|,,,94.6
+2021,lower secondary education (isced level 2),female,,,,92.8
+2022,lower secondary education (isced level 2),female,,,,91.8
+2023,lower secondary education (isced level 2),female,p,,,92.6
+2010,lower secondary education (isced level 2),male,,,,93.3
+2011,lower secondary education (isced level 2),male,,,,92.2
+2012,lower secondary education (isced level 2),male,,,,92.5
+2013,lower secondary education (isced level 2),male,,,,93.0
+2014,lower secondary education (isced level 2),male,,,,93.4
+2015,lower secondary education (isced level 2),male,,,,92.9
+2016,lower secondary education (isced level 2),male,.,,,
+2017,lower secondary education (isced level 2),male,.,,,
+2018,lower secondary education (isced level 2),male,,,,92.1
+2019,lower secondary education (isced level 2),male,,,,92.1
+2020,lower secondary education (isced level 2),male,|,,,91.6
+2021,lower secondary education (isced level 2),male,,,,90.6
+2022,lower secondary education (isced level 2),male,,,,89.9
+2023,lower secondary education (isced level 2),male,p,,,90.0
+2010,upper secondary education (isced level 3),,,,,77.2
+2011,upper secondary education (isced level 3),,,,,77.4
+2012,upper secondary education (isced level 3),,,,,76.7
+2013,upper secondary education (isced level 3),,,,,78.4
+2014,upper secondary education (isced level 3),,,,,78.9
+2015,upper secondary education (isced level 3),,,,,79.0
+2016,upper secondary education (isced level 3),,.,,,
+2017,upper secondary education (isced level 3),,.,,,
+2018,upper secondary education (isced level 3),,,,,79.2
+2019,upper secondary education (isced level 3),,,,,79.5
+2020,upper secondary education (isced level 3),,|,,,80.6
+2021,upper secondary education (isced level 3),,,,,77.1
+2022,upper secondary education (isced level 3),,,,,76.7
+2023,upper secondary education (isced level 3),,p,,,77.1
+2010,upper secondary education (isced level 3),female,,,,79.1
+2011,upper secondary education (isced level 3),female,,,,79.2
+2012,upper secondary education (isced level 3),female,,,,78.7
+2013,upper secondary education (isced level 3),female,,,,79.9
+2014,upper secondary education (isced level 3),female,,,,80.2
+2015,upper secondary education (isced level 3),female,,,,80.7
+2016,upper secondary education (isced level 3),female,.,,,
+2017,upper secondary education (isced level 3),female,.,,,
+2018,upper secondary education (isced level 3),female,,,,81.7
+2019,upper secondary education (isced level 3),female,,,,82.1
+2020,upper secondary education (isced level 3),female,|,,,84.3
+2021,upper secondary education (isced level 3),female,,,,80.7
+2022,upper secondary education (isced level 3),female,,,,80.0
+2023,upper secondary education (isced level 3),female,p,,,80.6
+2010,upper secondary education (isced level 3),male,,,,75.3
+2011,upper secondary education (isced level 3),male,,,,75.7
+2012,upper secondary education (isced level 3),male,,,,74.9
+2013,upper secondary education (isced level 3),male,,,,77.0
+2014,upper secondary education (isced level 3),male,,,,77.6
+2015,upper secondary education (isced level 3),male,,,,77.4
+2016,upper secondary education (isced level 3),male,.,,,
+2017,upper secondary education (isced level 3),male,.,,,
+2018,upper secondary education (isced level 3),male,,,,76.9
+2019,upper secondary education (isced level 3),male,,,,77.2
+2020,upper secondary education (isced level 3),male,|,,,77.2
+2021,upper secondary education (isced level 3),male,,,,73.8
+2022,upper secondary education (isced level 3),male,,,,73.7
+2023,upper secondary education (isced level 3),male,p,,,73.9

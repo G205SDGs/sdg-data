@@ -1,27 +1,27 @@
-Year,Units,Series,Value
-2010,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,
-2011,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,
-2012,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,
-2013,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,113.0
-2014,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,112.2
-2015,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,83.25
-2016,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,60.5
-2017,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,63.0
-2018,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,62.0
-2019,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,57.0
-2020,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,55.5
-2021,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,43.5
-2022,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,57.5
-2023,number of pieces of platic waste per 100 meters of beach length,plastic waste on the beaches of the german north sea coast,45.5
-2010,percentage,plastic particles in fulmar stomachs,61.6
-2011,percentage,plastic particles in fulmar stomachs,61.4
-2012,percentage,plastic particles in fulmar stomachs,56.6
-2013,percentage,plastic particles in fulmar stomachs,56.4
-2014,percentage,plastic particles in fulmar stomachs,59.5
-2015,percentage,plastic particles in fulmar stomachs,59.0
-2016,percentage,plastic particles in fulmar stomachs,59.1
-2017,percentage,plastic particles in fulmar stomachs,58.9
-2018,percentage,plastic particles in fulmar stomachs,55.8
-2019,percentage,plastic particles in fulmar stomachs,51.2
-2020,percentage,plastic particles in fulmar stomachs,50.0
-2021,percentage,plastic particles in fulmar stomachs,48.5
+Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,number of pieces of platic waste per 100 meters of beach length,.,,,plastic waste on the beaches of the german north sea coast,
+2011,number of pieces of platic waste per 100 meters of beach length,.,,,plastic waste on the beaches of the german north sea coast,
+2012,number of pieces of platic waste per 100 meters of beach length,.,,,plastic waste on the beaches of the german north sea coast,
+2013,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,113.0
+2014,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,112.2
+2015,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,83.25
+2016,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,60.5
+2017,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,63.0
+2018,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,62.0
+2019,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,57.0
+2020,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,55.5
+2021,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,43.5
+2022,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,57.5
+2023,number of pieces of platic waste per 100 meters of beach length,,,,plastic waste on the beaches of the german north sea coast,45.5
+2010,percentage,,,,plastic particles in fulmar stomachs,61.6
+2011,percentage,,,,plastic particles in fulmar stomachs,61.4
+2012,percentage,,,,plastic particles in fulmar stomachs,56.6
+2013,percentage,,,,plastic particles in fulmar stomachs,56.4
+2014,percentage,,,,plastic particles in fulmar stomachs,59.5
+2015,percentage,,,,plastic particles in fulmar stomachs,59.0
+2016,percentage,,,,plastic particles in fulmar stomachs,59.1
+2017,percentage,,,,plastic particles in fulmar stomachs,58.9
+2018,percentage,,,,plastic particles in fulmar stomachs,55.8
+2019,percentage,,,,plastic particles in fulmar stomachs,51.2
+2020,percentage,,,,plastic particles in fulmar stomachs,50.0
+2021,percentage,,,,plastic particles in fulmar stomachs,48.5

@@ -1,1 +1,1 @@
-{"From":["timeseries"],"To":["availability"]}
+{"From":["timeseries","availability"],"To":["availability","COMMENT_OBS_0"]}

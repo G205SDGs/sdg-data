@@ -1,45 +1,45 @@
-Year,Zeitreihe,Verfügbarkeit,Value
-2010,Bevölkerung mit (eigener) Toilette,Ja,98.4
-2011,Bevölkerung mit (eigener) Toilette,Ja,99.1
-2012,Bevölkerung mit (eigener) Toilette,Ja,99.1
-2013,Bevölkerung mit (eigener) Toilette,Ja,99.9
-2014,Bevölkerung mit (eigener) Toilette,Ja,100.0
-2015,Bevölkerung mit (eigener) Toilette,Ja,99.9
-2016,Bevölkerung mit (eigener) Toilette,Ja,99.9
-2017,Bevölkerung mit (eigener) Toilette,Ja,99.9
-2018,Bevölkerung mit (eigener) Toilette,Ja,100.0
-2019,Bevölkerung mit (eigener) Toilette,Ja,99.8
-2020,Bevölkerung mit (eigener) Toilette,Ja,100.0
-2010,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,99.5
-2011,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,99.9
-2012,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,99.9
-2013,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,100.0
-2014,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,100.0
-2015,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,100.0
-2016,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,100.0
-2017,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,100.0
-2018,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,100.0
-2019,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,100.0
-2020,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,100.0
-2010,Bevölkerung mit (eigener) Toilette,Nein,1.6
-2011,Bevölkerung mit (eigener) Toilette,Nein,0.9
-2012,Bevölkerung mit (eigener) Toilette,Nein,0.9
-2013,Bevölkerung mit (eigener) Toilette,Nein,0.1
-2014,Bevölkerung mit (eigener) Toilette,Nein,0.0
-2015,Bevölkerung mit (eigener) Toilette,Nein,0.1
-2016,Bevölkerung mit (eigener) Toilette,Nein,0.1
-2017,Bevölkerung mit (eigener) Toilette,Nein,0.1
-2018,Bevölkerung mit (eigener) Toilette,Nein,0.0
-2019,Bevölkerung mit (eigener) Toilette,Nein,0.2
-2020,Bevölkerung mit (eigener) Toilette,Nein,0.0
-2010,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.5
-2011,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.1
-2012,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.1
-2013,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.0
-2014,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.0
-2015,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.0
-2016,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.0
-2017,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.0
-2018,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.0
-2019,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.0
-2020,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,0.0
+Year,Zeitreihe,Verfügbarkeit,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Bevölkerung mit (eigener) Toilette,Ja,,,,98.4
+2011,Bevölkerung mit (eigener) Toilette,Ja,,,,99.1
+2012,Bevölkerung mit (eigener) Toilette,Ja,,,,99.1
+2013,Bevölkerung mit (eigener) Toilette,Ja,,,,99.9
+2014,Bevölkerung mit (eigener) Toilette,Ja,,,,100.0
+2015,Bevölkerung mit (eigener) Toilette,Ja,,,,99.9
+2016,Bevölkerung mit (eigener) Toilette,Ja,,,,99.9
+2017,Bevölkerung mit (eigener) Toilette,Ja,,,,99.9
+2018,Bevölkerung mit (eigener) Toilette,Ja,,,,100.0
+2019,Bevölkerung mit (eigener) Toilette,Ja,,,,99.8
+2020,Bevölkerung mit (eigener) Toilette,Ja,|,,,100.0
+2010,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,,,,99.5
+2011,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,,,,99.9
+2012,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,,,,99.9
+2013,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,,,,100.0
+2014,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,,,,100.0
+2015,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,,,,100.0
+2016,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,,,,100.0
+2017,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,,,,100.0
+2018,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,,,,100.0
+2019,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,,,,100.0
+2020,Bevölkerung mit (eigener) Badewanne oder Dusche,Ja,|,,,100.0
+2010,Bevölkerung mit (eigener) Toilette,Nein,,,,1.6
+2011,Bevölkerung mit (eigener) Toilette,Nein,,,,0.9
+2012,Bevölkerung mit (eigener) Toilette,Nein,,,,0.9
+2013,Bevölkerung mit (eigener) Toilette,Nein,,,,0.1
+2014,Bevölkerung mit (eigener) Toilette,Nein,,,,0.0
+2015,Bevölkerung mit (eigener) Toilette,Nein,,,,0.1
+2016,Bevölkerung mit (eigener) Toilette,Nein,,,,0.1
+2017,Bevölkerung mit (eigener) Toilette,Nein,,,,0.1
+2018,Bevölkerung mit (eigener) Toilette,Nein,,,,0.0
+2019,Bevölkerung mit (eigener) Toilette,Nein,,,,0.2
+2020,Bevölkerung mit (eigener) Toilette,Nein,|,,,0.0
+2010,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,,,,0.5
+2011,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,,,,0.1
+2012,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,,,,0.1
+2013,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,,,,0.0
+2014,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,,,,0.0
+2015,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,,,,0.0
+2016,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,,,,0.0
+2017,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,,,,0.0
+2018,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,,,,0.0
+2019,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,,,,0.0
+2020,Bevölkerung mit (eigener) Badewanne oder Dusche,Nein,|,,,0.0

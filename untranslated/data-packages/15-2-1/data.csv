@@ -1,79 +1,79 @@
-Year,Units,type of biomass,COMMENT_OBS_0,Series,Value
-2010,million tonnes carbon,,,above-ground biomass stock in forest,1571.0
-2011,million tonnes carbon,,,above-ground biomass stock in forest,1584.9
-2012,million tonnes carbon,,,above-ground biomass stock in forest,1598.2
-2013,million tonnes carbon,,,above-ground biomass stock in forest,1611.9
-2014,million tonnes carbon,,,above-ground biomass stock in forest,1637.0
-2015,million tonnes carbon,,,above-ground biomass stock in forest,1645.0
-2016,million tonnes carbon,,,above-ground biomass stock in forest,1654.0
-2017,million tonnes carbon,,,above-ground biomass stock in forest,1662.0
-2018,million tonnes carbon,,,above-ground biomass stock in forest,1668.0
-2019,million tonnes carbon,,,above-ground biomass stock in forest,1671.0
-2020,million tonnes carbon,,,above-ground biomass stock in forest,1676.0
-2021,million tonnes carbon,,,above-ground biomass stock in forest,1681.0
-2012,percentage,,,forest area located within protected areas,0.7
-2015,percentage,,,forest area located within protected areas,0.9
-2018,percentage,,,forest area located within protected areas,0.9
-2010,percentage,,,forest area net change rate,0.1
-2011,percentage,,,forest area net change rate,0.1
-2012,percentage,,,forest area net change rate,0.2
-2013,percentage,,,forest area net change rate,0.9
-2014,percentage,,,forest area net change rate,0.2
-2015,percentage,,,forest area net change rate,0.2
-2016,percentage,,X,forest area net change rate,
-2017,percentage,,,forest area net change rate,0.2
-2018,percentage,,,forest area net change rate,0.2
-2019,percentage,,0,forest area net change rate,0.0
-2020,percentage,,,forest area net change rate,0.1
-2021,percentage,,,forest area net change rate,0.1
-2022,percentage,,,forest area net change rate,0.2
-2010,percentage,,,forest area under an independently verified forest management certification scheme,67.5
-2011,percentage,,,forest area under an independently verified forest management certification scheme,67.2
-2012,percentage,,,forest area under an independently verified forest management certification scheme,66.9
-2013,percentage,,,forest area under an independently verified forest management certification scheme,66.9
-2014,percentage,,,forest area under an independently verified forest management certification scheme,66.6
-2015,percentage,,,forest area under an independently verified forest management certification scheme,66.2
-2016,percentage,,r,forest area under an independently verified forest management certification scheme,66.9
-2017,percentage,,,forest area under an independently verified forest management certification scheme,67.2
-2018,percentage,,,forest area under an independently verified forest management certification scheme,68.6
-2019,percentage,,,forest area under an independently verified forest management certification scheme,69.1
-2020,percentage,,,forest area under an independently verified forest management certification scheme,73.9
-2021,percentage,,,forest area under an independently verified forest management certification scheme,79.2
-2022,percentage,,,forest area under an independently verified forest management certification scheme,79.4
-2023,percentage,,,forest area under an independently verified forest management certification scheme,79.4
-2010,million tonnes carbon,standig wood,,above-ground biomass stock in forest,1075.0
-2011,million tonnes carbon,standig wood,,above-ground biomass stock in forest,1084.6
-2012,million tonnes carbon,standig wood,,above-ground biomass stock in forest,1093.7
-2013,million tonnes carbon,standig wood,,above-ground biomass stock in forest,1103.1
-2014,million tonnes carbon,standig wood,,above-ground biomass stock in forest,890.0
-2015,million tonnes carbon,standig wood,r,above-ground biomass stock in forest,895.0
-2016,million tonnes carbon,standig wood,r,above-ground biomass stock in forest,900.0
-2017,million tonnes carbon,standig wood,r,above-ground biomass stock in forest,905.0
-2018,million tonnes carbon,standig wood,r,above-ground biomass stock in forest,908.0
-2019,million tonnes carbon,standig wood,r,above-ground biomass stock in forest,910.0
-2020,million tonnes carbon,standig wood,r,above-ground biomass stock in forest,913.0
-2021,million tonnes carbon,standig wood,p,above-ground biomass stock in forest,916.0
-2010,million tonnes carbon,other woody biomass,,above-ground biomass stock in forest,252.2
-2011,million tonnes carbon,other woody biomass,,above-ground biomass stock in forest,254.4
-2012,million tonnes carbon,other woody biomass,,above-ground biomass stock in forest,256.6
-2013,million tonnes carbon,other woody biomass,,above-ground biomass stock in forest,258.8
-2014,million tonnes carbon,other woody biomass,,above-ground biomass stock in forest,493.0
-2015,million tonnes carbon,other woody biomass,r,above-ground biomass stock in forest,495.0
-2016,million tonnes carbon,other woody biomass,r,above-ground biomass stock in forest,497.0
-2017,million tonnes carbon,other woody biomass,r,above-ground biomass stock in forest,499.0
-2018,million tonnes carbon,other woody biomass,r,above-ground biomass stock in forest,501.0
-2019,million tonnes carbon,other woody biomass,r,above-ground biomass stock in forest,502.0
-2020,million tonnes carbon,other woody biomass,r,above-ground biomass stock in forest,503.0
-2021,million tonnes carbon,other woody biomass,p,above-ground biomass stock in forest,504.0
-2010,million tonnes carbon,other biomass in forests,,above-ground biomass stock in forest,243.8
-2011,million tonnes carbon,other biomass in forests,,above-ground biomass stock in forest,246.0
-2012,million tonnes carbon,other biomass in forests,,above-ground biomass stock in forest,248.0
-2013,million tonnes carbon,other biomass in forests,,above-ground biomass stock in forest,250.0
-2014,million tonnes carbon,other biomass in forests,,above-ground biomass stock in forest,254.0
-2015,million tonnes carbon,other biomass in forests,r,above-ground biomass stock in forest,255.0
-2016,million tonnes carbon,other biomass in forests,r,above-ground biomass stock in forest,257.0
-2017,million tonnes carbon,other biomass in forests,r,above-ground biomass stock in forest,258.0
-2018,million tonnes carbon,other biomass in forests,r,above-ground biomass stock in forest,259.0
-2019,million tonnes carbon,other biomass in forests,r,above-ground biomass stock in forest,259.0
-2020,million tonnes carbon,other biomass in forests,r,above-ground biomass stock in forest,260.0
-2021,million tonnes carbon,other biomass in forests,p,above-ground biomass stock in forest,261.0
+Year,Units,type of biomass,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,million tonnes carbon,,,,,above-ground biomass stock in forest,1571.0
+2011,million tonnes carbon,,,,,above-ground biomass stock in forest,1584.9
+2012,million tonnes carbon,,,,,above-ground biomass stock in forest,1598.2
+2013,million tonnes carbon,,,,,above-ground biomass stock in forest,1611.9
+2014,million tonnes carbon,,,,,above-ground biomass stock in forest,1637.0
+2015,million tonnes carbon,,,,,above-ground biomass stock in forest,1645.0
+2016,million tonnes carbon,,,,,above-ground biomass stock in forest,1654.0
+2017,million tonnes carbon,,,,,above-ground biomass stock in forest,1662.0
+2018,million tonnes carbon,,,,,above-ground biomass stock in forest,1668.0
+2019,million tonnes carbon,,,,,above-ground biomass stock in forest,1671.0
+2020,million tonnes carbon,,,,,above-ground biomass stock in forest,1676.0
+2021,million tonnes carbon,,,,,above-ground biomass stock in forest,1681.0
+2012,percentage,,,,,forest area located within protected areas,0.7
+2015,percentage,,|,,,forest area located within protected areas,0.9
+2018,percentage,,,,,forest area located within protected areas,0.9
+2010,percentage,,,,,forest area net change rate,0.1
+2011,percentage,,,,,forest area net change rate,0.1
+2012,percentage,,,,,forest area net change rate,0.2
+2013,percentage,,,,,forest area net change rate,0.9
+2014,percentage,,,,,forest area net change rate,0.2
+2015,percentage,,,,,forest area net change rate,0.2
+2016,percentage,,X,,,forest area net change rate,
+2017,percentage,,,,,forest area net change rate,0.2
+2018,percentage,,,,,forest area net change rate,0.2
+2019,percentage,,0,,,forest area net change rate,0.0
+2020,percentage,,,,,forest area net change rate,0.1
+2021,percentage,,,,,forest area net change rate,0.1
+2022,percentage,,,,,forest area net change rate,0.2
+2010,percentage,,,,,forest area under an independently verified forest management certification scheme,67.5
+2011,percentage,,,,,forest area under an independently verified forest management certification scheme,67.2
+2012,percentage,,,,,forest area under an independently verified forest management certification scheme,66.9
+2013,percentage,,,,,forest area under an independently verified forest management certification scheme,66.9
+2014,percentage,,,,,forest area under an independently verified forest management certification scheme,66.6
+2015,percentage,,,,,forest area under an independently verified forest management certification scheme,66.2
+2016,percentage,,r,,,forest area under an independently verified forest management certification scheme,66.9
+2017,percentage,,,,,forest area under an independently verified forest management certification scheme,67.2
+2018,percentage,,,,,forest area under an independently verified forest management certification scheme,68.6
+2019,percentage,,,,,forest area under an independently verified forest management certification scheme,69.1
+2020,percentage,,,,,forest area under an independently verified forest management certification scheme,73.9
+2021,percentage,,,,,forest area under an independently verified forest management certification scheme,79.2
+2022,percentage,,,,,forest area under an independently verified forest management certification scheme,79.4
+2023,percentage,,,,,forest area under an independently verified forest management certification scheme,79.4
+2010,million tonnes carbon,standig wood,,,,above-ground biomass stock in forest,1075.0
+2011,million tonnes carbon,standig wood,,,,above-ground biomass stock in forest,1084.6
+2012,million tonnes carbon,standig wood,,,,above-ground biomass stock in forest,1093.7
+2013,million tonnes carbon,standig wood,,,,above-ground biomass stock in forest,1103.1
+2014,million tonnes carbon,standig wood,,,,above-ground biomass stock in forest,890.0
+2015,million tonnes carbon,standig wood,r,,,above-ground biomass stock in forest,895.0
+2016,million tonnes carbon,standig wood,r,,,above-ground biomass stock in forest,900.0
+2017,million tonnes carbon,standig wood,r,,,above-ground biomass stock in forest,905.0
+2018,million tonnes carbon,standig wood,r,,,above-ground biomass stock in forest,908.0
+2019,million tonnes carbon,standig wood,r,,,above-ground biomass stock in forest,910.0
+2020,million tonnes carbon,standig wood,r,,,above-ground biomass stock in forest,913.0
+2021,million tonnes carbon,standig wood,p,,,above-ground biomass stock in forest,916.0
+2010,million tonnes carbon,other woody biomass,,,,above-ground biomass stock in forest,252.2
+2011,million tonnes carbon,other woody biomass,,,,above-ground biomass stock in forest,254.4
+2012,million tonnes carbon,other woody biomass,,,,above-ground biomass stock in forest,256.6
+2013,million tonnes carbon,other woody biomass,,,,above-ground biomass stock in forest,258.8
+2014,million tonnes carbon,other woody biomass,,,,above-ground biomass stock in forest,493.0
+2015,million tonnes carbon,other woody biomass,r,,,above-ground biomass stock in forest,495.0
+2016,million tonnes carbon,other woody biomass,r,,,above-ground biomass stock in forest,497.0
+2017,million tonnes carbon,other woody biomass,r,,,above-ground biomass stock in forest,499.0
+2018,million tonnes carbon,other woody biomass,r,,,above-ground biomass stock in forest,501.0
+2019,million tonnes carbon,other woody biomass,r,,,above-ground biomass stock in forest,502.0
+2020,million tonnes carbon,other woody biomass,r,,,above-ground biomass stock in forest,503.0
+2021,million tonnes carbon,other woody biomass,p,,,above-ground biomass stock in forest,504.0
+2010,million tonnes carbon,other biomass in forests,,,,above-ground biomass stock in forest,243.8
+2011,million tonnes carbon,other biomass in forests,,,,above-ground biomass stock in forest,246.0
+2012,million tonnes carbon,other biomass in forests,,,,above-ground biomass stock in forest,248.0
+2013,million tonnes carbon,other biomass in forests,,,,above-ground biomass stock in forest,250.0
+2014,million tonnes carbon,other biomass in forests,,,,above-ground biomass stock in forest,254.0
+2015,million tonnes carbon,other biomass in forests,r,,,above-ground biomass stock in forest,255.0
+2016,million tonnes carbon,other biomass in forests,r,,,above-ground biomass stock in forest,257.0
+2017,million tonnes carbon,other biomass in forests,r,,,above-ground biomass stock in forest,258.0
+2018,million tonnes carbon,other biomass in forests,r,,,above-ground biomass stock in forest,259.0
+2019,million tonnes carbon,other biomass in forests,r,,,above-ground biomass stock in forest,259.0
+2020,million tonnes carbon,other biomass in forests,r,,,above-ground biomass stock in forest,260.0
+2021,million tonnes carbon,other biomass in forests,p,,,above-ground biomass stock in forest,261.0

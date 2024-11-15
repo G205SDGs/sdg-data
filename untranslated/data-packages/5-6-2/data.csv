@@ -1,9 +1,9 @@
-Year,thematic area,Value
-2021,,87
-2019,section 1: maternity care,69
-2021,section 1: maternity care,69
-2019,section 2: contraception and family planning,85
-2021,section 2: contraception and family planning,85
-2021,section 3: comprehensive sexuality education and information,100
-2019,section 4: hiv and hpv,100
-2021,section 4: hiv and hpv,100
+Year,thematic area,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2021,,,,,87
+2019,section 1: maternity care,r,,,69
+2021,section 1: maternity care,r,,,69
+2019,section 2: contraception and family planning,,,,85
+2021,section 2: contraception and family planning,,,,85
+2021,section 3: comprehensive sexuality education and information,,,,100
+2019,section 4: hiv and hpv,,,,100
+2021,section 4: hiv and hpv,,,,100

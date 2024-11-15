@@ -1,85 +1,85 @@
-Year,Units,Time series,Value
-2010,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.326
-2011,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.326
-2012,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.326
-2013,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.401
-2014,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.401
-2015,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.401
-2016,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.401
-2017,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.415
-2018,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.416
-2019,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.44
-2020,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.44
-2021,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.196
-2022,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.379
-2023,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,89.379
-2010,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1888322.648
-2011,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1888322.66
-2012,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1888325.569
-2013,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1889916.806
-2014,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1889916.806
-2015,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1889917.08
-2016,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1889917.08
-2017,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1890212.64
-2018,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1890228.909
-2019,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1890739.753
-2020,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1890739.753
-2021,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1885574.568
-2022,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1889444.756
-2023,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,1889444.76
-2010,Hectare,Marine areas covered by protected areas,2573079.952
-2011,Hectare,Marine areas covered by protected areas,2573084.987
-2012,Hectare,Marine areas covered by protected areas,2573111.579
-2013,Hectare,Marine areas covered by protected areas,2576762.745
-2014,Hectare,Marine areas covered by protected areas,2576762.745
-2015,Hectare,Marine areas covered by protected areas,2576778.718
-2016,Hectare,Marine areas covered by protected areas,2576778.718
-2017,Hectare,Marine areas covered by protected areas,2577709.038
-2018,Hectare,Marine areas covered by protected areas,2577766.587
-2019,Hectare,Marine areas covered by protected areas,2581616.907
-2020,Hectare,Marine areas covered by protected areas,2581616.907
-2021,Hectare,Marine areas covered by protected areas,2581616.907
-2022,Hectare,Marine areas covered by protected areas,2581585.92
-2023,Hectare,Marine areas covered by protected areas,2581585.92
-2010,Percentage,Marine areas covered by protected areas,45.26
-2011,Percentage,Marine areas covered by protected areas,45.26
-2012,Percentage,Marine areas covered by protected areas,45.261
-2013,Percentage,Marine areas covered by protected areas,45.325
-2014,Percentage,Marine areas covered by protected areas,45.325
-2015,Percentage,Marine areas covered by protected areas,45.325
-2016,Percentage,Marine areas covered by protected areas,45.325
-2017,Percentage,Marine areas covered by protected areas,45.342
-2018,Percentage,Marine areas covered by protected areas,45.343
-2019,Percentage,Marine areas covered by protected areas,45.41
-2020,Percentage,Marine areas covered by protected areas,45.41
-2021,Percentage,Marine areas covered by protected areas,45.41
-2022,Percentage,Marine areas covered by protected areas,45.41
-2023,Percentage,Marine areas covered by protected areas,45.41
-2010,Hectare,Marine areas covered by effective protected areas,2179802.882
-2011,Hectare,Marine areas covered by effective protected areas,2179803.77
-2012,Hectare,Marine areas covered by effective protected areas,2179803.77
-2013,Hectare,Marine areas covered by effective protected areas,2179803.77
-2014,Hectare,Marine areas covered by effective protected areas,2179803.77
-2015,Hectare,Marine areas covered by effective protected areas,2179804.385
-2016,Hectare,Marine areas covered by effective protected areas,2179804.385
-2017,Hectare,Marine areas covered by effective protected areas,2180865.779
-2018,Hectare,Marine areas covered by effective protected areas,2180878.567
-2019,Hectare,Marine areas covered by effective protected areas,2185090.117
-2020,Hectare,Marine areas covered by effective protected areas,
-2021,Hectare,Marine areas covered by effective protected areas,
-2022,Hectare,Marine areas covered by effective protected areas,
-2023,Hectare,Marine areas covered by effective protected areas,
-2010,Percentage,Marine areas covered by effective protected areas,38.343
-2011,Percentage,Marine areas covered by effective protected areas,38.343
-2012,Percentage,Marine areas covered by effective protected areas,38.343
-2013,Percentage,Marine areas covered by effective protected areas,38.343
-2014,Percentage,Marine areas covered by effective protected areas,38.343
-2015,Percentage,Marine areas covered by effective protected areas,38.343
-2016,Percentage,Marine areas covered by effective protected areas,38.343
-2017,Percentage,Marine areas covered by effective protected areas,38.361
-2018,Percentage,Marine areas covered by effective protected areas,38.362
-2019,Percentage,Marine areas covered by effective protected areas,38.436
-2020,Percentage,Marine areas covered by effective protected areas,
-2021,Percentage,Marine areas covered by effective protected areas,
-2022,Percentage,Marine areas covered by effective protected areas,
-2023,Percentage,Marine areas covered by effective protected areas,
+Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.326
+2011,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.326
+2012,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.326
+2013,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.401
+2014,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.401
+2015,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.401
+2016,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.401
+2017,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.415
+2018,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.416
+2019,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.44
+2020,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.44
+2021,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.196
+2022,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.379
+2023,Percentage,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,89.379
+2010,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1888322.648
+2011,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1888322.66
+2012,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1888325.569
+2013,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1889916.806
+2014,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1889916.806
+2015,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1889917.08
+2016,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1889917.08
+2017,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1890212.64
+2018,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1890228.909
+2019,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1890739.753
+2020,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1890739.753
+2021,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1885574.568
+2022,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1889444.756
+2023,Hectare,Marine Key Biodiversity Areas (KBAs) covered by protected areas,,,,1889444.76
+2010,Hectare,Marine areas covered by protected areas,,,,2573079.952
+2011,Hectare,Marine areas covered by protected areas,,,,2573084.987
+2012,Hectare,Marine areas covered by protected areas,,,,2573111.579
+2013,Hectare,Marine areas covered by protected areas,,,,2576762.745
+2014,Hectare,Marine areas covered by protected areas,,,,2576762.745
+2015,Hectare,Marine areas covered by protected areas,,,,2576778.718
+2016,Hectare,Marine areas covered by protected areas,,,,2576778.718
+2017,Hectare,Marine areas covered by protected areas,,,,2577709.038
+2018,Hectare,Marine areas covered by protected areas,,,,2577766.587
+2019,Hectare,Marine areas covered by protected areas,,,,2581616.907
+2020,Hectare,Marine areas covered by protected areas,,,,2581616.907
+2021,Hectare,Marine areas covered by protected areas,,,,2581616.907
+2022,Hectare,Marine areas covered by protected areas,,,,2581585.92
+2023,Hectare,Marine areas covered by protected areas,,,,2581585.92
+2010,Percentage,Marine areas covered by protected areas,,,,45.26
+2011,Percentage,Marine areas covered by protected areas,,,,45.26
+2012,Percentage,Marine areas covered by protected areas,,,,45.261
+2013,Percentage,Marine areas covered by protected areas,,,,45.325
+2014,Percentage,Marine areas covered by protected areas,,,,45.325
+2015,Percentage,Marine areas covered by protected areas,,,,45.325
+2016,Percentage,Marine areas covered by protected areas,,,,45.325
+2017,Percentage,Marine areas covered by protected areas,,,,45.342
+2018,Percentage,Marine areas covered by protected areas,,,,45.343
+2019,Percentage,Marine areas covered by protected areas,,,,45.41
+2020,Percentage,Marine areas covered by protected areas,,,,45.41
+2021,Percentage,Marine areas covered by protected areas,,,,45.41
+2022,Percentage,Marine areas covered by protected areas,,,,45.41
+2023,Percentage,Marine areas covered by protected areas,,,,45.41
+2010,Hectare,Marine areas covered by effective protected areas,,,,2179802.882
+2011,Hectare,Marine areas covered by effective protected areas,,,,2179803.77
+2012,Hectare,Marine areas covered by effective protected areas,,,,2179803.77
+2013,Hectare,Marine areas covered by effective protected areas,,,,2179803.77
+2014,Hectare,Marine areas covered by effective protected areas,,,,2179803.77
+2015,Hectare,Marine areas covered by effective protected areas,,,,2179804.385
+2016,Hectare,Marine areas covered by effective protected areas,,,,2179804.385
+2017,Hectare,Marine areas covered by effective protected areas,,,,2180865.779
+2018,Hectare,Marine areas covered by effective protected areas,,,,2180878.567
+2019,Hectare,Marine areas covered by effective protected areas,,,,2185090.117
+2020,Hectare,Marine areas covered by effective protected areas,,,,
+2021,Hectare,Marine areas covered by effective protected areas,,,,
+2022,Hectare,Marine areas covered by effective protected areas,,,,
+2023,Hectare,Marine areas covered by effective protected areas,,,,
+2010,Percentage,Marine areas covered by effective protected areas,,,,38.343
+2011,Percentage,Marine areas covered by effective protected areas,,,,38.343
+2012,Percentage,Marine areas covered by effective protected areas,,,,38.343
+2013,Percentage,Marine areas covered by effective protected areas,,,,38.343
+2014,Percentage,Marine areas covered by effective protected areas,,,,38.343
+2015,Percentage,Marine areas covered by effective protected areas,,,,38.343
+2016,Percentage,Marine areas covered by effective protected areas,,,,38.343
+2017,Percentage,Marine areas covered by effective protected areas,,,,38.361
+2018,Percentage,Marine areas covered by effective protected areas,,,,38.362
+2019,Percentage,Marine areas covered by effective protected areas,,,,38.436
+2020,Percentage,Marine areas covered by effective protected areas,,,,
+2021,Percentage,Marine areas covered by effective protected areas,,,,
+2022,Percentage,Marine areas covered by effective protected areas,,,,
+2023,Percentage,Marine areas covered by effective protected areas,,,,

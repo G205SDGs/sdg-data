@@ -1,21 +1,21 @@
-Year,water use index,Value
-2010,share of withdrawal in renewable water resources,16.4
-2011,share of withdrawal in renewable water resources,
-2012,share of withdrawal in renewable water resources,
-2013,share of withdrawal in renewable water resources,13.87
-2014,share of withdrawal in renewable water resources,
-2015,share of withdrawal in renewable water resources,
-2016,share of withdrawal in renewable water resources,15.67
-2017,share of withdrawal in renewable water resources,
-2018,share of withdrawal in renewable water resources,
-2019,share of withdrawal in renewable water resources,16.25
-2010,share of withdrawal in renewable water resources (excluding cooling water),4.41
-2011,share of withdrawal in renewable water resources (excluding cooling water),
-2012,share of withdrawal in renewable water resources (excluding cooling water),
-2013,share of withdrawal in renewable water resources (excluding cooling water),4.79
-2014,share of withdrawal in renewable water resources (excluding cooling water),
-2015,share of withdrawal in renewable water resources (excluding cooling water),
-2016,share of withdrawal in renewable water resources (excluding cooling water),5.56
-2017,share of withdrawal in renewable water resources (excluding cooling water),
-2018,share of withdrawal in renewable water resources (excluding cooling water),
-2019,share of withdrawal in renewable water resources (excluding cooling water),6.96
+Year,water use index,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,share of withdrawal in renewable water resources,r,,,16.4
+2011,share of withdrawal in renewable water resources,.,,,
+2012,share of withdrawal in renewable water resources,.,,,
+2013,share of withdrawal in renewable water resources,r,,,13.87
+2014,share of withdrawal in renewable water resources,.,,,
+2015,share of withdrawal in renewable water resources,.,,,
+2016,share of withdrawal in renewable water resources,r,,,15.67
+2017,share of withdrawal in renewable water resources,.,,,
+2018,share of withdrawal in renewable water resources,.,,,
+2019,share of withdrawal in renewable water resources,,,,16.25
+2010,share of withdrawal in renewable water resources (excluding cooling water),r,,,4.41
+2011,share of withdrawal in renewable water resources (excluding cooling water),.,,,
+2012,share of withdrawal in renewable water resources (excluding cooling water),.,,,
+2013,share of withdrawal in renewable water resources (excluding cooling water),r,,,4.79
+2014,share of withdrawal in renewable water resources (excluding cooling water),.,,,
+2015,share of withdrawal in renewable water resources (excluding cooling water),.,,,
+2016,share of withdrawal in renewable water resources (excluding cooling water),r,,,5.56
+2017,share of withdrawal in renewable water resources (excluding cooling water),.,,,
+2018,share of withdrawal in renewable water resources (excluding cooling water),.,,,
+2019,share of withdrawal in renewable water resources (excluding cooling water),,,,6.96

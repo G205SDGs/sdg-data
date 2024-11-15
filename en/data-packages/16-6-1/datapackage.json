@@ -16,6 +16,56 @@
             "title": "Year"
           },
           {
+            "name": "sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "General services",
+                "Education, science, research, cultural affairs",
+                "Energy and water management, trade, services",
+                "Food, agriculture and forestry",
+                "Financial services",
+                "Health, environment, sport and recreation",
+                "Social security, family and youth, labour market policy",
+                "Transport and communications",
+                "Housing, urban development, regional planning and municipal community services",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

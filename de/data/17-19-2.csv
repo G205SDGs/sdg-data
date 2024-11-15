@@ -1,43 +1,43 @@
-Year,Units,Zeitreihe,Value
-2010,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,0
-2011,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2012,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2013,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2014,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2015,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2016,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2017,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2018,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2019,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2020,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2021,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,0
-2022,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2023,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
-2010,Prozent,Registrierung der Geburten,100
-2011,Prozent,Registrierung der Geburten,100
-2012,Prozent,Registrierung der Geburten,100
-2013,Prozent,Registrierung der Geburten,100
-2014,Prozent,Registrierung der Geburten,100
-2015,Prozent,Registrierung der Geburten,100
-2016,Prozent,Registrierung der Geburten,100
-2017,Prozent,Registrierung der Geburten,100
-2018,Prozent,Registrierung der Geburten,100
-2019,Prozent,Registrierung der Geburten,100
-2020,Prozent,Registrierung der Geburten,100
-2021,Prozent,Registrierung der Geburten,100
-2022,Prozent,Registrierung der Geburten,100
-2023,Prozent,Registrierung der Geburten,100
-2010,Prozent,Registrierung der Sterbefälle,100
-2011,Prozent,Registrierung der Sterbefälle,100
-2012,Prozent,Registrierung der Sterbefälle,100
-2013,Prozent,Registrierung der Sterbefälle,100
-2014,Prozent,Registrierung der Sterbefälle,100
-2015,Prozent,Registrierung der Sterbefälle,100
-2016,Prozent,Registrierung der Sterbefälle,100
-2017,Prozent,Registrierung der Sterbefälle,100
-2018,Prozent,Registrierung der Sterbefälle,100
-2019,Prozent,Registrierung der Sterbefälle,100
-2020,Prozent,Registrierung der Sterbefälle,100
-2021,Prozent,Registrierung der Sterbefälle,100
-2022,Prozent,Registrierung der Sterbefälle,100
-2023,Prozent,Registrierung der Sterbefälle,100
+Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,-,,,0
+2011,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2012,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2013,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2014,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2015,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2016,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2017,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2018,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2019,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2020,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2021,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,0
+2022,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2023,Anzahl,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2010,Prozent,Registrierung der Geburten,s,,,100
+2011,Prozent,Registrierung der Geburten,s,,,100
+2012,Prozent,Registrierung der Geburten,s,,,100
+2013,Prozent,Registrierung der Geburten,s,,,100
+2014,Prozent,Registrierung der Geburten,s,,,100
+2015,Prozent,Registrierung der Geburten,s,,,100
+2016,Prozent,Registrierung der Geburten,s,,,100
+2017,Prozent,Registrierung der Geburten,s,,,100
+2018,Prozent,Registrierung der Geburten,s,,,100
+2019,Prozent,Registrierung der Geburten,s,,,100
+2020,Prozent,Registrierung der Geburten,s,,,100
+2021,Prozent,Registrierung der Geburten,s,,,100
+2022,Prozent,Registrierung der Geburten,s,,,100
+2023,Prozent,Registrierung der Geburten,s,,,100
+2010,Prozent,Registrierung der Sterbefälle,s,,,100
+2011,Prozent,Registrierung der Sterbefälle,s,,,100
+2012,Prozent,Registrierung der Sterbefälle,s,,,100
+2013,Prozent,Registrierung der Sterbefälle,s,,,100
+2014,Prozent,Registrierung der Sterbefälle,s,,,100
+2015,Prozent,Registrierung der Sterbefälle,s,,,100
+2016,Prozent,Registrierung der Sterbefälle,s,,,100
+2017,Prozent,Registrierung der Sterbefälle,s,,,100
+2018,Prozent,Registrierung der Sterbefälle,s,,,100
+2019,Prozent,Registrierung der Sterbefälle,s,,,100
+2020,Prozent,Registrierung der Sterbefälle,s,,,100
+2021,Prozent,Registrierung der Sterbefälle,s,,,100
+2022,Prozent,Registrierung der Sterbefälle,s,,,100
+2023,Prozent,Registrierung der Sterbefälle,s,,,100
