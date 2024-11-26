@@ -17,7 +17,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2012,Millionen EUR,Bruttoausgaben (ODA und OOF),,,,1.8
 2013,Millionen EUR,Bruttoausgaben (ODA und OOF),,,,10.6
 2014,Millionen EUR,Bruttoausgaben (ODA und OOF),,,,0.1
-2015,Millionen EUR,Bruttoausgaben (ODA und OOF),,,,0.0
+2015,Millionen EUR,Bruttoausgaben (ODA und OOF),0.0,,,0.0
 2016,Millionen EUR,Bruttoausgaben (ODA und OOF),,,,0.1
 2017,Millionen EUR,Bruttoausgaben (ODA und OOF),,,,0.1
 2018,Millionen EUR,Bruttoausgaben (ODA und OOF),,,,0.5
@@ -43,7 +43,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2012,"Millionen USD, konstante Preise (2022)",Bruttoausgaben (ODA und OOF),,,,2.4
 2013,"Millionen USD, konstante Preise (2022)",Bruttoausgaben (ODA und OOF),,,,13.8
 2014,"Millionen USD, konstante Preise (2022)",Bruttoausgaben (ODA und OOF),,,,0.1
-2015,"Millionen USD, konstante Preise (2022)",Bruttoausgaben (ODA und OOF),,,,0.0
+2015,"Millionen USD, konstante Preise (2022)",Bruttoausgaben (ODA und OOF),0.0,,,0.0
 2016,"Millionen USD, konstante Preise (2022)",Bruttoausgaben (ODA und OOF),,,,0.1
 2017,"Millionen USD, konstante Preise (2022)",Bruttoausgaben (ODA und OOF),,,,0.1
 2018,"Millionen USD, konstante Preise (2022)",Bruttoausgaben (ODA und OOF),,,,0.6

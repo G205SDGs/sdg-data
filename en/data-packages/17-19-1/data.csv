@@ -17,7 +17,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2012,Million EUR,Gross disbursements (ODA and OOF),,,,1.8
 2013,Million EUR,Gross disbursements (ODA and OOF),,,,10.6
 2014,Million EUR,Gross disbursements (ODA and OOF),,,,0.1
-2015,Million EUR,Gross disbursements (ODA and OOF),,,,0.0
+2015,Million EUR,Gross disbursements (ODA and OOF),0.0,,,0.0
 2016,Million EUR,Gross disbursements (ODA and OOF),,,,0.1
 2017,Million EUR,Gross disbursements (ODA and OOF),,,,0.1
 2018,Million EUR,Gross disbursements (ODA and OOF),,,,0.5
@@ -43,7 +43,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2012,"Million USD, constant prices (2022)",Gross disbursements (ODA and OOF),,,,2.4
 2013,"Million USD, constant prices (2022)",Gross disbursements (ODA and OOF),,,,13.8
 2014,"Million USD, constant prices (2022)",Gross disbursements (ODA and OOF),,,,0.1
-2015,"Million USD, constant prices (2022)",Gross disbursements (ODA and OOF),,,,0.0
+2015,"Million USD, constant prices (2022)",Gross disbursements (ODA and OOF),0.0,,,0.0
 2016,"Million USD, constant prices (2022)",Gross disbursements (ODA and OOF),,,,0.1
 2017,"Million USD, constant prices (2022)",Gross disbursements (ODA and OOF),,,,0.1
 2018,"Million USD, constant prices (2022)",Gross disbursements (ODA and OOF),,,,0.6
