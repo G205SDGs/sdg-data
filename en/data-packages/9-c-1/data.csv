@@ -11,8 +11,8 @@ Year,Technology,Länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,3G,Germany,,,,,91.8
 2020,3G,Germany,,,,,88.9
 2021,3G,Germany,,|,,,25.8
-2022,3G,Germany,,.,,,
-2023,3G,Germany,,.,,,
+2022,3G,Germany,,-,,,
+2023,3G,Germany,,-,,,
 2010,LTE,Germany,,,,,2.1
 2011,LTE,Germany,,,,,21.5
 2012,LTE,Germany,,,,,51.7

@@ -25,21 +25,21 @@ Year,timeseries,availability,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2011,population with (own) toilet,no,,,,0.9
 2012,population with (own) toilet,no,,,,0.9
 2013,population with (own) toilet,no,,,,0.1
-2014,population with (own) toilet,no,,,,0.0
+2014,population with (own) toilet,no,0,,,0.0
 2015,population with (own) toilet,no,,,,0.1
 2016,population with (own) toilet,no,,,,0.1
 2017,population with (own) toilet,no,,,,0.1
-2018,population with (own) toilet,no,,,,0.0
+2018,population with (own) toilet,no,0,,,0.0
 2019,population with (own) toilet,no,,,,0.2
-2020,population with (own) toilet,no,|,,,0.0
+2020,population with (own) toilet,no,|,0.0,,0.0
 2010,population with (own) bathtub or shower,no,,,,0.5
 2011,population with (own) bathtub or shower,no,,,,0.1
 2012,population with (own) bathtub or shower,no,,,,0.1
-2013,population with (own) bathtub or shower,no,,,,0.0
-2014,population with (own) bathtub or shower,no,,,,0.0
-2015,population with (own) bathtub or shower,no,,,,0.0
-2016,population with (own) bathtub or shower,no,,,,0.0
-2017,population with (own) bathtub or shower,no,,,,0.0
-2018,population with (own) bathtub or shower,no,,,,0.0
-2019,population with (own) bathtub or shower,no,,,,0.0
-2020,population with (own) bathtub or shower,no,|,,,0.0
+2013,population with (own) bathtub or shower,no,0,,,0.0
+2014,population with (own) bathtub or shower,no,0,,,0.0
+2015,population with (own) bathtub or shower,no,0,,,0.0
+2016,population with (own) bathtub or shower,no,0,,,0.0
+2017,population with (own) bathtub or shower,no,0,,,0.0
+2018,population with (own) bathtub or shower,no,0,,,0.0
+2019,population with (own) bathtub or shower,no,0,,,0.0
+2020,population with (own) bathtub or shower,no,|,0.0,,0.0

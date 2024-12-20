@@ -5,7 +5,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-5-1,"COMMENT_OBS_0, cause of death",2
 #1-a-1,time series,1
 #1-a-2,"COMMENT_OBS_0, function",2
-#1-b-1,"COMMENT_OBS_0, timeseries",2
+#1-b-1,COMMENT_OBS_0,1
 #10-1-1,"COMMENT_OBS_0, population",2
 #10-2-1,"age group, COMMENT_OBS_0, sex",3
 #10-3-1,COMMENT_OBS_0,1
@@ -44,12 +44,12 @@ Indicator,Disaggregations,Number of disaggregations
 #14-4-1,sea,1
 #14-5-1,timeseries,1
 #14-7-1,COMMENT_OBS_0,1
+#14-a-1,COMMENT_OBS_0,1
 #14-c-1,"COMMENT_OBS_0, timeseries",2
 #15-1-1,COMMENT_OBS_0,1
 #15-1-2,timeseries,1
-#15-2-1,"COMMENT_OBS_0, type of biomass",2
+#15-2-1,"COMMENT_OBS_0, COMMENT_OBS_1, type of biomass",3
 #15-4-1,timeseries,1
-#15-4-2,COMMENT_OBS_0,1
 #15-7-1,COMMENT_OBS_0,1
 #15-9-1,COMMENT_OBS_0,1
 #15-a-1,"COMMENT_OBS_0, timeseries",2
@@ -75,7 +75,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-9-1,COMMENT_OBS_0,1
 #16-b-1,COMMENT_OBS_0,1
 #17-1-1,COMMENT_OBS_0,1
-#17-1-2,"COMMENT_OBS_0, timeseries",2
+#17-1-2,"COMMENT_OBS_0, time series",2
 #17-13-1,"COMMENT_OBS_0, timeseries",2
 #17-15-1,level,1
 #17-17-1,"COMMENT_OBS_0, time series",2
@@ -124,7 +124,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-3-1,"age group, COMMENT_OBS_0, sex",3
 #4-4-1,"age group, COMMENT_OBS_0, type of ict competence",3
 #4-5-1,"COMMENT_OBS_0, indicator",2
-#4-6-1,"COMMENT_OBS_0, skill, level of proficiency",3
+#4-6-1,"skill, level of proficiency",2
 #4-7-1,area2,1
 #4-a-1,"COMMENT_OBS_0, type of service",2
 #4-b-1,time series,1
@@ -140,14 +140,14 @@ Indicator,Disaggregations,Number of disaggregations
 #5-a-1,"COMMENT_OBS_0, timeseries, ownership",3
 #5-a-2,COMMENT_OBS_0,1
 #5-b-1,COMMENT_OBS_0,1
-#6-1-1,"COMMENT_OBS_0, timeseries",2
-#6-2-1,"COMMENT_OBS_0, timeseries, availability",3
+#6-1-1,COMMENT_OBS_0,1
+#6-2-1,"COMMENT_OBS_0, COMMENT_OBS_1, timeseries, availability",4
 #6-3-1,"COMMENT_OBS_0, type of waste water, treatment",3
 #6-3-2,"COMMENT_OBS_0, timeseries",2
 #6-4-1,"COMMENT_OBS_0, economic activity",2
 #6-4-2,"COMMENT_OBS_0, water use index",2
 #6-5-1,section,1
-#6-6-1,"COMMENT_OBS_0, ecosystem",2
+#6-6-1,ecosystem,1
 #6-a-1,"COMMENT_OBS_0, time series",2
 #7-1-2,COMMENT_OBS_0,1
 #7-3-1,COMMENT_OBS_0,1
@@ -166,6 +166,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-8-2,COMMENT_OBS_0,1
 #8-9-1,COMMENT_OBS_0,1
 #8-a-1,"COMMENT_OBS_0, time series",2
+#9-1-1,COMMENT_OBS_0,1
 #9-1-2,"COMMENT_OBS_0, COMMENT_OBS_1, mode of transport",3
 #9-2-1,COMMENT_OBS_0,1
 #9-2-2,"COMMENT_OBS_0, sex, timeseries",3

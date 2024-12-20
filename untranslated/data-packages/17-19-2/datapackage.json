@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
+                "yes=1, no=0",
                 "percentage",
                 ""
               ]
@@ -42,7 +42,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "-",
                 "s",
                 ""
               ]

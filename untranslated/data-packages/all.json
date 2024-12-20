@@ -45,6 +45,7 @@
               "enum": [
                 "‒",
                 "0",
+                "…",
                 ""
               ]
             }
@@ -650,22 +651,10 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population using safely managed drinking water services",
-                "population connected to the public water supply system",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "s",
                 ".",
                 ""
               ]
@@ -1115,12 +1104,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "…",
-                "x",
                 ""
               ]
             }
@@ -1546,6 +1532,7 @@
             "constraints": {
               "enum": [
                 "-",
+                "‒",
                 "s",
                 ""
               ]
@@ -1832,8 +1819,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "X",
-                "0",
                 "r",
                 "p",
                 ""
@@ -1842,9 +1827,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -2570,7 +2556,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2579,12 +2565,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                ".",
-                "…",
                 ""
               ]
             }
@@ -4179,6 +4162,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "…",
                 ""
               ]
             }
@@ -4871,6 +4855,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "-",
                 ".",
                 ""
               ]
@@ -5336,6 +5321,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 "r",
                 ""
               ]
@@ -5437,6 +5423,8 @@
             "constraints": {
               "enum": [
                 "…",
+                "r",
+                "p",
                 ""
               ]
             }
@@ -7337,11 +7325,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "…",
                 ""
               ]
             }
@@ -8046,9 +8032,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -8724,7 +8711,6 @@
               "enum": [
                 "x",
                 "|",
-                "…",
                 "r",
                 ".",
                 ""
@@ -8850,6 +8836,7 @@
             "constraints": {
               "enum": [
                 "…",
+                ".",
                 ""
               ]
             }
@@ -9011,7 +8998,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -9054,8 +9041,8 @@
               "enum": [
                 "r",
                 "-",
-                "…",
                 ".",
+                "‒",
                 ""
               ]
             }
@@ -9080,7 +9067,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -9101,12 +9088,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of domestic expenditures funded by national taxes",
-                "proportion of domestic expenditures funded by national taxes and insurance contributions",
+                "national taxes",
+                "national taxes and insurance contributions",
                 ""
               ]
             }
@@ -9648,7 +9635,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
+                "yes=1, no=0",
                 "percentage",
                 ""
               ]
@@ -9671,7 +9658,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "-",
                 "s",
                 ""
               ]
@@ -10122,17 +10108,6 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "at-risk-of-poverty rate",
-                "government expenditure on social protection",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -10158,6 +10133,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "at-risk-of-poverty rate",
+                "government expenditure on social protection",
                 ""
               ]
             }
@@ -11217,15 +11203,17 @@
             "constraints": {
               "enum": [
                 "|",
+                "0",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0.0",
                 ""
               ]
             }
@@ -11886,12 +11874,28 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "COMMENT_OBS_0",
+            "type": "number",
             "constraints": {
               "enum": [
-                "renewable energy in total final energy consumption",
-                "renewable energy in gross final energy consumption",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -12530,6 +12534,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ""
               ]
             }
@@ -12558,7 +12563,7 @@
             "constraints": {
               "enum": [
                 "documents issued for the import and export of protected species",
-                "seizures by authorities concerning the protection of species",
+                "seizures by customs authorities concerning the protection of species",
                 "authorized imports and exports of protected species",
                 ""
               ]
@@ -13305,6 +13310,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ""
               ]
             }
@@ -13333,7 +13339,7 @@
             "constraints": {
               "enum": [
                 "documents issued for the import and export of protected species",
-                "seizures by authorities concerning the protection of species",
+                "seizures by customs authorities concerning the protection of species",
                 "authorized imports and exports of protected species",
                 ""
               ]
@@ -14806,9 +14812,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 ""
               ]
             }

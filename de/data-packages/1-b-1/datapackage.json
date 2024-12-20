@@ -16,18 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Armutsgefährdungsquote",
-                "Staatsausgaben für soziale Sicherung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -59,6 +47,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armutsgefährdungsquote",
+                "Staatsausgaben für soziale Sicherung",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

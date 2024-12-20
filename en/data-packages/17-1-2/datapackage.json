@@ -16,12 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of domestic expenditures funded by national taxes",
-                "Proportion of domestic expenditures funded by national taxes and insurance contributions",
+                "National taxes",
+                "National taxes and insurance contributions",
                 ""
               ]
             },

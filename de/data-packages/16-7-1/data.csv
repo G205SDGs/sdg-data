@@ -57,7 +57,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,Prozent,Öffentlicher Dienst,,,,,,53.6
 2021,Prozent,Öffentlicher Dienst,,,,,,54.0
 2022,Prozent,Öffentlicher Dienst,,,,,,54.4
-2023,Prozent,Öffentlicher Dienst,,,…,,,
+2023,Prozent,Öffentlicher Dienst,,,,,,51.7
 2024,Prozent,Öffentlicher Dienst,,,…,,,
 2010,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,48.8
 2011,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,49.2
@@ -72,7 +72,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,52.9
 2021,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,53.6
 2022,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,53.6
-2023,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,…,,,
+2023,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,53.4
 2024,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,…,,,
 2010,Prozent,Öffentlicher Dienst,Polizei,,,,,22.7
 2011,Prozent,Öffentlicher Dienst,Polizei,,,,,22.4
@@ -86,8 +86,8 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2019,Prozent,Öffentlicher Dienst,Polizei,,,,,27.4
 2020,Prozent,Öffentlicher Dienst,Polizei,,,,,28.4
 2021,Prozent,Öffentlicher Dienst,Polizei,,,,,29.4
-2022,Prozent,Öffentlicher Dienst,Polizei,,,,,25.9
-2023,Prozent,Öffentlicher Dienst,Polizei,,…,,,
+2022,Prozent,Öffentlicher Dienst,Polizei,,r,,,30.2
+2023,Prozent,Öffentlicher Dienst,Polizei,,,,,31.2
 2024,Prozent,Öffentlicher Dienst,Polizei,,…,,,
 2010,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,60.6
 2011,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,61.0
@@ -102,7 +102,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,63.1
 2021,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,63.2
 2022,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,63.1
-2023,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,…,,,
+2023,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,63.3
 2024,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,…,,,
 2010,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,57.0
 2011,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,57.4
@@ -117,7 +117,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,58.6
 2021,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,59.4
 2022,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,59.4
-2023,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,
+2023,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,59.3
 2024,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,
 2010,Prozent,Justiz,,,,,,38.5
 2011,Prozent,Justiz,,,,,,39.3
@@ -222,7 +222,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,Keine Einheit,Öffentlicher Dienst,,,,,,1.09
 2021,Keine Einheit,Öffentlicher Dienst,,,,,,1.1
 2022,Keine Einheit,Öffentlicher Dienst,,,,,,1.1
-2023,Keine Einheit,Öffentlicher Dienst,,,…,,,
+2023,Keine Einheit,Öffentlicher Dienst,,,p,,,1.05
 2024,Keine Einheit,Öffentlicher Dienst,,,…,,,
 2010,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,0.99
 2011,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,0.99
@@ -237,7 +237,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,1.07
 2021,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,1.09
 2022,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,1.08
-2023,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,…,,,
+2023,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,p,,,1.08
 2024,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,…,,,
 2010,Keine Einheit,Öffentlicher Dienst,Polizei,,,,,0.46
 2011,Keine Einheit,Öffentlicher Dienst,Polizei,,,,,0.45
@@ -251,8 +251,8 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2019,Keine Einheit,Öffentlicher Dienst,Polizei,,,,,0.56
 2020,Keine Einheit,Öffentlicher Dienst,Polizei,,,,,0.58
 2021,Keine Einheit,Öffentlicher Dienst,Polizei,,,,,0.59
-2022,Keine Einheit,Öffentlicher Dienst,Polizei,,,,,0.52
-2023,Keine Einheit,Öffentlicher Dienst,Polizei,,…,,,
+2022,Keine Einheit,Öffentlicher Dienst,Polizei,,r,,,0.61
+2023,Keine Einheit,Öffentlicher Dienst,Polizei,,p,,,0.63
 2024,Keine Einheit,Öffentlicher Dienst,Polizei,,…,,,
 2010,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,1.22
 2011,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,1.22
@@ -267,7 +267,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,1.28
 2021,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,1.28
 2022,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,1.27
-2023,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,…,,,
+2023,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,p,,,1.28
 2024,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,…,,,
 2010,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,1.15
 2011,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,1.15
@@ -282,7 +282,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,1.19
 2021,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,1.2
 2022,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,1.2
-2023,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,…,,,
+2023,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,p,,,1.2
 2024,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,…,,,
 2010,Keine Einheit,Justiz,,,,,,0.78
 2011,Keine Einheit,Justiz,,,,,,0.79

@@ -2,8 +2,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 a) branches of payment service providers,1,1
 agricultural holdings with the legal form of a sole proprietorship,2,1
 annual growth rate of real gdp,3,1
-at least one population and housing census in the last 10 years conducted,2,1
-at-risk-of-poverty rate,8,2
+at least one population and housing census in the last 10 years conducted,1,1
+at-risk-of-poverty rate,6,1
 available income of private households,3,1
 b) atms of national payment service providers,1,1
 basel convention,1,1
@@ -20,7 +20,7 @@ data from the federal ministry of food and agriculture,1,1
 data from the federal statistical office,43,1
 death registration,1,1
 debts of the total public budget,1,1
-dtp vaccination coverage at school entry,1,1
+dtp vaccination coverage at school entry,3,1
 environmental protection expenditure,4,1
 fatal occupational accidents,2,1
 female owners of agricultural holdings with the legal form of a sole proprietorship,2,1
@@ -28,7 +28,6 @@ flowing water with good ecological status for total phosphorous,2,1
 german bundestag (lower chamber),2,1
 gini coefficient of equivalised disposable income before social transfers (pre-fiscal),2,1
 gini coefficient of equivalised disposable income (post-fiscal),2,1
-government expenditure on social protection,2,1
 government fiscal balance,3,1
 gross fixed capital formation,3,1
 groundwater mesuring points below the threshold value for nitrate,1,1
@@ -38,7 +37,7 @@ hpv vaccination coverages among 15 years old girls and boys,4,1
 judiciary,13,1
 labour productivity per hour worked by employee,2,1
 labour productivity per hour worked by persons employed,2,1
-land consumption rate,7,1
+land consumption rate,5,1
 level of risk of extinction (according to fao classification),4,1
 level of risk of extinction (according to national classification),8,1
 liquid assets to short-term liabilities,1,1
@@ -47,7 +46,7 @@ live births in total,1,1
 marine areas covered by effective protected areas,2,1
 marine areas covered by protected areas,2,1
 marine key biodiversity areas (kbas) covered by protected areas,2,1
-measles vaccination coverage at school entry,1,1
+measles vaccination coverage at school entry,3,1
 minamata convention,1,1
 montreal protocol,1,1
 mountain key biodiversity areas (kbas) covered by protected areas,2,1
@@ -65,23 +64,19 @@ owned and leased agricultural land,6,1
 persons at risk of poverty or social exclusion,6,1
 persons employed,3,1
 persons living in households with very low work intensity,8,1
-pneumococcal vaccination coverage at school entry,1,1
-population connected to the public water supply system,2,1
+pneumococcal vaccination coverage at school entry,3,1
 population covered by health insurance,3,1
 population growth rate,5,1
-population using safely managed drinking water services,1,1
 population who were exposed to physical violence,40,1
 population who were exposed to sexual violence,30,1
 population who were victims of criminal offences,2,1
-population with (own) bathtub or shower,4,1
-population with (own) toilet,4,1
+population with (own) bathtub or shower,5,1
+population with (own) toilet,5,1
 proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),2,1
-proportion of domestic expenditures funded by national taxes and insurance contributions,3,1
-proportion of domestic expenditures funded by national taxes,3,1
 proportion of oda (net disbursements) to gni,2,1
-proportion of settlement and transport areas to population,6,1
-public service,19,1
-ratio of land consumption rate to population growth rate,7,1
+proportion of settlement and transport areas to population,4,1
+public service,26,1
+ratio of land consumption rate to population growth rate,5,1
 real gdp per capita,2,1
 redistributive impact of fiscal policy,3,1
 regulatory tier 1 capital to risk-weighted assets,1,1

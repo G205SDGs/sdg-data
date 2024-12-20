@@ -12,7 +12,7 @@ Year,Units,Time series,Presentation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2020,No unit,Ratio of land consumption rate to population growth rate,Annual values,x,,,
 2021,No unit,Ratio of land consumption rate to population growth rate,Annual values,,,,4.248
 2022,No unit,Ratio of land consumption rate to population growth rate,Annual values,,,,0.233
-2023,No unit,Ratio of land consumption rate to population growth rate,Annual values,…,,,
+2023,No unit,Ratio of land consumption rate to population growth rate,Annual values,,,,1.212
 2010,2015 = 100,Proportion of settlement and transport areas to population,Annual values,,,,99.587
 2011,2015 = 100,Proportion of settlement and transport areas to population,Annual values,,,,100.353
 2012,2015 = 100,Proportion of settlement and transport areas to population,Annual values,,,,100.599
@@ -26,7 +26,7 @@ Year,Units,Time series,Presentation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2020,2015 = 100,Proportion of settlement and transport areas to population,Annual values,,,,101.097
 2021,2015 = 100,Proportion of settlement and transport areas to population,Annual values,,,,101.42
 2022,2015 = 100,Proportion of settlement and transport areas to population,Annual values,,,,100.383
-2023,2015 = 100,Proportion of settlement and transport areas to population,Annual values,…,,,
+2023,2015 = 100,Proportion of settlement and transport areas to population,Annual values,,,,100.461
 2010,Percentage,Land consumption rate,Annual values,,,,0.591
 2011,Percentage,Land consumption rate,Annual values,,,,0.902
 2012,Percentage,Land consumption rate,Annual values,,,,0.489
@@ -40,7 +40,7 @@ Year,Units,Time series,Presentation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2020,Percentage,Land consumption rate,Annual values,,,,0.426
 2021,Percentage,Land consumption rate,Annual values,,,,0.419
 2022,Percentage,Land consumption rate,Annual values,,,,0.312
-2023,Percentage,Land consumption rate,Annual values,…,,,
+2023,Percentage,Land consumption rate,Annual values,,,,0.445
 2010,Percentage,Population growth rate,Annual values,,,,-0.154
 2011,Percentage,Population growth rate,Annual values,,,,0.132
 2012,Percentage,Population growth rate,Annual values,,,,0.244
@@ -68,7 +68,7 @@ Year,Units,Time series,Presentation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2020,No unit,Ratio of land consumption rate to population growth rate,Moving four-year average,,,,2.48
 2021,No unit,Ratio of land consumption rate to population growth rate,Moving four-year average,,,,3.373
 2022,No unit,Ratio of land consumption rate to population growth rate,Moving four-year average,,,,0.927
-2023,No unit,Ratio of land consumption rate to population growth rate,Moving four-year average,…,,,
+2023,No unit,Ratio of land consumption rate to population growth rate,Moving four-year average,,,,0.892
 2010,2015 = 100,Proportion of settlement and transport areas to population,Moving four-year average,,,,
 2011,2015 = 100,Proportion of settlement and transport areas to population,Moving four-year average,,,,98.632
 2012,2015 = 100,Proportion of settlement and transport areas to population,Moving four-year average,,,,99.299
@@ -82,7 +82,7 @@ Year,Units,Time series,Presentation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2020,2015 = 100,Proportion of settlement and transport areas to population,Moving four-year average,,,,100.046
 2021,2015 = 100,Proportion of settlement and transport areas to population,Moving four-year average,,,,100.363
 2022,2015 = 100,Proportion of settlement and transport areas to population,Moving four-year average,,,,100.332
-2023,2015 = 100,Proportion of settlement and transport areas to population,Moving four-year average,…,,,
+2023,2015 = 100,Proportion of settlement and transport areas to population,Moving four-year average,,,,100.282
 2010,Percentage,Land consumption rate,Moving four-year average,,,,
 2011,Percentage,Land consumption rate,Moving four-year average,,,,
 2012,Percentage,Land consumption rate,Moving four-year average,,,,0.647
@@ -96,7 +96,7 @@ Year,Units,Time series,Presentation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2020,Percentage,Land consumption rate,Moving four-year average,,,,0.474
 2021,Percentage,Land consumption rate,Moving four-year average,,,,0.452
 2022,Percentage,Land consumption rate,Moving four-year average,,,,0.372
-2023,Percentage,Land consumption rate,Moving four-year average,…,,,
+2023,Percentage,Land consumption rate,Moving four-year average,,,,0.4
 2010,Percentage,Population growth rate,Moving four-year average,.,,,
 2011,Percentage,Population growth rate,Moving four-year average,.,,,
 2012,Percentage,Population growth rate,Moving four-year average,,,,-0.03

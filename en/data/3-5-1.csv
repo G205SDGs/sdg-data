@@ -12,6 +12,7 @@ Year,Substance,Bound,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2020,Drugs,,,,,,Inpatient treatment of substance use disorders,47082
 2021,Drugs,,,,,,Inpatient treatment of substance use disorders,46736
 2022,Drugs,,,,,,Inpatient treatment of substance use disorders,45447
+2023,Drugs,,,,,,Inpatient treatment of substance use disorders,49902
 2010,Drugs,,Female,,,,Inpatient treatment of substance use disorders,10451
 2011,Drugs,,Female,,,,Inpatient treatment of substance use disorders,10607
 2012,Drugs,,Female,,,,Inpatient treatment of substance use disorders,10600
@@ -25,6 +26,7 @@ Year,Substance,Bound,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2020,Drugs,,Female,,,,Inpatient treatment of substance use disorders,11381
 2021,Drugs,,Female,,,,Inpatient treatment of substance use disorders,11382
 2022,Drugs,,Female,,,,Inpatient treatment of substance use disorders,10846
+2023,Drugs,,Female,,,,Inpatient treatment of substance use disorders,11925
 2010,Drugs,,Male,,,,Inpatient treatment of substance use disorders,26656
 2011,Drugs,,Male,,,,Inpatient treatment of substance use disorders,26241
 2012,Drugs,,Male,,,,Inpatient treatment of substance use disorders,25566
@@ -38,6 +40,7 @@ Year,Substance,Bound,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2020,Drugs,,Male,,,,Inpatient treatment of substance use disorders,35701
 2021,Drugs,,Male,,,,Inpatient treatment of substance use disorders,35354
 2022,Drugs,,Male,,,,Inpatient treatment of substance use disorders,34601
+2023,Drugs,,Male,,,,Inpatient treatment of substance use disorders,37977
 2010,Drugs,,Unknown,-,,,Inpatient treatment of substance use disorders,0
 2011,Drugs,,Unknown,-,,,Inpatient treatment of substance use disorders,0
 2012,Drugs,,Unknown,-,,,Inpatient treatment of substance use disorders,0
@@ -51,6 +54,7 @@ Year,Substance,Bound,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2020,Drugs,,Unknown,-,,,Inpatient treatment of substance use disorders,0
 2021,Drugs,,Unknown,-,,,Inpatient treatment of substance use disorders,0
 2022,Drugs,,Unknown,-,,,Inpatient treatment of substance use disorders,0
+2023,Drugs,,Unknown,-,,,Inpatient treatment of substance use disorders,0
 2010,Alcohol and other psychoactive substances,,,,,,Inpatient treatment of substance use disorders,191512
 2011,Alcohol and other psychoactive substances,,,,,,Inpatient treatment of substance use disorders,192159
 2012,Alcohol and other psychoactive substances,,,,,,Inpatient treatment of substance use disorders,195976
@@ -64,6 +68,7 @@ Year,Substance,Bound,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2020,Alcohol and other psychoactive substances,,,,,,Inpatient treatment of substance use disorders,139044
 2021,Alcohol and other psychoactive substances,,,,,,Inpatient treatment of substance use disorders,138033
 2022,Alcohol and other psychoactive substances,,,,,,Inpatient treatment of substance use disorders,139542
+2023,Alcohol and other psychoactive substances,,,,,,Inpatient treatment of substance use disorders,146999
 2010,Alcohol and other psychoactive substances,,Female,,,,Inpatient treatment of substance use disorders,49139
 2011,Alcohol and other psychoactive substances,,Female,,,,Inpatient treatment of substance use disorders,50796
 2012,Alcohol and other psychoactive substances,,Female,,,,Inpatient treatment of substance use disorders,52487
@@ -77,6 +82,7 @@ Year,Substance,Bound,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2020,Alcohol and other psychoactive substances,,Female,,,,Inpatient treatment of substance use disorders,36512
 2021,Alcohol and other psychoactive substances,,Female,,,,Inpatient treatment of substance use disorders,37002
 2022,Alcohol and other psychoactive substances,,Female,,,,Inpatient treatment of substance use disorders,37277
+2023,Alcohol and other psychoactive substances,,Female,,,,Inpatient treatment of substance use disorders,38368
 2010,Alcohol and other psychoactive substances,,Male,,,,Inpatient treatment of substance use disorders,142373
 2011,Alcohol and other psychoactive substances,,Male,,,,Inpatient treatment of substance use disorders,141363
 2012,Alcohol and other psychoactive substances,,Male,,,,Inpatient treatment of substance use disorders,143488
@@ -90,6 +96,7 @@ Year,Substance,Bound,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2020,Alcohol and other psychoactive substances,,Male,,,,Inpatient treatment of substance use disorders,102532
 2021,Alcohol and other psychoactive substances,,Male,,,,Inpatient treatment of substance use disorders,101031
 2022,Alcohol and other psychoactive substances,,Male,,,,Inpatient treatment of substance use disorders,102265
+2023,Alcohol and other psychoactive substances,,Male,,,,Inpatient treatment of substance use disorders,108631
 2010,Alcohol and other psychoactive substances,,Unknown,-,,,Inpatient treatment of substance use disorders,0
 2011,Alcohol and other psychoactive substances,,Unknown,-,,,Inpatient treatment of substance use disorders,0
 2012,Alcohol and other psychoactive substances,,Unknown,,,,Inpatient treatment of substance use disorders,1
@@ -103,6 +110,7 @@ Year,Substance,Bound,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2020,Alcohol and other psychoactive substances,,Unknown,-,,,Inpatient treatment of substance use disorders,0
 2021,Alcohol and other psychoactive substances,,Unknown,-,,,Inpatient treatment of substance use disorders,0
 2022,Alcohol and other psychoactive substances,,Unknown,-,,,Inpatient treatment of substance use disorders,0
+2023,Alcohol and other psychoactive substances,,Unknown,‒,,,Inpatient treatment of substance use disorders,0
 2010,,Upper bound,,s,,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",255405
 2011,,Upper bound,,s,,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",274374
 2012,,Upper bound,,s,,,"Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",259303

@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ""
               ]
             },
@@ -52,7 +53,7 @@
             "constraints": {
               "enum": [
                 "Documents issued for the import and export of protected species",
-                "Seizures by authorities concerning the protection of species",
+                "Seizures by customs authorities concerning the protection of species",
                 "Authorized imports and exports of protected species",
                 ""
               ]

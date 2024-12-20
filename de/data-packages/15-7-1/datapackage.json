@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ""
               ]
             },
@@ -52,7 +53,7 @@
             "constraints": {
               "enum": [
                 "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
                 "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]

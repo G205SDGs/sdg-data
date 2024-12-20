@@ -1,211 +1,211 @@
 Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,People requiring interventions,,,,,720.0
-2011,People requiring interventions,,,,,437.0
-2012,People requiring interventions,,,,,740.0
-2013,People requiring interventions,,,,,1011.0
-2014,People requiring interventions,,,,,758.0
-2015,People requiring interventions,,,,,882.0
-2016,People requiring interventions,,,,,1139.0
-2017,People requiring interventions,,,,,777.0
-2018,People requiring interventions,,,,,788.0
-2019,People requiring interventions,,r,,,1326.0
-2020,People requiring interventions,,,,,374.0
-2021,People requiring interventions,,r,,,225.0
-2022,People requiring interventions,,r,,,558.0
-2023,People requiring interventions,,,,,1142.0
-2010,People requiring interventions,Dengue,,,,595.0
-2011,People requiring interventions,Dengue,,,,288.0
-2012,People requiring interventions,Dengue,,,,616.0
-2013,People requiring interventions,Dengue,,,,878.0
-2014,People requiring interventions,Dengue,,,,625.0
-2015,People requiring interventions,Dengue,,,,725.0
-2016,People requiring interventions,Dengue,,,,956.0
-2017,People requiring interventions,Dengue,,,,635.0
-2018,People requiring interventions,Dengue,,,,612.0
-2019,People requiring interventions,Dengue,r,,,1175.0
-2020,People requiring interventions,Dengue,,,,203.0
-2021,People requiring interventions,Dengue,,,,60.0
-2022,People requiring interventions,Dengue,,,,375.0
-2023,People requiring interventions,Dengue,,,,953.0
-2010,People requiring interventions,Echinococcosis,,,,123.0
-2011,People requiring interventions,Echinococcosis,,,,147.0
-2012,People requiring interventions,Echinococcosis,,,,119.0
-2013,People requiring interventions,Echinococcosis,,,,132.0
-2014,People requiring interventions,Echinococcosis,,,,131.0
-2015,People requiring interventions,Echinococcosis,,,,157.0
-2016,People requiring interventions,Echinococcosis,,,,181.0
-2017,People requiring interventions,Echinococcosis,,,,141.0
-2018,People requiring interventions,Echinococcosis,,,,176.0
-2019,People requiring interventions,Echinococcosis,,,,150.0
-2020,People requiring interventions,Echinococcosis,,,,171.0
-2021,People requiring interventions,Echinococcosis,r,,,163.0
-2022,People requiring interventions,Echinococcosis,r,,,180.0
-2023,People requiring interventions,Echinococcosis,,,,186.0
-2010,People requiring interventions,Leprosy,,,,2.0
-2011,People requiring interventions,Leprosy,,,,2.0
-2012,People requiring interventions,Leprosy,,,,5.0
-2013,People requiring interventions,Leprosy,,,,1.0
-2014,People requiring interventions,Leprosy,,,,2.0
-2015,People requiring interventions,Leprosy,-,,,0.0
-2016,People requiring interventions,Leprosy,,,,2.0
-2017,People requiring interventions,Leprosy,,,,1.0
-2018,People requiring interventions,Leprosy,-,,,0.0
-2019,People requiring interventions,Leprosy,,,,1.0
-2020,People requiring interventions,Leprosy,-,,,0.0
-2021,People requiring interventions,Leprosy,,,,2.0
-2022,People requiring interventions,Leprosy,,,,3.0
-2023,People requiring interventions,Leprosy,,,,3.0
-2010,Inpatient treatment,,,,,406.0
-2011,Inpatient treatment,,,,,428.0
-2012,Inpatient treatment,,,,,427.0
-2013,Inpatient treatment,,,,,418.0
-2014,Inpatient treatment,,,,,496.0
-2015,Inpatient treatment,,,,,580.0
-2016,Inpatient treatment,,,,,1031.0
-2017,Inpatient treatment,,,,,899.0
-2018,Inpatient treatment,,,,,764.0
-2019,Inpatient treatment,,,,,981.0
-2020,Inpatient treatment,,,,,628.0
-2021,Inpatient treatment,,,,,576.0
-2022,Inpatient treatment,,,,,661.0
-2023,Inpatient treatment,,…,,,
-2010,Inpatient treatment,Buruli ulcer,,,,30.0
-2011,Inpatient treatment,Buruli ulcer,,,,20.0
-2012,Inpatient treatment,Buruli ulcer,,,,16.0
-2013,Inpatient treatment,Buruli ulcer,,,,30.0
-2014,Inpatient treatment,Buruli ulcer,,,,26.0
-2015,Inpatient treatment,Buruli ulcer,,,,29.0
-2016,Inpatient treatment,Buruli ulcer,,,,28.0
-2017,Inpatient treatment,Buruli ulcer,,,,22.0
-2018,Inpatient treatment,Buruli ulcer,,,,18.0
-2019,Inpatient treatment,Buruli ulcer,,,,22.0
-2020,Inpatient treatment,Buruli ulcer,,,,28.0
-2021,Inpatient treatment,Buruli ulcer,,,,25.0
-2022,Inpatient treatment,Buruli ulcer,,,,20.0
-2023,Inpatient treatment,Buruli ulcer,…,,,
-2010,Inpatient treatment,Echinococcosis,,,,323.0
-2011,Inpatient treatment,Echinococcosis,,,,373.0
-2012,Inpatient treatment,Echinococcosis,,,,359.0
-2013,Inpatient treatment,Echinococcosis,,,,332.0
-2014,Inpatient treatment,Echinococcosis,,,,387.0
-2015,Inpatient treatment,Echinococcosis,,,,439.0
-2016,Inpatient treatment,Echinococcosis,,,,577.0
-2017,Inpatient treatment,Echinococcosis,,,,531.0
-2018,Inpatient treatment,Echinococcosis,,,,494.0
-2019,Inpatient treatment,Echinococcosis,,,,529.0
-2020,Inpatient treatment,Echinococcosis,,,,498.0
-2021,Inpatient treatment,Echinococcosis,,,,468.0
-2022,Inpatient treatment,Echinococcosis,,,,452.0
-2023,Inpatient treatment,Echinococcosis,…,,,
-2010,Inpatient treatment,Human African Trypanosomiasis,,,,1.0
-2011,Inpatient treatment,Human African Trypanosomiasis,-,,,0.0
-2012,Inpatient treatment,Human African Trypanosomiasis,,,,3.0
-2013,Inpatient treatment,Human African Trypanosomiasis,-,,,0.0
-2014,Inpatient treatment,Human African Trypanosomiasis,,,,2.0
-2015,Inpatient treatment,Human African Trypanosomiasis,-,,,0.0
-2016,Inpatient treatment,Human African Trypanosomiasis,,,,1.0
-2017,Inpatient treatment,Human African Trypanosomiasis,,,,2.0
-2018,Inpatient treatment,Human African Trypanosomiasis,,,,1.0
-2019,Inpatient treatment,Human African Trypanosomiasis,,,,3.0
-2020,Inpatient treatment,Human African Trypanosomiasis,,,,1.0
-2021,Inpatient treatment,Human African Trypanosomiasis,-,,,0.0
-2022,Inpatient treatment,Human African Trypanosomiasis,,,,2.0
-2023,Inpatient treatment,Human African Trypanosomiasis,…,,,
-2010,Inpatient treatment,Leprosy,,,,4.0
-2011,Inpatient treatment,Leprosy,,,,7.0
-2012,Inpatient treatment,Leprosy,,,,11.0
-2013,Inpatient treatment,Leprosy,,,,6.0
-2014,Inpatient treatment,Leprosy,,,,11.0
-2015,Inpatient treatment,Leprosy,,,,5.0
-2016,Inpatient treatment,Leprosy,,,,8.0
-2017,Inpatient treatment,Leprosy,,,,3.0
-2018,Inpatient treatment,Leprosy,,,,2.0
-2019,Inpatient treatment,Leprosy,,,,7.0
-2020,Inpatient treatment,Leprosy,,,,2.0
-2021,Inpatient treatment,Leprosy,,,,5.0
-2022,Inpatient treatment,Leprosy,,,,2.0
-2023,Inpatient treatment,Leprosy,…,,,
-2010,Inpatient treatment,Leishmaniases,,,,42.0
-2011,Inpatient treatment,Leishmaniases,,,,25.0
-2012,Inpatient treatment,Leishmaniases,,,,38.0
-2013,Inpatient treatment,Leishmaniases,,,,47.0
-2014,Inpatient treatment,Leishmaniases,,,,66.0
-2015,Inpatient treatment,Leishmaniases,,,,106.0
-2016,Inpatient treatment,Leishmaniases,,,,154.0
-2017,Inpatient treatment,Leishmaniases,,,,123.0
-2018,Inpatient treatment,Leishmaniases,,,,70.0
-2019,Inpatient treatment,Leishmaniases,,,,64.0
-2020,Inpatient treatment,Leishmaniases,,,,49.0
-2021,Inpatient treatment,Leishmaniases,,,,56.0
-2022,Inpatient treatment,Leishmaniases,,,,75.0
-2023,Inpatient treatment,Leishmaniases,…,,,
-2010,Inpatient treatment,Rabies,,,,4.0
-2011,Inpatient treatment,Rabies,-,,,0.0
-2012,Inpatient treatment,Rabies,-,,,0.0
-2013,Inpatient treatment,Rabies,,,,2.0
-2014,Inpatient treatment,Rabies,,,,2.0
-2015,Inpatient treatment,Rabies,-,,,0.0
-2016,Inpatient treatment,Rabies,,,,3.0
-2017,Inpatient treatment,Rabies,-,,,0.0
-2018,Inpatient treatment,Rabies,,,,3.0
-2019,Inpatient treatment,Rabies,,,,2.0
-2020,Inpatient treatment,Rabies,-,,,0.0
-2021,Inpatient treatment,Rabies,-,,,0.0
-2022,Inpatient treatment,Rabies,-,,,0.0
-2023,Inpatient treatment,Rabies,…,,,
-2010,Inpatient treatment,Yaws,,,,2.0
-2011,Inpatient treatment,Yaws,,,,3.0
-2012,Inpatient treatment,Yaws,-,,,0.0
-2013,Inpatient treatment,Yaws,-,,,0.0
-2014,Inpatient treatment,Yaws,,,,2.0
-2015,Inpatient treatment,Yaws,,,,1.0
-2016,Inpatient treatment,Yaws,-,,,0.0
-2017,Inpatient treatment,Yaws,,,,1.0
-2018,Inpatient treatment,Yaws,,,,2.0
-2019,Inpatient treatment,Yaws,-,,,0.0
-2020,Inpatient treatment,Yaws,-,,,0.0
-2021,Inpatient treatment,Yaws,-,,,0.0
-2022,Inpatient treatment,Yaws,-,,,0.0
-2023,Inpatient treatment,Yaws,…,,,
-2010,Inpatient treatment,Dengue,-,,,0.0
-2011,Inpatient treatment,Dengue,-,,,0.0
-2012,Inpatient treatment,Dengue,-,,,0.0
-2013,Inpatient treatment,Dengue,-,,,0.0
-2014,Inpatient treatment,Dengue,-,,,0.0
-2015,Inpatient treatment,Dengue,-,,,0.0
-2016,Inpatient treatment,Dengue,,,,260.0
-2017,Inpatient treatment,Dengue,,,,217.0
-2018,Inpatient treatment,Dengue,,,,174.0
-2019,Inpatient treatment,Dengue,,,,354.0
-2020,Inpatient treatment,Dengue,,,,50.0
-2021,Inpatient treatment,Dengue,,,,22.0
-2022,Inpatient treatment,Dengue,,,,109.0
-2023,Inpatient treatment,Dengue,…,,,
-2010,Inpatient treatment,Dracunculiasis,.,,,0.0
-2011,Inpatient treatment,Dracunculiasis,.,,,0.0
-2012,Inpatient treatment,Dracunculiasis,.,,,0.0
-2013,Inpatient treatment,Dracunculiasis,,,,1.0
-2014,Inpatient treatment,Dracunculiasis,-,,,0.0
-2015,Inpatient treatment,Dracunculiasis,-,,,0.0
-2016,Inpatient treatment,Dracunculiasis,-,,,0.0
-2017,Inpatient treatment,Dracunculiasis,-,,,0.0
-2018,Inpatient treatment,Dracunculiasis,-,,,0.0
-2019,Inpatient treatment,Dracunculiasis,-,,,0.0
-2020,Inpatient treatment,Dracunculiasis,-,,,0.0
-2021,Inpatient treatment,Dracunculiasis,-,,,0.0
-2022,Inpatient treatment,Dracunculiasis,,,,1.0
-2023,Inpatient treatment,Dracunculiasis,…,,,
-2010,People requiring interventions,Rabies,-,,,0.0
-2011,People requiring interventions,Rabies,-,,,0.0
-2012,People requiring interventions,Rabies,-,,,0.0
-2013,People requiring interventions,Rabies,-,,,0.0
-2014,People requiring interventions,Rabies,-,,,0.0
-2015,People requiring interventions,Rabies,-,,,0.0
-2016,People requiring interventions,Rabies,-,,,0.0
-2017,People requiring interventions,Rabies,-,,,0.0
-2018,People requiring interventions,Rabies,-,,,0.0
-2019,People requiring interventions,Rabies,-,,,0.0
-2020,People requiring interventions,Rabies,-,,,0.0
-2021,People requiring interventions,Rabies,-,,,0.0
-2022,People requiring interventions,Rabies,-,,,0.0
-2023,People requiring interventions,Rabies,…,,,
+2010,People requiring interventions,,,,,720
+2011,People requiring interventions,,,,,437
+2012,People requiring interventions,,,,,740
+2013,People requiring interventions,,,,,1011
+2014,People requiring interventions,,,,,758
+2015,People requiring interventions,,,,,882
+2016,People requiring interventions,,,,,1139
+2017,People requiring interventions,,,,,777
+2018,People requiring interventions,,,,,788
+2019,People requiring interventions,,r,,,1326
+2020,People requiring interventions,,,,,374
+2021,People requiring interventions,,r,,,225
+2022,People requiring interventions,,r,,,558
+2023,People requiring interventions,,,,,1142
+2010,People requiring interventions,Dengue,,,,595
+2011,People requiring interventions,Dengue,,,,288
+2012,People requiring interventions,Dengue,,,,616
+2013,People requiring interventions,Dengue,,,,878
+2014,People requiring interventions,Dengue,,,,625
+2015,People requiring interventions,Dengue,,,,725
+2016,People requiring interventions,Dengue,,,,956
+2017,People requiring interventions,Dengue,,,,635
+2018,People requiring interventions,Dengue,,,,612
+2019,People requiring interventions,Dengue,r,,,1175
+2020,People requiring interventions,Dengue,,,,203
+2021,People requiring interventions,Dengue,,,,60
+2022,People requiring interventions,Dengue,,,,375
+2023,People requiring interventions,Dengue,,,,953
+2010,People requiring interventions,Echinococcosis,,,,123
+2011,People requiring interventions,Echinococcosis,,,,147
+2012,People requiring interventions,Echinococcosis,,,,119
+2013,People requiring interventions,Echinococcosis,,,,132
+2014,People requiring interventions,Echinococcosis,,,,131
+2015,People requiring interventions,Echinococcosis,,,,157
+2016,People requiring interventions,Echinococcosis,,,,181
+2017,People requiring interventions,Echinococcosis,,,,141
+2018,People requiring interventions,Echinococcosis,,,,176
+2019,People requiring interventions,Echinococcosis,,,,150
+2020,People requiring interventions,Echinococcosis,,,,171
+2021,People requiring interventions,Echinococcosis,r,,,163
+2022,People requiring interventions,Echinococcosis,r,,,180
+2023,People requiring interventions,Echinococcosis,,,,186
+2010,People requiring interventions,Leprosy,,,,2
+2011,People requiring interventions,Leprosy,,,,2
+2012,People requiring interventions,Leprosy,,,,5
+2013,People requiring interventions,Leprosy,,,,1
+2014,People requiring interventions,Leprosy,,,,2
+2015,People requiring interventions,Leprosy,-,,,0
+2016,People requiring interventions,Leprosy,,,,2
+2017,People requiring interventions,Leprosy,,,,1
+2018,People requiring interventions,Leprosy,-,,,0
+2019,People requiring interventions,Leprosy,,,,1
+2020,People requiring interventions,Leprosy,-,,,0
+2021,People requiring interventions,Leprosy,,,,2
+2022,People requiring interventions,Leprosy,,,,3
+2023,People requiring interventions,Leprosy,,,,3
+2010,Inpatient treatment,,,,,406
+2011,Inpatient treatment,,,,,428
+2012,Inpatient treatment,,,,,427
+2013,Inpatient treatment,,,,,418
+2014,Inpatient treatment,,,,,496
+2015,Inpatient treatment,,,,,580
+2016,Inpatient treatment,,,,,1031
+2017,Inpatient treatment,,,,,899
+2018,Inpatient treatment,,,,,764
+2019,Inpatient treatment,,,,,981
+2020,Inpatient treatment,,,,,628
+2021,Inpatient treatment,,,,,576
+2022,Inpatient treatment,,,,,661
+2023,Inpatient treatment,,,,,993
+2010,Inpatient treatment,Buruli ulcer,,,,30
+2011,Inpatient treatment,Buruli ulcer,,,,20
+2012,Inpatient treatment,Buruli ulcer,,,,16
+2013,Inpatient treatment,Buruli ulcer,,,,30
+2014,Inpatient treatment,Buruli ulcer,,,,26
+2015,Inpatient treatment,Buruli ulcer,,,,29
+2016,Inpatient treatment,Buruli ulcer,,,,28
+2017,Inpatient treatment,Buruli ulcer,,,,22
+2018,Inpatient treatment,Buruli ulcer,,,,18
+2019,Inpatient treatment,Buruli ulcer,,,,22
+2020,Inpatient treatment,Buruli ulcer,,,,28
+2021,Inpatient treatment,Buruli ulcer,,,,25
+2022,Inpatient treatment,Buruli ulcer,,,,20
+2023,Inpatient treatment,Buruli ulcer,,,,27
+2010,Inpatient treatment,Echinococcosis,,,,323
+2011,Inpatient treatment,Echinococcosis,,,,373
+2012,Inpatient treatment,Echinococcosis,,,,359
+2013,Inpatient treatment,Echinococcosis,,,,332
+2014,Inpatient treatment,Echinococcosis,,,,387
+2015,Inpatient treatment,Echinococcosis,,,,439
+2016,Inpatient treatment,Echinococcosis,,,,577
+2017,Inpatient treatment,Echinococcosis,,,,531
+2018,Inpatient treatment,Echinococcosis,,,,494
+2019,Inpatient treatment,Echinococcosis,,,,529
+2020,Inpatient treatment,Echinococcosis,,,,498
+2021,Inpatient treatment,Echinococcosis,,,,468
+2022,Inpatient treatment,Echinococcosis,,,,452
+2023,Inpatient treatment,Echinococcosis,,,,561
+2010,Inpatient treatment,Human African Trypanosomiasis,,,,1
+2011,Inpatient treatment,Human African Trypanosomiasis,-,,,0
+2012,Inpatient treatment,Human African Trypanosomiasis,,,,3
+2013,Inpatient treatment,Human African Trypanosomiasis,-,,,0
+2014,Inpatient treatment,Human African Trypanosomiasis,,,,2
+2015,Inpatient treatment,Human African Trypanosomiasis,-,,,0
+2016,Inpatient treatment,Human African Trypanosomiasis,,,,1
+2017,Inpatient treatment,Human African Trypanosomiasis,,,,2
+2018,Inpatient treatment,Human African Trypanosomiasis,,,,1
+2019,Inpatient treatment,Human African Trypanosomiasis,,,,3
+2020,Inpatient treatment,Human African Trypanosomiasis,,,,1
+2021,Inpatient treatment,Human African Trypanosomiasis,-,,,0
+2022,Inpatient treatment,Human African Trypanosomiasis,,,,2
+2023,Inpatient treatment,Human African Trypanosomiasis,,,,1
+2010,Inpatient treatment,Leprosy,,,,4
+2011,Inpatient treatment,Leprosy,,,,7
+2012,Inpatient treatment,Leprosy,,,,11
+2013,Inpatient treatment,Leprosy,,,,6
+2014,Inpatient treatment,Leprosy,,,,11
+2015,Inpatient treatment,Leprosy,,,,5
+2016,Inpatient treatment,Leprosy,,,,8
+2017,Inpatient treatment,Leprosy,,,,3
+2018,Inpatient treatment,Leprosy,,,,2
+2019,Inpatient treatment,Leprosy,,,,7
+2020,Inpatient treatment,Leprosy,,,,2
+2021,Inpatient treatment,Leprosy,,,,5
+2022,Inpatient treatment,Leprosy,,,,2
+2023,Inpatient treatment,Leprosy,,,,7
+2010,Inpatient treatment,Leishmaniases,,,,42
+2011,Inpatient treatment,Leishmaniases,,,,25
+2012,Inpatient treatment,Leishmaniases,,,,38
+2013,Inpatient treatment,Leishmaniases,,,,47
+2014,Inpatient treatment,Leishmaniases,,,,66
+2015,Inpatient treatment,Leishmaniases,,,,106
+2016,Inpatient treatment,Leishmaniases,,,,154
+2017,Inpatient treatment,Leishmaniases,,,,123
+2018,Inpatient treatment,Leishmaniases,,,,70
+2019,Inpatient treatment,Leishmaniases,,,,64
+2020,Inpatient treatment,Leishmaniases,,,,49
+2021,Inpatient treatment,Leishmaniases,,,,56
+2022,Inpatient treatment,Leishmaniases,,,,75
+2023,Inpatient treatment,Leishmaniases,,,,105
+2010,Inpatient treatment,Rabies,,,,4
+2011,Inpatient treatment,Rabies,-,,,0
+2012,Inpatient treatment,Rabies,-,,,0
+2013,Inpatient treatment,Rabies,,,,2
+2014,Inpatient treatment,Rabies,,,,2
+2015,Inpatient treatment,Rabies,-,,,0
+2016,Inpatient treatment,Rabies,,,,3
+2017,Inpatient treatment,Rabies,-,,,0
+2018,Inpatient treatment,Rabies,,,,3
+2019,Inpatient treatment,Rabies,,,,2
+2020,Inpatient treatment,Rabies,-,,,0
+2021,Inpatient treatment,Rabies,-,,,0
+2022,Inpatient treatment,Rabies,-,,,0
+2023,Inpatient treatment,Rabies,,,,2
+2010,Inpatient treatment,Yaws,,,,2
+2011,Inpatient treatment,Yaws,,,,3
+2012,Inpatient treatment,Yaws,-,,,0
+2013,Inpatient treatment,Yaws,-,,,0
+2014,Inpatient treatment,Yaws,,,,2
+2015,Inpatient treatment,Yaws,,,,1
+2016,Inpatient treatment,Yaws,-,,,0
+2017,Inpatient treatment,Yaws,,,,1
+2018,Inpatient treatment,Yaws,,,,2
+2019,Inpatient treatment,Yaws,-,,,0
+2020,Inpatient treatment,Yaws,-,,,0
+2021,Inpatient treatment,Yaws,-,,,0
+2022,Inpatient treatment,Yaws,-,,,0
+2023,Inpatient treatment,Yaws,,,,1
+2010,Inpatient treatment,Dengue,-,,,0
+2011,Inpatient treatment,Dengue,-,,,0
+2012,Inpatient treatment,Dengue,-,,,0
+2013,Inpatient treatment,Dengue,-,,,0
+2014,Inpatient treatment,Dengue,-,,,0
+2015,Inpatient treatment,Dengue,-,,,0
+2016,Inpatient treatment,Dengue,,,,260
+2017,Inpatient treatment,Dengue,,,,217
+2018,Inpatient treatment,Dengue,,,,174
+2019,Inpatient treatment,Dengue,,,,354
+2020,Inpatient treatment,Dengue,,,,50
+2021,Inpatient treatment,Dengue,,,,22
+2022,Inpatient treatment,Dengue,,,,109
+2023,Inpatient treatment,Dengue,,,,277
+2010,Inpatient treatment,Dracunculiasis,.,,,0
+2011,Inpatient treatment,Dracunculiasis,.,,,0
+2012,Inpatient treatment,Dracunculiasis,.,,,0
+2013,Inpatient treatment,Dracunculiasis,,,,1
+2014,Inpatient treatment,Dracunculiasis,-,,,0
+2015,Inpatient treatment,Dracunculiasis,-,,,0
+2016,Inpatient treatment,Dracunculiasis,-,,,0
+2017,Inpatient treatment,Dracunculiasis,-,,,0
+2018,Inpatient treatment,Dracunculiasis,-,,,0
+2019,Inpatient treatment,Dracunculiasis,-,,,0
+2020,Inpatient treatment,Dracunculiasis,-,,,0
+2021,Inpatient treatment,Dracunculiasis,-,,,0
+2022,Inpatient treatment,Dracunculiasis,,,,1
+2023,Inpatient treatment,Dracunculiasis,,,,12
+2010,People requiring interventions,Rabies,-,,,0
+2011,People requiring interventions,Rabies,-,,,0
+2012,People requiring interventions,Rabies,-,,,0
+2013,People requiring interventions,Rabies,-,,,0
+2014,People requiring interventions,Rabies,-,,,0
+2015,People requiring interventions,Rabies,-,,,0
+2016,People requiring interventions,Rabies,-,,,0
+2017,People requiring interventions,Rabies,-,,,0
+2018,People requiring interventions,Rabies,-,,,0
+2019,People requiring interventions,Rabies,-,,,0
+2020,People requiring interventions,Rabies,-,,,0
+2021,People requiring interventions,Rabies,-,,,0
+2022,People requiring interventions,Rabies,-,,,0
+2023,People requiring interventions,Rabies,‒,,,0

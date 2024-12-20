@@ -1,29 +1,29 @@
-Year,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Armutsgefährdungsquote,,,,15.6
-2011,Armutsgefährdungsquote,,,,15.8
-2012,Armutsgefährdungsquote,,,,16.1
-2013,Armutsgefährdungsquote,,,,16.1
-2014,Armutsgefährdungsquote,,,,16.7
-2015,Armutsgefährdungsquote,,,,16.7
-2016,Armutsgefährdungsquote,,,,16.5
-2017,Armutsgefährdungsquote,,,,16.1
-2018,Armutsgefährdungsquote,,,,16.0
-2019,Armutsgefährdungsquote,,,,14.8
-2020,Armutsgefährdungsquote,|,,,16.1
-2021,Armutsgefährdungsquote,,,,16.0
-2022,Armutsgefährdungsquote,,,,14.8
-2023,Armutsgefährdungsquote,,,,14.4
-2010,Staatsausgaben für soziale Sicherung,r,,,40.82
-2011,Staatsausgaben für soziale Sicherung,r,,,40.9
-2012,Staatsausgaben für soziale Sicherung,r,,,41.04
-2013,Staatsausgaben für soziale Sicherung,r,,,41.15
-2014,Staatsausgaben für soziale Sicherung,r,,,41.35
-2015,Staatsausgaben für soziale Sicherung,r,,,42.06
-2016,Staatsausgaben für soziale Sicherung,r,,,42.77
-2017,Staatsausgaben für soziale Sicherung,r,,,42.73
-2018,Staatsausgaben für soziale Sicherung,r,,,42.27
-2019,Staatsausgaben für soziale Sicherung,r,,,42.21
-2020,Staatsausgaben für soziale Sicherung,p,,,41.86
-2021,Staatsausgaben für soziale Sicherung,p,,,40.41
-2022,Staatsausgaben für soziale Sicherung,p,,,40.79
-2023,Staatsausgaben für soziale Sicherung,p,,,40.62
+Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,,,,Armutsgefährdungsquote,15.6
+2011,,,,Armutsgefährdungsquote,15.8
+2012,,,,Armutsgefährdungsquote,16.1
+2013,,,,Armutsgefährdungsquote,16.1
+2014,,,,Armutsgefährdungsquote,16.7
+2015,,,,Armutsgefährdungsquote,16.7
+2016,,,,Armutsgefährdungsquote,16.5
+2017,,,,Armutsgefährdungsquote,16.1
+2018,,,,Armutsgefährdungsquote,16.0
+2019,,,,Armutsgefährdungsquote,14.8
+2020,|,,,Armutsgefährdungsquote,16.1
+2021,,,,Armutsgefährdungsquote,16.0
+2022,,,,Armutsgefährdungsquote,14.8
+2023,,,,Armutsgefährdungsquote,14.4
+2010,r,,,Staatsausgaben für soziale Sicherung,40.82
+2011,r,,,Staatsausgaben für soziale Sicherung,40.9
+2012,r,,,Staatsausgaben für soziale Sicherung,41.04
+2013,r,,,Staatsausgaben für soziale Sicherung,41.15
+2014,r,,,Staatsausgaben für soziale Sicherung,41.35
+2015,r,,,Staatsausgaben für soziale Sicherung,42.06
+2016,r,,,Staatsausgaben für soziale Sicherung,42.77
+2017,r,,,Staatsausgaben für soziale Sicherung,42.73
+2018,r,,,Staatsausgaben für soziale Sicherung,42.27
+2019,r,,,Staatsausgaben für soziale Sicherung,42.21
+2020,p,,,Staatsausgaben für soziale Sicherung,41.86
+2021,p,,,Staatsausgaben für soziale Sicherung,40.41
+2022,p,,,Staatsausgaben für soziale Sicherung,40.79
+2023,p,,,Staatsausgaben für soziale Sicherung,40.62

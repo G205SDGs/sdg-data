@@ -1,3 +1,4 @@
 From,To
 timeseries,availability
 availability,COMMENT_OBS_0
+COMMENT_OBS_0,COMMENT_OBS_1

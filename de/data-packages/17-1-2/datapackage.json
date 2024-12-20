@@ -16,12 +16,12 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Staatsausgaben, die durch Steuern finanziert werden",
-                "Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsabgaben finanziert werden",
+                "Steuern",
+                "Steuern und Sozialversicherungsausgaben",
                 ""
               ]
             },

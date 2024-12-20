@@ -1,23 +1,14 @@
-Year,Series,Value
-2010,renewable energy in total final energy consumption,10.6
-2011,renewable energy in total final energy consumption,11.5
-2012,renewable energy in total final energy consumption,11.9
-2013,renewable energy in total final energy consumption,12.0
-2014,renewable energy in total final energy consumption,13.2
-2015,renewable energy in total final energy consumption,14.0
-2016,renewable energy in total final energy consumption,14.0
-2017,renewable energy in total final energy consumption,14.9
-2010,renewable energy in gross final energy consumption,11.7
-2011,renewable energy in gross final energy consumption,12.5
-2012,renewable energy in gross final energy consumption,13.8
-2013,renewable energy in gross final energy consumption,13.8
-2014,renewable energy in gross final energy consumption,14.4
-2015,renewable energy in gross final energy consumption,14.9
-2016,renewable energy in gross final energy consumption,14.9
-2017,renewable energy in gross final energy consumption,15.5
-2018,renewable energy in gross final energy consumption,16.7
-2019,renewable energy in gross final energy consumption,17.3
-2020,renewable energy in gross final energy consumption,19.1
-2021,renewable energy in gross final energy consumption,19.4
-2022,renewable energy in gross final energy consumption,20.8
-2023,renewable energy in gross final energy consumption,22.0
+Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,,,,11.207
+2011,,,,11.999
+2012,,,,13.162
+2013,,,,13.32
+2014,,,,13.807
+2015,,,,14.356
+2016,,,,14.338
+2017,,,,15.321
+2018,,,,16.008
+2019,,,,16.84
+2020,,,,18.639
+2021,,,,17.965
+2022,,,,19.729

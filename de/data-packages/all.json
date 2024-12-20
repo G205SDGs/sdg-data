@@ -48,6 +48,7 @@
               "enum": [
                 "‒",
                 "0",
+                "…",
                 ""
               ]
             },
@@ -712,23 +713,10 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung",
-                "Bevölkerung mit Anschluss an die öffentliche Wasserversorgung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "s",
                 ".",
                 ""
               ]
@@ -1222,12 +1210,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "…",
-                "x",
                 ""
               ]
             },
@@ -1693,6 +1678,7 @@
             "constraints": {
               "enum": [
                 "-",
+                "‒",
                 "s",
                 ""
               ]
@@ -2005,8 +1991,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "X",
-                "0",
                 "r",
                 "p",
                 ""
@@ -2016,9 +2000,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -2822,12 +2807,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                ".",
-                "…",
                 ""
               ]
             },
@@ -4573,6 +4555,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "…",
                 ""
               ]
             },
@@ -5329,6 +5312,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "-",
                 ".",
                 ""
               ]
@@ -5838,6 +5822,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 "r",
                 ""
               ]
@@ -5948,6 +5933,8 @@
             "constraints": {
               "enum": [
                 "…",
+                "r",
+                "p",
                 ""
               ]
             },
@@ -7994,7 +7981,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -8028,11 +8015,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "…",
                 ""
               ]
             },
@@ -8805,9 +8790,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -9549,7 +9535,6 @@
               "enum": [
                 "x",
                 "|",
-                "…",
                 "r",
                 ".",
                 ""
@@ -9687,6 +9672,7 @@
             "constraints": {
               "enum": [
                 "…",
+                ".",
                 ""
               ]
             },
@@ -9910,8 +9896,8 @@
               "enum": [
                 "r",
                 "-",
-                "…",
                 ".",
+                "‒",
                 ""
               ]
             },
@@ -9939,7 +9925,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -9962,12 +9948,12 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Staatsausgaben, die durch Steuern finanziert werden",
-                "Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsabgaben finanziert werden",
+                "Steuern",
+                "Steuern und Sozialversicherungsausgaben",
                 ""
               ]
             },
@@ -10560,7 +10546,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
+                "ja=1, nein=0",
                 "Prozent",
                 ""
               ]
@@ -10585,7 +10571,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "-",
                 "s",
                 ""
               ]
@@ -11081,18 +11066,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Armutsgefährdungsquote",
-                "Staatsausgaben für soziale Sicherung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -11124,6 +11097,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armutsgefährdungsquote",
+                "Staatsausgaben für soziale Sicherung",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -12281,6 +12266,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "0",
                 ""
               ]
             },
@@ -12288,9 +12274,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0.0",
                 ""
               ]
             },
@@ -13015,16 +13002,34 @@
             "title": "Jahr"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "COMMENT_OBS_0",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Erneuerbare Energien am gesamten Endenergieverbrauch",
-                "Erneuerbare Energien am Bruttoendenergieverbrauch",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -13721,6 +13726,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ""
               ]
             },
@@ -13752,7 +13758,7 @@
             "constraints": {
               "enum": [
                 "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
                 "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]
@@ -14571,6 +14577,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ""
               ]
             },
@@ -14602,7 +14609,7 @@
             "constraints": {
               "enum": [
                 "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
                 "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]
@@ -15862,7 +15869,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Durchschnittlicher Stundenverdienst Beschäftigter",
+                "Durchschnittlicher Stundenverdienst von Beschäftigten",
                 "Verdienstabstand",
                 ""
               ]
@@ -16215,9 +16222,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 ""
               ]
             },
