@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million EUR",
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {

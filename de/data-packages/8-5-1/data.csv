@@ -16,6 +16,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,EUR pro Stunde,Weiblich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,19.12
 2022,EUR pro Stunde,Weiblich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,20.05
 2023,EUR pro Stunde,Weiblich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,20.84
+2024,EUR pro Stunde,Weiblich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,22.24
 2010,EUR pro Stunde,Männlich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,18.81
 2011,EUR pro Stunde,Männlich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,19.17
 2012,EUR pro Stunde,Männlich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,19.63
@@ -30,6 +31,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,EUR pro Stunde,Männlich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,23.2
 2022,EUR pro Stunde,Männlich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,24.36
 2023,EUR pro Stunde,Männlich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,25.3
+2024,EUR pro Stunde,Männlich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,26.34
 2010,Prozent,,,,,,,Verdienstabstand,22.0
 2011,Prozent,,,,,,,Verdienstabstand,22.0
 2012,Prozent,,,,,,,Verdienstabstand,23.0
@@ -44,6 +46,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,,,,,,Verdienstabstand,18.0
 2022,Prozent,,,,|,,,Verdienstabstand,18.0
 2023,Prozent,,,,,,,Verdienstabstand,18.0
+2024,Prozent,,,,,,,Verdienstabstand,16.0
 2010,Prozent,,Baden-Württemberg,code08,,,,Verdienstabstand,27.0
 2011,Prozent,,Baden-Württemberg,code08,,,,Verdienstabstand,27.0
 2012,Prozent,,Baden-Württemberg,code08,,,,Verdienstabstand,27.0
@@ -58,6 +61,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Baden-Württemberg,code08,,,,Verdienstabstand,22.0
 2022,Prozent,,Baden-Württemberg,code08,|,,,Verdienstabstand,23.0
 2023,Prozent,,Baden-Württemberg,code08,,,,Verdienstabstand,22.0
+2024,Prozent,,Baden-Württemberg,code08,,,,Verdienstabstand,19.0
 2010,Prozent,,Bayern,code09,,,,Verdienstabstand,26.0
 2011,Prozent,,Bayern,code09,,,,Verdienstabstand,25.0
 2012,Prozent,,Bayern,code09,,,,Verdienstabstand,25.0
@@ -72,6 +76,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Bayern,code09,,,,Verdienstabstand,21.0
 2022,Prozent,,Bayern,code09,|,,,Verdienstabstand,21.0
 2023,Prozent,,Bayern,code09,,,,Verdienstabstand,21.0
+2024,Prozent,,Bayern,code09,,,,Verdienstabstand,18.0
 2010,Prozent,,Berlin,code11,,,,Verdienstabstand,14.0
 2011,Prozent,,Berlin,code11,,,,Verdienstabstand,15.0
 2012,Prozent,,Berlin,code11,,,,Verdienstabstand,15.0
@@ -86,6 +91,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Berlin,code11,,,,Verdienstabstand,10.0
 2022,Prozent,,Berlin,code11,|,,,Verdienstabstand,10.0
 2023,Prozent,,Berlin,code11,,,,Verdienstabstand,11.0
+2024,Prozent,,Berlin,code11,,,,Verdienstabstand,10.0
 2010,Prozent,,Brandenburg,code12,,,,Verdienstabstand,7.0
 2011,Prozent,,Brandenburg,code12,,,,Verdienstabstand,6.0
 2012,Prozent,,Brandenburg,code12,,,,Verdienstabstand,7.0
@@ -100,6 +106,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Brandenburg,code12,,,,Verdienstabstand,5.0
 2022,Prozent,,Brandenburg,code12,|,,,Verdienstabstand,6.0
 2023,Prozent,,Brandenburg,code12,,,,Verdienstabstand,4.0
+2024,Prozent,,Brandenburg,code12,,,,Verdienstabstand,2.0
 2010,Prozent,,Bremen,code04,,,,Verdienstabstand,24.0
 2011,Prozent,,Bremen,code04,,,,Verdienstabstand,24.0
 2012,Prozent,,Bremen,code04,,,,Verdienstabstand,27.0
@@ -114,6 +121,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Bremen,code04,,,,Verdienstabstand,22.0
 2022,Prozent,,Bremen,code04,|,,,Verdienstabstand,20.0
 2023,Prozent,,Bremen,code04,,,,Verdienstabstand,19.0
+2024,Prozent,,Bremen,code04,,,,Verdienstabstand,17.0
 2010,Prozent,,Hamburg,code02,,,,Verdienstabstand,23.0
 2011,Prozent,,Hamburg,code02,,,,Verdienstabstand,22.0
 2012,Prozent,,Hamburg,code02,,,,Verdienstabstand,24.0
@@ -128,6 +136,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Hamburg,code02,,,,Verdienstabstand,21.0
 2022,Prozent,,Hamburg,code02,|,,,Verdienstabstand,18.0
 2023,Prozent,,Hamburg,code02,,,,Verdienstabstand,18.0
+2024,Prozent,,Hamburg,code02,,,,Verdienstabstand,18.0
 2010,Prozent,,Hessen,code06,,,,Verdienstabstand,25.0
 2011,Prozent,,Hessen,code06,,,,Verdienstabstand,25.0
 2012,Prozent,,Hessen,code06,,,,Verdienstabstand,24.0
@@ -142,6 +151,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Hessen,code06,,,,Verdienstabstand,18.0
 2022,Prozent,,Hessen,code06,|,,,Verdienstabstand,21.0
 2023,Prozent,,Hessen,code06,,,,Verdienstabstand,20.0
+2024,Prozent,,Hessen,code06,,,,Verdienstabstand,19.0
 2010,Prozent,,Mecklenburg-Vorpommern,code13,,,,Verdienstabstand,4.0
 2011,Prozent,,Mecklenburg-Vorpommern,code13,,,,Verdienstabstand,6.0
 2012,Prozent,,Mecklenburg-Vorpommern,code13,,,,Verdienstabstand,7.0
@@ -156,6 +166,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Mecklenburg-Vorpommern,code13,,,,Verdienstabstand,5.0
 2022,Prozent,,Mecklenburg-Vorpommern,code13,|,,,Verdienstabstand,6.0
 2023,Prozent,,Mecklenburg-Vorpommern,code13,,,,Verdienstabstand,7.0
+2024,Prozent,,Mecklenburg-Vorpommern,code13,,,,Verdienstabstand,7.0
 2010,Prozent,,Niedersachsen,code03,,,,Verdienstabstand,22.0
 2011,Prozent,,Niedersachsen,code03,,,,Verdienstabstand,22.0
 2012,Prozent,,Niedersachsen,code03,,,,Verdienstabstand,21.0
@@ -170,6 +181,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Niedersachsen,code03,,,,Verdienstabstand,19.0
 2022,Prozent,,Niedersachsen,code03,|,,,Verdienstabstand,18.0
 2023,Prozent,,Niedersachsen,code03,,,,Verdienstabstand,18.0
+2024,Prozent,,Niedersachsen,code03,,,,Verdienstabstand,15.0
 2010,Prozent,,Nordrhein-Westfalen,code05,,,,Verdienstabstand,23.0
 2011,Prozent,,Nordrhein-Westfalen,code05,,,,Verdienstabstand,23.0
 2012,Prozent,,Nordrhein-Westfalen,code05,,,,Verdienstabstand,24.0
@@ -184,6 +196,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Nordrhein-Westfalen,code05,,,,Verdienstabstand,17.0
 2022,Prozent,,Nordrhein-Westfalen,code05,|,,,Verdienstabstand,17.0
 2023,Prozent,,Nordrhein-Westfalen,code05,,,,Verdienstabstand,17.0
+2024,Prozent,,Nordrhein-Westfalen,code05,,,,Verdienstabstand,16.0
 2010,Prozent,,Rheinland-Pfalz,code07,,,,Verdienstabstand,22.0
 2011,Prozent,,Rheinland-Pfalz,code07,,,,Verdienstabstand,22.0
 2012,Prozent,,Rheinland-Pfalz,code07,,,,Verdienstabstand,22.0
@@ -198,6 +211,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Rheinland-Pfalz,code07,,,,Verdienstabstand,15.0
 2022,Prozent,,Rheinland-Pfalz,code07,|,,,Verdienstabstand,15.0
 2023,Prozent,,Rheinland-Pfalz,code07,,,,Verdienstabstand,15.0
+2024,Prozent,,Rheinland-Pfalz,code07,,,,Verdienstabstand,14.0
 2010,Prozent,,Saarland,code10,,,,Verdienstabstand,25.0
 2011,Prozent,,Saarland,code10,,,,Verdienstabstand,25.0
 2012,Prozent,,Saarland,code10,,,,Verdienstabstand,25.0
@@ -212,6 +226,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Saarland,code10,,,,Verdienstabstand,20.0
 2022,Prozent,,Saarland,code10,|,,,Verdienstabstand,18.0
 2023,Prozent,,Saarland,code10,,,,Verdienstabstand,18.0
+2024,Prozent,,Saarland,code10,,,,Verdienstabstand,16.0
 2010,Prozent,,Sachsen,code14,,,,Verdienstabstand,9.0
 2011,Prozent,,Sachsen,code14,,,,Verdienstabstand,10.0
 2012,Prozent,,Sachsen,code14,,,,Verdienstabstand,11.0
@@ -226,6 +241,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Sachsen,code14,,,,Verdienstabstand,6.0
 2022,Prozent,,Sachsen,code14,|,,,Verdienstabstand,8.0
 2023,Prozent,,Sachsen,code14,,,,Verdienstabstand,9.0
+2024,Prozent,,Sachsen,code14,,,,Verdienstabstand,7.0
 2010,Prozent,,Sachsen-Anhalt,code15,,,,Verdienstabstand,4.0
 2011,Prozent,,Sachsen-Anhalt,code15,,,,Verdienstabstand,5.0
 2012,Prozent,,Sachsen-Anhalt,code15,,,,Verdienstabstand,5.0
@@ -240,6 +256,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Sachsen-Anhalt,code15,,,,Verdienstabstand,7.0
 2022,Prozent,,Sachsen-Anhalt,code15,|,,,Verdienstabstand,6.0
 2023,Prozent,,Sachsen-Anhalt,code15,,,,Verdienstabstand,5.0
+2024,Prozent,,Sachsen-Anhalt,code15,,,,Verdienstabstand,4.0
 2010,Prozent,,Schleswig-Holstein,code01,,,,Verdienstabstand,18.0
 2011,Prozent,,Schleswig-Holstein,code01,,,,Verdienstabstand,17.0
 2012,Prozent,,Schleswig-Holstein,code01,,,,Verdienstabstand,18.0
@@ -254,6 +271,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Schleswig-Holstein,code01,,,,Verdienstabstand,12.0
 2022,Prozent,,Schleswig-Holstein,code01,|,,,Verdienstabstand,12.0
 2023,Prozent,,Schleswig-Holstein,code01,,,,Verdienstabstand,12.0
+2024,Prozent,,Schleswig-Holstein,code01,,,,Verdienstabstand,11.0
 2010,Prozent,,Thüringen,code16,,,,Verdienstabstand,6.0
 2011,Prozent,,Thüringen,code16,,,,Verdienstabstand,7.0
 2012,Prozent,,Thüringen,code16,,,,Verdienstabstand,8.0
@@ -268,3 +286,4 @@ Year,Units,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS
 2021,Prozent,,Thüringen,code16,,,,Verdienstabstand,5.0
 2022,Prozent,,Thüringen,code16,|,,,Verdienstabstand,7.0
 2023,Prozent,,Thüringen,code16,,,,Verdienstabstand,7.0
+2024,Prozent,,Thüringen,code16,,,,Verdienstabstand,6.0

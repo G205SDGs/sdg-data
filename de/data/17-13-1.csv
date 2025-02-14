@@ -1,46 +1,49 @@
 Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Prozent,Jährliche Wachstumsrate des realen BIP,r,,,4.1
-2011,Prozent,Jährliche Wachstumsrate des realen BIP,r,,,3.8
-2012,Prozent,Jährliche Wachstumsrate des realen BIP,r,,,0.5
-2013,Prozent,Jährliche Wachstumsrate des realen BIP,r,,,0.4
-2014,Prozent,Jährliche Wachstumsrate des realen BIP,r,,,2.2
-2015,Prozent,Jährliche Wachstumsrate des realen BIP,r,,,1.7
-2016,Prozent,Jährliche Wachstumsrate des realen BIP,r,,,2.3
-2017,Prozent,Jährliche Wachstumsrate des realen BIP,r,,,2.7
-2018,Prozent,Jährliche Wachstumsrate des realen BIP,r,,,1.1
-2019,Prozent,Jährliche Wachstumsrate des realen BIP,r,,,1.0
+2010,Prozent,Jährliche Wachstumsrate des realen BIP,,,,4.1
+2011,Prozent,Jährliche Wachstumsrate des realen BIP,,,,3.8
+2012,Prozent,Jährliche Wachstumsrate des realen BIP,,,,0.5
+2013,Prozent,Jährliche Wachstumsrate des realen BIP,,,,0.4
+2014,Prozent,Jährliche Wachstumsrate des realen BIP,,,,2.2
+2015,Prozent,Jährliche Wachstumsrate des realen BIP,,,,1.7
+2016,Prozent,Jährliche Wachstumsrate des realen BIP,,,,2.3
+2017,Prozent,Jährliche Wachstumsrate des realen BIP,,,,2.7
+2018,Prozent,Jährliche Wachstumsrate des realen BIP,,,,1.1
+2019,Prozent,Jährliche Wachstumsrate des realen BIP,,,,1.0
 2020,Prozent,Jährliche Wachstumsrate des realen BIP,,,,-4.1
 2021,Prozent,Jährliche Wachstumsrate des realen BIP,p,,,3.7
 2022,Prozent,Jährliche Wachstumsrate des realen BIP,p,,,1.4
 2023,Prozent,Jährliche Wachstumsrate des realen BIP,p,,,-0.3
-2010,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1577.9
-2011,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1626.5
-2012,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1660.6
-2013,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1681.8
-2014,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1726.4
-2015,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1779.1
-2016,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1834.2
-2017,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1897.2
-2018,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1973.6
-2019,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,2021.8
+2024,Prozent,Jährliche Wachstumsrate des realen BIP,p,,,-0.2
+2010,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1577.9
+2011,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1626.5
+2012,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1660.6
+2013,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1681.8
+2014,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1726.4
+2015,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1779.1
+2016,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1834.2
+2017,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1897.2
+2018,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1973.6
+2019,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,2021.8
 2020,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,2025.2
 2021,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2085.0
 2022,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2249.6
 2023,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2404.4
-2010,Milliarden EUR,Konsum privater Haushalte,r,,,1417.1
-2011,Milliarden EUR,Konsum privater Haushalte,r,,,1463.0
-2012,Milliarden EUR,Konsum privater Haushalte,r,,,1503.4
-2013,Milliarden EUR,Konsum privater Haushalte,r,,,1528.8
-2014,Milliarden EUR,Konsum privater Haushalte,r,,,1560.4
-2015,Milliarden EUR,Konsum privater Haushalte,r,,,1604.9
-2016,Milliarden EUR,Konsum privater Haushalte,r,,,1651.7
-2017,Milliarden EUR,Konsum privater Haushalte,r,,,1704.0
-2018,Milliarden EUR,Konsum privater Haushalte,r,,,1757.5
-2019,Milliarden EUR,Konsum privater Haushalte,r,,,1813.7
+2024,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2513.2
+2010,Milliarden EUR,Konsum privater Haushalte,,,,1417.1
+2011,Milliarden EUR,Konsum privater Haushalte,,,,1463.0
+2012,Milliarden EUR,Konsum privater Haushalte,,,,1503.4
+2013,Milliarden EUR,Konsum privater Haushalte,,,,1528.8
+2014,Milliarden EUR,Konsum privater Haushalte,,,,1560.4
+2015,Milliarden EUR,Konsum privater Haushalte,,,,1604.9
+2016,Milliarden EUR,Konsum privater Haushalte,,,,1651.7
+2017,Milliarden EUR,Konsum privater Haushalte,,,,1704.0
+2018,Milliarden EUR,Konsum privater Haushalte,,,,1757.5
+2019,Milliarden EUR,Konsum privater Haushalte,,,,1813.7
 2020,Milliarden EUR,Konsum privater Haushalte,,,,1695.6
 2021,Milliarden EUR,Konsum privater Haushalte,p,,,1786.7
 2022,Milliarden EUR,Konsum privater Haushalte,p,,,2018.0
 2023,Milliarden EUR,Konsum privater Haushalte,p,,,2145.4
+2024,Milliarden EUR,Konsum privater Haushalte,p,,,2209.4
 2010,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2011.7
 2011,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2025.4
 2012,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2068.3
@@ -55,62 +58,67 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2321.0
 2022,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2368.0
 2023,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2445.1
-2010,Milliarden EUR,Finanzierungssaldo des Staates,r,,,-115.6
-2011,Milliarden EUR,Finanzierungssaldo des Staates,r,,,-23.1
-2012,Milliarden EUR,Finanzierungssaldo des Staates,r,,,-1.5
-2013,Milliarden EUR,Finanzierungssaldo des Staates,r,,,3.5
-2014,Milliarden EUR,Finanzierungssaldo des Staates,r,,,21.8
-2015,Milliarden EUR,Finanzierungssaldo des Staates,r,,,28.2
-2016,Milliarden EUR,Finanzierungssaldo des Staates,r,,,36.2
-2017,Milliarden EUR,Finanzierungssaldo des Staates,r,,,44.6
+2024,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,…,,,
+2010,Milliarden EUR,Finanzierungssaldo des Staates,,,,-115.6
+2011,Milliarden EUR,Finanzierungssaldo des Staates,,,,-23.1
+2012,Milliarden EUR,Finanzierungssaldo des Staates,,,,-1.5
+2013,Milliarden EUR,Finanzierungssaldo des Staates,,,,3.5
+2014,Milliarden EUR,Finanzierungssaldo des Staates,,,,21.8
+2015,Milliarden EUR,Finanzierungssaldo des Staates,,,,28.2
+2016,Milliarden EUR,Finanzierungssaldo des Staates,,,,36.2
+2017,Milliarden EUR,Finanzierungssaldo des Staates,,,,44.6
 2018,Milliarden EUR,Finanzierungssaldo des Staates,r,,,64.7
-2019,Milliarden EUR,Finanzierungssaldo des Staates,r,,,47.0
+2019,Milliarden EUR,Finanzierungssaldo des Staates,,,,47.0
 2020,Milliarden EUR,Finanzierungssaldo des Staates,,,,-151.1
 2021,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-116.4
 2022,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-84.9
 2023,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-107.5
-2010,Milliarden EUR,Bruttoanlageinvestitionen,r,,,501.8
-2011,Milliarden EUR,Bruttoanlageinvestitionen,r,,,549.6
-2012,Milliarden EUR,Bruttoanlageinvestitionen,r,,,558.9
-2013,Milliarden EUR,Bruttoanlageinvestitionen,r,,,561.2
-2014,Milliarden EUR,Bruttoanlageinvestitionen,r,,,590.4
-2015,Milliarden EUR,Bruttoanlageinvestitionen,r,,,609.6
-2016,Milliarden EUR,Bruttoanlageinvestitionen,r,,,640.4
-2017,Milliarden EUR,Bruttoanlageinvestitionen,r,,,671.1
-2018,Milliarden EUR,Bruttoanlageinvestitionen,r,,,714.9
-2019,Milliarden EUR,Bruttoanlageinvestitionen,r,,,748.2
+2024,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-113.0
+2010,Milliarden EUR,Bruttoanlageinvestitionen,,,,501.8
+2011,Milliarden EUR,Bruttoanlageinvestitionen,,,,549.6
+2012,Milliarden EUR,Bruttoanlageinvestitionen,,,,558.9
+2013,Milliarden EUR,Bruttoanlageinvestitionen,,,,561.2
+2014,Milliarden EUR,Bruttoanlageinvestitionen,,,,590.4
+2015,Milliarden EUR,Bruttoanlageinvestitionen,,,,609.6
+2016,Milliarden EUR,Bruttoanlageinvestitionen,,,,640.4
+2017,Milliarden EUR,Bruttoanlageinvestitionen,,,,671.1
+2018,Milliarden EUR,Bruttoanlageinvestitionen,,,,714.9
+2019,Milliarden EUR,Bruttoanlageinvestitionen,,,,748.2
 2020,Milliarden EUR,Bruttoanlageinvestitionen,,,,736.5
 2021,Milliarden EUR,Bruttoanlageinvestitionen,p,,,779.2
 2022,Milliarden EUR,Bruttoanlageinvestitionen,p,,,858.3
 2023,Milliarden EUR,Bruttoanlageinvestitionen,p,,,899.9
-2010,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,r,,,49385.0
-2011,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,r,,,50163.0
-2012,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,r,,,50098.0
-2013,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,r,,,50243.0
-2014,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,r,,,51075.0
-2015,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,r,,,51811.0
-2016,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,r,,,52493.0
-2017,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,r,,,53225.0
-2018,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,r,,,53913.0
-2019,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,r,,,54333.0
+2024,Milliarden EUR,Bruttoanlageinvestitionen,p,,,897.2
+2010,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,49385.0
+2011,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,50163.0
+2012,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,50098.0
+2013,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,50243.0
+2014,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,51075.0
+2015,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,51811.0
+2016,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,52493.0
+2017,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,53225.0
+2018,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,53913.0
+2019,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,54333.0
 2020,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,52028.0
 2021,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,p,,,53392.0
 2022,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,p,,,54177.0
 2023,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,p,,,54592.0
-2010,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,r,,,58581.0
-2011,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,r,,,59328.0
-2012,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,r,,,59143.0
-2013,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,r,,,59148.0
-2014,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,r,,,59859.0
-2015,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,r,,,60460.0
-2016,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,r,,,60978.0
-2017,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,r,,,61484.0
-2018,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,r,,,61964.0
-2019,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,r,,,62141.0
+2024,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,p,,,54728.0
+2010,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,58581.0
+2011,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,59328.0
+2012,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,59143.0
+2013,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,59148.0
+2014,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,59859.0
+2015,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,60460.0
+2016,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,60978.0
+2017,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,61484.0
+2018,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,61964.0
+2019,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,62141.0
 2020,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,59066.0
 2021,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,60456.0
 2022,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61211.0
 2023,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61437.0
+2024,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61370.0
 2010,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,,,,94.2
 2011,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,,,,96.2
 2012,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,,,,96.8
@@ -125,6 +133,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,p,,,101.0
 2022,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,p,,,103.6
 2023,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,p,,,99.9
+2024,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,p,,,99.4
 2010,2020 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,,,,90.2
 2011,2020 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,,,,92.4
 2012,2020 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,,,,93.1
@@ -139,20 +148,22 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,2020 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,p,,,101.3
 2022,2020 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,p,,,101.4
 2023,2020 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,p,,,100.8
-2010,Anzahl in 1 000,Erwerbstätige,r,,,41099.0
-2011,Anzahl in 1 000,Erwerbstätige,r,,,41570.0
-2012,Anzahl in 1 000,Erwerbstätige,r,,,42065.0
-2013,Anzahl in 1 000,Erwerbstätige,r,,,42378.0
-2014,Anzahl in 1 000,Erwerbstätige,r,,,42756.0
-2015,Anzahl in 1 000,Erwerbstätige,r,,,43137.0
-2016,Anzahl in 1 000,Erwerbstätige,r,,,43686.0
-2017,Anzahl in 1 000,Erwerbstätige,r,,,44290.0
-2018,Anzahl in 1 000,Erwerbstätige,r,,,44878.0
-2019,Anzahl in 1 000,Erwerbstätige,r,,,45291.0
+2024,2020 = 100,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde,p,,,100.7
+2010,Anzahl in 1 000,Erwerbstätige,,,,41099.0
+2011,Anzahl in 1 000,Erwerbstätige,,,,41570.0
+2012,Anzahl in 1 000,Erwerbstätige,,,,42065.0
+2013,Anzahl in 1 000,Erwerbstätige,,,,42378.0
+2014,Anzahl in 1 000,Erwerbstätige,,,,42756.0
+2015,Anzahl in 1 000,Erwerbstätige,,,,43137.0
+2016,Anzahl in 1 000,Erwerbstätige,,,,43686.0
+2017,Anzahl in 1 000,Erwerbstätige,,,,44290.0
+2018,Anzahl in 1 000,Erwerbstätige,,,,44878.0
+2019,Anzahl in 1 000,Erwerbstätige,,,,45291.0
 2020,Anzahl in 1 000,Erwerbstätige,,,,44966.0
 2021,Anzahl in 1 000,Erwerbstätige,p,,,45053.0
 2022,Anzahl in 1 000,Erwerbstätige,p,,,45675.0
 2023,Anzahl in 1 000,Erwerbstätige,p,,,46011.0
+2024,Anzahl in 1 000,Erwerbstätige,p,,,46083.0
 2010,2020 = 100,Reales BIP pro Kopf,,,,92.6
 2011,2020 = 100,Reales BIP pro Kopf,,,,96.1
 2012,2020 = 100,Reales BIP pro Kopf,,,,96.4
@@ -167,17 +178,19 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,2020 = 100,Reales BIP pro Kopf,p,,,103.6
 2022,2020 = 100,Reales BIP pro Kopf,p,,,104.3
 2023,2020 = 100,Reales BIP pro Kopf,p,,,103.1
-2010,Milliarden EUR,Außenbeitrag,r,,,133.5
-2011,Milliarden EUR,Außenbeitrag,r,,,133.3
-2012,Milliarden EUR,Außenbeitrag,r,,,169.1
-2013,Milliarden EUR,Außenbeitrag,r,,,165.5
-2014,Milliarden EUR,Außenbeitrag,r,,,195.2
-2015,Milliarden EUR,Außenbeitrag,r,,,228.9
-2016,Milliarden EUR,Außenbeitrag,r,,,232.1
-2017,Milliarden EUR,Außenbeitrag,r,,,236.0
-2018,Milliarden EUR,Außenbeitrag,r,,,205.4
-2019,Milliarden EUR,Außenbeitrag,r,,,199.3
+2024,2020 = 100,Reales BIP pro Kopf,p,,,102.7
+2010,Milliarden EUR,Außenbeitrag,,,,133.5
+2011,Milliarden EUR,Außenbeitrag,,,,133.3
+2012,Milliarden EUR,Außenbeitrag,,,,169.1
+2013,Milliarden EUR,Außenbeitrag,,,,165.5
+2014,Milliarden EUR,Außenbeitrag,,,,195.2
+2015,Milliarden EUR,Außenbeitrag,,,,228.9
+2016,Milliarden EUR,Außenbeitrag,,,,232.1
+2017,Milliarden EUR,Außenbeitrag,,,,236.0
+2018,Milliarden EUR,Außenbeitrag,,,,205.4
+2019,Milliarden EUR,Außenbeitrag,,,,199.3
 2020,Milliarden EUR,Außenbeitrag,,,,184.4
 2021,Milliarden EUR,Außenbeitrag,p,,,189.7
 2022,Milliarden EUR,Außenbeitrag,p,,,98.7
 2023,Milliarden EUR,Außenbeitrag,p,,,167.7
+2024,Milliarden EUR,Außenbeitrag,p,,,172.8

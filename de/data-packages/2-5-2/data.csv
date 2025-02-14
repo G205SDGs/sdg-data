@@ -11,6 +11,8 @@ Year,Units,Zeitreihe,Gefährdungskategorie,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2019,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Gefährdet,,,,87.5
 2020,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Gefährdet,.,,,
 2021,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Gefährdet,.,,,
+2022,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Gefährdet,.,,,
+2023,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Gefährdet,…,,,
 2010,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Nicht gefährdet,.,,,
 2011,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Nicht gefährdet,.,,,
 2012,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Nicht gefährdet,.,,,
@@ -23,6 +25,8 @@ Year,Units,Zeitreihe,Gefährdungskategorie,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2019,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Nicht gefährdet,,,,12.5
 2020,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Nicht gefährdet,.,,,
 2021,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Nicht gefährdet,.,,,
+2022,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Nicht gefährdet,…,,,
+2023,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Nicht gefährdet,…,,,
 2010,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,.,,,
 2011,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,,,,74.0
 2012,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,.,,,
@@ -35,6 +39,8 @@ Year,Units,Zeitreihe,Gefährdungskategorie,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2019,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,,,,80.0
 2020,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,.,,,
 2021,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,,,,81.0
+2022,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,.,,,
+2023,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,,,,83.0
 2010,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,.,,,
 2011,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,,,,29.7
 2012,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,.,,,
@@ -47,6 +53,8 @@ Year,Units,Zeitreihe,Gefährdungskategorie,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2019,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,,,,30.0
 2020,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,.,,,
 2021,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,,,,28.4
+2022,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,.,,,
+2023,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,,,,28.9
 2010,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,.,,,
 2011,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,,,,39.2
 2012,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,.,,,
@@ -59,6 +67,8 @@ Year,Units,Zeitreihe,Gefährdungskategorie,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2019,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,,,,45.0
 2020,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,.,,,
 2021,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,,,,44.4
+2022,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,.,,,
+2023,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,,,,43.4
 2010,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,.,,,
 2011,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,,,,24.3
 2012,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,.,,,
@@ -71,6 +81,8 @@ Year,Units,Zeitreihe,Gefährdungskategorie,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2019,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,,,,17.5
 2020,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,.,,,
 2021,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,,,,18.5
+2022,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,.,,,
+2023,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,,,,19.3
 2010,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,.,,,
 2011,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,,,,6.8
 2012,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,.,,,
@@ -83,3 +95,5 @@ Year,Units,Zeitreihe,Gefährdungskategorie,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2019,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,,,,7.5
 2020,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,.,,,
 2021,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,,,,8.6
+2022,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,.,,,
+2023,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,,,,8.4

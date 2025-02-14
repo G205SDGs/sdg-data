@@ -10,7 +10,8 @@ Year,Standard Gesamtrechnungssystem,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2018,,,,,10
 2019,,,,,10
 2020,,,,,9
-2021,,,,,2
+2021,,r,,,9
+2022,,,,,2
 2010,SEEA Tabellen,,,,3
 2011,SEEA Tabellen,,,,3
 2012,SEEA Tabellen,,,,3
@@ -23,6 +24,7 @@ Year,Standard Gesamtrechnungssystem,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2019,SEEA Tabellen,,,,3
 2020,SEEA Tabellen,,,,2
 2021,SEEA Tabellen,,,,2
+2022,SEEA Tabellen,,,,2
 2010,TSA Tabellen,,,,7
 2011,TSA Tabellen,,,,0
 2012,TSA Tabellen,,,,0
@@ -33,5 +35,6 @@ Year,Standard Gesamtrechnungssystem,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2017,TSA Tabellen,,,,7
 2018,TSA Tabellen,,,,7
 2019,TSA Tabellen,,,,7
-2020,TSA Tabellen,r,,,7
-2021,TSA Tabellen,,,,0
+2020,TSA Tabellen,,,,7
+2021,TSA Tabellen,r,,,7
+2022,TSA Tabellen,,,,0

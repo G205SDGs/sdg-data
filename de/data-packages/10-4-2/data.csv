@@ -13,6 +13,7 @@ Year,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,,,56.4
 2022,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,,,48.9
 2023,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,,,48.9
+2024,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,p,,,49.1
 2010,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,,,,29.3
 2011,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,,,,29.0
 2012,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,,,,28.3
@@ -27,13 +28,14 @@ Year,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,,,,31.2
 2022,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,,,,29.0
 2023,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,,,,29.4
+2024,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,p,,,29.9
 2010,Umverteilende Wirkung der Fiskalpolitik,,,,26.1
 2011,Umverteilende Wirkung der Fiskalpolitik,,,,26.5
-2012,Umverteilende Wirkung der Fiskalpolitik,r,,,27.1
+2012,Umverteilende Wirkung der Fiskalpolitik,,,,27.1
 2013,Umverteilende Wirkung der Fiskalpolitik,,,,26.7
-2014,Umverteilende Wirkung der Fiskalpolitik,r,,,27.0
+2014,Umverteilende Wirkung der Fiskalpolitik,,,,27.0
 2015,Umverteilende Wirkung der Fiskalpolitik,,,,26.3
-2016,Umverteilende Wirkung der Fiskalpolitik,r,,,26.0
+2016,Umverteilende Wirkung der Fiskalpolitik,,,,26.0
 2017,Umverteilende Wirkung der Fiskalpolitik,,,,25.3
 2018,Umverteilende Wirkung der Fiskalpolitik,,,,25.3
 2019,Umverteilende Wirkung der Fiskalpolitik,,,,25.7
@@ -41,3 +43,4 @@ Year,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Umverteilende Wirkung der Fiskalpolitik,,,,25.2
 2022,Umverteilende Wirkung der Fiskalpolitik,,,,19.9
 2023,Umverteilende Wirkung der Fiskalpolitik,,,,19.5
+2024,Umverteilende Wirkung der Fiskalpolitik,p,,,19.2

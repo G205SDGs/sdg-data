@@ -13,6 +13,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Percentage,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,71.476
 2022,Percentage,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,71.566
 2023,Percentage,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,71.566
+2024,Percentage,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,71.566
 2010,Hectare,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,3999698.924
 2011,Hectare,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,4007560.836
 2012,Hectare,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,4008502.894
@@ -27,6 +28,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Hectare,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,4158660.757
 2022,Hectare,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,4163924.472
 2023,Hectare,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,4163924.472
+2024,Hectare,Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas,,,,4163924.47
 2010,Hectare,Terrestrial and freshwater areas covered by protected areas,,,,12171366.24
 2011,Hectare,Terrestrial and freshwater areas covered by protected areas,,,,12259124.467
 2012,Hectare,Terrestrial and freshwater areas covered by protected areas,,,,12357497.507
@@ -41,6 +43,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Hectare,Terrestrial and freshwater areas covered by protected areas,,,,13362069.354
 2022,Hectare,Terrestrial and freshwater areas covered by protected areas,,,,13410677.803
 2023,Hectare,Terrestrial and freshwater areas covered by protected areas,,,,13410677.803
+2024,Hectare,Terrestrial and freshwater areas covered by protected areas,,,,13410677.8
 2010,Percentage,Terrestrial and freshwater areas covered by protected areas,,,,34.042
 2011,Percentage,Terrestrial and freshwater areas covered by protected areas,,,,34.287
 2012,Percentage,Terrestrial and freshwater areas covered by protected areas,,,,34.562
@@ -55,6 +58,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Percentage,Terrestrial and freshwater areas covered by protected areas,,,,37.372
 2022,Percentage,Terrestrial and freshwater areas covered by protected areas,,,,37.508
 2023,Percentage,Terrestrial and freshwater areas covered by protected areas,,,,37.508
+2024,Percentage,Terrestrial and freshwater areas covered by protected areas,,,,37.508
 2010,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5089703.403
 2011,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5093891.158
 2012,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5100975.527
@@ -65,10 +69,11 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5140828.639
 2018,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5148571.637
 2019,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5153851.601
-2020,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,
-2021,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,
-2022,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,
-2023,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,
+2020,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5159274.396
+2021,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5159274.396
+2022,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5159274.396
+2023,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5143198.385
+2024,Hectare,Terrestrial and freshwater areas covered by effective protected areas,,,,5151574.071
 2010,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.235
 2011,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.247
 2012,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.267
@@ -79,7 +84,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.378
 2018,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.4
 2019,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.415
-2020,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,
-2021,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,
-2022,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,
-2023,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,
+2020,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.43
+2021,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.43
+2022,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.43
+2023,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.385
+2024,Percentage,Terrestrial and freshwater areas covered by effective protected areas,,,,14.408

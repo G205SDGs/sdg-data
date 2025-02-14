@@ -13,6 +13,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,persons at risk of poverty or social exclusion,,,,,21.0
 2022,persons at risk of poverty or social exclusion,,,,,21.1
 2023,persons at risk of poverty or social exclusion,,,,,21.3
+2024,persons at risk of poverty or social exclusion,,p,,,20.9
 2010,persons at risk of poverty or social exclusion,female,,,,
 2011,persons at risk of poverty or social exclusion,female,,,,
 2012,persons at risk of poverty or social exclusion,female,,,,
@@ -27,6 +28,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,persons at risk of poverty or social exclusion,female,,,,21.7
 2022,persons at risk of poverty or social exclusion,female,,,,21.9
 2023,persons at risk of poverty or social exclusion,female,,,,22.1
+2024,persons at risk of poverty or social exclusion,female,p,,,21.8
 2010,persons at risk of poverty or social exclusion,male,,,,
 2011,persons at risk of poverty or social exclusion,male,,,,
 2012,persons at risk of poverty or social exclusion,male,,,,
@@ -41,6 +43,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,persons at risk of poverty or social exclusion,male,,,,20.2
 2022,persons at risk of poverty or social exclusion,male,,,,20.3
 2023,persons at risk of poverty or social exclusion,male,,,,20.5
+2024,persons at risk of poverty or social exclusion,male,p,,,20.0
 2010,at-risk-of-poverty rate,,,,,15.6
 2011,at-risk-of-poverty rate,,,,,15.8
 2012,at-risk-of-poverty rate,,,,,16.1
@@ -55,6 +58,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,at-risk-of-poverty rate,,,,,16.0
 2022,at-risk-of-poverty rate,,,,,14.8
 2023,at-risk-of-poverty rate,,,,,14.4
+2024,at-risk-of-poverty rate,,p,,,15.5
 2010,at-risk-of-poverty rate,female,,,,16.4
 2011,at-risk-of-poverty rate,female,,,,16.8
 2012,at-risk-of-poverty rate,female,,,,17.2
@@ -69,6 +73,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,at-risk-of-poverty rate,female,,,,16.6
 2022,at-risk-of-poverty rate,female,,,,15.5
 2023,at-risk-of-poverty rate,female,,,,15.1
+2024,at-risk-of-poverty rate,female,p,,,16.2
 2010,at-risk-of-poverty rate,male,,,,14.9
 2011,at-risk-of-poverty rate,male,,,,14.9
 2012,at-risk-of-poverty rate,male,,,,14.9
@@ -83,6 +88,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,at-risk-of-poverty rate,male,,,,15.4
 2022,at-risk-of-poverty rate,male,,,,14.0
 2023,at-risk-of-poverty rate,male,,,,13.7
+2024,at-risk-of-poverty rate,male,p,,,14.8
 2010,persons living in households with very low work intensity,,,,,
 2011,persons living in households with very low work intensity,,,,,
 2012,persons living in households with very low work intensity,,,,,
@@ -97,6 +103,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,persons living in households with very low work intensity,,,,,9.5
 2022,persons living in households with very low work intensity,,,,,9.8
 2023,persons living in households with very low work intensity,,,,,9.9
+2024,persons living in households with very low work intensity,,p,,,9.8
 2010,persons living in households with very low work intensity,female,.,,,
 2011,persons living in households with very low work intensity,female,.,,,
 2012,persons living in households with very low work intensity,female,.,,,
@@ -111,6 +118,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,persons living in households with very low work intensity,female,,,,9.8
 2022,persons living in households with very low work intensity,female,,,,10.0
 2023,persons living in households with very low work intensity,female,,,,10.0
+2024,persons living in households with very low work intensity,female,p,,,9.9
 2010,persons living in households with very low work intensity,male,.,,,
 2011,persons living in households with very low work intensity,male,.,,,
 2012,persons living in households with very low work intensity,male,.,,,
@@ -125,6 +133,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,persons living in households with very low work intensity,male,,,,9.2
 2022,persons living in households with very low work intensity,male,,,,9.6
 2023,persons living in households with very low work intensity,male,,,,9.9
+2024,persons living in households with very low work intensity,male,p,,,9.6
 2010,severely materially and socially deprived persons,,.,,,
 2011,severely materially and socially deprived persons,,.,,,
 2012,severely materially and socially deprived persons,,.,,,
@@ -139,6 +148,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,severely materially and socially deprived persons,,,,,4.3
 2022,severely materially and socially deprived persons,,,,,6.2
 2023,severely materially and socially deprived persons,,,,,6.9
+2024,severely materially and socially deprived persons,,p,,,6.0
 2010,severely materially and socially deprived persons,female,.,,,
 2011,severely materially and socially deprived persons,female,.,,,
 2012,severely materially and socially deprived persons,female,.,,,
@@ -153,6 +163,7 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,severely materially and socially deprived persons,female,,,,4.3
 2022,severely materially and socially deprived persons,female,,,,6.1
 2023,severely materially and socially deprived persons,female,,,,6.8
+2024,severely materially and socially deprived persons,female,p,,,5.9
 2010,severely materially and socially deprived persons,male,.,,,
 2011,severely materially and socially deprived persons,male,.,,,
 2012,severely materially and socially deprived persons,male,.,,,
@@ -166,4 +177,5 @@ Year,timeseries,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,severely materially and socially deprived persons,male,|,,,4.3
 2021,severely materially and socially deprived persons,male,,,,4.4
 2022,severely materially and socially deprived persons,male,,,,6.3
-2023,severely materially and socially deprived persons,male,,,,6.9
+2023,severely materially and socially deprived persons,male,r,,,7.0
+2024,severely materially and socially deprived persons,male,p,,,6.1

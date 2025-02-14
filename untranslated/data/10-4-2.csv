@@ -13,6 +13,7 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,56.4
 2022,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,48.9
 2023,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,48.9
+2024,gini coefficient of equivalised disposable income before social transfers (pre-fiscal),p,,,49.1
 2010,gini coefficient of equivalised disposable income (post-fiscal),,,,29.3
 2011,gini coefficient of equivalised disposable income (post-fiscal),,,,29.0
 2012,gini coefficient of equivalised disposable income (post-fiscal),,,,28.3
@@ -27,13 +28,14 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,gini coefficient of equivalised disposable income (post-fiscal),,,,31.2
 2022,gini coefficient of equivalised disposable income (post-fiscal),,,,29.0
 2023,gini coefficient of equivalised disposable income (post-fiscal),,,,29.4
+2024,gini coefficient of equivalised disposable income (post-fiscal),p,,,29.9
 2010,redistributive impact of fiscal policy,,,,26.1
 2011,redistributive impact of fiscal policy,,,,26.5
-2012,redistributive impact of fiscal policy,r,,,27.1
+2012,redistributive impact of fiscal policy,,,,27.1
 2013,redistributive impact of fiscal policy,,,,26.7
-2014,redistributive impact of fiscal policy,r,,,27.0
+2014,redistributive impact of fiscal policy,,,,27.0
 2015,redistributive impact of fiscal policy,,,,26.3
-2016,redistributive impact of fiscal policy,r,,,26.0
+2016,redistributive impact of fiscal policy,,,,26.0
 2017,redistributive impact of fiscal policy,,,,25.3
 2018,redistributive impact of fiscal policy,,,,25.3
 2019,redistributive impact of fiscal policy,,,,25.7
@@ -41,3 +43,4 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,redistributive impact of fiscal policy,,,,25.2
 2022,redistributive impact of fiscal policy,,,,19.9
 2023,redistributive impact of fiscal policy,,,,19.5
+2024,redistributive impact of fiscal policy,p,,,19.2

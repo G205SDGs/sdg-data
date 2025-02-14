@@ -1,15 +1,29 @@
-Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,,,306.3
-2011,,,,312.1
-2012,,,,336.9
-2013,,,,391.4
-2014,,,,406.8
-2015,,,,404.4
-2016,,,,447.8
-2017,,,,474.7
-2018,,,,490.5
-2019,,,,474.5
-2020,,,,489.4
-2021,r,,,560.0
-2022,r,,,537.3
-2023,,,,611.7
+Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,million eur,,,,306.3
+2011,million eur,,,,312.1
+2012,million eur,,,,336.9
+2013,million eur,,,,391.4
+2014,million eur,,,,406.8
+2015,million eur,,,,404.4
+2016,million eur,,,,447.8
+2017,million eur,,,,474.7
+2018,million eur,,,,490.5
+2019,million eur,,,,474.5
+2020,million eur,,,,489.4
+2021,million eur,r,,,560.0
+2022,million eur,r,,,537.3
+2023,million eur,,,,611.7
+2010,percentage,,,,2.4
+2011,percentage,,,,2.35
+2012,percentage,,,,2.51
+2013,percentage,,,,2.74
+2014,percentage,,,,2.87
+2015,percentage,,,,2.69
+2016,percentage,,,,2.87
+2017,percentage,,,,2.85
+2018,percentage,,,,2.84
+2019,percentage,,,,2.53
+2020,percentage,,,,2.37
+2021,percentage,,,,2.58
+2022,percentage,,,,2.3
+2023,percentage,,,,2.54

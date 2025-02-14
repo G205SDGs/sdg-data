@@ -14,6 +14,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,bundestag (lower chamber),,,,,,34.9
 2023,percentage,bundestag (lower chamber),,,,,,35.1
 2024,percentage,bundestag (lower chamber),,,,,,35.3
+2025,percentage,bundestag (lower chamber),,,,,,35.6
 2010,number,bundestag (lower chamber),,,,,,204.0
 2011,number,bundestag (lower chamber),,,,,,206.0
 2012,number,bundestag (lower chamber),,,,,,204.0
@@ -29,6 +30,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,bundestag (lower chamber),,,,,,257.0
 2023,number,bundestag (lower chamber),,,,,,258.0
 2024,number,bundestag (lower chamber),,,,,,259.0
+2025,number,bundestag (lower chamber),,,,,,261.0
 2010,percentage,bundesrat (upper chamber),,,,,,18.8
 2011,percentage,bundesrat (upper chamber),,,,,,24.6
 2012,percentage,bundesrat (upper chamber),,,,,,27.5
@@ -44,6 +46,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,bundesrat (upper chamber),,,,,,31.9
 2023,percentage,bundesrat (upper chamber),,,,,,37.7
 2024,percentage,bundesrat (upper chamber),,,,,,37.7
+2025,percentage,bundesrat (upper chamber),,,,,,34.8
 2010,number,bundesrat (upper chamber),,,,,,13.0
 2011,number,bundesrat (upper chamber),,,,,,17.0
 2012,number,bundesrat (upper chamber),,,,,,19.0
@@ -59,6 +62,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,bundesrat (upper chamber),,,,,,22.0
 2023,number,bundesrat (upper chamber),,,,,,26.0
 2024,number,bundesrat (upper chamber),,,,,,26.0
+2025,number,bundesrat (upper chamber),,,,,,24.0
 2010,percentage,länder parliaments,baden-württemberg,code08,,,,23.7
 2011,percentage,länder parliaments,baden-württemberg,code08,,,,18.1
 2012,percentage,länder parliaments,baden-württemberg,code08,,,,18.1
@@ -74,6 +78,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,baden-württemberg,code08,,,,29.2
 2023,percentage,länder parliaments,baden-württemberg,code08,,,,29.2
 2024,percentage,länder parliaments,baden-württemberg,code08,,,,29.2
+2025,percentage,länder parliaments,baden-württemberg,code08,,,,29.2
 2010,number,länder parliaments,baden-württemberg,code08,,,,33.0
 2011,number,länder parliaments,baden-württemberg,code08,,,,25.0
 2012,number,länder parliaments,baden-württemberg,code08,,,,25.0
@@ -89,6 +94,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,baden-württemberg,code08,,,,45.0
 2023,number,länder parliaments,baden-württemberg,code08,,,,45.0
 2024,number,länder parliaments,baden-württemberg,code08,,,,45.0
+2025,number,länder parliaments,baden-württemberg,code08,,,,45.0
 2010,percentage,länder parliaments,bavaria,code09,,,,31.0
 2011,percentage,länder parliaments,bavaria,code09,,,,31.0
 2012,percentage,länder parliaments,bavaria,code09,,,,31.0
@@ -104,6 +110,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,bavaria,code09,,,,26.8
 2023,percentage,länder parliaments,bavaria,code09,,,,24.6
 2024,percentage,länder parliaments,bavaria,code09,,,,24.6
+2025,percentage,länder parliaments,bavaria,code09,,,,24.6
 2010,number,länder parliaments,bavaria,code09,,,,58.0
 2011,number,länder parliaments,bavaria,code09,,,,58.0
 2012,number,länder parliaments,bavaria,code09,,,,58.0
@@ -119,6 +126,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,bavaria,code09,,,,55.0
 2023,number,länder parliaments,bavaria,code09,,,,50.0
 2024,number,länder parliaments,bavaria,code09,,,,50.0
+2025,number,länder parliaments,bavaria,code09,,,,50.0
 2010,percentage,länder parliaments,berlin,code11,,,,39.6
 2011,percentage,länder parliaments,berlin,code11,,,,34.9
 2012,percentage,länder parliaments,berlin,code11,,,,34.9
@@ -134,6 +142,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,berlin,code11,,,,37.7
 2023,percentage,länder parliaments,berlin,code11,,,,37.7
 2024,percentage,länder parliaments,berlin,code11,,,,37.7
+2025,percentage,länder parliaments,berlin,code11,,,,37.7
 2010,number,länder parliaments,berlin,code11,,,,59.0
 2011,number,länder parliaments,berlin,code11,,,,52.0
 2012,number,länder parliaments,berlin,code11,,,,52.0
@@ -149,6 +158,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,berlin,code11,,,,60.0
 2023,number,länder parliaments,berlin,code11,,,,60.0
 2024,number,länder parliaments,berlin,code11,,,,60.0
+2025,number,länder parliaments,berlin,code11,,,,60.0
 2010,percentage,länder parliaments,brandenburg,code12,,,,38.6
 2011,percentage,länder parliaments,brandenburg,code12,,,,38.6
 2012,percentage,länder parliaments,brandenburg,code12,,,,38.6
@@ -164,6 +174,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,brandenburg,code12,,,,31.8
 2023,percentage,länder parliaments,brandenburg,code12,,,,31.8
 2024,percentage,länder parliaments,brandenburg,code12,,,,28.4
+2025,percentage,länder parliaments,brandenburg,code12,,,,28.4
 2010,number,länder parliaments,brandenburg,code12,,,,34.0
 2011,number,länder parliaments,brandenburg,code12,,,,34.0
 2012,number,länder parliaments,brandenburg,code12,,,,34.0
@@ -179,6 +190,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,brandenburg,code12,,,,28.0
 2023,number,länder parliaments,brandenburg,code12,,,,28.0
 2024,number,länder parliaments,brandenburg,code12,,,,25.0
+2025,number,länder parliaments,brandenburg,code12,,,,25.0
 2010,percentage,länder parliaments,bremen,code04,,,,38.6
 2011,percentage,länder parliaments,bremen,code04,,,,43.4
 2012,percentage,länder parliaments,bremen,code04,,,,43.4
@@ -194,6 +206,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,bremen,code04,,,,40.5
 2023,percentage,länder parliaments,bremen,code04,,,,42.5
 2024,percentage,länder parliaments,bremen,code04,,,,42.5
+2025,percentage,länder parliaments,bremen,code04,,,,42.5
 2010,number,länder parliaments,bremen,code04,,,,32.0
 2011,number,länder parliaments,bremen,code04,,,,36.0
 2012,number,länder parliaments,bremen,code04,,,,36.0
@@ -209,6 +222,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,bremen,code04,,,,34.0
 2023,number,länder parliaments,bremen,code04,,,,37.0
 2024,number,länder parliaments,bremen,code04,,,,37.0
+2025,number,länder parliaments,bremen,code04,,,,37.0
 2010,percentage,länder parliaments,hamburg,code02,,,,33.1
 2011,percentage,länder parliaments,hamburg,code02,,,,38.8
 2012,percentage,länder parliaments,hamburg,code02,,,,38.8
@@ -224,6 +238,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,hamburg,code02,,,,43.9
 2023,percentage,länder parliaments,hamburg,code02,,,,43.9
 2024,percentage,länder parliaments,hamburg,code02,,,,43.9
+2025,percentage,länder parliaments,hamburg,code02,,,,
 2010,number,länder parliaments,hamburg,code02,,,,40.0
 2011,number,länder parliaments,hamburg,code02,,,,47.0
 2012,number,länder parliaments,hamburg,code02,,,,47.0
@@ -239,6 +254,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,hamburg,code02,,,,54.0
 2023,number,länder parliaments,hamburg,code02,,,,54.0
 2024,number,länder parliaments,hamburg,code02,,,,54.0
+2025,number,länder parliaments,hamburg,code02,,,,
 2010,percentage,länder parliaments,hesse,code06,,,,28.0
 2011,percentage,länder parliaments,hesse,code06,,,,28.0
 2012,percentage,länder parliaments,hesse,code06,,,,28.0
@@ -252,8 +268,9 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2020,percentage,länder parliaments,hesse,code06,,,,33.6
 2021,percentage,länder parliaments,hesse,code06,,,,33.6
 2022,percentage,länder parliaments,hesse,code06,,,,33.6
-2023,percentage,länder parliaments,hesse,code06,r,,,31.6
-2024,percentage,länder parliaments,hesse,code06,r,,,31.6
+2023,percentage,länder parliaments,hesse,code06,,,,31.6
+2024,percentage,länder parliaments,hesse,code06,,,,31.6
+2025,percentage,länder parliaments,hesse,code06,,,,31.6
 2010,number,länder parliaments,hesse,code06,,,,33.0
 2011,number,länder parliaments,hesse,code06,,,,33.0
 2012,number,länder parliaments,hesse,code06,,,,33.0
@@ -267,8 +284,9 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2020,number,länder parliaments,hesse,code06,,,,46.0
 2021,number,länder parliaments,hesse,code06,,,,46.0
 2022,number,länder parliaments,hesse,code06,,,,46.0
-2023,number,länder parliaments,hesse,code06,r,,,42.0
-2024,number,länder parliaments,hesse,code06,r,,,42.0
+2023,number,länder parliaments,hesse,code06,,,,42.0
+2024,number,länder parliaments,hesse,code06,,,,42.0
+2025,number,länder parliaments,hesse,code06,,,,42.0
 2010,percentage,länder parliaments,mecklenburg western pomerania,code13,,,,32.4
 2011,percentage,länder parliaments,mecklenburg western pomerania,code13,,,,28.2
 2012,percentage,länder parliaments,mecklenburg western pomerania,code13,,,,28.2
@@ -284,6 +302,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,mecklenburg western pomerania,code13,,,,36.7
 2023,percentage,länder parliaments,mecklenburg western pomerania,code13,,,,36.7
 2024,percentage,länder parliaments,mecklenburg western pomerania,code13,,,,36.7
+2025,percentage,länder parliaments,mecklenburg western pomerania,code13,,,,36.7
 2010,number,länder parliaments,mecklenburg western pomerania,code13,,,,23.0
 2011,number,länder parliaments,mecklenburg western pomerania,code13,,,,20.0
 2012,number,länder parliaments,mecklenburg western pomerania,code13,,,,20.0
@@ -299,6 +318,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,mecklenburg western pomerania,code13,,,,29.0
 2023,number,länder parliaments,mecklenburg western pomerania,code13,,,,29.0
 2024,number,länder parliaments,mecklenburg western pomerania,code13,,,,29.0
+2025,number,länder parliaments,mecklenburg western pomerania,code13,,,,29.0
 2010,percentage,länder parliaments,lower saxony,code03,,,,30.9
 2011,percentage,länder parliaments,lower saxony,code03,,,,30.9
 2012,percentage,länder parliaments,lower saxony,code03,,,,30.9
@@ -314,6 +334,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,lower saxony,code03,,,,34.2
 2023,percentage,länder parliaments,lower saxony,code03,,,,34.2
 2024,percentage,länder parliaments,lower saxony,code03,,,,34.2
+2025,percentage,länder parliaments,lower saxony,code03,,,,34.2
 2010,number,länder parliaments,lower saxony,code03,,,,47.0
 2011,number,länder parliaments,lower saxony,code03,,,,47.0
 2012,number,länder parliaments,lower saxony,code03,,,,47.0
@@ -329,6 +350,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,lower saxony,code03,,,,50.0
 2023,number,länder parliaments,lower saxony,code03,,,,50.0
 2024,number,länder parliaments,lower saxony,code03,,,,50.0
+2025,number,länder parliaments,lower saxony,code03,,,,50.0
 2010,percentage,länder parliaments,north rhine-westphalia,code05,,,,27.1
 2011,percentage,länder parliaments,north rhine-westphalia,code05,,,,27.1
 2012,percentage,länder parliaments,north rhine-westphalia,code05,,,,30.0
@@ -344,6 +366,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,north rhine-westphalia,code05,,,,33.8
 2023,percentage,länder parliaments,north rhine-westphalia,code05,,,,33.8
 2024,percentage,länder parliaments,north rhine-westphalia,code05,,,,33.8
+2025,percentage,länder parliaments,north rhine-westphalia,code05,,,,33.8
 2010,number,länder parliaments,north rhine-westphalia,code05,,,,49.0
 2011,number,länder parliaments,north rhine-westphalia,code05,,,,49.0
 2012,number,länder parliaments,north rhine-westphalia,code05,,,,71.0
@@ -359,6 +382,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,north rhine-westphalia,code05,,,,66.0
 2023,number,länder parliaments,north rhine-westphalia,code05,,,,66.0
 2024,number,länder parliaments,north rhine-westphalia,code05,,,,66.0
+2025,number,länder parliaments,north rhine-westphalia,code05,,,,66.0
 2010,percentage,länder parliaments,rhineland palatinate,code07,,,,37.6
 2011,percentage,länder parliaments,rhineland palatinate,code07,,,,41.6
 2012,percentage,länder parliaments,rhineland palatinate,code07,,,,41.6
@@ -374,6 +398,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,rhineland palatinate,code07,,,,31.7
 2023,percentage,länder parliaments,rhineland palatinate,code07,,,,31.7
 2024,percentage,länder parliaments,rhineland palatinate,code07,,,,31.7
+2025,percentage,länder parliaments,rhineland palatinate,code07,,,,31.7
 2010,number,länder parliaments,rhineland palatinate,code07,,,,38.0
 2011,number,länder parliaments,rhineland palatinate,code07,,,,42.0
 2012,number,länder parliaments,rhineland palatinate,code07,,,,42.0
@@ -389,6 +414,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,rhineland palatinate,code07,,,,32.0
 2023,number,länder parliaments,rhineland palatinate,code07,,,,32.0
 2024,number,länder parliaments,rhineland palatinate,code07,,,,32.0
+2025,number,länder parliaments,rhineland palatinate,code07,,,,32.0
 2010,percentage,länder parliaments,saarland,code10,,,,33.3
 2011,percentage,länder parliaments,saarland,code10,,,,33.3
 2012,percentage,länder parliaments,saarland,code10,,,,39.2
@@ -404,6 +430,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,saarland,code10,,,,37.3
 2023,percentage,länder parliaments,saarland,code10,,,,37.3
 2024,percentage,länder parliaments,saarland,code10,,,,37.3
+2025,percentage,länder parliaments,saarland,code10,,,,37.3
 2010,number,länder parliaments,saarland,code10,,,,17.0
 2011,number,länder parliaments,saarland,code10,,,,17.0
 2012,number,länder parliaments,saarland,code10,,,,20.0
@@ -419,6 +446,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,saarland,code10,,,,19.0
 2023,number,länder parliaments,saarland,code10,,,,19.0
 2024,number,länder parliaments,saarland,code10,,,,19.0
+2025,number,länder parliaments,saarland,code10,,,,19.0
 2010,percentage,länder parliaments,saxony,code14,,,,31.1
 2011,percentage,länder parliaments,saxony,code14,,,,31.1
 2012,percentage,länder parliaments,saxony,code14,,,,31.1
@@ -434,6 +462,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,saxony,code14,,,,27.7
 2023,percentage,länder parliaments,saxony,code14,,,,27.7
 2024,percentage,länder parliaments,saxony,code14,,,,27.5
+2025,percentage,länder parliaments,saxony,code14,,,,27.5
 2010,number,länder parliaments,saxony,code14,,,,41.0
 2011,number,länder parliaments,saxony,code14,,,,41.0
 2012,number,länder parliaments,saxony,code14,,,,41.0
@@ -449,6 +478,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,saxony,code14,,,,33.0
 2023,number,länder parliaments,saxony,code14,,,,33.0
 2024,number,länder parliaments,saxony,code14,,,,33.0
+2025,number,länder parliaments,saxony,code14,,,,33.0
 2010,percentage,länder parliaments,saxony-anhalt,code15,,,,30.9
 2011,percentage,länder parliaments,saxony-anhalt,code15,,,,31.4
 2012,percentage,länder parliaments,saxony-anhalt,code15,,,,31.4
@@ -464,6 +494,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,saxony-anhalt,code15,,,,27.8
 2023,percentage,länder parliaments,saxony-anhalt,code15,,,,27.8
 2024,percentage,länder parliaments,saxony-anhalt,code15,,,,27.8
+2025,percentage,länder parliaments,saxony-anhalt,code15,,,,27.8
 2010,number,länder parliaments,saxony-anhalt,code15,,,,30.0
 2011,number,länder parliaments,saxony-anhalt,code15,,,,33.0
 2012,number,länder parliaments,saxony-anhalt,code15,,,,33.0
@@ -479,6 +510,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,saxony-anhalt,code15,,,,27.0
 2023,number,länder parliaments,saxony-anhalt,code15,,,,27.0
 2024,number,länder parliaments,saxony-anhalt,code15,,,,27.0
+2025,number,länder parliaments,saxony-anhalt,code15,,,,27.0
 2010,percentage,länder parliaments,schleswig-holstein,code01,,,,35.8
 2011,percentage,länder parliaments,schleswig-holstein,code01,,,,35.8
 2012,percentage,länder parliaments,schleswig-holstein,code01,,,,31.9
@@ -494,6 +526,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,schleswig-holstein,code01,,,,37.7
 2023,percentage,länder parliaments,schleswig-holstein,code01,,,,37.7
 2024,percentage,länder parliaments,schleswig-holstein,code01,,,,37.7
+2025,percentage,länder parliaments,schleswig-holstein,code01,,,,37.7
 2010,number,länder parliaments,schleswig-holstein,code01,,,,34.0
 2011,number,länder parliaments,schleswig-holstein,code01,,,,34.0
 2012,number,länder parliaments,schleswig-holstein,code01,,,,22.0
@@ -509,6 +542,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,schleswig-holstein,code01,,,,26.0
 2023,number,länder parliaments,schleswig-holstein,code01,,,,26.0
 2024,number,länder parliaments,schleswig-holstein,code01,,,,26.0
+2025,number,länder parliaments,schleswig-holstein,code01,,,,26.0
 2010,percentage,länder parliaments,thuringia,code16,,,,26.1
 2011,percentage,länder parliaments,thuringia,code16,,,,26.1
 2012,percentage,länder parliaments,thuringia,code16,,,,26.1
@@ -524,6 +558,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,thuringia,code16,,,,31.1
 2023,percentage,länder parliaments,thuringia,code16,,,,31.1
 2024,percentage,länder parliaments,thuringia,code16,,,,30.7
+2025,percentage,länder parliaments,thuringia,code16,,,,30.7
 2010,number,länder parliaments,thuringia,code16,,,,34.0
 2011,number,länder parliaments,thuringia,code16,,,,34.0
 2012,number,länder parliaments,thuringia,code16,,,,34.0
@@ -539,6 +574,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,thuringia,code16,,,,28.0
 2023,number,länder parliaments,thuringia,code16,,,,28.0
 2024,number,länder parliaments,thuringia,code16,,,,27.0
+2025,number,länder parliaments,thuringia,code16,,,,27.0
 2010,percentage,länder parliaments,,,,,,31.768
 2011,percentage,länder parliaments,,,,,,31.651
 2012,percentage,länder parliaments,,,,,,31.832
@@ -554,6 +590,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,länder parliaments,,,,,,33.316
 2023,percentage,länder parliaments,,,,,,33.157
 2024,percentage,länder parliaments,,,,,,34.548
+2025,percentage,länder parliaments,,,,,,
 2010,number,länder parliaments,,,,,,602.0
 2011,number,länder parliaments,,,,,,602.0
 2012,number,länder parliaments,,,,,,615.0
@@ -569,6 +606,7 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,number,länder parliaments,,,,,,632.0
 2023,number,länder parliaments,,,,,,628.0
 2024,number,länder parliaments,,,,,,654.0
+2025,number,länder parliaments,,,,,,
 2010,percentage,councils of districts and district-free cities,,,,,,
 2011,percentage,councils of districts and district-free cities,,,,,,26.1
 2012,percentage,councils of districts and district-free cities,,,,,,26.1
@@ -584,3 +622,4 @@ Year,Units,political institution,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COM
 2022,percentage,councils of districts and district-free cities,,,r,,,30.2
 2023,percentage,councils of districts and district-free cities,,,,,,30.3
 2024,percentage,councils of districts and district-free cities,,,,,,
+2025,percentage,councils of districts and district-free cities,,,,,,

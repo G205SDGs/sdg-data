@@ -11,9 +11,18 @@ Year,Units,Type of biomass,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2019,Million tonnes carbon,,,,,Above-ground biomass stock in forest,1671.0
 2020,Million tonnes carbon,,,,,Above-ground biomass stock in forest,1676.0
 2021,Million tonnes carbon,,,,,Above-ground biomass stock in forest,1681.0
+2010,Percentage,,.,,,Forest area located within protected areas,
+2011,Percentage,,.,,,Forest area located within protected areas,
 2012,Percentage,,,,,Forest area located within protected areas,0.7
-2015,Percentage,,|,,,Forest area located within protected areas,0.9
-2018,Percentage,,,,,Forest area located within protected areas,0.9
+2013,Percentage,,.,,,Forest area located within protected areas,
+2014,Percentage,,.,,,Forest area located within protected areas,
+2015,Percentage,,r,,,Forest area located within protected areas,0.5
+2016,Percentage,,.,,,Forest area located within protected areas,
+2017,Percentage,,.,,,Forest area located within protected areas,
+2018,Percentage,,r,,,Forest area located within protected areas,0.6
+2019,Percentage,,.,,,Forest area located within protected areas,
+2020,Percentage,,.,,,Forest area located within protected areas,
+2021,Percentage,,,,,Forest area located within protected areas,0.6
 2010,Percentage,,,,,Forest area net change rate,0.1
 2011,Percentage,,r,,,Forest area net change rate,1.0
 2012,Percentage,,r,,,Forest area net change rate,0.1

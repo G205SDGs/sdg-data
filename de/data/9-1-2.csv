@@ -9,9 +9,10 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2017,Millionen Personenkilometer,,,,,Personenverkehr,1155136
 2018,Millionen Personenkilometer,,,,,Personenverkehr,1161885
 2019,Millionen Personenkilometer,,,,,Personenverkehr,1170186
-2020,Millionen Personenkilometer,,r,,,Personenverkehr,921937
+2020,Millionen Personenkilometer,,,,,Personenverkehr,921937
 2021,Millionen Personenkilometer,,,,,Personenverkehr,962304
-2022,Millionen Personenkilometer,,p,,,Personenverkehr,1065901
+2022,Millionen Personenkilometer,,,,,Personenverkehr,1069104
+2023,Millionen Personenkilometer,,p,,,Personenverkehr,1105351
 2010,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,78092
 2011,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,77957
 2012,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,76019
@@ -24,7 +25,8 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2019,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,78919
 2020,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,45741
 2021,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,45425
-2022,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,59861
+2022,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,61040
+2023,Millionen Personenkilometer,Straßenverkehr,p,,,Personenverkehr,66639
 2010,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,83886
 2011,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,85414
 2012,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,88795
@@ -37,7 +39,8 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2019,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,102026
 2020,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,58823
 2021,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,57553
-2022,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,95158
+2022,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,94286
+2023,Millionen Personenkilometer,Eisenbahnverkehr,p,,,Personenverkehr,104227
 2010,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,52822
 2011,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,55215
 2012,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,56180
@@ -51,6 +54,7 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2020,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,18704
 2021,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,23378
 2022,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,48303
+2023,Millionen Personenkilometer,Luftverkehr,p,,,Personenverkehr,57290
 2010,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,902440
 2011,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,912417
 2012,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,914563
@@ -63,20 +67,22 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2019,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,917400
 2020,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,798669
 2021,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,835948
-2022,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,862579
+2022,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,865475
+2023,Millionen Personenkilometer,Motorisierter Individualverkehr,p,,,Personenverkehr,877195
 2010,Millionen Tonnenkilometer,,,,,Güterverkehr,627882
-2011,Millionen Tonnenkilometer,,r,,,Güterverkehr,628047
+2011,Millionen Tonnenkilometer,,,,,Güterverkehr,628047
 2012,Millionen Tonnenkilometer,,,,,Güterverkehr,618179
 2013,Millionen Tonnenkilometer,,,,,Güterverkehr,634973
 2014,Millionen Tonnenkilometer,,,,,Güterverkehr,642604
 2015,Millionen Tonnenkilometer,,,,,Güterverkehr,655708
-2016,Millionen Tonnenkilometer,,r,,,Güterverkehr,686388
-2017,Millionen Tonnenkilometer,,r,,,Güterverkehr,702090
-2018,Millionen Tonnenkilometer,,r,,,Güterverkehr,702636
-2019,Millionen Tonnenkilometer,,r,,,Güterverkehr,707002
-2020,Millionen Tonnenkilometer,,r,,,Güterverkehr,679988
-2021,Millionen Tonnenkilometer,,r,,,Güterverkehr,712443
-2022,Millionen Tonnenkilometer,,r,,,Güterverkehr,710911
+2016,Millionen Tonnenkilometer,,,,,Güterverkehr,686388
+2017,Millionen Tonnenkilometer,,,,,Güterverkehr,702090
+2018,Millionen Tonnenkilometer,,,,,Güterverkehr,702636
+2019,Millionen Tonnenkilometer,,,,,Güterverkehr,707002
+2020,Millionen Tonnenkilometer,,,,,Güterverkehr,679988
+2021,Millionen Tonnenkilometer,,,,,Güterverkehr,712443
+2022,Millionen Tonnenkilometer,,,,,Güterverkehr,710911
+2023,Millionen Tonnenkilometer,,,,,Güterverkehr,675473
 2010,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,440600
 2011,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,442600
 2012,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,432000
@@ -86,23 +92,25 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2016,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,473400
 2017,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,486000
 2018,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,497200
-2019,Millionen Tonnenkilometer,Straßenverkehr,r,,,Güterverkehr,498600
-2020,Millionen Tonnenkilometer,Straßenverkehr,r,,,Güterverkehr,487400
-2021,Millionen Tonnenkilometer,Straßenverkehr,p,,,Güterverkehr,505700
+2019,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,498600
+2020,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,487400
+2021,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,505700
 2022,Millionen Tonnenkilometer,Straßenverkehr,p,,,Güterverkehr,503100
+2023,Millionen Tonnenkilometer,Straßenverkehr,p,,,Güterverkehr,480700
 2010,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,107317
 2011,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,113317
 2012,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,110065
 2013,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,112613
 2014,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,112629
 2015,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,116632
-2016,Millionen Tonnenkilometer,Eisenbahnverkehr,r,|,,Güterverkehr,138361
-2017,Millionen Tonnenkilometer,Eisenbahnverkehr,r,,,Güterverkehr,140716
-2018,Millionen Tonnenkilometer,Eisenbahnverkehr,r,,,Güterverkehr,139664
-2019,Millionen Tonnenkilometer,Eisenbahnverkehr,r,,,Güterverkehr,138247
-2020,Millionen Tonnenkilometer,Eisenbahnverkehr,r,,,Güterverkehr,128018
-2021,Millionen Tonnenkilometer,Eisenbahnverkehr,r,,,Güterverkehr,141033
-2022,Millionen Tonnenkilometer,Eisenbahnverkehr,r,,,Güterverkehr,144336
+2016,Millionen Tonnenkilometer,Eisenbahnverkehr,|,,,Güterverkehr,138361
+2017,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,140716
+2018,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,139664
+2019,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,138247
+2020,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,128018
+2021,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,141033
+2022,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,144336
+2023,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,134433
 2010,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,62278
 2011,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,55027
 2012,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,58488
@@ -116,6 +124,7 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2020,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,46338
 2021,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,48182
 2022,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,44117
+2023,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,41507
 2010,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1428
 2011,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1480
 2012,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1421
@@ -129,6 +138,7 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2020,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1546
 2021,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1790
 2022,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1635
+2023,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1516
 2010,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,16259
 2011,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,15623
 2012,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,16207
@@ -142,3 +152,4 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2020,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,16686
 2021,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,15738
 2022,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,17723
+2023,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,17317

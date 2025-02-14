@@ -1,13 +1,27 @@
-Year,Value
-2010,306.3
-2011,312.1
-2012,336.9
-2013,391.4
-2014,406.8
-2015,404.4
-2016,447.8
-2017,474.7
-2018,490.5
-2019,474.5
-2020,489.4
-2023,611.7
+Year,Value,Units
+2010,306.3,Million EUR
+2011,312.1,Million EUR
+2012,336.9,Million EUR
+2013,391.4,Million EUR
+2014,406.8,Million EUR
+2015,404.4,Million EUR
+2016,447.8,Million EUR
+2017,474.7,Million EUR
+2018,490.5,Million EUR
+2019,474.5,Million EUR
+2020,489.4,Million EUR
+2023,611.7,Million EUR
+2010,2.4,Percentage
+2011,2.35,Percentage
+2012,2.51,Percentage
+2013,2.74,Percentage
+2014,2.87,Percentage
+2015,2.69,Percentage
+2016,2.87,Percentage
+2017,2.85,Percentage
+2018,2.84,Percentage
+2019,2.53,Percentage
+2020,2.37,Percentage
+2021,2.58,Percentage
+2022,2.3,Percentage
+2023,2.54,Percentage

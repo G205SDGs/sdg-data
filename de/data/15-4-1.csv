@@ -13,6 +13,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Prozent,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,74.37
 2022,Prozent,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,74.37
 2023,Prozent,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,74.37
+2024,Prozent,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,78.31
 2010,Hektar,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,1112350.172
 2011,Hektar,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,1112476.445
 2012,Hektar,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,1112848.397
@@ -27,6 +28,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Hektar,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,1151164.599
 2022,Hektar,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,1151164.599
 2023,Hektar,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,1151164.599
+2024,Hektar,"Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",,,,1212147.6
 2010,Prozent,"Flächen in Gebirgen, die unter Schutz stehen",,,,49.03
 2011,Prozent,"Flächen in Gebirgen, die unter Schutz stehen",,,,49.32
 2012,Prozent,"Flächen in Gebirgen, die unter Schutz stehen",,,,49.51
@@ -41,6 +43,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Prozent,"Flächen in Gebirgen, die unter Schutz stehen",,,,53.5
 2022,Prozent,"Flächen in Gebirgen, die unter Schutz stehen",,,,53.5
 2023,Prozent,"Flächen in Gebirgen, die unter Schutz stehen",,,,53.5
+2024,Prozent,"Flächen in Gebirgen, die unter Schutz stehen",,,,56.4
 2010,Hektar,"Flächen in Gebirgen, die unter Schutz stehen",,,,3322888.877
 2011,Hektar,"Flächen in Gebirgen, die unter Schutz stehen",,,,3342450.778
 2012,Hektar,"Flächen in Gebirgen, die unter Schutz stehen",,,,3355067.625
@@ -55,6 +58,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Hektar,"Flächen in Gebirgen, die unter Schutz stehen",,,,3625393.782
 2022,Hektar,"Flächen in Gebirgen, die unter Schutz stehen",,,,3625393.782
 2023,Hektar,"Flächen in Gebirgen, die unter Schutz stehen",,,,3625393.782
+2024,Hektar,"Flächen in Gebirgen, die unter Schutz stehen",,,,3819684.195
 2010,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.149
 2011,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.158
 2012,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.164
@@ -65,10 +69,11 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.36
 2018,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.365
 2019,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.371
-2020,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,
-2021,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,
-2022,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,
-2023,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,
+2020,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.438
+2021,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.438
+2022,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.438
+2023,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.464
+2024,Prozent,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,19.486
 2010,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1297687.97
 2011,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1298278.703
 2012,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1298720.641
@@ -79,7 +84,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1311946.268
 2018,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1312285.598
 2019,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1312732.718
-2020,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,
-2021,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,
-2022,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,
-2023,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,
+2020,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1317288.48
+2021,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1317288.48
+2022,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1317288.48
+2023,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1319050.64
+2024,Hektar,"Flächen in Gebirgen, die unter effektivem Schutz stehen",,,,1320533.18

@@ -13,6 +13,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,0
 2022,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
 2023,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
+2024,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
 2010,Prozent,Registrierung der Geburten,s,,,100
 2011,Prozent,Registrierung der Geburten,s,,,100
 2012,Prozent,Registrierung der Geburten,s,,,100
@@ -27,6 +28,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Prozent,Registrierung der Geburten,s,,,100
 2022,Prozent,Registrierung der Geburten,s,,,100
 2023,Prozent,Registrierung der Geburten,s,,,100
+2024,Prozent,Registrierung der Geburten,s,,,100
 2010,Prozent,Registrierung der Sterbefälle,s,,,100
 2011,Prozent,Registrierung der Sterbefälle,s,,,100
 2012,Prozent,Registrierung der Sterbefälle,s,,,100
@@ -41,3 +43,4 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Prozent,Registrierung der Sterbefälle,s,,,100
 2022,Prozent,Registrierung der Sterbefälle,s,,,100
 2023,Prozent,Registrierung der Sterbefälle,s,,,100
+2024,Prozent,Registrierung der Sterbefälle,s,,,100

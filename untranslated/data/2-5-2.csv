@@ -11,6 +11,8 @@ Year,Units,timeseries,level of risk of extinction,COMMENT_OBS_0,COMMENT_OBS_1,CO
 2019,percentage,level of risk of extinction (according to fao classification),at risk,,,,87.5
 2020,percentage,level of risk of extinction (according to fao classification),at risk,.,,,
 2021,percentage,level of risk of extinction (according to fao classification),at risk,.,,,
+2022,percentage,level of risk of extinction (according to fao classification),at risk,.,,,
+2023,percentage,level of risk of extinction (according to fao classification),at risk,…,,,
 2010,percentage,level of risk of extinction (according to fao classification),not at risk,.,,,
 2011,percentage,level of risk of extinction (according to fao classification),not at risk,.,,,
 2012,percentage,level of risk of extinction (according to fao classification),not at risk,.,,,
@@ -23,6 +25,8 @@ Year,Units,timeseries,level of risk of extinction,COMMENT_OBS_0,COMMENT_OBS_1,CO
 2019,percentage,level of risk of extinction (according to fao classification),not at risk,,,,12.5
 2020,percentage,level of risk of extinction (according to fao classification),not at risk,.,,,
 2021,percentage,level of risk of extinction (according to fao classification),not at risk,.,,,
+2022,percentage,level of risk of extinction (according to fao classification),not at risk,…,,,
+2023,percentage,level of risk of extinction (according to fao classification),not at risk,…,,,
 2010,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
 2011,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,74.0
 2012,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
@@ -35,6 +39,8 @@ Year,Units,timeseries,level of risk of extinction,COMMENT_OBS_0,COMMENT_OBS_1,CO
 2019,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,80.0
 2020,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
 2021,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,81.0
+2022,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
+2023,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,83.0
 2010,percentage,level of risk of extinction (according to national classification),not at risk,.,,,
 2011,percentage,level of risk of extinction (according to national classification),not at risk,,,,29.7
 2012,percentage,level of risk of extinction (according to national classification),not at risk,.,,,
@@ -47,6 +53,8 @@ Year,Units,timeseries,level of risk of extinction,COMMENT_OBS_0,COMMENT_OBS_1,CO
 2019,percentage,level of risk of extinction (according to national classification),not at risk,,,,30.0
 2020,percentage,level of risk of extinction (according to national classification),not at risk,.,,,
 2021,percentage,level of risk of extinction (according to national classification),not at risk,,,,28.4
+2022,percentage,level of risk of extinction (according to national classification),not at risk,.,,,
+2023,percentage,level of risk of extinction (according to national classification),not at risk,,,,28.9
 2010,percentage,level of risk of extinction (according to national classification),under observation,.,,,
 2011,percentage,level of risk of extinction (according to national classification),under observation,,,,39.2
 2012,percentage,level of risk of extinction (according to national classification),under observation,.,,,
@@ -59,6 +67,8 @@ Year,Units,timeseries,level of risk of extinction,COMMENT_OBS_0,COMMENT_OBS_1,CO
 2019,percentage,level of risk of extinction (according to national classification),under observation,,,,45.0
 2020,percentage,level of risk of extinction (according to national classification),under observation,.,,,
 2021,percentage,level of risk of extinction (according to national classification),under observation,,,,44.4
+2022,percentage,level of risk of extinction (according to national classification),under observation,.,,,
+2023,percentage,level of risk of extinction (according to national classification),under observation,,,,43.4
 2010,percentage,level of risk of extinction (according to national classification),breeding programs for preservation,.,,,
 2011,percentage,level of risk of extinction (according to national classification),breeding programs for preservation,,,,24.3
 2012,percentage,level of risk of extinction (according to national classification),breeding programs for preservation,.,,,
@@ -71,6 +81,8 @@ Year,Units,timeseries,level of risk of extinction,COMMENT_OBS_0,COMMENT_OBS_1,CO
 2019,percentage,level of risk of extinction (according to national classification),breeding programs for preservation,,,,17.5
 2020,percentage,level of risk of extinction (according to national classification),breeding programs for preservation,.,,,
 2021,percentage,level of risk of extinction (according to national classification),breeding programs for preservation,,,,18.5
+2022,percentage,level of risk of extinction (according to national classification),breeding programs for preservation,.,,,
+2023,percentage,level of risk of extinction (according to national classification),breeding programs for preservation,,,,19.3
 2010,percentage,level of risk of extinction (according to national classification),rudiments remaining,.,,,
 2011,percentage,level of risk of extinction (according to national classification),rudiments remaining,,,,6.8
 2012,percentage,level of risk of extinction (according to national classification),rudiments remaining,.,,,
@@ -83,3 +95,5 @@ Year,Units,timeseries,level of risk of extinction,COMMENT_OBS_0,COMMENT_OBS_1,CO
 2019,percentage,level of risk of extinction (according to national classification),rudiments remaining,,,,7.5
 2020,percentage,level of risk of extinction (according to national classification),rudiments remaining,.,,,
 2021,percentage,level of risk of extinction (according to national classification),rudiments remaining,,,,8.6
+2022,percentage,level of risk of extinction (according to national classification),rudiments remaining,.,,,
+2023,percentage,level of risk of extinction (according to national classification),rudiments remaining,,,,8.4
