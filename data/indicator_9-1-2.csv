@@ -9,9 +9,10 @@ Year,Units,mode of transport,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Ser
 2017,million passenger-kilometre,,1155136,,,,passenger transport
 2018,million passenger-kilometre,,1161885,,,,passenger transport
 2019,million passenger-kilometre,,1170186,,,,passenger transport
-2020,million passenger-kilometre,,921937,r,,,passenger transport
+2020,million passenger-kilometre,,921937,,,,passenger transport
 2021,million passenger-kilometre,,962304,,,,passenger transport
-2022,million passenger-kilometre,,1065901,p,,,passenger transport
+2022,million passenger-kilometre,,1069104,,,,passenger transport
+2023,million passenger-kilometre,,1105351,p,,,passenger transport
 2010,million passenger-kilometre,road transport,78092,,,,passenger transport
 2011,million passenger-kilometre,road transport,77957,,,,passenger transport
 2012,million passenger-kilometre,road transport,76019,,,,passenger transport
@@ -24,7 +25,8 @@ Year,Units,mode of transport,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Ser
 2019,million passenger-kilometre,road transport,78919,,,,passenger transport
 2020,million passenger-kilometre,road transport,45741,,,,passenger transport
 2021,million passenger-kilometre,road transport,45425,,,,passenger transport
-2022,million passenger-kilometre,road transport,59861,,,,passenger transport
+2022,million passenger-kilometre,road transport,61040,,,,passenger transport
+2023,million passenger-kilometre,road transport,66639,p,,,passenger transport
 2010,million passenger-kilometre,rail transport,83886,,,,passenger transport
 2011,million passenger-kilometre,rail transport,85414,,,,passenger transport
 2012,million passenger-kilometre,rail transport,88795,,,,passenger transport
@@ -37,7 +39,8 @@ Year,Units,mode of transport,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Ser
 2019,million passenger-kilometre,rail transport,102026,,,,passenger transport
 2020,million passenger-kilometre,rail transport,58823,,,,passenger transport
 2021,million passenger-kilometre,rail transport,57553,,,,passenger transport
-2022,million passenger-kilometre,rail transport,95158,,,,passenger transport
+2022,million passenger-kilometre,rail transport,94286,,,,passenger transport
+2023,million passenger-kilometre,rail transport,104227,p,,,passenger transport
 2010,million passenger-kilometre,air transport,52822,,,,passenger transport
 2011,million passenger-kilometre,air transport,55215,,,,passenger transport
 2012,million passenger-kilometre,air transport,56180,,,,passenger transport
@@ -51,6 +54,7 @@ Year,Units,mode of transport,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Ser
 2020,million passenger-kilometre,air transport,18704,,,,passenger transport
 2021,million passenger-kilometre,air transport,23378,,,,passenger transport
 2022,million passenger-kilometre,air transport,48303,,,,passenger transport
+2023,million passenger-kilometre,air transport,57290,p,,,passenger transport
 2010,million passenger-kilometre,motorised private transport,902440,,,,passenger transport
 2011,million passenger-kilometre,motorised private transport,912417,,,,passenger transport
 2012,million passenger-kilometre,motorised private transport,914563,,,,passenger transport
@@ -63,20 +67,22 @@ Year,Units,mode of transport,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Ser
 2019,million passenger-kilometre,motorised private transport,917400,,,,passenger transport
 2020,million passenger-kilometre,motorised private transport,798669,,,,passenger transport
 2021,million passenger-kilometre,motorised private transport,835948,,,,passenger transport
-2022,million passenger-kilometre,motorised private transport,862579,,,,passenger transport
+2022,million passenger-kilometre,motorised private transport,865475,,,,passenger transport
+2023,million passenger-kilometre,motorised private transport,877195,p,,,passenger transport
 2010,million tonne-kilometres,,627882,,,,freight transport
-2011,million tonne-kilometres,,628047,r,,,freight transport
+2011,million tonne-kilometres,,628047,,,,freight transport
 2012,million tonne-kilometres,,618179,,,,freight transport
 2013,million tonne-kilometres,,634973,,,,freight transport
 2014,million tonne-kilometres,,642604,,,,freight transport
 2015,million tonne-kilometres,,655708,,,,freight transport
-2016,million tonne-kilometres,,686388,r,,,freight transport
-2017,million tonne-kilometres,,702090,r,,,freight transport
-2018,million tonne-kilometres,,702636,r,,,freight transport
-2019,million tonne-kilometres,,707002,r,,,freight transport
-2020,million tonne-kilometres,,679988,r,,,freight transport
-2021,million tonne-kilometres,,712443,r,,,freight transport
-2022,million tonne-kilometres,,710911,r,,,freight transport
+2016,million tonne-kilometres,,686388,,,,freight transport
+2017,million tonne-kilometres,,702090,,,,freight transport
+2018,million tonne-kilometres,,702636,,,,freight transport
+2019,million tonne-kilometres,,707002,,,,freight transport
+2020,million tonne-kilometres,,679988,,,,freight transport
+2021,million tonne-kilometres,,712443,,,,freight transport
+2022,million tonne-kilometres,,710911,,,,freight transport
+2023,million tonne-kilometres,,675473,,,,freight transport
 2010,million tonne-kilometres,road transport,440600,,,,freight transport
 2011,million tonne-kilometres,road transport,442600,,,,freight transport
 2012,million tonne-kilometres,road transport,432000,,,,freight transport
@@ -86,23 +92,25 @@ Year,Units,mode of transport,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Ser
 2016,million tonne-kilometres,road transport,473400,,,,freight transport
 2017,million tonne-kilometres,road transport,486000,,,,freight transport
 2018,million tonne-kilometres,road transport,497200,,,,freight transport
-2019,million tonne-kilometres,road transport,498600,r,,,freight transport
-2020,million tonne-kilometres,road transport,487400,r,,,freight transport
-2021,million tonne-kilometres,road transport,505700,p,,,freight transport
+2019,million tonne-kilometres,road transport,498600,,,,freight transport
+2020,million tonne-kilometres,road transport,487400,,,,freight transport
+2021,million tonne-kilometres,road transport,505700,,,,freight transport
 2022,million tonne-kilometres,road transport,503100,p,,,freight transport
+2023,million tonne-kilometres,road transport,480700,p,,,freight transport
 2010,million tonne-kilometres,rail transport,107317,,,,freight transport
 2011,million tonne-kilometres,rail transport,113317,,,,freight transport
 2012,million tonne-kilometres,rail transport,110065,,,,freight transport
 2013,million tonne-kilometres,rail transport,112613,,,,freight transport
 2014,million tonne-kilometres,rail transport,112629,,,,freight transport
 2015,million tonne-kilometres,rail transport,116632,,,,freight transport
-2016,million tonne-kilometres,rail transport,138361,r,|,,freight transport
-2017,million tonne-kilometres,rail transport,140716,r,,,freight transport
-2018,million tonne-kilometres,rail transport,139664,r,,,freight transport
-2019,million tonne-kilometres,rail transport,138247,r,,,freight transport
-2020,million tonne-kilometres,rail transport,128018,r,,,freight transport
-2021,million tonne-kilometres,rail transport,141033,r,,,freight transport
-2022,million tonne-kilometres,rail transport,144336,r,,,freight transport
+2016,million tonne-kilometres,rail transport,138361,|,,,freight transport
+2017,million tonne-kilometres,rail transport,140716,,,,freight transport
+2018,million tonne-kilometres,rail transport,139664,,,,freight transport
+2019,million tonne-kilometres,rail transport,138247,,,,freight transport
+2020,million tonne-kilometres,rail transport,128018,,,,freight transport
+2021,million tonne-kilometres,rail transport,141033,,,,freight transport
+2022,million tonne-kilometres,rail transport,144336,,,,freight transport
+2023,million tonne-kilometres,rail transport,134433,,,,freight transport
 2010,million tonne-kilometres,inland waterway transport,62278,,,,freight transport
 2011,million tonne-kilometres,inland waterway transport,55027,,,,freight transport
 2012,million tonne-kilometres,inland waterway transport,58488,,,,freight transport
@@ -116,6 +124,7 @@ Year,Units,mode of transport,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Ser
 2020,million tonne-kilometres,inland waterway transport,46338,,,,freight transport
 2021,million tonne-kilometres,inland waterway transport,48182,,,,freight transport
 2022,million tonne-kilometres,inland waterway transport,44117,,,,freight transport
+2023,million tonne-kilometres,inland waterway transport,41507,,,,freight transport
 2010,million tonne-kilometres,air transport,1428,,,,freight transport
 2011,million tonne-kilometres,air transport,1480,,,,freight transport
 2012,million tonne-kilometres,air transport,1421,,,,freight transport
@@ -129,6 +138,7 @@ Year,Units,mode of transport,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Ser
 2020,million tonne-kilometres,air transport,1546,,,,freight transport
 2021,million tonne-kilometres,air transport,1790,,,,freight transport
 2022,million tonne-kilometres,air transport,1635,,,,freight transport
+2023,million tonne-kilometres,air transport,1516,,,,freight transport
 2010,million tonne-kilometres,pipelines: crude oil,16259,,,,freight transport
 2011,million tonne-kilometres,pipelines: crude oil,15623,,,,freight transport
 2012,million tonne-kilometres,pipelines: crude oil,16207,,,,freight transport
@@ -142,3 +152,4 @@ Year,Units,mode of transport,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Ser
 2020,million tonne-kilometres,pipelines: crude oil,16686,,,,freight transport
 2021,million tonne-kilometres,pipelines: crude oil,15738,,,,freight transport
 2022,million tonne-kilometres,pipelines: crude oil,17723,,,,freight transport
+2023,million tonne-kilometres,pipelines: crude oil,17317,,,,freight transport

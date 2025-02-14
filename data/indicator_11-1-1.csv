@@ -13,6 +13,7 @@ Year,degree of urbanisation,sex,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2021,cities,,15.7,,,,overcrowding rate
 2022,cities,,16.5,,,,overcrowding rate
 2023,cities,,16.6,,,,overcrowding rate
+2024,cities,,16.6,p,,,overcrowding rate
 2010,towns and suburbs,,4.7,,,,overcrowding rate
 2011,towns and suburbs,,4.1,,,,overcrowding rate
 2012,towns and suburbs,,4.8,,,,overcrowding rate
@@ -27,6 +28,7 @@ Year,degree of urbanisation,sex,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2021,towns and suburbs,,8.7,,,,overcrowding rate
 2022,towns and suburbs,,9.0,,,,overcrowding rate
 2023,towns and suburbs,,9.3,,,,overcrowding rate
+2024,towns and suburbs,,9.1,p,,,overcrowding rate
 2010,rural areas,,4.7,,,,overcrowding rate
 2011,rural areas,,4.1,,,,overcrowding rate
 2012,rural areas,,3.7,,,,overcrowding rate
@@ -41,6 +43,7 @@ Year,degree of urbanisation,sex,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2021,rural areas,,5.0,,,,overcrowding rate
 2022,rural areas,,5.5,,,,overcrowding rate
 2023,rural areas,,5.5,,,,overcrowding rate
+2024,rural areas,,5.7,p,,,overcrowding rate
 2010,cities,,16.2,,,,housing cost overburden rate
 2011,cities,,18.0,,,,housing cost overburden rate
 2012,cities,,19.8,,,,housing cost overburden rate
@@ -55,6 +58,7 @@ Year,degree of urbanisation,sex,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2021,cities,,12.4,,,,housing cost overburden rate
 2022,cities,,13.1,,,,housing cost overburden rate
 2023,cities,,14.2,,,,housing cost overburden rate
+2024,cities,,14.2,p,,,housing cost overburden rate
 2010,towns and suburbs,,13.0,,,,housing cost overburden rate
 2011,towns and suburbs,,14.5,,,,housing cost overburden rate
 2012,towns and suburbs,,15.5,,,,housing cost overburden rate
@@ -69,6 +73,7 @@ Year,degree of urbanisation,sex,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2021,towns and suburbs,,10.7,,,,housing cost overburden rate
 2022,towns and suburbs,,11.5,,,,housing cost overburden rate
 2023,towns and suburbs,,12.7,,,,housing cost overburden rate
+2024,towns and suburbs,,11.8,p,,,housing cost overburden rate
 2010,rural areas,,12.3,,,,housing cost overburden rate
 2011,rural areas,,13.6,,,,housing cost overburden rate
 2012,rural areas,,13.9,,,,housing cost overburden rate
@@ -83,6 +88,7 @@ Year,degree of urbanisation,sex,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2021,rural areas,,8.6,,,,housing cost overburden rate
 2022,rural areas,,10.5,,,,housing cost overburden rate
 2023,rural areas,,11.3,,,,housing cost overburden rate
+2024,rural areas,,10.8,p,,,housing cost overburden rate
 2010,,,13.3,,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
 2011,,,13.7,,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
 2012,,,13.5,,,,"population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
