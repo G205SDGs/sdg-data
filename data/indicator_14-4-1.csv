@@ -1,53 +1,57 @@
-Year,sea,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series
-2010,,33.3,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2011,,45.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2012,,45.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2013,,45.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2014,,36.4,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2015,,39.4,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2016,,48.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2017,,47.1,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2018,,50.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2019,,44.1,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2020,,47.1,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2021,,58.8,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2022,,61.8,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2010,greater north sea,32.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2011,greater north sea,40.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2012,greater north sea,36.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2013,greater north sea,40.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2014,greater north sea,32.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2015,greater north sea,40.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2016,greater north sea,48.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2017,greater north sea,42.3,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2018,greater north sea,50.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2019,greater north sea,38.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2020,greater north sea,42.3,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2021,greater north sea,57.7,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2022,greater north sea,53.8,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2010,baltic sea,37.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2011,baltic sea,62.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2012,baltic sea,75.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2013,baltic sea,62.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2014,baltic sea,50.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2015,baltic sea,37.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2016,baltic sea,50.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2017,baltic sea,62.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2018,baltic sea,50.0,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2019,baltic sea,62.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2020,baltic sea,62.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2021,baltic sea,62.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2022,baltic sea,87.5,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks
-2010,,42.3,,,,msy examined fish stocks in all managed stocks
-2011,,42.3,,,,msy examined fish stocks in all managed stocks
-2012,,42.3,,,,msy examined fish stocks in all managed stocks
-2013,,42.3,,,,msy examined fish stocks in all managed stocks
-2014,,42.3,,,,msy examined fish stocks in all managed stocks
-2015,,42.3,,,,msy examined fish stocks in all managed stocks
-2016,,42.3,,,,msy examined fish stocks in all managed stocks
-2017,,43.6,,,,msy examined fish stocks in all managed stocks
-2018,,43.6,,,,msy examined fish stocks in all managed stocks
-2019,,43.6,,,,msy examined fish stocks in all managed stocks
-2020,,43.6,,,,msy examined fish stocks in all managed stocks
-2021,,43.6,,,,msy examined fish stocks in all managed stocks
-2022,,43.6,,,,msy examined fish stocks in all managed stocks
+Year,sea,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,35.3
+2011,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,47.1
+2012,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,52.9
+2013,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,52.9
+2014,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,47.1
+2015,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,41.2
+2016,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,44.1
+2017,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,48.6
+2018,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,54.3
+2019,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,42.9
+2020,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,51.4
+2021,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,57.1
+2022,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,62.9
+2023,,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,71.4
+2010,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,34.6
+2011,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,42.3
+2012,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,46.2
+2013,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,50.0
+2014,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,42.3
+2015,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,42.3
+2016,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,46.2
+2017,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,48.1
+2018,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,55.6
+2019,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,40.7
+2020,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,48.1
+2021,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,55.6
+2022,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,59.3
+2023,greater north sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,70.4
+2010,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,37.5
+2011,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,62.5
+2012,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,75.0
+2013,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,62.5
+2014,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,62.5
+2015,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,37.5
+2016,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,37.5
+2017,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,50.0
+2018,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,50.0
+2019,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,50.0
+2020,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,62.5
+2021,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,62.5
+2022,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,75.0
+2023,baltic sea,,,,sustainably managed fish stocks in the north and baltic seas on all msy examined stocks,75.0
+2010,,,,,msy examined fish stocks in all managed stocks,43.6
+2011,,,,,msy examined fish stocks in all managed stocks,43.6
+2012,,,,,msy examined fish stocks in all managed stocks,43.6
+2013,,,,,msy examined fish stocks in all managed stocks,43.6
+2014,,,,,msy examined fish stocks in all managed stocks,43.6
+2015,,,,,msy examined fish stocks in all managed stocks,43.6
+2016,,,,,msy examined fish stocks in all managed stocks,43.6
+2017,,,,,msy examined fish stocks in all managed stocks,44.9
+2018,,,,,msy examined fish stocks in all managed stocks,44.9
+2019,,,,,msy examined fish stocks in all managed stocks,44.9
+2020,,,,,msy examined fish stocks in all managed stocks,44.9
+2021,,,,,msy examined fish stocks in all managed stocks,44.9
+2022,,,,,msy examined fish stocks in all managed stocks,44.9
+2023,,,,,msy examined fish stocks in all managed stocks,44.9

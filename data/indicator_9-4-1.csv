@@ -1,27 +1,27 @@
-Year,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series
-2010,268.0,,,,co₂ emissions per real gdp
-2011,251.4,,,,co₂ emissions per real gdp
-2012,253.2,,,,co₂ emissions per real gdp
-2013,257.7,,,,co₂ emissions per real gdp
-2014,240.3,,,,co₂ emissions per real gdp
-2015,238.9,,,,co₂ emissions per real gdp
-2016,232.7,,,,co₂ emissions per real gdp
-2017,222.7,,,,co₂ emissions per real gdp
-2018,213.4,,,,co₂ emissions per real gdp
-2019,197.3,,,,co₂ emissions per real gdp
-2020,188.0,,,,co₂ emissions per real gdp
-2021,189.8,,,,co₂ emissions per real gdp
-2022,185.2,,,,co₂ emissions per real gdp
-2010,319.8,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2011,291.0,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2012,290.3,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2013,290.2,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2014,271.6,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2015,279.4,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2016,273.1,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2017,270.7,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2018,257.9,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2019,255.3,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2020,269.6,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2021,261.3,p,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
-2022,243.9,p,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries
+Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,,,,co₂ emissions per real gdp,268.0
+2011,,,,co₂ emissions per real gdp,251.4
+2012,,,,co₂ emissions per real gdp,253.2
+2013,,,,co₂ emissions per real gdp,257.7
+2014,,,,co₂ emissions per real gdp,240.3
+2015,,,,co₂ emissions per real gdp,238.9
+2016,,,,co₂ emissions per real gdp,232.7
+2017,,,,co₂ emissions per real gdp,222.7
+2018,,,,co₂ emissions per real gdp,213.4
+2019,,,,co₂ emissions per real gdp,197.3
+2020,,,,co₂ emissions per real gdp,188.0
+2021,,,,co₂ emissions per real gdp,189.8
+2022,,,,co₂ emissions per real gdp,185.2
+2010,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,319.8
+2011,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,291.0
+2012,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,290.3
+2013,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,290.2
+2014,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,271.6
+2015,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,279.4
+2016,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,273.1
+2017,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,270.7
+2018,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,257.9
+2019,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,255.3
+2020,,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,269.6
+2021,p,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,261.3
+2022,p,,,co₂ emissions per gross value added (price adjusted) in manufacturing industries,243.9
