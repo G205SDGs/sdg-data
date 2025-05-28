@@ -1,53 +1,57 @@
 Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Millionen EUR,Zusagen (ODA),r,,,3345.1
-2011,Millionen EUR,Zusagen (ODA),r,,,2681.9
-2012,Millionen EUR,Zusagen (ODA),r,,,2591.8
-2013,Millionen EUR,Zusagen (ODA),r,,,3778.8
-2014,Millionen EUR,Zusagen (ODA),r,,,5803.2
-2015,Millionen EUR,Zusagen (ODA),r,,,5074.6
-2016,Millionen EUR,Zusagen (ODA),r,,,5323.7
-2017,Millionen EUR,Zusagen (ODA),r,,,5053.4
-2018,Millionen EUR,Zusagen (ODA),r,,,5160.6
-2019,Millionen EUR,Zusagen (ODA),r,,,6063.6
-2020,Millionen EUR,Zusagen (ODA),r,,,6911.9
-2021,Millionen EUR,Zusagen (ODA),r,,,6205.6
+2010,Millionen EUR,Zusagen (ODA),,,,3345.1
+2011,Millionen EUR,Zusagen (ODA),,,,2681.9
+2012,Millionen EUR,Zusagen (ODA),,,,2591.8
+2013,Millionen EUR,Zusagen (ODA),,,,3778.8
+2014,Millionen EUR,Zusagen (ODA),,,,5803.2
+2015,Millionen EUR,Zusagen (ODA),,,,5074.6
+2016,Millionen EUR,Zusagen (ODA),,,,5323.7
+2017,Millionen EUR,Zusagen (ODA),,,,5053.4
+2018,Millionen EUR,Zusagen (ODA),,,,5160.6
+2019,Millionen EUR,Zusagen (ODA),,,,6063.6
+2020,Millionen EUR,Zusagen (ODA),,,,6911.9
+2021,Millionen EUR,Zusagen (ODA),,,,6205.6
 2022,Millionen EUR,Zusagen (ODA),,,,7684.0
-2010,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,2280.2
-2011,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,2198.3
-2012,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,1922.8
-2013,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,2589.4
-2014,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,3438.9
-2015,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,4476.5
-2016,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,4030.8
-2017,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,4011.8
-2018,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,3951.5
-2019,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,4389.7
-2020,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,5039.1
-2021,Millionen EUR,Bruttoentwicklungsausgaben (ODA),r,,,4945.3
+2023,Millionen EUR,Zusagen (ODA),,,,6306.5
+2010,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,2280.2
+2011,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,2198.3
+2012,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,1922.8
+2013,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,2589.4
+2014,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,3438.9
+2015,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,4476.5
+2016,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,4030.8
+2017,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,4011.8
+2018,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,3951.5
+2019,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,4389.7
+2020,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,5039.1
+2021,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,4945.3
 2022,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,6285.3
-2010,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,4520.1
-2011,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,3585.1
-2012,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,3413.9
-2013,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,4881.5
-2014,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,7359.1
-2015,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,6317.8
-2016,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,6541.0
-2017,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,6116.8
-2018,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,6123.7
-2019,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,7045.0
-2020,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,7882.7
-2021,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),r,,,6870.4
+2023,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,5254.2
+2010,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,4520.1
+2011,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,3585.1
+2012,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,3413.9
+2013,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,4881.5
+2014,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,7359.1
+2015,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,6317.8
+2016,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,6541.0
+2017,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,6116.8
+2018,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,6123.7
+2019,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,7045.0
+2020,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,7882.7
+2021,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,6870.4
 2022,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,8080.8
-2010,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,3081.2
-2011,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,2938.6
-2012,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,2532.7
-2013,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,3345.0
-2014,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,4360.9
-2015,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,5573.2
-2016,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,4952.4
-2017,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,4855.9
-2018,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,4689.1
-2019,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,5100.1
-2020,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,5746.9
-2021,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),r,,,5475.1
+2023,"Millionen USD, konstante Preise (2022)",Zusagen (ODA),,,,6238.7
+2010,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,3081.2
+2011,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,2938.6
+2012,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,2532.7
+2013,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,3345.0
+2014,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,4360.9
+2015,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,5573.2
+2016,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,4952.4
+2017,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,4855.9
+2018,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,4689.1
+2019,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,5100.1
+2020,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,5746.9
+2021,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,5475.1
 2022,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,6609.9
+2023,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA),,,,5197.7

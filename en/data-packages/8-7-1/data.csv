@@ -1,127 +1,136 @@
 Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,13 years and younger,,,,,11
-2011,13 years and younger,,,,,29
-2012,13 years and younger,,,,,19
-2013,13 years and younger,,,,,18
-2014,13 years and younger,,,,,22
-2015,13 years and younger,,,,,19
-2016,13 years and younger,,,,,36
-2017,13 years and younger,,,,,67
-2018,13 years and younger,,,,,18
-2019,13 years and younger,,,,,15
-2020,13 years and younger,,,,,31
-2021,13 years and younger,,,,,36
-2022,13 years and younger,,,,,20
-2023,13 years and younger,,,,,13
-2010,13 years and younger,Female,,,,2
-2011,13 years and younger,Female,,,,13
-2012,13 years and younger,Female,,,,11
-2013,13 years and younger,Female,,,,6
-2014,13 years and younger,Female,,,,9
-2015,13 years and younger,Female,,,,7
-2016,13 years and younger,Female,,,,15
-2017,13 years and younger,Female,,,,16
-2018,13 years and younger,Female,,,,9
-2019,13 years and younger,Female,,,,9
-2020,13 years and younger,Female,,,,10
-2021,13 years and younger,Female,,,,17
-2022,13 years and younger,Female,,,,13
-2023,13 years and younger,Female,,,,8
-2010,13 years and younger,Male,,,,9
-2011,13 years and younger,Male,,,,16
-2012,13 years and younger,Male,,,,8
-2013,13 years and younger,Male,,,,12
-2014,13 years and younger,Male,,,,13
-2015,13 years and younger,Male,,,,12
-2016,13 years and younger,Male,,,,21
-2017,13 years and younger,Male,,,,51
-2018,13 years and younger,Male,,,,9
-2019,13 years and younger,Male,,,,6
-2020,13 years and younger,Male,,,,21
-2021,13 years and younger,Male,,,,19
-2022,13 years and younger,Male,,,,7
-2023,13 years and younger,Male,,,,5
-2010,14 to under 18 years,,,,,108
-2011,14 to under 18 years,,,,,95
-2012,14 to under 18 years,,,,,96
-2013,14 to under 18 years,,,,,92
-2014,14 to under 18 years,,,,,76
-2015,14 to under 18 years,,,,,87
-2016,14 to under 18 years,,,,,111
-2017,14 to under 18 years,,,,,53
-2018,14 to under 18 years,,,,,112
-2019,14 to under 18 years,,,,,89
-2020,14 to under 18 years,,,,,86
-2021,14 to under 18 years,,,,,82
-2022,14 to under 18 years,,,,,86
-2023,14 to under 18 years,,,,,67
-2010,14 to under 18 years,Female,,,,97
-2011,14 to under 18 years,Female,,,,82
-2012,14 to under 18 years,Female,,,,88
-2013,14 to under 18 years,Female,,,,79
-2014,14 to under 18 years,Female,,,,66
-2015,14 to under 18 years,Female,,,,80
-2016,14 to under 18 years,Female,,,,100
-2017,14 to under 18 years,Female,,,,49
-2018,14 to under 18 years,Female,,,,96
-2019,14 to under 18 years,Female,,,,74
-2020,14 to under 18 years,Female,,,,62
-2021,14 to under 18 years,Female,,,,64
-2022,14 to under 18 years,Female,,,,72
-2023,14 to under 18 years,Female,,,,61
-2010,14 to under 18 years,Male,,,,11
-2011,14 to under 18 years,Male,,,,13
-2012,14 to under 18 years,Male,,,,8
-2013,14 to under 18 years,Male,,,,13
-2014,14 to under 18 years,Male,,,,10
-2015,14 to under 18 years,Male,,,,7
-2016,14 to under 18 years,Male,,,,11
-2017,14 to under 18 years,Male,,,,4
-2018,14 to under 18 years,Male,,,,16
-2019,14 to under 18 years,Male,,,,15
-2020,14 to under 18 years,Male,,,,24
-2021,14 to under 18 years,Male,,,,18
-2022,14 to under 18 years,Male,,,,14
-2023,14 to under 18 years,Male,,,,6
-2010,,,,,,119
-2011,,,,,,124
-2012,,,,,,115
-2013,,,,,,110
-2014,,,,,,98
-2015,,,,,,106
-2016,,,,,,147
-2017,,,,,,120
-2018,,,,,,130
-2019,,,,,,104
-2020,,,,,,117
-2021,,,,,,118
-2022,,,,,,106
-2023,,,,,,80
-2010,,Female,,,,99
-2011,,Female,,,,95
-2012,,Female,,,,99
-2013,,Female,,,,85
-2014,,Female,,,,75
-2015,,Female,,,,87
-2016,,Female,,,,115
-2017,,Female,,,,65
-2018,,Female,,,,105
-2019,,Female,,,,83
-2020,,Female,,,,72
-2021,,Female,,,,81
-2022,,Female,,,,85
-2023,,Female,,,,69
-2010,,Male,,,,20
-2011,,Male,,,,29
-2012,,Male,,,,16
-2013,,Male,,,,25
-2014,,Male,,,,23
-2015,,Male,,,,19
-2016,,Male,,,,32
-2017,,Male,,,,55
-2018,,Male,,,,25
-2019,,Male,,,,21
-2020,,Male,,,,45
-2021,,Male,,,,37
-2022,,Male,,,,21
-2023,,Male,,,,11
+2010,13 years and younger,,,,,11.0
+2011,13 years and younger,,,,,29.0
+2012,13 years and younger,,,,,19.0
+2013,13 years and younger,,,,,18.0
+2014,13 years and younger,,,,,22.0
+2015,13 years and younger,,,,,19.0
+2016,13 years and younger,,,,,36.0
+2017,13 years and younger,,,,,67.0
+2018,13 years and younger,,,,,18.0
+2019,13 years and younger,,,,,15.0
+2020,13 years and younger,,,,,31.0
+2021,13 years and younger,,,,,36.0
+2022,13 years and younger,,,,,20.0
+2023,13 years and younger,,,,,13.0
+2024,13 years and younger,,,,,17.0
+2010,13 years and younger,Female,,,,2.0
+2011,13 years and younger,Female,,,,13.0
+2012,13 years and younger,Female,,,,11.0
+2013,13 years and younger,Female,,,,6.0
+2014,13 years and younger,Female,,,,9.0
+2015,13 years and younger,Female,,,,7.0
+2016,13 years and younger,Female,,,,15.0
+2017,13 years and younger,Female,,,,16.0
+2018,13 years and younger,Female,,,,9.0
+2019,13 years and younger,Female,,,,9.0
+2020,13 years and younger,Female,,,,10.0
+2021,13 years and younger,Female,,,,17.0
+2022,13 years and younger,Female,,,,13.0
+2023,13 years and younger,Female,,,,8.0
+2024,13 years and younger,Female,,,,11.0
+2010,13 years and younger,Male,,,,9.0
+2011,13 years and younger,Male,,,,16.0
+2012,13 years and younger,Male,,,,8.0
+2013,13 years and younger,Male,,,,12.0
+2014,13 years and younger,Male,,,,13.0
+2015,13 years and younger,Male,,,,12.0
+2016,13 years and younger,Male,,,,21.0
+2017,13 years and younger,Male,,,,51.0
+2018,13 years and younger,Male,,,,9.0
+2019,13 years and younger,Male,,,,6.0
+2020,13 years and younger,Male,,,,21.0
+2021,13 years and younger,Male,,,,19.0
+2022,13 years and younger,Male,,,,7.0
+2023,13 years and younger,Male,,,,5.0
+2024,13 years and younger,Male,…,,,
+2010,14 to under 18 years,,,,,108.0
+2011,14 to under 18 years,,,,,95.0
+2012,14 to under 18 years,,,,,96.0
+2013,14 to under 18 years,,,,,92.0
+2014,14 to under 18 years,,,,,76.0
+2015,14 to under 18 years,,,,,87.0
+2016,14 to under 18 years,,,,,111.0
+2017,14 to under 18 years,,,,,53.0
+2018,14 to under 18 years,,,,,112.0
+2019,14 to under 18 years,,,,,89.0
+2020,14 to under 18 years,,,,,86.0
+2021,14 to under 18 years,,,,,82.0
+2022,14 to under 18 years,,,,,86.0
+2023,14 to under 18 years,,,,,67.0
+2024,14 to under 18 years,,,,,70.0
+2010,14 to under 18 years,Female,,,,97.0
+2011,14 to under 18 years,Female,,,,82.0
+2012,14 to under 18 years,Female,,,,88.0
+2013,14 to under 18 years,Female,,,,79.0
+2014,14 to under 18 years,Female,,,,66.0
+2015,14 to under 18 years,Female,,,,80.0
+2016,14 to under 18 years,Female,,,,100.0
+2017,14 to under 18 years,Female,,,,49.0
+2018,14 to under 18 years,Female,,,,96.0
+2019,14 to under 18 years,Female,,,,74.0
+2020,14 to under 18 years,Female,,,,62.0
+2021,14 to under 18 years,Female,,,,64.0
+2022,14 to under 18 years,Female,,,,72.0
+2023,14 to under 18 years,Female,,,,61.0
+2024,14 to under 18 years,Female,,,,55.0
+2010,14 to under 18 years,Male,,,,11.0
+2011,14 to under 18 years,Male,,,,13.0
+2012,14 to under 18 years,Male,,,,8.0
+2013,14 to under 18 years,Male,,,,13.0
+2014,14 to under 18 years,Male,,,,10.0
+2015,14 to under 18 years,Male,,,,7.0
+2016,14 to under 18 years,Male,,,,11.0
+2017,14 to under 18 years,Male,,,,4.0
+2018,14 to under 18 years,Male,,,,16.0
+2019,14 to under 18 years,Male,,,,15.0
+2020,14 to under 18 years,Male,,,,24.0
+2021,14 to under 18 years,Male,,,,18.0
+2022,14 to under 18 years,Male,,,,14.0
+2023,14 to under 18 years,Male,,,,6.0
+2024,14 to under 18 years,Male,,,,15.0
+2010,,,,,,119.0
+2011,,,,,,124.0
+2012,,,,,,115.0
+2013,,,,,,110.0
+2014,,,,,,98.0
+2015,,,,,,106.0
+2016,,,,,,147.0
+2017,,,,,,120.0
+2018,,,,,,130.0
+2019,,,,,,104.0
+2020,,,,,,117.0
+2021,,,,,,118.0
+2022,,,,,,106.0
+2023,,,,,,80.0
+2024,,,,,,87.0
+2010,,Female,,,,99.0
+2011,,Female,,,,95.0
+2012,,Female,,,,99.0
+2013,,Female,,,,85.0
+2014,,Female,,,,75.0
+2015,,Female,,,,87.0
+2016,,Female,,,,115.0
+2017,,Female,,,,65.0
+2018,,Female,,,,105.0
+2019,,Female,,,,83.0
+2020,,Female,,,,72.0
+2021,,Female,,,,81.0
+2022,,Female,,,,85.0
+2023,,Female,,,,69.0
+2024,,Female,,,,66.0
+2010,,Male,,,,20.0
+2011,,Male,,,,29.0
+2012,,Male,,,,16.0
+2013,,Male,,,,25.0
+2014,,Male,,,,23.0
+2015,,Male,,,,19.0
+2016,,Male,,,,32.0
+2017,,Male,,,,55.0
+2018,,Male,,,,25.0
+2019,,Male,,,,21.0
+2020,,Male,,,,45.0
+2021,,Male,,,,37.0
+2022,,Male,,,,21.0
+2023,,Male,,,,11.0
+2024,,Male,,,,21.0

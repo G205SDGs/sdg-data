@@ -1,17 +1,18 @@
 Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,,r,,,2.68
-2011,,,r,,,2.75
-2012,,,r,,,2.82
-2013,,,r,,,2.78
-2014,,,r,,,2.82
-2015,,,r,,,2.88
-2016,,,r,,,2.88
-2017,,,r,,,2.99
-2018,,,r,,,3.05
-2019,,,r,,,3.11
-2020,,,r,,,3.09
-2021,,,r,,,3.08
-2022,,,p,,,3.07
+2010,,,,,,2.68
+2011,,,,,,2.75
+2012,,,,,,2.82
+2013,,,,,,2.78
+2014,,,,,,2.82
+2015,,,,,,2.88
+2016,,,,,,2.88
+2017,,,,,,2.99
+2018,,,,,,3.05
+2019,,,,,,3.11
+2020,,,,,,3.09
+2021,,,,,,3.08
+2022,,,,,,3.07
+2023,,,p,,,3.1
 2010,Baden-Württemberg,code08,,,,4.45
 2011,Baden-Württemberg,code08,,,,4.8
 2012,Baden-Württemberg,code08,,,,4.9
@@ -25,6 +26,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Baden-Württemberg,code08,,,,5.69
 2021,Baden-Württemberg,code08,,,,5.64
 2022,Baden-Württemberg,code08,p,,,5.65
+2023,Baden-Württemberg,code08,…,,,
 2010,Bayern,code09,,,,3.01
 2011,Bayern,code09,,,,2.98
 2012,Bayern,code09,,,,3.08
@@ -38,6 +40,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Bayern,code09,,,,3.36
 2021,Bayern,code09,,,,3.39
 2022,Bayern,code09,p,,,3.4
+2023,Bayern,code09,…,,,
 2010,Berlin,code11,,,,3.44
 2011,Berlin,code11,,,,3.34
 2012,Berlin,code11,,,,3.44
@@ -51,6 +54,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Berlin,code11,,,,3.32
 2021,Berlin,code11,,,,3.35
 2022,Berlin,code11,p,,,3.23
+2023,Berlin,code11,…,,,
 2010,Brandenburg,code12,,,,1.43
 2011,Brandenburg,code12,,,,1.66
 2012,Brandenburg,code12,,,,1.65
@@ -64,6 +68,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Brandenburg,code12,,,,1.83
 2021,Brandenburg,code12,,,,1.72
 2022,Brandenburg,code12,p,,,1.69
+2023,Brandenburg,code12,…,,,
 2010,Bremen,code04,,,,2.67
 2011,Bremen,code04,,,,2.76
 2012,Bremen,code04,,,,2.65
@@ -77,6 +82,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Bremen,code04,,,,3.7
 2021,Bremen,code04,,,,3.18
 2022,Bremen,code04,p,,,3.19
+2023,Bremen,code04,…,,,
 2010,Hamburg,code02,,,,2.11
 2011,Hamburg,code02,,,,2.22
 2012,Hamburg,code02,,,,2.27
@@ -90,6 +96,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Hamburg,code02,,,,2.25
 2021,Hamburg,code02,,,,2.16
 2022,Hamburg,code02,p,,,2.08
+2023,Hamburg,code02,…,,,
 2010,Hessen,code06,,,,2.99
 2011,Hessen,code06,,,,2.88
 2012,Hessen,code06,,,,3.02
@@ -103,6 +110,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Hessen,code06,,,,3.06
 2021,Hessen,code06,,,,3.09
 2022,Hessen,code06,p,,,3.1
+2023,Hessen,code06,…,,,
 2010,Mecklenburg-Vorpommern,code13,,,,1.99
 2011,Mecklenburg-Vorpommern,code13,,,,2.05
 2012,Mecklenburg-Vorpommern,code13,,,,2.11
@@ -116,6 +124,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Mecklenburg-Vorpommern,code13,,,,1.8
 2021,Mecklenburg-Vorpommern,code13,,,,1.77
 2022,Mecklenburg-Vorpommern,code13,p,,,1.72
+2023,Mecklenburg-Vorpommern,code13,…,,,
 2010,Niedersachsen,code03,,,,2.53
 2011,Niedersachsen,code03,,,,2.7
 2012,Niedersachsen,code03,,,,2.76
@@ -129,6 +138,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Niedersachsen,code03,,,,3.07
 2021,Niedersachsen,code03,,,,2.72
 2022,Niedersachsen,code03,p,,,2.69
+2023,Niedersachsen,code03,…,,,
 2010,Nordrhein-Westfalen,code05,,,,1.99
 2011,Nordrhein-Westfalen,code05,,,,2.0
 2012,Nordrhein-Westfalen,code05,,,,2.09
@@ -142,6 +152,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Nordrhein-Westfalen,code05,,,,2.19
 2021,Nordrhein-Westfalen,code05,,,,2.21
 2022,Nordrhein-Westfalen,code05,p,,,2.22
+2023,Nordrhein-Westfalen,code05,…,,,
 2010,Rheinland-Pfalz,code07,,,,2.05
 2011,Rheinland-Pfalz,code07,,,,2.03
 2012,Rheinland-Pfalz,code07,,,,2.05
@@ -155,6 +166,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Rheinland-Pfalz,code07,,,,2.56
 2021,Rheinland-Pfalz,code07,,,,2.78
 2022,Rheinland-Pfalz,code07,p,,,2.81
+2023,Rheinland-Pfalz,code07,…,,,
 2010,Saarland,code10,,,,1.3
 2011,Saarland,code10,,,,1.48
 2012,Saarland,code10,,,,1.47
@@ -168,6 +180,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Saarland,code10,,,,1.94
 2021,Saarland,code10,,,,1.95
 2022,Saarland,code10,p,,,1.92
+2023,Saarland,code10,…,,,
 2010,Sachsen,code14,,,,2.79
 2011,Sachsen,code14,,,,2.8
 2012,Sachsen,code14,,,,2.8
@@ -181,6 +194,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Sachsen,code14,,,,3.02
 2021,Sachsen,code14,,,,3.09
 2022,Sachsen,code14,p,,,3.02
+2023,Sachsen,code14,…,,,
 2010,Sachsen-Anhalt,code15,,,,1.41
 2011,Sachsen-Anhalt,code15,,,,1.48
 2012,Sachsen-Anhalt,code15,,,,1.4
@@ -194,6 +208,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Sachsen-Anhalt,code15,,,,1.58
 2021,Sachsen-Anhalt,code15,,,,1.59
 2022,Sachsen-Anhalt,code15,p,,,1.58
+2023,Sachsen-Anhalt,code15,…,,,
 2010,Schleswig-Holstein,code01,,,,1.32
 2011,Schleswig-Holstein,code01,,,,1.42
 2012,Schleswig-Holstein,code01,,,,1.45
@@ -207,6 +222,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Schleswig-Holstein,code01,,,,1.62
 2021,Schleswig-Holstein,code01,,,,1.68
 2022,Schleswig-Holstein,code01,p,,,1.68
+2023,Schleswig-Holstein,code01,…,,,
 2010,Thüringen,code16,,,,2.18
 2011,Thüringen,code16,,,,2.14
 2012,Thüringen,code16,,,,2.2
@@ -220,3 +236,4 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Thüringen,code16,,,,2.45
 2021,Thüringen,code16,,,,2.74
 2022,Thüringen,code16,p,,,2.76
+2023,Thüringen,code16,…,,,

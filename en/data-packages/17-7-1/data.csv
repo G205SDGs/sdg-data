@@ -8,9 +8,10 @@ Year,Sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2016,,,,,12824
 2017,,,,,13263
 2018,,,,,14747
-2019,,r,,,15577
+2019,,,,,15577
 2020,,,,,16070
-2021,,p,,,15153
+2021,,,,,14209
+2022,,p,,,15929
 2010,General government,,,,2726
 2011,General government,,,,3434
 2012,General government,,,,3716
@@ -20,9 +21,10 @@ Year,Sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2016,General government,,,,4594
 2017,General government,,,,4245
 2018,General government,,,,4625
-2019,General government,r,,,4979
+2019,General government,,,,4979
 2020,General government,,,,5028
-2021,General government,p,,,3500
+2021,General government,,,,3589
+2022,General government,p,,,3902
 2010,Corporations,,,,7553
 2011,Corporations,,,,7981
 2012,Corporations,,,,7985
@@ -32,6 +34,7 @@ Year,Sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2016,Corporations,,,,8230
 2017,Corporations,,,,9018
 2018,Corporations,,,,10123
-2019,Corporations,r,,,10598
+2019,Corporations,,,,10598
 2020,Corporations,,,,11042
-2021,Corporations,p,,,11653
+2021,Corporations,,,,10620
+2022,Corporations,p,,,12026

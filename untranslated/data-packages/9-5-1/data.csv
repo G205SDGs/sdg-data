@@ -1,17 +1,18 @@
 Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,,r,,,2.68
-2011,,,r,,,2.75
-2012,,,r,,,2.82
-2013,,,r,,,2.78
-2014,,,r,,,2.82
-2015,,,r,,,2.88
-2016,,,r,,,2.88
-2017,,,r,,,2.99
-2018,,,r,,,3.05
-2019,,,r,,,3.11
-2020,,,r,,,3.09
-2021,,,r,,,3.08
-2022,,,p,,,3.07
+2010,,,,,,2.68
+2011,,,,,,2.75
+2012,,,,,,2.82
+2013,,,,,,2.78
+2014,,,,,,2.82
+2015,,,,,,2.88
+2016,,,,,,2.88
+2017,,,,,,2.99
+2018,,,,,,3.05
+2019,,,,,,3.11
+2020,,,,,,3.09
+2021,,,,,,3.08
+2022,,,,,,3.07
+2023,,,p,,,3.1
 2010,baden-württemberg,code08,,,,4.45
 2011,baden-württemberg,code08,,,,4.8
 2012,baden-württemberg,code08,,,,4.9
@@ -25,6 +26,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,baden-württemberg,code08,,,,5.69
 2021,baden-württemberg,code08,,,,5.64
 2022,baden-württemberg,code08,p,,,5.65
+2023,baden-württemberg,code08,…,,,
 2010,bavaria,code09,,,,3.01
 2011,bavaria,code09,,,,2.98
 2012,bavaria,code09,,,,3.08
@@ -38,6 +40,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,bavaria,code09,,,,3.36
 2021,bavaria,code09,,,,3.39
 2022,bavaria,code09,p,,,3.4
+2023,bavaria,code09,…,,,
 2010,berlin,code11,,,,3.44
 2011,berlin,code11,,,,3.34
 2012,berlin,code11,,,,3.44
@@ -51,6 +54,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,berlin,code11,,,,3.32
 2021,berlin,code11,,,,3.35
 2022,berlin,code11,p,,,3.23
+2023,berlin,code11,…,,,
 2010,brandenburg,code12,,,,1.43
 2011,brandenburg,code12,,,,1.66
 2012,brandenburg,code12,,,,1.65
@@ -64,6 +68,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,brandenburg,code12,,,,1.83
 2021,brandenburg,code12,,,,1.72
 2022,brandenburg,code12,p,,,1.69
+2023,brandenburg,code12,…,,,
 2010,bremen,code04,,,,2.67
 2011,bremen,code04,,,,2.76
 2012,bremen,code04,,,,2.65
@@ -77,6 +82,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,bremen,code04,,,,3.7
 2021,bremen,code04,,,,3.18
 2022,bremen,code04,p,,,3.19
+2023,bremen,code04,…,,,
 2010,hamburg,code02,,,,2.11
 2011,hamburg,code02,,,,2.22
 2012,hamburg,code02,,,,2.27
@@ -90,6 +96,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,hamburg,code02,,,,2.25
 2021,hamburg,code02,,,,2.16
 2022,hamburg,code02,p,,,2.08
+2023,hamburg,code02,…,,,
 2010,hesse,code06,,,,2.99
 2011,hesse,code06,,,,2.88
 2012,hesse,code06,,,,3.02
@@ -103,6 +110,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,hesse,code06,,,,3.06
 2021,hesse,code06,,,,3.09
 2022,hesse,code06,p,,,3.1
+2023,hesse,code06,…,,,
 2010,mecklenburg western pomerania,code13,,,,1.99
 2011,mecklenburg western pomerania,code13,,,,2.05
 2012,mecklenburg western pomerania,code13,,,,2.11
@@ -116,6 +124,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,mecklenburg western pomerania,code13,,,,1.8
 2021,mecklenburg western pomerania,code13,,,,1.77
 2022,mecklenburg western pomerania,code13,p,,,1.72
+2023,mecklenburg western pomerania,code13,…,,,
 2010,lower saxony,code03,,,,2.53
 2011,lower saxony,code03,,,,2.7
 2012,lower saxony,code03,,,,2.76
@@ -129,6 +138,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,lower saxony,code03,,,,3.07
 2021,lower saxony,code03,,,,2.72
 2022,lower saxony,code03,p,,,2.69
+2023,lower saxony,code03,…,,,
 2010,north rhine-westphalia,code05,,,,1.99
 2011,north rhine-westphalia,code05,,,,2.0
 2012,north rhine-westphalia,code05,,,,2.09
@@ -142,6 +152,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,north rhine-westphalia,code05,,,,2.19
 2021,north rhine-westphalia,code05,,,,2.21
 2022,north rhine-westphalia,code05,p,,,2.22
+2023,north rhine-westphalia,code05,…,,,
 2010,rhineland palatinate,code07,,,,2.05
 2011,rhineland palatinate,code07,,,,2.03
 2012,rhineland palatinate,code07,,,,2.05
@@ -155,6 +166,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,rhineland palatinate,code07,,,,2.56
 2021,rhineland palatinate,code07,,,,2.78
 2022,rhineland palatinate,code07,p,,,2.81
+2023,rhineland palatinate,code07,…,,,
 2010,saarland,code10,,,,1.3
 2011,saarland,code10,,,,1.48
 2012,saarland,code10,,,,1.47
@@ -168,6 +180,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,saarland,code10,,,,1.94
 2021,saarland,code10,,,,1.95
 2022,saarland,code10,p,,,1.92
+2023,saarland,code10,…,,,
 2010,saxony,code14,,,,2.79
 2011,saxony,code14,,,,2.8
 2012,saxony,code14,,,,2.8
@@ -181,6 +194,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,saxony,code14,,,,3.02
 2021,saxony,code14,,,,3.09
 2022,saxony,code14,p,,,3.02
+2023,saxony,code14,…,,,
 2010,saxony-anhalt,code15,,,,1.41
 2011,saxony-anhalt,code15,,,,1.48
 2012,saxony-anhalt,code15,,,,1.4
@@ -194,6 +208,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,saxony-anhalt,code15,,,,1.58
 2021,saxony-anhalt,code15,,,,1.59
 2022,saxony-anhalt,code15,p,,,1.58
+2023,saxony-anhalt,code15,…,,,
 2010,schleswig-holstein,code01,,,,1.32
 2011,schleswig-holstein,code01,,,,1.42
 2012,schleswig-holstein,code01,,,,1.45
@@ -207,6 +222,7 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,schleswig-holstein,code01,,,,1.62
 2021,schleswig-holstein,code01,,,,1.68
 2022,schleswig-holstein,code01,p,,,1.68
+2023,schleswig-holstein,code01,…,,,
 2010,thuringia,code16,,,,2.18
 2011,thuringia,code16,,,,2.14
 2012,thuringia,code16,,,,2.2
@@ -220,3 +236,4 @@ Year,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,thuringia,code16,,,,2.45
 2021,thuringia,code16,,,,2.74
 2022,thuringia,code16,p,,,2.76
+2023,thuringia,code16,…,,,

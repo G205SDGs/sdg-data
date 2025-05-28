@@ -1,43 +1,46 @@
 Year,Function,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Health,r,,,14.25
-2011,Health,r,,,14.74
-2012,Health,r,,,14.87
-2013,Health,r,,,15.32
-2014,Health,r,,,15.71
-2015,Health,r,,,15.82
-2016,Health,r,,,15.77
-2017,Health,r,,,15.67
-2018,Health,r,,,15.74
-2019,Health,r,,,15.71
-2020,Health,p,,,16.3
+2010,Health,,,,14.25
+2011,Health,,,,14.74
+2012,Health,,,,14.87
+2013,Health,,,,15.32
+2014,Health,,,,15.71
+2015,Health,,,,15.82
+2016,Health,,,,15.77
+2017,Health,,,,15.67
+2018,Health,,,,15.74
+2019,Health,,,,15.71
+2020,Health,,,,16.3
 2021,Health,p,,,16.81
 2022,Health,p,,,17.06
 2023,Health,p,,,15.56
-2010,Education,r,,,8.99
-2011,Education,r,,,9.36
-2012,Education,r,,,9.21
-2013,Education,r,,,9.36
-2014,Education,r,,,9.4
-2015,Education,r,,,9.35
-2016,Education,r,,,9.2
-2017,Education,r,,,9.2
-2018,Education,r,,,9.36
-2019,Education,r,,,9.43
-2020,Education,p,,,8.94
+2024,Health,p,,,15.44
+2010,Education,,,,8.99
+2011,Education,,,,9.36
+2012,Education,,,,9.21
+2013,Education,,,,9.36
+2014,Education,,,,9.4
+2015,Education,,,,9.35
+2016,Education,,,,9.2
+2017,Education,,,,9.2
+2018,Education,,,,9.36
+2019,Education,,,,9.43
+2020,Education,,,,8.94
 2021,Education,p,,,8.82
 2022,Education,p,,,8.96
 2023,Education,p,,,9.25
-2010,Social protection,r,,,40.82
-2011,Social protection,r,,,40.9
-2012,Social protection,r,,,41.04
-2013,Social protection,r,,,41.15
-2014,Social protection,r,,,41.35
-2015,Social protection,r,,,42.06
-2016,Social protection,r,,,42.77
-2017,Social protection,r,,,42.73
-2018,Social protection,r,,,42.27
-2019,Social protection,r,,,42.21
-2020,Social protection,p,,,41.86
+2024,Education,p,,,9.13
+2010,Social protection,,,,40.82
+2011,Social protection,,,,40.9
+2012,Social protection,,,,41.04
+2013,Social protection,,,,41.15
+2014,Social protection,,,,41.35
+2015,Social protection,,,,42.06
+2016,Social protection,,,,42.77
+2017,Social protection,,,,42.73
+2018,Social protection,,,,42.27
+2019,Social protection,,,,42.21
+2020,Social protection,,,,41.86
 2021,Social protection,p,,,40.41
 2022,Social protection,p,,,40.79
 2023,Social protection,p,,,40.62
+2024,Social protection,p,,,41.4

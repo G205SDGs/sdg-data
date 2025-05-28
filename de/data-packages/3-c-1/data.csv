@@ -8,10 +8,11 @@ Year,Beruf,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2016,,,,,376.02
 2017,,,,,382.04
 2018,,,,,391.11
-2019,,r,,,397.88
+2019,,,,,397.88
 2020,,,,,404.91
-2021,,r,,,410.99
-2022,,,,,409.32
+2021,,,,,410.99
+2022,,r,,,409.44
+2023,,,,,419.26
 2010,Apotheker,,,,6.36
 2011,Apotheker,,,,6.35
 2012,Apotheker,,,,6.21
@@ -25,6 +26,7 @@ Year,Beruf,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Apotheker,,,,6.73
 2021,Apotheker,,,,6.73
 2022,Apotheker,,,,6.64
+2023,Apotheker,,,,6.71
 2010,Ärzte,,,,37.89
 2011,Ärzte,,,,38.72
 2012,Ärzte,,,,39.37
@@ -38,6 +40,7 @@ Year,Beruf,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Ärzte,,,,44.74
 2021,Ärzte,,,,45.29
 2022,Ärzte,,,,45.16
+2023,Ärzte,,,,46.49
 2010,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,,,103.21
 2011,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,,,104.07
 2012,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,,,104.57
@@ -48,9 +51,10 @@ Year,Beruf,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,,,113.42
 2018,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,,,117.92
 2019,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,,,120.84
-2020,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,r,,,123.5
+2020,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,,,123.5
 2021,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,,,123.26
-2022,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,,,122.1
+2022,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,r,,,122.22
+2023,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,,,,125.58
 2010,Zahnärzte,,,,8.23
 2011,Zahnärzte,,,,8.34
 2012,Zahnärzte,,,,8.44
@@ -63,4 +67,5 @@ Year,Beruf,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Zahnärzte,,,,8.54
 2020,Zahnärzte,,,,8.54
 2021,Zahnärzte,,,,8.53
-2022,Zahnärzte,,,,8.18
+2022,Zahnärzte,r,,,8.42
+2023,Zahnärzte,,,,8.51

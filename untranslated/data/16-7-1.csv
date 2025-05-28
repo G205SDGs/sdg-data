@@ -140,7 +140,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,percentage,judiciary,,,,,,47.5
 2021,percentage,judiciary,,,,,,48.4
 2022,percentage,judiciary,,,,,,49.1
-2023,percentage,judiciary,,,,,,
+2023,percentage,judiciary,,,,,,49.9
 2024,percentage,judiciary,,,,,,
 2025,percentage,judiciary,,,,,,
 2010,percentage,judiciary,,supreme/constitutional courts,,,,23.0
@@ -156,7 +156,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,percentage,judiciary,,supreme/constitutional courts,,,,39.0
 2021,percentage,judiciary,,supreme/constitutional courts,,,,39.0
 2022,percentage,judiciary,,supreme/constitutional courts,,,,39.4
-2023,percentage,judiciary,,supreme/constitutional courts,,,,
+2023,percentage,judiciary,,supreme/constitutional courts,,,,39.4
 2024,percentage,judiciary,,supreme/constitutional courts,,,,
 2025,percentage,judiciary,,supreme/constitutional courts,,,,
 2010,percentage,judiciary,,higher-level courts,,,,29.3
@@ -172,7 +172,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,percentage,judiciary,,higher-level courts,,,,39.0
 2021,percentage,judiciary,,higher-level courts,,,,40.2
 2022,percentage,judiciary,,higher-level courts,,,,41.1
-2023,percentage,judiciary,,higher-level courts,,,,
+2023,percentage,judiciary,,higher-level courts,,,,42.4
 2024,percentage,judiciary,,higher-level courts,,,,
 2025,percentage,judiciary,,higher-level courts,,,,
 2010,percentage,judiciary,,lower-level courts,,,,40.7
@@ -188,7 +188,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,percentage,judiciary,,lower-level courts,,,,49.4
 2021,percentage,judiciary,,lower-level courts,,,,50.3
 2022,percentage,judiciary,,lower-level courts,,,,51.0
-2023,percentage,judiciary,,lower-level courts,…,,,
+2023,percentage,judiciary,,lower-level courts,,,,51.7
 2024,percentage,judiciary,,lower-level courts,…,,,
 2025,percentage,judiciary,,lower-level courts,…,,,
 2010,no unit,german bundestag (lower chamber),,,,,,0.66
@@ -316,7 +316,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,no unit,judiciary,,,,,,0.96
 2021,no unit,judiciary,,,,,,0.98
 2022,no unit,judiciary,,,,,,0.99
-2023,no unit,judiciary,,,…,,,
+2023,no unit,judiciary,,,,,,1.01
 2024,no unit,judiciary,,,…,,,
 2025,no unit,judiciary,,,…,,,
 2010,no unit,judiciary,,supreme/constitutional courts,,,,0.47
@@ -332,7 +332,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,no unit,judiciary,,supreme/constitutional courts,,,,0.79
 2021,no unit,judiciary,,supreme/constitutional courts,,,,0.79
 2022,no unit,judiciary,,supreme/constitutional courts,,,,0.8
-2023,no unit,judiciary,,supreme/constitutional courts,…,,,
+2023,no unit,judiciary,,supreme/constitutional courts,,,,0.8
 2024,no unit,judiciary,,supreme/constitutional courts,…,,,
 2025,no unit,judiciary,,supreme/constitutional courts,…,,,
 2010,no unit,judiciary,,higher-level courts,,,,0.59
@@ -348,7 +348,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,no unit,judiciary,,higher-level courts,,,,0.79
 2021,no unit,judiciary,,higher-level courts,,,,0.81
 2022,no unit,judiciary,,higher-level courts,,,,0.83
-2023,no unit,judiciary,,higher-level courts,…,,,
+2023,no unit,judiciary,,higher-level courts,,,,0.86
 2024,no unit,judiciary,,higher-level courts,…,,,
 2025,no unit,judiciary,,higher-level courts,…,,,
 2010,no unit,judiciary,,lower-level courts,,,,0.82
@@ -364,6 +364,6 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2020,no unit,judiciary,,lower-level courts,,,,1.0
 2021,no unit,judiciary,,lower-level courts,,,,1.02
 2022,no unit,judiciary,,lower-level courts,,,,1.03
-2023,no unit,judiciary,,lower-level courts,…,,,
+2023,no unit,judiciary,,lower-level courts,,,,1.05
 2024,no unit,judiciary,,lower-level courts,…,,,
 2025,no unit,judiciary,,lower-level courts,…,,,

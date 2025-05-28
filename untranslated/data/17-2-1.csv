@@ -1,27 +1,29 @@
 Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,proportion of oda (net disbursements) to gni,,,,0.39
-2011,proportion of oda (net disbursements) to gni,,,,0.39
-2012,proportion of oda (net disbursements) to gni,,,,0.37
-2013,proportion of oda (net disbursements) to gni,,,,0.38
-2014,proportion of oda (net disbursements) to gni,,,,0.42
-2015,proportion of oda (net disbursements) to gni,,,,0.52
-2016,proportion of oda (net disbursements) to gni,,,,0.7
-2017,proportion of oda (net disbursements) to gni,,,,0.67
-2018,proportion of oda (net disbursements) to gni,,,,0.63
-2019,proportion of oda (net disbursements) to gni,,,,0.61
-2020,proportion of oda (net disbursements) to gni,,,,0.75
-2021,proportion of oda (net disbursements) to gni,,,,0.75
-2022,proportion of oda (net disbursements) to gni,p,,,0.87
-2010,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.11
-2011,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.1
-2012,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.11
+2010,proportion of oda (net disbursements) to gni,r,,,0.37
+2011,proportion of oda (net disbursements) to gni,r,,,0.36
+2012,proportion of oda (net disbursements) to gni,r,,,0.35
+2013,proportion of oda (net disbursements) to gni,r,,,0.37
+2014,proportion of oda (net disbursements) to gni,r,,,0.41
+2015,proportion of oda (net disbursements) to gni,r,,,0.51
+2016,proportion of oda (net disbursements) to gni,r,,,0.68
+2017,proportion of oda (net disbursements) to gni,r,,,0.65
+2018,proportion of oda (net disbursements) to gni,r,,,0.61
+2019,proportion of oda (net disbursements) to gni,r,,,0.59
+2020,proportion of oda (net disbursements) to gni,r,,,0.73
+2021,proportion of oda (net disbursements) to gni,p,,,0.72
+2022,proportion of oda (net disbursements) to gni,p,,,0.85
+2023,proportion of oda (net disbursements) to gni,p,,,0.75
+2010,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),r,,,0.1
+2011,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),r,,,0.09
+2012,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),r,,,0.1
 2013,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.09
-2014,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.1
-2015,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.08
+2014,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),r,,,0.09
+2015,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),r,,,0.07
 2016,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.1
 2017,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.11
 2018,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.12
 2019,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.11
 2020,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.14
-2021,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),,,,0.13
+2021,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),p,,,0.13
 2022,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),p,,,0.11
+2023,proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),p,,,0.19

@@ -8,10 +8,11 @@ Year,profession,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2016,,,,,376.02
 2017,,,,,382.04
 2018,,,,,391.11
-2019,,r,,,397.88
+2019,,,,,397.88
 2020,,,,,404.91
-2021,,r,,,410.99
-2022,,,,,409.32
+2021,,,,,410.99
+2022,,r,,,409.44
+2023,,,,,419.26
 2010,pharmacists,,,,6.36
 2011,pharmacists,,,,6.35
 2012,pharmacists,,,,6.21
@@ -25,6 +26,7 @@ Year,profession,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,pharmacists,,,,6.73
 2021,pharmacists,,,,6.73
 2022,pharmacists,,,,6.64
+2023,pharmacists,,,,6.71
 2010,medical doctors,,,,37.89
 2011,medical doctors,,,,38.72
 2012,medical doctors,,,,39.37
@@ -38,6 +40,7 @@ Year,profession,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,medical doctors,,,,44.74
 2021,medical doctors,,,,45.29
 2022,medical doctors,,,,45.16
+2023,medical doctors,,,,46.49
 2010,nursing and midwifery personnel,,,,103.21
 2011,nursing and midwifery personnel,,,,104.07
 2012,nursing and midwifery personnel,,,,104.57
@@ -48,9 +51,10 @@ Year,profession,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,nursing and midwifery personnel,,,,113.42
 2018,nursing and midwifery personnel,,,,117.92
 2019,nursing and midwifery personnel,,,,120.84
-2020,nursing and midwifery personnel,r,,,123.5
+2020,nursing and midwifery personnel,,,,123.5
 2021,nursing and midwifery personnel,,,,123.26
-2022,nursing and midwifery personnel,,,,122.1
+2022,nursing and midwifery personnel,r,,,122.22
+2023,nursing and midwifery personnel,,,,125.58
 2010,dentists,,,,8.23
 2011,dentists,,,,8.34
 2012,dentists,,,,8.44
@@ -63,4 +67,5 @@ Year,profession,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,dentists,,,,8.54
 2020,dentists,,,,8.54
 2021,dentists,,,,8.53
-2022,dentists,,,,8.18
+2022,dentists,r,,,8.42
+2023,dentists,,,,8.51

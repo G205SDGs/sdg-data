@@ -12,6 +12,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,million eur,scholarships,,,,72.2
 2021,million eur,scholarships,,,,41.8
 2022,million eur,scholarships,,,,21.2
+2023,million eur,scholarships,,,,16.2
 2010,million eur,imputed student costs,,,,669.6
 2011,million eur,imputed student costs,,,,665.1
 2012,million eur,imputed student costs,,,,690.4
@@ -25,6 +26,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,million eur,imputed student costs,,,,1488.8
 2021,million eur,imputed student costs,,,,1669.1
 2022,million eur,imputed student costs,,,,1779.4
+2023,million eur,imputed student costs,,,,1980.3
 2010,"million usd, constant prices (2022)",scholarships,,,,176.0
 2011,"million usd, constant prices (2022)",scholarships,,,,161.4
 2012,"million usd, constant prices (2022)",scholarships,,,,149.1
@@ -38,6 +40,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,"million usd, constant prices (2022)",scholarships,,,,82.3
 2021,"million usd, constant prices (2022)",scholarships,,,,46.3
 2022,"million usd, constant prices (2022)",scholarships,,,,22.2
+2023,"million usd, constant prices (2022)",scholarships,,,,16.0
 2010,"million usd, constant prices (2022)",imputed student costs,,,,904.9
 2011,"million usd, constant prices (2022)",imputed student costs,,,,889.2
 2012,"million usd, constant prices (2022)",imputed student costs,,,,909.4
@@ -51,3 +54,4 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,"million usd, constant prices (2022)",imputed student costs,,,,1698.0
 2021,"million usd, constant prices (2022)",imputed student costs,,,,1847.9
 2022,"million usd, constant prices (2022)",imputed student costs,,,,1871.3
+2023,"million usd, constant prices (2022)",imputed student costs,,,,1959.0

@@ -1,85 +1,106 @@
-Year,Time series,Value
-2010,Capital to assets ratio,4.3
-2011,Capital to assets ratio,4.36
-2012,Capital to assets ratio,4.73
-2013,Capital to assets ratio,5.45
-2014,Capital to assets ratio,5.61
-2015,Capital to assets ratio,5.94
-2016,Capital to assets ratio,5.98
-2017,Capital to assets ratio,6.33
-2018,Capital to assets ratio,6.47
-2019,Capital to assets ratio,6.31
-2020,Capital to assets ratio,5.93
-2021,Capital to assets ratio,5.94
-2010,Regulatory Tier 1 capital to risk-weighted assets,11.83
-2011,Regulatory Tier 1 capital to risk-weighted assets,12.14
-2012,Regulatory Tier 1 capital to risk-weighted assets,14.18
-2013,Regulatory Tier 1 capital to risk-weighted assets,15.57
-2014,Regulatory Tier 1 capital to risk-weighted assets,15.35
-2015,Regulatory Tier 1 capital to risk-weighted assets,15.72
-2016,Regulatory Tier 1 capital to risk-weighted assets,16.28
-2017,Regulatory Tier 1 capital to risk-weighted assets,16.93
-2018,Regulatory Tier 1 capital to risk-weighted assets,16.62
-2019,Regulatory Tier 1 capital to risk-weighted assets,16.54
-2020,Regulatory Tier 1 capital to risk-weighted assets,17.15
-2021,Regulatory Tier 1 capital to risk-weighted assets,16.77
-2010,Nonperforming loans net of provisions to capital,34.22
-2011,Nonperforming loans net of provisions to capital,31.63
-2012,Nonperforming loans net of provisions to capital,27.41
-2013,Nonperforming loans net of provisions to capital,24.98
-2014,Nonperforming loans net of provisions to capital,21.28
-2015,Nonperforming loans net of provisions to capital,17.36
-2016,Nonperforming loans net of provisions to capital,14.68
-2017,Nonperforming loans net of provisions to capital,11.89
-2018,Nonperforming loans net of provisions to capital,9.06
-2019,Nonperforming loans net of provisions to capital,6.78
-2020,Nonperforming loans net of provisions to capital,
-2021,Nonperforming loans net of provisions to capital,
-2010,Nonperforming loans net of provisions to gross loans,3.2
-2011,Nonperforming loans net of provisions to gross loans,3.03
-2012,Nonperforming loans net of provisions to gross loans,2.86
-2013,Nonperforming loans net of provisions to gross loans,2.7
-2014,Nonperforming loans net of provisions to gross loans,2.34
-2015,Nonperforming loans net of provisions to gross loans,1.97
-2016,Nonperforming loans net of provisions to gross loans,1.71
-2017,Nonperforming loans net of provisions to gross loans,1.5
-2018,Nonperforming loans net of provisions to gross loans,1.24
-2019,Nonperforming loans net of provisions to gross loans,1.05
-2020,Nonperforming loans net of provisions to gross loans,
-2021,Nonperforming loans net of provisions to gross loans,
-2010,Return on assets,0.37
-2011,Return on assets,0.53
-2012,Return on assets,0.45
-2013,Return on assets,0.36
-2014,Return on assets,0.37
-2015,Return on assets,0.4
-2016,Return on assets,0.37
-2017,Return on assets,0.37
-2018,Return on assets,0.32
-2019,Return on assets,0.26
-2020,Return on assets,0.22
-2021,Return on assets,
-2010,Liquid assets to short-term liabilities,136.99
-2011,Liquid assets to short-term liabilities,137.86
-2012,Liquid assets to short-term liabilities,144.17
-2013,Liquid assets to short-term liabilities,140.5
-2014,Liquid assets to short-term liabilities,145.48
-2015,Liquid assets to short-term liabilities,146.5
-2016,Liquid assets to short-term liabilities,146.62
-2017,Liquid assets to short-term liabilities,151.25
-2018,Liquid assets to short-term liabilities,151.7
-2019,Liquid assets to short-term liabilities,161.25
-2020,Liquid assets to short-term liabilities,169.64
-2021,Liquid assets to short-term liabilities,170.88
-2010,Net open position in foreign exchange to capital,4.4
-2011,Net open position in foreign exchange to capital,4.48
-2012,Net open position in foreign exchange to capital,3.93
-2013,Net open position in foreign exchange to capital,3.84
-2014,Net open position in foreign exchange to capital,3.95
-2015,Net open position in foreign exchange to capital,4.62
-2016,Net open position in foreign exchange to capital,4.0
-2017,Net open position in foreign exchange to capital,3.67
-2018,Net open position in foreign exchange to capital,3.19
-2019,Net open position in foreign exchange to capital,3.72
-2020,Net open position in foreign exchange to capital,3.4
-2021,Net open position in foreign exchange to capital,4.35
+Year,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Ratio of regulatory capital to all weighted risk positions,,,,4.3
+2011,Ratio of regulatory capital to all weighted risk positions,,,,4.36
+2012,Ratio of regulatory capital to all weighted risk positions,,,,4.73
+2013,Ratio of regulatory capital to all weighted risk positions,,,,5.45
+2014,Ratio of regulatory capital to all weighted risk positions,,,,5.61
+2015,Ratio of regulatory capital to all weighted risk positions,,,,5.94
+2016,Ratio of regulatory capital to all weighted risk positions,,,,5.98
+2017,Ratio of regulatory capital to all weighted risk positions,,,,6.33
+2018,Ratio of regulatory capital to all weighted risk positions,,,,6.47
+2019,Ratio of regulatory capital to all weighted risk positions,|,,,6.31
+2020,Ratio of regulatory capital to all weighted risk positions,,,,5.93
+2021,Ratio of regulatory capital to all weighted risk positions,,,,5.94
+2022,Ratio of regulatory capital to all weighted risk positions,|,,,7.29
+2023,Ratio of regulatory capital to all weighted risk positions,,,,7.3
+2024,Ratio of regulatory capital to all weighted risk positions,…,,,
+2010,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,11.83
+2011,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,12.14
+2012,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,14.18
+2013,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,15.57
+2014,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,15.35
+2015,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,15.72
+2016,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,16.28
+2017,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,16.93
+2018,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,16.62
+2019,Ratio of regulatory (tier 1) capital to all weighted risk positions,|,,,16.54
+2020,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,17.15
+2021,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,16.84
+2022,Ratio of regulatory (tier 1) capital to all weighted risk positions,|,,,17.15
+2023,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,17.69
+2024,Ratio of regulatory (tier 1) capital to all weighted risk positions,,,,18.25
+2010,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,34.22
+2011,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,31.63
+2012,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,27.41
+2013,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,24.98
+2014,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,21.28
+2015,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,17.36
+2016,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,14.68
+2017,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,11.89
+2018,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,9.06
+2019,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,|,,,7.43
+2020,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,7.85
+2021,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,6.93
+2022,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,|,,,13.3
+2023,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,16.08
+2024,Ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,18.58
+2010,Non-performing loans to total gross loans,,,,3.2
+2011,Non-performing loans to total gross loans,,,,3.03
+2012,Non-performing loans to total gross loans,,,,2.86
+2013,Non-performing loans to total gross loans,,,,2.7
+2014,Non-performing loans to total gross loans,,,,2.34
+2015,Non-performing loans to total gross loans,,,,1.97
+2016,Non-performing loans to total gross loans,,,,1.71
+2017,Non-performing loans to total gross loans,,,,1.5
+2018,Non-performing loans to total gross loans,,,,1.24
+2019,Non-performing loans to total gross loans,|,,,1.38
+2020,Non-performing loans to total gross loans,,,,1.68
+2021,Non-performing loans to total gross loans,,,,1.34
+2022,Non-performing loans to total gross loans,|,,,1.23
+2023,Non-performing loans to total gross loans,,,,1.54
+2024,Non-performing loans to total gross loans,,,,1.77
+2010,Total return on assets,,,,0.37
+2011,Total return on assets,,,,0.53
+2012,Total return on assets,,,,0.45
+2013,Total return on assets,,,,0.36
+2014,Total return on assets,,,,0.37
+2015,Total return on assets,,,,0.4
+2016,Total return on assets,,,,0.37
+2017,Total return on assets,,,,0.37
+2018,Total return on assets,,,,0.32
+2019,Total return on assets,|,,,0.24
+2020,Total return on assets,,,,0.16
+2021,Total return on assets,,,,0.34
+2022,Total return on assets,|,,,0.35
+2023,Total return on assets,,,,0.51
+2024,Total return on assets,,,,0.58
+2010,Ratio of liquid assets to short-term liabilities,,,,136.99
+2011,Ratio of liquid assets to short-term liabilities,,,,137.86
+2012,Ratio of liquid assets to short-term liabilities,,,,144.17
+2013,Ratio of liquid assets to short-term liabilities,,,,140.5
+2014,Ratio of liquid assets to short-term liabilities,,,,145.48
+2015,Ratio of liquid assets to short-term liabilities,,,,146.5
+2016,Ratio of liquid assets to short-term liabilities,,,,146.62
+2017,Ratio of liquid assets to short-term liabilities,,,,151.25
+2018,Ratio of liquid assets to short-term liabilities,,,,151.7
+2019,Ratio of liquid assets to short-term liabilities,|,,,161.25
+2020,Ratio of liquid assets to short-term liabilities,,,,169.64
+2021,Ratio of liquid assets to short-term liabilities,,,,33.72
+2022,Ratio of liquid assets to short-term liabilities,|,,,33.67
+2023,Ratio of liquid assets to short-term liabilities,,,,35.66
+2024,Ratio of liquid assets to short-term liabilities,,,,33.46
+2010,Ratio of open foreign exchange position to regulatory capital,,,,4.4
+2011,Ratio of open foreign exchange position to regulatory capital,,,,4.48
+2012,Ratio of open foreign exchange position to regulatory capital,,,,3.93
+2013,Ratio of open foreign exchange position to regulatory capital,,,,3.84
+2014,Ratio of open foreign exchange position to regulatory capital,,,,3.95
+2015,Ratio of open foreign exchange position to regulatory capital,,,,4.62
+2016,Ratio of open foreign exchange position to regulatory capital,,,,4.0
+2017,Ratio of open foreign exchange position to regulatory capital,,,,3.67
+2018,Ratio of open foreign exchange position to regulatory capital,,,,3.19
+2019,Ratio of open foreign exchange position to regulatory capital,|,,,3.72
+2020,Ratio of open foreign exchange position to regulatory capital,,,,3.4
+2021,Ratio of open foreign exchange position to regulatory capital,,,,4.35
+2022,Ratio of open foreign exchange position to regulatory capital,|,,,3.63
+2023,Ratio of open foreign exchange position to regulatory capital,,,,2.7
+2024,Ratio of open foreign exchange position to regulatory capital,…,,,

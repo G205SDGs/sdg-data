@@ -13,7 +13,7 @@ Year,Verstädterungsgrad,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Se
 2021,Städte,,,,,Überbelegungsquote,15.7
 2022,Städte,,,,,Überbelegungsquote,16.5
 2023,Städte,,,,,Überbelegungsquote,16.6
-2024,Städte,,p,,,Überbelegungsquote,16.6
+2024,Städte,,,,,Überbelegungsquote,16.7
 2010,Kleinere Städte und Vororte,,,,,Überbelegungsquote,4.7
 2011,Kleinere Städte und Vororte,,,,,Überbelegungsquote,4.1
 2012,Kleinere Städte und Vororte,,,,,Überbelegungsquote,4.8
@@ -28,7 +28,7 @@ Year,Verstädterungsgrad,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Se
 2021,Kleinere Städte und Vororte,,,,,Überbelegungsquote,8.7
 2022,Kleinere Städte und Vororte,,,,,Überbelegungsquote,9.0
 2023,Kleinere Städte und Vororte,,,,,Überbelegungsquote,9.3
-2024,Kleinere Städte und Vororte,,p,,,Überbelegungsquote,9.1
+2024,Kleinere Städte und Vororte,,,,,Überbelegungsquote,9.2
 2010,Ländliche Gebiete,,,,,Überbelegungsquote,4.7
 2011,Ländliche Gebiete,,,,,Überbelegungsquote,4.1
 2012,Ländliche Gebiete,,,,,Überbelegungsquote,3.7
@@ -43,7 +43,7 @@ Year,Verstädterungsgrad,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Se
 2021,Ländliche Gebiete,,,,,Überbelegungsquote,5.0
 2022,Ländliche Gebiete,,,,,Überbelegungsquote,5.5
 2023,Ländliche Gebiete,,,,,Überbelegungsquote,5.5
-2024,Ländliche Gebiete,,p,,,Überbelegungsquote,5.7
+2024,Ländliche Gebiete,,,,,Überbelegungsquote,5.8
 2010,Städte,,,,,Quote der Überbelastung durch Wohnkosten,16.2
 2011,Städte,,,,,Quote der Überbelastung durch Wohnkosten,18.0
 2012,Städte,,,,,Quote der Überbelastung durch Wohnkosten,19.8
@@ -58,7 +58,7 @@ Year,Verstädterungsgrad,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Se
 2021,Städte,,,,,Quote der Überbelastung durch Wohnkosten,12.4
 2022,Städte,,,,,Quote der Überbelastung durch Wohnkosten,13.1
 2023,Städte,,,,,Quote der Überbelastung durch Wohnkosten,14.2
-2024,Städte,,p,,,Quote der Überbelastung durch Wohnkosten,14.2
+2024,Städte,,,,,Quote der Überbelastung durch Wohnkosten,13.1
 2010,Kleinere Städte und Vororte,,,,,Quote der Überbelastung durch Wohnkosten,13.0
 2011,Kleinere Städte und Vororte,,,,,Quote der Überbelastung durch Wohnkosten,14.5
 2012,Kleinere Städte und Vororte,,,,,Quote der Überbelastung durch Wohnkosten,15.5
@@ -73,7 +73,7 @@ Year,Verstädterungsgrad,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Se
 2021,Kleinere Städte und Vororte,,,,,Quote der Überbelastung durch Wohnkosten,10.7
 2022,Kleinere Städte und Vororte,,,,,Quote der Überbelastung durch Wohnkosten,11.5
 2023,Kleinere Städte und Vororte,,,,,Quote der Überbelastung durch Wohnkosten,12.7
-2024,Kleinere Städte und Vororte,,p,,,Quote der Überbelastung durch Wohnkosten,11.8
+2024,Kleinere Städte und Vororte,,,,,Quote der Überbelastung durch Wohnkosten,11.6
 2010,Ländliche Gebiete,,,,,Quote der Überbelastung durch Wohnkosten,12.3
 2011,Ländliche Gebiete,,,,,Quote der Überbelastung durch Wohnkosten,13.6
 2012,Ländliche Gebiete,,,,,Quote der Überbelastung durch Wohnkosten,13.9
@@ -88,7 +88,7 @@ Year,Verstädterungsgrad,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Se
 2021,Ländliche Gebiete,,,,,Quote der Überbelastung durch Wohnkosten,8.6
 2022,Ländliche Gebiete,,,,,Quote der Überbelastung durch Wohnkosten,10.5
 2023,Ländliche Gebiete,,,,,Quote der Überbelastung durch Wohnkosten,11.3
-2024,Ländliche Gebiete,,p,,,Quote der Überbelastung durch Wohnkosten,10.8
+2024,Ländliche Gebiete,,,,,Quote der Überbelastung durch Wohnkosten,10.5
 2010,,,,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.3
 2011,,,,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.7
 2012,,,,,,"Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",13.5
