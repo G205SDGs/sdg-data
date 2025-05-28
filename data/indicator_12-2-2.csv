@@ -1,40 +1,43 @@
-Year,Units,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series
-2010,million tonnes,1239,,,,domestic material consumption (dmc)
-2011,million tonnes,1323,,,,domestic material consumption (dmc)
-2012,million tonnes,1277,,,,domestic material consumption (dmc)
-2013,million tonnes,1277,,,,domestic material consumption (dmc)
-2014,million tonnes,1289,,,,domestic material consumption (dmc)
-2015,million tonnes,1249,,,,domestic material consumption (dmc)
-2016,million tonnes,1264,,,,domestic material consumption (dmc)
-2017,million tonnes,1282,,,,domestic material consumption (dmc)
-2018,million tonnes,1240,,,,domestic material consumption (dmc)
-2019,million tonnes,1198,,,,domestic material consumption (dmc)
-2020,million tonnes,1162,,,,domestic material consumption (dmc)
-2021,million tonnes,1196,,,,domestic material consumption (dmc)
-2022,million tonnes,1143,,,,domestic material consumption (dmc)
-2010,tonnes per capita,15.4,,,,domestic material consumption (dmc)
-2011,tonnes per capita,16.5,,,,domestic material consumption (dmc)
-2012,tonnes per capita,15.9,,,,domestic material consumption (dmc)
-2013,tonnes per capita,15.8,,,,domestic material consumption (dmc)
-2014,tonnes per capita,15.9,,,,domestic material consumption (dmc)
-2015,tonnes per capita,15.3,,,,domestic material consumption (dmc)
-2016,tonnes per capita,15.4,,,,domestic material consumption (dmc)
-2017,tonnes per capita,15.5,,,,domestic material consumption (dmc)
-2018,tonnes per capita,15.0,,,,domestic material consumption (dmc)
-2019,tonnes per capita,14.4,,,,domestic material consumption (dmc)
-2020,tonnes per capita,14.0,,,,domestic material consumption (dmc)
-2021,tonnes per capita,14.4,,,,domestic material consumption (dmc)
-2022,tonnes per capita,13.6,,,,domestic material consumption (dmc)
-2010,2020 = 100,119.3,,,,domestic material consumption per real gdp
-2011,2020 = 100,122.7,,,,domestic material consumption per real gdp
-2012,2020 = 100,117.9,,,,domestic material consumption per real gdp
-2013,2020 = 100,117.5,,,,domestic material consumption per real gdp
-2014,2020 = 100,116.1,,,,domestic material consumption per real gdp
-2015,2020 = 100,110.6,,,,domestic material consumption per real gdp
-2016,2020 = 100,109.5,,,,domestic material consumption per real gdp
-2017,2020 = 100,108.1,,,,domestic material consumption per real gdp
-2018,2020 = 100,103.4,,,,domestic material consumption per real gdp
-2019,2020 = 100,98.9,,,,domestic material consumption per real gdp
-2020,2020 = 100,100.0,,,,domestic material consumption per real gdp
-2021,2020 = 100,99.3,p,,,domestic material consumption per real gdp
-2022,2020 = 100,93.6,p,,,domestic material consumption per real gdp
+Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,million tonnes,,,,domestic material consumption (dmc),1239
+2011,million tonnes,r,,,domestic material consumption (dmc),1322
+2012,million tonnes,r,,,domestic material consumption (dmc),1276
+2013,million tonnes,r,,,domestic material consumption (dmc),1276
+2014,million tonnes,r,,,domestic material consumption (dmc),1285
+2015,million tonnes,r,,,domestic material consumption (dmc),1243
+2016,million tonnes,r,,,domestic material consumption (dmc),1259
+2017,million tonnes,r,,,domestic material consumption (dmc),1274
+2018,million tonnes,r,,,domestic material consumption (dmc),1234
+2019,million tonnes,r,,,domestic material consumption (dmc),1191
+2020,million tonnes,r,,,domestic material consumption (dmc),1156
+2021,million tonnes,r,,,domestic material consumption (dmc),1187
+2022,million tonnes,r,,,domestic material consumption (dmc),1140
+2023,million tonnes,,,,domestic material consumption (dmc),1024
+2010,tonnes per capita,,,,domestic material consumption (dmc),15.4
+2011,tonnes per capita,,,,domestic material consumption (dmc),16.5
+2012,tonnes per capita,,,,domestic material consumption (dmc),15.9
+2013,tonnes per capita,,,,domestic material consumption (dmc),15.8
+2014,tonnes per capita,,,,domestic material consumption (dmc),15.9
+2015,tonnes per capita,r,,,domestic material consumption (dmc),15.2
+2016,tonnes per capita,r,,,domestic material consumption (dmc),15.3
+2017,tonnes per capita,r,,,domestic material consumption (dmc),15.4
+2018,tonnes per capita,r,,,domestic material consumption (dmc),14.9
+2019,tonnes per capita,r,,,domestic material consumption (dmc),14.3
+2020,tonnes per capita,r,,,domestic material consumption (dmc),13.9
+2021,tonnes per capita,r,,,domestic material consumption (dmc),14.3
+2022,tonnes per capita,,,,domestic material consumption (dmc),13.6
+2023,tonnes per capita,,,,domestic material consumption (dmc),12.3
+2010,2020 = 100,r,,,domestic material consumption per real gdp,119.9
+2011,2020 = 100,r,,,domestic material consumption per real gdp,123.2
+2012,2020 = 100,r,,,domestic material consumption per real gdp,118.4
+2013,2020 = 100,r,,,domestic material consumption per real gdp,118.0
+2014,2020 = 100,r,,,domestic material consumption per real gdp,116.3
+2015,2020 = 100,,,,domestic material consumption per real gdp,110.6
+2016,2020 = 100,,,,domestic material consumption per real gdp,109.5
+2017,2020 = 100,r,,,domestic material consumption per real gdp,107.9
+2018,2020 = 100,,,,domestic material consumption per real gdp,103.4
+2019,2020 = 100,r,,,domestic material consumption per real gdp,98.8
+2020,2020 = 100,,,,domestic material consumption per real gdp,100.0
+2021,2020 = 100,p,,,domestic material consumption per real gdp,99.0
+2022,2020 = 100,p,,,domestic material consumption per real gdp,93.8
+2023,2020 = 100,p,,,domestic material consumption per real gdp,84.5

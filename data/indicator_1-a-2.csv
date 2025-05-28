@@ -1,43 +1,46 @@
-Year,function,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2
-2010,health,14.25,r,,
-2011,health,14.74,r,,
-2012,health,14.87,r,,
-2013,health,15.32,r,,
-2014,health,15.71,r,,
-2015,health,15.82,r,,
-2016,health,15.77,r,,
-2017,health,15.67,r,,
-2018,health,15.74,r,,
-2019,health,15.71,r,,
-2020,health,16.30,p,,
-2021,health,16.81,p,,
-2022,health,17.06,p,,
-2023,health,15.56,p,,
-2010,education,8.99,r,,
-2011,education,9.36,r,,
-2012,education,9.21,r,,
-2013,education,9.36,r,,
-2014,education,9.40,r,,
-2015,education,9.35,r,,
-2016,education,9.20,r,,
-2017,education,9.20,r,,
-2018,education,9.36,r,,
-2019,education,9.43,r,,
-2020,education,8.94,p,,
-2021,education,8.82,p,,
-2022,education,8.96,p,,
-2023,education,9.25,p,,
-2010,social protection,40.82,r,,
-2011,social protection,40.90,r,,
-2012,social protection,41.04,r,,
-2013,social protection,41.15,r,,
-2014,social protection,41.35,r,,
-2015,social protection,42.06,r,,
-2016,social protection,42.77,r,,
-2017,social protection,42.73,r,,
-2018,social protection,42.27,r,,
-2019,social protection,42.21,r,,
-2020,social protection,41.86,p,,
-2021,social protection,40.41,p,,
-2022,social protection,40.79,p,,
-2023,social protection,40.62,p,,
+Year,function,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,health,,,,14.25
+2011,health,,,,14.74
+2012,health,,,,14.87
+2013,health,,,,15.32
+2014,health,,,,15.71
+2015,health,,,,15.82
+2016,health,,,,15.77
+2017,health,,,,15.67
+2018,health,,,,15.74
+2019,health,,,,15.71
+2020,health,,,,16.30
+2021,health,p,,,16.81
+2022,health,p,,,17.06
+2023,health,p,,,15.56
+2024,health,p,,,15.44
+2010,education,,,,8.99
+2011,education,,,,9.36
+2012,education,,,,9.21
+2013,education,,,,9.36
+2014,education,,,,9.40
+2015,education,,,,9.35
+2016,education,,,,9.20
+2017,education,,,,9.20
+2018,education,,,,9.36
+2019,education,,,,9.43
+2020,education,,,,8.94
+2021,education,p,,,8.82
+2022,education,p,,,8.96
+2023,education,p,,,9.25
+2024,education,p,,,9.13
+2010,social protection,,,,40.82
+2011,social protection,,,,40.90
+2012,social protection,,,,41.04
+2013,social protection,,,,41.15
+2014,social protection,,,,41.35
+2015,social protection,,,,42.06
+2016,social protection,,,,42.77
+2017,social protection,,,,42.73
+2018,social protection,,,,42.27
+2019,social protection,,,,42.21
+2020,social protection,,,,41.86
+2021,social protection,p,,,40.41
+2022,social protection,p,,,40.79
+2023,social protection,p,,,40.62
+2024,social protection,p,,,41.40

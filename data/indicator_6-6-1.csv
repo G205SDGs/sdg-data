@@ -1,25 +1,25 @@
-Year,Units,ecosystem,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series
-2018,percentage,lakes and rivers permanent water area,0.72,,,,area change in comparison to 2015
-2021,percentage,lakes and rivers permanent water area,0.84,,,,area change in comparison to 2015
-2018,percentage,wetlands area,0.85,,,,area change in comparison to 2015
-2021,percentage,wetlands area,1.93,,,,area change in comparison to 2015
-2018,percentage,large artificial or heavily modified lakes,-1.38,,,,area change in comparison to 2015
-2021,percentage,large artificial or heavily modified lakes,2.79,,,,area change in comparison to 2015
-2015,km²,lakes and rivers permanent water area,5446,,,,area
-2018,km²,lakes and rivers permanent water area,5485,,,,area
-2021,km²,lakes and rivers permanent water area,5491,,,,area
-2015,km²,wetlands area,1568,,,,area
-2018,km²,wetlands area,1581,,,,area
-2021,km²,wetlands area,1598,,,,area
-2015,km²,large artificial or heavily modified lakes,637,,,,area
-2018,km²,large artificial or heavily modified lakes,628,,,,area
-2021,km²,large artificial or heavily modified lakes,655,,,,area
-2015,percentage,lakes and rivers permanent water area,1.52,,,,area as a proportion of total land area
-2018,percentage,lakes and rivers permanent water area,1.53,,,,area as a proportion of total land area
-2021,percentage,lakes and rivers permanent water area,1.54,,,,area as a proportion of total land area
-2015,percentage,wetlands area,0.44,,,,area as a proportion of total land area
-2018,percentage,wetlands area,0.44,,,,area as a proportion of total land area
-2021,percentage,wetlands area,0.45,,,,area as a proportion of total land area
-2015,percentage,large artificial or heavily modified lakes,0.18,,,,area as a proportion of total land area
-2018,percentage,large artificial or heavily modified lakes,0.18,,,,area as a proportion of total land area
-2021,percentage,large artificial or heavily modified lakes,0.18,,,,area as a proportion of total land area
+Year,Units,ecosystem,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2018,percentage,lakes and rivers permanent water area,,,,area change in comparison to 2015,0.72
+2021,percentage,lakes and rivers permanent water area,,,,area change in comparison to 2015,0.84
+2018,percentage,wetlands area,,,,area change in comparison to 2015,0.85
+2021,percentage,wetlands area,,,,area change in comparison to 2015,1.93
+2018,percentage,large artificial or heavily modified lakes,,,,area change in comparison to 2015,-1.38
+2021,percentage,large artificial or heavily modified lakes,,,,area change in comparison to 2015,2.79
+2015,km²,lakes and rivers permanent water area,,,,area,5446
+2018,km²,lakes and rivers permanent water area,,,,area,5485
+2021,km²,lakes and rivers permanent water area,,,,area,5491
+2015,km²,wetlands area,,,,area,1568
+2018,km²,wetlands area,,,,area,1581
+2021,km²,wetlands area,,,,area,1598
+2015,km²,large artificial or heavily modified lakes,,,,area,637
+2018,km²,large artificial or heavily modified lakes,,,,area,628
+2021,km²,large artificial or heavily modified lakes,,,,area,655
+2015,percentage,lakes and rivers permanent water area,,,,area as a proportion of total land area,1.52
+2018,percentage,lakes and rivers permanent water area,,,,area as a proportion of total land area,1.53
+2021,percentage,lakes and rivers permanent water area,,,,area as a proportion of total land area,1.54
+2015,percentage,wetlands area,,,,area as a proportion of total land area,0.44
+2018,percentage,wetlands area,,,,area as a proportion of total land area,0.44
+2021,percentage,wetlands area,,,,area as a proportion of total land area,0.45
+2015,percentage,large artificial or heavily modified lakes,,,,area as a proportion of total land area,0.18
+2018,percentage,large artificial or heavily modified lakes,,,,area as a proportion of total land area,0.18
+2021,percentage,large artificial or heavily modified lakes,,,,area as a proportion of total land area,0.18
