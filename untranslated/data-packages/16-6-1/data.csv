@@ -13,6 +13,7 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,,,,,97.3
 2022,,,,,97.1
 2023,,,,,99.2
+2024,,,,,99.6
 2010,general services,.,,,
 2011,general services,.,,,
 2012,general services,,,,101.6
@@ -27,6 +28,7 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,general services,,,,96.6
 2022,general services,,,,98.8
 2023,general services,,,,102.4
+2024,general services,,,,99.7
 2010,"education, science, research, cultural affairs",.,,,
 2011,"education, science, research, cultural affairs",.,,,
 2012,"education, science, research, cultural affairs",,,,98.2
@@ -41,6 +43,7 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"education, science, research, cultural affairs",,,,91.1
 2022,"education, science, research, cultural affairs",,,,87.0
 2023,"education, science, research, cultural affairs",,,,88.0
+2024,"education, science, research, cultural affairs",,,,97.3
 2010,"energy and water management, trade, services",.,,,
 2011,"energy and water management, trade, services",.,,,
 2012,"energy and water management, trade, services",,,,94.6
@@ -55,6 +58,7 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"energy and water management, trade, services",,,,39.0
 2022,"energy and water management, trade, services",,,,58.3
 2023,"energy and water management, trade, services",,,,70.6
+2024,"energy and water management, trade, services",,,,61.9
 2010,"food, agriculture and forestry",.,,,
 2011,"food, agriculture and forestry",.,,,
 2012,"food, agriculture and forestry",,,,95.0
@@ -69,6 +73,7 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"food, agriculture and forestry",,,,74.8
 2022,"food, agriculture and forestry",,,,78.8
 2023,"food, agriculture and forestry",,,,80.7
+2024,"food, agriculture and forestry",,,,82.4
 2010,financial services,.,,,
 2011,financial services,.,,,
 2012,financial services,.,,,
@@ -83,6 +88,7 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,financial services,,,,122.6
 2022,financial services,,,,89.5
 2023,financial services,,,,114.9
+2024,financial services,,,,97.5
 2010,"health, environment, sport and recreation",.,,,
 2011,"health, environment, sport and recreation",.,,,
 2012,"health, environment, sport and recreation",,,,90.3
@@ -97,6 +103,7 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"health, environment, sport and recreation",,,,67.5
 2022,"health, environment, sport and recreation",,,,89.3
 2023,"health, environment, sport and recreation",,,,69.5
+2024,"health, environment, sport and recreation",,,,111.6
 2010,"social security, family and youth, labour market policy",.,,,
 2011,"social security, family and youth, labour market policy",.,,,
 2012,"social security, family and youth, labour market policy",.,,,
@@ -111,6 +118,7 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"social security, family and youth, labour market policy",,,,98.8
 2022,"social security, family and youth, labour market policy",,,,102.1
 2023,"social security, family and youth, labour market policy",,,,100.5
+2024,"social security, family and youth, labour market policy",,,,102.0
 2010,transport and communications,.,,,
 2011,transport and communications,.,,,
 2012,transport and communications,,,,97.8
@@ -125,6 +133,7 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,transport and communications,,,,88.4
 2022,transport and communications,,,,97.5
 2023,transport and communications,,,,101.7
+2024,transport and communications,,,,102.3
 2010,"housing, urban development, regional planning and municipal community services",.,,,
 2011,"housing, urban development, regional planning and municipal community services",.,,,
 2012,"housing, urban development, regional planning and municipal community services",,,,101.1
@@ -139,3 +148,4 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"housing, urban development, regional planning and municipal community services",,,,76.4
 2022,"housing, urban development, regional planning and municipal community services",,,,74.0
 2023,"housing, urban development, regional planning and municipal community services",,,,90.8
+2024,"housing, urban development, regional planning and municipal community services",,,,101.1

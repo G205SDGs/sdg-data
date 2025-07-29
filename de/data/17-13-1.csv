@@ -14,21 +14,21 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Prozent,Jährliche Wachstumsrate des realen BIP,p,,,1.4
 2023,Prozent,Jährliche Wachstumsrate des realen BIP,p,,,-0.3
 2024,Prozent,Jährliche Wachstumsrate des realen BIP,p,,,-0.2
-2010,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1577.9
-2011,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1626.5
-2012,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1660.6
-2013,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1681.8
-2014,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1726.4
-2015,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1779.1
-2016,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1834.2
-2017,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1897.2
-2018,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,1973.6
-2019,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,2021.8
-2020,Milliarden EUR,Verfügbares Einkommen privater Haushalte,,,,2025.2
-2021,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2085.0
-2022,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2249.6
-2023,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2404.4
-2024,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2513.2
+2010,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1578.1
+2011,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1626.7
+2012,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1660.8
+2013,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1682.0
+2014,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1726.7
+2015,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1779.3
+2016,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1834.4
+2017,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1897.4
+2018,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,1973.8
+2019,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,2022.1
+2020,Milliarden EUR,Verfügbares Einkommen privater Haushalte,r,,,2025.4
+2021,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2085.2
+2022,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2249.8
+2023,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2404.6
+2024,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2501.7
 2010,Milliarden EUR,Konsum privater Haushalte,,,,1417.1
 2011,Milliarden EUR,Konsum privater Haushalte,,,,1463.0
 2012,Milliarden EUR,Konsum privater Haushalte,,,,1503.4
@@ -43,7 +43,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Milliarden EUR,Konsum privater Haushalte,p,,,1786.7
 2022,Milliarden EUR,Konsum privater Haushalte,p,,,2018.0
 2023,Milliarden EUR,Konsum privater Haushalte,p,,,2145.4
-2024,Milliarden EUR,Konsum privater Haushalte,p,,,2209.4
+2024,Milliarden EUR,Konsum privater Haushalte,p,,,2207.1
 2010,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2011.7
 2011,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2025.4
 2012,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2068.3
@@ -72,8 +72,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Milliarden EUR,Finanzierungssaldo des Staates,,,,-151.1
 2021,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-116.4
 2022,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-84.9
-2023,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-107.5
-2024,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-113.0
+2023,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-103.8
+2024,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-115.6
 2010,Milliarden EUR,Bruttoanlageinvestitionen,,,,501.8
 2011,Milliarden EUR,Bruttoanlageinvestitionen,,,,549.6
 2012,Milliarden EUR,Bruttoanlageinvestitionen,,,,558.9
@@ -88,7 +88,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Milliarden EUR,Bruttoanlageinvestitionen,p,,,779.2
 2022,Milliarden EUR,Bruttoanlageinvestitionen,p,,,858.3
 2023,Milliarden EUR,Bruttoanlageinvestitionen,p,,,899.9
-2024,Milliarden EUR,Bruttoanlageinvestitionen,p,,,897.2
+2024,Milliarden EUR,Bruttoanlageinvestitionen,p,,,898.5
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,49385.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,50163.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,50098.0
@@ -118,7 +118,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,60456.0
 2022,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61211.0
 2023,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61437.0
-2024,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61370.0
+2024,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61355.0
 2010,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,,,,94.2
 2011,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,,,,96.2
 2012,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,,,,96.8
@@ -163,7 +163,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Anzahl in 1 000,Erwerbstätige,p,,,45053.0
 2022,Anzahl in 1 000,Erwerbstätige,p,,,45675.0
 2023,Anzahl in 1 000,Erwerbstätige,p,,,46011.0
-2024,Anzahl in 1 000,Erwerbstätige,p,,,46083.0
+2024,Anzahl in 1 000,Erwerbstätige,p,,,46081.0
 2010,2020 = 100,Reales BIP pro Kopf,,,,92.6
 2011,2020 = 100,Reales BIP pro Kopf,,,,96.1
 2012,2020 = 100,Reales BIP pro Kopf,,,,96.4
@@ -193,4 +193,4 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Milliarden EUR,Außenbeitrag,p,,,189.7
 2022,Milliarden EUR,Außenbeitrag,p,,,98.7
 2023,Milliarden EUR,Außenbeitrag,p,,,167.7
-2024,Milliarden EUR,Außenbeitrag,p,,,172.8
+2024,Milliarden EUR,Außenbeitrag,p,,,169.0

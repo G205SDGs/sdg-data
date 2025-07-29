@@ -62,6 +62,7 @@
                 "x",
                 "|",
                 "r",
+                "…",
                 ".",
                 ""
               ]
@@ -70,9 +71,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                " r",
                 ""
               ]
             },

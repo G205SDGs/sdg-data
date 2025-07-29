@@ -12,6 +12,7 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Fatal occupational accidents,,|,,,0.7
 2021,Fatal occupational accidents,,,,,0.8
 2022,Fatal occupational accidents,,,,,0.7
+2023,Fatal occupational accidents,,,,,0.7
 2010,Non-fatal occupational accidents,,,,,1976.1
 2011,Non-fatal occupational accidents,,,,,2058.3
 2012,Non-fatal occupational accidents,,,,,1956.3
@@ -25,6 +26,7 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Non-fatal occupational accidents,,|,,,1504.7
 2021,Non-fatal occupational accidents,,,,,1573.4
 2022,Non-fatal occupational accidents,,,,,1484.0
+2023,Non-fatal occupational accidents,,,,,1397.0
 2010,Non-fatal occupational accidents,Female,,,,1022.7
 2011,Non-fatal occupational accidents,Female,,,,1004.4
 2012,Non-fatal occupational accidents,Female,,,,998.3
@@ -38,6 +40,7 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Non-fatal occupational accidents,Female,|,,,808.2
 2021,Non-fatal occupational accidents,Female,,,,844.4
 2022,Non-fatal occupational accidents,Female,,,,810.2
+2023,Non-fatal occupational accidents,Female,,,,797.1
 2010,Non-fatal occupational accidents,Male,,,,2806.8
 2011,Non-fatal occupational accidents,Male,,,,3015.8
 2012,Non-fatal occupational accidents,Male,,,,2820.5
@@ -51,3 +54,4 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Non-fatal occupational accidents,Male,|,,,2144.2
 2021,Non-fatal occupational accidents,Male,,,,2238.4
 2022,Non-fatal occupational accidents,Male,,,,2109.7
+2023,Non-fatal occupational accidents,Male,,,,1950.7

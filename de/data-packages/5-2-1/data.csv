@@ -7,12 +7,13 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2015,Anzahl,.,,,
 2016,Anzahl,.,,,
 2017,Anzahl,.,,,
-2018,Anzahl,,,,3341.0
-2019,Anzahl,,,,3268.0
-2020,Anzahl,,,,3594.0
-2021,Anzahl,,,,3826.0
-2022,Anzahl,,,,4238.0
-2023,Anzahl,,,,4533.0
+2018,Anzahl,r,,,3331.0
+2019,Anzahl,r,,,3259.0
+2020,Anzahl,r,,,3578.0
+2021,Anzahl,r,,,3817.0
+2022,Anzahl,r,,,4227.0
+2023,Anzahl,r,,,4521.0
+2024,Anzahl,,,,4994.0
 2010,Prozent,.,,,
 2011,Prozent,.,,,
 2012,Prozent,.,,,
@@ -27,3 +28,4 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Prozent,,,,0.01
 2022,Prozent,,,,0.01
 2023,Prozent,,,,0.01
+2024,Prozent,,,,0.01

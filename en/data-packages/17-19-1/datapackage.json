@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
@@ -44,7 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0.0",
+                "r",
+                "0",
                 ""
               ]
             },

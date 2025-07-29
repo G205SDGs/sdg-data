@@ -14,21 +14,21 @@ Year,Units,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,percentage,annual growth rate of real gdp,p,,,1.4
 2023,percentage,annual growth rate of real gdp,p,,,-0.3
 2024,percentage,annual growth rate of real gdp,p,,,-0.2
-2010,billion eur,available income of private households,,,,1577.9
-2011,billion eur,available income of private households,,,,1626.5
-2012,billion eur,available income of private households,,,,1660.6
-2013,billion eur,available income of private households,,,,1681.8
-2014,billion eur,available income of private households,,,,1726.4
-2015,billion eur,available income of private households,,,,1779.1
-2016,billion eur,available income of private households,,,,1834.2
-2017,billion eur,available income of private households,,,,1897.2
-2018,billion eur,available income of private households,,,,1973.6
-2019,billion eur,available income of private households,,,,2021.8
-2020,billion eur,available income of private households,,,,2025.2
-2021,billion eur,available income of private households,p,,,2085.0
-2022,billion eur,available income of private households,p,,,2249.6
-2023,billion eur,available income of private households,p,,,2404.4
-2024,billion eur,available income of private households,p,,,2513.2
+2010,billion eur,available income of private households,r,,,1578.1
+2011,billion eur,available income of private households,r,,,1626.7
+2012,billion eur,available income of private households,r,,,1660.8
+2013,billion eur,available income of private households,r,,,1682.0
+2014,billion eur,available income of private households,r,,,1726.7
+2015,billion eur,available income of private households,r,,,1779.3
+2016,billion eur,available income of private households,r,,,1834.4
+2017,billion eur,available income of private households,r,,,1897.4
+2018,billion eur,available income of private households,r,,,1973.8
+2019,billion eur,available income of private households,r,,,2022.1
+2020,billion eur,available income of private households,r,,,2025.4
+2021,billion eur,available income of private households,p,,,2085.2
+2022,billion eur,available income of private households,p,,,2249.8
+2023,billion eur,available income of private households,p,,,2404.6
+2024,billion eur,available income of private households,p,,,2501.7
 2010,billion eur,consumption by private households,,,,1417.1
 2011,billion eur,consumption by private households,,,,1463.0
 2012,billion eur,consumption by private households,,,,1503.4
@@ -43,7 +43,7 @@ Year,Units,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,billion eur,consumption by private households,p,,,1786.7
 2022,billion eur,consumption by private households,p,,,2018.0
 2023,billion eur,consumption by private households,p,,,2145.4
-2024,billion eur,consumption by private households,p,,,2209.4
+2024,billion eur,consumption by private households,p,,,2207.1
 2010,billion eur,debts of the total public budget,,,,2011.7
 2011,billion eur,debts of the total public budget,,,,2025.4
 2012,billion eur,debts of the total public budget,,,,2068.3
@@ -72,8 +72,8 @@ Year,Units,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,billion eur,government fiscal balance,,,,-151.1
 2021,billion eur,government fiscal balance,p,,,-116.4
 2022,billion eur,government fiscal balance,p,,,-84.9
-2023,billion eur,government fiscal balance,p,,,-107.5
-2024,billion eur,government fiscal balance,p,,,-113.0
+2023,billion eur,government fiscal balance,p,,,-103.8
+2024,billion eur,government fiscal balance,p,,,-115.6
 2010,billion eur,gross fixed capital formation,,,,501.8
 2011,billion eur,gross fixed capital formation,,,,549.6
 2012,billion eur,gross fixed capital formation,,,,558.9
@@ -88,7 +88,7 @@ Year,Units,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,billion eur,gross fixed capital formation,p,,,779.2
 2022,billion eur,gross fixed capital formation,p,,,858.3
 2023,billion eur,gross fixed capital formation,p,,,899.9
-2024,billion eur,gross fixed capital formation,p,,,897.2
+2024,billion eur,gross fixed capital formation,p,,,898.5
 2010,million hours,hours worked by employees,,,,49385.0
 2011,million hours,hours worked by employees,,,,50163.0
 2012,million hours,hours worked by employees,,,,50098.0
@@ -118,7 +118,7 @@ Year,Units,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,million hours,hours worked by persons employed,p,,,60456.0
 2022,million hours,hours worked by persons employed,p,,,61211.0
 2023,million hours,hours worked by persons employed,p,,,61437.0
-2024,million hours,hours worked by persons employed,p,,,61370.0
+2024,million hours,hours worked by persons employed,p,,,61355.0
 2010,2020 = 100,labour productivity per hour worked by employee,,,,94.2
 2011,2020 = 100,labour productivity per hour worked by employee,,,,96.2
 2012,2020 = 100,labour productivity per hour worked by employee,,,,96.8
@@ -163,7 +163,7 @@ Year,Units,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"number in 1,000",persons employed,p,,,45053.0
 2022,"number in 1,000",persons employed,p,,,45675.0
 2023,"number in 1,000",persons employed,p,,,46011.0
-2024,"number in 1,000",persons employed,p,,,46083.0
+2024,"number in 1,000",persons employed,p,,,46081.0
 2010,2020 = 100,real gdp per capita,,,,92.6
 2011,2020 = 100,real gdp per capita,,,,96.1
 2012,2020 = 100,real gdp per capita,,,,96.4
@@ -193,4 +193,4 @@ Year,Units,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,billion eur,trade balance,p,,,189.7
 2022,billion eur,trade balance,p,,,98.7
 2023,billion eur,trade balance,p,,,167.7
-2024,billion eur,trade balance,p,,,172.8
+2024,billion eur,trade balance,p,,,169.0

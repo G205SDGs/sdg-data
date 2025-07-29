@@ -11,7 +11,8 @@ Year,Units,Abfallart,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2019,Prozent,Siedlungsabfälle insgesamt,,,,Nationale Recyclingquote,68
 2020,Prozent,Siedlungsabfälle insgesamt,,,,Nationale Recyclingquote,67
 2021,Prozent,Siedlungsabfälle insgesamt,,,,Nationale Recyclingquote,68
-2022,Prozent,Siedlungsabfälle insgesamt,p,,,Nationale Recyclingquote,68
+2022,Prozent,Siedlungsabfälle insgesamt,,,,Nationale Recyclingquote,68
+2023,Prozent,Siedlungsabfälle insgesamt,,,,Nationale Recyclingquote,67
 2010,1 000 Tonnen,Siedlungsabfälle insgesamt,,,,Stoffliche Verwertung,30774
 2011,1 000 Tonnen,Siedlungsabfälle insgesamt,,,,Stoffliche Verwertung,31633
 2012,1 000 Tonnen,Siedlungsabfälle insgesamt,,,,Stoffliche Verwertung,32460
@@ -24,7 +25,8 @@ Year,Units,Abfallart,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2019,1 000 Tonnen,Siedlungsabfälle insgesamt,,,,Stoffliche Verwertung,34227
 2020,1 000 Tonnen,Siedlungsabfälle insgesamt,,,,Stoffliche Verwertung,34379
 2021,1 000 Tonnen,Siedlungsabfälle insgesamt,,,,Stoffliche Verwertung,35115
-2022,1 000 Tonnen,Siedlungsabfälle insgesamt,p,,,Stoffliche Verwertung,32873
+2022,1 000 Tonnen,Siedlungsabfälle insgesamt,,,,Stoffliche Verwertung,32873
+2023,1 000 Tonnen,Siedlungsabfälle insgesamt,,,,Stoffliche Verwertung,32833
 2010,Prozent,Abfallaufkommen insgesamt,,,,Nationale Recyclingquote,69
 2011,Prozent,Abfallaufkommen insgesamt,,,,Nationale Recyclingquote,69
 2012,Prozent,Abfallaufkommen insgesamt,,,,Nationale Recyclingquote,70
@@ -37,7 +39,8 @@ Year,Units,Abfallart,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2019,Prozent,Abfallaufkommen insgesamt,,,,Nationale Recyclingquote,70
 2020,Prozent,Abfallaufkommen insgesamt,,,,Nationale Recyclingquote,70
 2021,Prozent,Abfallaufkommen insgesamt,,,,Nationale Recyclingquote,70
-2022,Prozent,Abfallaufkommen insgesamt,p,,,Nationale Recyclingquote,70
+2022,Prozent,Abfallaufkommen insgesamt,,,,Nationale Recyclingquote,70
+2023,Prozent,Abfallaufkommen insgesamt,,,,Nationale Recyclingquote,70
 2010,1 000 Tonnen,Abfallaufkommen insgesamt,,,,Stoffliche Verwertung,257350
 2011,1 000 Tonnen,Abfallaufkommen insgesamt,,,,Stoffliche Verwertung,267105
 2012,1 000 Tonnen,Abfallaufkommen insgesamt,,,,Stoffliche Verwertung,265363
@@ -50,4 +53,5 @@ Year,Units,Abfallart,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2019,1 000 Tonnen,Abfallaufkommen insgesamt,,,,Stoffliche Verwertung,292006
 2020,1 000 Tonnen,Abfallaufkommen insgesamt,,,,Stoffliche Verwertung,290157
 2021,1 000 Tonnen,Abfallaufkommen insgesamt,,,,Stoffliche Verwertung,288460
-2022,1 000 Tonnen,Abfallaufkommen insgesamt,p,,,Stoffliche Verwertung,279975
+2022,1 000 Tonnen,Abfallaufkommen insgesamt,,,,Stoffliche Verwertung,279975
+2023,1 000 Tonnen,Abfallaufkommen insgesamt,,,,Stoffliche Verwertung,266368

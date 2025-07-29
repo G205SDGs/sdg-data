@@ -12,6 +12,7 @@ Year,Zeitreihe,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Tödliche Arbeitsunfälle,,|,,,0.7
 2021,Tödliche Arbeitsunfälle,,,,,0.8
 2022,Tödliche Arbeitsunfälle,,,,,0.7
+2023,Tödliche Arbeitsunfälle,,,,,0.7
 2010,Nicht-tödliche Arbeitsunfälle,,,,,1976.1
 2011,Nicht-tödliche Arbeitsunfälle,,,,,2058.3
 2012,Nicht-tödliche Arbeitsunfälle,,,,,1956.3
@@ -25,6 +26,7 @@ Year,Zeitreihe,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Nicht-tödliche Arbeitsunfälle,,|,,,1504.7
 2021,Nicht-tödliche Arbeitsunfälle,,,,,1573.4
 2022,Nicht-tödliche Arbeitsunfälle,,,,,1484.0
+2023,Nicht-tödliche Arbeitsunfälle,,,,,1397.0
 2010,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,1022.7
 2011,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,1004.4
 2012,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,998.3
@@ -38,6 +40,7 @@ Year,Zeitreihe,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Nicht-tödliche Arbeitsunfälle,Weiblich,|,,,808.2
 2021,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,844.4
 2022,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,810.2
+2023,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,797.1
 2010,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2806.8
 2011,Nicht-tödliche Arbeitsunfälle,Männlich,,,,3015.8
 2012,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2820.5
@@ -51,3 +54,4 @@ Year,Zeitreihe,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Nicht-tödliche Arbeitsunfälle,Männlich,|,,,2144.2
 2021,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2238.4
 2022,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2109.7
+2023,Nicht-tödliche Arbeitsunfälle,Männlich,,,,1950.7

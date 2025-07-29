@@ -11,8 +11,9 @@ Year,Units,Zeitreihe,Darstellung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,,,,1.859
 2020,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,x,,,
 2021,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,,,,4.248
-2022,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,,,,0.233
-2023,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,,,,1.212
+2022,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,x, r,,
+2023,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,r,,,1.099
+2024,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Jährliche Werte,…,,,
 2010,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,,,,99.587
 2011,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,,,,100.353
 2012,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,,,,100.599
@@ -25,8 +26,9 @@ Year,Units,Zeitreihe,Darstellung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,,,,100.654
 2020,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,,,,101.097
 2021,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,,,,101.42
-2022,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,,,,100.383
-2023,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,,,,100.461
+2022,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,r,,,101.881
+2023,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,r,,,101.921
+2024,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Jährliche Werte,…,,,
 2010,Prozent,Flächennutzungssrate,Jährliche Werte,,,,0.591
 2011,Prozent,Flächennutzungssrate,Jährliche Werte,,,,0.902
 2012,Prozent,Flächennutzungssrate,Jährliche Werte,,,,0.489
@@ -41,6 +43,7 @@ Year,Units,Zeitreihe,Darstellung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Prozent,Flächennutzungssrate,Jährliche Werte,,,,0.419
 2022,Prozent,Flächennutzungssrate,Jährliche Werte,,,,0.312
 2023,Prozent,Flächennutzungssrate,Jährliche Werte,,,,0.445
+2024,Prozent,Flächennutzungssrate,Jährliche Werte,…,,,
 2010,Prozent,Bevölkerungsentwicklung,Jährliche Werte,,,,-0.154
 2011,Prozent,Bevölkerungsentwicklung,Jährliche Werte,,,,0.132
 2012,Prozent,Bevölkerungsentwicklung,Jährliche Werte,,,,0.244
@@ -53,8 +56,9 @@ Year,Units,Zeitreihe,Darstellung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Prozent,Bevölkerungsentwicklung,Jährliche Werte,,,,0.178
 2020,Prozent,Bevölkerungsentwicklung,Jährliche Werte,,,,-0.014
 2021,Prozent,Bevölkerungsentwicklung,Jährliche Werte,,,,0.099
-2022,Prozent,Bevölkerungsentwicklung,Jährliche Werte,,,,1.339
-2023,Prozent,Bevölkerungsentwicklung,Jährliche Werte,,,,0.367
+2022,Prozent,Bevölkerungsentwicklung,Jährliche Werte,r,,,-0.143
+2023,Prozent,Bevölkerungsentwicklung,Jährliche Werte,r,,,0.405
+2024,Prozent,Bevölkerungsentwicklung,Jährliche Werte,,,,0.145
 2010,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,
 2011,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,
 2012,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,
@@ -67,8 +71,9 @@ Year,Units,Zeitreihe,Darstellung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,1.545
 2020,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,2.48
 2021,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,3.373
-2022,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,0.927
-2023,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,0.892
+2022,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,r,,,12.432
+2023,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,r,,,4.61
+2024,Keine Einheit,Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,…,,,
 2010,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,,,,
 2011,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,,,,98.632
 2012,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,,,,99.299
@@ -81,8 +86,9 @@ Year,Units,Zeitreihe,Darstellung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,,,,99.764
 2020,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,,,,100.046
 2021,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,,,,100.363
-2022,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,,,,100.332
-2023,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,,,,100.282
+2022,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,r,,,100.706
+2023,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,r,,,101.021
+2024,2015 = 100,Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung,Gleitender Vierjahresdurchschnitt,…,,,
 2010,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,,,,
 2011,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,,,,
 2012,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,,,,0.647
@@ -97,6 +103,7 @@ Year,Units,Zeitreihe,Darstellung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,,,,0.452
 2022,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,,,,0.372
 2023,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,,,,0.4
+2024,Prozent,Flächennutzungssrate,Gleitender Vierjahresdurchschnitt,…,,,
 2010,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,.,,,
 2011,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,.,,,
 2012,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,-0.03
@@ -109,5 +116,6 @@ Year,Units,Zeitreihe,Darstellung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,0.3
 2020,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,0.191
 2021,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,0.134
-2022,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,0.401
-2023,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,0.449
+2022,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,r,,,0.03
+2023,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,r,,,0.087
+2024,Prozent,Bevölkerungsentwicklung,Gleitender Vierjahresdurchschnitt,,,,0.127

@@ -43,7 +43,6 @@
               "enum": [
                 "‒",
                 "0",
-                "…",
                 ""
               ]
             }
@@ -68,7 +67,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

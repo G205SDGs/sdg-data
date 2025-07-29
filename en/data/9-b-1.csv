@@ -12,6 +12,7 @@ Year,Enterprise definition,Technology sectors,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Legal entities,,,,,60.0
 2021,Legal entities,,,,,60.0
 2022,Legal entities,,…,,,
+2023,Legal entities,,…,,,
 2010,Legal entities,Medium-high-tech,,,,49.0
 2011,Legal entities,Medium-high-tech,,,,50.0
 2012,Legal entities,Medium-high-tech,,,,50.0
@@ -25,6 +26,7 @@ Year,Enterprise definition,Technology sectors,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Legal entities,Medium-high-tech,,,,49.0
 2021,Legal entities,Medium-high-tech,,,,49.0
 2022,Legal entities,Medium-high-tech,…,,,
+2023,Legal entities,Medium-high-tech,…,,,
 2010,Legal entities,High-tech,,,,10.0
 2011,Legal entities,High-tech,,,,10.0
 2012,Legal entities,High-tech,,,,10.0
@@ -38,6 +40,7 @@ Year,Enterprise definition,Technology sectors,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Legal entities,High-tech,,,,11.0
 2021,Legal entities,High-tech,,,,11.0
 2022,Legal entities,High-tech,…,,,
+2023,Legal entities,High-tech,…,,,
 2010,EU enterprise definition,,.,,,
 2011,EU enterprise definition,,.,,,
 2012,EU enterprise definition,,.,,,
@@ -49,8 +52,9 @@ Year,Enterprise definition,Technology sectors,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2018,EU enterprise definition,,,,,60.668
 2019,EU enterprise definition,,,,,60.769
 2020,EU enterprise definition,,,,,60.648
-2021,EU enterprise definition,,,,,57.983
-2022,EU enterprise definition,,,,,52.0
+2021,EU enterprise definition,,r,,,60.607
+2022,EU enterprise definition,,r,,,60.049
+2023,EU enterprise definition,,,,,60.926
 2010,EU enterprise definition,Medium-high-tech,.,,,
 2011,EU enterprise definition,Medium-high-tech,.,,,
 2012,EU enterprise definition,Medium-high-tech,.,,,
@@ -62,8 +66,9 @@ Year,Enterprise definition,Technology sectors,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2018,EU enterprise definition,Medium-high-tech,,,,50.512
 2019,EU enterprise definition,Medium-high-tech,,,,49.637
 2020,EU enterprise definition,Medium-high-tech,,,,48.744
-2021,EU enterprise definition,Medium-high-tech,,,,47.494
-2022,EU enterprise definition,Medium-high-tech,,,,42.0
+2021,EU enterprise definition,Medium-high-tech,r,,,49.646
+2022,EU enterprise definition,Medium-high-tech,r,,,48.979
+2023,EU enterprise definition,Medium-high-tech,,,,49.208
 2010,EU enterprise definition,High-tech,.,,,
 2011,EU enterprise definition,High-tech,.,,,
 2012,EU enterprise definition,High-tech,.,,,
@@ -75,5 +80,6 @@ Year,Enterprise definition,Technology sectors,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2018,EU enterprise definition,High-tech,,,,10.156
 2019,EU enterprise definition,High-tech,,,,11.132
 2020,EU enterprise definition,High-tech,,,,11.904
-2021,EU enterprise definition,High-tech,,,,10.489
-2022,EU enterprise definition,High-tech,,,,10.0
+2021,EU enterprise definition,High-tech,r,,,10.961
+2022,EU enterprise definition,High-tech,r,,,11.07
+2023,EU enterprise definition,High-tech,,,,11.719

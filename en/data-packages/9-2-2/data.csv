@@ -28,7 +28,7 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Data from LFS from Federal Statistical Office,,,,,19.8
 2022,Data from LFS from Federal Statistical Office,,,,,19.0
 2023,Data from LFS from Federal Statistical Office,,,,,18.3
-2024,Data from LFS from Federal Statistical Office,,…,,,
+2024,Data from LFS from Federal Statistical Office,,,,,18.2
 2010,Data from LFS from Federal Statistical Office,Female,,,,11.7
 2011,Data from LFS from Federal Statistical Office,Female,,,,11.6
 2012,Data from LFS from Federal Statistical Office,Female,,,,11.6
@@ -42,8 +42,8 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Data from LFS from Federal Statistical Office,Female,,,,11.2
 2021,Data from LFS from Federal Statistical Office,Female,,,,11.3
 2022,Data from LFS from Federal Statistical Office,Female,,,,11.0
-2023,Data from LFS from Federal Statistical Office,Female,,,,10.3
-2024,Data from LFS from Federal Statistical Office,Female,…,,,
+2023,Data from LFS from Federal Statistical Office,Female,p,,,10.2
+2024,Data from LFS from Federal Statistical Office,Female,,,,10.3
 2010,Data from LFS from Federal Statistical Office,Male,,,,27.1
 2011,Data from LFS from Federal Statistical Office,Male,,,,26.9
 2012,Data from LFS from Federal Statistical Office,Male,,,,26.7
@@ -55,7 +55,7 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,Data from LFS from Federal Statistical Office,Male,,,,25.9
 2019,Data from LFS from Federal Statistical Office,Male,,,,25.8
 2020,Data from LFS from Federal Statistical Office,Male,,,,27.6
-2021,Data from LFS from Federal Statistical Office,Male,,,,27.2
+2021,Data from LFS from Federal Statistical Office,Male,p,,,27.3
 2022,Data from LFS from Federal Statistical Office,Male,,,,26.1
-2023,Data from LFS from Federal Statistical Office,Male,,,,25.4
-2024,Data from LFS from Federal Statistical Office,Male,…,,,
+2023,Data from LFS from Federal Statistical Office,Male,p,,,25.3
+2024,Data from LFS from Federal Statistical Office,Male,…,,,25.2

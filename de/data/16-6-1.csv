@@ -13,6 +13,7 @@ Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,,,,,97.3
 2022,,,,,97.1
 2023,,,,,99.2
+2024,,,,,99.6
 2010,Allgemeine Dienste,.,,,
 2011,Allgemeine Dienste,.,,,
 2012,Allgemeine Dienste,,,,101.6
@@ -27,6 +28,7 @@ Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Allgemeine Dienste,,,,96.6
 2022,Allgemeine Dienste,,,,98.8
 2023,Allgemeine Dienste,,,,102.4
+2024,Allgemeine Dienste,,,,99.7
 2010,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",.,,,
 2011,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",.,,,
 2012,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,98.2
@@ -41,6 +43,7 @@ Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,91.1
 2022,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,87.0
 2023,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,88.0
+2024,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,97.3
 2010,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",.,,,
 2011,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",.,,,
 2012,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,94.6
@@ -55,6 +58,7 @@ Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,39.0
 2022,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,58.3
 2023,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,70.6
+2024,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",,,,61.9
 2010,"Ernährung, Landwirtschaft und Forsten",.,,,
 2011,"Ernährung, Landwirtschaft und Forsten",.,,,
 2012,"Ernährung, Landwirtschaft und Forsten",,,,95.0
@@ -69,6 +73,7 @@ Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Ernährung, Landwirtschaft und Forsten",,,,74.8
 2022,"Ernährung, Landwirtschaft und Forsten",,,,78.8
 2023,"Ernährung, Landwirtschaft und Forsten",,,,80.7
+2024,"Ernährung, Landwirtschaft und Forsten",,,,82.4
 2010,Finanzwirtschaft,.,,,
 2011,Finanzwirtschaft,.,,,
 2012,Finanzwirtschaft,.,,,
@@ -83,6 +88,7 @@ Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Finanzwirtschaft,,,,122.6
 2022,Finanzwirtschaft,,,,89.5
 2023,Finanzwirtschaft,,,,114.9
+2024,Finanzwirtschaft,,,,97.5
 2010,"Gesundheit, Umwelt, Sport und Erholung",.,,,
 2011,"Gesundheit, Umwelt, Sport und Erholung",.,,,
 2012,"Gesundheit, Umwelt, Sport und Erholung",,,,90.3
@@ -97,6 +103,7 @@ Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Gesundheit, Umwelt, Sport und Erholung",,,,67.5
 2022,"Gesundheit, Umwelt, Sport und Erholung",,,,89.3
 2023,"Gesundheit, Umwelt, Sport und Erholung",,,,69.5
+2024,"Gesundheit, Umwelt, Sport und Erholung",,,,111.6
 2010,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",.,,,
 2011,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",.,,,
 2012,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",.,,,
@@ -111,6 +118,7 @@ Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,98.8
 2022,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,102.1
 2023,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,100.5
+2024,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",,,,102.0
 2010,Verkehrs- und Nachrichtenwesen,.,,,
 2011,Verkehrs- und Nachrichtenwesen,.,,,
 2012,Verkehrs- und Nachrichtenwesen,,,,97.8
@@ -125,6 +133,7 @@ Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Verkehrs- und Nachrichtenwesen,,,,88.4
 2022,Verkehrs- und Nachrichtenwesen,,,,97.5
 2023,Verkehrs- und Nachrichtenwesen,,,,101.7
+2024,Verkehrs- und Nachrichtenwesen,,,,102.3
 2010,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",.,,,
 2011,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",.,,,
 2012,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,101.1
@@ -139,3 +148,4 @@ Year,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,76.4
 2022,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,74.0
 2023,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,90.8
+2024,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",,,,101.1

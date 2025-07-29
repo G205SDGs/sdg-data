@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2023)",
                 ""
               ]
             },
@@ -41,9 +41,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
