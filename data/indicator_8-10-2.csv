@@ -11,8 +11,9 @@ Year,type of account,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,,,,,155998
 2020,,,,,159637
 2021,,,,,163161
-2022,,r,|,,138518
-2023,,,,,145364
+2022,,r,|,,138330
+2023,,r,,,144812
+2024,,,,,148749
 2010,online accounts,.,,,
 2011,online accounts,.,,,
 2012,online accounts,.,,,
@@ -25,8 +26,9 @@ Year,type of account,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,online accounts,,,,98968
 2020,online accounts,,,,104023
 2021,online accounts,,,,110759
-2022,online accounts,r,|,,105743
-2023,online accounts,,,,116487
+2022,online accounts,r,|,,105555
+2023,online accounts,r,,,115940
+2024,online accounts,,,,120477
 2010,current accounts,,,,94982
 2011,current accounts,,,,95684
 2012,current accounts,,,,96858
@@ -39,5 +41,6 @@ Year,type of account,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,current accounts,,,,107946
 2020,current accounts,,,,109636
 2021,current accounts,,,,113879
-2022,current accounts,r,|,,102158
-2023,current accounts,,,,106518
+2022,current accounts,r,|,,101992
+2023,current accounts,r,,,105950
+2024,current accounts,,,,108227

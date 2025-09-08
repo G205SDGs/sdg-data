@@ -11,8 +11,8 @@ Year,substance,bound,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2019,drugs,,,,,,inpatient treatment of substance use disorders,53490
 2020,drugs,,,,,,inpatient treatment of substance use disorders,47082
 2021,drugs,,,,,,inpatient treatment of substance use disorders,46736
-2022,drugs,,,,,,inpatient treatment of substance use disorders,45447
-2023,drugs,,,,,,inpatient treatment of substance use disorders,49902
+2022,drugs,,,r,,,inpatient treatment of substance use disorders,45506
+2023,drugs,,,r,,,inpatient treatment of substance use disorders,49915
 2010,drugs,,female,,,,inpatient treatment of substance use disorders,10451
 2011,drugs,,female,,,,inpatient treatment of substance use disorders,10607
 2012,drugs,,female,,,,inpatient treatment of substance use disorders,10600
@@ -25,8 +25,8 @@ Year,substance,bound,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2019,drugs,,female,,,,inpatient treatment of substance use disorders,12921
 2020,drugs,,female,,,,inpatient treatment of substance use disorders,11381
 2021,drugs,,female,,,,inpatient treatment of substance use disorders,11382
-2022,drugs,,female,,,,inpatient treatment of substance use disorders,10846
-2023,drugs,,female,,,,inpatient treatment of substance use disorders,11925
+2022,drugs,,female,r,,,inpatient treatment of substance use disorders,10856
+2023,drugs,,female,r,,,inpatient treatment of substance use disorders,11934
 2010,drugs,,male,,,,inpatient treatment of substance use disorders,26656
 2011,drugs,,male,,,,inpatient treatment of substance use disorders,26241
 2012,drugs,,male,,,,inpatient treatment of substance use disorders,25566
@@ -39,8 +39,8 @@ Year,substance,bound,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2019,drugs,,male,,,,inpatient treatment of substance use disorders,40569
 2020,drugs,,male,,,,inpatient treatment of substance use disorders,35701
 2021,drugs,,male,,,,inpatient treatment of substance use disorders,35354
-2022,drugs,,male,,,,inpatient treatment of substance use disorders,34601
-2023,drugs,,male,,,,inpatient treatment of substance use disorders,37977
+2022,drugs,,male,r,,,inpatient treatment of substance use disorders,34650
+2023,drugs,,male,r,,,inpatient treatment of substance use disorders,37981
 2010,drugs,,unknown,-,,,inpatient treatment of substance use disorders,0
 2011,drugs,,unknown,-,,,inpatient treatment of substance use disorders,0
 2012,drugs,,unknown,-,,,inpatient treatment of substance use disorders,0
@@ -67,8 +67,8 @@ Year,substance,bound,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2019,alcohol and other psychoactive substances,,,,,,inpatient treatment of substance use disorders,159421
 2020,alcohol and other psychoactive substances,,,,,,inpatient treatment of substance use disorders,139044
 2021,alcohol and other psychoactive substances,,,,,,inpatient treatment of substance use disorders,138033
-2022,alcohol and other psychoactive substances,,,,,,inpatient treatment of substance use disorders,139542
-2023,alcohol and other psychoactive substances,,,,,,inpatient treatment of substance use disorders,146999
+2022,alcohol and other psychoactive substances,,,r,,,inpatient treatment of substance use disorders,139555
+2023,alcohol and other psychoactive substances,,,r,,,inpatient treatment of substance use disorders,147007
 2010,alcohol and other psychoactive substances,,female,,,,inpatient treatment of substance use disorders,49139
 2011,alcohol and other psychoactive substances,,female,,,,inpatient treatment of substance use disorders,50796
 2012,alcohol and other psychoactive substances,,female,,,,inpatient treatment of substance use disorders,52487
@@ -81,8 +81,8 @@ Year,substance,bound,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2019,alcohol and other psychoactive substances,,female,,,,inpatient treatment of substance use disorders,42158
 2020,alcohol and other psychoactive substances,,female,,,,inpatient treatment of substance use disorders,36512
 2021,alcohol and other psychoactive substances,,female,,,,inpatient treatment of substance use disorders,37002
-2022,alcohol and other psychoactive substances,,female,,,,inpatient treatment of substance use disorders,37277
-2023,alcohol and other psychoactive substances,,female,,,,inpatient treatment of substance use disorders,38368
+2022,alcohol and other psychoactive substances,,female,r,,,inpatient treatment of substance use disorders,37374
+2023,alcohol and other psychoactive substances,,female,r,,,inpatient treatment of substance use disorders,38372
 2010,alcohol and other psychoactive substances,,male,,,,inpatient treatment of substance use disorders,142373
 2011,alcohol and other psychoactive substances,,male,,,,inpatient treatment of substance use disorders,141363
 2012,alcohol and other psychoactive substances,,male,,,,inpatient treatment of substance use disorders,143488
@@ -95,8 +95,8 @@ Year,substance,bound,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2019,alcohol and other psychoactive substances,,male,,,,inpatient treatment of substance use disorders,117263
 2020,alcohol and other psychoactive substances,,male,,,,inpatient treatment of substance use disorders,102532
 2021,alcohol and other psychoactive substances,,male,,,,inpatient treatment of substance use disorders,101031
-2022,alcohol and other psychoactive substances,,male,,,,inpatient treatment of substance use disorders,102265
-2023,alcohol and other psychoactive substances,,male,,,,inpatient treatment of substance use disorders,108631
+2022,alcohol and other psychoactive substances,,male,r,,,inpatient treatment of substance use disorders,102581
+2023,alcohol and other psychoactive substances,,male,r,,,inpatient treatment of substance use disorders,108635
 2010,alcohol and other psychoactive substances,,unknown,-,,,inpatient treatment of substance use disorders,0
 2011,alcohol and other psychoactive substances,,unknown,-,,,inpatient treatment of substance use disorders,0
 2012,alcohol and other psychoactive substances,,unknown,,,,inpatient treatment of substance use disorders,1
