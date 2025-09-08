@@ -10,9 +10,10 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,million eur,,,,490.5
 2019,million eur,,,,474.5
 2020,million eur,,,,489.4
-2021,million eur,r,,,560.0
-2022,million eur,r,,,537.3
+2021,million eur,,,,560.0
+2022,million eur,,,,537.3
 2023,million eur,,,,611.7
+2024,million eur,,,,624.9
 2010,percentage,,,,2.4
 2011,percentage,,,,2.35
 2012,percentage,,,,2.51
@@ -27,3 +28,4 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,percentage,,,,2.58
 2022,percentage,,,,2.3
 2023,percentage,,,,2.54
+2024,percentage,,,,2.4

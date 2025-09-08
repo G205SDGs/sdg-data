@@ -11,8 +11,9 @@ Year,Kontenart,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,,,,,155998.0
 2020,,,,,159637.0
 2021,,,,,163161.0
-2022,,r,|,,138518.0
-2023,,,,,145364.0
+2022,,r,|,,138330.0
+2023,,r,,,144812.0
+2024,,,,,148749.0
 2010,Online-Konten,.,,,
 2011,Online-Konten,.,,,
 2012,Online-Konten,.,,,
@@ -25,8 +26,9 @@ Year,Kontenart,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Online-Konten,,,,98968.0
 2020,Online-Konten,,,,104023.0
 2021,Online-Konten,,,,110759.0
-2022,Online-Konten,r,|,,105743.0
-2023,Online-Konten,,,,116487.0
+2022,Online-Konten,r,|,,105555.0
+2023,Online-Konten,r,,,115940.0
+2024,Online-Konten,,,,120477.0
 2010,Girokonten,,,,94982.0
 2011,Girokonten,,,,95684.0
 2012,Girokonten,,,,96858.0
@@ -39,5 +41,6 @@ Year,Kontenart,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Girokonten,,,,107946.0
 2020,Girokonten,,,,109636.0
 2021,Girokonten,,,,113879.0
-2022,Girokonten,r,|,,102158.0
-2023,Girokonten,,,,106518.0
+2022,Girokonten,r,|,,101992.0
+2023,Girokonten,r,,,105950.0
+2024,Girokonten,,,,108227.0

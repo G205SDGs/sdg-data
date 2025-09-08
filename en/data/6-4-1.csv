@@ -1,81 +1,105 @@
 Year,Units,Economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2010,Percentage,,.,,,Change in water-use efficiency,
-2011,Percentage,,,,,Change in water-use efficiency,9.6
-2012,Percentage,,,,,Change in water-use efficiency,7.9
-2013,Percentage,,,,,Change in water-use efficiency,7.4
-2014,Percentage,,,,,Change in water-use efficiency,2.8
-2015,Percentage,,,,,Change in water-use efficiency,7.2
-2016,Percentage,,,,,Change in water-use efficiency,6.1
-2017,Percentage,,,,,Change in water-use efficiency,12.3
-2018,Percentage,,,,,Change in water-use efficiency,6.2
-2019,Percentage,,,,,Change in water-use efficiency,7.8
+2011,Percentage,,s,,,Change in water-use efficiency,9.6
+2012,Percentage,,s,,,Change in water-use efficiency,7.3
+2013,Percentage,,,,,Change in water-use efficiency,7.9
+2014,Percentage,,s,,,Change in water-use efficiency,5.7
+2015,Percentage,,s,,,Change in water-use efficiency,4.8
+2016,Percentage,,,,,Change in water-use efficiency,5.2
+2017,Percentage,,s,,,Change in water-use efficiency,9.6
+2018,Percentage,,s,,,Change in water-use efficiency,7.7
+2019,Percentage,,,,,Change in water-use efficiency,9.5
+2020,Percentage,,s,,,Change in water-use efficiency,2.1
+2021,Percentage,,s,,,Change in water-use efficiency,12.4
+2022,Percentage,,,,,Change in water-use efficiency,11.8
 2010,Percentage,"Agriculture, forestry and fishing",.,,,Change in water-use efficiency,
-2011,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,23.8
-2012,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,6.1
-2013,Percentage,"Agriculture, forestry and fishing",,,,Change in water-use efficiency,5.9
-2014,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,6.8
-2015,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,-10.0
-2016,Percentage,"Agriculture, forestry and fishing",,,,Change in water-use efficiency,7.9
-2017,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,3.4
-2018,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,-20.2
-2019,Percentage,"Agriculture, forestry and fishing",,,,Change in water-use efficiency,-14.5
+2011,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,30.6
+2012,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,11.4
+2013,Percentage,"Agriculture, forestry and fishing",,,,Change in water-use efficiency,2.9
+2014,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,6.5
+2015,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,-10.5
+2016,Percentage,"Agriculture, forestry and fishing",,,,Change in water-use efficiency,11.9
+2017,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,4.7
+2018,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,-15.7
+2019,Percentage,"Agriculture, forestry and fishing",,,,Change in water-use efficiency,-16.0
+2020,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,-36.6
+2021,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,65.5
+2022,Percentage,"Agriculture, forestry and fishing",,,,Change in water-use efficiency,29.3
 2010,Percentage,MIMEC,.,,,Change in water-use efficiency,
-2011,Percentage,MIMEC,,,,Change in water-use efficiency,12.6
-2012,Percentage,MIMEC,,,,Change in water-use efficiency,11.5
-2013,Percentage,MIMEC,,,,Change in water-use efficiency,8.4
-2014,Percentage,MIMEC,,,,Change in water-use efficiency,2.2
-2015,Percentage,MIMEC,,,,Change in water-use efficiency,9.2
-2016,Percentage,MIMEC,,,,Change in water-use efficiency,8.3
-2017,Percentage,MIMEC,,,,Change in water-use efficiency,6.1
-2018,Percentage,MIMEC,,,,Change in water-use efficiency,8.6
-2019,Percentage,MIMEC,,,,Change in water-use efficiency,8.9
+2011,Percentage,MIMEC,s,,,Change in water-use efficiency,13.4
+2012,Percentage,MIMEC,s,,,Change in water-use efficiency,10.8
+2013,Percentage,MIMEC,,,,Change in water-use efficiency,8.0
+2014,Percentage,MIMEC,s,,,Change in water-use efficiency,6.2
+2015,Percentage,MIMEC,s,,,Change in water-use efficiency,4.7
+2016,Percentage,MIMEC,,,,Change in water-use efficiency,6.7
+2017,Percentage,MIMEC,s,,,Change in water-use efficiency,11.4
+2018,Percentage,MIMEC,s,,,Change in water-use efficiency,10.2
+2019,Percentage,MIMEC,,,,Change in water-use efficiency,10.7
+2020,Percentage,MIMEC,s,,,Change in water-use efficiency,1.4
+2021,Percentage,MIMEC,s,,,Change in water-use efficiency,12.7
+2022,Percentage,MIMEC,,,,Change in water-use efficiency,15.8
 2010,Percentage,Services,.,,,Change in water-use efficiency,
-2011,Percentage,Services,,,,Change in water-use efficiency,6.7
-2012,Percentage,Services,,,,Change in water-use efficiency,2.9
-2013,Percentage,Services,,,,Change in water-use efficiency,1.6
-2014,Percentage,Services,,,,Change in water-use efficiency,5.9
-2015,Percentage,Services,,,,Change in water-use efficiency,5.5
-2016,Percentage,Services,,,,Change in water-use efficiency,3.9
-2017,Percentage,Services,,,,Change in water-use efficiency,7.5
-2018,Percentage,Services,,,,Change in water-use efficiency,4.4
-2019,Percentage,Services,,,,Change in water-use efficiency,5.3
-2010,Euro per m³,,,,,Water-use efficiency,63.3
-2011,Euro per m³,,,,,Water-use efficiency,69.4
-2012,Euro per m³,,,,,Water-use efficiency,74.9
-2013,Euro per m³,,,,,Water-use efficiency,80.4
-2014,Euro per m³,,,,,Water-use efficiency,82.7
-2015,Euro per m³,,,,,Water-use efficiency,88.7
-2016,Euro per m³,,,,,Water-use efficiency,94.0
-2017,Euro per m³,,,,,Water-use efficiency,105.6
-2018,Euro per m³,,,,,Water-use efficiency,112.2
-2019,Euro per m³,,,,,Water-use efficiency,120.9
-2010,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,3.5
-2011,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,4.3
-2012,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,4.5
-2013,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,4.8
-2014,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,5.1
-2015,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,4.6
-2016,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,5.0
-2017,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,5.2
-2018,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,4.1
-2019,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,3.5
-2010,Euro per m³,MIMEC,,,,Water-use efficiency,26.0
-2011,Euro per m³,MIMEC,,,,Water-use efficiency,29.3
-2012,Euro per m³,MIMEC,,,,Water-use efficiency,32.6
-2013,Euro per m³,MIMEC,,,,Water-use efficiency,35.4
-2014,Euro per m³,MIMEC,,,,Water-use efficiency,36.2
-2015,Euro per m³,MIMEC,,,,Water-use efficiency,39.5
-2016,Euro per m³,MIMEC,,,,Water-use efficiency,42.8
-2017,Euro per m³,MIMEC,,,,Water-use efficiency,49.7
-2018,Euro per m³,MIMEC,,,,Water-use efficiency,53.9
-2019,Euro per m³,MIMEC,,,,Water-use efficiency,58.7
-2010,Euro per m³,Services,,,,Water-use efficiency,282.6
-2011,Euro per m³,Services,,,,Water-use efficiency,301.5
-2012,Euro per m³,Services,,,,Water-use efficiency,310.3
-2013,Euro per m³,Services,,,,Water-use efficiency,315.4
-2014,Euro per m³,Services,,,,Water-use efficiency,334.1
-2015,Euro per m³,Services,,,,Water-use efficiency,352.6
-2016,Euro per m³,Services,,,,Water-use efficiency,366.2
-2017,Euro per m³,Services,,,,Water-use efficiency,393.7
-2018,Euro per m³,Services,,,,Water-use efficiency,411.0
-2019,Euro per m³,Services,,,,Water-use efficiency,432.7
+2011,Percentage,Services,s,,,Change in water-use efficiency,4.5
+2012,Percentage,Services,s,,,Change in water-use efficiency,2.2
+2013,Percentage,Services,,,,Change in water-use efficiency,4.2
+2014,Percentage,Services,s,,,Change in water-use efficiency,5.6
+2015,Percentage,Services,s,,,Change in water-use efficiency,5.6
+2016,Percentage,Services,,,,Change in water-use efficiency,4.8
+2017,Percentage,Services,s,,,Change in water-use efficiency,7.1
+2018,Percentage,Services,s,,,Change in water-use efficiency,6.5
+2019,Percentage,Services,,,,Change in water-use efficiency,9.2
+2020,Percentage,Services,s,,,Change in water-use efficiency,0.2
+2021,Percentage,Services,s,,,Change in water-use efficiency,10.4
+2022,Percentage,Services,,,,Change in water-use efficiency,11.1
+2010,Euro per m³,,,,,Water-use efficiency,64.0
+2011,Euro per m³,,s,,,Water-use efficiency,70.2
+2012,Euro per m³,,s,,,Water-use efficiency,75.3
+2013,Euro per m³,,,,,Water-use efficiency,81.3
+2014,Euro per m³,,s,,,Water-use efficiency,85.9
+2015,Euro per m³,,s,,,Water-use efficiency,90.0
+2016,Euro per m³,,,,,Water-use efficiency,94.7
+2017,Euro per m³,,s,,,Water-use efficiency,103.8
+2018,Euro per m³,,s,,,Water-use efficiency,111.9
+2019,Euro per m³,,,,,Water-use efficiency,122.5
+2020,Euro per m³,,s,,,Water-use efficiency,125.0
+2021,Euro per m³,,s,,,Water-use efficiency,140.5
+2022,Euro per m³,,,,,Water-use efficiency,157.1
+2010,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,3.4
+2011,Euro per m³,"Agriculture, forestry and fishing",s,,,Water-use efficiency,4.5
+2012,Euro per m³,"Agriculture, forestry and fishing",s,,,Water-use efficiency,5.0
+2013,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,5.1
+2014,Euro per m³,"Agriculture, forestry and fishing",s,,,Water-use efficiency,5.5
+2015,Euro per m³,"Agriculture, forestry and fishing",s,,,Water-use efficiency,4.9
+2016,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,5.5
+2017,Euro per m³,"Agriculture, forestry and fishing",s,,,Water-use efficiency,5.7
+2018,Euro per m³,"Agriculture, forestry and fishing",s,,,Water-use efficiency,4.8
+2019,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,4.1
+2020,Euro per m³,"Agriculture, forestry and fishing",s,,,Water-use efficiency,2.6
+2021,Euro per m³,"Agriculture, forestry and fishing",s,,,Water-use efficiency,4.3
+2022,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,5.5
+2010,Euro per m³,MIMEC,,,,Water-use efficiency,25.6
+2011,Euro per m³,MIMEC,s,,,Water-use efficiency,29.0
+2012,Euro per m³,MIMEC,s,,,Water-use efficiency,32.1
+2013,Euro per m³,MIMEC,,,,Water-use efficiency,34.7
+2014,Euro per m³,MIMEC,s,,,Water-use efficiency,36.8
+2015,Euro per m³,MIMEC,s,,,Water-use efficiency,38.5
+2016,Euro per m³,MIMEC,,,,Water-use efficiency,41.1
+2017,Euro per m³,MIMEC,s,,,Water-use efficiency,45.8
+2018,Euro per m³,MIMEC,s,,,Water-use efficiency,50.4
+2019,Euro per m³,MIMEC,,,,Water-use efficiency,55.9
+2020,Euro per m³,MIMEC,s,,,Water-use efficiency,56.6
+2021,Euro per m³,MIMEC,s,,,Water-use efficiency,63.8
+2022,Euro per m³,MIMEC,,,,Water-use efficiency,73.9
+2010,Euro per m³,Services,,,,Water-use efficiency,289.6
+2011,Euro per m³,Services,s,,,Water-use efficiency,302.8
+2012,Euro per m³,Services,s,,,Water-use efficiency,309.4
+2013,Euro per m³,Services,,,,Water-use efficiency,322.4
+2014,Euro per m³,Services,s,,,Water-use efficiency,340.4
+2015,Euro per m³,Services,s,,,Water-use efficiency,359.4
+2016,Euro per m³,Services,,,,Water-use efficiency,376.7
+2017,Euro per m³,Services,s,,,Water-use efficiency,403.5
+2018,Euro per m³,Services,s,,,Water-use efficiency,429.6
+2019,Euro per m³,Services,,,,Water-use efficiency,469.1
+2020,Euro per m³,Services,s,,,Water-use efficiency,470.0
+2021,Euro per m³,Services,s,,,Water-use efficiency,518.9
+2022,Euro per m³,Services,,,,Water-use efficiency,576.4

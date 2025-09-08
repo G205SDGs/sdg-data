@@ -57,6 +57,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "-",
                 "‒",
                 "s",

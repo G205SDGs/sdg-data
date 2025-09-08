@@ -13,6 +13,7 @@ Year,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,a) Branches of payment service providers,,,,32.8
 2022,a) Branches of payment service providers,,,,28.5
 2023,a) Branches of payment service providers,,,,27.1
+2024,a) Branches of payment service providers,,,,25.1
 2010,b) ATMs of national payment service providers,,,,118.9
 2011,b) ATMs of national payment service providers,,,,120.9
 2012,b) ATMs of national payment service providers,,,,118.3
@@ -26,4 +27,5 @@ Year,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,b) ATMs of national payment service providers,,,,116.8
 2021,b) ATMs of national payment service providers,,,,113.1
 2022,b) ATMs of national payment service providers,,,,109.0
-2023,b) ATMs of national payment service providers,,,,106.5
+2023,b) ATMs of national payment service providers,r,,,106.6
+2024,b) ATMs of national payment service providers,,,,104.6
