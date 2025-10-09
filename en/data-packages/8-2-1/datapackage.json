@@ -20,8 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
+                "r",
                 "0",
+                "p",
                 ""
               ]
             },

@@ -1,10 +1,10 @@
 Value,Disaggregation combinations using this value,Number of indicators
 a) branches of payment service providers,1,1
 agricultural holdings with the legal form of a sole proprietorship,2,1
-annual growth rate of real gdp,2,1
+annual growth rate of real gdp,3,1
 at least one population and housing census in the last 10 years conducted,1,1
 at-risk-of-poverty rate,6,1
-available income of private households,2,1
+available income of private households,3,1
 b) atms of national payment service providers,2,1
 basel convention,1,1
 birth registration,1,1
@@ -25,8 +25,6 @@ fatal occupational accidents,2,1
 female owners of agricultural holdings with the legal form of a sole proprietorship,2,1
 flowing water with good ecological status for total phosphorous,1,1
 german bundestag (lower chamber),2,1
-gini coefficient of equivalised disposable income before social transfers (pre-fiscal),2,1
-gini coefficient of equivalised disposable income (post-fiscal),2,1
 government fiscal balance,3,1
 gross fixed capital formation,2,1
 groundwater mesuring points below the threshold value for nitrate,1,1
@@ -34,8 +32,8 @@ hours worked by employees,2,1
 hours worked by persons employed,2,1
 hpv vaccination coverages among 15 years old girls and boys,5,1
 judiciary,13,1
-labour productivity per hour worked by employee,2,1
-labour productivity per hour worked by persons employed,2,1
+labour productivity per hour worked by employee,3,1
+labour productivity per hour worked by persons employed,3,1
 land consumption rate,7,1
 level of risk of extinction (according to fao classification),6,1
 level of risk of extinction (according to national classification),8,1
@@ -75,11 +73,10 @@ public service,26,1
 ratio of land consumption rate to population growth rate,10,1
 ratio of liquid assets to short-term liabilities,2,1
 ratio of non-performing loans (net of risk provisions) to balance sheet capital,2,1
-ratio of open foreign exchange position to regulatory capital,3,1
-ratio of regulatory capital to all weighted risk positions,3,1
+ratio of open foreign exchange position to regulatory capital,2,1
+ratio of regulatory capital to all weighted risk positions,2,1
 ratio of regulatory (tier 1) capital to all weighted risk positions,2,1
-real gdp per capita,2,1
-redistributive impact of fiscal policy,2,1
+real gdp per capita,3,1
 reporting rate for physical assault,19,1
 reporting rate for robbery,17,1
 rotterdam convention,1,1
@@ -91,7 +88,7 @@ terrestrial and freshwater areas covered by effective protected areas,2,1
 terrestrial and freshwater areas covered by protected areas,2,1
 terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas,2,1
 total return on assets,2,1
-trade balance,2,1
+trade balance,3,1
 unemployed persons with unemployment benefits,1,1
 victims of criminal offences,8,1
 victims of non-sexual harassment,36,1

@@ -170,10 +170,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -334,8 +333,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
-                "…",
+                "r",
                 ""
               ]
             }
@@ -2016,7 +2014,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "-",
                 ""
               ]
@@ -2042,7 +2039,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -2319,6 +2316,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -3274,10 +3272,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -3750,6 +3747,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "r",
                 ""
               ]
             }
@@ -3941,6 +3939,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "r",
                 ""
               ]
             }
@@ -4611,7 +4610,7 @@
                 "connecting and installing new devices, eg a printer or a modem",
                 "transferring files between computer and other devices",
                 "installing software or apps",
-                "creating electronic presentations with presentation software, including e.g. images, sound, video or charts",
+                "creating files integrating elements such as text, pictures, tables, charts, animations or sound",
                 "using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
                 ""
               ]
@@ -6596,6 +6595,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "|",
                 ""
               ]
@@ -6621,7 +6621,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -6890,6 +6890,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -7072,6 +7073,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ".",
                 ""
               ]
@@ -7314,9 +7316,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -7341,7 +7344,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -8182,7 +8185,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "…",
                 ""
               ]
             }
@@ -11026,13 +11028,23 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "gini coefficient of equivalised disposable income before social transfers (pre-fiscal)",
-                "gini coefficient of equivalised disposable income (post-fiscal)",
-                "redistributive impact of fiscal policy",
+                "gini coefficient index points",
+                "gini coefficient",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "income considered",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "equivalised market income (gross income without social transfers)",
+                "equivalised disposable income (net income including social transfers)",
                 ""
               ]
             }
@@ -11042,7 +11054,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                ".",
                 ""
               ]
             }
@@ -11061,6 +11073,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "redistributive impact of fiscal policy",
+                "gini coefficients",
                 ""
               ]
             }
@@ -12408,8 +12431,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
+                "r",
                 "0",
+                "p",
                 ""
               ]
             }
@@ -13451,7 +13475,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -13499,9 +13523,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
-                "…",
+                "p",
                 ""
               ]
             }
@@ -13598,11 +13621,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                "|",
                 ""
               ]
             }
@@ -13621,18 +13642,6 @@
             "type": "number",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "documents issued for the import and export of protected species",
-                "seizures by customs authorities concerning the protection of species",
-                "authorized imports and exports of protected species",
                 ""
               ]
             }
@@ -13661,11 +13670,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                "|",
                 ""
               ]
             }
@@ -13684,18 +13691,6 @@
             "type": "number",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "documents issued for the import and export of protected species",
-                "seizures by customs authorities concerning the protection of species",
-                "authorized imports and exports of protected species",
                 ""
               ]
             }
@@ -13923,6 +13918,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]

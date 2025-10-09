@@ -13,6 +13,7 @@ Year,Value,Units,Series
 2021,1.0,"yes=1, no=0",1) countries that are contracting parties to the international treaty on pgrfa
 2022,1.0,"yes=1, no=0",1) countries that are contracting parties to the international treaty on pgrfa
 2023,1.0,"yes=1, no=0",1) countries that are contracting parties to the international treaty on pgrfa
+2024,1.0,"yes=1, no=0",1) countries that are contracting parties to the international treaty on pgrfa
 2010,,"yes=1, no=0",2) countries that are parties to the nagoya protocol
 2011,,"yes=1, no=0",2) countries that are parties to the nagoya protocol
 2012,,"yes=1, no=0",2) countries that are parties to the nagoya protocol
@@ -27,6 +28,7 @@ Year,Value,Units,Series
 2021,1.0,"yes=1, no=0",2) countries that are parties to the nagoya protocol
 2022,1.0,"yes=1, no=0",2) countries that are parties to the nagoya protocol
 2023,1.0,"yes=1, no=0",2) countries that are parties to the nagoya protocol
+2024,1.0,"yes=1, no=0",2) countries that are parties to the nagoya protocol
 2010,,"yes=1, no=0","3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa"
 2011,,"yes=1, no=0","3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa"
 2012,,"yes=1, no=0","3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa"
@@ -41,6 +43,7 @@ Year,Value,Units,Series
 2021,1.0,"yes=1, no=0","3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa"
 2022,1.0,"yes=1, no=0","3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa"
 2023,1.0,"yes=1, no=0","3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa"
+2024,1.0,"yes=1, no=0","3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa"
 2010,1.0,"yes=1, no=0","4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house"
 2011,1.0,"yes=1, no=0","4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house"
 2012,1.0,"yes=1, no=0","4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house"
@@ -55,6 +58,7 @@ Year,Value,Units,Series
 2021,1.0,"yes=1, no=0","4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house"
 2022,1.0,"yes=1, no=0","4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house"
 2023,1.0,"yes=1, no=0","4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house"
+2024,1.0,"yes=1, no=0","4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house"
 2010,,number,5) total reported number of smtas transferring pgrfa to germany
 2011,,number,5) total reported number of smtas transferring pgrfa to germany
 2012,3898.0,number,5) total reported number of smtas transferring pgrfa to germany
@@ -69,3 +73,4 @@ Year,Value,Units,Series
 2021,10797.0,number,5) total reported number of smtas transferring pgrfa to germany
 2022,11332.0,number,5) total reported number of smtas transferring pgrfa to germany
 2023,11821.0,number,5) total reported number of smtas transferring pgrfa to germany
+2024,12338.0,number,5) total reported number of smtas transferring pgrfa to germany

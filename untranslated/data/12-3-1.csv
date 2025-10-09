@@ -1,25 +1,25 @@
 Year,Units,stages of the food chain,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2019,"1,000 tonnes",,,,,
-2020,"1,000 tonnes",,,,,9119.0
-2021,"1,000 tonnes",,,,,
-2019,"1,000 tonnes",restaurants and food services,,,,
-2020,"1,000 tonnes",restaurants and food services,,,,1861.0
-2021,"1,000 tonnes",restaurants and food services,,,,
-2019,"1,000 tonnes",private households,,,,
-2020,"1,000 tonnes",private households,,,,6496.0
-2021,"1,000 tonnes",private households,,,,
-2019,"1,000 tonnes",retail and other distribution of food,,,,
-2020,"1,000 tonnes",retail and other distribution of food,,,,762.0
-2021,"1,000 tonnes",retail and other distribution of food,,,,
-2019,kilogram per capita,,,,,
-2020,kilogram per capita,,,,,109.0
-2021,kilogram per capita,,,,,
-2019,kilogram per capita,private households,,,,
-2020,kilogram per capita,private households,,,,78.0
-2021,kilogram per capita,private households,,,,
-2019,kilogram per capita,retail and other distribution of food,,,,
-2020,kilogram per capita,retail and other distribution of food,,,,9.0
-2021,kilogram per capita,retail and other distribution of food,,,,
-2019,kilogram per capita,restaurants and food services,,,,
-2020,kilogram per capita,restaurants and food services,,,,22.0
-2021,kilogram per capita,restaurants and food services,,,,
+2020,"1,000 tonnes",,r,,,9147
+2021,"1,000 tonnes",,,,,9214
+2022,"1,000 tonnes",,,,,9040
+2020,"1,000 tonnes",restaurants and food services,r,,,1877
+2021,"1,000 tonnes",restaurants and food services,,,,1864
+2022,"1,000 tonnes",restaurants and food services,,,,1978
+2020,"1,000 tonnes",private households,,,,6496
+2021,"1,000 tonnes",private households,,,,6587
+2022,"1,000 tonnes",private households,,,,6289
+2020,"1,000 tonnes",retail and other distribution of food,r,,,774
+2021,"1,000 tonnes",retail and other distribution of food,,,,762
+2022,"1,000 tonnes",retail and other distribution of food,,,,774
+2020,kilogram per capita,,r,,,110
+2021,kilogram per capita,,,,,110
+2022,kilogram per capita,,,,,108
+2020,kilogram per capita,private households,,,,78
+2021,kilogram per capita,private households,,,,79
+2022,kilogram per capita,private households,,,,75
+2020,kilogram per capita,retail and other distribution of food,,,,9
+2021,kilogram per capita,retail and other distribution of food,,,,9
+2022,kilogram per capita,retail and other distribution of food,,,,9
+2020,kilogram per capita,restaurants and food services,r,,,23
+2021,kilogram per capita,restaurants and food services,,,,22
+2022,kilogram per capita,restaurants and food services,,,,24

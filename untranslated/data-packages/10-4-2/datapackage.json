@@ -15,13 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "gini coefficient of equivalised disposable income before social transfers (pre-fiscal)",
-                "gini coefficient of equivalised disposable income (post-fiscal)",
-                "redistributive impact of fiscal policy",
+                "gini coefficient index points",
+                "gini coefficient",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "income considered",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "equivalised market income (gross income without social transfers)",
+                "equivalised disposable income (net income including social transfers)",
                 ""
               ]
             }
@@ -31,7 +41,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                ".",
                 ""
               ]
             }
@@ -50,6 +60,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "redistributive impact of fiscal policy",
+                "gini coefficients",
                 ""
               ]
             }

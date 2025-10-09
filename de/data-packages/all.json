@@ -185,10 +185,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -364,8 +363,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
-                "…",
+                "r",
                 ""
               ]
             },
@@ -2206,7 +2204,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "-",
                 ""
               ]
@@ -2235,7 +2232,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -2538,6 +2535,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -3584,10 +3582,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -4105,6 +4102,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "r",
                 ""
               ]
             },
@@ -4314,6 +4312,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "r",
                 ""
               ]
             },
@@ -5047,7 +5046,7 @@
                 "Anschließen und Installieren neuer Geräte, z. B. eines Druckers oder eines Modems",
                 "Übertragung von Dateien zwischen Computern und anderen Geräten",
                 "Installation von Software oder Anwendungen (Apps)",
-                "Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen",
+                "Erstellung von Dateien mit Elementen wie Texte, Bildern, Tabellen, Grafiken, Animationen oder Ton",
                 "Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken",
                 ""
               ]
@@ -7219,6 +7218,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "|",
                 ""
               ]
@@ -7247,7 +7247,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -7542,6 +7542,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -7741,6 +7742,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ".",
                 ""
               ]
@@ -8006,9 +8008,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -8036,7 +8039,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -8957,7 +8960,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "…",
                 ""
               ]
             },
@@ -12076,24 +12078,35 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
-                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
-                "Umverteilende Wirkung der Fiskalpolitik",
+                "Gini-Koeffizienz-Punkte",
+                "Gini-Koeffizient",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Units"
+          },
+          {
+            "name": "income considered",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Marktäquivalenzeinkommen (Bruttoeinkommen ohne Sozialtransfers)",
+                "Verfügbares Äquivalenzeinkommen (Nettoeinkommen inkl. Sozialtransfers)",
+                ""
+              ]
+            },
+            "title": "Betrachtetes Einkommen"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                ".",
                 ""
               ]
             },
@@ -12118,6 +12131,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Umverteilende Wirkung der Fiskalpolitik",
+                "Gini-Koeffizientenen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -13587,8 +13612,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
+                "r",
                 "0",
+                "p",
                 ""
               ]
             },
@@ -14780,9 +14806,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
-                "…",
+                "p",
                 ""
               ]
             },
@@ -14889,11 +14914,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                "|",
                 ""
               ]
             },
@@ -14918,19 +14941,6 @@
               ]
             },
             "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
-                "Genehmigte Ein- und Ausfuhren geschützter Arten",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -14958,11 +14968,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                "|",
                 ""
               ]
             },
@@ -14987,19 +14995,6 @@
               ]
             },
             "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
-                "Genehmigte Ein- und Ausfuhren geschützter Arten",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -15245,6 +15240,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]

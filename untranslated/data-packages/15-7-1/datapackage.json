@@ -16,11 +16,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                "|",
                 ""
               ]
             }
@@ -39,18 +37,6 @@
             "type": "number",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "documents issued for the import and export of protected species",
-                "seizures by customs authorities concerning the protection of species",
-                "authorized imports and exports of protected species",
                 ""
               ]
             }

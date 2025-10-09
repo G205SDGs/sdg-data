@@ -1,25 +1,25 @@
 Year,Units,Stufen der Lebensmittelkette,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2019,1 000 Tonnen,,,,,
-2020,1 000 Tonnen,,,,,9119.0
-2021,1 000 Tonnen,,,,,
-2019,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
-2020,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,1861.0
-2021,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
-2019,1 000 Tonnen,Private Haushalte,,,,
-2020,1 000 Tonnen,Private Haushalte,,,,6496.0
-2021,1 000 Tonnen,Private Haushalte,,,,
-2019,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
-2020,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,762.0
-2021,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
-2019,Kilogramm pro Kopf,,,,,
-2020,Kilogramm pro Kopf,,,,,109.0
-2021,Kilogramm pro Kopf,,,,,
-2019,Kilogramm pro Kopf,Private Haushalte,,,,
-2020,Kilogramm pro Kopf,Private Haushalte,,,,78.0
-2021,Kilogramm pro Kopf,Private Haushalte,,,,
-2019,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
-2020,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9.0
-2021,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
-2019,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
-2020,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,22.0
-2021,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2020,1 000 Tonnen,,r,,,9147
+2021,1 000 Tonnen,,,,,9214
+2022,1 000 Tonnen,,,,,9040
+2020,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,r,,,1877
+2021,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,1864
+2022,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,1978
+2020,1 000 Tonnen,Private Haushalte,,,,6496
+2021,1 000 Tonnen,Private Haushalte,,,,6587
+2022,1 000 Tonnen,Private Haushalte,,,,6289
+2020,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,r,,,774
+2021,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,762
+2022,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,774
+2020,Kilogramm pro Kopf,,r,,,110
+2021,Kilogramm pro Kopf,,,,,110
+2022,Kilogramm pro Kopf,,,,,108
+2020,Kilogramm pro Kopf,Private Haushalte,,,,78
+2021,Kilogramm pro Kopf,Private Haushalte,,,,79
+2022,Kilogramm pro Kopf,Private Haushalte,,,,75
+2020,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9
+2021,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9
+2022,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9
+2020,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,r,,,23
+2021,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,22
+2022,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,24

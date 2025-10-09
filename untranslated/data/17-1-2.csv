@@ -10,10 +10,10 @@ Year,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,national taxes,,,,53.9
 2019,national taxes,,,,52.9
 2020,national taxes,,,,45.4
-2021,national taxes,p,,,48.1
-2022,national taxes,p,,,49.6
-2023,national taxes,p,,,47.5
-2024,national taxes,p,,,46.5
+2021,national taxes,,,,51.7
+2022,national taxes,p,,,47.5
+2023,national taxes,p,,,47.4
+2024,national taxes,p,,,46.6
 2010,national taxes and insurance contributions,,,,79.0
 2011,national taxes and insurance contributions,,,,85.0
 2012,national taxes and insurance contributions,,,,86.9
@@ -25,7 +25,7 @@ Year,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,national taxes and insurance contributions,,,,91.2
 2019,national taxes and insurance contributions,,,,90.1
 2020,national taxes and insurance contributions,,,,79.8
-2021,national taxes and insurance contributions,p,,,82.1
-2022,national taxes and insurance contributions,p,,,84.0
-2023,national taxes and insurance contributions,p,,,82.5
+2021,national taxes and insurance contributions,,,,85.6
+2022,national taxes and insurance contributions,p,,,84.4
+2023,national taxes and insurance contributions,p,,,82.3
 2024,national taxes and insurance contributions,p,,,81.9

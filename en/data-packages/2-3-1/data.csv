@@ -10,8 +10,9 @@ Year,Economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,Agriculture,,,,80.8
 2019,Agriculture,,,,94.0
 2020,Agriculture,,,,100.0
-2021,Agriculture,p,,,115.7
-2022,Agriculture,p,,,115.3
+2021,Agriculture,,,,119.7
+2022,Agriculture,p,,,120.4
+2023,Agriculture,p,,,106.3
 2010,Forestry,,,,106.9
 2011,Forestry,,,,134.7
 2012,Forestry,,,,153.7
@@ -23,5 +24,6 @@ Year,Economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,Forestry,,,,209.3
 2019,Forestry,,,,171.4
 2020,Forestry,,,,100.0
-2021,Forestry,p,,,124.0
-2022,Forestry,p,,,177.0
+2021,Forestry,,,,126.5
+2022,Forestry,p,,,180.6
+2023,Forestry,p,,,173.4

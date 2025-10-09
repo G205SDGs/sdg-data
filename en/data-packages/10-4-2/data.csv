@@ -1,46 +1,46 @@
-Year,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,55.4
-2011,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,55.5
-2012,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,54.4
-2013,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,56.4
-2014,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,57.7
-2015,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,56.4
-2016,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,55.5
-2017,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,54.4
-2018,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,56.4
-2019,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,55.4
-2020,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),|,,,54.9
-2021,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,56.4
-2022,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,48.9
-2023,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,48.9
-2024,Gini coefficient of equivalised disposable income before social transfers (pre-fiscal),,,,48.7
-2010,Gini coefficient of equivalised disposable income (post-fiscal),,,,29.3
-2011,Gini coefficient of equivalised disposable income (post-fiscal),,,,29.0
-2012,Gini coefficient of equivalised disposable income (post-fiscal),,,,28.3
-2013,Gini coefficient of equivalised disposable income (post-fiscal),,,,29.7
-2014,Gini coefficient of equivalised disposable income (post-fiscal),,,,30.7
-2015,Gini coefficient of equivalised disposable income (post-fiscal),,,,30.1
-2016,Gini coefficient of equivalised disposable income (post-fiscal),,,,29.5
-2017,Gini coefficient of equivalised disposable income (post-fiscal),,,,29.1
-2018,Gini coefficient of equivalised disposable income (post-fiscal),,,,31.1
-2019,Gini coefficient of equivalised disposable income (post-fiscal),,,,29.7
-2020,Gini coefficient of equivalised disposable income (post-fiscal),|,,,30.5
-2021,Gini coefficient of equivalised disposable income (post-fiscal),,,,31.2
-2022,Gini coefficient of equivalised disposable income (post-fiscal),,,,29.0
-2023,Gini coefficient of equivalised disposable income (post-fiscal),,,,29.4
-2024,Gini coefficient of equivalised disposable income (post-fiscal),,,,29.5
-2010,Redistributive impact of fiscal policy,,,,26.1
-2011,Redistributive impact of fiscal policy,,,,26.5
-2012,Redistributive impact of fiscal policy,,,,27.1
-2013,Redistributive impact of fiscal policy,,,,26.7
-2014,Redistributive impact of fiscal policy,,,,27.0
-2015,Redistributive impact of fiscal policy,,,,26.3
-2016,Redistributive impact of fiscal policy,,,,26.0
-2017,Redistributive impact of fiscal policy,,,,25.3
-2018,Redistributive impact of fiscal policy,,,,25.3
-2019,Redistributive impact of fiscal policy,,,,25.7
-2020,Redistributive impact of fiscal policy,|,,,24.4
-2021,Redistributive impact of fiscal policy,,,,25.2
-2022,Redistributive impact of fiscal policy,,,,19.9
-2023,Redistributive impact of fiscal policy,,,,19.5
-2024,Redistributive impact of fiscal policy,,,,19.2
+Year,Units,Income considered,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2011,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2012,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2013,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2014,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2015,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2016,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2017,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2018,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2019,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2020,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,10.4
+2021,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,14.3
+2022,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,17.0
+2023,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,16.7
+2024,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,18.2
+2010,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
+2011,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
+2012,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
+2013,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
+2014,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
+2015,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
+2016,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
+2017,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
+2018,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
+2019,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
+2020,Gini coefficient,Equivalised market income (gross income without social transfers),,,,Gini coefficients,40.9
+2021,Gini coefficient,Equivalised market income (gross income without social transfers),,,,Gini coefficients,45.5
+2022,Gini coefficient,Equivalised market income (gross income without social transfers),,,,Gini coefficients,46.0
+2023,Gini coefficient,Equivalised market income (gross income without social transfers),,,,Gini coefficients,46.1
+2024,Gini coefficient,Equivalised market income (gross income without social transfers),,,,Gini coefficients,47.7
+2010,Gini coefficient,Equivalised disposable income (net income including social transfers),.,,,Gini coefficients,
+2011,Gini coefficient,Equivalised disposable income (net income including social transfers),.,,,Gini coefficients,
+2012,Gini coefficient,Equivalised disposable income (net income including social transfers),.,,,Gini coefficients,
+2013,Gini coefficient,Equivalised disposable income (net income including social transfers),.,,,Gini coefficients,
+2014,Gini coefficient,Equivalised disposable income (net income including social transfers),.,,,Gini coefficients,
+2015,Gini coefficient,Equivalised disposable income (net income including social transfers),.,,,Gini coefficients,
+2016,Gini coefficient,Equivalised disposable income (net income including social transfers),.,,,Gini coefficients,
+2017,Gini coefficient,Equivalised disposable income (net income including social transfers),.,,,Gini coefficients,
+2018,Gini coefficient,Equivalised disposable income (net income including social transfers),.,,,Gini coefficients,
+2019,Gini coefficient,Equivalised disposable income (net income including social transfers),.,,,Gini coefficients,
+2020,Gini coefficient,Equivalised disposable income (net income including social transfers),,,,Gini coefficients,30.5
+2021,Gini coefficient,Equivalised disposable income (net income including social transfers),,,,Gini coefficients,31.2
+2022,Gini coefficient,Equivalised disposable income (net income including social transfers),,,,Gini coefficients,29.0
+2023,Gini coefficient,Equivalised disposable income (net income including social transfers),,,,Gini coefficients,29.4
+2024,Gini coefficient,Equivalised disposable income (net income including social transfers),,,,Gini coefficients,29.5

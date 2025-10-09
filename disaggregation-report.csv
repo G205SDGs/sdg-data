@@ -6,7 +6,7 @@ area2,3,4
 availability,1,2
 bound,1,2
 cause of death,3,10
-COMMENT_OBS_0,149,10
+COMMENT_OBS_0,146,10
 COMMENT_OBS_1,6,4
 completeness of disaggregation,1,3
 conversion,1,2
@@ -24,6 +24,7 @@ form of abuse,1,2
 form of exploitation,1,2
 function,1,3
 goal,1,13
+income considered,1,2
 indicator,1,5
 level of court,1,3
 level of proficiency,1,2
@@ -55,7 +56,7 @@ technology sectors,1,2
 technology,1,3
 thematic area,1,4
 time series,14,21
-timeseries,31,99
+timeseries,30,96
 treatment,1,2
 type of account,1,2
 type of biomass,1,3

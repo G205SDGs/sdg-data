@@ -16,24 +16,35 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
-                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
-                "Umverteilende Wirkung der Fiskalpolitik",
+                "Gini-Koeffizienz-Punkte",
+                "Gini-Koeffizient",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Units"
+          },
+          {
+            "name": "income considered",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Marktäquivalenzeinkommen (Bruttoeinkommen ohne Sozialtransfers)",
+                "Verfügbares Äquivalenzeinkommen (Nettoeinkommen inkl. Sozialtransfers)",
+                ""
+              ]
+            },
+            "title": "Betrachtetes Einkommen"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                ".",
                 ""
               ]
             },
@@ -58,6 +69,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Umverteilende Wirkung der Fiskalpolitik",
+                "Gini-Koeffizientenen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
