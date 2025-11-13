@@ -12,8 +12,73 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beherbergung: Hotels und ähnliche Beherbergungsstätten",
+                "Beherbergung: Sonstige Beherbergungsstätten",
+                "Gaststätten- und Getränkeausschank",
+                "Personenbeförderung im Eisenbahnverkehr",
+                "Personenbeförderung im Straßenverkehr",
+                "Personenbeförderung in der Schifffahrt",
+                "Personenbeförderung in der Luftfahrt",
+                "Vermietung von Transportmitteln",
+                "Reisebüros, Reiseveranstalter und sonstige Reservierungsdienstleistungen",
+                "Kulturelle Dienstleistungen",
+                "Dienstleistungen des Sports und der Erholung",
+                ""
+              ]
+            },
+            "title": "Wirtschaftszweig"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<u>Zeitreihe des Indikators:</u> Erwerbstätige",
+                "<u>Zusätzliche Zeitreihe:</u> Beschäftigte",
+                "<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

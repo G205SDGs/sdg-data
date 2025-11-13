@@ -12,7 +12,67 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "accommodation for visitors: hotels and similar establishments",
+                "accommodation for visitors: other",
+                "food and beverage serving activities",
+                "railway passenger transport",
+                "road passenger transport",
+                "water passenger transport",
+                "air passenger transport",
+                "transport equipment rental",
+                "travel agencies and other reservation service activities",
+                "cultural activities",
+                "sports and recreational activities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<u>time series of the indicator:</u> employed persons",
+                "<u>additional time series:</u> employees",
+                "<u>additional time series:</u> full-time equivalents",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

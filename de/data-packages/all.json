@@ -254,7 +254,7 @@
           }
         ]
       },
-      "title": "Gesamte öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Leistungen zur Unterstützung städtischer<br>Infrastruktur oder städtischer Infrastrukturprojekte, nach Sektor"
+      "title": "Gesamte öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Leistungen zur Unterstützung städtischer Infrastruktur oder städtischer Infrastrukturprojekte, nach Sektor"
     },
     {
       "path": "11-3-2/data.csv",
@@ -1206,6 +1206,95 @@
         ]
       },
       "title": "Produktionsvolumen je Arbeitseinheit, nach Größenklassen der Land-/ Weide-/ Forstwirtschaftsbetriebe"
+    },
+    {
+      "path": "8-9-2/data.csv",
+      "name": "8-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beherbergung: Hotels und ähnliche Beherbergungsstätten",
+                "Beherbergung: Sonstige Beherbergungsstätten",
+                "Gaststätten- und Getränkeausschank",
+                "Personenbeförderung im Eisenbahnverkehr",
+                "Personenbeförderung im Straßenverkehr",
+                "Personenbeförderung in der Schifffahrt",
+                "Personenbeförderung in der Luftfahrt",
+                "Vermietung von Transportmitteln",
+                "Reisebüros, Reiseveranstalter und sonstige Reservierungsdienstleistungen",
+                "Kulturelle Dienstleistungen",
+                "Dienstleistungen des Sports und der Erholung",
+                ""
+              ]
+            },
+            "title": "Wirtschaftszweig"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<u>Zeitreihe des Indikators:</u> Erwerbstätige",
+                "<u>Zusätzliche Zeitreihe:</u> Beschäftigte",
+                "<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Erwerbstätige in der Tourismuswirtschaft"
     },
     {
       "path": "3-3-1/data.csv",
@@ -16542,30 +16631,6 @@
         ]
       },
       "title": "Katastrophen zugeschriebene a) Schäden an kritischen Infrastrukturen und b) Zahl der Unterbrechungen der Grundversorgung"
-    },
-    {
-      "path": "8-9-2/data.csv",
-      "name": "8-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "Erwerbstätige in der Tourismuswirtschaft"
     }
   ]
 }
