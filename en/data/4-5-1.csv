@@ -13,6 +13,7 @@ Year,Indicator,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,SDG indicator 4.2.2 (5 years),,,,1.0
 2022,SDG indicator 4.2.2 (5 years),,,,1.0
 2023,SDG indicator 4.2.2 (5 years),,,,1.0
+2024,SDG indicator 4.2.2 (5 years),,,,1.0
 2010,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.02
 2011,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.03
 2012,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.02
@@ -21,12 +22,13 @@ Year,Indicator,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2015,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.01
 2016,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.01
 2017,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.01
-2018,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.025
+2018,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.03
 2019,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.03
 2020,SDG-Indicator 4.3.1 (15 to under 25 years),|,,,1.02
-2021,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.044
+2021,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.04
 2022,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.04
-2023,SDG-Indicator 4.3.1 (15 to under 25 years),p,,,1.05
+2023,SDG-Indicator 4.3.1 (15 to under 25 years),,,,1.05
+2024,SDG-Indicator 4.3.1 (15 to under 25 years),p,,,1.04
 2010,SDG-Indicator 4.3.1 (15 to under 65 years),,,,0.97
 2011,SDG-Indicator 4.3.1 (15 to under 65 years),,,,0.96
 2012,SDG-Indicator 4.3.1 (15 to under 65 years),,,,0.96
@@ -40,7 +42,8 @@ Year,Indicator,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,SDG-Indicator 4.3.1 (15 to under 65 years),|,,,0.99
 2021,SDG-Indicator 4.3.1 (15 to under 65 years),,,,1.01
 2022,SDG-Indicator 4.3.1 (15 to under 65 years),,,,1.03
-2023,SDG-Indicator 4.3.1 (15 to under 65 years),p,,,1.03
+2023,SDG-Indicator 4.3.1 (15 to under 65 years),,,,1.04
+2024,SDG-Indicator 4.3.1 (15 to under 65 years),p,,,1.03
 2010,SDG-Indicator 4.3.1 (25 to under 55 years),,,,0.95
 2011,SDG-Indicator 4.3.1 (25 to under 55 years),,,,0.94
 2012,SDG-Indicator 4.3.1 (25 to under 55 years),,,,0.951
@@ -53,8 +56,9 @@ Year,Indicator,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,SDG-Indicator 4.3.1 (25 to under 55 years),,,,0.97
 2020,SDG-Indicator 4.3.1 (25 to under 55 years),|,,,0.98
 2021,SDG-Indicator 4.3.1 (25 to under 55 years),,,,1.01
-2022,SDG-Indicator 4.3.1 (25 to under 55 years),,,,1.04
-2023,SDG-Indicator 4.3.1 (25 to under 55 years),p,,,1.04
+2022,SDG-Indicator 4.3.1 (25 to under 55 years),r,,,1.05
+2023,SDG-Indicator 4.3.1 (25 to under 55 years),,,,1.04
+2024,SDG-Indicator 4.3.1 (25 to under 55 years),p,,,1.05
 2010,SDG-Indicator 4.3.1 (55 to under 65 years),,,,0.86
 2011,SDG-Indicator 4.3.1 (55 to under 65 years),,,,0.86
 2012,SDG-Indicator 4.3.1 (55 to under 65 years),,,,0.9
@@ -68,4 +72,5 @@ Year,Indicator,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,SDG-Indicator 4.3.1 (55 to under 65 years),|,,,1.1
 2021,SDG-Indicator 4.3.1 (55 to under 65 years),,,,1.07
 2022,SDG-Indicator 4.3.1 (55 to under 65 years),,,,1.11
-2023,SDG-Indicator 4.3.1 (55 to under 65 years),p,,,1.15
+2023,SDG-Indicator 4.3.1 (55 to under 65 years),,,,1.15
+2024,SDG-Indicator 4.3.1 (55 to under 65 years),p,,,1.04

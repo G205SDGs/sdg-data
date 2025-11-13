@@ -12,8 +12,9 @@ Year,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,,,,,95.3
 2021,,,,,95.2
 2022,,,,,94.7
-2023,,,,,93.7
-2024,,,,,93.4
+2023,,r,,,96.7
+2024,,r,,,96.5
+2025,,,,,97.7
 2010,Weiblich,,,,95.5
 2011,Weiblich,,,,95.7
 2012,Weiblich,|,,,96.6
@@ -27,8 +28,9 @@ Year,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Weiblich,,,,95.6
 2021,Weiblich,,,,95.5
 2022,Weiblich,,,,94.7
-2023,Weiblich,,,,93.9
-2024,Weiblich,,,,93.5
+2023,Weiblich,r,,,96.7
+2024,Weiblich,r,,,96.4
+2025,Weiblich,,,,97.9
 2010,Männlich,,,,95.4
 2011,Männlich,,,,95.2
 2012,Männlich,|,,,96.2
@@ -42,5 +44,6 @@ Year,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Männlich,,,,95.1
 2021,Männlich,,,,95.0
 2022,Männlich,,,,94.6
-2023,Männlich,,,,93.5
-2024,Männlich,,,,93.2
+2023,Männlich,r,,,96.7
+2024,Männlich,r,,,96.5
+2025,Männlich,,,,97.5

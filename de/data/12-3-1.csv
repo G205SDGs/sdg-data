@@ -1,25 +1,113 @@
 Year,Units,Stufen der Lebensmittelkette,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2020,1 000 Tonnen,,r,,,9147
-2021,1 000 Tonnen,,,,,9214
-2022,1 000 Tonnen,,,,,9040
-2020,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,r,,,1877
-2021,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,1864
-2022,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,1978
-2020,1 000 Tonnen,Private Haushalte,,,,6496
-2021,1 000 Tonnen,Private Haushalte,,,,6587
-2022,1 000 Tonnen,Private Haushalte,,,,6289
-2020,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,r,,,774
-2021,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,762
-2022,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,774
-2020,Kilogramm pro Kopf,,r,,,110
-2021,Kilogramm pro Kopf,,,,,110
-2022,Kilogramm pro Kopf,,,,,108
-2020,Kilogramm pro Kopf,Private Haushalte,,,,78
-2021,Kilogramm pro Kopf,Private Haushalte,,,,79
-2022,Kilogramm pro Kopf,Private Haushalte,,,,75
-2020,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9
-2021,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9
-2022,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9
-2020,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,r,,,23
-2021,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,22
-2022,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,24
+2010,1 000 Tonnen,,,,,
+2011,1 000 Tonnen,,,,,
+2012,1 000 Tonnen,,,,,
+2013,1 000 Tonnen,,,,,
+2014,1 000 Tonnen,,,,,
+2015,1 000 Tonnen,,,,,
+2016,1 000 Tonnen,,,,,
+2017,1 000 Tonnen,,,,,
+2018,1 000 Tonnen,,,,,
+2019,1 000 Tonnen,,,,,
+2020,1 000 Tonnen,,,,,9147.0
+2021,1 000 Tonnen,,,,,9214.0
+2022,1 000 Tonnen,,,,,9040.0
+2023,1 000 Tonnen,,,,,8859.0
+2010,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
+2011,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
+2012,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
+2013,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
+2014,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
+2015,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
+2016,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
+2017,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
+2018,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
+2019,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,
+2020,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,1877.0
+2021,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,1864.0
+2022,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,1978.0
+2023,1 000 Tonnen,Gaststätten und Verpflegungsdienstleistungen,,,,1789.0
+2010,1 000 Tonnen,Private Haushalte,,,,
+2011,1 000 Tonnen,Private Haushalte,,,,
+2012,1 000 Tonnen,Private Haushalte,,,,
+2013,1 000 Tonnen,Private Haushalte,,,,
+2014,1 000 Tonnen,Private Haushalte,,,,
+2015,1 000 Tonnen,Private Haushalte,,,,
+2016,1 000 Tonnen,Private Haushalte,,,,
+2017,1 000 Tonnen,Private Haushalte,,,,
+2018,1 000 Tonnen,Private Haushalte,,,,
+2019,1 000 Tonnen,Private Haushalte,,,,
+2020,1 000 Tonnen,Private Haushalte,,,,6496.0
+2021,1 000 Tonnen,Private Haushalte,,,,6587.0
+2022,1 000 Tonnen,Private Haushalte,,,,6289.0
+2023,1 000 Tonnen,Private Haushalte,,,,6345.0
+2010,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
+2011,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
+2012,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
+2013,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
+2014,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
+2015,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
+2016,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
+2017,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
+2018,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
+2019,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,
+2020,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,774.0
+2021,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,762.0
+2022,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,774.0
+2023,1 000 Tonnen,Einzelhandel und andere Formen des Vertriebs,,,,724.0
+2010,Kilogramm pro Kopf,,,,,
+2011,Kilogramm pro Kopf,,,,,
+2012,Kilogramm pro Kopf,,,,,
+2013,Kilogramm pro Kopf,,,,,
+2014,Kilogramm pro Kopf,,,,,
+2015,Kilogramm pro Kopf,,,,,
+2016,Kilogramm pro Kopf,,,,,
+2017,Kilogramm pro Kopf,,,,,
+2018,Kilogramm pro Kopf,,,,,
+2019,Kilogramm pro Kopf,,,,,
+2020,Kilogramm pro Kopf,,,,,110.0
+2021,Kilogramm pro Kopf,,,,,110.0
+2022,Kilogramm pro Kopf,,r,,,109.0
+2023,Kilogramm pro Kopf,,,,,106.0
+2010,Kilogramm pro Kopf,Private Haushalte,,,,
+2011,Kilogramm pro Kopf,Private Haushalte,,,,
+2012,Kilogramm pro Kopf,Private Haushalte,,,,
+2013,Kilogramm pro Kopf,Private Haushalte,,,,
+2014,Kilogramm pro Kopf,Private Haushalte,,,,
+2015,Kilogramm pro Kopf,Private Haushalte,,,,
+2016,Kilogramm pro Kopf,Private Haushalte,,,,
+2017,Kilogramm pro Kopf,Private Haushalte,,,,
+2018,Kilogramm pro Kopf,Private Haushalte,,,,
+2019,Kilogramm pro Kopf,Private Haushalte,,,,
+2020,Kilogramm pro Kopf,Private Haushalte,,,,78.0
+2021,Kilogramm pro Kopf,Private Haushalte,,,,79.0
+2022,Kilogramm pro Kopf,Private Haushalte,r,,,76.0
+2023,Kilogramm pro Kopf,Private Haushalte,,,,76.0
+2010,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
+2011,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
+2012,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
+2013,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
+2014,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
+2015,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
+2016,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
+2017,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
+2018,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
+2019,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,
+2020,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9.0
+2021,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9.0
+2022,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9.0
+2023,Kilogramm pro Kopf,Einzelhandel und andere Formen des Vertriebs,,,,9.0
+2010,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2011,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2012,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2013,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2014,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2015,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2016,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2017,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2018,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2019,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,
+2020,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,23.0
+2021,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,22.0
+2022,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,24.0
+2023,Kilogramm pro Kopf,Gaststätten und Verpflegungsdienstleistungen,,,,21.0

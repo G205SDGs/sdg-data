@@ -61,7 +61,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2021,percentage,public service,,,,,,54.0
 2022,percentage,public service,,,,,,54.4
 2023,percentage,public service,,,,,,51.7
-2024,percentage,public service,,,…,,,
+2024,percentage,public service,,,,,,52.1
 2025,percentage,public service,,,…,,,
 2010,percentage,public service,"political leadership and central administration, foreign affairs",,,,,48.8
 2011,percentage,public service,"political leadership and central administration, foreign affairs",,,,,49.2
@@ -77,7 +77,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2021,percentage,public service,"political leadership and central administration, foreign affairs",,,,,53.6
 2022,percentage,public service,"political leadership and central administration, foreign affairs",,,,,53.6
 2023,percentage,public service,"political leadership and central administration, foreign affairs",,,,,53.4
-2024,percentage,public service,"political leadership and central administration, foreign affairs",,…,,,
+2024,percentage,public service,"political leadership and central administration, foreign affairs",,,,,53.7
 2025,percentage,public service,"political leadership and central administration, foreign affairs",,…,,,
 2010,percentage,public service,police,,,,,22.7
 2011,percentage,public service,police,,,,,22.4
@@ -91,9 +91,9 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2019,percentage,public service,police,,,,,27.4
 2020,percentage,public service,police,,,,,28.4
 2021,percentage,public service,police,,,,,29.4
-2022,percentage,public service,police,,r,,,30.2
+2022,percentage,public service,police,,,,,30.2
 2023,percentage,public service,police,,,,,31.2
-2024,percentage,public service,police,,…,,,
+2024,percentage,public service,police,,,,,32.0
 2025,percentage,public service,police,,…,,,
 2010,percentage,public service,"education, science, research, cultural affairs",,,,,60.6
 2011,percentage,public service,"education, science, research, cultural affairs",,,,,61.0
@@ -109,7 +109,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2021,percentage,public service,"education, science, research, cultural affairs",,,,,63.2
 2022,percentage,public service,"education, science, research, cultural affairs",,,,,63.1
 2023,percentage,public service,"education, science, research, cultural affairs",,,,,63.3
-2024,percentage,public service,"education, science, research, cultural affairs",,…,,,
+2024,percentage,public service,"education, science, research, cultural affairs",,,,,63.6
 2025,percentage,public service,"education, science, research, cultural affairs",,…,,,
 2010,percentage,public service,"health, environment, sports and recreation",,,,,57.0
 2011,percentage,public service,"health, environment, sports and recreation",,,,,57.4
@@ -125,8 +125,8 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2021,percentage,public service,"health, environment, sports and recreation",,,,,59.4
 2022,percentage,public service,"health, environment, sports and recreation",,,,,59.4
 2023,percentage,public service,"health, environment, sports and recreation",,,,,59.3
-2024,percentage,public service,"health, environment, sports and recreation",,,,,
-2025,percentage,public service,"health, environment, sports and recreation",,,,,
+2024,percentage,public service,"health, environment, sports and recreation",,,,,59.5
+2025,percentage,public service,"health, environment, sports and recreation",,…,,,
 2010,percentage,judiciary,,,,,,38.5
 2011,percentage,judiciary,,,,,,39.3
 2012,percentage,judiciary,,,,,,40.2
@@ -237,7 +237,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2021,no unit,public service,,,,,,1.1
 2022,no unit,public service,,,,,,1.1
 2023,no unit,public service,,,p,,,1.05
-2024,no unit,public service,,,…,,,
+2024,no unit,public service,,,p,,,1.06
 2025,no unit,public service,,,…,,,
 2010,no unit,public service,"political leadership and central administration, foreign affairs",,,,,0.99
 2011,no unit,public service,"political leadership and central administration, foreign affairs",,,,,0.99
@@ -253,7 +253,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2021,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.09
 2022,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.08
 2023,no unit,public service,"political leadership and central administration, foreign affairs",,p,,,1.08
-2024,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2024,no unit,public service,"political leadership and central administration, foreign affairs",,p,,,1.09
 2025,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
 2010,no unit,public service,police,,,,,0.46
 2011,no unit,public service,police,,,,,0.45
@@ -267,9 +267,9 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2019,no unit,public service,police,,,,,0.56
 2020,no unit,public service,police,,,,,0.58
 2021,no unit,public service,police,,,,,0.59
-2022,no unit,public service,police,,r,,,0.61
+2022,no unit,public service,police,,,,,0.61
 2023,no unit,public service,police,,p,,,0.63
-2024,no unit,public service,police,,…,,,
+2024,no unit,public service,police,,p,,,0.65
 2025,no unit,public service,police,,…,,,
 2010,no unit,public service,"education, science, research, cultural affairs",,,,,1.22
 2011,no unit,public service,"education, science, research, cultural affairs",,,,,1.22
@@ -285,7 +285,7 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2021,no unit,public service,"education, science, research, cultural affairs",,,,,1.28
 2022,no unit,public service,"education, science, research, cultural affairs",,,,,1.27
 2023,no unit,public service,"education, science, research, cultural affairs",,p,,,1.28
-2024,no unit,public service,"education, science, research, cultural affairs",,…,,,
+2024,no unit,public service,"education, science, research, cultural affairs",,p,,,1.29
 2025,no unit,public service,"education, science, research, cultural affairs",,…,,,
 2010,no unit,public service,"health, environment, sports and recreation",,,,,1.15
 2011,no unit,public service,"health, environment, sports and recreation",,,,,1.15
@@ -294,14 +294,14 @@ Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,
 2014,no unit,public service,"health, environment, sports and recreation",,,,,1.17
 2015,no unit,public service,"health, environment, sports and recreation",,,,,1.18
 2016,no unit,public service,"health, environment, sports and recreation",,,,,1.19
-2017,no unit,public service,"health, environment, sports and recreation",,,,,1.09
+2017,no unit,public service,"health, environment, sports and recreation",,r,,,1.17
 2018,no unit,public service,"health, environment, sports and recreation",,,,,1.16
 2019,no unit,public service,"health, environment, sports and recreation",,,,,1.17
 2020,no unit,public service,"health, environment, sports and recreation",,,,,1.19
 2021,no unit,public service,"health, environment, sports and recreation",,,,,1.2
 2022,no unit,public service,"health, environment, sports and recreation",,,,,1.2
 2023,no unit,public service,"health, environment, sports and recreation",,p,,,1.2
-2024,no unit,public service,"health, environment, sports and recreation",,…,,,
+2024,no unit,public service,"health, environment, sports and recreation",,p,,,1.2
 2025,no unit,public service,"health, environment, sports and recreation",,…,,,
 2010,no unit,judiciary,,,,,,0.78
 2011,no unit,judiciary,,,,,,0.79

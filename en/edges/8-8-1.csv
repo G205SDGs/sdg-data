@@ -1,3 +1,5 @@
 From,To
 Time series,Sex
 Time series,COMMENT_OBS_0
+Sex,COMMENT_OBS_1
+COMMENT_OBS_0,COMMENT_OBS_1

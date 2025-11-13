@@ -10,8 +10,8 @@ Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,,,,,,3.4
 2019,,,,,,3.1
 2020,,,|,,,3.9
-2021,,,|,,,3.7
-2022,,,r,,,3.2
+2021,,,|,r,,3.6
+2022,,,r,,,3.1
 2023,,,,,,3.1
 2024,,,,,,3.4
 2010,15 bis unter 25 Jahre,,,,,9.8
@@ -28,7 +28,7 @@ Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,15 bis unter 25 Jahre,,|,,,7.0
 2022,15 bis unter 25 Jahre,,,,,6.0
 2023,15 bis unter 25 Jahre,,,,,5.9
-2024,15 bis unter 25 Jahre,,,,,6.6
+2024,15 bis unter 25 Jahre,,r,,,6.5
 2010,25 bis unter 75 Jahre,,,,,6.6
 2011,25 bis unter 75 Jahre,,,,,5.5
 2012,25 bis unter 75 Jahre,,,,,5.1
@@ -40,8 +40,8 @@ Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,25 bis unter 75 Jahre,,,,,3.1
 2019,25 bis unter 75 Jahre,,,,,2.9
 2020,25 bis unter 75 Jahre,,|,,,3.5
-2021,25 bis unter 75 Jahre,,|,,,3.3
-2022,25 bis unter 75 Jahre,,r,,,2.9
+2021,25 bis unter 75 Jahre,,|,r,,3.2
+2022,25 bis unter 75 Jahre,,r,,,2.8
 2023,25 bis unter 75 Jahre,,,,,2.8
 2024,25 bis unter 75 Jahre,,,,,3.0
 2010,,Weiblich,,,,6.5
@@ -70,7 +70,7 @@ Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,,Männlich,,,,3.8
 2019,,Männlich,,,,3.5
 2020,,Männlich,|,,,4.2
-2021,,Männlich,|,,,4.0
+2021,,Männlich,|,r,,3.9
 2022,,Männlich,,,,3.4
 2023,,Männlich,,,,3.3
 2024,,Männlich,,,,3.6

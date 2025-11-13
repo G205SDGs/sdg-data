@@ -13,6 +13,7 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,,,,,0.4
 2022,,,,,0.3
 2023,,,,,0.3
+2024,,,,,0.2
 2010,exposure to excessive natural heat,0,,,0.0
 2011,exposure to excessive natural heat,0,,,0.0
 2012,exposure to excessive natural heat,0,,,0.0
@@ -27,6 +28,7 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,exposure to excessive natural heat,0,,,0.0
 2022,exposure to excessive natural heat,0,,,0.0
 2023,exposure to excessive natural heat,0,,,0.0
+2024,exposure to excessive natural heat,0,,,0.0
 2010,exposure to excessive natural cold,,,,0.2
 2011,exposure to excessive natural cold,,,,0.1
 2012,exposure to excessive natural cold,,,,0.2
@@ -41,6 +43,7 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,exposure to excessive natural cold,,,,0.2
 2022,exposure to excessive natural cold,,,,0.2
 2023,exposure to excessive natural cold,,,,0.2
+2024,exposure to excessive natural cold,,,,0.2
 2010,exposure to sunlight,0,,,0.0
 2011,exposure to sunlight,‒,,,0.0
 2012,exposure to sunlight,‒,,,0.0
@@ -55,6 +58,7 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,exposure to sunlight,0,,,0.0
 2022,exposure to sunlight,0,,,0.0
 2023,exposure to sunlight,‒,,,0.0
+2024,exposure to sunlight,0,,,0.0
 2010,victim of lightning,‒,,,0.0
 2011,victim of lightning,0,,,0.0
 2012,victim of lightning,0,,,0.0
@@ -69,6 +73,7 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,victim of lightning,0,,,0.0
 2022,victim of lightning,0,,,0.0
 2023,victim of lightning,0,,,0.0
+2024,victim of lightning,0,,,0.0
 2010,victim of earthquake,‒,,,0.0
 2011,victim of earthquake,‒,,,0.0
 2012,victim of earthquake,‒,,,0.0
@@ -83,6 +88,7 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,victim of earthquake,‒,,,0.0
 2022,victim of earthquake,‒,,,0.0
 2023,victim of earthquake,‒,,,0.0
+2024,victim of earthquake,‒,,,0.0
 2010,victim of volcanic eruption,‒,,,0.0
 2011,victim of volcanic eruption,‒,,,0.0
 2012,victim of volcanic eruption,‒,,,0.0
@@ -97,6 +103,7 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,victim of volcanic eruption,‒,,,0.0
 2022,victim of volcanic eruption,‒,,,0.0
 2023,victim of volcanic eruption,‒,,,0.0
+2024,victim of volcanic eruption,‒,,,0.0
 2010,"victim of avalanche, landslide and other earth movements",0,,,0.0
 2011,"victim of avalanche, landslide and other earth movements",0,,,0.0
 2012,"victim of avalanche, landslide and other earth movements",0,,,0.0
@@ -111,6 +118,7 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"victim of avalanche, landslide and other earth movements",‒,,,0.0
 2022,"victim of avalanche, landslide and other earth movements",0,,,0.0
 2023,"victim of avalanche, landslide and other earth movements",‒,,,0.0
+2024,"victim of avalanche, landslide and other earth movements",0,,,0.0
 2010,victim of cataclysmic storm,0,,,0.0
 2011,victim of cataclysmic storm,0,,,0.0
 2012,victim of cataclysmic storm,‒,,,0.0
@@ -125,6 +133,7 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,victim of cataclysmic storm,‒,,,0.0
 2022,victim of cataclysmic storm,0,,,0.0
 2023,victim of cataclysmic storm,‒,,,0.0
+2024,victim of cataclysmic storm,0,,,0.0
 2010,victim of flood,‒,,,0.0
 2011,victim of flood,‒,,,0.0
 2012,victim of flood,‒,,,0.0
@@ -139,6 +148,7 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,victim of flood,,,,0.2
 2022,victim of flood,‒,,,0.0
 2023,victim of flood,0,,,0.0
+2024,victim of flood,0,,,0.0
 2010,exposure to other and unspecified forces of nature,0,,,0.0
 2011,exposure to other and unspecified forces of nature,0,,,0.0
 2012,exposure to other and unspecified forces of nature,0,,,0.0
@@ -153,3 +163,4 @@ Year,cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,exposure to other and unspecified forces of nature,‒,,,0.0
 2022,exposure to other and unspecified forces of nature,0,,,0.0
 2023,exposure to other and unspecified forces of nature,‒,,,0.0
+2024,exposure to other and unspecified forces of nature,‒,,,0.0

@@ -1,15 +1,38 @@
-Year,Value
-2010,43360
-2011,43358
-2012,48560
-2013,44725
-2014,49402
-2015,47345
-2016,49693
-2017,56142
-2018,59427
-2019,58727
-2020,42911
-2021,49399
-2022,49124
-2023,44728
+Year,Value,Series
+2010,22601,Documents issued for the import and export of protected species
+2011,20687,Documents issued for the import and export of protected species
+2012,21045,Documents issued for the import and export of protected species
+2013,21364,Documents issued for the import and export of protected species
+2014,23170,Documents issued for the import and export of protected species
+2015,23093,Documents issued for the import and export of protected species
+2018,31830,Documents issued for the import and export of protected species
+2019,30319,Documents issued for the import and export of protected species
+2021,24001,Documents issued for the import and export of protected species
+2022,21039,Documents issued for the import and export of protected species
+2023,19032,Documents issued for the import and export of protected species
+2010,946,Seizures by customs authorities concerning the protection of species
+2011,935,Seizures by customs authorities concerning the protection of species
+2012,811,Seizures by customs authorities concerning the protection of species
+2013,748,Seizures by customs authorities concerning the protection of species
+2014,692,Seizures by customs authorities concerning the protection of species
+2015,1159,Seizures by customs authorities concerning the protection of species
+2016,833,Seizures by customs authorities concerning the protection of species
+2018,1249,Seizures by customs authorities concerning the protection of species
+2019,1440,Seizures by customs authorities concerning the protection of species
+2020,1234,Seizures by customs authorities concerning the protection of species
+2021,1114,Seizures by customs authorities concerning the protection of species
+2022,1027,Seizures by customs authorities concerning the protection of species
+2010,43360,Authorized imports and exports of protected species
+2011,43358,Authorized imports and exports of protected species
+2012,48560,Authorized imports and exports of protected species
+2013,44725,Authorized imports and exports of protected species
+2014,49402,Authorized imports and exports of protected species
+2015,47345,Authorized imports and exports of protected species
+2016,49693,Authorized imports and exports of protected species
+2017,56142,Authorized imports and exports of protected species
+2018,59427,Authorized imports and exports of protected species
+2019,58727,Authorized imports and exports of protected species
+2020,42911,Authorized imports and exports of protected species
+2021,49399,Authorized imports and exports of protected species
+2022,49124,Authorized imports and exports of protected species
+2023,44728,Authorized imports and exports of protected species

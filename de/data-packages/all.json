@@ -131,7 +131,6 @@
                 "x",
                 "|",
                 "r",
-                "…",
                 ".",
                 ""
               ]
@@ -140,10 +139,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -681,9 +679,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -1599,8 +1598,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
                 ""
               ]
             },
@@ -1853,6 +1852,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 "p",
                 ""
               ]
@@ -3383,7 +3383,7 @@
             "constraints": {
               "enum": [
                 "p",
-                "…",
+                "r",
                 ""
               ]
             },
@@ -4527,6 +4527,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 ""
               ]
             },
@@ -4534,9 +4535,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -5795,8 +5797,8 @@
             "constraints": {
               "enum": [
                 "…",
-                "r",
                 "p",
+                "r",
                 ""
               ]
             },
@@ -6200,6 +6202,7 @@
               "enum": [
                 ".",
                 "|",
+                "r",
                 "p",
                 ""
               ]
@@ -8039,7 +8042,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -8943,8 +8946,8 @@
             "constraints": {
               "enum": [
                 "Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen",
-                "Relation zwischen regulatori-schem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen",
-                "Relation zwischen notleiden-den Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
+                "Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen",
+                "Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
                 "Anteil der notleidenden Kredite an den Bruttokrediten insgesamt",
                 "Gesamtkapitalrentabilität",
                 "Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten",
@@ -11465,6 +11468,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -12408,7 +12412,6 @@
             "constraints": {
               "enum": [
                 "‒",
-                "-",
                 ""
               ]
             },
@@ -13555,9 +13558,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -13705,10 +13709,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -14240,8 +14243,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
                 ""
               ]
             },
@@ -14504,9 +14507,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -14914,9 +14918,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             },
@@ -14941,6 +14947,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
+                "Genehmigte Ein- und Ausfuhren geschützter Arten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -14968,9 +14987,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             },
@@ -14995,6 +15016,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
+                "Genehmigte Ein- und Ausfuhren geschützter Arten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -15042,6 +15076,7 @@
               "enum": [
                 "|",
                 "p",
+                "r",
                 ""
               ]
             },
@@ -15921,6 +15956,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 ""
               ]
             },

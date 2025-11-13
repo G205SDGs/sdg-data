@@ -121,7 +121,6 @@
                 "x",
                 "|",
                 "r",
-                "…",
                 ".",
                 ""
               ]
@@ -129,10 +128,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -624,9 +622,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -1461,8 +1460,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
                 ""
               ]
             }
@@ -1693,6 +1692,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 "p",
                 ""
               ]
@@ -3056,7 +3056,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3091,7 +3091,7 @@
             "constraints": {
               "enum": [
                 "p",
-                "…",
+                "r",
                 ""
               ]
             }
@@ -4135,15 +4135,17 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -5295,8 +5297,8 @@
             "constraints": {
               "enum": [
                 "…",
-                "r",
                 "p",
+                "r",
                 ""
               ]
             }
@@ -5664,6 +5666,7 @@
               "enum": [
                 ".",
                 "|",
+                "r",
                 "p",
                 ""
               ]
@@ -7344,7 +7347,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -10470,6 +10473,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -11330,7 +11334,6 @@
             "constraints": {
               "enum": [
                 "‒",
-                "-",
                 ""
               ]
             }
@@ -12379,9 +12382,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -12516,10 +12520,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -13005,8 +13008,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
                 ""
               ]
             }
@@ -13246,9 +13249,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -13621,9 +13625,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             }
@@ -13642,6 +13648,18 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "documents issued for the import and export of protected species",
+                "seizures by customs authorities concerning the protection of species",
+                "authorized imports and exports of protected species",
                 ""
               ]
             }
@@ -13670,9 +13688,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             }
@@ -13691,6 +13711,18 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "documents issued for the import and export of protected species",
+                "seizures by customs authorities concerning the protection of species",
+                "authorized imports and exports of protected species",
                 ""
               ]
             }
@@ -13738,6 +13770,7 @@
               "enum": [
                 "|",
                 "p",
+                "r",
                 ""
               ]
             }
@@ -14539,6 +14572,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 ""
               ]
             }

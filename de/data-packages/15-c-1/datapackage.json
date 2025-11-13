@@ -17,9 +17,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             },
@@ -44,6 +46,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
+                "Genehmigte Ein- und Ausfuhren geschützter Arten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
