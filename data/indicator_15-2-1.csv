@@ -25,19 +25,20 @@ Year,Units,type of biomass,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2020,percentage,,.,,,forest area located within protected areas,
 2021,percentage,,,,,forest area located within protected areas,0.6
 2010,percentage,,,,,forest area net change rate,0.1
-2011,percentage,,r,,,forest area net change rate,1.0
-2012,percentage,,r,,,forest area net change rate,0.1
-2013,percentage,,r,,,forest area net change rate,0.2
+2011,percentage,,,,,forest area net change rate,1.0
+2012,percentage,,,,,forest area net change rate,0.1
+2013,percentage,,,,,forest area net change rate,0.2
 2014,percentage,,,,,forest area net change rate,0.2
 2015,percentage,,,,,forest area net change rate,0.2
-2016,percentage,,|,r,,forest area net change rate,0.3
-2017,percentage,,r,,,forest area net change rate,0.4
-2018,percentage,,r,,,forest area net change rate,0.3
-2019,percentage,,r,,,forest area net change rate,0.1
+2016,percentage,,|,,,forest area net change rate,0.3
+2017,percentage,,,,,forest area net change rate,0.4
+2018,percentage,,,,,forest area net change rate,0.3
+2019,percentage,,,,,forest area net change rate,0.1
 2020,percentage,,,,,forest area net change rate,0.1
 2021,percentage,,,,,forest area net change rate,0.1
 2022,percentage,,,,,forest area net change rate,0.2
 2023,percentage,,,,,forest area net change rate,0.2
+2024,percentage,,,,,forest area net change rate,0.1
 2010,percentage,,,,,forest area under an independently verified forest management certification scheme,67.5
 2011,percentage,,,,,forest area under an independently verified forest management certification scheme,67.2
 2012,percentage,,,,,forest area under an independently verified forest management certification scheme,66.9
