@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -22,6 +22,7 @@
               "enum": [
                 "Per 100,000 inhabitants",
                 "Number",
+                "Percentage",
                 ""
               ]
             },
@@ -55,12 +56,27 @@
             "title": "Sex"
           },
           {
+            "name": "typ of victim-suspect relationship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Intimate partner or family member",
+                "Intimate partner",
+                "Family member",
+                ""
+              ]
+            },
+            "title": "Typ of victim-suspect relationship"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
+                "|",
+                "‒",
                 ".",
+                "0",
                 ""
               ]
             },

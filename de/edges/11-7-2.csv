@@ -1,4 +1,5 @@
 From,To
-Zeitreihe,Altersklasse
-Zeitreihe,Geschlecht
-Zeitreihe,COMMENT_OBS_0
+Art der Belästigung,Altersklasse
+Art der Belästigung,Geschlecht
+Art der Belästigung,COMMENT_OBS_0
+COMMENT_OBS_0,COMMENT_OBS_1

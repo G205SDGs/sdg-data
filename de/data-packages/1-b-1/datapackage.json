@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                "r",
                 "p",
                 ""
               ]
@@ -46,18 +46,6 @@
               ]
             },
             "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Armutsgefährdungsquote",
-                "Staatsausgaben für soziale Sicherung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",

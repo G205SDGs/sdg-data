@@ -16,16 +16,29 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of non-sexual harassment",
-                "Victims of sexual harassment",
+                "Per 100,000 inhabitants",
+                "Number",
+                "Percentage",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Units"
+          },
+          {
+            "name": "type of harassment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-sexual harassment",
+                "Sexual harassment",
+                ""
+              ]
+            },
+            "title": "Type of harassment"
           },
           {
             "name": "age group",
@@ -60,6 +73,10 @@
             "constraints": {
               "enum": [
                 "|",
+                ".",
+                "‒",
+                "r",
+                "0",
                 ""
               ]
             },
@@ -67,9 +84,12 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
+                "r",
+                "0",
                 ""
               ]
             },
@@ -87,7 +107,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to under 75 years",
                 "16 to under 25 years",
                 "25 to under 65 years",
                 "65 to under 75 years",

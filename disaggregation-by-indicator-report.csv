@@ -22,7 +22,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-5-1,"COMMENT_OBS_0, cause of death",2
 #11-6-1,COMMENT_OBS_0,1
 #11-6-2,fine particulate matter,1
-#11-7-2,"timeseries, COMMENT_OBS_0, age group, sex",4
+#11-7-2,"COMMENT_OBS_0, COMMENT_OBS_1, age group, sex, type of harassment",5
 #12-2-1,COMMENT_OBS_0,1
 #12-2-2,COMMENT_OBS_0,1
 #12-3-1,"COMMENT_OBS_0, stages of the food chain",2
@@ -55,7 +55,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-a-1,"timeseries, COMMENT_OBS_0",2
 #15-b-1,"timeseries, COMMENT_OBS_0",2
 #15-c-1,COMMENT_OBS_0,1
-#16-1-1,"COMMENT_OBS_0, age group, sex",3
+#16-1-1,"COMMENT_OBS_0, age group, sex, typ of victim-suspect relationship",4
 #16-1-2,COMMENT_OBS_0,1
 #16-1-3,"timeseries, COMMENT_OBS_0, age group, sex",4
 #16-1-4,"COMMENT_OBS_0, age group, sex, feelings of insecurity",4
@@ -92,12 +92,12 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-1,"sex, percentile",2
 #2-1-2,COMMENT_OBS_0,1
 #2-2-1,sex,1
-#2-2-2,"timeseries, COMMENT_OBS_0, sex",3
+#2-2-2,"timeseries, sex",2
 #2-2-3,age group,1
 #2-3-1,"COMMENT_OBS_0, economic activity",2
 #2-4-1,"timeseries, COMMENT_OBS_0, länder",3
 #2-5-1,COMMENT_OBS_0,1
-#2-5-2,"timeseries, COMMENT_OBS_0, level of risk of extinction",3
+#2-5-2,"COMMENT_OBS_0, type of classification, level of risk of extinction",3
 #2-a-1,COMMENT_OBS_0,1
 #2-b-1,COMMENT_OBS_0,1
 #3-1-2,"timeseries, COMMENT_OBS_0",2

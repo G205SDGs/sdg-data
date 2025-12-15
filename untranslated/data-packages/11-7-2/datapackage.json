@@ -15,12 +15,24 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "victims of non-sexual harassment",
-                "victims of sexual harassment",
+                "per 100,000 inhabitants",
+                "number",
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of harassment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "non-sexual harassment",
+                "sexual harassment",
                 ""
               ]
             }
@@ -56,15 +68,22 @@
             "constraints": {
               "enum": [
                 "|",
+                ".",
+                "‒",
+                "r",
+                "0",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
+                "r",
+                "0",
                 ""
               ]
             }
@@ -80,7 +99,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -16,24 +16,11 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Number",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
                 "15 to under 25 years",
-                "15 to under 65 years",
                 "25 to under 55 years",
                 "55 to under 65 years",
                 ""

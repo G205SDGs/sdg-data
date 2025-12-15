@@ -16,16 +16,29 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Opfer nicht-sexueller Belästigung",
-                "Opfer sexueller Belästigung",
+                "Je 100 000 Einwohner/-innen",
+                "Anzahl",
+                "Prozent",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Units"
+          },
+          {
+            "name": "type of harassment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nicht-sexuelle Belästigung",
+                "Sexuelle Belästigung",
+                ""
+              ]
+            },
+            "title": "Art der Belästigung"
           },
           {
             "name": "age group",
@@ -60,6 +73,10 @@
             "constraints": {
               "enum": [
                 "|",
+                ".",
+                "‒",
+                "r",
+                "0",
                 ""
               ]
             },
@@ -67,9 +84,12 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
+                "r",
+                "0",
                 ""
               ]
             },
@@ -87,7 +107,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

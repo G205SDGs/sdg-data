@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                "r",
                 "p",
                 ""
               ]
@@ -46,18 +46,6 @@
               ]
             },
             "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At-risk-of-poverty rate",
-                "Government expenditure on social protection",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "Value",

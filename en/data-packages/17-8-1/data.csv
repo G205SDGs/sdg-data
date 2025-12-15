@@ -1,49 +1,49 @@
 Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,16 to under 75 years,,,,,80
-2011,16 to under 75 years,,,,,81
-2012,16 to under 75 years,,,,,82
-2013,16 to under 75 years,,,,,84
-2014,16 to under 75 years,,,,,86
-2015,16 to under 75 years,,,,,88
-2016,16 to under 75 years,,,,,90
-2017,16 to under 75 years,,,,,90
-2018,16 to under 75 years,,,,,92
-2019,16 to under 75 years,,,,,93
-2020,16 to under 75 years,,,,,94
-2021,16 to under 75 years,,|,,,91
-2022,16 to under 75 years,,,,,92
-2023,16 to under 75 years,,,,,92
-2024,16 to under 75 years,,,,,94
-2010,16 to under 75 years,Female,,,,76
-2011,16 to under 75 years,Female,,,,78
-2012,16 to under 75 years,Female,,,,79
-2013,16 to under 75 years,Female,,,,81
-2014,16 to under 75 years,Female,,,,84
-2015,16 to under 75 years,Female,,,,85
-2016,16 to under 75 years,Female,,,,88
-2017,16 to under 75 years,Female,,,,89
-2018,16 to under 75 years,Female,,,,91
-2019,16 to under 75 years,Female,,,,92
-2020,16 to under 75 years,Female,,,,93
-2021,16 to under 75 years,Female,|,,,91
-2022,16 to under 75 years,Female,,,,90
-2023,16 to under 75 years,Female,,,,91
-2024,16 to under 75 years,Female,,,,93
-2010,16 to under 75 years,Male,,,,84
-2011,16 to under 75 years,Male,,,,84
-2012,16 to under 75 years,Male,,,,85
-2013,16 to under 75 years,Male,,,,87
-2014,16 to under 75 years,Male,,,,89
-2015,16 to under 75 years,Male,,,,90
-2016,16 to under 75 years,Male,,,,91
-2017,16 to under 75 years,Male,,,,92
-2018,16 to under 75 years,Male,,,,94
-2019,16 to under 75 years,Male,,,,94
-2020,16 to under 75 years,Male,,,,95
-2021,16 to under 75 years,Male,|,,,92
-2022,16 to under 75 years,Male,,,,93
-2023,16 to under 75 years,Male,,,,93
-2024,16 to under 75 years,Male,,,,94
+2010,,,,,,80
+2011,,,,,,81
+2012,,,,,,82
+2013,,,,,,84
+2014,,,,,,86
+2015,,,,,,88
+2016,,,,,,90
+2017,,,,,,90
+2018,,,,,,92
+2019,,,,,,93
+2020,,,,,,94
+2021,,,|,,,91
+2022,,,,,,92
+2023,,,,,,92
+2024,,,,,,94
+2010,,Female,,,,76
+2011,,Female,,,,78
+2012,,Female,,,,79
+2013,,Female,,,,81
+2014,,Female,,,,84
+2015,,Female,,,,85
+2016,,Female,,,,88
+2017,,Female,,,,89
+2018,,Female,,,,91
+2019,,Female,,,,92
+2020,,Female,,,,93
+2021,,Female,|,,,91
+2022,,Female,,,,90
+2023,,Female,,,,91
+2024,,Female,,,,93
+2010,,Male,,,,84
+2011,,Male,,,,84
+2012,,Male,,,,85
+2013,,Male,,,,87
+2014,,Male,,,,89
+2015,,Male,,,,90
+2016,,Male,,,,91
+2017,,Male,,,,92
+2018,,Male,,,,94
+2019,,Male,,,,94
+2020,,Male,,,,95
+2021,,Male,|,,,92
+2022,,Male,,,,93
+2023,,Male,,,,93
+2024,,Male,,,,94
 2010,16 to under 25 years,,,,,98
 2011,16 to under 25 years,,,,,99
 2012,16 to under 25 years,,,,,98

@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                "r",
                 "p",
                 ""
               ]
@@ -39,17 +39,6 @@
             "type": "number",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "at-risk-of-poverty rate",
-                "government expenditure on social protection",
                 ""
               ]
             }

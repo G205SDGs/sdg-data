@@ -28,17 +28,16 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "type of classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gefährdungskategorie (nach FAO-Klassifikation)",
-                "Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",
-                "Gefährdungskategorie (nach nationaler Klassifikation)",
+                "FAO-Klassifikation",
+                "Nationale Klassifikation",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art der Klassifikation"
           },
           {
             "name": "level of risk of extinction",
@@ -47,9 +46,9 @@
               "enum": [
                 "Gefährdet",
                 "Nicht gefährdet",
-                "Beobachtungspopulationen",
-                "Erhaltungspopulationen",
-                "Phänotypische Erhaltungspopulationen",
+                "Beobachtungspopulation",
+                "Erhaltungspopulation",
+                "Phänotypische Erhaltungspopulation",
                 ""
               ]
             },
@@ -61,7 +60,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },

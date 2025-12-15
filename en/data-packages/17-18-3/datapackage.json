@@ -12,32 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
+            "name": "COMMENT_OBS_0",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Units"
+            "title": "COMMENT_OBS_0"
           },
           {
-            "name": "timeseries",
-            "type": "string",
+            "name": "COMMENT_OBS_1",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -1,99 +1,169 @@
-Year,Units,Time series,Level of risk of extinction,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2011,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2012,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2013,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2014,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2015,Percentage,Level of risk of extinction (according to FAO classification),At risk,,,,45.45
-2016,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2017,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2018,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2019,Percentage,Level of risk of extinction (according to FAO classification),At risk,,,,87.5
-2020,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2021,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2022,Percentage,Level of risk of extinction (according to FAO classification),At risk,.,,,
-2023,Percentage,Level of risk of extinction (according to FAO classification),At risk,…,,,
-2010,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,.,,,
-2011,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,.,,,
-2012,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,.,,,
-2013,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,.,,,
-2014,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,.,,,
-2015,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,,,,54.55
-2016,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,.,,,
-2017,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,.,,,
-2018,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,.,,,
-2019,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,,,,12.5
-2020,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,.,,,
-2021,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,.,,,
-2022,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,…,,,
-2023,Percentage,Level of risk of extinction (according to FAO classification),Not at risk,…,,,
-2010,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
-2011,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,74.0
-2012,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
-2013,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,75.0
-2014,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
-2015,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,77.0
-2016,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
-2017,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,77.0
-2018,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
-2019,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,80.0
-2020,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
-2021,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,81.0
-2022,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,.,,,
-2023,Number,"Local livestock breeds (horses, cows, pigs, sheep and goats)",,,,,83.0
-2010,Percentage,Level of risk of extinction (according to national classification),Not at risk,.,,,
-2011,Percentage,Level of risk of extinction (according to national classification),Not at risk,,,,29.7
-2012,Percentage,Level of risk of extinction (according to national classification),Not at risk,.,,,
-2013,Percentage,Level of risk of extinction (according to national classification),Not at risk,,,,30.7
-2014,Percentage,Level of risk of extinction (according to national classification),Not at risk,.,,,
-2015,Percentage,Level of risk of extinction (according to national classification),Not at risk,,,,28.6
-2016,Percentage,Level of risk of extinction (according to national classification),Not at risk,.,,,
-2017,Percentage,Level of risk of extinction (according to national classification),Not at risk,,,,29.9
-2018,Percentage,Level of risk of extinction (according to national classification),Not at risk,.,,,
-2019,Percentage,Level of risk of extinction (according to national classification),Not at risk,,,,30.0
-2020,Percentage,Level of risk of extinction (according to national classification),Not at risk,.,,,
-2021,Percentage,Level of risk of extinction (according to national classification),Not at risk,,,,28.4
-2022,Percentage,Level of risk of extinction (according to national classification),Not at risk,.,,,
-2023,Percentage,Level of risk of extinction (according to national classification),Not at risk,,,,28.9
-2010,Percentage,Level of risk of extinction (according to national classification),Under observation,.,,,
-2011,Percentage,Level of risk of extinction (according to national classification),Under observation,,,,39.2
-2012,Percentage,Level of risk of extinction (according to national classification),Under observation,.,,,
-2013,Percentage,Level of risk of extinction (according to national classification),Under observation,,,,42.7
-2014,Percentage,Level of risk of extinction (according to national classification),Under observation,.,,,
-2015,Percentage,Level of risk of extinction (according to national classification),Under observation,,,,46.8
-2016,Percentage,Level of risk of extinction (according to national classification),Under observation,.,,,
-2017,Percentage,Level of risk of extinction (according to national classification),Under observation,,,,46.8
-2018,Percentage,Level of risk of extinction (according to national classification),Under observation,.,,,
-2019,Percentage,Level of risk of extinction (according to national classification),Under observation,,,,45.0
-2020,Percentage,Level of risk of extinction (according to national classification),Under observation,.,,,
-2021,Percentage,Level of risk of extinction (according to national classification),Under observation,,,,44.4
-2022,Percentage,Level of risk of extinction (according to national classification),Under observation,.,,,
-2023,Percentage,Level of risk of extinction (according to national classification),Under observation,,,,43.4
-2010,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,.,,,
-2011,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,,,,24.3
-2012,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,.,,,
-2013,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,,,,20.0
-2014,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,.,,,
-2015,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,,,,18.2
-2016,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,.,,,
-2017,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,,,,16.9
-2018,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,.,,,
-2019,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,,,,17.5
-2020,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,.,,,
-2021,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,,,,18.5
-2022,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,.,,,
-2023,Percentage,Level of risk of extinction (according to national classification),Breeding programs for preservation,,,,19.3
-2010,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,.,,,
-2011,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,,,,6.8
-2012,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,.,,,
-2013,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,,,,6.7
-2014,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,.,,,
-2015,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,,,,6.5
-2016,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,.,,,
-2017,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,,,,6.5
-2018,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,.,,,
-2019,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,,,,7.5
-2020,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,.,,,
-2021,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,,,,8.6
-2022,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,.,,,
-2023,Percentage,Level of risk of extinction (according to national classification),Rudiments remaining,,,,8.4
+Year,Units,Type of classification,Level of risk of extinction,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Percentage,FAO classification,At risk,.,,,
+2011,Percentage,FAO classification,At risk,.,,,
+2012,Percentage,FAO classification,At risk,.,,,
+2013,Percentage,FAO classification,At risk,.,,,
+2014,Percentage,FAO classification,At risk,.,,,
+2015,Percentage,FAO classification,At risk,,,,45.45
+2016,Percentage,FAO classification,At risk,.,,,
+2017,Percentage,FAO classification,At risk,.,,,
+2018,Percentage,FAO classification,At risk,.,,,
+2019,Percentage,FAO classification,At risk,,,,87.5
+2020,Percentage,FAO classification,At risk,.,,,
+2021,Percentage,FAO classification,At risk,.,,,
+2022,Percentage,FAO classification,At risk,.,,,
+2023,Percentage,FAO classification,At risk,,,,87.95
+2010,Percentage,FAO classification,Not at risk,.,,,
+2011,Percentage,FAO classification,Not at risk,.,,,
+2012,Percentage,FAO classification,Not at risk,.,,,
+2013,Percentage,FAO classification,Not at risk,.,,,
+2014,Percentage,FAO classification,Not at risk,.,,,
+2015,Percentage,FAO classification,Not at risk,,,,54.55
+2016,Percentage,FAO classification,Not at risk,.,,,
+2017,Percentage,FAO classification,Not at risk,.,,,
+2018,Percentage,FAO classification,Not at risk,.,,,
+2019,Percentage,FAO classification,Not at risk,,,,12.5
+2020,Percentage,FAO classification,Not at risk,.,,,
+2021,Percentage,FAO classification,Not at risk,.,,,
+2022,Percentage,FAO classification,Not at risk,.,,,
+2023,Percentage,FAO classification,Not at risk,,,,12.05
+2010,Percentage,National classification,Not at risk,.,,,
+2011,Percentage,National classification,Not at risk,,,,29.7
+2012,Percentage,National classification,Not at risk,.,,,
+2013,Percentage,National classification,Not at risk,,,,30.7
+2014,Percentage,National classification,Not at risk,.,,,
+2015,Percentage,National classification,Not at risk,,,,28.6
+2016,Percentage,National classification,Not at risk,.,,,
+2017,Percentage,National classification,Not at risk,,,,29.9
+2018,Percentage,National classification,Not at risk,.,,,
+2019,Percentage,National classification,Not at risk,,,,30.0
+2020,Percentage,National classification,Not at risk,.,,,
+2021,Percentage,National classification,Not at risk,,,,28.4
+2022,Percentage,National classification,Not at risk,.,,,
+2023,Percentage,National classification,Not at risk,,,,28.9
+2010,Percentage,National classification,Monitoring Population,.,,,
+2011,Percentage,National classification,Monitoring Population,,,,39.2
+2012,Percentage,National classification,Monitoring Population,.,,,
+2013,Percentage,National classification,Monitoring Population,,,,42.7
+2014,Percentage,National classification,Monitoring Population,.,,,
+2015,Percentage,National classification,Monitoring Population,,,,46.8
+2016,Percentage,National classification,Monitoring Population,.,,,
+2017,Percentage,National classification,Monitoring Population,,,,46.8
+2018,Percentage,National classification,Monitoring Population,.,,,
+2019,Percentage,National classification,Monitoring Population,,,,45.0
+2020,Percentage,National classification,Monitoring Population,.,,,
+2021,Percentage,National classification,Monitoring Population,,,,44.4
+2022,Percentage,National classification,Monitoring Population,.,,,
+2023,Percentage,National classification,Monitoring Population,,,,43.4
+2010,Percentage,National classification,Conservation Population,.,,,
+2011,Percentage,National classification,Conservation Population,,,,24.3
+2012,Percentage,National classification,Conservation Population,.,,,
+2013,Percentage,National classification,Conservation Population,,,,20.0
+2014,Percentage,National classification,Conservation Population,.,,,
+2015,Percentage,National classification,Conservation Population,,,,18.2
+2016,Percentage,National classification,Conservation Population,.,,,
+2017,Percentage,National classification,Conservation Population,,,,16.9
+2018,Percentage,National classification,Conservation Population,.,,,
+2019,Percentage,National classification,Conservation Population,,,,17.5
+2020,Percentage,National classification,Conservation Population,.,,,
+2021,Percentage,National classification,Conservation Population,,,,18.5
+2022,Percentage,National classification,Conservation Population,.,,,
+2023,Percentage,National classification,Conservation Population,,,,19.3
+2010,Percentage,National classification,Phenotypic Conservation Populations,.,,,
+2011,Percentage,National classification,Phenotypic Conservation Populations,,,,6.8
+2012,Percentage,National classification,Phenotypic Conservation Populations,.,,,
+2013,Percentage,National classification,Phenotypic Conservation Populations,,,,6.7
+2014,Percentage,National classification,Phenotypic Conservation Populations,.,,,
+2015,Percentage,National classification,Phenotypic Conservation Populations,,,,6.5
+2016,Percentage,National classification,Phenotypic Conservation Populations,.,,,
+2017,Percentage,National classification,Phenotypic Conservation Populations,,,,6.5
+2018,Percentage,National classification,Phenotypic Conservation Populations,.,,,
+2019,Percentage,National classification,Phenotypic Conservation Populations,,,,7.5
+2020,Percentage,National classification,Phenotypic Conservation Populations,.,,,
+2021,Percentage,National classification,Phenotypic Conservation Populations,,,,8.6
+2022,Percentage,National classification,Phenotypic Conservation Populations,.,,,
+2023,Percentage,National classification,Phenotypic Conservation Populations,,,,8.4
+2010,Number,FAO classification,At risk,.,,,
+2011,Number,FAO classification,At risk,.,,,
+2012,Number,FAO classification,At risk,.,,,
+2013,Number,FAO classification,At risk,.,,,
+2014,Number,FAO classification,At risk,.,,,
+2015,Number,FAO classification,At risk,,,,35.0
+2016,Number,FAO classification,At risk,.,,,
+2017,Number,FAO classification,At risk,.,,,
+2018,Number,FAO classification,At risk,.,,,
+2019,Number,FAO classification,At risk,,,,70.0
+2020,Number,FAO classification,At risk,.,,,
+2021,Number,FAO classification,At risk,.,,,
+2022,Number,FAO classification,At risk,.,,,
+2023,Number,FAO classification,At risk,,,,73.0
+2010,Number,FAO classification,Not at risk,.,,,
+2011,Number,FAO classification,Not at risk,.,,,
+2012,Number,FAO classification,Not at risk,.,,,
+2013,Number,FAO classification,Not at risk,.,,,
+2014,Number,FAO classification,Not at risk,.,,,
+2015,Number,FAO classification,Not at risk,,,,42.0
+2016,Number,FAO classification,Not at risk,.,,,
+2017,Number,FAO classification,Not at risk,.,,,
+2018,Number,FAO classification,Not at risk,.,,,
+2019,Number,FAO classification,Not at risk,,,,10.0
+2020,Number,FAO classification,Not at risk,.,,,
+2021,Number,FAO classification,Not at risk,.,,,
+2022,Number,FAO classification,Not at risk,.,,,
+2023,Number,FAO classification,Not at risk,,,,10.0
+2010,Number,National classification,Not at risk,.,,,
+2011,Number,National classification,Not at risk,,,,22.0
+2012,Number,National classification,Not at risk,.,,,
+2013,Number,National classification,Not at risk,,,,23.0
+2014,Number,National classification,Not at risk,.,,,
+2015,Number,National classification,Not at risk,,,,22.0
+2016,Number,National classification,Not at risk,.,,,
+2017,Number,National classification,Not at risk,,,,23.0
+2018,Number,National classification,Not at risk,.,,,
+2019,Number,National classification,Not at risk,,,,24.0
+2020,Number,National classification,Not at risk,.,,,
+2021,Number,National classification,Not at risk,,,,23.0
+2022,Number,National classification,Not at risk,.,,,
+2023,Number,National classification,Not at risk,,,,24.0
+2010,Number,National classification,Monitoring Population,.,,,
+2011,Number,National classification,Monitoring Population,,,,29.0
+2012,Number,National classification,Monitoring Population,.,,,
+2013,Number,National classification,Monitoring Population,,,,32.0
+2014,Number,National classification,Monitoring Population,.,,,
+2015,Number,National classification,Monitoring Population,,,,36.0
+2016,Number,National classification,Monitoring Population,.,,,
+2017,Number,National classification,Monitoring Population,,,,36.0
+2018,Number,National classification,Monitoring Population,.,,,
+2019,Number,National classification,Monitoring Population,,,,36.0
+2020,Number,National classification,Monitoring Population,.,,,
+2021,Number,National classification,Monitoring Population,,,,36.0
+2022,Number,National classification,Monitoring Population,.,,,
+2023,Number,National classification,Monitoring Population,,,,36.0
+2010,Number,National classification,Conservation Population,.,,,
+2011,Number,National classification,Conservation Population,,,,18.0
+2012,Number,National classification,Conservation Population,.,,,
+2013,Number,National classification,Conservation Population,,,,15.0
+2014,Number,National classification,Conservation Population,.,,,
+2015,Number,National classification,Conservation Population,,,,14.0
+2016,Number,National classification,Conservation Population,.,,,
+2017,Number,National classification,Conservation Population,,,,13.0
+2018,Number,National classification,Conservation Population,.,,,
+2019,Number,National classification,Conservation Population,,,,14.0
+2020,Number,National classification,Conservation Population,.,,,
+2021,Number,National classification,Conservation Population,,,,15.0
+2022,Number,National classification,Conservation Population,.,,,
+2023,Number,National classification,Conservation Population,,,,16.0
+2010,Number,National classification,Phenotypic Conservation Populations,.,,,
+2011,Number,National classification,Phenotypic Conservation Populations,,,,5.0
+2012,Number,National classification,Phenotypic Conservation Populations,.,,,
+2013,Number,National classification,Phenotypic Conservation Populations,,,,5.0
+2014,Number,National classification,Phenotypic Conservation Populations,.,,,
+2015,Number,National classification,Phenotypic Conservation Populations,,,,5.0
+2016,Number,National classification,Phenotypic Conservation Populations,.,,,
+2017,Number,National classification,Phenotypic Conservation Populations,,,,5.0
+2018,Number,National classification,Phenotypic Conservation Populations,.,,,
+2019,Number,National classification,Phenotypic Conservation Populations,,,,6.0
+2020,Number,National classification,Phenotypic Conservation Populations,.,,,
+2021,Number,National classification,Phenotypic Conservation Populations,,,,7.0
+2022,Number,National classification,Phenotypic Conservation Populations,.,,,
+2023,Number,National classification,Phenotypic Conservation Populations,,,,7.0

@@ -1898,24 +1898,11 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Number",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
                 "15 to under 25 years",
-                "15 to under 65 years",
                 "25 to under 55 years",
                 "55 to under 65 years",
                 ""
@@ -2018,10 +2005,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
                 ""
               ]
             },
@@ -6727,17 +6713,16 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "type of classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Level of risk of extinction (according to FAO classification)",
-                "Local livestock breeds (horses, cows, pigs, sheep and goats)",
-                "Level of risk of extinction (according to national classification)",
+                "FAO classification",
+                "National classification",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Type of classification"
           },
           {
             "name": "level of risk of extinction",
@@ -6746,9 +6731,9 @@
               "enum": [
                 "At risk",
                 "Not at risk",
-                "Under observation",
-                "Breeding programs for preservation",
-                "Rudiments remaining",
+                "Monitoring Population",
+                "Conservation Population",
+                "Phenotypic Conservation Populations",
                 ""
               ]
             },
@@ -6760,7 +6745,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },
@@ -8217,32 +8201,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
+            "name": "COMMENT_OBS_0",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Units"
+            "title": "COMMENT_OBS_0"
           },
           {
-            "name": "timeseries",
-            "type": "string",
+            "name": "COMMENT_OBS_1",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -9363,6 +9357,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "r",
                 ""
               ]
             },
@@ -10516,7 +10511,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to under 75 years",
                 "16 to under 25 years",
                 "25 to under 65 years",
                 "65 to under 75 years",
@@ -10788,7 +10782,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                "r",
                 "p",
                 ""
               ]
@@ -10814,18 +10808,6 @@
               ]
             },
             "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At-risk-of-poverty rate",
-                "Government expenditure on social protection",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "Value",
@@ -11255,7 +11237,6 @@
                 "Berlin",
                 "Brandenburg",
                 "Bremen",
-                "Hamburg",
                 "Hesse",
                 "Mecklenburg Western Pomerania",
                 "Lower Saxony",
@@ -13167,16 +13148,29 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of non-sexual harassment",
-                "Victims of sexual harassment",
+                "Per 100,000 inhabitants",
+                "Number",
+                "Percentage",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Units"
+          },
+          {
+            "name": "type of harassment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-sexual harassment",
+                "Sexual harassment",
+                ""
+              ]
+            },
+            "title": "Type of harassment"
           },
           {
             "name": "age group",
@@ -13211,6 +13205,10 @@
             "constraints": {
               "enum": [
                 "|",
+                ".",
+                "‒",
+                "r",
+                "0",
                 ""
               ]
             },
@@ -13218,9 +13216,12 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
+                "r",
+                "0",
                 ""
               ]
             },
@@ -13238,7 +13239,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -14387,7 +14388,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -14402,6 +14403,7 @@
               "enum": [
                 "Per 100,000 inhabitants",
                 "Number",
+                "Percentage",
                 ""
               ]
             },
@@ -14435,12 +14437,27 @@
             "title": "Sex"
           },
           {
+            "name": "typ of victim-suspect relationship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Intimate partner or family member",
+                "Intimate partner",
+                "Family member",
+                ""
+              ]
+            },
+            "title": "Typ of victim-suspect relationship"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
+                "|",
+                "‒",
                 ".",
+                "0",
                 ""
               ]
             },

@@ -22,6 +22,7 @@
               "enum": [
                 "Je 100 000 Einwohner/-innen",
                 "Anzahl",
+                "Prozent",
                 ""
               ]
             },
@@ -55,12 +56,27 @@
             "title": "Geschlecht"
           },
           {
+            "name": "typ of victim-suspect relationship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Intimpartner oder Familienmitglied",
+                "Intimpartner",
+                "Familienmitglied",
+                ""
+              ]
+            },
+            "title": "Art der Opfer-Tatverdächtigen-Beziehung"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
+                "|",
+                "‒",
                 ".",
+                "0",
                 ""
               ]
             },

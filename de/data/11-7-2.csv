@@ -1,505 +1,1621 @@
-Year,Zeitreihe,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Opfer nicht-sexueller Belästigung,,,,,,28870
-2011,Opfer nicht-sexueller Belästigung,,,,,,26876
-2012,Opfer nicht-sexueller Belästigung,,,,,,26360
-2013,Opfer nicht-sexueller Belästigung,,,,,,25517
-2014,Opfer nicht-sexueller Belästigung,,,,,,23303
-2015,Opfer nicht-sexueller Belästigung,,,,,,21070
-2016,Opfer nicht-sexueller Belästigung,,,,,,19949
-2017,Opfer nicht-sexueller Belästigung,,,|,,,29980
-2018,Opfer nicht-sexueller Belästigung,,,,,,34907
-2019,Opfer nicht-sexueller Belästigung,,,,,,34643
-2020,Opfer nicht-sexueller Belästigung,,,,,,34666
-2021,Opfer nicht-sexueller Belästigung,,,,,,35926
-2022,Opfer nicht-sexueller Belästigung,,,,,,41739
-2023,Opfer nicht-sexueller Belästigung,,,,,,45766
-2010,Opfer nicht-sexueller Belästigung,,Weiblich,,,,22909
-2011,Opfer nicht-sexueller Belästigung,,Weiblich,,,,21414
-2012,Opfer nicht-sexueller Belästigung,,Weiblich,,,,21217
-2013,Opfer nicht-sexueller Belästigung,,Weiblich,,,,20455
-2014,Opfer nicht-sexueller Belästigung,,Weiblich,,,,18682
-2015,Opfer nicht-sexueller Belästigung,,Weiblich,,,,16941
-2016,Opfer nicht-sexueller Belästigung,,Weiblich,,,,16115
-2017,Opfer nicht-sexueller Belästigung,,Weiblich,|,,,25609
-2018,Opfer nicht-sexueller Belästigung,,Weiblich,,,,30104
-2019,Opfer nicht-sexueller Belästigung,,Weiblich,,,,29838
-2020,Opfer nicht-sexueller Belästigung,,Weiblich,,,,29557
-2021,Opfer nicht-sexueller Belästigung,,Weiblich,,,,30472
-2022,Opfer nicht-sexueller Belästigung,,Weiblich,,,,35870
-2023,Opfer nicht-sexueller Belästigung,,Weiblich,,,,39005
-2010,Opfer nicht-sexueller Belästigung,,Männlich,,,,5961
-2011,Opfer nicht-sexueller Belästigung,,Männlich,,,,5462
-2012,Opfer nicht-sexueller Belästigung,,Männlich,,,,5143
-2013,Opfer nicht-sexueller Belästigung,,Männlich,,,,5062
-2014,Opfer nicht-sexueller Belästigung,,Männlich,,,,4621
-2015,Opfer nicht-sexueller Belästigung,,Männlich,,,,4129
-2016,Opfer nicht-sexueller Belästigung,,Männlich,,,,3834
-2017,Opfer nicht-sexueller Belästigung,,Männlich,|,,,4371
-2018,Opfer nicht-sexueller Belästigung,,Männlich,,,,4803
-2019,Opfer nicht-sexueller Belästigung,,Männlich,,,,4805
-2020,Opfer nicht-sexueller Belästigung,,Männlich,,,,5109
-2021,Opfer nicht-sexueller Belästigung,,Männlich,,,,5454
-2022,Opfer nicht-sexueller Belästigung,,Männlich,,,,5869
-2023,Opfer nicht-sexueller Belästigung,,Männlich,,,,6761
-2010,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,443
-2011,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,416
-2012,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,432
-2013,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,427
-2014,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,377
-2015,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,343
-2016,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,336
-2017,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,|,,,1122
-2018,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,1568
-2019,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,1675
-2020,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,1503
-2021,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,1546
-2022,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,2248
-2023,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,,,,,2499
-2010,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,272
-2011,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,263
-2012,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,310
-2013,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,273
-2014,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,260
-2015,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,221
-2016,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,221
-2017,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,|,,,901
-2018,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,1335
-2019,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,1380
-2020,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,1175
-2021,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,1243
-2022,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,1851
-2023,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,1980
-2010,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,171
-2011,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,153
-2012,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,122
-2013,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,154
-2014,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,117
-2015,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,122
-2016,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,115
-2017,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,|,,,221
-2018,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,233
-2019,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,295
-2020,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,328
-2021,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,303
-2022,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,397
-2023,Opfer nicht-sexueller Belästigung,13 Jahre und jünger,Männlich,,,,519
-2010,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,1289
-2011,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,1227
-2012,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,1101
-2013,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,1143
-2014,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,1063
-2015,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,817
-2016,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,806
-2017,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,|,,,3347
-2018,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,4355
-2019,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,4414
-2020,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,4043
-2021,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,4177
-2022,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,5462
-2023,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,,,,,6041
-2010,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1132
-2011,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1087
-2012,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,991
-2013,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1015
-2014,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,943
-2015,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,716
-2016,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,710
-2017,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,|,,,3085
-2018,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,4033
-2019,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,4051
-2020,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,3680
-2021,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,3814
-2022,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,5045
-2023,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,5505
-2010,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,157
-2011,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,140
-2012,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,110
-2013,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,128
-2014,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,120
-2015,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,101
-2016,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,96
-2017,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,|,,,262
-2018,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,322
-2019,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,363
-2020,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,363
-2021,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,363
-2022,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,417
-2023,Opfer nicht-sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,536
-2010,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,2467
-2011,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,2202
-2012,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,2036
-2013,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,1769
-2014,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,1654
-2015,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,1402
-2016,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,1253
-2017,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,|,,,2956
-2018,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,3815
-2019,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,3569
-2020,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,3541
-2021,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,3722
-2022,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,4424
-2023,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,,,,,4676
-2010,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,2185
-2011,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1946
-2012,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1804
-2013,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1586
-2014,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1477
-2015,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1265
-2016,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1136
-2017,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,|,,,2763
-2018,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,3522
-2019,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,3290
-2020,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,3268
-2021,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,3414
-2022,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,4111
-2023,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,4281
-2010,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,282
-2011,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,256
-2012,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,232
-2013,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,183
-2014,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,177
-2015,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,137
-2016,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,117
-2017,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,|,,,193
-2018,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,293
-2019,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,279
-2020,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,273
-2021,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,308
-2022,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,313
-2023,Opfer nicht-sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,395
-2010,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,23019
-2011,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,21536
-2012,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,21296
-2013,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,20738
-2014,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,18814
-2015,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,17239
-2016,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,16303
-2017,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,|,,,21108
-2018,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,23526
-2019,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,23340
-2020,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,23889
-2021,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,24682
-2022,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,27616
-2023,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,,,,,30249
-2010,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,18342
-2011,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,17238
-2012,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,17207
-2013,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,16679
-2014,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,15118
-2015,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,13916
-2016,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,13260
-2017,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,|,,,17822
-2018,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,20058
-2019,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,19927
-2020,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,20226
-2021,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,20754
-2022,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,23437
-2023,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,25603
-2010,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,4677
-2011,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,4298
-2012,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,4089
-2013,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,4059
-2014,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,3696
-2015,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,3323
-2016,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,3043
-2017,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,|,,,3286
-2018,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,3468
-2019,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,3413
-2020,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,3663
-2021,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,3928
-2022,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,4179
-2023,Opfer nicht-sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,4646
-2010,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1652
-2011,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1495
-2012,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1495
-2013,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1440
-2014,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1395
-2015,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1269
-2016,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1251
-2017,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,|,,,1447
-2018,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1643
-2019,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1645
-2020,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1690
-2021,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1799
-2022,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,1989
-2023,Opfer nicht-sexueller Belästigung,60 Jahre und älter,,,,,2301
-2010,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,978
-2011,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,880
-2012,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,905
-2013,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,902
-2014,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,884
-2015,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,823
-2016,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,788
-2017,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,|,,,1038
-2018,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,1156
-2019,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,1190
-2020,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,1208
-2021,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,1247
-2022,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,1426
-2023,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Weiblich,,,,1636
-2010,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,674
-2011,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,615
-2012,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,590
-2013,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,538
-2014,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,511
-2015,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,446
-2016,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,463
-2017,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,|,,,409
-2018,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,487
-2019,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,455
-2020,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,482
-2021,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,552
-2022,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,563
-2023,Opfer nicht-sexueller Belästigung,60 Jahre und älter,Männlich,,,,665
-2010,Opfer sexueller Belästigung,,,,,,7523
-2011,Opfer sexueller Belästigung,,,,,,8011
-2012,Opfer sexueller Belästigung,,,,,,8306
-2013,Opfer sexueller Belästigung,,,,,,8161
-2014,Opfer sexueller Belästigung,,,,,,8356
-2015,Opfer sexueller Belästigung,,,,,,8262
-2016,Opfer sexueller Belästigung,,,,,,8599
-2017,Opfer sexueller Belästigung,,,|,,,8395
-2018,Opfer sexueller Belästigung,,,,,,8872
-2019,Opfer sexueller Belästigung,,,,,,8069
-2020,Opfer sexueller Belästigung,,,,,,9333
-2021,Opfer sexueller Belästigung,,,|,,,9051
-2022,Opfer sexueller Belästigung,,,,,,9658
-2023,Opfer sexueller Belästigung,,,,,,10182
-2010,Opfer sexueller Belästigung,,Weiblich,,,,6624
-2011,Opfer sexueller Belästigung,,Weiblich,,,,7050
-2012,Opfer sexueller Belästigung,,Weiblich,,,,7400
-2013,Opfer sexueller Belästigung,,Weiblich,,,,7269
-2014,Opfer sexueller Belästigung,,Weiblich,,,,7381
-2015,Opfer sexueller Belästigung,,Weiblich,,,,7296
-2016,Opfer sexueller Belästigung,,Weiblich,,,,7525
-2017,Opfer sexueller Belästigung,,Weiblich,|,,,7314
-2018,Opfer sexueller Belästigung,,Weiblich,,,,7680
-2019,Opfer sexueller Belästigung,,Weiblich,,,,6875
-2020,Opfer sexueller Belästigung,,Weiblich,,,,7980
-2021,Opfer sexueller Belästigung,,Weiblich,|,,,7688
-2022,Opfer sexueller Belästigung,,Weiblich,,,,8169
-2023,Opfer sexueller Belästigung,,Weiblich,,,,8465
-2010,Opfer sexueller Belästigung,,Männlich,,,,899
-2011,Opfer sexueller Belästigung,,Männlich,,,,961
-2012,Opfer sexueller Belästigung,,Männlich,,,,906
-2013,Opfer sexueller Belästigung,,Männlich,,,,892
-2014,Opfer sexueller Belästigung,,Männlich,,,,975
-2015,Opfer sexueller Belästigung,,Männlich,,,,966
-2016,Opfer sexueller Belästigung,,Männlich,,,,1074
-2017,Opfer sexueller Belästigung,,Männlich,|,,,1081
-2018,Opfer sexueller Belästigung,,Männlich,,,,1192
-2019,Opfer sexueller Belästigung,,Männlich,,,,1194
-2020,Opfer sexueller Belästigung,,Männlich,,,,1353
-2021,Opfer sexueller Belästigung,,Männlich,|,,,1363
-2022,Opfer sexueller Belästigung,,Männlich,,,,1489
-2023,Opfer sexueller Belästigung,,Männlich,,,,1717
-2010,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,0
-2011,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,0
-2012,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,0
-2013,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,0
-2014,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,0
-2015,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,0
-2016,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,0
-2017,Opfer sexueller Belästigung,13 Jahre und jünger,,|,,,3
-2018,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,4
-2019,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,5
-2020,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,2
-2021,Opfer sexueller Belästigung,13 Jahre und jünger,,|,,,49
-2022,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,151
-2023,Opfer sexueller Belästigung,13 Jahre und jünger,,,,,131
-2010,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,0
-2011,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,0
-2012,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,0
-2013,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,0
-2014,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,0
-2015,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,0
-2016,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,0
-2017,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,|,,,2
-2018,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,3
-2019,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,5
-2020,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,1
-2021,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,|,,,33
-2022,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,124
-2023,Opfer sexueller Belästigung,13 Jahre und jünger,Weiblich,,,,108
-2010,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,0
-2011,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,0
-2012,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,0
-2013,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,0
-2014,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,0
-2015,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,0
-2016,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,0
-2017,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,|,,,1
-2018,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,1
-2019,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,0
-2020,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,1
-2021,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,|,,,16
-2022,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,27
-2023,Opfer sexueller Belästigung,13 Jahre und jünger,Männlich,,,,23
-2010,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1267
-2011,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1362
-2012,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1356
-2013,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1384
-2014,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1368
-2015,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1245
-2016,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1149
-2017,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,|,,,1118
-2018,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1133
-2019,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,941
-2020,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1072
-2021,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,|,,,1075
-2022,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1249
-2023,Opfer sexueller Belästigung,14 bis unter 18 Jahre,,,,,1213
-2010,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1112
-2011,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1217
-2012,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1221
-2013,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1235
-2014,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1228
-2015,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1151
-2016,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1024
-2017,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,|,,,969
-2018,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,981
-2019,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,821
-2020,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,933
-2021,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,|,,,941
-2022,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1082
-2023,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1025
-2010,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,155
-2011,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,145
-2012,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,135
-2013,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,149
-2014,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,140
-2015,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,94
-2016,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,125
-2017,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,|,,,149
-2018,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,152
-2019,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,120
-2020,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,139
-2021,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,|,,,134
-2022,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,167
-2023,Opfer sexueller Belästigung,14 bis unter 18 Jahre,Männlich,,,,188
-2010,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,796
-2011,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,811
-2012,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,808
-2013,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,752
-2014,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,809
-2015,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,803
-2016,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,776
-2017,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,|,,,942
-2018,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,885
-2019,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,729
-2020,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,974
-2021,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,|,,,885
-2022,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,927
-2023,Opfer sexueller Belästigung,18 bis unter 21 Jahre,,,,,937
-2010,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,728
-2011,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,747
-2012,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,752
-2013,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,694
-2014,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,754
-2015,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,740
-2016,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,702
-2017,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,|,,,868
-2018,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,788
-2019,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,644
-2020,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,881
-2021,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,|,,,791
-2022,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,828
-2023,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Weiblich,,,,828
-2010,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,68
-2011,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,64
-2012,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,56
-2013,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,58
-2014,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,55
-2015,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,63
-2016,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,74
-2017,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,|,,,74
-2018,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,97
-2019,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,85
-2020,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,93
-2021,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,|,,,94
-2022,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,99
-2023,Opfer sexueller Belästigung,18 bis unter 21 Jahre,Männlich,,,,109
-2010,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,4797
-2011,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,5125
-2012,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,5438
-2013,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,5293
-2014,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,5463
-2015,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,5446
-2016,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,5894
-2017,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,|,,,5581
-2018,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,6041
-2019,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,5656
-2020,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,6488
-2021,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,|,,,6252
-2022,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,6545
-2023,Opfer sexueller Belästigung,21 bis unter 60 Jahre,,,,,6992
-2010,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4192
-2011,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4468
-2012,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4801
-2013,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4672
-2014,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4761
-2015,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4734
-2016,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,5097
-2017,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,|,,,4816
-2018,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,5219
-2019,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4743
-2020,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,5489
-2021,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,|,,,5234
-2022,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,5464
-2023,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Weiblich,,,,5760
-2010,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,605
-2011,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,657
-2012,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,637
-2013,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,621
-2014,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,702
-2015,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,712
-2016,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,797
-2017,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,|,,,765
-2018,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,822
-2019,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,913
-2020,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,999
-2021,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,|,,,1018
-2022,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,1081
-2023,Opfer sexueller Belästigung,21 bis unter 60 Jahre,Männlich,,,,1232
-2010,Opfer sexueller Belästigung,60 Jahre und älter,,,,,663
-2011,Opfer sexueller Belästigung,60 Jahre und älter,,,,,713
-2012,Opfer sexueller Belästigung,60 Jahre und älter,,,,,704
-2013,Opfer sexueller Belästigung,60 Jahre und älter,,,,,732
-2014,Opfer sexueller Belästigung,60 Jahre und älter,,,,,716
-2015,Opfer sexueller Belästigung,60 Jahre und älter,,,,,768
-2016,Opfer sexueller Belästigung,60 Jahre und älter,,,,,780
-2017,Opfer sexueller Belästigung,60 Jahre und älter,,|,,,751
-2018,Opfer sexueller Belästigung,60 Jahre und älter,,,,,809
-2019,Opfer sexueller Belästigung,60 Jahre und älter,,,,,738
-2020,Opfer sexueller Belästigung,60 Jahre und älter,,,,,797
-2021,Opfer sexueller Belästigung,60 Jahre und älter,,|,,,790
-2022,Opfer sexueller Belästigung,60 Jahre und älter,,,,,786
-2023,Opfer sexueller Belästigung,60 Jahre und älter,,,,,909
-2010,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,592
-2011,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,618
-2012,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,626
-2013,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,668
-2014,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,638
-2015,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,671
-2016,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,702
-2017,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,|,,,659
-2018,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,689
-2019,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,662
-2020,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,676
-2021,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,|,,,689
-2022,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,671
-2023,Opfer sexueller Belästigung,60 Jahre und älter,Weiblich,,,,744
-2010,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,71
-2011,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,95
-2012,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,78
-2013,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,64
-2014,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,78
-2015,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,97
-2016,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,78
-2017,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,|,,,92
-2018,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,120
-2019,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,76
-2020,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,121
-2021,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,|,,,101
-2022,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,115
-2023,Opfer sexueller Belästigung,60 Jahre und älter,Männlich,,,,165
+Year,Units,Art der Belästigung,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,35.3
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,32.9
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,32.2
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,|,,,31.7
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,28.9
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,25.9
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,24.3
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,23.9
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,24.5
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,24.3
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,25.2
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,26.6
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,27.7
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,,,,29.8
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,,|,,,32.0
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,54.9
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,51.4
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,51.0
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,|,,,49.7
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,45.3
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,41.0
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,38.7
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,38.3
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,39.2
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,39.1
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,40.3
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,42.0
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,44.2
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,,,,46.9
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Weiblich,|,,,50.6
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,14.9
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,13.6
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,12.8
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,|,,,12.9
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,11.7
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,10.4
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,9.5
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,9.2
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,9.4
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,9.2
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,9.8
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,10.7
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,10.8
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,,,,12.1
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,,Männlich,|,,,12.9
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,4.3
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,4.1
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,4.3
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,|,,,4.3
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,3.8
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,3.5
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,3.3
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,3.3
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,3.3
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,3.8
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,3.6
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,3.8
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,4.2
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,5.2
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,,|,,,6.3
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,5.5
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,5.3
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,6.4
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,|,,,5.7
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,5.4
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,4.6
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,4.5
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,4.2
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,4.7
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,4.7
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,4.4
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,5.1
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,5.9
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,6.5
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,|,,,7.6
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,3.3
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.9
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.4
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,|,,,3.0
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.3
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.4
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.2
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.4
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.0
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.9
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.8
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.5
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,2.6
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,3.9
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,|,,,5.0
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,39.8
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,38.3
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,34.3
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,|,,,35.7
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,33.0
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,25.5
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,25.1
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,26.1
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,25.6
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,26.8
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,24.8
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,26.8
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,27.3
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,29.9
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,|,,,32.9
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,71.8
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,69.7
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,48.2
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,|,,,65.1
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,60.2
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,45.9
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,46.0
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,47.2
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,48.2
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,47.6
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,42.5
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,46.2
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,47.0
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,52.3
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,|,,,54.9
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,9.5
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,8.5
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,5.1
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,|,,,7.8
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,7.3
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,6.1
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,5.8
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,6.7
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,4.6
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,7.4
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,8.1
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,8.5
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,8.8
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,8.8
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,|,,,12.4
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,87.1
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,80.7
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,78.4
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,|,,,71.7
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,68.0
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,56.5
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,48.0
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,50.6
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,55.5
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,49.4
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,54.7
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,56.7
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,55.0
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,58.1
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,|,,,65.8
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,158.1
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,146.2
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,142.5
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,|,,,131.9
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,125.1
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,105.4
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,91.8
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,96.9
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,104.3
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,93.4
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,103.6
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,103.8
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,101.3
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,103.6
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,|,,,119.4
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,19.4
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,18.3
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,17.4
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,|,,,14.5
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,14.2
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,10.7
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,8.5
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,9.0
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,11.8
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,9.6
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,10.1
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,13.1
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,11.8
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,15.7
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,|,,,16.3
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,52.0
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,48.7
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,48.1
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,|,,,47.8
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,43.4
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,37.6
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,37.3
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,36.8
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,37.7
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,37.8
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,39.8
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,42.2
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,44.5
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,47.8
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,|,,,51.5
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,83.9
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,79.1
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,78.9
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,|,,,77.6
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,70.4
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,61.5
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,61.7
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,60.9
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,62.6
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,63.2
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,66.0
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,69.4
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,73.8
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,78.6
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,|,,,85.4
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,20.9
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,19.2
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,18.2
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,|,,,18.6
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,16.9
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,14.3
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,13.7
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,13.5
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,13.6
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,13.3
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,14.4
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,15.8
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,16.1
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,17.8
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,|,,,18.7
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,7.8
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,7.0
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,6.9
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,|,,,6.6
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,6.4
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,5.7
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,5.6
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,5.2
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,5.4
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,5.4
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,5.4
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,5.9
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,6.4
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,7.1
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,,|,,,7.1
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,8.2
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,7.3
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,7.5
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,|,,,7.5
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,7.3
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,6.7
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,6.3
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,6.3
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,6.2
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,6.5
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,6.5
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,6.9
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,7.7
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,8.4
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,|,,,8.3
+2010,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,7.2
+2011,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,6.5
+2012,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,6.1
+2013,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,|,,,5.6
+2014,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,5.3
+2015,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,4.5
+2016,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,4.6
+2017,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,3.8
+2018,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,4.4
+2019,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,4.1
+2020,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,4.1
+2021,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,4.7
+2022,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,4.8
+2023,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,5.4
+2024,Je 100 000 Einwohner/-innen,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,|,,,5.6
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,,,,10.1
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,|,,,10.1
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,,,,10.3
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,,,,10.2
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,,,,10.5
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,,,,10.1
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,,,,10.6
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,,,,9.7
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,,,,11.2
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,|,,,10.9
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,,,,11.6
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,,,,12.1
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,,|,,,12.9
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,,,,17.8
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,|,,,17.7
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,,,,17.9
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,,,,17.6
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,,,,18.1
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,,,,17.4
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,,,,18.2
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,,,,16.3
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,,,,18.9
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,|,,,18.2
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,,,,19.3
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,,,,19.7
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Weiblich,|,,,20.9
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,,,,2.3
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,|,,,2.3
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,,,,2.5
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,,,,2.4
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,,,,2.7
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,,,,2.6
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,,,,2.9
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,,,,2.9
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,,,,3.3
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,|,,,3.3
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,,,,3.6
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,,,,4.1
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,,Männlich,|,,,4.7
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,‒,,,0.0
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,‒,|,,0.0
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,‒,,,0.0
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,‒,,,0.0
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,‒,,,0.0
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,‒,,,0.0
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,‒,,,0.0
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,‒,,,0.0
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,‒,,,0.0
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,|,,,0.4
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,,,,1.3
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,,,,1.2
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,,|,,,1.3
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,‒,,,0.0
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,‒,|,,0.0
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,‒,,,0.0
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,‒,,,0.0
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,‒,,,0.0
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,‒,,,0.0
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,‒,,,0.0
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,‒,,,0.0
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,‒,,,0.0
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,|,,,0.6
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,2.2
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,2.0
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,|,,,1.7
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,‒,,,0.0
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,‒,|,,0.0
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,‒,,,0.0
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,‒,,,0.0
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,‒,,,0.0
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,‒,,,0.0
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,‒,,,0.0
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,‒,,,0.0
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,‒,,,0.0
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,|,,,0.3
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,0.5
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,0.4
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,13 Jahre und jünger,Männlich,|,,,0.9
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,42.3
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,|,,,43.2
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,42.5
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,38.8
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,35.8
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,34.8
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,35.6
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,30.4
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,35.2
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,|,,,35.7
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,41.3
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,38.9
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,,|,,,44.1
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,59.3
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,|,,,79.2
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,78.4
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,73.8
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,66.3
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,62.7
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,63.8
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,54.8
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,63.2
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,|,,,64.3
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,73.8
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,68.0
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,|,,,77.1
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,6.2
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,|,,,9.1
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,8.5
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,5.7
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,7.5
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,9.0
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,9.4
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,7.6
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,8.9
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,|,,,8.7
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,10.8
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,11.6
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,|,,,13.4
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,31.1
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,|,,,30.5
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,33.3
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,32.4
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,29.7
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,35.2
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,33.4
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,28.0
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,38.3
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,|,,,35.9
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,38.5
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,38.2
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,,|,,,42.9
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,59.4
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,|,,,57.7
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,63.9
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,61.6
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,56.7
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,68.5
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,62.9
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,52.0
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,72.5
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,|,,,66.8
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,71.3
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,69.9
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,|,,,77.5
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,4.2
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,|,,,4.6
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,4.4
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,4.9
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,5.4
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,5.2
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,6.8
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,6.3
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,7.0
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,|,,,7.4
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,8.0
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,8.6
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,|,,,11.0
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,12.3
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,|,,,12.2
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,12.6
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,11.9
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,13.5
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,12.8
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,13.8
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,13.0
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,15.0
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,|,,,14.6
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,15.4
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,16.3
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,,|,,,17.4
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,22.0
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,|,,,21.7
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,22.2
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,20.9
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,23.7
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,22.4
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,24.3
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,22.1
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,25.8
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,|,,,24.8
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,26.1
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,27.3
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,|,,,28.8
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,2.8
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,|,,,2.8
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,3.2
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,3.1
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,3.6
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,3.4
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,3.7
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,4.1
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,4.5
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,|,,,4.7
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,5.0
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,5.7
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,|,,,6.4
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,,,,3.2
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,|,,,3.4
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,,,,3.3
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,,,,3.5
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,,,,3.5
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,,,,3.3
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,,,,3.5
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,,,,3.2
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,,,,3.4
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,|,,,3.3
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,,,,3.2
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,,,,3.7
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,,|,,,3.7
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,5.2
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,|,,,5.5
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,5.2
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,5.4
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,5.6
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,5.2
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,5.4
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,5.1
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,5.2
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,|,,,5.2
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,5.0
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,5.5
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Weiblich,|,,,5.5
+2010,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,.,,,
+2011,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,.,,,
+2012,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.8
+2013,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,|,,,0.7
+2014,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.8
+2015,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,1.0
+2016,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.8
+2017,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.9
+2018,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,1.2
+2019,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.7
+2020,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,1.1
+2021,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,|,,,0.9
+2022,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,1.0
+2023,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,1.5
+2024,Je 100 000 Einwohner/-innen,Sexuelle Belästigung,60 Jahre und älter,Männlich,|,,,1.5
+2010,Anzahl,Nicht-sexuelle Belästigung,,,,,,28870.0
+2011,Anzahl,Nicht-sexuelle Belästigung,,,,,,26876.0
+2012,Anzahl,Nicht-sexuelle Belästigung,,,,,,26360.0
+2013,Anzahl,Nicht-sexuelle Belästigung,,,,,,25517.0
+2014,Anzahl,Nicht-sexuelle Belästigung,,,,,,23303.0
+2015,Anzahl,Nicht-sexuelle Belästigung,,,,,,21070.0
+2016,Anzahl,Nicht-sexuelle Belästigung,,,,,,19949.0
+2017,Anzahl,Nicht-sexuelle Belästigung,,,r,,,19750.0
+2018,Anzahl,Nicht-sexuelle Belästigung,,,r,,,20280.0
+2019,Anzahl,Nicht-sexuelle Belästigung,,,r,,,20204.0
+2020,Anzahl,Nicht-sexuelle Belästigung,,,r,,,20997.0
+2021,Anzahl,Nicht-sexuelle Belästigung,,,r,,,22091.0
+2022,Anzahl,Nicht-sexuelle Belästigung,,,r,,,23082.0
+2023,Anzahl,Nicht-sexuelle Belästigung,,,r,,,25138.0
+2024,Anzahl,Nicht-sexuelle Belästigung,,,,,,26703.0
+2010,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,,,,22909.0
+2011,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,,,,21414.0
+2012,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,,,,21217.0
+2013,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,,,,20455.0
+2014,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,,,,18682.0
+2015,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,,,,16941.0
+2016,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,,,,16115.0
+2017,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,r,,,15999.0
+2018,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,r,,,16456.0
+2019,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,r,,,16432.0
+2020,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,r,,,16974.0
+2021,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,r,,,17693.0
+2022,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,r,,,18628.0
+2023,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,r,,,20089.0
+2024,Anzahl,Nicht-sexuelle Belästigung,,Weiblich,,,,21382.0
+2010,Anzahl,Nicht-sexuelle Belästigung,,Männlich,,,,5961.0
+2011,Anzahl,Nicht-sexuelle Belästigung,,Männlich,,,,5462.0
+2012,Anzahl,Nicht-sexuelle Belästigung,,Männlich,,,,5143.0
+2013,Anzahl,Nicht-sexuelle Belästigung,,Männlich,,,,5062.0
+2014,Anzahl,Nicht-sexuelle Belästigung,,Männlich,,,,4621.0
+2015,Anzahl,Nicht-sexuelle Belästigung,,Männlich,,,,4129.0
+2016,Anzahl,Nicht-sexuelle Belästigung,,Männlich,,,,3834.0
+2017,Anzahl,Nicht-sexuelle Belästigung,,Männlich,r,,,3751.0
+2018,Anzahl,Nicht-sexuelle Belästigung,,Männlich,r,,,3824.0
+2019,Anzahl,Nicht-sexuelle Belästigung,,Männlich,r,,,3772.0
+2020,Anzahl,Nicht-sexuelle Belästigung,,Männlich,r,,,4023.0
+2021,Anzahl,Nicht-sexuelle Belästigung,,Männlich,r,,,4398.0
+2022,Anzahl,Nicht-sexuelle Belästigung,,Männlich,r,,,4454.0
+2023,Anzahl,Nicht-sexuelle Belästigung,,Männlich,r,,,5049.0
+2024,Anzahl,Nicht-sexuelle Belästigung,,Männlich,,,,5321.0
+2010,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,443.0
+2011,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,416.0
+2012,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,432.0
+2013,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,427.0
+2014,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,377.0
+2015,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,343.0
+2016,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,336.0
+2017,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,r,,,338.0
+2018,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,r,,,346.0
+2019,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,r,,,398.0
+2020,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,r,,,380.0
+2021,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,r,,,404.0
+2022,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,r,,,460.0
+2023,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,r,,,579.0
+2024,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,681.0
+2010,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,272.0
+2011,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,263.0
+2012,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,310.0
+2013,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,273.0
+2014,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,260.0
+2015,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,221.0
+2016,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,221.0
+2017,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,212.0
+2018,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,239.0
+2019,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,241.0
+2020,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,226.0
+2021,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,264.0
+2022,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,313.0
+2023,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,353.0
+2024,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,404.0
+2010,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,171.0
+2011,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,153.0
+2012,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,122.0
+2013,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,154.0
+2014,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,117.0
+2015,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,122.0
+2016,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,115.0
+2017,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,126.0
+2018,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,107.0
+2019,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,157.0
+2020,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,154.0
+2021,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,140.0
+2022,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,147.0
+2023,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,226.0
+2024,Anzahl,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,277.0
+2010,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1289.0
+2011,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1227.0
+2012,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1101.0
+2013,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1143.0
+2014,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1063.0
+2015,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,817.0
+2016,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,806.0
+2017,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,829.0
+2018,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,798.0
+2019,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,821.0
+2020,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,751.0
+2021,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,803.0
+2022,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,822.0
+2023,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,928.0
+2024,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1019.0
+2010,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1132.0
+2011,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1087.0
+2012,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,991.0
+2013,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1015.0
+2014,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,943.0
+2015,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,716.0
+2016,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,710.0
+2017,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,718.0
+2018,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,724.0
+2019,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,704.0
+2020,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,624.0
+2021,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,672.0
+2022,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,686.0
+2023,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,786.0
+2024,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,820.0
+2010,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,157.0
+2011,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,140.0
+2012,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,110.0
+2013,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,128.0
+2014,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,120.0
+2015,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,101.0
+2016,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,96.0
+2017,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,111.0
+2018,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,74.0
+2019,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,117.0
+2020,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,127.0
+2021,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,131.0
+2022,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,136.0
+2023,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,142.0
+2024,Anzahl,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,199.0
+2010,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,2467.0
+2011,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,2202.0
+2012,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,2036.0
+2013,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,1769.0
+2014,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,1654.0
+2015,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,1402.0
+2016,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,1253.0
+2017,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,1340.0
+2018,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,1462.0
+2019,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,1279.0
+2020,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,1385.0
+2021,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,1393.0
+2022,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,1321.0
+2023,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,1421.0
+2024,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,1593.0
+2010,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,2185.0
+2011,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1946.0
+2012,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1804.0
+2013,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1586.0
+2014,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1477.0
+2015,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1265.0
+2016,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1136.0
+2017,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,1214.0
+2018,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,1298.0
+2019,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,1149.0
+2020,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,1252.0
+2021,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,1226.0
+2022,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,1174.0
+2023,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,1223.0
+2024,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,1388.0
+2010,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,282.0
+2011,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,256.0
+2012,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,232.0
+2013,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,183.0
+2014,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,177.0
+2015,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,137.0
+2016,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,117.0
+2017,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,126.0
+2018,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,164.0
+2019,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,130.0
+2020,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,133.0
+2021,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,167.0
+2022,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,147.0
+2023,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,198.0
+2024,Anzahl,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,205.0
+2010,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,23019.0
+2011,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,21536.0
+2012,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,21296.0
+2013,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,20738.0
+2014,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,18814.0
+2015,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,17239.0
+2016,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,16303.0
+2017,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,16060.0
+2018,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,16423.0
+2019,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,16440.0
+2020,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,17193.0
+2021,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,18068.0
+2022,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,18925.0
+2023,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,20453.0
+2024,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,21639.0
+2010,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,18342.0
+2011,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,17238.0
+2012,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,17207.0
+2013,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,16679.0
+2014,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,15118.0
+2015,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,13916.0
+2016,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,13260.0
+2017,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,13064.0
+2018,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,13403.0
+2019,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,13504.0
+2020,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,14027.0
+2021,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,14625.0
+2022,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,15432.0
+2023,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,16583.0
+2024,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,17639.0
+2010,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,4677.0
+2011,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,4298.0
+2012,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,4089.0
+2013,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,4059.0
+2014,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,3696.0
+2015,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,3323.0
+2016,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,3043.0
+2017,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,2996.0
+2018,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,3020.0
+2019,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,2936.0
+2020,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,3166.0
+2021,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,3443.0
+2022,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,3493.0
+2023,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,3870.0
+2024,Anzahl,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,4000.0
+2010,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,1652.0
+2011,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,1495.0
+2012,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,1495.0
+2013,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,1440.0
+2014,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,1395.0
+2015,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,1269.0
+2016,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,1251.0
+2017,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,r,,,1183.0
+2018,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,r,,,1251.0
+2019,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,r,,,1266.0
+2020,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,r,,,1288.0
+2021,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,r,,,1423.0
+2022,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,r,,,1554.0
+2023,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,r,,,1757.0
+2024,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,1771.0
+2010,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,978.0
+2011,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,880.0
+2012,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,905.0
+2013,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,902.0
+2014,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,884.0
+2015,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,823.0
+2016,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,788.0
+2017,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,791.0
+2018,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,792.0
+2019,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,834.0
+2020,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,845.0
+2021,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,906.0
+2022,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,1023.0
+2023,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,1144.0
+2024,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,1131.0
+2010,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,674.0
+2011,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,615.0
+2012,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,590.0
+2013,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,538.0
+2014,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,511.0
+2015,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,446.0
+2016,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,463.0
+2017,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,392.0
+2018,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,459.0
+2019,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,432.0
+2020,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,443.0
+2021,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,517.0
+2022,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,531.0
+2023,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,613.0
+2024,Anzahl,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,640.0
+2010,Anzahl,Sexuelle Belästigung,,,,,,7523.0
+2011,Anzahl,Sexuelle Belästigung,,,,,,8011.0
+2012,Anzahl,Sexuelle Belästigung,,,,,,8306.0
+2013,Anzahl,Sexuelle Belästigung,,,,,,8161.0
+2014,Anzahl,Sexuelle Belästigung,,,,,,8356.0
+2015,Anzahl,Sexuelle Belästigung,,,,,,8262.0
+2016,Anzahl,Sexuelle Belästigung,,,,,,8599.0
+2017,Anzahl,Sexuelle Belästigung,,,r,,,8350.0
+2018,Anzahl,Sexuelle Belästigung,,,r,,,8817.0
+2019,Anzahl,Sexuelle Belästigung,,,r,,,8031.0
+2020,Anzahl,Sexuelle Belästigung,,,r,,,9319.0
+2021,Anzahl,Sexuelle Belästigung,,,|,r,,9035.0
+2022,Anzahl,Sexuelle Belästigung,,,r,,,9640.0
+2023,Anzahl,Sexuelle Belästigung,,,r,,,10166.0
+2024,Anzahl,Sexuelle Belästigung,,,,,,10773.0
+2010,Anzahl,Sexuelle Belästigung,,Weiblich,,,,6624.0
+2011,Anzahl,Sexuelle Belästigung,,Weiblich,,,,7050.0
+2012,Anzahl,Sexuelle Belästigung,,Weiblich,,,,7400.0
+2013,Anzahl,Sexuelle Belästigung,,Weiblich,,,,7269.0
+2014,Anzahl,Sexuelle Belästigung,,Weiblich,,,,7381.0
+2015,Anzahl,Sexuelle Belästigung,,Weiblich,,,,7296.0
+2016,Anzahl,Sexuelle Belästigung,,Weiblich,,,,7525.0
+2017,Anzahl,Sexuelle Belästigung,,Weiblich,r,,,7273.0
+2018,Anzahl,Sexuelle Belästigung,,Weiblich,r,,,7628.0
+2019,Anzahl,Sexuelle Belästigung,,Weiblich,r,,,6840.0
+2020,Anzahl,Sexuelle Belästigung,,Weiblich,r,,,7967.0
+2021,Anzahl,Sexuelle Belästigung,,Weiblich,|,r,,7673.0
+2022,Anzahl,Sexuelle Belästigung,,Weiblich,r,,,8152.0
+2023,Anzahl,Sexuelle Belästigung,,Weiblich,r,,,8451.0
+2024,Anzahl,Sexuelle Belästigung,,Weiblich,,,,8839.0
+2010,Anzahl,Sexuelle Belästigung,,Männlich,,,,899.0
+2011,Anzahl,Sexuelle Belästigung,,Männlich,,,,961.0
+2012,Anzahl,Sexuelle Belästigung,,Männlich,,,,906.0
+2013,Anzahl,Sexuelle Belästigung,,Männlich,,,,892.0
+2014,Anzahl,Sexuelle Belästigung,,Männlich,,,,975.0
+2015,Anzahl,Sexuelle Belästigung,,Männlich,,,,966.0
+2016,Anzahl,Sexuelle Belästigung,,Männlich,,,,1074.0
+2017,Anzahl,Sexuelle Belästigung,,Männlich,r,,,1077.0
+2018,Anzahl,Sexuelle Belästigung,,Männlich,r,,,1189.0
+2019,Anzahl,Sexuelle Belästigung,,Männlich,r,,,1191.0
+2020,Anzahl,Sexuelle Belästigung,,Männlich,r,,,1352.0
+2021,Anzahl,Sexuelle Belästigung,,Männlich,|,r,,1362.0
+2022,Anzahl,Sexuelle Belästigung,,Männlich,r,,,1488.0
+2023,Anzahl,Sexuelle Belästigung,,Männlich,r,,,1715.0
+2024,Anzahl,Sexuelle Belästigung,,Männlich,,,,1934.0
+2010,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,,,,0.0
+2011,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,,,,0.0
+2012,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,,,,0.0
+2013,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,,,,0.0
+2014,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,,,,0.0
+2015,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,,,,0.0
+2016,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,,,,0.0
+2017,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,r,,,0.0
+2018,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,r,,,0.0
+2019,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,r,,,0.0
+2020,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,r,,,0.0
+2021,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,|,r,,47.0
+2022,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,r,,,144.0
+2023,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,r,,,130.0
+2024,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,,,,,140.0
+2010,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0
+2011,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0
+2012,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0
+2013,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0
+2014,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0
+2015,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0
+2016,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0
+2017,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,0.0
+2018,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,0.0
+2019,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,0.0
+2020,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,0.0
+2021,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,|,r,,32.0
+2022,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,118.0
+2023,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,r,,,107.0
+2024,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,91.0
+2010,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,0.0
+2011,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,0.0
+2012,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,0.0
+2013,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,0.0
+2014,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,0.0
+2015,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,0.0
+2016,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,0.0
+2017,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,0.0
+2018,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,0.0
+2019,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,0.0
+2020,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,0.0
+2021,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,|,r,,15.0
+2022,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,26.0
+2023,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,r,,,23.0
+2024,Anzahl,Sexuelle Belästigung,13 Jahre und jünger,Männlich,,,,49.0
+2010,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1267.0
+2011,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1362.0
+2012,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1356.0
+2013,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1384.0
+2014,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1368.0
+2015,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1245.0
+2016,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1149.0
+2017,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,1104.0
+2018,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,1110.0
+2019,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,931.0
+2020,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,1067.0
+2021,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,|,r,,1070.0
+2022,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,1243.0
+2023,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,r,,,1208.0
+2024,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,1367.0
+2010,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1112.0
+2011,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1217.0
+2012,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1221.0
+2013,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1235.0
+2014,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1228.0
+2015,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1151.0
+2016,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1024.0
+2017,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,955.0
+2018,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,958.0
+2019,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,811.0
+2020,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,928.0
+2021,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,|,r,,936.0
+2022,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,1076.0
+2023,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,r,,,1022.0
+2024,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,1152.0
+2010,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,155.0
+2011,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,145.0
+2012,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,135.0
+2013,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,149.0
+2014,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,140.0
+2015,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,94.0
+2016,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,125.0
+2017,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,149.0
+2018,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,152.0
+2019,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,120.0
+2020,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,139.0
+2021,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,|,r,,134.0
+2022,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,167.0
+2023,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,r,,,186.0
+2024,Anzahl,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,215.0
+2010,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,796.0
+2011,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,811.0
+2012,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,808.0
+2013,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,752.0
+2014,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,809.0
+2015,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,803.0
+2016,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,776.0
+2017,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,931.0
+2018,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,878.0
+2019,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,725.0
+2020,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,969.0
+2021,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,|,r,,883.0
+2022,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,925.0
+2023,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,r,,,934.0
+2024,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,1040.0
+2010,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,728.0
+2011,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,747.0
+2012,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,752.0
+2013,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,694.0
+2014,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,754.0
+2015,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,740.0
+2016,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,702.0
+2017,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,858.0
+2018,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,783.0
+2019,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,640.0
+2020,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,876.0
+2021,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,|,r,,789.0
+2022,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,826.0
+2023,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,r,,,825.0
+2024,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,901.0
+2010,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,68.0
+2011,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,64.0
+2012,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,56.0
+2013,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,58.0
+2014,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,55.0
+2015,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,63.0
+2016,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,74.0
+2017,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,73.0
+2018,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,95.0
+2019,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,85.0
+2020,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,93.0
+2021,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,|,r,,94.0
+2022,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,99.0
+2023,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,r,,,109.0
+2024,Anzahl,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,139.0
+2010,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,4797.0
+2011,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,5125.0
+2012,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,5438.0
+2013,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,5293.0
+2014,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,5463.0
+2015,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,5446.0
+2016,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,5894.0
+2017,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,5565.0
+2018,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,6020.0
+2019,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,5637.0
+2020,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,6486.0
+2021,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,|,r,,6245.0
+2022,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,6542.0
+2023,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,r,,,6985.0
+2024,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,7309.0
+2010,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4192.0
+2011,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4468.0
+2012,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4801.0
+2013,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4672.0
+2014,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4761.0
+2015,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,4734.0
+2016,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,5097.0
+2017,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,4802.0
+2018,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,5198.0
+2019,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,4727.0
+2020,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,5487.0
+2021,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,|,r,,5227.0
+2022,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,5461.0
+2023,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,r,,,5753.0
+2024,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,5948.0
+2010,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,605.0
+2011,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,657.0
+2012,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,637.0
+2013,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,621.0
+2014,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,702.0
+2015,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,712.0
+2016,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,797.0
+2017,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,763.0
+2018,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,822.0
+2019,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,910.0
+2020,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,999.0
+2021,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,|,r,,1018.0
+2022,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,1081.0
+2023,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,r,,,1232.0
+2024,Anzahl,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,1361.0
+2010,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,,,,663.0
+2011,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,,,,713.0
+2012,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,,,,704.0
+2013,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,,,,732.0
+2014,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,,,,716.0
+2015,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,,,,768.0
+2016,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,,,,780.0
+2017,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,r,,,750.0
+2018,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,r,,,809.0
+2019,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,r,,,738.0
+2020,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,r,,,797.0
+2021,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,|,r,,790.0
+2022,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,r,,,786.0
+2023,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,r,,,909.0
+2024,Anzahl,Sexuelle Belästigung,60 Jahre und älter,,,,,917.0
+2010,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,592.0
+2011,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,618.0
+2012,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,626.0
+2013,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,668.0
+2014,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,638.0
+2015,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,671.0
+2016,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,702.0
+2017,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,658.0
+2018,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,689.0
+2019,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,662.0
+2020,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,676.0
+2021,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,|,r,,689.0
+2022,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,671.0
+2023,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,r,,,744.0
+2024,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,747.0
+2010,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,71.0
+2011,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,95.0
+2012,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,78.0
+2013,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,64.0
+2014,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,78.0
+2015,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,97.0
+2016,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,78.0
+2017,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,92.0
+2018,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,120.0
+2019,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,76.0
+2020,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,121.0
+2021,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,|,r,,101.0
+2022,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,115.0
+2023,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,r,,,165.0
+2024,Anzahl,Sexuelle Belästigung,60 Jahre und älter,Männlich,,,,170.0
+2010,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0353
+2011,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0335
+2012,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0328
+2013,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0317
+2014,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0289
+2015,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0259
+2016,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0244
+2017,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0241
+2018,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0247
+2019,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0246
+2020,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0256
+2021,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0269
+2022,Prozent,Nicht-sexuelle Belästigung,,,,,,0.028
+2023,Prozent,Nicht-sexuelle Belästigung,,,,,,0.0302
+2024,Prozent,Nicht-sexuelle Belästigung,,,,,,0.032
+2010,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.055
+2011,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0521
+2012,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0516
+2013,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0498
+2014,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0454
+2015,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.041
+2016,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0388
+2017,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0385
+2018,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0395
+2019,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0394
+2020,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0408
+2021,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0426
+2022,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0445
+2023,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0476
+2024,Prozent,Nicht-sexuelle Belästigung,,Weiblich,,,,0.0505
+2010,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0149
+2011,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0139
+2012,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0131
+2013,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0128
+2014,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0117
+2015,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0103
+2016,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0095
+2017,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0093
+2018,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0094
+2019,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0093
+2020,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0099
+2021,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0109
+2022,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.011
+2023,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0123
+2024,Prozent,Nicht-sexuelle Belästigung,,Männlich,,,,0.0129
+2010,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0043
+2011,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0045
+2012,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0047
+2013,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0047
+2014,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0042
+2015,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0037
+2016,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0036
+2017,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0036
+2018,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0036
+2019,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0041
+2020,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0039
+2021,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0041
+2022,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0043
+2023,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,0.0053
+2024,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,,,,,0.0063
+2010,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0055
+2011,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0059
+2012,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.007
+2013,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0062
+2014,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0059
+2015,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0049
+2016,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0048
+2017,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0046
+2018,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0051
+2019,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0051
+2020,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0047
+2021,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0055
+2022,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.006
+2023,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0067
+2024,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Weiblich,,,,0.0076
+2010,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0033
+2011,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0032
+2012,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0026
+2013,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0033
+2014,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0025
+2015,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0026
+2016,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0024
+2017,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0026
+2018,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0022
+2019,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0032
+2020,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0031
+2021,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0028
+2022,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0027
+2023,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0041
+2024,Prozent,Nicht-sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.005
+2010,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.04
+2011,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0308
+2012,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0277
+2013,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0287
+2014,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0268
+2015,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0207
+2016,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0207
+2017,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0216
+2018,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0212
+2019,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0221
+2020,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0203
+2021,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0217
+2022,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0272
+2023,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0301
+2024,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0327
+2010,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0722
+2011,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.056
+2012,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0512
+2013,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0524
+2014,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0489
+2015,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0375
+2016,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0378
+2017,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0387
+2018,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0396
+2019,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.039
+2020,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0347
+2021,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0373
+2022,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0468
+2023,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0527
+2024,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0545
+2010,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0095
+2011,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0069
+2012,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0054
+2013,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0063
+2014,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0059
+2015,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,0,,,0.005
+2016,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,0,,,0.0048
+2017,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0056
+2018,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,0,,,0.0038
+2019,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0061
+2020,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0067
+2021,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0069
+2022,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0087
+2023,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0089
+2024,Prozent,Nicht-sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0123
+2010,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0888
+2011,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0848
+2012,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0812
+2013,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0718
+2014,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0673
+2015,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0555
+2016,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0482
+2017,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0514
+2018,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0568
+2019,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0508
+2020,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0568
+2021,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0591
+2022,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0563
+2023,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0592
+2024,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0653
+2010,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.1611
+2011,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.1534
+2012,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.1473
+2013,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.1322
+2014,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.124
+2015,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.1046
+2016,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0921
+2017,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0982
+2018,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.1061
+2019,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0956
+2020,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.1069
+2021,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.1076
+2022,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.1032
+2023,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.1057
+2024,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.119
+2010,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0198
+2011,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0193
+2012,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0181
+2013,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0145
+2014,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.014
+2015,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0104
+2016,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0086
+2017,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0092
+2018,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0121
+2019,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0099
+2020,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0105
+2021,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0137
+2022,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0121
+2023,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0159
+2024,Prozent,Nicht-sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0161
+2010,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0521
+2011,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0499
+2012,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0493
+2013,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.048
+2014,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0435
+2015,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0397
+2016,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0375
+2017,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0371
+2018,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0381
+2019,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0384
+2020,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0405
+2021,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0429
+2022,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.045
+2023,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0486
+2024,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0517
+2010,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.084
+2011,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0803
+2012,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0803
+2013,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0779
+2014,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0708
+2015,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0651
+2016,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0621
+2017,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0615
+2018,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0633
+2019,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0641
+2020,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0672
+2021,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0707
+2022,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0746
+2023,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0801
+2024,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0858
+2010,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0209
+2011,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0198
+2012,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0188
+2013,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0186
+2014,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0169
+2015,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0151
+2016,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0138
+2017,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0136
+2018,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0138
+2019,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0135
+2020,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0146
+2021,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0161
+2022,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0164
+2023,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0181
+2024,Prozent,Nicht-sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0188
+2010,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0077
+2011,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.007
+2012,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0069
+2013,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0066
+2014,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0063
+2015,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0057
+2016,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0055
+2017,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0052
+2018,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0054
+2019,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0054
+2020,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0054
+2021,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0059
+2022,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0064
+2023,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.0071
+2024,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,,,,,0.007
+2010,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0082
+2011,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0074
+2012,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0075
+2013,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0074
+2014,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0072
+2015,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0066
+2016,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0063
+2017,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0063
+2018,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0062
+2019,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0065
+2020,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0065
+2021,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0069
+2022,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0076
+2023,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0084
+2024,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0082
+2010,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.0072
+2011,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.0066
+2012,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.0062
+2013,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.0056
+2014,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.0052
+2015,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0045
+2016,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0046
+2017,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0038
+2018,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0044
+2019,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0041
+2020,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0041
+2021,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0048
+2022,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0048
+2023,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.0054
+2024,Prozent,Nicht-sexuelle Belästigung,60 Jahre und älter,Männlich,,,,0.0056
+2010,Prozent,Sexuelle Belästigung,,,,,,0.0092
+2011,Prozent,Sexuelle Belästigung,,,,,,0.01
+2012,Prozent,Sexuelle Belästigung,,,,,,0.0103
+2013,Prozent,Sexuelle Belästigung,,,,,,0.0101
+2014,Prozent,Sexuelle Belästigung,,,,,,0.0103
+2015,Prozent,Sexuelle Belästigung,,,,,,0.0102
+2016,Prozent,Sexuelle Belästigung,,,,,,0.0105
+2017,Prozent,Sexuelle Belästigung,,,,,,0.0102
+2018,Prozent,Sexuelle Belästigung,,,,,,0.0107
+2019,Prozent,Sexuelle Belästigung,,,,,,0.0098
+2020,Prozent,Sexuelle Belästigung,,,,,,0.0113
+2021,Prozent,Sexuelle Belästigung,,,|,,,0.011
+2022,Prozent,Sexuelle Belästigung,,,,,,0.0117
+2023,Prozent,Sexuelle Belästigung,,,,,,0.0122
+2024,Prozent,Sexuelle Belästigung,,,,,,0.0129
+2010,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0159
+2011,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0172
+2012,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.018
+2013,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0177
+2014,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0179
+2015,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0176
+2016,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0181
+2017,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0175
+2018,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0183
+2019,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0164
+2020,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0191
+2021,Prozent,Sexuelle Belästigung,,Weiblich,|,,,0.0185
+2022,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0195
+2023,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.02
+2024,Prozent,Sexuelle Belästigung,,Weiblich,,,,0.0209
+2010,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0022
+2011,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0025
+2012,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0023
+2013,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0023
+2014,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0025
+2015,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0024
+2016,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0027
+2017,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0027
+2018,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0029
+2019,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0029
+2020,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0033
+2021,Prozent,Sexuelle Belästigung,,Männlich,|,0,,0.0034
+2022,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0037
+2023,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0042
+2024,Prozent,Sexuelle Belästigung,,Männlich,0,,,0.0047
+2010,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2011,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2012,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2013,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2014,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2015,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2016,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2017,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2018,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2019,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2020,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0
+2021,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,|,0,,0.0005
+2022,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0013
+2023,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0012
+2024,Prozent,Sexuelle Belästigung,13 Jahre und jünger,,0,,,0.0013
+2010,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2011,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2012,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2013,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2014,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2015,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2016,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2017,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2018,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2019,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2020,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0
+2021,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,|,0,,0.0007
+2022,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0023
+2023,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.002
+2024,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Weiblich,0,,,0.0017
+2010,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2011,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2012,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2013,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2014,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2015,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2016,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2017,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2018,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2019,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2020,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0
+2021,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,|,0,,0.0003
+2022,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0005
+2023,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0004
+2024,Prozent,Sexuelle Belästigung,13 Jahre und jünger,Männlich,0,,,0.0009
+2010,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0393
+2011,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0342
+2012,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0341
+2013,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0348
+2014,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0345
+2015,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0316
+2016,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0295
+2017,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0288
+2018,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0295
+2019,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0251
+2020,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0289
+2021,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,|,,,0.0289
+2022,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0411
+2023,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0392
+2024,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,,,,,0.0439
+2010,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0709
+2011,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0627
+2012,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0631
+2013,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0637
+2014,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0636
+2015,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0604
+2016,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0545
+2017,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0515
+2018,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0524
+2019,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0449
+2020,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0516
+2021,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,|,,,0.0519
+2022,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0734
+2023,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0685
+2024,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Weiblich,,,,0.0766
+2010,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0094
+2011,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0071
+2012,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0066
+2013,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0073
+2014,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0069
+2015,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,0,,,0.0046
+2016,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0062
+2017,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0075
+2018,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0078
+2019,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0063
+2020,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0073
+2021,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,|,,,0.007
+2022,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0107
+2023,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0117
+2024,Prozent,Sexuelle Belästigung,14 bis unter 18 Jahre,Männlich,,,,0.0133
+2010,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0286
+2011,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0312
+2012,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0322
+2013,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0305
+2014,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0329
+2015,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0318
+2016,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0298
+2017,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0357
+2018,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0341
+2019,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0288
+2020,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0397
+2021,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,|,,,0.0375
+2022,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0394
+2023,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0389
+2024,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,,,,,0.0427
+2010,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0537
+2011,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0589
+2012,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0614
+2013,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0578
+2014,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0633
+2015,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0612
+2016,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0569
+2017,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0694
+2018,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.064
+2019,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0533
+2020,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0748
+2021,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,|,,,0.0692
+2022,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0726
+2023,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0713
+2024,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Weiblich,,,,0.0773
+2010,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,0,,,0.0048
+2011,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,0,,,0.0048
+2012,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,0,,,0.0044
+2013,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,0,,,0.0046
+2014,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,0,,,0.0043
+2015,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,0,,,0.0048
+2016,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0054
+2017,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0053
+2018,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.007
+2019,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0065
+2020,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0073
+2021,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,|,,,0.0077
+2022,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0082
+2023,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0088
+2024,Prozent,Sexuelle Belästigung,18 bis unter 21 Jahre,Männlich,,,,0.0109
+2010,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0108
+2011,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0119
+2012,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0126
+2013,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0123
+2014,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0126
+2015,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0126
+2016,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0136
+2017,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0129
+2018,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.014
+2019,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0132
+2020,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0153
+2021,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,|,,,0.0148
+2022,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0156
+2023,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0166
+2024,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,,,,,0.0175
+2010,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0192
+2011,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0208
+2012,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0224
+2013,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0218
+2014,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0223
+2015,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0222
+2016,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0239
+2017,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0226
+2018,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0245
+2019,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0224
+2020,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0263
+2021,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,|,,,0.0253
+2022,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0264
+2023,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0278
+2024,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Weiblich,,,,0.0289
+2010,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.0027
+2011,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.003
+2012,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.0029
+2013,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.0028
+2014,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.0032
+2015,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.0032
+2016,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.0036
+2017,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.0035
+2018,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.0038
+2019,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.0042
+2020,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,0,,,0.0046
+2021,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,|,0,,0.0048
+2022,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0051
+2023,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0058
+2024,Prozent,Sexuelle Belästigung,21 bis unter 60 Jahre,Männlich,,,,0.0064
+2010,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0031
+2011,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0033
+2012,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0033
+2013,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0034
+2014,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0032
+2015,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0034
+2016,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0035
+2017,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0033
+2018,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0035
+2019,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0032
+2020,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0034
+2021,Prozent,Sexuelle Belästigung,60 Jahre und älter,,|,0,,0.0033
+2022,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0032
+2023,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0037
+2024,Prozent,Sexuelle Belästigung,60 Jahre und älter,,0,,,0.0036
+2010,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,0,,,0.005
+2011,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0052
+2012,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0052
+2013,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0055
+2014,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0052
+2015,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0054
+2016,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0056
+2017,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0052
+2018,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0054
+2019,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0051
+2020,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0052
+2021,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,|,,,0.0052
+2022,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.005
+2023,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0055
+2024,Prozent,Sexuelle Belästigung,60 Jahre und älter,Weiblich,,,,0.0054
+2010,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0008
+2011,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.001
+2012,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0008
+2013,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0007
+2014,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0008
+2015,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.001
+2016,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0008
+2017,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0009
+2018,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0012
+2019,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0007
+2020,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0011
+2021,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,|,0,,0.0009
+2022,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.001
+2023,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0015
+2024,Prozent,Sexuelle Belästigung,60 Jahre und älter,Männlich,0,,,0.0015
