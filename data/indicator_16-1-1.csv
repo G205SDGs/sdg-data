@@ -1,267 +1,946 @@
-Year,Units,age group,sex,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2
-2010,"per 100,000 inhabitants",,,0.99,,,
-2011,"per 100,000 inhabitants",,,0.92,,,
-2012,"per 100,000 inhabitants",,,0.82,,,
-2013,"per 100,000 inhabitants",,,0.85,,,
-2014,"per 100,000 inhabitants",,,0.88,,,
-2015,"per 100,000 inhabitants",,,0.83,,,
-2016,"per 100,000 inhabitants",,,1.17,,,
-2017,"per 100,000 inhabitants",,,0.98,,,
-2018,"per 100,000 inhabitants",,,0.95,,,
-2019,"per 100,000 inhabitants",,,0.75,,,
-2020,"per 100,000 inhabitants",,,0.94,,,
-2021,"per 100,000 inhabitants",,,0.84,,,
-2022,"per 100,000 inhabitants",,,0.82,,,
-2023,"per 100,000 inhabitants",,,0.91,,,
-2010,number,,,793,,,
-2011,number,,,738,,,
-2012,number,,,659,,,
-2013,number,,,682,,,
-2014,number,,,716,,,
-2015,number,,,682,,,
-2016,number,,,963,,,
-2017,number,,,813,,,
-2018,number,,,788,,,
-2019,number,,,623,,,
-2020,number,,,782,,,
-2021,number,,,695,,,
-2022,number,,,686,,,
-2023,number,,,770,,,
-2010,number,13 years and younger,,77,,,
-2011,number,13 years and younger,,73,,,
-2012,number,13 years and younger,,90,,,
-2013,number,13 years and younger,,66,,,
-2014,number,13 years and younger,,63,,,
-2015,number,13 years and younger,,62,,,
-2016,number,13 years and younger,,68,,,
-2017,number,13 years and younger,,67,,,
-2018,number,13 years and younger,,70,,,
-2019,number,13 years and younger,,46,,,
-2020,number,13 years and younger,,79,,,
-2021,number,13 years and younger,,83,,,
-2022,number,13 years and younger,,51,,,
-2023,number,13 years and younger,,72,,,
-2010,number,14 to under 18 years,,22,,,
-2011,number,14 to under 18 years,,27,,,
-2012,number,14 to under 18 years,,6,,,
-2013,number,14 to under 18 years,,12,,,
-2014,number,14 to under 18 years,,15,,,
-2015,number,14 to under 18 years,,14,,,
-2016,number,14 to under 18 years,,35,,,
-2017,number,14 to under 18 years,,4,,,
-2018,number,14 to under 18 years,,14,,,
-2019,number,14 to under 18 years,,11,,,
-2020,number,14 to under 18 years,,12,,,
-2021,number,14 to under 18 years,,14,,,
-2022,number,14 to under 18 years,,14,,,
-2023,number,14 to under 18 years,,17,,,
-2010,number,18 to under 21 years,,38,,,
-2011,number,18 to under 21 years,,29,,,
-2012,number,18 to under 21 years,,23,,,
-2013,number,18 to under 21 years,,15,,,
-2014,number,18 to under 21 years,,20,,,
-2015,number,18 to under 21 years,,18,,,
-2016,number,18 to under 21 years,,43,,,
-2017,number,18 to under 21 years,,16,,,
-2018,number,18 to under 21 years,,26,,,
-2019,number,18 to under 21 years,,16,,,
-2020,number,18 to under 21 years,,21,,,
-2021,number,18 to under 21 years,,19,,,
-2022,number,18 to under 21 years,,23,,,
-2023,number,18 to under 21 years,,18,,,
-2010,number,21 to under 60 years,,448,,,
-2011,number,21 to under 60 years,,424,,,
-2012,number,21 to under 60 years,,359,,,
-2013,number,21 to under 60 years,,377,,,
-2014,number,21 to under 60 years,,405,,,
-2015,number,21 to under 60 years,,343,,,
-2016,number,21 to under 60 years,,527,,,
-2017,number,21 to under 60 years,,414,,,
-2018,number,21 to under 60 years,,445,,,
-2019,number,21 to under 60 years,,349,,,
-2020,number,21 to under 60 years,,378,,,
-2021,number,21 to under 60 years,,336,,,
-2022,number,21 to under 60 years,,334,,,
-2023,number,21 to under 60 years,,430,,,
-2010,number,60 years and older,,208,,,
-2011,number,60 years and older,,185,,,
-2012,number,60 years and older,,181,,,
-2013,number,60 years and older,,212,,,
-2014,number,60 years and older,,213,,,
-2015,number,60 years and older,,245,,,
-2016,number,60 years and older,,290,,,
-2017,number,60 years and older,,312,,,
-2018,number,60 years and older,,233,,,
-2019,number,60 years and older,,201,,,
-2020,number,60 years and older,,292,,,
-2021,number,60 years and older,,243,,,
-2022,number,60 years and older,,264,,,
-2023,number,60 years and older,,233,,,
-2010,number,,female,393,,,
-2011,number,,female,338,,,
-2012,number,,female,296,,,
-2013,number,,female,328,,,
-2014,number,,female,339,,,
-2015,number,,female,327,,,
-2016,number,,female,469,,,
-2017,number,,female,380,,,
-2018,number,,female,367,,,
-2019,number,,female,276,,,
-2020,number,,female,357,,,
-2021,number,,female,337,,,
-2022,number,,female,349,,,
-2023,number,,female,374,r,,
-2010,number,,male,400,,,
-2011,number,,male,400,,,
-2012,number,,male,363,,,
-2013,number,,male,354,,,
-2014,number,,male,377,,,
-2015,number,,male,355,,,
-2016,number,,male,494,,,
-2017,number,,male,433,,,
-2018,number,,male,421,,,
-2019,number,,male,347,,,
-2020,number,,male,425,,,
-2021,number,,male,358,,,
-2022,number,,male,337,,,
-2023,number,,male,396,,,
-2010,number,13 years and younger,female,,.,,
-2011,number,13 years and younger,female,,.,,
-2012,number,13 years and younger,female,39,,,
-2013,number,13 years and younger,female,37,,,
-2014,number,13 years and younger,female,24,,,
-2015,number,13 years and younger,female,25,,,
-2016,number,13 years and younger,female,30,,,
-2017,number,13 years and younger,female,28,,,
-2018,number,13 years and younger,female,30,,,
-2019,number,13 years and younger,female,17,,,
-2020,number,13 years and younger,female,43,,,
-2021,number,13 years and younger,female,43,,,
-2022,number,13 years and younger,female,27,,,
-2023,number,13 years and younger,female,39,,,
-2010,number,13 years and younger,male,,.,,
-2011,number,13 years and younger,male,,.,,
-2012,number,13 years and younger,male,51,,,
-2013,number,13 years and younger,male,29,,,
-2014,number,13 years and younger,male,39,,,
-2015,number,13 years and younger,male,37,,,
-2016,number,13 years and younger,male,38,,,
-2017,number,13 years and younger,male,39,,,
-2018,number,13 years and younger,male,40,,,
-2019,number,13 years and younger,male,29,,,
-2020,number,13 years and younger,male,36,,,
-2021,number,13 years and younger,male,40,,,
-2022,number,13 years and younger,male,24,,,
-2023,number,13 years and younger,male,33,,,
-2010,number,14 to under 18 years,female,,.,,
-2011,number,14 to under 18 years,female,,.,,
-2012,number,14 to under 18 years,female,0,,,
-2013,number,14 to under 18 years,female,4,,,
-2014,number,14 to under 18 years,female,5,,,
-2015,number,14 to under 18 years,female,9,,,
-2016,number,14 to under 18 years,female,22,,,
-2017,number,14 to under 18 years,female,1,,,
-2018,number,14 to under 18 years,female,8,,,
-2019,number,14 to under 18 years,female,4,,,
-2020,number,14 to under 18 years,female,4,,,
-2021,number,14 to under 18 years,female,7,,,
-2022,number,14 to under 18 years,female,12,,,
-2023,number,14 to under 18 years,female,8,,,
-2010,number,14 to under 18 years,male,,.,,
-2011,number,14 to under 18 years,male,,.,,
-2012,number,14 to under 18 years,male,6,,,
-2013,number,14 to under 18 years,male,8,,,
-2014,number,14 to under 18 years,male,10,,,
-2015,number,14 to under 18 years,male,5,,,
-2016,number,14 to under 18 years,male,13,,,
-2017,number,14 to under 18 years,male,3,,,
-2018,number,14 to under 18 years,male,6,,,
-2019,number,14 to under 18 years,male,7,,,
-2020,number,14 to under 18 years,male,8,,,
-2021,number,14 to under 18 years,male,7,,,
-2022,number,14 to under 18 years,male,2,,,
-2023,number,14 to under 18 years,male,9,,,
-2010,number,18 to under 21 years,female,,.,,
-2011,number,18 to under 21 years,female,,.,,
-2012,number,18 to under 21 years,female,10,,,
-2013,number,18 to under 21 years,female,6,,,
-2014,number,18 to under 21 years,female,9,,,
-2015,number,18 to under 21 years,female,9,,,
-2016,number,18 to under 21 years,female,18,,,
-2017,number,18 to under 21 years,female,7,,,
-2018,number,18 to under 21 years,female,12,,,
-2019,number,18 to under 21 years,female,5,,,
-2020,number,18 to under 21 years,female,6,,,
-2021,number,18 to under 21 years,female,4,,,
-2022,number,18 to under 21 years,female,8,,,
-2023,number,18 to under 21 years,female,9,,,
-2010,number,18 to under 21 years,male,,.,,
-2011,number,18 to under 21 years,male,,.,,
-2012,number,18 to under 21 years,male,13,,,
-2013,number,18 to under 21 years,male,9,,,
-2014,number,18 to under 21 years,male,11,,,
-2015,number,18 to under 21 years,male,9,,,
-2016,number,18 to under 21 years,male,25,,,
-2017,number,18 to under 21 years,male,9,,,
-2018,number,18 to under 21 years,male,14,,,
-2019,number,18 to under 21 years,male,11,,,
-2020,number,18 to under 21 years,male,15,,,
-2021,number,18 to under 21 years,male,15,,,
-2022,number,18 to under 21 years,male,15,,,
-2023,number,18 to under 21 years,male,9,,,
-2010,number,21 to under 60 years,female,,.,,
-2011,number,21 to under 60 years,female,,.,,
-2012,number,21 to under 60 years,female,139,,,
-2013,number,21 to under 60 years,female,159,,,
-2014,number,21 to under 60 years,female,180,,,
-2015,number,21 to under 60 years,female,141,,,
-2016,number,21 to under 60 years,female,236,,,
-2017,number,21 to under 60 years,female,176,,,
-2018,number,21 to under 60 years,female,184,,,
-2019,number,21 to under 60 years,female,144,,,
-2020,number,21 to under 60 years,female,142,,,
-2021,number,21 to under 60 years,female,140,,,
-2022,number,21 to under 60 years,female,136,,,
-2023,number,21 to under 60 years,female,184,,,
-2010,number,21 to under 60 years,male,,.,,
-2011,number,21 to under 60 years,male,,.,,
-2012,number,21 to under 60 years,male,220,,,
-2013,number,21 to under 60 years,male,218,,,
-2014,number,21 to under 60 years,male,225,,,
-2015,number,21 to under 60 years,male,202,,,
-2016,number,21 to under 60 years,male,291,,,
-2017,number,21 to under 60 years,male,238,,,
-2018,number,21 to under 60 years,male,261,,,
-2019,number,21 to under 60 years,male,205,,,
-2020,number,21 to under 60 years,male,236,,,
-2021,number,21 to under 60 years,male,196,,,
-2022,number,21 to under 60 years,male,198,,,
-2023,number,21 to under 60 years,male,246,,,
-2010,number,60 years and older,female,,.,,
-2011,number,60 years and older,female,,.,,
-2012,number,60 years and older,female,108,,,
-2013,number,60 years and older,female,122,,,
-2014,number,60 years and older,female,121,,,
-2015,number,60 years and older,female,143,,,
-2016,number,60 years and older,female,163,,,
-2017,number,60 years and older,female,168,,,
-2018,number,60 years and older,female,133,,,
-2019,number,60 years and older,female,106,,,
-2020,number,60 years and older,female,162,,,
-2021,number,60 years and older,female,143,,,
-2022,number,60 years and older,female,166,,,
-2023,number,60 years and older,female,134,,,
-2010,number,60 years and older,male,,.,,
-2011,number,60 years and older,male,,.,,
-2012,number,60 years and older,male,73,,,
-2013,number,60 years and older,male,90,,,
-2014,number,60 years and older,male,92,,,
-2015,number,60 years and older,male,102,,,
-2016,number,60 years and older,male,127,,,
-2017,number,60 years and older,male,144,,,
-2018,number,60 years and older,male,100,,,
-2019,number,60 years and older,male,95,,,
-2020,number,60 years and older,male,130,,,
-2021,number,60 years and older,male,100,,,
-2022,number,60 years and older,male,98,,,
-2023,number,60 years and older,male,99,,,
+Year,Units,age group,sex,typ of victim-suspect relationship,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,"per 100,000 inhabitants",,,,,,,0.97
+2011,"per 100,000 inhabitants",,,,,,,0.90
+2012,"per 100,000 inhabitants",,,,,,,0.81
+2013,"per 100,000 inhabitants",,,,|,,,0.86
+2014,"per 100,000 inhabitants",,,,,,,0.89
+2015,"per 100,000 inhabitants",,,,,,,0.84
+2016,"per 100,000 inhabitants",,,,,,,1.17
+2017,"per 100,000 inhabitants",,,,,,,0.99
+2018,"per 100,000 inhabitants",,,,,,,0.95
+2019,"per 100,000 inhabitants",,,,,,,0.75
+2020,"per 100,000 inhabitants",,,,,,,0.94
+2021,"per 100,000 inhabitants",,,,,,,0.84
+2022,"per 100,000 inhabitants",,,,,,,0.82
+2023,"per 100,000 inhabitants",,,,,,,0.91
+2024,"per 100,000 inhabitants",,,,|,,,0.93
+2010,"per 100,000 inhabitants",13 years and younger,,,,,,0.75
+2011,"per 100,000 inhabitants",13 years and younger,,,,,,0.72
+2012,"per 100,000 inhabitants",13 years and younger,,,,,,0.90
+2013,"per 100,000 inhabitants",13 years and younger,,,|,,,0.67
+2014,"per 100,000 inhabitants",13 years and younger,,,,,,0.64
+2015,"per 100,000 inhabitants",13 years and younger,,,,,,0.63
+2016,"per 100,000 inhabitants",13 years and younger,,,,,,0.67
+2017,"per 100,000 inhabitants",13 years and younger,,,,,,0.65
+2018,"per 100,000 inhabitants",13 years and younger,,,,,,0.67
+2019,"per 100,000 inhabitants",13 years and younger,,,,,,0.49
+2020,"per 100,000 inhabitants",13 years and younger,,,,,,0.74
+2021,"per 100,000 inhabitants",13 years and younger,,,,,,0.77
+2022,"per 100,000 inhabitants",13 years and younger,,,,,,0.47
+2023,"per 100,000 inhabitants",13 years and younger,,,,,,0.65
+2024,"per 100,000 inhabitants",13 years and younger,,,|,,,0.51
+2010,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.68
+2011,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.84
+2012,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.19
+2013,"per 100,000 inhabitants",14 to under 18 years,,,|,,,0.37
+2014,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.47
+2015,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.44
+2016,"per 100,000 inhabitants",14 to under 18 years,,,,,,1.09
+2017,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.13
+2018,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.45
+2019,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.36
+2020,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.40
+2021,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.47
+2022,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.46
+2023,"per 100,000 inhabitants",14 to under 18 years,,,,,,0.55
+2024,"per 100,000 inhabitants",14 to under 18 years,,,|,,,0.48
+2010,"per 100,000 inhabitants",18 to under 21 years,,,,,,1.34
+2011,"per 100,000 inhabitants",18 to under 21 years,,,,,,1.06
+2012,"per 100,000 inhabitants",18 to under 21 years,,,,,,0.89
+2013,"per 100,000 inhabitants",18 to under 21 years,,,|,,,0.61
+2014,"per 100,000 inhabitants",18 to under 21 years,,,,,,0.82
+2015,"per 100,000 inhabitants",18 to under 21 years,,,,,,0.73
+2016,"per 100,000 inhabitants",18 to under 21 years,,,,,,1.65
+2017,"per 100,000 inhabitants",18 to under 21 years,,,,,,0.60
+2018,"per 100,000 inhabitants",18 to under 21 years,,,,,,0.99
+2019,"per 100,000 inhabitants",18 to under 21 years,,,,,,0.62
+2020,"per 100,000 inhabitants",18 to under 21 years,,,,,,0.83
+2021,"per 100,000 inhabitants",18 to under 21 years,,,,,,0.77
+2022,"per 100,000 inhabitants",18 to under 21 years,,,,,,0.96
+2023,"per 100,000 inhabitants",18 to under 21 years,,,,,,0.74
+2024,"per 100,000 inhabitants",18 to under 21 years,,,|,,,1.11
+2010,"per 100,000 inhabitants",21 to under 60 years,,,,,,1.01
+2011,"per 100,000 inhabitants",21 to under 60 years,,,,,,0.96
+2012,"per 100,000 inhabitants",21 to under 60 years,,,,,,0.81
+2013,"per 100,000 inhabitants",21 to under 60 years,,,|,,,0.87
+2014,"per 100,000 inhabitants",21 to under 60 years,,,,,,0.93
+2015,"per 100,000 inhabitants",21 to under 60 years,,,,,,0.75
+2016,"per 100,000 inhabitants",21 to under 60 years,,,,,,1.20
+2017,"per 100,000 inhabitants",21 to under 60 years,,,,,,0.95
+2018,"per 100,000 inhabitants",21 to under 60 years,,,,,,1.02
+2019,"per 100,000 inhabitants",21 to under 60 years,,,,,,0.80
+2020,"per 100,000 inhabitants",21 to under 60 years,,,,,,0.87
+2021,"per 100,000 inhabitants",21 to under 60 years,,,,,,0.78
+2022,"per 100,000 inhabitants",21 to under 60 years,,,,,,0.79
+2023,"per 100,000 inhabitants",21 to under 60 years,,,,,,1.00
+2024,"per 100,000 inhabitants",21 to under 60 years,,,|,,,0.98
+2010,"per 100,000 inhabitants",60 years and older,,,,,,0.98
+2011,"per 100,000 inhabitants",60 years and older,,,,,,0.86
+2012,"per 100,000 inhabitants",60 years and older,,,,,,0.83
+2013,"per 100,000 inhabitants",60 years and older,,,|,,,0.98
+2014,"per 100,000 inhabitants",60 years and older,,,,,,0.97
+2015,"per 100,000 inhabitants",60 years and older,,,,,,1.10
+2016,"per 100,000 inhabitants",60 years and older,,,,,,1.29
+2017,"per 100,000 inhabitants",60 years and older,,,,,,1.37
+2018,"per 100,000 inhabitants",60 years and older,,,,,,1.01
+2019,"per 100,000 inhabitants",60 years and older,,,,,,0.86
+2020,"per 100,000 inhabitants",60 years and older,,,,,,1.23
+2021,"per 100,000 inhabitants",60 years and older,,,,,,1.01
+2022,"per 100,000 inhabitants",60 years and older,,,,,,1.08
+2023,"per 100,000 inhabitants",60 years and older,,,,,,0.94
+2024,"per 100,000 inhabitants",60 years and older,,,|,,,1.07
+2010,"per 100,000 inhabitants",,female,,,,,0.94
+2011,"per 100,000 inhabitants",,female,,,,,0.81
+2012,"per 100,000 inhabitants",,female,,,,,0.71
+2013,"per 100,000 inhabitants",,female,,|,,,0.80
+2014,"per 100,000 inhabitants",,female,,,,,0.82
+2015,"per 100,000 inhabitants",,female,,,,,0.79
+2016,"per 100,000 inhabitants",,female,,,,,1.13
+2017,"per 100,000 inhabitants",,female,,,,,0.91
+2018,"per 100,000 inhabitants",,female,,,,,0.87
+2019,"per 100,000 inhabitants",,female,,,,,0.66
+2020,"per 100,000 inhabitants",,female,,,,,0.85
+2021,"per 100,000 inhabitants",,female,,,,,0.80
+2022,"per 100,000 inhabitants",,female,,,,,0.83
+2023,"per 100,000 inhabitants",,female,,,,,0.87
+2024,"per 100,000 inhabitants",,female,,|,,,0.80
+2010,"per 100,000 inhabitants",,male,,,,,1.00
+2011,"per 100,000 inhabitants",,male,,,,,1.00
+2012,"per 100,000 inhabitants",,male,,,,,0.90
+2013,"per 100,000 inhabitants",,male,,|,,,0.90
+2014,"per 100,000 inhabitants",,male,,,,,0.95
+2015,"per 100,000 inhabitants",,male,,,,,0.86
+2016,"per 100,000 inhabitants",,male,,,,,1.22
+2017,"per 100,000 inhabitants",,male,,,,,1.06
+2018,"per 100,000 inhabitants",,male,,,,,1.03
+2019,"per 100,000 inhabitants",,male,,,,,0.85
+2020,"per 100,000 inhabitants",,male,,,,,1.04
+2021,"per 100,000 inhabitants",,male,,,,,0.87
+2022,"per 100,000 inhabitants",,male,,,,,0.82
+2023,"per 100,000 inhabitants",,male,,,,,0.95
+2024,"per 100,000 inhabitants",,male,,|,,,1.07
+2010,"per 100,000 inhabitants",13 years and younger,female,,,,,0.74
+2011,"per 100,000 inhabitants",13 years and younger,female,,,,,0.49
+2012,"per 100,000 inhabitants",13 years and younger,female,,,,,0.80
+2013,"per 100,000 inhabitants",13 years and younger,female,,|,,,0.77
+2014,"per 100,000 inhabitants",13 years and younger,female,,,,,0.50
+2015,"per 100,000 inhabitants",13 years and younger,female,,,,,0.52
+2016,"per 100,000 inhabitants",13 years and younger,female,,,,,0.61
+2017,"per 100,000 inhabitants",13 years and younger,female,,,,,0.56
+2018,"per 100,000 inhabitants",13 years and younger,female,,,,,0.59
+2019,"per 100,000 inhabitants",13 years and younger,female,,,,,0.33
+2020,"per 100,000 inhabitants",13 years and younger,female,,,,,0.81
+2021,"per 100,000 inhabitants",13 years and younger,female,,,,,0.82
+2022,"per 100,000 inhabitants",13 years and younger,female,,,,,0.51
+2023,"per 100,000 inhabitants",13 years and younger,female,,,,,0.72
+2024,"per 100,000 inhabitants",13 years and younger,female,,|,,,0.38
+2010,"per 100,000 inhabitants",13 years and younger,male,,,,,0.76
+2011,"per 100,000 inhabitants",13 years and younger,male,,,,,0.94
+2012,"per 100,000 inhabitants",13 years and younger,male,,,,,0.99
+2013,"per 100,000 inhabitants",13 years and younger,male,,|,,,0.57
+2014,"per 100,000 inhabitants",13 years and younger,male,,,,,0.77
+2015,"per 100,000 inhabitants",13 years and younger,male,,,,,0.73
+2016,"per 100,000 inhabitants",13 years and younger,male,,,,,0.73
+2017,"per 100,000 inhabitants",13 years and younger,male,,,,,0.74
+2018,"per 100,000 inhabitants",13 years and younger,male,,,,,0.75
+2019,"per 100,000 inhabitants",13 years and younger,male,,,,,0.53
+2020,"per 100,000 inhabitants",13 years and younger,male,,,,,0.68
+2021,"per 100,000 inhabitants",13 years and younger,male,,,,,0.72
+2022,"per 100,000 inhabitants",13 years and younger,male,,,,,0.43
+2023,"per 100,000 inhabitants",13 years and younger,male,,,,,0.58
+2024,"per 100,000 inhabitants",13 years and younger,male,,|,,,0.65
+2010,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.89
+2011,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.77
+2012,"per 100,000 inhabitants",14 to under 18 years,female,,‒,,,0.00
+2013,"per 100,000 inhabitants",14 to under 18 years,female,,|,,,0.26
+2014,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.32
+2015,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.58
+2016,"per 100,000 inhabitants",14 to under 18 years,female,,,,,1.43
+2017,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.07
+2018,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.53
+2019,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.27
+2020,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.27
+2021,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.48
+2022,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.82
+2023,"per 100,000 inhabitants",14 to under 18 years,female,,,,,0.53
+2024,"per 100,000 inhabitants",14 to under 18 years,female,,|,,,0.47
+2010,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.48
+2011,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.91
+2012,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.28
+2013,"per 100,000 inhabitants",14 to under 18 years,male,,|,,,0.49
+2014,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.61
+2015,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.30
+2016,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.78
+2017,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.18
+2018,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.37
+2019,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.44
+2020,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.51
+2021,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.45
+2022,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.13
+2023,"per 100,000 inhabitants",14 to under 18 years,male,,,,,0.56
+2024,"per 100,000 inhabitants",14 to under 18 years,male,,|,,,0.50
+2010,"per 100,000 inhabitants",18 to under 21 years,female,,,,,1.37
+2011,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.75
+2012,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.79
+2013,"per 100,000 inhabitants",18 to under 21 years,female,,|,,,0.50
+2014,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.76
+2015,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.75
+2016,"per 100,000 inhabitants",18 to under 21 years,female,,,,,1.45
+2017,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.56
+2018,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.96
+2019,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.41
+2020,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.50
+2021,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.34
+2022,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.69
+2023,"per 100,000 inhabitants",18 to under 21 years,female,,,,,0.76
+2024,"per 100,000 inhabitants",18 to under 21 years,female,,|,,,1.12
+2010,"per 100,000 inhabitants",18 to under 21 years,male,,,,,1.31
+2011,"per 100,000 inhabitants",18 to under 21 years,male,,,,,1.36
+2012,"per 100,000 inhabitants",18 to under 21 years,male,,,,,0.98
+2013,"per 100,000 inhabitants",18 to under 21 years,male,,|,,,0.71
+2014,"per 100,000 inhabitants",18 to under 21 years,male,,,,,0.88
+2015,"per 100,000 inhabitants",18 to under 21 years,male,,,,,0.70
+2016,"per 100,000 inhabitants",18 to under 21 years,male,,,,,1.82
+2017,"per 100,000 inhabitants",18 to under 21 years,male,,,,,0.65
+2018,"per 100,000 inhabitants",18 to under 21 years,male,,,,,1.01
+2019,"per 100,000 inhabitants",18 to under 21 years,male,,,,,0.81
+2020,"per 100,000 inhabitants",18 to under 21 years,male,,,,,1.13
+2021,"per 100,000 inhabitants",18 to under 21 years,male,,,,,1.18
+2022,"per 100,000 inhabitants",18 to under 21 years,male,,,,,1.21
+2023,"per 100,000 inhabitants",18 to under 21 years,male,,,,,0.71
+2024,"per 100,000 inhabitants",18 to under 21 years,male,,|,,,1.11
+2010,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.92
+2011,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.83
+2012,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.64
+2013,"per 100,000 inhabitants",21 to under 60 years,female,,|,,,0.74
+2014,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.84
+2015,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.62
+2016,"per 100,000 inhabitants",21 to under 60 years,female,,,,,1.10
+2017,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.82
+2018,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.86
+2019,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.67
+2020,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.67
+2021,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.66
+2022,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.65
+2023,"per 100,000 inhabitants",21 to under 60 years,female,,,,,0.87
+2024,"per 100,000 inhabitants",21 to under 60 years,female,,|,,,0.73
+2010,"per 100,000 inhabitants",21 to under 60 years,male,,,,,1.10
+2011,"per 100,000 inhabitants",21 to under 60 years,male,,,,,1.09
+2012,"per 100,000 inhabitants",21 to under 60 years,male,,,,,0.98
+2013,"per 100,000 inhabitants",21 to under 60 years,male,,|,,,1.00
+2014,"per 100,000 inhabitants",21 to under 60 years,male,,,,,1.03
+2015,"per 100,000 inhabitants",21 to under 60 years,male,,,,,0.87
+2016,"per 100,000 inhabitants",21 to under 60 years,male,,,,,1.31
+2017,"per 100,000 inhabitants",21 to under 60 years,male,,,,,1.07
+2018,"per 100,000 inhabitants",21 to under 60 years,male,,,,,1.18
+2019,"per 100,000 inhabitants",21 to under 60 years,male,,,,,0.93
+2020,"per 100,000 inhabitants",21 to under 60 years,male,,,,,1.07
+2021,"per 100,000 inhabitants",21 to under 60 years,male,,,,,0.90
+2022,"per 100,000 inhabitants",21 to under 60 years,male,,,,,0.92
+2023,"per 100,000 inhabitants",21 to under 60 years,male,,,,,1.13
+2024,"per 100,000 inhabitants",21 to under 60 years,male,,|,,,1.23
+2010,"per 100,000 inhabitants",60 years and older,female,,,,,1.02
+2011,"per 100,000 inhabitants",60 years and older,female,,,,,0.93
+2012,"per 100,000 inhabitants",60 years and older,female,,,,,0.89
+2013,"per 100,000 inhabitants",60 years and older,female,,|,,,1.01
+2014,"per 100,000 inhabitants",60 years and older,female,,,,,0.99
+2015,"per 100,000 inhabitants",60 years and older,female,,,,,1.16
+2016,"per 100,000 inhabitants",60 years and older,female,,,,,1.31
+2017,"per 100,000 inhabitants",60 years and older,female,,,,,1.33
+2018,"per 100,000 inhabitants",60 years and older,female,,,,,1.04
+2019,"per 100,000 inhabitants",60 years and older,female,,,,,0.82
+2020,"per 100,000 inhabitants",60 years and older,female,,,,,1.24
+2021,"per 100,000 inhabitants",60 years and older,female,,,,,1.08
+2022,"per 100,000 inhabitants",60 years and older,female,,,,,1.24
+2023,"per 100,000 inhabitants",60 years and older,female,,,,,0.99
+2024,"per 100,000 inhabitants",60 years and older,female,,|,,,1.08
+2010,"per 100,000 inhabitants",60 years and older,male,,,,,0.93
+2011,"per 100,000 inhabitants",60 years and older,male,,,,,0.77
+2012,"per 100,000 inhabitants",60 years and older,male,,,,,0.76
+2013,"per 100,000 inhabitants",60 years and older,male,,|,,,0.94
+2014,"per 100,000 inhabitants",60 years and older,male,,,,,0.95
+2015,"per 100,000 inhabitants",60 years and older,male,,,,,1.03
+2016,"per 100,000 inhabitants",60 years and older,male,,,,,1.27
+2017,"per 100,000 inhabitants",60 years and older,male,,,,,1.41
+2018,"per 100,000 inhabitants",60 years and older,male,,,,,0.97
+2019,"per 100,000 inhabitants",60 years and older,male,,,,,0.90
+2020,"per 100,000 inhabitants",60 years and older,male,,,,,1.21
+2021,"per 100,000 inhabitants",60 years and older,male,,,,,0.92
+2022,"per 100,000 inhabitants",60 years and older,male,,,,,0.89
+2023,"per 100,000 inhabitants",60 years and older,male,,,,,0.88
+2024,"per 100,000 inhabitants",60 years and older,male,,|,,,1.06
+2010,number,,,,,,,793
+2011,number,,,,,,,738
+2012,number,,,,,,,659
+2013,number,,,,,,,682
+2014,number,,,,,,,716
+2015,number,,,,,,,682
+2016,number,,,,,,,963
+2017,number,,,,,,,813
+2018,number,,,,,,,788
+2019,number,,,,,,,623
+2020,number,,,,,,,782
+2021,number,,,,,,,695
+2022,number,,,,,,,686
+2023,number,,,,,,,770
+2024,number,,,,,,,779
+2010,number,13 years and younger,,,,,,77
+2011,number,13 years and younger,,,,,,73
+2012,number,13 years and younger,,,,,,90
+2013,number,13 years and younger,,,,,,66
+2014,number,13 years and younger,,,,,,63
+2015,number,13 years and younger,,,,,,62
+2016,number,13 years and younger,,,,,,68
+2017,number,13 years and younger,,,,,,67
+2018,number,13 years and younger,,,,,,70
+2019,number,13 years and younger,,,,,,46
+2020,number,13 years and younger,,,,,,79
+2021,number,13 years and younger,,,,,,83
+2022,number,13 years and younger,,,,,,51
+2023,number,13 years and younger,,,,,,72
+2024,number,13 years and younger,,,,,,56
+2010,number,14 to under 18 years,,,,,,22
+2011,number,14 to under 18 years,,,,,,27
+2012,number,14 to under 18 years,,,,,,6
+2013,number,14 to under 18 years,,,,,,12
+2014,number,14 to under 18 years,,,,,,15
+2015,number,14 to under 18 years,,,,,,14
+2016,number,14 to under 18 years,,,,,,35
+2017,number,14 to under 18 years,,,,,,4
+2018,number,14 to under 18 years,,,,,,14
+2019,number,14 to under 18 years,,,,,,11
+2020,number,14 to under 18 years,,,,,,12
+2021,number,14 to under 18 years,,,,,,14
+2022,number,14 to under 18 years,,,,,,14
+2023,number,14 to under 18 years,,,,,,17
+2024,number,14 to under 18 years,,,,,,15
+2010,number,18 to under 21 years,,,,,,38
+2011,number,18 to under 21 years,,,,,,29
+2012,number,18 to under 21 years,,,,,,23
+2013,number,18 to under 21 years,,,,,,15
+2014,number,18 to under 21 years,,,,,,20
+2015,number,18 to under 21 years,,,,,,18
+2016,number,18 to under 21 years,,,,,,43
+2017,number,18 to under 21 years,,,,,,16
+2018,number,18 to under 21 years,,,,,,26
+2019,number,18 to under 21 years,,,,,,16
+2020,number,18 to under 21 years,,,,,,21
+2021,number,18 to under 21 years,,,,,,19
+2022,number,18 to under 21 years,,,,,,23
+2023,number,18 to under 21 years,,,,,,18
+2024,number,18 to under 21 years,,,,,,27
+2010,number,21 to under 60 years,,,,,,448
+2011,number,21 to under 60 years,,,,,,424
+2012,number,21 to under 60 years,,,,,,359
+2013,number,21 to under 60 years,,,,,,377
+2014,number,21 to under 60 years,,,,,,405
+2015,number,21 to under 60 years,,,,,,343
+2016,number,21 to under 60 years,,,,,,527
+2017,number,21 to under 60 years,,,,,,414
+2018,number,21 to under 60 years,,,,,,445
+2019,number,21 to under 60 years,,,,,,349
+2020,number,21 to under 60 years,,,,,,378
+2021,number,21 to under 60 years,,,,,,336
+2022,number,21 to under 60 years,,,,,,334
+2023,number,21 to under 60 years,,,,,,430
+2024,number,21 to under 60 years,,,,,,412
+2010,number,60 years and older,,,,,,208
+2011,number,60 years and older,,,,,,185
+2012,number,60 years and older,,,,,,181
+2013,number,60 years and older,,,,,,212
+2014,number,60 years and older,,,,,,213
+2015,number,60 years and older,,,,,,245
+2016,number,60 years and older,,,,,,290
+2017,number,60 years and older,,,,,,312
+2018,number,60 years and older,,,,,,233
+2019,number,60 years and older,,,,,,201
+2020,number,60 years and older,,,,,,292
+2021,number,60 years and older,,,,,,243
+2022,number,60 years and older,,,,,,264
+2023,number,60 years and older,,,,,,233
+2024,number,60 years and older,,,,,,269
+2010,number,,female,,,,,393
+2011,number,,female,,,,,338
+2012,number,,female,,,,,296
+2013,number,,female,,,,,328
+2014,number,,female,,,,,339
+2015,number,,female,,,,,327
+2016,number,,female,,,,,469
+2017,number,,female,,,,,380
+2018,number,,female,,,,,367
+2019,number,,female,,,,,276
+2020,number,,female,,,,,357
+2021,number,,female,,,,,337
+2022,number,,female,,,,,349
+2023,number,,female,,,,,374
+2024,number,,female,,,,,338
+2010,number,,male,,,,,400
+2011,number,,male,,,,,400
+2012,number,,male,,,,,363
+2013,number,,male,,,,,354
+2014,number,,male,,,,,377
+2015,number,,male,,,,,355
+2016,number,,male,,,,,494
+2017,number,,male,,,,,433
+2018,number,,male,,,,,421
+2019,number,,male,,,,,347
+2020,number,,male,,,,,425
+2021,number,,male,,,,,358
+2022,number,,male,,,,,337
+2023,number,,male,,,,,396
+2024,number,,male,,,,,441
+2010,number,13 years and younger,female,,,,,37
+2011,number,13 years and younger,female,,,,,24
+2012,number,13 years and younger,female,,,,,39
+2013,number,13 years and younger,female,,,,,37
+2014,number,13 years and younger,female,,,,,24
+2015,number,13 years and younger,female,,,,,25
+2016,number,13 years and younger,female,,,,,30
+2017,number,13 years and younger,female,,,,,28
+2018,number,13 years and younger,female,,,,,30
+2019,number,13 years and younger,female,,,,,17
+2020,number,13 years and younger,female,,,,,43
+2021,number,13 years and younger,female,,,,,43
+2022,number,13 years and younger,female,,,,,27
+2023,number,13 years and younger,female,,,,,39
+2024,number,13 years and younger,female,,,,,20
+2010,number,13 years and younger,male,,,,,40
+2011,number,13 years and younger,male,,,,,49
+2012,number,13 years and younger,male,,,,,51
+2013,number,13 years and younger,male,,,,,29
+2014,number,13 years and younger,male,,,,,39
+2015,number,13 years and younger,male,,,,,37
+2016,number,13 years and younger,male,,,,,38
+2017,number,13 years and younger,male,,,,,39
+2018,number,13 years and younger,male,,,,,40
+2019,number,13 years and younger,male,,,,,29
+2020,number,13 years and younger,male,,,,,36
+2021,number,13 years and younger,male,,,,,40
+2022,number,13 years and younger,male,,,,,24
+2023,number,13 years and younger,male,,,,,33
+2024,number,13 years and younger,male,,,,,36
+2010,number,14 to under 18 years,female,,,,,14
+2011,number,14 to under 18 years,female,,,,,12
+2012,number,14 to under 18 years,female,,‒,,,0
+2013,number,14 to under 18 years,female,,,,,4
+2014,number,14 to under 18 years,female,,,,,5
+2015,number,14 to under 18 years,female,,,,,9
+2016,number,14 to under 18 years,female,,,,,22
+2017,number,14 to under 18 years,female,,,,,1
+2018,number,14 to under 18 years,female,,,,,8
+2019,number,14 to under 18 years,female,,,,,4
+2020,number,14 to under 18 years,female,,,,,4
+2021,number,14 to under 18 years,female,,,,,7
+2022,number,14 to under 18 years,female,,,,,12
+2023,number,14 to under 18 years,female,,,,,8
+2024,number,14 to under 18 years,female,,,,,7
+2010,number,14 to under 18 years,male,,,,,8
+2011,number,14 to under 18 years,male,,,,,15
+2012,number,14 to under 18 years,male,,,,,6
+2013,number,14 to under 18 years,male,,,,,8
+2014,number,14 to under 18 years,male,,,,,10
+2015,number,14 to under 18 years,male,,,,,5
+2016,number,14 to under 18 years,male,,,,,13
+2017,number,14 to under 18 years,male,,,,,3
+2018,number,14 to under 18 years,male,,,,,6
+2019,number,14 to under 18 years,male,,,,,7
+2020,number,14 to under 18 years,male,,,,,8
+2021,number,14 to under 18 years,male,,,,,7
+2022,number,14 to under 18 years,male,,,,,2
+2023,number,14 to under 18 years,male,,,,,9
+2024,number,14 to under 18 years,male,,,,,8
+2010,number,18 to under 21 years,female,,,,,19
+2011,number,18 to under 21 years,female,,,,,10
+2012,number,18 to under 21 years,female,,,,,10
+2013,number,18 to under 21 years,female,,,,,6
+2014,number,18 to under 21 years,female,,,,,9
+2015,number,18 to under 21 years,female,,,,,9
+2016,number,18 to under 21 years,female,,,,,18
+2017,number,18 to under 21 years,female,,,,,7
+2018,number,18 to under 21 years,female,,,,,12
+2019,number,18 to under 21 years,female,,,,,5
+2020,number,18 to under 21 years,female,,,,,6
+2021,number,18 to under 21 years,female,,,,,4
+2022,number,18 to under 21 years,female,,,,,8
+2023,number,18 to under 21 years,female,,,,,9
+2024,number,18 to under 21 years,female,,,,,13
+2010,number,18 to under 21 years,male,,,,,19
+2011,number,18 to under 21 years,male,,,,,19
+2012,number,18 to under 21 years,male,,,,,13
+2013,number,18 to under 21 years,male,,,,,9
+2014,number,18 to under 21 years,male,,,,,11
+2015,number,18 to under 21 years,male,,,,,9
+2016,number,18 to under 21 years,male,,,,,25
+2017,number,18 to under 21 years,male,,,,,9
+2018,number,18 to under 21 years,male,,,,,14
+2019,number,18 to under 21 years,male,,,,,11
+2020,number,18 to under 21 years,male,,,,,15
+2021,number,18 to under 21 years,male,,,,,15
+2022,number,18 to under 21 years,male,,,,,15
+2023,number,18 to under 21 years,male,,,,,9
+2024,number,18 to under 21 years,male,,,,,14
+2010,number,21 to under 60 years,female,,,,,202
+2011,number,21 to under 60 years,female,,,,,180
+2012,number,21 to under 60 years,female,,,,,139
+2013,number,21 to under 60 years,female,,,,,159
+2014,number,21 to under 60 years,female,,,,,180
+2015,number,21 to under 60 years,female,,,,,141
+2016,number,21 to under 60 years,female,,,,,236
+2017,number,21 to under 60 years,female,,,,,176
+2018,number,21 to under 60 years,female,,,,,184
+2019,number,21 to under 60 years,female,,,,,144
+2020,number,21 to under 60 years,female,,,,,142
+2021,number,21 to under 60 years,female,,,,,140
+2022,number,21 to under 60 years,female,,,,,136
+2023,number,21 to under 60 years,female,,,,,184
+2024,number,21 to under 60 years,female,,,,,150
+2010,number,21 to under 60 years,male,,,,,246
+2011,number,21 to under 60 years,male,,,,,244
+2012,number,21 to under 60 years,male,,,,,220
+2013,number,21 to under 60 years,male,,,,,218
+2014,number,21 to under 60 years,male,,,,,225
+2015,number,21 to under 60 years,male,,,,,202
+2016,number,21 to under 60 years,male,,,,,291
+2017,number,21 to under 60 years,male,,,,,238
+2018,number,21 to under 60 years,male,,,,,261
+2019,number,21 to under 60 years,male,,,,,205
+2020,number,21 to under 60 years,male,,,,,236
+2021,number,21 to under 60 years,male,,,,,196
+2022,number,21 to under 60 years,male,,,,,198
+2023,number,21 to under 60 years,male,,,,,246
+2024,number,21 to under 60 years,male,,,,,262
+2010,number,60 years and older,female,,,,,121
+2011,number,60 years and older,female,,,,,112
+2012,number,60 years and older,female,,,,,108
+2013,number,60 years and older,female,,,,,122
+2014,number,60 years and older,female,,,,,121
+2015,number,60 years and older,female,,,,,143
+2016,number,60 years and older,female,,,,,163
+2017,number,60 years and older,female,,,,,168
+2018,number,60 years and older,female,,,,,133
+2019,number,60 years and older,female,,,,,106
+2020,number,60 years and older,female,,,,,162
+2021,number,60 years and older,female,,,,,143
+2022,number,60 years and older,female,,,,,166
+2023,number,60 years and older,female,,,,,134
+2024,number,60 years and older,female,,,,,148
+2010,number,60 years and older,male,,,,,87
+2011,number,60 years and older,male,,,,,73
+2012,number,60 years and older,male,,,,,73
+2013,number,60 years and older,male,,,,,90
+2014,number,60 years and older,male,,,,,92
+2015,number,60 years and older,male,,,,,102
+2016,number,60 years and older,male,,,,,127
+2017,number,60 years and older,male,,,,,144
+2018,number,60 years and older,male,,,,,100
+2019,number,60 years and older,male,,,,,95
+2020,number,60 years and older,male,,,,,130
+2021,number,60 years and older,male,,,,,100
+2022,number,60 years and older,male,,,,,98
+2023,number,60 years and older,male,,,,,99
+2024,number,60 years and older,male,,,,,121
+2010,number,,,intimate partner or family member,,,,343
+2011,number,,,intimate partner or family member,,,,318
+2012,number,,,intimate partner or family member,,,,287
+2013,number,,,intimate partner or family member,,,,308
+2014,number,,,intimate partner or family member,,,,340
+2015,number,,,intimate partner or family member,,,,293
+2016,number,,,intimate partner or family member,,,,325
+2017,number,,,intimate partner or family member,,,,336
+2018,number,,,intimate partner or family member,,,,310
+2019,number,,,intimate partner or family member,,,,282
+2020,number,,,intimate partner or family member,,,,332
+2021,number,,,intimate partner or family member,,,,286
+2022,number,,,intimate partner or family member,,,,271
+2023,number,,,intimate partner or family member,,,,341
+2024,number,,,intimate partner or family member,,,,304
+2010,number,,female,intimate partner or family member,,,,232
+2011,number,,female,intimate partner or family member,,,,228
+2012,number,,female,intimate partner or family member,,,,182
+2013,number,,female,intimate partner or family member,,,,224
+2014,number,,female,intimate partner or family member,,,,241
+2015,number,,female,intimate partner or family member,,,,210
+2016,number,,female,intimate partner or family member,,,,238
+2017,number,,female,intimate partner or family member,,,,231
+2018,number,,female,intimate partner or family member,,,,204
+2019,number,,female,intimate partner or family member,,,,187
+2020,number,,female,intimate partner or family member,,,,225
+2021,number,,female,intimate partner or family member,,,,207
+2022,number,,female,intimate partner or family member,,,,198
+2023,number,,female,intimate partner or family member,,,,253
+2024,number,,female,intimate partner or family member,,,,203
+2010,number,,male,intimate partner or family member,,,,111
+2011,number,,male,intimate partner or family member,,,,90
+2012,number,,male,intimate partner or family member,,,,105
+2013,number,,male,intimate partner or family member,,,,84
+2014,number,,male,intimate partner or family member,,,,99
+2015,number,,male,intimate partner or family member,,,,83
+2016,number,,male,intimate partner or family member,,,,87
+2017,number,,male,intimate partner or family member,,,,105
+2018,number,,male,intimate partner or family member,,,,106
+2019,number,,male,intimate partner or family member,,,,95
+2020,number,,male,intimate partner or family member,,,,107
+2021,number,,male,intimate partner or family member,,,,79
+2022,number,,male,intimate partner or family member,,,,73
+2023,number,,male,intimate partner or family member,,,,88
+2024,number,,male,intimate partner or family member,,,,101
+2010,number,,,intimate partner,.,,,
+2011,number,,,intimate partner,.,,,
+2012,number,,,intimate partner,,,,133
+2013,number,,,intimate partner,,,,175
+2014,number,,,intimate partner,,,,197
+2015,number,,,intimate partner,,,,163
+2016,number,,,intimate partner,,,,181
+2017,number,,,intimate partner,,,,189
+2018,number,,,intimate partner,,,,155
+2019,number,,,intimate partner,,,,156
+2020,number,,,intimate partner,,,,177
+2021,number,,,intimate partner,,,,135
+2022,number,,,intimate partner,,,,158
+2023,number,,,intimate partner,,,,183
+2024,number,,,intimate partner,,,,164
+2010,number,,female,intimate partner,.,,,
+2011,number,,female,intimate partner,.,,,
+2012,number,,female,intimate partner,,,,113
+2013,number,,female,intimate partner,,,,146
+2014,number,,female,intimate partner,,,,167
+2015,number,,female,intimate partner,,,,139
+2016,number,,female,intimate partner,,,,164
+2017,number,,female,intimate partner,,,,153
+2018,number,,female,intimate partner,,,,127
+2019,number,,female,intimate partner,,,,123
+2020,number,,female,intimate partner,,,,146
+2021,number,,female,intimate partner,,,,121
+2022,number,,female,intimate partner,,,,137
+2023,number,,female,intimate partner,,,,159
+2024,number,,female,intimate partner,,,,138
+2010,number,,male,intimate partner,.,,,
+2011,number,,male,intimate partner,.,,,
+2012,number,,male,intimate partner,,,,20
+2013,number,,male,intimate partner,,,,29
+2014,number,,male,intimate partner,,,,30
+2015,number,,male,intimate partner,,,,24
+2016,number,,male,intimate partner,,,,17
+2017,number,,male,intimate partner,,,,36
+2018,number,,male,intimate partner,,,,28
+2019,number,,male,intimate partner,,,,33
+2020,number,,male,intimate partner,,,,31
+2021,number,,male,intimate partner,,,,14
+2022,number,,male,intimate partner,,,,21
+2023,number,,male,intimate partner,,,,24
+2024,number,,male,intimate partner,,,,26
+2010,number,,,family member,.,,,
+2011,number,,,family member,.,,,
+2012,number,,,family member,,,,154
+2013,number,,,family member,,,,133
+2014,number,,,family member,,,,143
+2015,number,,,family member,,,,130
+2016,number,,,family member,,,,144
+2017,number,,,family member,,,,147
+2018,number,,,family member,,,,155
+2019,number,,,family member,,,,126
+2020,number,,,family member,,,,155
+2021,number,,,family member,,,,151
+2022,number,,,family member,,,,113
+2023,number,,,family member,,,,158
+2024,number,,,family member,,,,140
+2010,number,,female,family member,.,,,
+2011,number,,female,family member,.,,,
+2012,number,,female,family member,,,,69
+2013,number,,female,family member,,,,78
+2014,number,,female,family member,,,,74
+2015,number,,female,family member,,,,71
+2016,number,,female,family member,,,,74
+2017,number,,female,family member,,,,78
+2018,number,,female,family member,,,,77
+2019,number,,female,family member,,,,64
+2020,number,,female,family member,,,,79
+2021,number,,female,family member,,,,86
+2022,number,,female,family member,,,,61
+2023,number,,female,family member,,,,94
+2024,number,,female,family member,,,,65
+2010,number,,male,family member,.,,,
+2011,number,,male,family member,.,,,
+2012,number,,male,family member,,,,85
+2013,number,,male,family member,,,,55
+2014,number,,male,family member,,,,69
+2015,number,,male,family member,,,,59
+2016,number,,male,family member,,,,70
+2017,number,,male,family member,,,,69
+2018,number,,male,family member,,,,78
+2019,number,,male,family member,,,,62
+2020,number,,male,family member,,,,76
+2021,number,,male,family member,,,,65
+2022,number,,male,family member,,,,52
+2023,number,,male,family member,,,,64
+2024,number,,male,family member,,,,75
+2010,percentage,,,,0,,,0.00097
+2011,percentage,,,,0,,,0.00092
+2012,percentage,,,,0,,,0.00082
+2013,percentage,,,,0,,,0.00085
+2014,percentage,,,,0,,,0.00088
+2015,percentage,,,,0,,,0.00083
+2016,percentage,,,,0,,,0.00117
+2017,percentage,,,,0,,,0.00099
+2018,percentage,,,,0,,,0.00096
+2019,percentage,,,,0,,,0.00076
+2020,percentage,,,,0,,,0.00095
+2021,percentage,,,,0,,,0.00085
+2022,percentage,,,,0,,,0.00083
+2023,percentage,,,,0,,,0.00092
+2024,percentage,,,,0,,,0.00093
+2010,percentage,13 years and younger,,,0,,,0.00076
+2011,percentage,13 years and younger,,,0,,,0.00080
+2012,percentage,13 years and younger,,,0,,,0.00099
+2013,percentage,13 years and younger,,,0,,,0.00073
+2014,percentage,13 years and younger,,,0,,,0.00069
+2015,percentage,13 years and younger,,,0,,,0.00067
+2016,percentage,13 years and younger,,,0,,,0.00072
+2017,percentage,13 years and younger,,,0,,,0.00070
+2018,percentage,13 years and younger,,,0,,,0.00072
+2019,percentage,13 years and younger,,,0,,,0.00047
+2020,percentage,13 years and younger,,,0,,,0.00081
+2021,percentage,13 years and younger,,,0,,,0.00085
+2022,percentage,13 years and younger,,,0,,,0.00048
+2023,percentage,13 years and younger,,,0,,,0.00066
+2024,percentage,13 years and younger,,,0,,,0.00052
+2010,percentage,14 to under 18 years,,,0,,,0.00068
+2011,percentage,14 to under 18 years,,,0,,,0.00068
+2012,percentage,14 to under 18 years,,,0,,,0.00015
+2013,percentage,14 to under 18 years,,,0,,,0.00030
+2014,percentage,14 to under 18 years,,,0,,,0.00038
+2015,percentage,14 to under 18 years,,,0,,,0.00036
+2016,percentage,14 to under 18 years,,,0,,,0.00090
+2017,percentage,14 to under 18 years,,,0,,,0.00011
+2018,percentage,14 to under 18 years,,,0,,,0.00037
+2019,percentage,14 to under 18 years,,,0,,,0.00030
+2020,percentage,14 to under 18 years,,,0,,,0.00033
+2021,percentage,14 to under 18 years,,,0,,,0.00038
+2022,percentage,14 to under 18 years,,,0,,,0.00046
+2023,percentage,14 to under 18 years,,,0,,,0.00055
+2024,percentage,14 to under 18 years,,,0,,,0.00048
+2010,percentage,18 to under 21 years,,,0,,,0.00137
+2011,percentage,18 to under 21 years,,,0,,,0.00114
+2012,percentage,18 to under 21 years,,,0,,,0.00093
+2013,percentage,18 to under 21 years,,,0,,,0.00061
+2014,percentage,18 to under 21 years,,,0,,,0.00081
+2015,percentage,18 to under 21 years,,,0,,,0.00070
+2016,percentage,18 to under 21 years,,,0,,,0.00164
+2017,percentage,18 to under 21 years,,,0,,,0.00062
+2018,percentage,18 to under 21 years,,,0,,,0.00102
+2019,percentage,18 to under 21 years,,,0,,,0.00064
+2020,percentage,18 to under 21 years,,,0,,,0.00088
+2021,percentage,18 to under 21 years,,,0,,,0.00082
+2022,percentage,18 to under 21 years,,,0,,,0.00098
+2023,percentage,18 to under 21 years,,,0,,,0.00075
+2024,percentage,18 to under 21 years,,,0,,,0.00111
+2010,percentage,21 to under 60 years,,,0,,,0.00101
+2011,percentage,21 to under 60 years,,,0,,,0.00098
+2012,percentage,21 to under 60 years,,,0,,,0.00083
+2013,percentage,21 to under 60 years,,,0,,,0.00087
+2014,percentage,21 to under 60 years,,,0,,,0.00094
+2015,percentage,21 to under 60 years,,,0,,,0.00079
+2016,percentage,21 to under 60 years,,,0,,,0.00122
+2017,percentage,21 to under 60 years,,,0,,,0.00096
+2018,percentage,21 to under 60 years,,,0,,,0.00103
+2019,percentage,21 to under 60 years,,,0,,,0.00082
+2020,percentage,21 to under 60 years,,,0,,,0.00089
+2021,percentage,21 to under 60 years,,,0,,,0.00080
+2022,percentage,21 to under 60 years,,,0,,,0.00079
+2023,percentage,21 to under 60 years,,,0,,,0.00102
+2024,percentage,21 to under 60 years,,,0,,,0.00098
+2010,percentage,60 years and older,,,0,,,0.00097
+2011,percentage,60 years and older,,,0,,,0.00086
+2012,percentage,60 years and older,,,0,,,0.00083
+2013,percentage,60 years and older,,,0,,,0.00097
+2014,percentage,60 years and older,,,0,,,0.00096
+2015,percentage,60 years and older,,,0,,,0.00109
+2016,percentage,60 years and older,,,0,,,0.00128
+2017,percentage,60 years and older,,,0,,,0.00136
+2018,percentage,60 years and older,,,0,,,0.00100
+2019,percentage,60 years and older,,,0,,,0.00085
+2020,percentage,60 years and older,,,0,,,0.00122
+2021,percentage,60 years and older,,,0,,,0.00100
+2022,percentage,60 years and older,,,0,,,0.00108
+2023,percentage,60 years and older,,,0,,,0.00094
+2024,percentage,60 years and older,,,0,,,0.00106
+2010,percentage,,female,,0,,,0.00094
+2011,percentage,,female,,0,,,0.00082
+2012,percentage,,female,,0,,,0.00072
+2013,percentage,,female,,0,,,0.00080
+2014,percentage,,female,,0,,,0.00082
+2015,percentage,,female,,0,,,0.00079
+2016,percentage,,female,,0,,,0.00113
+2017,percentage,,female,,0,,,0.00091
+2018,percentage,,female,,0,,,0.00088
+2019,percentage,,female,,0,,,0.00066
+2020,percentage,,female,,0,,,0.00086
+2021,percentage,,female,,0,,,0.00081
+2022,percentage,,female,,0,,,0.00083
+2023,percentage,,female,,0,,,0.00089
+2024,percentage,,female,,0,,,0.00080
+2010,percentage,,male,,0,,,0.00100
+2011,percentage,,male,,0,,,0.00102
+2012,percentage,,male,,0,,,0.00092
+2013,percentage,,male,,0,,,0.00090
+2014,percentage,,male,,0,,,0.00095
+2015,percentage,,male,,0,,,0.00088
+2016,percentage,,male,,0,,,0.00122
+2017,percentage,,male,,0,,,0.00107
+2018,percentage,,male,,0,,,0.00104
+2019,percentage,,male,,0,,,0.00086
+2020,percentage,,male,,0,,,0.00105
+2021,percentage,,male,,0,,,0.00089
+2022,percentage,,male,,0,,,0.00083
+2023,percentage,,male,,0,,,0.00096
+2024,percentage,,male,,0,,,0.00107
+2010,percentage,13 years and younger,female,,0,,,0.00075
+2011,percentage,13 years and younger,female,,0,,,0.00054
+2012,percentage,13 years and younger,female,,0,,,0.00088
+2013,percentage,13 years and younger,female,,0,,,0.00084
+2014,percentage,13 years and younger,female,,0,,,0.00054
+2015,percentage,13 years and younger,female,,0,,,0.00055
+2016,percentage,13 years and younger,female,,0,,,0.00065
+2017,percentage,13 years and younger,female,,0,,,0.00060
+2018,percentage,13 years and younger,female,,0,,,0.00064
+2019,percentage,13 years and younger,female,,0,,,0.00036
+2020,percentage,13 years and younger,female,,0,,,0.00090
+2021,percentage,13 years and younger,female,,0,,,0.00090
+2022,percentage,13 years and younger,female,,0,,,0.00052
+2023,percentage,13 years and younger,female,,0,,,0.00074
+2024,percentage,13 years and younger,female,,0,,,0.00038
+2010,percentage,13 years and younger,male,,0,,,0.00077
+2011,percentage,13 years and younger,male,,0,,,0.00104
+2012,percentage,13 years and younger,male,,0,,,0.00109
+2013,percentage,13 years and younger,male,,0,,,0.00062
+2014,percentage,13 years and younger,male,,0,,,0.00084
+2015,percentage,13 years and younger,male,,0,,,0.00077
+2016,percentage,13 years and younger,male,,0,,,0.00078
+2017,percentage,13 years and younger,male,,0,,,0.00079
+2018,percentage,13 years and younger,male,,0,,,0.00081
+2019,percentage,13 years and younger,male,,0,,,0.00058
+2020,percentage,13 years and younger,male,,0,,,0.00072
+2021,percentage,13 years and younger,male,,0,,,0.00080
+2022,percentage,13 years and younger,male,,0,,,0.00044
+2023,percentage,13 years and younger,male,,0,,,0.00059
+2024,percentage,13 years and younger,male,,0,,,0.00065
+2010,percentage,14 to under 18 years,female,,0,,,0.00089
+2011,percentage,14 to under 18 years,female,,0,,,0.00062
+2012,percentage,14 to under 18 years,female,,‒,,,0.00000
+2013,percentage,14 to under 18 years,female,,0,,,0.00021
+2014,percentage,14 to under 18 years,female,,0,,,0.00026
+2015,percentage,14 to under 18 years,female,,0,,,0.00048
+2016,percentage,14 to under 18 years,female,,0,,,0.00118
+2017,percentage,14 to under 18 years,female,,0,,,5e-0500000
+2018,percentage,14 to under 18 years,female,,0,,,0.00044
+2019,percentage,14 to under 18 years,female,,0,,,0.00022
+2020,percentage,14 to under 18 years,female,,0,,,0.00022
+2021,percentage,14 to under 18 years,female,,0,,,0.00039
+2022,percentage,14 to under 18 years,female,,0,,,0.00082
+2023,percentage,14 to under 18 years,female,,0,,,0.00054
+2024,percentage,14 to under 18 years,female,,0,,,0.00047
+2010,percentage,14 to under 18 years,male,,0,,,0.00048
+2011,percentage,14 to under 18 years,male,,0,,,0.00074
+2012,percentage,14 to under 18 years,male,,0,,,0.00029
+2013,percentage,14 to under 18 years,male,,0,,,0.00039
+2014,percentage,14 to under 18 years,male,,0,,,0.00049
+2015,percentage,14 to under 18 years,male,,0,,,0.00025
+2016,percentage,14 to under 18 years,male,,0,,,0.00065
+2017,percentage,14 to under 18 years,male,,0,,,0.00015
+2018,percentage,14 to under 18 years,male,,0,,,0.00031
+2019,percentage,14 to under 18 years,male,,0,,,0.00037
+2020,percentage,14 to under 18 years,male,,0,,,0.00042
+2021,percentage,14 to under 18 years,male,,0,,,0.00037
+2022,percentage,14 to under 18 years,male,,0,,,0.00013
+2023,percentage,14 to under 18 years,male,,0,,,0.00056
+2024,percentage,14 to under 18 years,male,,0,,,0.00050
+2010,percentage,18 to under 21 years,female,,0,,,0.00140
+2011,percentage,18 to under 21 years,female,,0,,,0.00081
+2012,percentage,18 to under 21 years,female,,0,,,0.00083
+2013,percentage,18 to under 21 years,female,,0,,,0.00050
+2014,percentage,18 to under 21 years,female,,0,,,0.00075
+2015,percentage,18 to under 21 years,female,,0,,,0.00073
+2016,percentage,18 to under 21 years,female,,0,,,0.00145
+2017,percentage,18 to under 21 years,female,,0,,,0.00057
+2018,percentage,18 to under 21 years,female,,0,,,0.00099
+2019,percentage,18 to under 21 years,female,,0,,,0.00042
+2020,percentage,18 to under 21 years,female,,0,,,0.00052
+2021,percentage,18 to under 21 years,female,,0,,,0.00036
+2022,percentage,18 to under 21 years,female,,0,,,0.00070
+2023,percentage,18 to under 21 years,female,,0,,,0.00078
+2024,percentage,18 to under 21 years,female,,0,,,0.00111
+2010,percentage,18 to under 21 years,male,,0,,,0.00133
+2011,percentage,18 to under 21 years,male,,0,,,0.00146
+2012,percentage,18 to under 21 years,male,,0,,,0.00102
+2013,percentage,18 to under 21 years,male,,0,,,0.00072
+2014,percentage,18 to under 21 years,male,,0,,,0.00087
+2015,percentage,18 to under 21 years,male,,0,,,0.00066
+2016,percentage,18 to under 21 years,male,,0,,,0.00182
+2017,percentage,18 to under 21 years,male,,0,,,0.00066
+2018,percentage,18 to under 21 years,male,,0,,,0.00105
+2019,percentage,18 to under 21 years,male,,0,,,0.00085
+2020,percentage,18 to under 21 years,male,,0,,,0.00121
+2021,percentage,18 to under 21 years,male,,0,,,0.00125
+2022,percentage,18 to under 21 years,male,,0,,,0.00124
+2023,percentage,18 to under 21 years,male,,0,,,0.00072
+2024,percentage,18 to under 21 years,male,,0,,,0.00110
+2010,percentage,21 to under 60 years,female,,0,,,0.00093
+2011,percentage,21 to under 60 years,female,,0,,,0.00084
+2012,percentage,21 to under 60 years,female,,0,,,0.00065
+2013,percentage,21 to under 60 years,female,,0,,,0.00074
+2014,percentage,21 to under 60 years,female,,0,,,0.00084
+2015,percentage,21 to under 60 years,female,,0,,,0.00066
+2016,percentage,21 to under 60 years,female,,0,,,0.00111
+2017,percentage,21 to under 60 years,female,,0,,,0.00083
+2018,percentage,21 to under 60 years,female,,0,,,0.00087
+2019,percentage,21 to under 60 years,female,,0,,,0.00069
+2020,percentage,21 to under 60 years,female,,0,,,0.00068
+2021,percentage,21 to under 60 years,female,,0,,,0.00068
+2022,percentage,21 to under 60 years,female,,0,,,0.00066
+2023,percentage,21 to under 60 years,female,,0,,,0.00089
+2024,percentage,21 to under 60 years,female,,0,,,0.00073
+2010,percentage,21 to under 60 years,male,,0,,,0.00110
+2011,percentage,21 to under 60 years,male,,0,,,0.00112
+2012,percentage,21 to under 60 years,male,,0,,,0.00101
+2013,percentage,21 to under 60 years,male,,0,,,0.00100
+2014,percentage,21 to under 60 years,male,,0,,,0.00103
+2015,percentage,21 to under 60 years,male,,0,,,0.00091
+2016,percentage,21 to under 60 years,male,,0,,,0.00132
+2017,percentage,21 to under 60 years,male,,0,,,0.00108
+2018,percentage,21 to under 60 years,male,,0,,,0.00119
+2019,percentage,21 to under 60 years,male,,0,,,0.00094
+2020,percentage,21 to under 60 years,male,,0,,,0.00110
+2021,percentage,21 to under 60 years,male,,0,,,0.00092
+2022,percentage,21 to under 60 years,male,,0,,,0.00093
+2023,percentage,21 to under 60 years,male,,0,,,0.00115
+2024,percentage,21 to under 60 years,male,,0,,,0.00123
+2010,percentage,60 years and older,female,,0,,,0.00101
+2011,percentage,60 years and older,female,,0,,,0.00093
+2012,percentage,60 years and older,female,,0,,,0.00089
+2013,percentage,60 years and older,female,,0,,,0.00100
+2014,percentage,60 years and older,female,,0,,,0.00098
+2015,percentage,60 years and older,female,,0,,,0.00115
+2016,percentage,60 years and older,female,,0,,,0.00130
+2017,percentage,60 years and older,female,,0,,,0.00133
+2018,percentage,60 years and older,female,,0,,,0.00104
+2019,percentage,60 years and older,female,,0,,,0.00082
+2020,percentage,60 years and older,female,,0,,,0.00124
+2021,percentage,60 years and older,female,,0,,,0.00108
+2022,percentage,60 years and older,female,,0,,,0.00124
+2023,percentage,60 years and older,female,,0,,,0.00099
+2024,percentage,60 years and older,female,,0,,,0.00107
+2010,percentage,60 years and older,male,,0,,,0.00093
+2011,percentage,60 years and older,male,,0,,,0.00077
+2012,percentage,60 years and older,male,,0,,,0.00076
+2013,percentage,60 years and older,male,,0,,,0.00093
+2014,percentage,60 years and older,male,,0,,,0.00093
+2015,percentage,60 years and older,male,,0,,,0.00102
+2016,percentage,60 years and older,male,,0,,,0.00125
+2017,percentage,60 years and older,male,,0,,,0.00140
+2018,percentage,60 years and older,male,,0,,,0.00096
+2019,percentage,60 years and older,male,,0,,,0.00089
+2020,percentage,60 years and older,male,,0,,,0.00120
+2021,percentage,60 years and older,male,,0,,,0.00091
+2022,percentage,60 years and older,male,,0,,,0.00089
+2023,percentage,60 years and older,male,,0,,,0.00088
+2024,percentage,60 years and older,male,,0,,,0.00105
