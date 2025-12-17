@@ -2929,16 +2929,27 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "COMMENT_OBS_0",
             "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -2946,8 +2957,8 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
+            "name": "COMMENT_OBS_2",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -2956,7 +2967,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -6286,9 +6297,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 ".",
                 "…",
+                "r",
                 ""
               ]
             }

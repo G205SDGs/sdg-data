@@ -9,10 +9,11 @@ Year,Zeitreihe,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,DTP-Impfquote zum Schuleintritt,,,,,93.5
 2018,DTP-Impfquote zum Schuleintritt,,,,,93.0
 2019,DTP-Impfquote zum Schuleintritt,,,,,92.7
-2020,DTP-Impfquote zum Schuleintritt,,r,,,92.4
+2020,DTP-Impfquote zum Schuleintritt,,,,,92.4
 2021,DTP-Impfquote zum Schuleintritt,,.,,,
-2022,DTP-Impfquote zum Schuleintritt,,.,,,
+2022,DTP-Impfquote zum Schuleintritt,,,,,95.0
 2023,DTP-Impfquote zum Schuleintritt,,…,,,
+2024,DTP-Impfquote zum Schuleintritt,,…,,,
 2010,Masern-Impfquote zum Schuleintritt,,,,,91.5
 2011,Masern-Impfquote zum Schuleintritt,,,,,92.1
 2012,Masern-Impfquote zum Schuleintritt,,,,,92.4
@@ -26,7 +27,8 @@ Year,Zeitreihe,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Masern-Impfquote zum Schuleintritt,,,,,93.2
 2021,Masern-Impfquote zum Schuleintritt,,.,,,
 2022,Masern-Impfquote zum Schuleintritt,,.,,,
-2023,Masern-Impfquote zum Schuleintritt,,…,,,
+2023,Masern-Impfquote zum Schuleintritt,,,,,97.0
+2024,Masern-Impfquote zum Schuleintritt,,…,,,
 2010,Pneumokokken-Impfquote zum Schuleintritt,,,,,15.2
 2011,Pneumokokken-Impfquote zum Schuleintritt,,,,,41.0
 2012,Pneumokokken-Impfquote zum Schuleintritt,,,,,68.3
@@ -40,21 +42,23 @@ Year,Zeitreihe,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Pneumokokken-Impfquote zum Schuleintritt,,,,,82.2
 2021,Pneumokokken-Impfquote zum Schuleintritt,,.,,,
 2022,Pneumokokken-Impfquote zum Schuleintritt,,.,,,
-2023,Pneumokokken-Impfquote zum Schuleintritt,,…,,,
+2023,Pneumokokken-Impfquote zum Schuleintritt,,,,,83.0
+2024,Pneumokokken-Impfquote zum Schuleintritt,,…,,,
 2010,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,.,,,
 2011,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,27.2
 2012,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,27.2
-2013,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,r,,,29.4
+2013,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,29.4
 2014,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,31.3
-2015,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,r,,,33.5
-2016,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,r,,,36.2
-2017,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,r,,,39.5
-2018,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,r,,,42.6
+2015,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,33.5
+2016,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,36.2
+2017,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,39.5
+2018,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,42.6
 2019,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,47.2
-2020,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,51.0
-2021,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,53.4
+2020,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,r,,,51.1
+2021,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,r,,,53.5
 2022,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,54.4
-2023,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,54.6
+2023,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,r,,,54.0
+2024,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Weiblich,,,,54.8
 2010,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,.,,,
 2011,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,.,,,
 2012,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,.,,,
@@ -65,7 +69,8 @@ Year,Zeitreihe,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,.,,,
 2018,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,,,,0.9
 2019,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,,,,5.1
-2020,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,,,,17.0
-2021,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,,,,26.2
+2020,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,r,,,17.1
+2021,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,r,,,26.3
 2022,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,,,,30.8
-2023,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,,,,34.0
+2023,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,r,,,33.6
+2024,HPV-Impfquoten bei 15-jährigen Mädchen und Jungen,Männlich,,,,36.4

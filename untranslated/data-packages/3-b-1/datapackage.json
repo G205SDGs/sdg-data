@@ -43,9 +43,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 ".",
                 "…",
+                "r",
                 ""
               ]
             }

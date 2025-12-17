@@ -3205,37 +3205,49 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Units",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "…",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "COMMENT_OBS_0"
           },
           {
-            "name": "timeseries",
-            "type": "string",
+            "name": "COMMENT_OBS_1",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -6880,9 +6892,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 ".",
                 "…",
+                "r",
                 ""
               ]
             },
