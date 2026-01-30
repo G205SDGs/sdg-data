@@ -1,19 +1,33 @@
-Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2018,.,,,a) Umsetzung nationaler Ziele gemäß dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020,
-2019,,,,a) Umsetzung nationaler Ziele gemäß dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020,0.6
-2020,.,,,a) Umsetzung nationaler Ziele gemäß dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020,
-2010,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2011,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2012,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2013,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2014,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2015,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2016,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2017,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2018,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2019,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2020,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2021,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2022,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2023,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
-2024,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3.0
+Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2011,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2012,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2013,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2014,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2015,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2016,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2017,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2018,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2019,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2020,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2021,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2022,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2023,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2024,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2025,"ja=1, nein=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2010,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2011,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2012,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2013,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2014,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2015,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2016,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2017,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2018,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2019,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2020,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2021,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2022,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2023,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2024,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3
+2025,Keine Einheit,,,,b) Umsetzung der Werte der biologischen Vielfalt in die UGR,3

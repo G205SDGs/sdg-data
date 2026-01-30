@@ -1,19 +1,33 @@
-Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2018,.,,,(a) Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020,
-2019,,,,(a) Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020,0.6
-2020,.,,,(a) Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020,
-2010,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2011,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2012,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2013,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2014,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2015,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2016,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2017,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2018,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2019,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2020,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2021,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2022,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2023,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
-2024,,,,(b) Implementation of the principles of biodiversity in the SEEA,3.0
+Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2011,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2012,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2013,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2014,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2015,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2016,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2017,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2018,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2019,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2020,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2021,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2022,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2023,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2024,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2025,"yes=1, no=0",,,,(a) national strategies and action plans in accordance with the global biodiversity framework,1
+2010,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2011,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2012,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2013,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2014,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2015,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2016,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2017,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2018,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2019,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2020,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2021,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2022,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2023,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2024,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3
+2025,No unit,,,,(b) Implementation of the principles of biodiversity in the SEEA,3

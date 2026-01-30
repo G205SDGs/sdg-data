@@ -1,46 +1,49 @@
-Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,0
-2011,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2012,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2013,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2014,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2015,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2016,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2017,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2018,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2019,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2020,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2021,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,0
-2022,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2023,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2024,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
-2010,Percentage,Birth registration,s,,,100
-2011,Percentage,Birth registration,s,,,100
-2012,Percentage,Birth registration,s,,,100
-2013,Percentage,Birth registration,s,,,100
-2014,Percentage,Birth registration,s,,,100
-2015,Percentage,Birth registration,s,,,100
-2016,Percentage,Birth registration,s,,,100
-2017,Percentage,Birth registration,s,,,100
-2018,Percentage,Birth registration,s,,,100
-2019,Percentage,Birth registration,s,,,100
-2020,Percentage,Birth registration,s,,,100
-2021,Percentage,Birth registration,s,,,100
-2022,Percentage,Birth registration,s,,,100
-2023,Percentage,Birth registration,s,,,100
-2024,Percentage,Birth registration,s,,,100
-2010,Percentage,Death registration,s,,,100
-2011,Percentage,Death registration,s,,,100
-2012,Percentage,Death registration,s,,,100
-2013,Percentage,Death registration,s,,,100
-2014,Percentage,Death registration,s,,,100
-2015,Percentage,Death registration,s,,,100
-2016,Percentage,Death registration,s,,,100
-2017,Percentage,Death registration,s,,,100
-2018,Percentage,Death registration,s,,,100
-2019,Percentage,Death registration,s,,,100
-2020,Percentage,Death registration,s,,,100
-2021,Percentage,Death registration,s,,,100
-2022,Percentage,Death registration,s,,,100
-2023,Percentage,Death registration,s,,,100
-2024,Percentage,Death registration,s,,,100
+Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,‒,,,At least one population and housing census in the last 10 years conducted,0
+2011,,,,At least one population and housing census in the last 10 years conducted,1
+2012,,,,At least one population and housing census in the last 10 years conducted,1
+2013,,,,At least one population and housing census in the last 10 years conducted,1
+2014,,,,At least one population and housing census in the last 10 years conducted,1
+2015,,,,At least one population and housing census in the last 10 years conducted,1
+2016,,,,At least one population and housing census in the last 10 years conducted,1
+2017,,,,At least one population and housing census in the last 10 years conducted,1
+2018,,,,At least one population and housing census in the last 10 years conducted,1
+2019,,,,At least one population and housing census in the last 10 years conducted,1
+2020,,,,At least one population and housing census in the last 10 years conducted,1
+2021,‒,,,At least one population and housing census in the last 10 years conducted,0
+2022,,,,At least one population and housing census in the last 10 years conducted,1
+2023,,,,At least one population and housing census in the last 10 years conducted,1
+2024,,,,At least one population and housing census in the last 10 years conducted,1
+2025,,,,At least one population and housing census in the last 10 years conducted,1
+2010,s,,,Birth registration,1
+2011,s,,,Birth registration,1
+2012,s,,,Birth registration,1
+2013,s,,,Birth registration,1
+2014,s,,,Birth registration,1
+2015,s,,,Birth registration,1
+2016,s,,,Birth registration,1
+2017,s,,,Birth registration,1
+2018,s,,,Birth registration,1
+2019,s,,,Birth registration,1
+2020,s,,,Birth registration,1
+2021,s,,,Birth registration,1
+2022,s,,,Birth registration,1
+2023,s,,,Birth registration,1
+2024,s,,,Birth registration,1
+2025,s,,,Birth registration,1
+2010,s,,,Death registration,1
+2011,s,,,Death registration,1
+2012,s,,,Death registration,1
+2013,s,,,Death registration,1
+2014,s,,,Death registration,1
+2015,s,,,Death registration,1
+2016,s,,,Death registration,1
+2017,s,,,Death registration,1
+2018,s,,,Death registration,1
+2019,s,,,Death registration,1
+2020,s,,,Death registration,1
+2021,s,,,Death registration,1
+2022,s,,,Death registration,1
+2023,s,,,Death registration,1
+2024,s,,,Death registration,1
+2025,s,,,Death registration,1

@@ -1142,6 +1142,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "r",
                 ""
               ]
             }
@@ -2000,6 +2001,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "r",
                 ""
               ]
             }
@@ -2599,33 +2601,11 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "yes=1, no=0",
-                "percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "at least one population and housing census in the last 10 years conducted",
-                "birth registration",
-                "death registration",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 "s",
                 ""
               ]
@@ -2645,6 +2625,18 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "at least one population and housing census in the last 10 years conducted",
+                "birth registration",
+                "death registration",
                 ""
               ]
             }
@@ -3021,11 +3013,21 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "yes=1, no=0",
+                "no unit",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -3053,7 +3055,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020",
+                "(a) national strategies and action plans in accordance with the global biodiversity framework",
                 "(b) implementation of the principles of biodiversity in the seea",
                 ""
               ]
@@ -3061,7 +3063,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -3644,7 +3646,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -3676,9 +3678,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             }
@@ -4703,7 +4706,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to under 75 years",
                 "16 to under 25 years",
                 "25 to under 65 years",
                 ""
@@ -4902,6 +4904,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "|",
                 ""
               ]
@@ -5347,7 +5350,7 @@
             }
           },
           {
-            "name": "fields of work",
+            "name": "field of work",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8557,8 +8560,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ""
               ]
             }
@@ -10273,6 +10276,7 @@
                 "berlin",
                 "brandenburg",
                 "bremen",
+                "hamburg",
                 "hesse",
                 "mecklenburg western pomerania",
                 "lower saxony",
@@ -10955,7 +10959,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -10987,9 +10991,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             }
@@ -11027,7 +11032,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -11059,9 +11064,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             }
@@ -12337,9 +12343,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             }
@@ -12938,10 +12945,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) countries that are contracting parties to the international treaty on pgrfa",
-                "2) countries that are parties to the nagoya protocol",
-                "3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa",
-                "4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house",
+                "1) contracting party to the international treaty on pgrfa",
+                "2) contracting party to the nagoya protocol",
+                "3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa",
+                "4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house",
                 "5) total reported number of smtas transferring pgrfa to germany",
                 ""
               ]
@@ -12971,10 +12978,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
                 ""
               ]
             }
@@ -12999,7 +13005,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -14982,23 +14988,13 @@
             "type": "integer"
           },
           {
-            "name": "skill",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) literacy skills",
-                "b) numeracy skills",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "level of proficiency",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "minimum requirement level i",
-                "minimum requirement level ii",
+                "16 to under 66 years",
+                "16 to under 25 years",
+                "25 to under 65 years",
                 ""
               ]
             }

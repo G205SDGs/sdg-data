@@ -43,7 +43,7 @@
             "title": "Time series"
           },
           {
-            "name": "fields of work",
+            "name": "field of work",
             "type": "string",
             "constraints": {
               "enum": [
@@ -54,7 +54,7 @@
                 ""
               ]
             },
-            "title": "Fields of work"
+            "title": "field of work"
           },
           {
             "name": "level of court",

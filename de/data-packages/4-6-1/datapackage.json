@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,28 +16,17 @@
             "title": "Jahr"
           },
           {
-            "name": "skill",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Lesen",
-                "b) Rechnen",
+                "16 to under 66 years",
+                "16 bis unter 25 Jahre",
+                "25 bis unter 65 Jahre",
                 ""
               ]
             },
-            "title": "Fähigkeit"
-          },
-          {
-            "name": "level of proficiency",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mindestniveau Stufe I",
-                "Mindestniveau Stufe II",
-                ""
-              ]
-            },
-            "title": "Leistungsniveau"
+            "title": "Altersklasse"
           },
           {
             "name": "COMMENT_OBS_0",

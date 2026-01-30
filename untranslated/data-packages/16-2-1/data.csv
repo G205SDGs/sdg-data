@@ -11,8 +11,9 @@ Year,sex,form of abuse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,female,,,,,0.14
 2020,female,,,,,0.15
 2021,female,,,,,0.16
-2022,female,,,,,0.17
+2022,female,,r,,,0.18
 2023,female,,,,,0.17
+2024,female,,,,,0.22
 2010,male,,.,,,
 2011,male,,.,,,
 2012,male,,,,,0.07
@@ -23,10 +24,11 @@ Year,sex,form of abuse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,male,,,,,0.09
 2018,male,,,,,0.11
 2019,male,,,,,0.13
-2020,male,,,,,0.13
-2021,male,,,,,0.13
+2020,male,,r,,,0.14
+2021,male,,r,,,0.14
 2022,male,,,,,0.15
 2023,male,,,,,0.16
+2024,male,,,,,0.19
 2010,,physical abuse,.,,,
 2011,,physical abuse,.,,,
 2012,,physical abuse,,,,0.04
@@ -41,6 +43,7 @@ Year,sex,form of abuse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,,physical abuse,,,,0.07
 2022,,physical abuse,,,,0.08
 2023,,physical abuse,,,,0.08
+2024,,physical abuse,,,,0.1
 2010,female,physical abuse,.,,,
 2011,female,physical abuse,.,,,
 2012,female,physical abuse,,,,0.04
@@ -55,6 +58,7 @@ Year,sex,form of abuse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,female,physical abuse,,,,0.07
 2022,female,physical abuse,,,,0.08
 2023,female,physical abuse,,,,0.08
+2024,female,physical abuse,,,,0.1
 2010,male,physical abuse,.,,,
 2011,male,physical abuse,.,,,
 2012,male,physical abuse,,,,0.03
@@ -63,12 +67,13 @@ Year,sex,form of abuse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2015,male,physical abuse,,,,0.04
 2016,male,physical abuse,,,,0.04
 2017,male,physical abuse,,,,0.05
-2018,male,physical abuse,,,,0.05
-2019,male,physical abuse,,,,0.06
-2020,male,physical abuse,,,,0.06
+2018,male,physical abuse,r,,,0.06
+2019,male,physical abuse,r,,,0.07
+2020,male,physical abuse,r,,,0.07
 2021,male,physical abuse,,,,0.06
 2022,male,physical abuse,,,,0.07
-2023,male,physical abuse,,,,0.07
+2023,male,physical abuse,r,,,0.08
+2024,male,physical abuse,,,,0.09
 2010,,psychological abuse,.,,,
 2011,,psychological abuse,.,,,
 2012,,psychological abuse,,,,0.03
@@ -79,10 +84,11 @@ Year,sex,form of abuse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,,psychological abuse,,,,0.05
 2018,,psychological abuse,,,,0.06
 2019,,psychological abuse,,,,0.07
-2020,,psychological abuse,,,,0.07
+2020,,psychological abuse,r,,,0.08
 2021,,psychological abuse,,,,0.08
 2022,,psychological abuse,,,,0.09
 2023,,psychological abuse,,,,0.09
+2024,,psychological abuse,,,,0.11
 2010,female,psychological abuse,.,,,
 2011,female,psychological abuse,.,,,
 2012,female,psychological abuse,,,,0.04
@@ -97,6 +103,7 @@ Year,sex,form of abuse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,female,psychological abuse,,,,0.09
 2022,female,psychological abuse,,,,0.09
 2023,female,psychological abuse,,,,0.09
+2024,female,psychological abuse,,,,0.12
 2010,male,psychological abuse,.,,,
 2011,male,psychological abuse,.,,,
 2012,male,psychological abuse,,,,0.03
@@ -111,3 +118,4 @@ Year,sex,form of abuse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,male,psychological abuse,,,,0.07
 2022,male,psychological abuse,,,,0.08
 2023,male,psychological abuse,,,,0.09
+2024,male,psychological abuse,,,,0.1

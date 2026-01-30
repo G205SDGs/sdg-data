@@ -15,6 +15,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Deutscher Bundestag,,,,,,35.1
 2024,Prozent,Deutscher Bundestag,,,,,,35.3
 2025,Prozent,Deutscher Bundestag,,,,,,35.6
+2026,Prozent,Deutscher Bundestag,,,,,,35.2
 2010,Anzahl,Deutscher Bundestag,,,,,,204.0
 2011,Anzahl,Deutscher Bundestag,,,,,,206.0
 2012,Anzahl,Deutscher Bundestag,,,,,,204.0
@@ -31,6 +32,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Deutscher Bundestag,,,,,,258.0
 2024,Anzahl,Deutscher Bundestag,,,,,,259.0
 2025,Anzahl,Deutscher Bundestag,,,,,,261.0
+2026,Anzahl,Deutscher Bundestag,,,,,,259.0
 2010,Prozent,Bundesrat,,,,,,18.8
 2011,Prozent,Bundesrat,,,,,,24.6
 2012,Prozent,Bundesrat,,,,,,27.5
@@ -47,6 +49,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Bundesrat,,,,,,37.7
 2024,Prozent,Bundesrat,,,,,,37.7
 2025,Prozent,Bundesrat,,,,,,34.8
+2026,Prozent,Bundesrat,,,,,,34.8
 2010,Anzahl,Bundesrat,,,,,,13.0
 2011,Anzahl,Bundesrat,,,,,,17.0
 2012,Anzahl,Bundesrat,,,,,,19.0
@@ -63,6 +66,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Bundesrat,,,,,,26.0
 2024,Anzahl,Bundesrat,,,,,,26.0
 2025,Anzahl,Bundesrat,,,,,,24.0
+2026,Anzahl,Bundesrat,,,,,,24.0
 2010,Prozent,Landtage,Baden-Württemberg,code08,,,,23.7
 2011,Prozent,Landtage,Baden-Württemberg,code08,,,,18.1
 2012,Prozent,Landtage,Baden-Württemberg,code08,,,,18.1
@@ -79,6 +83,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Baden-Württemberg,code08,,,,29.2
 2024,Prozent,Landtage,Baden-Württemberg,code08,,,,29.2
 2025,Prozent,Landtage,Baden-Württemberg,code08,,,,29.2
+2026,Prozent,Landtage,Baden-Württemberg,code08,…,,,
 2010,Anzahl,Landtage,Baden-Württemberg,code08,,,,33.0
 2011,Anzahl,Landtage,Baden-Württemberg,code08,,,,25.0
 2012,Anzahl,Landtage,Baden-Württemberg,code08,,,,25.0
@@ -95,6 +100,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Baden-Württemberg,code08,,,,45.0
 2024,Anzahl,Landtage,Baden-Württemberg,code08,,,,45.0
 2025,Anzahl,Landtage,Baden-Württemberg,code08,,,,45.0
+2026,Anzahl,Landtage,Baden-Württemberg,code08,…,,,
 2010,Prozent,Landtage,Bayern,code09,,,,31.0
 2011,Prozent,Landtage,Bayern,code09,,,,31.0
 2012,Prozent,Landtage,Bayern,code09,,,,31.0
@@ -111,6 +117,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Bayern,code09,,,,24.6
 2024,Prozent,Landtage,Bayern,code09,,,,24.6
 2025,Prozent,Landtage,Bayern,code09,,,,24.6
+2026,Prozent,Landtage,Bayern,code09,,,,24.6
 2010,Anzahl,Landtage,Bayern,code09,,,,58.0
 2011,Anzahl,Landtage,Bayern,code09,,,,58.0
 2012,Anzahl,Landtage,Bayern,code09,,,,58.0
@@ -127,6 +134,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Bayern,code09,,,,50.0
 2024,Anzahl,Landtage,Bayern,code09,,,,50.0
 2025,Anzahl,Landtage,Bayern,code09,,,,50.0
+2026,Anzahl,Landtage,Bayern,code09,,,,50.0
 2010,Prozent,Landtage,Berlin,code11,,,,39.6
 2011,Prozent,Landtage,Berlin,code11,,,,34.9
 2012,Prozent,Landtage,Berlin,code11,,,,34.9
@@ -143,6 +151,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Berlin,code11,,,,37.7
 2024,Prozent,Landtage,Berlin,code11,,,,37.7
 2025,Prozent,Landtage,Berlin,code11,,,,37.7
+2026,Prozent,Landtage,Berlin,code11,…,,,
 2010,Anzahl,Landtage,Berlin,code11,,,,59.0
 2011,Anzahl,Landtage,Berlin,code11,,,,52.0
 2012,Anzahl,Landtage,Berlin,code11,,,,52.0
@@ -159,6 +168,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Berlin,code11,,,,60.0
 2024,Anzahl,Landtage,Berlin,code11,,,,60.0
 2025,Anzahl,Landtage,Berlin,code11,,,,60.0
+2026,Anzahl,Landtage,Berlin,code11,…,,,
 2010,Prozent,Landtage,Brandenburg,code12,,,,38.6
 2011,Prozent,Landtage,Brandenburg,code12,,,,38.6
 2012,Prozent,Landtage,Brandenburg,code12,,,,38.6
@@ -175,6 +185,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Brandenburg,code12,,,,31.8
 2024,Prozent,Landtage,Brandenburg,code12,,,,28.4
 2025,Prozent,Landtage,Brandenburg,code12,,,,28.4
+2026,Prozent,Landtage,Brandenburg,code12,,,,28.4
 2010,Anzahl,Landtage,Brandenburg,code12,,,,34.0
 2011,Anzahl,Landtage,Brandenburg,code12,,,,34.0
 2012,Anzahl,Landtage,Brandenburg,code12,,,,34.0
@@ -191,6 +202,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Brandenburg,code12,,,,28.0
 2024,Anzahl,Landtage,Brandenburg,code12,,,,25.0
 2025,Anzahl,Landtage,Brandenburg,code12,,,,25.0
+2026,Anzahl,Landtage,Brandenburg,code12,,,,25.0
 2010,Prozent,Landtage,Bremen,code04,,,,38.6
 2011,Prozent,Landtage,Bremen,code04,,,,43.4
 2012,Prozent,Landtage,Bremen,code04,,,,43.4
@@ -207,6 +219,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Bremen,code04,,,,42.5
 2024,Prozent,Landtage,Bremen,code04,,,,42.5
 2025,Prozent,Landtage,Bremen,code04,,,,42.5
+2026,Prozent,Landtage,Bremen,code04,,,,42.5
 2010,Anzahl,Landtage,Bremen,code04,,,,32.0
 2011,Anzahl,Landtage,Bremen,code04,,,,36.0
 2012,Anzahl,Landtage,Bremen,code04,,,,36.0
@@ -223,6 +236,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Bremen,code04,,,,37.0
 2024,Anzahl,Landtage,Bremen,code04,,,,37.0
 2025,Anzahl,Landtage,Bremen,code04,,,,37.0
+2026,Anzahl,Landtage,Bremen,code04,,,,37.0
 2010,Prozent,Landtage,Hamburg,code02,,,,33.1
 2011,Prozent,Landtage,Hamburg,code02,,,,38.8
 2012,Prozent,Landtage,Hamburg,code02,,,,38.8
@@ -239,6 +253,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Hamburg,code02,,,,43.9
 2024,Prozent,Landtage,Hamburg,code02,,,,43.9
 2025,Prozent,Landtage,Hamburg,code02,,,,48.8
+2026,Prozent,Landtage,Hamburg,code02,,,,48.8
 2010,Anzahl,Landtage,Hamburg,code02,,,,40.0
 2011,Anzahl,Landtage,Hamburg,code02,,,,47.0
 2012,Anzahl,Landtage,Hamburg,code02,,,,47.0
@@ -255,6 +270,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Hamburg,code02,,,,54.0
 2024,Anzahl,Landtage,Hamburg,code02,,,,54.0
 2025,Anzahl,Landtage,Hamburg,code02,,,,59.0
+2026,Anzahl,Landtage,Hamburg,code02,,,,59.0
 2010,Prozent,Landtage,Hessen,code06,,,,28.0
 2011,Prozent,Landtage,Hessen,code06,,,,28.0
 2012,Prozent,Landtage,Hessen,code06,,,,28.0
@@ -271,6 +287,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Hessen,code06,,,,31.6
 2024,Prozent,Landtage,Hessen,code06,,,,31.6
 2025,Prozent,Landtage,Hessen,code06,,,,31.6
+2026,Prozent,Landtage,Hessen,code06,,,,31.6
 2010,Anzahl,Landtage,Hessen,code06,,,,33.0
 2011,Anzahl,Landtage,Hessen,code06,,,,33.0
 2012,Anzahl,Landtage,Hessen,code06,,,,33.0
@@ -287,6 +304,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Hessen,code06,,,,42.0
 2024,Anzahl,Landtage,Hessen,code06,,,,42.0
 2025,Anzahl,Landtage,Hessen,code06,,,,42.0
+2026,Anzahl,Landtage,Hessen,code06,,,,42.0
 2010,Prozent,Landtage,Mecklenburg-Vorpommern,code13,,,,32.4
 2011,Prozent,Landtage,Mecklenburg-Vorpommern,code13,,,,28.2
 2012,Prozent,Landtage,Mecklenburg-Vorpommern,code13,,,,28.2
@@ -303,6 +321,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Mecklenburg-Vorpommern,code13,,,,36.7
 2024,Prozent,Landtage,Mecklenburg-Vorpommern,code13,,,,36.7
 2025,Prozent,Landtage,Mecklenburg-Vorpommern,code13,,,,36.7
+2026,Prozent,Landtage,Mecklenburg-Vorpommern,code13,…,,,
 2010,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,,,,23.0
 2011,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,,,,20.0
 2012,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,,,,20.0
@@ -319,6 +338,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,,,,29.0
 2024,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,,,,29.0
 2025,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,,,,29.0
+2026,Anzahl,Landtage,Mecklenburg-Vorpommern,code13,…,,,
 2010,Prozent,Landtage,Niedersachsen,code03,,,,30.9
 2011,Prozent,Landtage,Niedersachsen,code03,,,,30.9
 2012,Prozent,Landtage,Niedersachsen,code03,,,,30.9
@@ -335,6 +355,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Niedersachsen,code03,,,,34.2
 2024,Prozent,Landtage,Niedersachsen,code03,,,,34.2
 2025,Prozent,Landtage,Niedersachsen,code03,,,,34.2
+2026,Prozent,Landtage,Niedersachsen,code03,,,,34.2
 2010,Anzahl,Landtage,Niedersachsen,code03,,,,47.0
 2011,Anzahl,Landtage,Niedersachsen,code03,,,,47.0
 2012,Anzahl,Landtage,Niedersachsen,code03,,,,47.0
@@ -351,6 +372,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Niedersachsen,code03,,,,50.0
 2024,Anzahl,Landtage,Niedersachsen,code03,,,,50.0
 2025,Anzahl,Landtage,Niedersachsen,code03,,,,50.0
+2026,Anzahl,Landtage,Niedersachsen,code03,,,,50.0
 2010,Prozent,Landtage,Nordrhein-Westfalen,code05,,,,27.1
 2011,Prozent,Landtage,Nordrhein-Westfalen,code05,,,,27.1
 2012,Prozent,Landtage,Nordrhein-Westfalen,code05,,,,30.0
@@ -367,6 +389,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Nordrhein-Westfalen,code05,,,,33.8
 2024,Prozent,Landtage,Nordrhein-Westfalen,code05,,,,33.8
 2025,Prozent,Landtage,Nordrhein-Westfalen,code05,,,,33.8
+2026,Prozent,Landtage,Nordrhein-Westfalen,code05,,,,33.8
 2010,Anzahl,Landtage,Nordrhein-Westfalen,code05,,,,49.0
 2011,Anzahl,Landtage,Nordrhein-Westfalen,code05,,,,49.0
 2012,Anzahl,Landtage,Nordrhein-Westfalen,code05,,,,71.0
@@ -383,6 +406,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Nordrhein-Westfalen,code05,,,,66.0
 2024,Anzahl,Landtage,Nordrhein-Westfalen,code05,,,,66.0
 2025,Anzahl,Landtage,Nordrhein-Westfalen,code05,,,,66.0
+2026,Anzahl,Landtage,Nordrhein-Westfalen,code05,,,,66.0
 2010,Prozent,Landtage,Rheinland-Pfalz,code07,,,,37.6
 2011,Prozent,Landtage,Rheinland-Pfalz,code07,,,,41.6
 2012,Prozent,Landtage,Rheinland-Pfalz,code07,,,,41.6
@@ -399,6 +423,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Rheinland-Pfalz,code07,,,,31.7
 2024,Prozent,Landtage,Rheinland-Pfalz,code07,,,,31.7
 2025,Prozent,Landtage,Rheinland-Pfalz,code07,,,,31.7
+2026,Prozent,Landtage,Rheinland-Pfalz,code07,…,,,
 2010,Anzahl,Landtage,Rheinland-Pfalz,code07,,,,38.0
 2011,Anzahl,Landtage,Rheinland-Pfalz,code07,,,,42.0
 2012,Anzahl,Landtage,Rheinland-Pfalz,code07,,,,42.0
@@ -415,6 +440,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Rheinland-Pfalz,code07,,,,32.0
 2024,Anzahl,Landtage,Rheinland-Pfalz,code07,,,,32.0
 2025,Anzahl,Landtage,Rheinland-Pfalz,code07,,,,32.0
+2026,Anzahl,Landtage,Rheinland-Pfalz,code07,…,,,
 2010,Prozent,Landtage,Saarland,code10,,,,33.3
 2011,Prozent,Landtage,Saarland,code10,,,,33.3
 2012,Prozent,Landtage,Saarland,code10,,,,39.2
@@ -431,6 +457,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Saarland,code10,,,,37.3
 2024,Prozent,Landtage,Saarland,code10,,,,37.3
 2025,Prozent,Landtage,Saarland,code10,,,,37.3
+2026,Prozent,Landtage,Saarland,code10,,,,37.3
 2010,Anzahl,Landtage,Saarland,code10,,,,17.0
 2011,Anzahl,Landtage,Saarland,code10,,,,17.0
 2012,Anzahl,Landtage,Saarland,code10,,,,20.0
@@ -447,6 +474,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Saarland,code10,,,,19.0
 2024,Anzahl,Landtage,Saarland,code10,,,,19.0
 2025,Anzahl,Landtage,Saarland,code10,,,,19.0
+2026,Anzahl,Landtage,Saarland,code10,,,,19.0
 2010,Prozent,Landtage,Sachsen,code14,,,,31.1
 2011,Prozent,Landtage,Sachsen,code14,,,,31.1
 2012,Prozent,Landtage,Sachsen,code14,,,,31.1
@@ -463,6 +491,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Sachsen,code14,,,,27.7
 2024,Prozent,Landtage,Sachsen,code14,,,,27.5
 2025,Prozent,Landtage,Sachsen,code14,,,,27.5
+2026,Prozent,Landtage,Sachsen,code14,,,,27.5
 2010,Anzahl,Landtage,Sachsen,code14,,,,41.0
 2011,Anzahl,Landtage,Sachsen,code14,,,,41.0
 2012,Anzahl,Landtage,Sachsen,code14,,,,41.0
@@ -479,6 +508,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Sachsen,code14,,,,33.0
 2024,Anzahl,Landtage,Sachsen,code14,,,,33.0
 2025,Anzahl,Landtage,Sachsen,code14,,,,33.0
+2026,Anzahl,Landtage,Sachsen,code14,,,,33.0
 2010,Prozent,Landtage,Sachsen-Anhalt,code15,,,,30.9
 2011,Prozent,Landtage,Sachsen-Anhalt,code15,,,,31.4
 2012,Prozent,Landtage,Sachsen-Anhalt,code15,,,,31.4
@@ -495,6 +525,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Sachsen-Anhalt,code15,,,,27.8
 2024,Prozent,Landtage,Sachsen-Anhalt,code15,,,,27.8
 2025,Prozent,Landtage,Sachsen-Anhalt,code15,,,,27.8
+2026,Prozent,Landtage,Sachsen-Anhalt,code15,…,,,
 2010,Anzahl,Landtage,Sachsen-Anhalt,code15,,,,30.0
 2011,Anzahl,Landtage,Sachsen-Anhalt,code15,,,,33.0
 2012,Anzahl,Landtage,Sachsen-Anhalt,code15,,,,33.0
@@ -511,6 +542,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Sachsen-Anhalt,code15,,,,27.0
 2024,Anzahl,Landtage,Sachsen-Anhalt,code15,,,,27.0
 2025,Anzahl,Landtage,Sachsen-Anhalt,code15,,,,27.0
+2026,Anzahl,Landtage,Sachsen-Anhalt,code15,…,,,
 2010,Prozent,Landtage,Schleswig-Holstein,code01,,,,35.8
 2011,Prozent,Landtage,Schleswig-Holstein,code01,,,,35.8
 2012,Prozent,Landtage,Schleswig-Holstein,code01,,,,31.9
@@ -527,6 +559,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Schleswig-Holstein,code01,,,,37.7
 2024,Prozent,Landtage,Schleswig-Holstein,code01,,,,37.7
 2025,Prozent,Landtage,Schleswig-Holstein,code01,,,,37.7
+2026,Prozent,Landtage,Schleswig-Holstein,code01,,,,37.7
 2010,Anzahl,Landtage,Schleswig-Holstein,code01,,,,34.0
 2011,Anzahl,Landtage,Schleswig-Holstein,code01,,,,34.0
 2012,Anzahl,Landtage,Schleswig-Holstein,code01,,,,22.0
@@ -543,6 +576,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Schleswig-Holstein,code01,,,,26.0
 2024,Anzahl,Landtage,Schleswig-Holstein,code01,,,,26.0
 2025,Anzahl,Landtage,Schleswig-Holstein,code01,,,,26.0
+2026,Anzahl,Landtage,Schleswig-Holstein,code01,,,,26.0
 2010,Prozent,Landtage,Thüringen,code16,,,,26.1
 2011,Prozent,Landtage,Thüringen,code16,,,,26.1
 2012,Prozent,Landtage,Thüringen,code16,,,,26.1
@@ -559,6 +593,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,Thüringen,code16,,,,31.1
 2024,Prozent,Landtage,Thüringen,code16,,,,30.7
 2025,Prozent,Landtage,Thüringen,code16,,,,30.7
+2026,Prozent,Landtage,Thüringen,code16,,,,30.7
 2010,Anzahl,Landtage,Thüringen,code16,,,,34.0
 2011,Anzahl,Landtage,Thüringen,code16,,,,34.0
 2012,Anzahl,Landtage,Thüringen,code16,,,,34.0
@@ -575,6 +610,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,Thüringen,code16,,,,28.0
 2024,Anzahl,Landtage,Thüringen,code16,,,,27.0
 2025,Anzahl,Landtage,Thüringen,code16,,,,27.0
+2026,Anzahl,Landtage,Thüringen,code16,,,,27.0
 2010,Prozent,Landtage,,,,,,31.768
 2011,Prozent,Landtage,,,,,,31.651
 2012,Prozent,Landtage,,,,,,31.832
@@ -591,6 +627,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Landtage,,,,,,33.157
 2024,Prozent,Landtage,,,,,,34.548
 2025,Prozent,Landtage,,,,,,33.157
+2026,Prozent,Landtage,,,…,,,
 2010,Anzahl,Landtage,,,,,,602.0
 2011,Anzahl,Landtage,,,,,,602.0
 2012,Anzahl,Landtage,,,,,,615.0
@@ -607,6 +644,7 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Anzahl,Landtage,,,,,,628.0
 2024,Anzahl,Landtage,,,,,,654.0
 2025,Anzahl,Landtage,,,,,,627.0
+2026,Anzahl,Landtage,,,…,,,
 2010,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,,,,
 2011,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,,,,26.1
 2012,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,,,,26.1
@@ -623,3 +661,4 @@ Year,Units,Politische Institution,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,,,,30.3
 2024,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,,,,30.5
 2025,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,,,,
+2026,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,…,,,

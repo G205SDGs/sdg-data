@@ -15,11 +15,21 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "yes=1, no=0",
+                "no unit",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -47,7 +57,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020",
+                "(a) national strategies and action plans in accordance with the global biodiversity framework",
                 "(b) implementation of the principles of biodiversity in the seea",
                 ""
               ]
@@ -55,7 +65,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

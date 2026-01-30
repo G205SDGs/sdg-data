@@ -62,10 +62,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind",
-                "2) Länder, die Vertragsparteien des Nagoya-Protokolls sind",
-                "3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden",
-                "4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden",
+                "1) contracting party to the international treaty on pgrfa",
+                "2) contracting party to the nagoya protocol",
+                "3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa",
+                "4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house",
                 "5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
                 ""
               ]

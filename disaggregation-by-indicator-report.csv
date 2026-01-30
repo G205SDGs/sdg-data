@@ -41,17 +41,16 @@ Indicator,Disaggregations,Number of disaggregations
 #14-1-1,COMMENT_OBS_0,1
 #14-3-1,COMMENT_OBS_0,1
 #14-4-1,sea,1
-#14-5-1,timeseries,1
+#14-5-1,"timeseries, COMMENT_OBS_0",2
 #14-6-1,COMMENT_OBS_0,1
 #14-7-1,COMMENT_OBS_0,1
 #14-b-1,COMMENT_OBS_0,1
 #14-c-1,"timeseries, COMMENT_OBS_0",2
 #15-1-1,COMMENT_OBS_0,1
-#15-1-2,timeseries,1
+#15-1-2,"timeseries, COMMENT_OBS_0",2
 #15-2-1,"COMMENT_OBS_0, type of biomass",2
-#15-4-1,timeseries,1
+#15-4-1,"timeseries, COMMENT_OBS_0",2
 #15-7-1,COMMENT_OBS_0,1
-#15-9-1,COMMENT_OBS_0,1
 #15-a-1,"timeseries, COMMENT_OBS_0",2
 #15-b-1,"timeseries, COMMENT_OBS_0",2
 #15-c-1,COMMENT_OBS_0,1
@@ -70,7 +69,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-5-2,COMMENT_OBS_0,1
 #16-6-1,"COMMENT_OBS_0, sector",2
 #16-6-2,COMMENT_OBS_0,1
-#16-7-1,"timeseries, COMMENT_OBS_0, fields of work, level of court",4
+#16-7-1,"timeseries, COMMENT_OBS_0, field of work, level of court",4
 #16-7-2,"COMMENT_OBS_0, sex",2
 #16-9-1,COMMENT_OBS_0,1
 #16-b-1,COMMENT_OBS_0,1
@@ -81,9 +80,8 @@ Indicator,Disaggregations,Number of disaggregations
 #17-15-1,level,1
 #17-17-1,"COMMENT_OBS_0, time series",2
 #17-18-1,"COMMENT_OBS_0, completeness of disaggregation, goal",3
-#17-18-2,COMMENT_OBS_0,1
 #17-19-1,"COMMENT_OBS_0, time series",2
-#17-19-2,"timeseries, COMMENT_OBS_0",2
+#17-19-2,COMMENT_OBS_0,1
 #17-2-1,"timeseries, COMMENT_OBS_0",2
 #17-5-1,COMMENT_OBS_0,1
 #17-6-1,"COMMENT_OBS_0, speed",2
@@ -128,7 +126,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-3-1,"COMMENT_OBS_0, age group, sex",3
 #4-4-1,"COMMENT_OBS_0, age group, type of ict competence",3
 #4-5-1,"COMMENT_OBS_0, indicator",2
-#4-6-1,"skill, level of proficiency",2
+#4-6-1,age group,1
 #4-7-1,area2,1
 #4-a-1,"COMMENT_OBS_0, type of service",2
 #4-b-1,"COMMENT_OBS_0, time series",2
@@ -138,7 +136,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-3-1,"COMMENT_OBS_0, age group",2
 #5-3-2,COMMENT_OBS_0,1
 #5-4-1,"age group, sex, type of unpaid work, degree of urbanisation",4
-#5-5-1,"länder, political institution",2
+#5-5-1,"COMMENT_OBS_0, länder, political institution",3
 #5-5-2,COMMENT_OBS_0,1
 #5-6-2,"COMMENT_OBS_0, thematic area",2
 #5-a-1,"timeseries, COMMENT_OBS_0, ownership",3

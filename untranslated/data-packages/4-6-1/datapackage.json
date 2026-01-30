@@ -15,23 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "skill",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) literacy skills",
-                "b) numeracy skills",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "level of proficiency",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "minimum requirement level i",
-                "minimum requirement level ii",
+                "16 to under 66 years",
+                "16 to under 25 years",
+                "25 to under 65 years",
                 ""
               ]
             }

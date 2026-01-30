@@ -111,6 +111,7 @@ Year,Units,mode of transport,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Va
 2021,million tonne-kilometres,rail transport,,,,freight transport,141033
 2022,million tonne-kilometres,rail transport,,,,freight transport,144336
 2023,million tonne-kilometres,rail transport,,,,freight transport,134433
+2024,million tonne-kilometres,rail transport,,,,freight transport,133256
 2010,million tonne-kilometres,inland waterway transport,,,,freight transport,62278
 2011,million tonne-kilometres,inland waterway transport,,,,freight transport,55027
 2012,million tonne-kilometres,inland waterway transport,,,,freight transport,58488
@@ -125,6 +126,7 @@ Year,Units,mode of transport,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Va
 2021,million tonne-kilometres,inland waterway transport,,,,freight transport,48182
 2022,million tonne-kilometres,inland waterway transport,,,,freight transport,44117
 2023,million tonne-kilometres,inland waterway transport,,,,freight transport,41507
+2024,million tonne-kilometres,inland waterway transport,,,,freight transport,43443
 2010,million tonne-kilometres,air transport,,,,freight transport,1428
 2011,million tonne-kilometres,air transport,,,,freight transport,1480
 2012,million tonne-kilometres,air transport,,,,freight transport,1421
@@ -139,6 +141,7 @@ Year,Units,mode of transport,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Va
 2021,million tonne-kilometres,air transport,,,,freight transport,1790
 2022,million tonne-kilometres,air transport,,,,freight transport,1635
 2023,million tonne-kilometres,air transport,,,,freight transport,1516
+2024,million tonne-kilometres,air transport,,,,freight transport,1547
 2010,million tonne-kilometres,pipelines: crude oil,,,,freight transport,16259
 2011,million tonne-kilometres,pipelines: crude oil,,,,freight transport,15623
 2012,million tonne-kilometres,pipelines: crude oil,,,,freight transport,16207
@@ -153,3 +156,4 @@ Year,Units,mode of transport,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Va
 2021,million tonne-kilometres,pipelines: crude oil,,,,freight transport,15738
 2022,million tonne-kilometres,pipelines: crude oil,,,,freight transport,17723
 2023,million tonne-kilometres,pipelines: crude oil,,,,freight transport,17317
+2024,million tonne-kilometres,pipelines: crude oil,,,,freight transport,18390

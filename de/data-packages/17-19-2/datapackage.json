@@ -16,35 +16,11 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ja=1, nein=0",
-                "Prozent",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren",
-                "Registrierung der Geburten",
-                "Registrierung der Sterbefälle",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 "s",
                 ""
               ]
@@ -70,6 +46,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren",
+                "Registrierung der Geburten",
+                "Registrierung der Sterbefälle",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

@@ -1,7 +1,20 @@
 Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,eur per hour,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,,,.,,,average hourly earnings of employees,
 2014,eur per hour,,,,,,,average hourly earnings of employees,17.78
+2015,eur per hour,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,,,.,,,average hourly earnings of employees,
 2018,eur per hour,,,,,,,average hourly earnings of employees,19.66
+2019,eur per hour,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,,,.,,,average hourly earnings of employees,
 2022,eur per hour,,,,,,,average hourly earnings of employees,22.36
+2023,eur per hour,,,,,,,average hourly earnings of employees,23.3
+2024,eur per hour,,,,,,,average hourly earnings of employees,24.41
+2025,eur per hour,,,,,,,average hourly earnings of employees,25.05
 2010,eur per hour,female,,,,,,average hourly earnings of employees,14.62
 2011,eur per hour,female,,,,,,average hourly earnings of employees,14.88
 2012,eur per hour,female,,,,,,average hourly earnings of employees,15.18
@@ -17,6 +30,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,eur per hour,female,,,,,,average hourly earnings of employees,20.05
 2023,eur per hour,female,,,,,,average hourly earnings of employees,20.84
 2024,eur per hour,female,,,,,,average hourly earnings of employees,22.24
+2025,eur per hour,female,,,,,,average hourly earnings of employees,22.81
 2010,eur per hour,male,,,,,,average hourly earnings of employees,18.81
 2011,eur per hour,male,,,,,,average hourly earnings of employees,19.17
 2012,eur per hour,male,,,,,,average hourly earnings of employees,19.63
@@ -32,6 +46,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,eur per hour,male,,,,,,average hourly earnings of employees,24.36
 2023,eur per hour,male,,,,,,average hourly earnings of employees,25.3
 2024,eur per hour,male,,,,,,average hourly earnings of employees,26.34
+2025,eur per hour,male,,,,,,average hourly earnings of employees,27.05
 2010,percentage,,,,,,,gender pay gap,22.0
 2011,percentage,,,,,,,gender pay gap,22.0
 2012,percentage,,,,,,,gender pay gap,23.0
@@ -47,6 +62,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,,,|,,,gender pay gap,18.0
 2023,percentage,,,,,,,gender pay gap,18.0
 2024,percentage,,,,,,,gender pay gap,16.0
+2025,percentage,,,,,,,gender pay gap,16.0
 2010,percentage,,baden-württemberg,code08,,,,gender pay gap,27.0
 2011,percentage,,baden-württemberg,code08,,,,gender pay gap,27.0
 2012,percentage,,baden-württemberg,code08,,,,gender pay gap,27.0
@@ -62,6 +78,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,baden-württemberg,code08,|,,,gender pay gap,23.0
 2023,percentage,,baden-württemberg,code08,,,,gender pay gap,22.0
 2024,percentage,,baden-württemberg,code08,,,,gender pay gap,19.0
+2025,percentage,,baden-württemberg,code08,,,,gender pay gap,20.0
 2010,percentage,,bavaria,code09,,,,gender pay gap,26.0
 2011,percentage,,bavaria,code09,,,,gender pay gap,25.0
 2012,percentage,,bavaria,code09,,,,gender pay gap,25.0
@@ -77,6 +94,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,bavaria,code09,|,,,gender pay gap,21.0
 2023,percentage,,bavaria,code09,,,,gender pay gap,21.0
 2024,percentage,,bavaria,code09,,,,gender pay gap,18.0
+2025,percentage,,bavaria,code09,,,,gender pay gap,19.0
 2010,percentage,,berlin,code11,,,,gender pay gap,14.0
 2011,percentage,,berlin,code11,,,,gender pay gap,15.0
 2012,percentage,,berlin,code11,,,,gender pay gap,15.0
@@ -92,6 +110,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,berlin,code11,|,,,gender pay gap,10.0
 2023,percentage,,berlin,code11,,,,gender pay gap,11.0
 2024,percentage,,berlin,code11,,,,gender pay gap,10.0
+2025,percentage,,berlin,code11,,,,gender pay gap,10.0
 2010,percentage,,brandenburg,code12,,,,gender pay gap,7.0
 2011,percentage,,brandenburg,code12,,,,gender pay gap,6.0
 2012,percentage,,brandenburg,code12,,,,gender pay gap,7.0
@@ -107,6 +126,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,brandenburg,code12,|,,,gender pay gap,6.0
 2023,percentage,,brandenburg,code12,,,,gender pay gap,4.0
 2024,percentage,,brandenburg,code12,,,,gender pay gap,2.0
+2025,percentage,,brandenburg,code12,,,,gender pay gap,4.0
 2010,percentage,,bremen,code04,,,,gender pay gap,24.0
 2011,percentage,,bremen,code04,,,,gender pay gap,24.0
 2012,percentage,,bremen,code04,,,,gender pay gap,27.0
@@ -122,6 +142,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,bremen,code04,|,,,gender pay gap,20.0
 2023,percentage,,bremen,code04,,,,gender pay gap,19.0
 2024,percentage,,bremen,code04,,,,gender pay gap,17.0
+2025,percentage,,bremen,code04,,,,gender pay gap,14.0
 2010,percentage,,hamburg,code02,,,,gender pay gap,23.0
 2011,percentage,,hamburg,code02,,,,gender pay gap,22.0
 2012,percentage,,hamburg,code02,,,,gender pay gap,24.0
@@ -137,6 +158,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,hamburg,code02,|,,,gender pay gap,18.0
 2023,percentage,,hamburg,code02,,,,gender pay gap,18.0
 2024,percentage,,hamburg,code02,,,,gender pay gap,18.0
+2025,percentage,,hamburg,code02,,,,gender pay gap,17.0
 2010,percentage,,hesse,code06,,,,gender pay gap,25.0
 2011,percentage,,hesse,code06,,,,gender pay gap,25.0
 2012,percentage,,hesse,code06,,,,gender pay gap,24.0
@@ -152,6 +174,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,hesse,code06,|,,,gender pay gap,21.0
 2023,percentage,,hesse,code06,,,,gender pay gap,20.0
 2024,percentage,,hesse,code06,,,,gender pay gap,19.0
+2025,percentage,,hesse,code06,,,,gender pay gap,19.0
 2010,percentage,,mecklenburg western pomerania,code13,,,,gender pay gap,4.0
 2011,percentage,,mecklenburg western pomerania,code13,,,,gender pay gap,6.0
 2012,percentage,,mecklenburg western pomerania,code13,,,,gender pay gap,7.0
@@ -167,6 +190,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,mecklenburg western pomerania,code13,|,,,gender pay gap,6.0
 2023,percentage,,mecklenburg western pomerania,code13,,,,gender pay gap,7.0
 2024,percentage,,mecklenburg western pomerania,code13,,,,gender pay gap,7.0
+2025,percentage,,mecklenburg western pomerania,code13,,,,gender pay gap,4.0
 2010,percentage,,lower saxony,code03,,,,gender pay gap,22.0
 2011,percentage,,lower saxony,code03,,,,gender pay gap,22.0
 2012,percentage,,lower saxony,code03,,,,gender pay gap,21.0
@@ -182,6 +206,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,lower saxony,code03,|,,,gender pay gap,18.0
 2023,percentage,,lower saxony,code03,,,,gender pay gap,18.0
 2024,percentage,,lower saxony,code03,,,,gender pay gap,15.0
+2025,percentage,,lower saxony,code03,,,,gender pay gap,16.0
 2010,percentage,,north rhine-westphalia,code05,,,,gender pay gap,23.0
 2011,percentage,,north rhine-westphalia,code05,,,,gender pay gap,23.0
 2012,percentage,,north rhine-westphalia,code05,,,,gender pay gap,24.0
@@ -197,6 +222,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,north rhine-westphalia,code05,|,,,gender pay gap,17.0
 2023,percentage,,north rhine-westphalia,code05,,,,gender pay gap,17.0
 2024,percentage,,north rhine-westphalia,code05,,,,gender pay gap,16.0
+2025,percentage,,north rhine-westphalia,code05,,,,gender pay gap,15.0
 2010,percentage,,rhineland palatinate,code07,,,,gender pay gap,22.0
 2011,percentage,,rhineland palatinate,code07,,,,gender pay gap,22.0
 2012,percentage,,rhineland palatinate,code07,,,,gender pay gap,22.0
@@ -212,6 +238,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,rhineland palatinate,code07,|,,,gender pay gap,15.0
 2023,percentage,,rhineland palatinate,code07,,,,gender pay gap,15.0
 2024,percentage,,rhineland palatinate,code07,,,,gender pay gap,14.0
+2025,percentage,,rhineland palatinate,code07,,,,gender pay gap,14.0
 2010,percentage,,saarland,code10,,,,gender pay gap,25.0
 2011,percentage,,saarland,code10,,,,gender pay gap,25.0
 2012,percentage,,saarland,code10,,,,gender pay gap,25.0
@@ -227,6 +254,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,saarland,code10,|,,,gender pay gap,18.0
 2023,percentage,,saarland,code10,,,,gender pay gap,18.0
 2024,percentage,,saarland,code10,,,,gender pay gap,16.0
+2025,percentage,,saarland,code10,,,,gender pay gap,16.0
 2010,percentage,,saxony,code14,,,,gender pay gap,9.0
 2011,percentage,,saxony,code14,,,,gender pay gap,10.0
 2012,percentage,,saxony,code14,,,,gender pay gap,11.0
@@ -242,6 +270,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,saxony,code14,|,,,gender pay gap,8.0
 2023,percentage,,saxony,code14,,,,gender pay gap,9.0
 2024,percentage,,saxony,code14,,,,gender pay gap,7.0
+2025,percentage,,saxony,code14,,,,gender pay gap,6.0
 2010,percentage,,saxony-anhalt,code15,,,,gender pay gap,4.0
 2011,percentage,,saxony-anhalt,code15,,,,gender pay gap,5.0
 2012,percentage,,saxony-anhalt,code15,,,,gender pay gap,5.0
@@ -257,6 +286,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,saxony-anhalt,code15,|,,,gender pay gap,6.0
 2023,percentage,,saxony-anhalt,code15,,,,gender pay gap,5.0
 2024,percentage,,saxony-anhalt,code15,,,,gender pay gap,4.0
+2025,percentage,,saxony-anhalt,code15,,,,gender pay gap,4.0
 2010,percentage,,schleswig-holstein,code01,,,,gender pay gap,18.0
 2011,percentage,,schleswig-holstein,code01,,,,gender pay gap,17.0
 2012,percentage,,schleswig-holstein,code01,,,,gender pay gap,18.0
@@ -272,6 +302,7 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,schleswig-holstein,code01,|,,,gender pay gap,12.0
 2023,percentage,,schleswig-holstein,code01,,,,gender pay gap,12.0
 2024,percentage,,schleswig-holstein,code01,,,,gender pay gap,11.0
+2025,percentage,,schleswig-holstein,code01,,,,gender pay gap,12.0
 2010,percentage,,thuringia,code16,,,,gender pay gap,6.0
 2011,percentage,,thuringia,code16,,,,gender pay gap,7.0
 2012,percentage,,thuringia,code16,,,,gender pay gap,8.0
@@ -287,3 +318,4 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2022,percentage,,thuringia,code16,|,,,gender pay gap,7.0
 2023,percentage,,thuringia,code16,,,,gender pay gap,7.0
 2024,percentage,,thuringia,code16,,,,gender pay gap,6.0
+2025,percentage,,thuringia,code16,,,,gender pay gap,5.0

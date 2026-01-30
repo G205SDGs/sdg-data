@@ -16,28 +16,17 @@
             "title": "Year"
           },
           {
-            "name": "skill",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Literacy skills",
-                "b) Numeracy skills",
+                "16 to under 66 years",
+                "16 to under 25 years",
+                "25 to under 65 years",
                 ""
               ]
             },
-            "title": "Skill"
-          },
-          {
-            "name": "level of proficiency",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Minimum requirement level I",
-                "Minimum requirement level II",
-                ""
-              ]
-            },
-            "title": "Level of proficiency"
+            "title": "Age group"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -1,46 +1,49 @@
-Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,0
-2011,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2012,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2013,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2014,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2015,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2016,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2017,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2018,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2019,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2020,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2021,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,0
-2022,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2023,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2024,"ja=1, nein=0",Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,,,,1
-2010,Prozent,Registrierung der Geburten,s,,,100
-2011,Prozent,Registrierung der Geburten,s,,,100
-2012,Prozent,Registrierung der Geburten,s,,,100
-2013,Prozent,Registrierung der Geburten,s,,,100
-2014,Prozent,Registrierung der Geburten,s,,,100
-2015,Prozent,Registrierung der Geburten,s,,,100
-2016,Prozent,Registrierung der Geburten,s,,,100
-2017,Prozent,Registrierung der Geburten,s,,,100
-2018,Prozent,Registrierung der Geburten,s,,,100
-2019,Prozent,Registrierung der Geburten,s,,,100
-2020,Prozent,Registrierung der Geburten,s,,,100
-2021,Prozent,Registrierung der Geburten,s,,,100
-2022,Prozent,Registrierung der Geburten,s,,,100
-2023,Prozent,Registrierung der Geburten,s,,,100
-2024,Prozent,Registrierung der Geburten,s,,,100
-2010,Prozent,Registrierung der Sterbefälle,s,,,100
-2011,Prozent,Registrierung der Sterbefälle,s,,,100
-2012,Prozent,Registrierung der Sterbefälle,s,,,100
-2013,Prozent,Registrierung der Sterbefälle,s,,,100
-2014,Prozent,Registrierung der Sterbefälle,s,,,100
-2015,Prozent,Registrierung der Sterbefälle,s,,,100
-2016,Prozent,Registrierung der Sterbefälle,s,,,100
-2017,Prozent,Registrierung der Sterbefälle,s,,,100
-2018,Prozent,Registrierung der Sterbefälle,s,,,100
-2019,Prozent,Registrierung der Sterbefälle,s,,,100
-2020,Prozent,Registrierung der Sterbefälle,s,,,100
-2021,Prozent,Registrierung der Sterbefälle,s,,,100
-2022,Prozent,Registrierung der Sterbefälle,s,,,100
-2023,Prozent,Registrierung der Sterbefälle,s,,,100
-2024,Prozent,Registrierung der Sterbefälle,s,,,100
+Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,‒,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,0
+2011,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2012,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2013,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2014,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2015,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2016,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2017,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2018,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2019,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2020,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2021,‒,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,0
+2022,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2023,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2024,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2025,,,,Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren,1
+2010,s,,,Registrierung der Geburten,1
+2011,s,,,Registrierung der Geburten,1
+2012,s,,,Registrierung der Geburten,1
+2013,s,,,Registrierung der Geburten,1
+2014,s,,,Registrierung der Geburten,1
+2015,s,,,Registrierung der Geburten,1
+2016,s,,,Registrierung der Geburten,1
+2017,s,,,Registrierung der Geburten,1
+2018,s,,,Registrierung der Geburten,1
+2019,s,,,Registrierung der Geburten,1
+2020,s,,,Registrierung der Geburten,1
+2021,s,,,Registrierung der Geburten,1
+2022,s,,,Registrierung der Geburten,1
+2023,s,,,Registrierung der Geburten,1
+2024,s,,,Registrierung der Geburten,1
+2025,s,,,Registrierung der Geburten,1
+2010,s,,,Registrierung der Sterbefälle,1
+2011,s,,,Registrierung der Sterbefälle,1
+2012,s,,,Registrierung der Sterbefälle,1
+2013,s,,,Registrierung der Sterbefälle,1
+2014,s,,,Registrierung der Sterbefälle,1
+2015,s,,,Registrierung der Sterbefälle,1
+2016,s,,,Registrierung der Sterbefälle,1
+2017,s,,,Registrierung der Sterbefälle,1
+2018,s,,,Registrierung der Sterbefälle,1
+2019,s,,,Registrierung der Sterbefälle,1
+2020,s,,,Registrierung der Sterbefälle,1
+2021,s,,,Registrierung der Sterbefälle,1
+2022,s,,,Registrierung der Sterbefälle,1
+2023,s,,,Registrierung der Sterbefälle,1
+2024,s,,,Registrierung der Sterbefälle,1
+2025,s,,,Registrierung der Sterbefälle,1

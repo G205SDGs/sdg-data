@@ -11,8 +11,9 @@ Year,Geschlecht,Form der Misshandlung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2019,Weiblich,,,,,0.14
 2020,Weiblich,,,,,0.15
 2021,Weiblich,,,,,0.16
-2022,Weiblich,,,,,0.17
+2022,Weiblich,,r,,,0.18
 2023,Weiblich,,,,,0.17
+2024,Weiblich,,,,,0.22
 2010,Männlich,,.,,,
 2011,Männlich,,.,,,
 2012,Männlich,,,,,0.07
@@ -23,10 +24,11 @@ Year,Geschlecht,Form der Misshandlung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2017,Männlich,,,,,0.09
 2018,Männlich,,,,,0.11
 2019,Männlich,,,,,0.13
-2020,Männlich,,,,,0.13
-2021,Männlich,,,,,0.13
+2020,Männlich,,r,,,0.14
+2021,Männlich,,r,,,0.14
 2022,Männlich,,,,,0.15
 2023,Männlich,,,,,0.16
+2024,Männlich,,,,,0.19
 2010,,Körperliche Misshandlung,.,,,
 2011,,Körperliche Misshandlung,.,,,
 2012,,Körperliche Misshandlung,,,,0.04
@@ -41,6 +43,7 @@ Year,Geschlecht,Form der Misshandlung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2021,,Körperliche Misshandlung,,,,0.07
 2022,,Körperliche Misshandlung,,,,0.08
 2023,,Körperliche Misshandlung,,,,0.08
+2024,,Körperliche Misshandlung,,,,0.1
 2010,Weiblich,Körperliche Misshandlung,.,,,
 2011,Weiblich,Körperliche Misshandlung,.,,,
 2012,Weiblich,Körperliche Misshandlung,,,,0.04
@@ -55,6 +58,7 @@ Year,Geschlecht,Form der Misshandlung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2021,Weiblich,Körperliche Misshandlung,,,,0.07
 2022,Weiblich,Körperliche Misshandlung,,,,0.08
 2023,Weiblich,Körperliche Misshandlung,,,,0.08
+2024,Weiblich,Körperliche Misshandlung,,,,0.1
 2010,Männlich,Körperliche Misshandlung,.,,,
 2011,Männlich,Körperliche Misshandlung,.,,,
 2012,Männlich,Körperliche Misshandlung,,,,0.03
@@ -63,12 +67,13 @@ Year,Geschlecht,Form der Misshandlung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2015,Männlich,Körperliche Misshandlung,,,,0.04
 2016,Männlich,Körperliche Misshandlung,,,,0.04
 2017,Männlich,Körperliche Misshandlung,,,,0.05
-2018,Männlich,Körperliche Misshandlung,,,,0.05
-2019,Männlich,Körperliche Misshandlung,,,,0.06
-2020,Männlich,Körperliche Misshandlung,,,,0.06
+2018,Männlich,Körperliche Misshandlung,r,,,0.06
+2019,Männlich,Körperliche Misshandlung,r,,,0.07
+2020,Männlich,Körperliche Misshandlung,r,,,0.07
 2021,Männlich,Körperliche Misshandlung,,,,0.06
 2022,Männlich,Körperliche Misshandlung,,,,0.07
-2023,Männlich,Körperliche Misshandlung,,,,0.07
+2023,Männlich,Körperliche Misshandlung,r,,,0.08
+2024,Männlich,Körperliche Misshandlung,,,,0.09
 2010,,Psychische Misshandlung,.,,,
 2011,,Psychische Misshandlung,.,,,
 2012,,Psychische Misshandlung,,,,0.03
@@ -79,10 +84,11 @@ Year,Geschlecht,Form der Misshandlung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2017,,Psychische Misshandlung,,,,0.05
 2018,,Psychische Misshandlung,,,,0.06
 2019,,Psychische Misshandlung,,,,0.07
-2020,,Psychische Misshandlung,,,,0.07
+2020,,Psychische Misshandlung,r,,,0.08
 2021,,Psychische Misshandlung,,,,0.08
 2022,,Psychische Misshandlung,,,,0.09
 2023,,Psychische Misshandlung,,,,0.09
+2024,,Psychische Misshandlung,,,,0.11
 2010,Weiblich,Psychische Misshandlung,.,,,
 2011,Weiblich,Psychische Misshandlung,.,,,
 2012,Weiblich,Psychische Misshandlung,,,,0.04
@@ -97,6 +103,7 @@ Year,Geschlecht,Form der Misshandlung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2021,Weiblich,Psychische Misshandlung,,,,0.09
 2022,Weiblich,Psychische Misshandlung,,,,0.09
 2023,Weiblich,Psychische Misshandlung,,,,0.09
+2024,Weiblich,Psychische Misshandlung,,,,0.12
 2010,Männlich,Psychische Misshandlung,.,,,
 2011,Männlich,Psychische Misshandlung,.,,,
 2012,Männlich,Psychische Misshandlung,,,,0.03
@@ -111,3 +118,4 @@ Year,Geschlecht,Form der Misshandlung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2021,Männlich,Psychische Misshandlung,,,,0.07
 2022,Männlich,Psychische Misshandlung,,,,0.08
 2023,Männlich,Psychische Misshandlung,,,,0.09
+2024,Männlich,Psychische Misshandlung,,,,0.1

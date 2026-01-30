@@ -1,4 +1,4 @@
-Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+Year,Units,Time series,field of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2010,Percentage,Working-age population,,,,,,49.5
 2011,Percentage,Working-age population,,,,,,49.8
 2012,Percentage,Working-age population,,,,,,49.8
@@ -15,6 +15,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Working-age population,,,,,,49.4
 2024,Percentage,Working-age population,,,,,,49.4
 2025,Percentage,Working-age population,,,…,,,
+2026,Percentage,Working-age population,,,…,,,
 2010,Percentage,German Bundestag (lower chamber),,,,,,32.8
 2011,Percentage,German Bundestag (lower chamber),,,,,,33.1
 2012,Percentage,German Bundestag (lower chamber),,,,,,32.9
@@ -31,6 +32,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,German Bundestag (lower chamber),,,,,,35.1
 2024,Percentage,German Bundestag (lower chamber),,,,,,35.3
 2025,Percentage,German Bundestag (lower chamber),,,,,,35.6
+2026,Percentage,German Bundestag (lower chamber),,,,,,35.2
 2010,Percentage,Bundesrat (upper chamber),,,,,,18.8
 2011,Percentage,Bundesrat (upper chamber),,,,,,24.6
 2012,Percentage,Bundesrat (upper chamber),,,,,,27.5
@@ -47,6 +49,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Bundesrat (upper chamber),,,,,,37.7
 2024,Percentage,Bundesrat (upper chamber),,,,,,37.7
 2025,Percentage,Bundesrat (upper chamber),,,,,,34.8
+2026,Percentage,Bundesrat (upper chamber),,,,,,34.8
 2010,Percentage,Public service,,,,,,50.5
 2011,Percentage,Public service,,,,,,50.2
 2012,Percentage,Public service,,,,,,50.7
@@ -63,6 +66,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Public service,,,,,,51.7
 2024,Percentage,Public service,,,,,,52.1
 2025,Percentage,Public service,,,…,,,
+2026,Percentage,Public service,,,…,,,
 2010,Percentage,Public service,"Political leadership and central administration, foreign affairs",,,,,48.8
 2011,Percentage,Public service,"Political leadership and central administration, foreign affairs",,,,,49.2
 2012,Percentage,Public service,"Political leadership and central administration, foreign affairs",,,,,49.7
@@ -79,6 +83,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Public service,"Political leadership and central administration, foreign affairs",,,,,53.4
 2024,Percentage,Public service,"Political leadership and central administration, foreign affairs",,,,,53.7
 2025,Percentage,Public service,"Political leadership and central administration, foreign affairs",,…,,,
+2026,Percentage,Public service,"Political leadership and central administration, foreign affairs",,…,,,
 2010,Percentage,Public service,Police,,,,,22.7
 2011,Percentage,Public service,Police,,,,,22.4
 2012,Percentage,Public service,Police,,,,,22.9
@@ -95,6 +100,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Public service,Police,,,,,31.2
 2024,Percentage,Public service,Police,,,,,32.0
 2025,Percentage,Public service,Police,,…,,,
+2026,Percentage,Public service,Police,,…,,,
 2010,Percentage,Public service,"Education, science, research, cultural affairs",,,,,60.6
 2011,Percentage,Public service,"Education, science, research, cultural affairs",,,,,61.0
 2012,Percentage,Public service,"Education, science, research, cultural affairs",,,,,61.4
@@ -111,6 +117,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Public service,"Education, science, research, cultural affairs",,,,,63.3
 2024,Percentage,Public service,"Education, science, research, cultural affairs",,,,,63.6
 2025,Percentage,Public service,"Education, science, research, cultural affairs",,…,,,
+2026,Percentage,Public service,"Education, science, research, cultural affairs",,…,,,
 2010,Percentage,Public service,"Health, environment, sports and recreation",,,,,57.0
 2011,Percentage,Public service,"Health, environment, sports and recreation",,,,,57.4
 2012,Percentage,Public service,"Health, environment, sports and recreation",,,,,57.0
@@ -127,6 +134,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Public service,"Health, environment, sports and recreation",,,,,59.3
 2024,Percentage,Public service,"Health, environment, sports and recreation",,,,,59.5
 2025,Percentage,Public service,"Health, environment, sports and recreation",,…,,,
+2026,Percentage,Public service,"Health, environment, sports and recreation",,…,,,
 2010,Percentage,Judiciary,,,,,,38.5
 2011,Percentage,Judiciary,,,,,,39.3
 2012,Percentage,Judiciary,,,,,,40.2
@@ -143,6 +151,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Judiciary,,,,,,49.9
 2024,Percentage,Judiciary,,,,,,
 2025,Percentage,Judiciary,,,,,,
+2026,Percentage,Judiciary,,,…,,,
 2010,Percentage,Judiciary,,Supreme/Constitutional courts,,,,23.0
 2011,Percentage,Judiciary,,Supreme/Constitutional courts,,,,23.0
 2012,Percentage,Judiciary,,Supreme/Constitutional courts,,,,25.5
@@ -159,6 +168,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Judiciary,,Supreme/Constitutional courts,,,,39.4
 2024,Percentage,Judiciary,,Supreme/Constitutional courts,,,,
 2025,Percentage,Judiciary,,Supreme/Constitutional courts,,,,
+2026,Percentage,Judiciary,,Supreme/Constitutional courts,…,,,
 2010,Percentage,Judiciary,,Higher-level courts,,,,29.3
 2011,Percentage,Judiciary,,Higher-level courts,,,,30.5
 2012,Percentage,Judiciary,,Higher-level courts,,,,31.1
@@ -175,6 +185,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Judiciary,,Higher-level courts,,,,42.4
 2024,Percentage,Judiciary,,Higher-level courts,,,,
 2025,Percentage,Judiciary,,Higher-level courts,,,,
+2026,Percentage,Judiciary,,Higher-level courts,…,,,
 2010,Percentage,Judiciary,,Lower-level courts,,,,40.7
 2011,Percentage,Judiciary,,Lower-level courts,,,,41.5
 2012,Percentage,Judiciary,,Lower-level courts,,,,42.4
@@ -191,6 +202,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,Percentage,Judiciary,,Lower-level courts,,,,51.7
 2024,Percentage,Judiciary,,Lower-level courts,…,,,
 2025,Percentage,Judiciary,,Lower-level courts,…,,,
+2026,Percentage,Judiciary,,Lower-level courts,…,,,
 2010,No unit,German Bundestag (lower chamber),,,,,,0.66
 2011,No unit,German Bundestag (lower chamber),,,,,,0.67
 2012,No unit,German Bundestag (lower chamber),,,,,,0.66
@@ -207,6 +219,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,German Bundestag (lower chamber),,,,,,0.71
 2024,No unit,German Bundestag (lower chamber),,,,,,0.71
 2025,No unit,German Bundestag (lower chamber),,,,,,0.72
+2026,No unit,German Bundestag (lower chamber),,,…,,,
 2010,No unit,Bundesrat (upper chamber),,,,,,0.38
 2011,No unit,Bundesrat (upper chamber),,,,,,0.5
 2012,No unit,Bundesrat (upper chamber),,,,,,0.55
@@ -223,6 +236,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,Bundesrat (upper chamber),,,,,,0.76
 2024,No unit,Bundesrat (upper chamber),,,,,,0.76
 2025,No unit,Bundesrat (upper chamber),,,,,,0.7
+2026,No unit,Bundesrat (upper chamber),,,…,,,
 2010,No unit,Public service,,,,,,1.02
 2011,No unit,Public service,,,,,,1.01
 2012,No unit,Public service,,,,,,1.02
@@ -239,6 +253,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,Public service,,,p,,,1.05
 2024,No unit,Public service,,,p,,,1.06
 2025,No unit,Public service,,,…,,,
+2026,No unit,Public service,,,…,,,
 2010,No unit,Public service,"Political leadership and central administration, foreign affairs",,,,,0.99
 2011,No unit,Public service,"Political leadership and central administration, foreign affairs",,,,,0.99
 2012,No unit,Public service,"Political leadership and central administration, foreign affairs",,,,,1.0
@@ -255,6 +270,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,Public service,"Political leadership and central administration, foreign affairs",,p,,,1.08
 2024,No unit,Public service,"Political leadership and central administration, foreign affairs",,p,,,1.09
 2025,No unit,Public service,"Political leadership and central administration, foreign affairs",,…,,,
+2026,No unit,Public service,"Political leadership and central administration, foreign affairs",,…,,,
 2010,No unit,Public service,Police,,,,,0.46
 2011,No unit,Public service,Police,,,,,0.45
 2012,No unit,Public service,Police,,,,,0.46
@@ -271,6 +287,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,Public service,Police,,p,,,0.63
 2024,No unit,Public service,Police,,p,,,0.65
 2025,No unit,Public service,Police,,…,,,
+2026,No unit,Public service,Police,,…,,,
 2010,No unit,Public service,"Education, science, research, cultural affairs",,,,,1.22
 2011,No unit,Public service,"Education, science, research, cultural affairs",,,,,1.22
 2012,No unit,Public service,"Education, science, research, cultural affairs",,,,,1.23
@@ -287,6 +304,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,Public service,"Education, science, research, cultural affairs",,p,,,1.28
 2024,No unit,Public service,"Education, science, research, cultural affairs",,p,,,1.29
 2025,No unit,Public service,"Education, science, research, cultural affairs",,…,,,
+2026,No unit,Public service,"Education, science, research, cultural affairs",,…,,,
 2010,No unit,Public service,"Health, environment, sports and recreation",,,,,1.15
 2011,No unit,Public service,"Health, environment, sports and recreation",,,,,1.15
 2012,No unit,Public service,"Health, environment, sports and recreation",,,,,1.15
@@ -303,6 +321,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,Public service,"Health, environment, sports and recreation",,p,,,1.2
 2024,No unit,Public service,"Health, environment, sports and recreation",,p,,,1.2
 2025,No unit,Public service,"Health, environment, sports and recreation",,…,,,
+2026,No unit,Public service,"Health, environment, sports and recreation",,…,,,
 2010,No unit,Judiciary,,,,,,0.78
 2011,No unit,Judiciary,,,,,,0.79
 2012,No unit,Judiciary,,,,,,0.81
@@ -319,6 +338,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,Judiciary,,,,,,1.01
 2024,No unit,Judiciary,,,…,,,
 2025,No unit,Judiciary,,,…,,,
+2026,No unit,Judiciary,,,…,,,
 2010,No unit,Judiciary,,Supreme/Constitutional courts,,,,0.47
 2011,No unit,Judiciary,,Supreme/Constitutional courts,,,,0.46
 2012,No unit,Judiciary,,Supreme/Constitutional courts,,,,0.51
@@ -335,6 +355,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,Judiciary,,Supreme/Constitutional courts,,,,0.8
 2024,No unit,Judiciary,,Supreme/Constitutional courts,…,,,
 2025,No unit,Judiciary,,Supreme/Constitutional courts,…,,,
+2026,No unit,Judiciary,,Supreme/Constitutional courts,…,,,
 2010,No unit,Judiciary,,Higher-level courts,,,,0.59
 2011,No unit,Judiciary,,Higher-level courts,,,,0.61
 2012,No unit,Judiciary,,Higher-level courts,,,,0.63
@@ -351,6 +372,7 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,Judiciary,,Higher-level courts,,,,0.86
 2024,No unit,Judiciary,,Higher-level courts,…,,,
 2025,No unit,Judiciary,,Higher-level courts,…,,,
+2026,No unit,Judiciary,,Higher-level courts,…,,,
 2010,No unit,Judiciary,,Lower-level courts,,,,0.82
 2011,No unit,Judiciary,,Lower-level courts,,,,0.83
 2012,No unit,Judiciary,,Lower-level courts,,,,0.85
@@ -367,3 +389,4 @@ Year,Units,Time series,Fields of work,Level of court,COMMENT_OBS_0,COMMENT_OBS_1
 2023,No unit,Judiciary,,Lower-level courts,,,,1.05
 2024,No unit,Judiciary,,Lower-level courts,…,,,
 2025,No unit,Judiciary,,Lower-level courts,…,,,
+2026,No unit,Judiciary,,Lower-level courts,…,,,

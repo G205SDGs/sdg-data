@@ -1,9 +1,7 @@
-Year,Fähigkeit,Leistungsniveau,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2012,a) Lesen,Mindestniveau Stufe I,,,,96.7
-2023,a) Lesen,Mindestniveau Stufe I,,,,90.6
-2012,a) Lesen,Mindestniveau Stufe II,,,,82.5
-2023,a) Lesen,Mindestniveau Stufe II,,,,77.5
-2012,b) Rechnen,Mindestniveau Stufe I,,,,95.5
-2023,b) Rechnen,Mindestniveau Stufe I,,,,91.9
-2012,b) Rechnen,Mindestniveau Stufe II,,,,81.6
-2023,b) Rechnen,Mindestniveau Stufe II,,,,79.7
+Year,Altersklasse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2012,16 to under 66 years,,,,82.5
+2023,16 to under 66 years,,,,77.5
+2012,16 bis unter 25 Jahre,,,,86.9
+2023,16 bis unter 25 Jahre,,,,84.7
+2012,25 bis unter 65 Jahre,,,,81.9
+2023,25 bis unter 65 Jahre,,,,76.7

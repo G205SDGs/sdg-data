@@ -16,11 +16,22 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "ja=1, nein=0",
+                "Keine Einheit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             },
@@ -51,7 +62,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Umsetzung nationaler Ziele gemäß dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020",
+                "(a) national strategies and action plans in accordance with the global biodiversity framework",
                 "b) Umsetzung der Werte der biologischen Vielfalt in die UGR",
                 ""
               ]
@@ -60,7 +71,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]

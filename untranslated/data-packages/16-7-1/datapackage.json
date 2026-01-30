@@ -40,7 +40,7 @@
             }
           },
           {
-            "name": "fields of work",
+            "name": "field of work",
             "type": "string",
             "constraints": {
               "enum": [

@@ -16,11 +16,22 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "yes=1, no=0",
+                "No unit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             },
@@ -51,7 +62,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
+                "(a) national strategies and action plans in accordance with the global biodiversity framework",
                 "(b) Implementation of the principles of biodiversity in the SEEA",
                 ""
               ]
@@ -60,7 +71,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

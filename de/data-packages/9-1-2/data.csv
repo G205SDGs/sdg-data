@@ -111,6 +111,7 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2021,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,141033
 2022,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,144336
 2023,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,134433
+2024,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,133256
 2010,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,62278
 2011,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,55027
 2012,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,58488
@@ -125,6 +126,7 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2021,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,48182
 2022,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,44117
 2023,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,41507
+2024,Millionen Tonnenkilometer,Binnenschifffahrt,,,,Güterverkehr,43443
 2010,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1428
 2011,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1480
 2012,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1421
@@ -139,6 +141,7 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2021,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1790
 2022,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1635
 2023,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1516
+2024,Millionen Tonnenkilometer,Luftverkehr,,,,Güterverkehr,1547
 2010,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,16259
 2011,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,15623
 2012,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,16207
@@ -153,3 +156,4 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2021,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,15738
 2022,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,17723
 2023,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,17317
+2024,Millionen Tonnenkilometer,Rohrfernleitungen: Rohöl,,,,Güterverkehr,18390

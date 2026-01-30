@@ -1249,6 +1249,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "r",
                 ""
               ]
             },
@@ -2189,6 +2190,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "r",
                 ""
               ]
             },
@@ -2844,35 +2846,11 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "yes=1, no=0",
-                "Percentage",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At least one population and housing census in the last 10 years conducted",
-                "Birth registration",
-                "Death registration",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 "s",
                 ""
               ]
@@ -2898,6 +2876,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "At least one population and housing census in the last 10 years conducted",
+                "Birth registration",
+                "Death registration",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -3306,11 +3297,22 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "yes=1, no=0",
+                "No unit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             },
@@ -3341,7 +3343,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
+                "(a) national strategies and action plans in accordance with the global biodiversity framework",
                 "(b) Implementation of the principles of biodiversity in the SEEA",
                 ""
               ]
@@ -3350,7 +3352,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -4024,9 +4026,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -5147,7 +5150,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to under 75 years",
                 "16 to under 25 years",
                 "25 to under 65 years",
                 ""
@@ -5364,6 +5366,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "|",
                 ""
               ]
@@ -5852,7 +5855,7 @@
             "title": "Time series"
           },
           {
-            "name": "fields of work",
+            "name": "field of work",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5863,7 +5866,7 @@
                 ""
               ]
             },
-            "title": "Fields of work"
+            "title": "field of work"
           },
           {
             "name": "level of court",
@@ -9368,8 +9371,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ""
               ]
             },
@@ -11249,6 +11252,7 @@
                 "Berlin",
                 "Brandenburg",
                 "Bremen",
+                "Hamburg",
                 "Hesse",
                 "Mecklenburg Western Pomerania",
                 "Lower Saxony",
@@ -11997,7 +12001,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -12032,9 +12036,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -12111,9 +12116,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -13507,9 +13513,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -14166,10 +14173,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Countries that are contracting Parties to the International Treaty on PGRFA",
-                "2) Countries that are parties to the Nagoya Protocol",
-                "3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on PGRFA",
-                "4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House",
+                "1) contracting party to the international treaty on pgrfa",
+                "2) contracting party to the nagoya protocol",
+                "3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa",
+                "4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house",
                 "5) Total reported number of SMTAs transferring PGRFA to Germany",
                 ""
               ]
@@ -14202,10 +14209,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
                 ""
               ]
             },
@@ -14233,7 +14239,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -16405,28 +16411,17 @@
             "title": "Year"
           },
           {
-            "name": "skill",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Literacy skills",
-                "b) Numeracy skills",
+                "16 to under 66 years",
+                "16 to under 25 years",
+                "25 to under 65 years",
                 ""
               ]
             },
-            "title": "Skill"
-          },
-          {
-            "name": "level of proficiency",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Minimum requirement level I",
-                "Minimum requirement level II",
-                ""
-              ]
-            },
-            "title": "Level of proficiency"
+            "title": "Age group"
           },
           {
             "name": "COMMENT_OBS_0",

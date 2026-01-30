@@ -1,4 +1,4 @@
-Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+Year,Units,Zeitreihe,field of work,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2010,Prozent,Bevölkerung im erwerbsfähigen Alter,,,,,,49.5
 2011,Prozent,Bevölkerung im erwerbsfähigen Alter,,,,,,49.8
 2012,Prozent,Bevölkerung im erwerbsfähigen Alter,,,,,,49.8
@@ -15,6 +15,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Bevölkerung im erwerbsfähigen Alter,,,,,,49.4
 2024,Prozent,Bevölkerung im erwerbsfähigen Alter,,,,,,49.4
 2025,Prozent,Bevölkerung im erwerbsfähigen Alter,,,…,,,
+2026,Prozent,Bevölkerung im erwerbsfähigen Alter,,,…,,,
 2010,Prozent,Deutscher Bundestag,,,,,,32.8
 2011,Prozent,Deutscher Bundestag,,,,,,33.1
 2012,Prozent,Deutscher Bundestag,,,,,,32.9
@@ -31,6 +32,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Deutscher Bundestag,,,,,,35.1
 2024,Prozent,Deutscher Bundestag,,,,,,35.3
 2025,Prozent,Deutscher Bundestag,,,,,,35.6
+2026,Prozent,Deutscher Bundestag,,,,,,35.2
 2010,Prozent,Bundesrat,,,,,,18.8
 2011,Prozent,Bundesrat,,,,,,24.6
 2012,Prozent,Bundesrat,,,,,,27.5
@@ -47,6 +49,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Bundesrat,,,,,,37.7
 2024,Prozent,Bundesrat,,,,,,37.7
 2025,Prozent,Bundesrat,,,,,,34.8
+2026,Prozent,Bundesrat,,,,,,34.8
 2010,Prozent,Öffentlicher Dienst,,,,,,50.5
 2011,Prozent,Öffentlicher Dienst,,,,,,50.2
 2012,Prozent,Öffentlicher Dienst,,,,,,50.7
@@ -63,6 +66,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Öffentlicher Dienst,,,,,,51.7
 2024,Prozent,Öffentlicher Dienst,,,,,,52.1
 2025,Prozent,Öffentlicher Dienst,,,…,,,
+2026,Prozent,Öffentlicher Dienst,,,…,,,
 2010,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,48.8
 2011,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,49.2
 2012,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,49.7
@@ -79,6 +83,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,53.4
 2024,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,53.7
 2025,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,…,,,
+2026,Prozent,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,…,,,
 2010,Prozent,Öffentlicher Dienst,Polizei,,,,,22.7
 2011,Prozent,Öffentlicher Dienst,Polizei,,,,,22.4
 2012,Prozent,Öffentlicher Dienst,Polizei,,,,,22.9
@@ -95,6 +100,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Öffentlicher Dienst,Polizei,,,,,31.2
 2024,Prozent,Öffentlicher Dienst,Polizei,,,,,32.0
 2025,Prozent,Öffentlicher Dienst,Polizei,,…,,,
+2026,Prozent,Öffentlicher Dienst,Polizei,,…,,,
 2010,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,60.6
 2011,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,61.0
 2012,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,61.4
@@ -111,6 +117,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,63.3
 2024,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,63.6
 2025,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,…,,,
+2026,Prozent,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,…,,,
 2010,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,57.0
 2011,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,57.4
 2012,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,57.0
@@ -127,6 +134,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,59.3
 2024,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,59.5
 2025,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,…,,,
+2026,Prozent,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,…,,,
 2010,Prozent,Justiz,,,,,,38.5
 2011,Prozent,Justiz,,,,,,39.3
 2012,Prozent,Justiz,,,,,,40.2
@@ -143,6 +151,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Justiz,,,,,,49.9
 2024,Prozent,Justiz,,,,,,
 2025,Prozent,Justiz,,,,,,
+2026,Prozent,Justiz,,,…,,,
 2010,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,23.0
 2011,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,23.0
 2012,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,25.5
@@ -159,6 +168,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,39.4
 2024,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,
 2025,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,
+2026,Prozent,Justiz,,Oberste/Verfassungsgerichte,…,,,
 2010,Prozent,Justiz,,Übergeordnete Gerichte,,,,29.3
 2011,Prozent,Justiz,,Übergeordnete Gerichte,,,,30.5
 2012,Prozent,Justiz,,Übergeordnete Gerichte,,,,31.1
@@ -175,6 +185,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Justiz,,Übergeordnete Gerichte,,,,42.4
 2024,Prozent,Justiz,,Übergeordnete Gerichte,,,,
 2025,Prozent,Justiz,,Übergeordnete Gerichte,,,,
+2026,Prozent,Justiz,,Übergeordnete Gerichte,…,,,
 2010,Prozent,Justiz,,Untergeordnete Gerichte,,,,40.7
 2011,Prozent,Justiz,,Untergeordnete Gerichte,,,,41.5
 2012,Prozent,Justiz,,Untergeordnete Gerichte,,,,42.4
@@ -191,6 +202,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Prozent,Justiz,,Untergeordnete Gerichte,,,,51.7
 2024,Prozent,Justiz,,Untergeordnete Gerichte,…,,,
 2025,Prozent,Justiz,,Untergeordnete Gerichte,…,,,
+2026,Prozent,Justiz,,Untergeordnete Gerichte,…,,,
 2010,Keine Einheit,Deutscher Bundestag,,,,,,0.66
 2011,Keine Einheit,Deutscher Bundestag,,,,,,0.67
 2012,Keine Einheit,Deutscher Bundestag,,,,,,0.66
@@ -207,6 +219,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Deutscher Bundestag,,,,,,0.71
 2024,Keine Einheit,Deutscher Bundestag,,,,,,0.71
 2025,Keine Einheit,Deutscher Bundestag,,,,,,0.72
+2026,Keine Einheit,Deutscher Bundestag,,,…,,,
 2010,Keine Einheit,Bundesrat,,,,,,0.38
 2011,Keine Einheit,Bundesrat,,,,,,0.5
 2012,Keine Einheit,Bundesrat,,,,,,0.55
@@ -223,6 +236,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Bundesrat,,,,,,0.76
 2024,Keine Einheit,Bundesrat,,,,,,0.76
 2025,Keine Einheit,Bundesrat,,,,,,0.7
+2026,Keine Einheit,Bundesrat,,,…,,,
 2010,Keine Einheit,Öffentlicher Dienst,,,,,,1.02
 2011,Keine Einheit,Öffentlicher Dienst,,,,,,1.01
 2012,Keine Einheit,Öffentlicher Dienst,,,,,,1.02
@@ -239,6 +253,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Öffentlicher Dienst,,,p,,,1.05
 2024,Keine Einheit,Öffentlicher Dienst,,,p,,,1.06
 2025,Keine Einheit,Öffentlicher Dienst,,,…,,,
+2026,Keine Einheit,Öffentlicher Dienst,,,…,,,
 2010,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,0.99
 2011,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,0.99
 2012,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,,,,1.0
@@ -255,6 +270,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,p,,,1.08
 2024,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,p,,,1.09
 2025,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,…,,,
+2026,Keine Einheit,Öffentlicher Dienst,"Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",,…,,,
 2010,Keine Einheit,Öffentlicher Dienst,Polizei,,,,,0.46
 2011,Keine Einheit,Öffentlicher Dienst,Polizei,,,,,0.45
 2012,Keine Einheit,Öffentlicher Dienst,Polizei,,,,,0.46
@@ -271,6 +287,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Öffentlicher Dienst,Polizei,,p,,,0.63
 2024,Keine Einheit,Öffentlicher Dienst,Polizei,,p,,,0.65
 2025,Keine Einheit,Öffentlicher Dienst,Polizei,,…,,,
+2026,Keine Einheit,Öffentlicher Dienst,Polizei,,…,,,
 2010,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,1.22
 2011,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,1.22
 2012,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,,,,1.23
@@ -287,6 +304,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,p,,,1.28
 2024,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,p,,,1.29
 2025,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,…,,,
+2026,Keine Einheit,Öffentlicher Dienst,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",,…,,,
 2010,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,1.15
 2011,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,1.15
 2012,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,,,,1.15
@@ -303,6 +321,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,p,,,1.2
 2024,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,p,,,1.2
 2025,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,…,,,
+2026,Keine Einheit,Öffentlicher Dienst,"Gesundheit, Umwelt, Sport und Erholung",,…,,,
 2010,Keine Einheit,Justiz,,,,,,0.78
 2011,Keine Einheit,Justiz,,,,,,0.79
 2012,Keine Einheit,Justiz,,,,,,0.81
@@ -319,6 +338,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Justiz,,,,,,1.01
 2024,Keine Einheit,Justiz,,,…,,,
 2025,Keine Einheit,Justiz,,,…,,,
+2026,Keine Einheit,Justiz,,,…,,,
 2010,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,,,,0.47
 2011,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,,,,0.46
 2012,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,,,,0.51
@@ -335,6 +355,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,,,,0.8
 2024,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,…,,,
 2025,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,…,,,
+2026,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,…,,,
 2010,Keine Einheit,Justiz,,Übergeordnete Gerichte,,,,0.59
 2011,Keine Einheit,Justiz,,Übergeordnete Gerichte,,,,0.61
 2012,Keine Einheit,Justiz,,Übergeordnete Gerichte,,,,0.63
@@ -351,6 +372,7 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Justiz,,Übergeordnete Gerichte,,,,0.86
 2024,Keine Einheit,Justiz,,Übergeordnete Gerichte,…,,,
 2025,Keine Einheit,Justiz,,Übergeordnete Gerichte,…,,,
+2026,Keine Einheit,Justiz,,Übergeordnete Gerichte,…,,,
 2010,Keine Einheit,Justiz,,Untergeordnete Gerichte,,,,0.82
 2011,Keine Einheit,Justiz,,Untergeordnete Gerichte,,,,0.83
 2012,Keine Einheit,Justiz,,Untergeordnete Gerichte,,,,0.85
@@ -367,3 +389,4 @@ Year,Units,Zeitreihe,Aufgabenbereiche,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,
 2023,Keine Einheit,Justiz,,Untergeordnete Gerichte,,,,1.05
 2024,Keine Einheit,Justiz,,Untergeordnete Gerichte,…,,,
 2025,Keine Einheit,Justiz,,Untergeordnete Gerichte,…,,,
+2026,Keine Einheit,Justiz,,Untergeordnete Gerichte,…,,,

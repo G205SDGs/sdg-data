@@ -57,10 +57,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) countries that are contracting parties to the international treaty on pgrfa",
-                "2) countries that are parties to the nagoya protocol",
-                "3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa",
-                "4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house",
+                "1) contracting party to the international treaty on pgrfa",
+                "2) contracting party to the nagoya protocol",
+                "3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa",
+                "4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house",
                 "5) total reported number of smtas transferring pgrfa to germany",
                 ""
               ]

@@ -1,9 +1,7 @@
-Year,Skill,Level of proficiency,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2012,a) Literacy skills,Minimum requirement level I,,,,96.7
-2023,a) Literacy skills,Minimum requirement level I,,,,90.6
-2012,a) Literacy skills,Minimum requirement level II,,,,82.5
-2023,a) Literacy skills,Minimum requirement level II,,,,77.5
-2012,b) Numeracy skills,Minimum requirement level I,,,,95.5
-2023,b) Numeracy skills,Minimum requirement level I,,,,91.9
-2012,b) Numeracy skills,Minimum requirement level II,,,,81.6
-2023,b) Numeracy skills,Minimum requirement level II,,,,79.7
+Year,Age group,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2012,16 to under 66 years,,,,82.5
+2023,16 to under 66 years,,,,77.5
+2012,16 to under 25 years,,,,86.9
+2023,16 to under 25 years,,,,84.7
+2012,25 to under 65 years,,,,81.9
+2023,25 to under 65 years,,,,76.7
