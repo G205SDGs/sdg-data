@@ -1,6 +1,75 @@
-Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2015,,,,a) Index der Grünbedeckung in Gebirgen,92.2
-2018,,,,a) Index der Grünbedeckung in Gebirgen,92.15
-2021,,,,a) Index der Grünbedeckung in Gebirgen,92.25
-2018,,,,b) Anteil der degradierten Gebirgsfläche,0.05
-2021,,,,b) Anteil der degradierten Gebirgsfläche,0.03
+Year,Landbedeckungsklasse,Bioklimatischer Gürtel,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2015,,,,,,a) Index der Grünbedeckung in Gebirgen,92.196
+2018,,,,,,a) Index der Grünbedeckung in Gebirgen,92.149
+2021,,,,,,a) Index der Grünbedeckung in Gebirgen,92.247
+2015,Acker- und Kulturflächen,,,,,a) Index der Grünbedeckung in Gebirgen,13.64
+2018,Acker- und Kulturflächen,,,,,a) Index der Grünbedeckung in Gebirgen,13.658
+2021,Acker- und Kulturflächen,,,,,a) Index der Grünbedeckung in Gebirgen,13.671
+2015,Grünland,,,,,a) Index der Grünbedeckung in Gebirgen,22.749
+2018,Grünland,,,,,a) Index der Grünbedeckung in Gebirgen,22.793
+2021,Grünland,,,,,a) Index der Grünbedeckung in Gebirgen,22.832
+2015,Baumbesetzte Flächen,,,,,a) Index der Grünbedeckung in Gebirgen,54.671
+2018,Baumbesetzte Flächen,,,,,a) Index der Grünbedeckung in Gebirgen,54.702
+2021,Baumbesetzte Flächen,,,,,a) Index der Grünbedeckung in Gebirgen,54.741
+2015,Flächen mit Büschen und Sträuchern,,,,,a) Index der Grünbedeckung in Gebirgen,0.928
+2018,Flächen mit Büschen und Sträuchern,,,,,a) Index der Grünbedeckung in Gebirgen,1.011
+2021,Flächen mit Büschen und Sträuchern,,,,,a) Index der Grünbedeckung in Gebirgen,1.97
+2015,Krautige Vegetation und Feuchtgebiete,,,,,a) Index der Grünbedeckung in Gebirgen,0.211
+2018,Krautige Vegetation und Feuchtgebiete,,,,,a) Index der Grünbedeckung in Gebirgen,0.212
+2021,Krautige Vegetation und Feuchtgebiete,,,,,a) Index der Grünbedeckung in Gebirgen,0.212
+2015,,Nival,,,,a) Index der Grünbedeckung in Gebirgen,3.957
+2018,,Nival,,,,a) Index der Grünbedeckung in Gebirgen,3.957
+2021,,Nival,,,,a) Index der Grünbedeckung in Gebirgen,3.957
+2015,Acker- und Kulturflächen,Nival,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2018,Acker- und Kulturflächen,Nival,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2021,Acker- und Kulturflächen,Nival,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2015,Grünland,Nival,,,,a) Index der Grünbedeckung in Gebirgen,3.161
+2018,Grünland,Nival,,,,a) Index der Grünbedeckung in Gebirgen,3.161
+2021,Grünland,Nival,,,,a) Index der Grünbedeckung in Gebirgen,3.161
+2015,Baumbesetzte Flächen,Nival,,,,a) Index der Grünbedeckung in Gebirgen,0.796
+2018,Baumbesetzte Flächen,Nival,,,,a) Index der Grünbedeckung in Gebirgen,0.796
+2021,Baumbesetzte Flächen,Nival,,,,a) Index der Grünbedeckung in Gebirgen,0.796
+2015,Flächen mit Büschen und Sträuchern,Nival,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2018,Flächen mit Büschen und Sträuchern,Nival,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2021,Flächen mit Büschen und Sträuchern,Nival,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2015,Krautige Vegetation und Feuchtgebiete,Nival,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2018,Krautige Vegetation und Feuchtgebiete,Nival,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2021,Krautige Vegetation und Feuchtgebiete,Nival,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2015,,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,57.321
+2018,,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,57.482
+2021,,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,57.482
+2015,Acker- und Kulturflächen,Alpin,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2018,Acker- und Kulturflächen,Alpin,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2021,Acker- und Kulturflächen,Alpin,0.0,,,a) Index der Grünbedeckung in Gebirgen,0.0
+2015,Grünland,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,37.266
+2018,Grünland,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,37.269
+2021,Grünland,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,37.269
+2015,Baumbesetzte Flächen,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,19.128
+2018,Baumbesetzte Flächen,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,19.286
+2021,Baumbesetzte Flächen,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,19.286
+2015,Flächen mit Büschen und Sträuchern,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,0.911
+2018,Flächen mit Büschen und Sträuchern,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,0.912
+2021,Flächen mit Büschen und Sträuchern,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,0.912
+2015,Krautige Vegetation und Feuchtgebiete,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,0.015
+2018,Krautige Vegetation und Feuchtgebiete,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,0.015
+2021,Krautige Vegetation und Feuchtgebiete,Alpin,,,,a) Index der Grünbedeckung in Gebirgen,0.015
+2015,,Montan,,,,a) Index der Grünbedeckung in Gebirgen,93.112
+2018,,Montan,,,,a) Index der Grünbedeckung in Gebirgen,93.292
+2021,,Montan,,,,a) Index der Grünbedeckung in Gebirgen,94.353
+2015,Acker- und Kulturflächen,Montan,,,,a) Index der Grünbedeckung in Gebirgen,13.785
+2018,Acker- und Kulturflächen,Montan,,,,a) Index der Grünbedeckung in Gebirgen,13.803
+2021,Acker- und Kulturflächen,Montan,,,,a) Index der Grünbedeckung in Gebirgen,13.817
+2015,Grünland,Montan,,,,a) Index der Grünbedeckung in Gebirgen,22.947
+2018,Grünland,Montan,,,,a) Index der Grünbedeckung in Gebirgen,22.992
+2021,Grünland,Montan,,,,a) Index der Grünbedeckung in Gebirgen,23.031
+2015,Baumbesetzte Flächen,Montan,,,,a) Index der Grünbedeckung in Gebirgen,55.23
+2018,Baumbesetzte Flächen,Montan,,,,a) Index der Grünbedeckung in Gebirgen,55.262
+2021,Baumbesetzte Flächen,Montan,,,,a) Index der Grünbedeckung in Gebirgen,55.301
+2015,Flächen mit Büschen und Sträuchern,Montan,,,,a) Index der Grünbedeckung in Gebirgen,0.936
+2018,Flächen mit Büschen und Sträuchern,Montan,,,,a) Index der Grünbedeckung in Gebirgen,1.021
+2021,Flächen mit Büschen und Sträuchern,Montan,,,,a) Index der Grünbedeckung in Gebirgen,1.99
+2015,Krautige Vegetation und Feuchtgebiete,Montan,,,,a) Index der Grünbedeckung in Gebirgen,0.213
+2018,Krautige Vegetation und Feuchtgebiete,Montan,,,,a) Index der Grünbedeckung in Gebirgen,0.214
+2021,Krautige Vegetation und Feuchtgebiete,Montan,,,,a) Index der Grünbedeckung in Gebirgen,0.214
+2015,,,,,,b) Degradierte Gebirgsfläche,0.05
+2021,,,,,,b) Degradierte Gebirgsfläche,0.03

@@ -3343,7 +3343,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) national strategies and action plans in accordance with the global biodiversity framework",
+                "(a) National strategies and action plans in accordance with the Global Biodiversity Framework",
                 "(b) Implementation of the principles of biodiversity in the SEEA",
                 ""
               ]
@@ -5866,7 +5866,7 @@
                 ""
               ]
             },
-            "title": "field of work"
+            "title": "Field of work"
           },
           {
             "name": "level of court",
@@ -14173,10 +14173,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) contracting party to the international treaty on pgrfa",
-                "2) contracting party to the nagoya protocol",
-                "3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa",
-                "4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house",
+                "1) Contracting party to the International Treaty on PGRFA",
+                "2) Contracting party to the Nagoya Protocol",
+                "3) Existence of legislative, administrative and policy frameworks or measures reported through the Online Reporting System on Compliance with the International Treaty on PGRFA",
+                "4) Existence of legislative, administrative and policy framework or measures reported to the ABS Clearing-House",
                 "5) Total reported number of SMTAs transferring PGRFA to Germany",
                 ""
               ]
@@ -16478,10 +16478,39 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "land cover class",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Croplands",
+                "Grasslands",
+                "Tree-covered areas",
+                "Shrub-covered areas",
+                "Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",
+                ""
+              ]
+            },
+            "title": "Land cover class"
+          },
+          {
+            "name": "bioclimatic belt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nival",
+                "Alpine",
+                "Montane",
+                ""
+              ]
+            },
+            "title": "Bioclimatic belt"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0.0",
                 ""
               ]
             },
@@ -16513,7 +16542,7 @@
             "constraints": {
               "enum": [
                 "(a) Mountain Green Cover Index",
-                "(b) Proportion of degraded mountain area",
+                "(b) Degraded mountain area",
                 ""
               ]
             },

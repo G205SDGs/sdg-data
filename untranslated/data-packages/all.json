@@ -15049,10 +15049,37 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "land cover class",
+            "type": "string",
             "constraints": {
               "enum": [
+                "croplands",
+                "grasslands",
+                "tree-covered areas",
+                "shrub-covered areas",
+                "shrubs and/or herbaceous vegetation, aquatic or regularly flooded",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "bioclimatic belt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "nival",
+                "alpine",
+                "montane",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0.0",
                 ""
               ]
             }
@@ -15081,7 +15108,7 @@
             "constraints": {
               "enum": [
                 "(a) mountain green cover index",
-                "(b) proportion of degraded mountain area",
+                "(b) degraded mountain area",
                 ""
               ]
             }

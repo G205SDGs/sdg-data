@@ -4,9 +4,10 @@ age of mother,1,2
 area of law,1,4
 area2,3,4
 availability,1,2
+bioclimatic belt,1,3
 bound,1,2
 cause of death,3,10
-COMMENT_OBS_0,152,10
+COMMENT_OBS_0,153,11
 COMMENT_OBS_1,8,5
 completeness of disaggregation,1,3
 conversion,1,2
@@ -26,6 +27,7 @@ function,1,3
 goal,1,13
 income considered,1,2
 indicator,1,5
+land cover class,1,5
 level of court,1,3
 level of risk of extinction,1,5
 level,1,3

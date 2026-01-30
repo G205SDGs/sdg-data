@@ -3343,7 +3343,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) national strategies and action plans in accordance with the global biodiversity framework",
+                "a) Nationale Strategien und Aktionspläne gemäß des Globalen Biodiversitätsrahmens",
                 "b) Umsetzung der Werte der biologischen Vielfalt in die UGR",
                 ""
               ]
@@ -5866,7 +5866,7 @@
                 ""
               ]
             },
-            "title": "field of work"
+            "title": "Aufgabenbereich"
           },
           {
             "name": "level of court",
@@ -7234,7 +7234,7 @@
                 ""
               ]
             },
-            "title": "Politikbereiche"
+            "title": "Politikbereich"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -9189,7 +9189,7 @@
                 ""
               ]
             },
-            "title": "Standard Gesamtrechnungssystem"
+            "title": "Standardrechnungssystem (der Volkswirtschaftlichen Gesamtrechnungen)"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -13108,7 +13108,7 @@
                 ""
               ]
             },
-            "title": "Versorgungsleistung"
+            "title": "Art der Versorgungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -14173,10 +14173,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) contracting party to the international treaty on pgrfa",
-                "2) contracting party to the nagoya protocol",
-                "3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa",
-                "4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house",
+                "1) Vertragspartei des Internationalen Vertrags über PGRFA",
+                "2) Vertragspartei des Nagoya-Protokolls",
+                "3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
+                "4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",
                 "5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
                 ""
               ]
@@ -16415,7 +16415,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to under 66 years",
+                "16 bis unter 66 Jahre",
                 "16 bis unter 25 Jahre",
                 "25 bis unter 65 Jahre",
                 ""
@@ -16478,10 +16478,39 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "land cover class",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Acker- und Kulturflächen",
+                "Grünland",
+                "Baumbesetzte Flächen",
+                "Flächen mit Büschen und Sträuchern",
+                "Krautige Vegetation und Feuchtgebiete",
+                ""
+              ]
+            },
+            "title": "Landbedeckungsklasse"
+          },
+          {
+            "name": "bioclimatic belt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nival",
+                "Alpin",
+                "Montan",
+                ""
+              ]
+            },
+            "title": "Bioklimatischer Gürtel"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0.0",
                 ""
               ]
             },
@@ -16513,7 +16542,7 @@
             "constraints": {
               "enum": [
                 "a) Index der Grünbedeckung in Gebirgen",
-                "b) Anteil der degradierten Gebirgsfläche",
+                "b) Degradierte Gebirgsfläche",
                 ""
               ]
             },

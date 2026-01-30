@@ -1,6 +1,75 @@
-Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2015,,,,(a) Mountain Green Cover Index,92.2
-2018,,,,(a) Mountain Green Cover Index,92.15
-2021,,,,(a) Mountain Green Cover Index,92.25
-2018,,,,(b) Proportion of degraded mountain area,0.05
-2021,,,,(b) Proportion of degraded mountain area,0.03
+Year,Land cover class,Bioclimatic belt,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2015,,,,,,(a) Mountain Green Cover Index,92.196
+2018,,,,,,(a) Mountain Green Cover Index,92.149
+2021,,,,,,(a) Mountain Green Cover Index,92.247
+2015,Croplands,,,,,(a) Mountain Green Cover Index,13.64
+2018,Croplands,,,,,(a) Mountain Green Cover Index,13.658
+2021,Croplands,,,,,(a) Mountain Green Cover Index,13.671
+2015,Grasslands,,,,,(a) Mountain Green Cover Index,22.749
+2018,Grasslands,,,,,(a) Mountain Green Cover Index,22.793
+2021,Grasslands,,,,,(a) Mountain Green Cover Index,22.832
+2015,Tree-covered areas,,,,,(a) Mountain Green Cover Index,54.671
+2018,Tree-covered areas,,,,,(a) Mountain Green Cover Index,54.702
+2021,Tree-covered areas,,,,,(a) Mountain Green Cover Index,54.741
+2015,Shrub-covered areas,,,,,(a) Mountain Green Cover Index,0.928
+2018,Shrub-covered areas,,,,,(a) Mountain Green Cover Index,1.011
+2021,Shrub-covered areas,,,,,(a) Mountain Green Cover Index,1.97
+2015,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",,,,,(a) Mountain Green Cover Index,0.211
+2018,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",,,,,(a) Mountain Green Cover Index,0.212
+2021,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",,,,,(a) Mountain Green Cover Index,0.212
+2015,,Nival,,,,(a) Mountain Green Cover Index,3.957
+2018,,Nival,,,,(a) Mountain Green Cover Index,3.957
+2021,,Nival,,,,(a) Mountain Green Cover Index,3.957
+2015,Croplands,Nival,0.0,,,(a) Mountain Green Cover Index,0.0
+2018,Croplands,Nival,0.0,,,(a) Mountain Green Cover Index,0.0
+2021,Croplands,Nival,0.0,,,(a) Mountain Green Cover Index,0.0
+2015,Grasslands,Nival,,,,(a) Mountain Green Cover Index,3.161
+2018,Grasslands,Nival,,,,(a) Mountain Green Cover Index,3.161
+2021,Grasslands,Nival,,,,(a) Mountain Green Cover Index,3.161
+2015,Tree-covered areas,Nival,,,,(a) Mountain Green Cover Index,0.796
+2018,Tree-covered areas,Nival,,,,(a) Mountain Green Cover Index,0.796
+2021,Tree-covered areas,Nival,,,,(a) Mountain Green Cover Index,0.796
+2015,Shrub-covered areas,Nival,0.0,,,(a) Mountain Green Cover Index,0.0
+2018,Shrub-covered areas,Nival,0.0,,,(a) Mountain Green Cover Index,0.0
+2021,Shrub-covered areas,Nival,0.0,,,(a) Mountain Green Cover Index,0.0
+2015,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Nival,0.0,,,(a) Mountain Green Cover Index,0.0
+2018,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Nival,0.0,,,(a) Mountain Green Cover Index,0.0
+2021,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Nival,0.0,,,(a) Mountain Green Cover Index,0.0
+2015,,Alpine,,,,(a) Mountain Green Cover Index,57.321
+2018,,Alpine,,,,(a) Mountain Green Cover Index,57.482
+2021,,Alpine,,,,(a) Mountain Green Cover Index,57.482
+2015,Croplands,Alpine,0.0,,,(a) Mountain Green Cover Index,0.0
+2018,Croplands,Alpine,0.0,,,(a) Mountain Green Cover Index,0.0
+2021,Croplands,Alpine,0.0,,,(a) Mountain Green Cover Index,0.0
+2015,Grasslands,Alpine,,,,(a) Mountain Green Cover Index,37.266
+2018,Grasslands,Alpine,,,,(a) Mountain Green Cover Index,37.269
+2021,Grasslands,Alpine,,,,(a) Mountain Green Cover Index,37.269
+2015,Tree-covered areas,Alpine,,,,(a) Mountain Green Cover Index,19.128
+2018,Tree-covered areas,Alpine,,,,(a) Mountain Green Cover Index,19.286
+2021,Tree-covered areas,Alpine,,,,(a) Mountain Green Cover Index,19.286
+2015,Shrub-covered areas,Alpine,,,,(a) Mountain Green Cover Index,0.911
+2018,Shrub-covered areas,Alpine,,,,(a) Mountain Green Cover Index,0.912
+2021,Shrub-covered areas,Alpine,,,,(a) Mountain Green Cover Index,0.912
+2015,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Alpine,,,,(a) Mountain Green Cover Index,0.015
+2018,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Alpine,,,,(a) Mountain Green Cover Index,0.015
+2021,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Alpine,,,,(a) Mountain Green Cover Index,0.015
+2015,,Montane,,,,(a) Mountain Green Cover Index,93.112
+2018,,Montane,,,,(a) Mountain Green Cover Index,93.292
+2021,,Montane,,,,(a) Mountain Green Cover Index,94.353
+2015,Croplands,Montane,,,,(a) Mountain Green Cover Index,13.785
+2018,Croplands,Montane,,,,(a) Mountain Green Cover Index,13.803
+2021,Croplands,Montane,,,,(a) Mountain Green Cover Index,13.817
+2015,Grasslands,Montane,,,,(a) Mountain Green Cover Index,22.947
+2018,Grasslands,Montane,,,,(a) Mountain Green Cover Index,22.992
+2021,Grasslands,Montane,,,,(a) Mountain Green Cover Index,23.031
+2015,Tree-covered areas,Montane,,,,(a) Mountain Green Cover Index,55.23
+2018,Tree-covered areas,Montane,,,,(a) Mountain Green Cover Index,55.262
+2021,Tree-covered areas,Montane,,,,(a) Mountain Green Cover Index,55.301
+2015,Shrub-covered areas,Montane,,,,(a) Mountain Green Cover Index,0.936
+2018,Shrub-covered areas,Montane,,,,(a) Mountain Green Cover Index,1.021
+2021,Shrub-covered areas,Montane,,,,(a) Mountain Green Cover Index,1.99
+2015,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Montane,,,,(a) Mountain Green Cover Index,0.213
+2018,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Montane,,,,(a) Mountain Green Cover Index,0.214
+2021,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Montane,,,,(a) Mountain Green Cover Index,0.214
+2015,,,,,,(b) Degraded mountain area,0.05
+2021,,,,,,(b) Degraded mountain area,0.03
