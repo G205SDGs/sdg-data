@@ -15,23 +15,10 @@
             "type": "integer"
           },
           {
-            "name": "conversion",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "by un factors",
-                "by national factors",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "p",
                 ""
               ]
             }

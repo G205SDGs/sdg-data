@@ -16,24 +16,10 @@
             "title": "Jahr"
           },
           {
-            "name": "conversion",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nach UN-Faktoren",
-                "Nach nationalen Faktoren",
-                ""
-              ]
-            },
-            "title": "Umrechnung"
-          },
-          {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "p",
                 ""
               ]
             },

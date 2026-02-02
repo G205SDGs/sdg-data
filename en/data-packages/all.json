@@ -15995,24 +15995,10 @@
             "title": "Year"
           },
           {
-            "name": "conversion",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "By UN factors",
-                "By national factors",
-                ""
-              ]
-            },
-            "title": "Conversion"
-          },
-          {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "p",
                 ""
               ]
             },
