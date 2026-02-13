@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "Number",
+                "Per 100,000 female inhabitants",
                 "Percentage",
                 ""
               ]

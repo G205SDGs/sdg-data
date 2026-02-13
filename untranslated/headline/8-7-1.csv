@@ -1,16 +1,42 @@
-Year,Value
-2010,119.0
-2011,124.0
-2012,115.0
-2013,110.0
-2014,98.0
-2015,106.0
-2016,147.0
-2017,120.0
-2018,130.0
-2019,104.0
-2020,117.0
-2021,118.0
-2022,106.0
-2023,80.0
-2024,87.0
+Year,Value,Units
+2010,119.0,number
+2011,124.0,number
+2012,115.0,number
+2013,110.0,number
+2014,98.0,number
+2015,106.0,number
+2016,147.0,number
+2017,120.0,number
+2018,130.0,number
+2019,104.0,number
+2020,117.0,number
+2021,118.0,number
+2022,106.0,number
+2023,80.0,number
+2024,87.0,number
+2010,3.4,"per 100,000 inhabitants"
+2011,3.3,"per 100,000 inhabitants"
+2012,3.2,"per 100,000 inhabitants"
+2014,2.6,"per 100,000 inhabitants"
+2015,2.9,"per 100,000 inhabitants"
+2016,3.8,"per 100,000 inhabitants"
+2018,3.8,"per 100,000 inhabitants"
+2019,3.1,"per 100,000 inhabitants"
+2020,3.1,"per 100,000 inhabitants"
+2021,3.1,"per 100,000 inhabitants"
+2022,3.0,"per 100,000 inhabitants"
+2023,2.3,"per 100,000 inhabitants"
+2010,0.001,percentage
+2011,0.001,percentage
+2012,0.001,percentage
+2013,0.001,percentage
+2014,0.001,percentage
+2015,0.001,percentage
+2016,0.001,percentage
+2018,0.001,percentage
+2019,0.001,percentage
+2020,0.001,percentage
+2021,0.001,percentage
+2022,0.001,percentage
+2023,0.001,percentage
+2024,0.001,percentage

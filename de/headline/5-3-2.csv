@@ -1,7 +1,28 @@
-Year,Value
-2018,5.0
-2019,2.0
-2021,4.0
-2022,3.0
-2023,3.0
-2024,1.0
+Year,Value,Units,Series
+2018,5.0,Anzahl,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2019,2.0,Anzahl,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2021,4.0,Anzahl,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2022,3.0,Anzahl,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2023,3.0,Anzahl,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2024,1.0,Anzahl,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2018,0.012,Je 100 000 Einwohnerinnen,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2019,0.005,Je 100 000 Einwohnerinnen,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2021,0.009,Je 100 000 Einwohnerinnen,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2022,0.007,Je 100 000 Einwohnerinnen,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2023,0.007,Je 100 000 Einwohnerinnen,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung
+2016,65.0,Anzahl,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2017,65.0,Anzahl,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2018,83.0,Anzahl,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2019,84.0,Anzahl,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2020,84.0,Anzahl,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2021,83.0,Anzahl,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2022,81.0,Anzahl,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2023,114.0,Anzahl,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2016,0.157,Je 100 000 Einwohnerinnen,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2017,0.156,Je 100 000 Einwohnerinnen,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2018,0.199,Je 100 000 Einwohnerinnen,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2019,0.202,Je 100 000 Einwohnerinnen,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2020,0.202,Je 100 000 Einwohnerinnen,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2021,0.2,Je 100 000 Einwohnerinnen,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2022,0.193,Je 100 000 Einwohnerinnen,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)
+2023,0.27,Je 100 000 Einwohnerinnen,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)

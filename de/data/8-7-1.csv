@@ -1,136 +1,406 @@
-Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,13 Jahre und jünger,,,,,11.0
-2011,13 Jahre und jünger,,,,,29.0
-2012,13 Jahre und jünger,,,,,19.0
-2013,13 Jahre und jünger,,,,,18.0
-2014,13 Jahre und jünger,,,,,22.0
-2015,13 Jahre und jünger,,,,,19.0
-2016,13 Jahre und jünger,,,,,36.0
-2017,13 Jahre und jünger,,,,,67.0
-2018,13 Jahre und jünger,,,,,18.0
-2019,13 Jahre und jünger,,,,,15.0
-2020,13 Jahre und jünger,,,,,31.0
-2021,13 Jahre und jünger,,,,,36.0
-2022,13 Jahre und jünger,,,,,20.0
-2023,13 Jahre und jünger,,,,,13.0
-2024,13 Jahre und jünger,,,,,17.0
-2010,13 Jahre und jünger,Weiblich,,,,2.0
-2011,13 Jahre und jünger,Weiblich,,,,13.0
-2012,13 Jahre und jünger,Weiblich,,,,11.0
-2013,13 Jahre und jünger,Weiblich,,,,6.0
-2014,13 Jahre und jünger,Weiblich,,,,9.0
-2015,13 Jahre und jünger,Weiblich,,,,7.0
-2016,13 Jahre und jünger,Weiblich,,,,15.0
-2017,13 Jahre und jünger,Weiblich,,,,16.0
-2018,13 Jahre und jünger,Weiblich,,,,9.0
-2019,13 Jahre und jünger,Weiblich,,,,9.0
-2020,13 Jahre und jünger,Weiblich,,,,10.0
-2021,13 Jahre und jünger,Weiblich,,,,17.0
-2022,13 Jahre und jünger,Weiblich,,,,13.0
-2023,13 Jahre und jünger,Weiblich,,,,8.0
-2024,13 Jahre und jünger,Weiblich,,,,11.0
-2010,13 Jahre und jünger,Männlich,,,,9.0
-2011,13 Jahre und jünger,Männlich,,,,16.0
-2012,13 Jahre und jünger,Männlich,,,,8.0
-2013,13 Jahre und jünger,Männlich,,,,12.0
-2014,13 Jahre und jünger,Männlich,,,,13.0
-2015,13 Jahre und jünger,Männlich,,,,12.0
-2016,13 Jahre und jünger,Männlich,,,,21.0
-2017,13 Jahre und jünger,Männlich,,,,51.0
-2018,13 Jahre und jünger,Männlich,,,,9.0
-2019,13 Jahre und jünger,Männlich,,,,6.0
-2020,13 Jahre und jünger,Männlich,,,,21.0
-2021,13 Jahre und jünger,Männlich,,,,19.0
-2022,13 Jahre und jünger,Männlich,,,,7.0
-2023,13 Jahre und jünger,Männlich,,,,5.0
-2024,13 Jahre und jünger,Männlich,…,,,
-2010,14 bis unter 18 Jahre,,,,,108.0
-2011,14 bis unter 18 Jahre,,,,,95.0
-2012,14 bis unter 18 Jahre,,,,,96.0
-2013,14 bis unter 18 Jahre,,,,,92.0
-2014,14 bis unter 18 Jahre,,,,,76.0
-2015,14 bis unter 18 Jahre,,,,,87.0
-2016,14 bis unter 18 Jahre,,,,,111.0
-2017,14 bis unter 18 Jahre,,,,,53.0
-2018,14 bis unter 18 Jahre,,,,,112.0
-2019,14 bis unter 18 Jahre,,,,,89.0
-2020,14 bis unter 18 Jahre,,,,,86.0
-2021,14 bis unter 18 Jahre,,,,,82.0
-2022,14 bis unter 18 Jahre,,,,,86.0
-2023,14 bis unter 18 Jahre,,,,,67.0
-2024,14 bis unter 18 Jahre,,,,,70.0
-2010,14 bis unter 18 Jahre,Weiblich,,,,97.0
-2011,14 bis unter 18 Jahre,Weiblich,,,,82.0
-2012,14 bis unter 18 Jahre,Weiblich,,,,88.0
-2013,14 bis unter 18 Jahre,Weiblich,,,,79.0
-2014,14 bis unter 18 Jahre,Weiblich,,,,66.0
-2015,14 bis unter 18 Jahre,Weiblich,,,,80.0
-2016,14 bis unter 18 Jahre,Weiblich,,,,100.0
-2017,14 bis unter 18 Jahre,Weiblich,,,,49.0
-2018,14 bis unter 18 Jahre,Weiblich,,,,96.0
-2019,14 bis unter 18 Jahre,Weiblich,,,,74.0
-2020,14 bis unter 18 Jahre,Weiblich,,,,62.0
-2021,14 bis unter 18 Jahre,Weiblich,,,,64.0
-2022,14 bis unter 18 Jahre,Weiblich,,,,72.0
-2023,14 bis unter 18 Jahre,Weiblich,,,,61.0
-2024,14 bis unter 18 Jahre,Weiblich,,,,55.0
-2010,14 bis unter 18 Jahre,Männlich,,,,11.0
-2011,14 bis unter 18 Jahre,Männlich,,,,13.0
-2012,14 bis unter 18 Jahre,Männlich,,,,8.0
-2013,14 bis unter 18 Jahre,Männlich,,,,13.0
-2014,14 bis unter 18 Jahre,Männlich,,,,10.0
-2015,14 bis unter 18 Jahre,Männlich,,,,7.0
-2016,14 bis unter 18 Jahre,Männlich,,,,11.0
-2017,14 bis unter 18 Jahre,Männlich,,,,4.0
-2018,14 bis unter 18 Jahre,Männlich,,,,16.0
-2019,14 bis unter 18 Jahre,Männlich,,,,15.0
-2020,14 bis unter 18 Jahre,Männlich,,,,24.0
-2021,14 bis unter 18 Jahre,Männlich,,,,18.0
-2022,14 bis unter 18 Jahre,Männlich,,,,14.0
-2023,14 bis unter 18 Jahre,Männlich,,,,6.0
-2024,14 bis unter 18 Jahre,Männlich,,,,15.0
-2010,,,,,,119.0
-2011,,,,,,124.0
-2012,,,,,,115.0
-2013,,,,,,110.0
-2014,,,,,,98.0
-2015,,,,,,106.0
-2016,,,,,,147.0
-2017,,,,,,120.0
-2018,,,,,,130.0
-2019,,,,,,104.0
-2020,,,,,,117.0
-2021,,,,,,118.0
-2022,,,,,,106.0
-2023,,,,,,80.0
-2024,,,,,,87.0
-2010,,Weiblich,,,,99.0
-2011,,Weiblich,,,,95.0
-2012,,Weiblich,,,,99.0
-2013,,Weiblich,,,,85.0
-2014,,Weiblich,,,,75.0
-2015,,Weiblich,,,,87.0
-2016,,Weiblich,,,,115.0
-2017,,Weiblich,,,,65.0
-2018,,Weiblich,,,,105.0
-2019,,Weiblich,,,,83.0
-2020,,Weiblich,,,,72.0
-2021,,Weiblich,,,,81.0
-2022,,Weiblich,,,,85.0
-2023,,Weiblich,,,,69.0
-2024,,Weiblich,,,,66.0
-2010,,Männlich,,,,20.0
-2011,,Männlich,,,,29.0
-2012,,Männlich,,,,16.0
-2013,,Männlich,,,,25.0
-2014,,Männlich,,,,23.0
-2015,,Männlich,,,,19.0
-2016,,Männlich,,,,32.0
-2017,,Männlich,,,,55.0
-2018,,Männlich,,,,25.0
-2019,,Männlich,,,,21.0
-2020,,Männlich,,,,45.0
-2021,,Männlich,,,,37.0
-2022,,Männlich,,,,21.0
-2023,,Männlich,,,,11.0
-2024,,Männlich,,,,21.0
+Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Anzahl,13 Jahre und jünger,,,,,11.0
+2011,Anzahl,13 Jahre und jünger,,,,,29.0
+2012,Anzahl,13 Jahre und jünger,,,,,19.0
+2013,Anzahl,13 Jahre und jünger,,,,,18.0
+2014,Anzahl,13 Jahre und jünger,,,,,22.0
+2015,Anzahl,13 Jahre und jünger,,,,,19.0
+2016,Anzahl,13 Jahre und jünger,,,,,36.0
+2017,Anzahl,13 Jahre und jünger,,|,,,67.0
+2018,Anzahl,13 Jahre und jünger,,,,,18.0
+2019,Anzahl,13 Jahre und jünger,,,,,15.0
+2020,Anzahl,13 Jahre und jünger,,,,,31.0
+2021,Anzahl,13 Jahre und jünger,,,,,36.0
+2022,Anzahl,13 Jahre und jünger,,,,,20.0
+2023,Anzahl,13 Jahre und jünger,,,,,13.0
+2024,Anzahl,13 Jahre und jünger,,,,,17.0
+2010,Anzahl,13 Jahre und jünger,Weiblich,,,,2.0
+2011,Anzahl,13 Jahre und jünger,Weiblich,,,,13.0
+2012,Anzahl,13 Jahre und jünger,Weiblich,,,,11.0
+2013,Anzahl,13 Jahre und jünger,Weiblich,,,,6.0
+2014,Anzahl,13 Jahre und jünger,Weiblich,,,,9.0
+2015,Anzahl,13 Jahre und jünger,Weiblich,,,,7.0
+2016,Anzahl,13 Jahre und jünger,Weiblich,,,,15.0
+2017,Anzahl,13 Jahre und jünger,Weiblich,|,,,16.0
+2018,Anzahl,13 Jahre und jünger,Weiblich,,,,9.0
+2019,Anzahl,13 Jahre und jünger,Weiblich,,,,9.0
+2020,Anzahl,13 Jahre und jünger,Weiblich,,,,10.0
+2021,Anzahl,13 Jahre und jünger,Weiblich,,,,17.0
+2022,Anzahl,13 Jahre und jünger,Weiblich,,,,13.0
+2023,Anzahl,13 Jahre und jünger,Weiblich,,,,8.0
+2024,Anzahl,13 Jahre und jünger,Weiblich,,,,11.0
+2010,Anzahl,13 Jahre und jünger,Männlich,,,,9.0
+2011,Anzahl,13 Jahre und jünger,Männlich,,,,16.0
+2012,Anzahl,13 Jahre und jünger,Männlich,,,,8.0
+2013,Anzahl,13 Jahre und jünger,Männlich,,,,12.0
+2014,Anzahl,13 Jahre und jünger,Männlich,,,,13.0
+2015,Anzahl,13 Jahre und jünger,Männlich,,,,12.0
+2016,Anzahl,13 Jahre und jünger,Männlich,,,,21.0
+2017,Anzahl,13 Jahre und jünger,Männlich,|,,,51.0
+2018,Anzahl,13 Jahre und jünger,Männlich,,,,9.0
+2019,Anzahl,13 Jahre und jünger,Männlich,,,,6.0
+2020,Anzahl,13 Jahre und jünger,Männlich,,,,21.0
+2021,Anzahl,13 Jahre und jünger,Männlich,,,,19.0
+2022,Anzahl,13 Jahre und jünger,Männlich,,,,7.0
+2023,Anzahl,13 Jahre und jünger,Männlich,,,,5.0
+2024,Anzahl,13 Jahre und jünger,Männlich,,,,6.0
+2010,Anzahl,14 bis unter 18 Jahre,,,,,108.0
+2011,Anzahl,14 bis unter 18 Jahre,,,,,95.0
+2012,Anzahl,14 bis unter 18 Jahre,,,,,96.0
+2013,Anzahl,14 bis unter 18 Jahre,,,,,92.0
+2014,Anzahl,14 bis unter 18 Jahre,,,,,76.0
+2015,Anzahl,14 bis unter 18 Jahre,,,,,87.0
+2016,Anzahl,14 bis unter 18 Jahre,,,,,111.0
+2017,Anzahl,14 bis unter 18 Jahre,,|,,,53.0
+2018,Anzahl,14 bis unter 18 Jahre,,,,,112.0
+2019,Anzahl,14 bis unter 18 Jahre,,,,,89.0
+2020,Anzahl,14 bis unter 18 Jahre,,,,,86.0
+2021,Anzahl,14 bis unter 18 Jahre,,,,,82.0
+2022,Anzahl,14 bis unter 18 Jahre,,,,,86.0
+2023,Anzahl,14 bis unter 18 Jahre,,,,,67.0
+2024,Anzahl,14 bis unter 18 Jahre,,,,,70.0
+2010,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,97.0
+2011,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,82.0
+2012,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,88.0
+2013,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,79.0
+2014,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,66.0
+2015,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,80.0
+2016,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,100.0
+2017,Anzahl,14 bis unter 18 Jahre,Weiblich,|,,,49.0
+2018,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,96.0
+2019,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,74.0
+2020,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,62.0
+2021,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,64.0
+2022,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,72.0
+2023,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,61.0
+2024,Anzahl,14 bis unter 18 Jahre,Weiblich,,,,55.0
+2010,Anzahl,14 bis unter 18 Jahre,Männlich,,,,11.0
+2011,Anzahl,14 bis unter 18 Jahre,Männlich,,,,13.0
+2012,Anzahl,14 bis unter 18 Jahre,Männlich,,,,8.0
+2013,Anzahl,14 bis unter 18 Jahre,Männlich,,,,13.0
+2014,Anzahl,14 bis unter 18 Jahre,Männlich,,,,10.0
+2015,Anzahl,14 bis unter 18 Jahre,Männlich,,,,7.0
+2016,Anzahl,14 bis unter 18 Jahre,Männlich,,,,11.0
+2017,Anzahl,14 bis unter 18 Jahre,Männlich,|,,,4.0
+2018,Anzahl,14 bis unter 18 Jahre,Männlich,,,,16.0
+2019,Anzahl,14 bis unter 18 Jahre,Männlich,,,,15.0
+2020,Anzahl,14 bis unter 18 Jahre,Männlich,,,,24.0
+2021,Anzahl,14 bis unter 18 Jahre,Männlich,,,,18.0
+2022,Anzahl,14 bis unter 18 Jahre,Männlich,,,,14.0
+2023,Anzahl,14 bis unter 18 Jahre,Männlich,,,,6.0
+2024,Anzahl,14 bis unter 18 Jahre,Männlich,,,,15.0
+2010,Anzahl,,,,,,119.0
+2011,Anzahl,,,,,,124.0
+2012,Anzahl,,,,,,115.0
+2013,Anzahl,,,,,,110.0
+2014,Anzahl,,,,,,98.0
+2015,Anzahl,,,,,,106.0
+2016,Anzahl,,,,,,147.0
+2017,Anzahl,,,,,,120.0
+2018,Anzahl,,,,,,130.0
+2019,Anzahl,,,,,,104.0
+2020,Anzahl,,,,,,117.0
+2021,Anzahl,,,,,,118.0
+2022,Anzahl,,,,,,106.0
+2023,Anzahl,,,,,,80.0
+2024,Anzahl,,,,,,87.0
+2010,Anzahl,,Weiblich,,,,99.0
+2011,Anzahl,,Weiblich,,,,95.0
+2012,Anzahl,,Weiblich,,,,99.0
+2013,Anzahl,,Weiblich,,,,85.0
+2014,Anzahl,,Weiblich,,,,75.0
+2015,Anzahl,,Weiblich,,,,87.0
+2016,Anzahl,,Weiblich,,,,115.0
+2017,Anzahl,,Weiblich,,,,65.0
+2018,Anzahl,,Weiblich,,,,105.0
+2019,Anzahl,,Weiblich,,,,83.0
+2020,Anzahl,,Weiblich,,,,72.0
+2021,Anzahl,,Weiblich,,,,81.0
+2022,Anzahl,,Weiblich,,,,85.0
+2023,Anzahl,,Weiblich,,,,69.0
+2024,Anzahl,,Weiblich,,,,66.0
+2010,Anzahl,,Männlich,,,,20.0
+2011,Anzahl,,Männlich,,,,29.0
+2012,Anzahl,,Männlich,,,,16.0
+2013,Anzahl,,Männlich,,,,25.0
+2014,Anzahl,,Männlich,,,,23.0
+2015,Anzahl,,Männlich,,,,19.0
+2016,Anzahl,,Männlich,,,,32.0
+2017,Anzahl,,Männlich,|,,,55.0
+2018,Anzahl,,Männlich,,,,25.0
+2019,Anzahl,,Männlich,,,,21.0
+2020,Anzahl,,Männlich,,,,45.0
+2021,Anzahl,,Männlich,,,,37.0
+2022,Anzahl,,Männlich,,,,21.0
+2023,Anzahl,,Männlich,,,,11.0
+2024,Anzahl,,Männlich,,,,21.0
+2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.1
+2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.3
+2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
+2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,|,,,0.2
+2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
+2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
+2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.4
+2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,|,,,0.7
+2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
+2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.1
+2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.3
+2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.3
+2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
+2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.1
+2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,|,,,0.2
+2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,0,,,0.0
+2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.3
+2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
+2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,|,,,0.1
+2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
+2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.1
+2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.3
+2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,|,,,0.3
+2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
+2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
+2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
+2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.3
+2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
+2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.1
+2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,|,,,0.2
+2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.2
+2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.3
+2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.2
+2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,|,,,0.2
+2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.3
+2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.2
+2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.4
+2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,|,,,1.0
+2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.2
+2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.1
+2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.4
+2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.3
+2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.1
+2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.1
+2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,|,,,0.1
+2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,3.3
+2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,3.0
+2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,3.0
+2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,|,,,2.9
+2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.4
+2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.7
+2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,3.5
+2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,|,,,1.7
+2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,3.6
+2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.9
+2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.8
+2021,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.7
+2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.9
+2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.2
+2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,|,,,2.3
+2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,6.2
+2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,5.3
+2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.3
+2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,|,,,5.1
+2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.2
+2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,5.1
+2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,6.5
+2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,|,,,3.2
+2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,6.4
+2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,5.0
+2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.2
+2021,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.4
+2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.9
+2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.1
+2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,|,,,3.7
+2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.7
+2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.8
+2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.4
+2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,|,,,0.8
+2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.6
+2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.4
+2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.7
+2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,|,,,0.2
+2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,1.0
+2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,1.0
+2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,1.5
+2021,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,1.2
+2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.9
+2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.4
+2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,|,,,0.9
+2010,Je 100 000 Einwohner/-innen,,,,,,3.4
+2011,Je 100 000 Einwohner/-innen,,,,,,3.3
+2012,Je 100 000 Einwohner/-innen,,,,,,3.2
+2013,Je 100 000 Einwohner/-innen,,,|,,,3.1
+2014,Je 100 000 Einwohner/-innen,,,,,,2.6
+2015,Je 100 000 Einwohner/-innen,,,,,,2.9
+2016,Je 100 000 Einwohner/-innen,,,,,,3.8
+2017,Je 100 000 Einwohner/-innen,,,|,,,2.3
+2018,Je 100 000 Einwohner/-innen,,,,,,3.8
+2019,Je 100 000 Einwohner/-innen,,,,,,3.1
+2020,Je 100 000 Einwohner/-innen,,,,,,3.1
+2021,Je 100 000 Einwohner/-innen,,,,,,3.1
+2022,Je 100 000 Einwohner/-innen,,,,,,3.0
+2023,Je 100 000 Einwohner/-innen,,,,,,2.3
+2024,Je 100 000 Einwohner/-innen,,,|,,,2.4
+2010,Je 100 000 Einwohner/-innen,,Weiblich,,,,6.2
+2011,Je 100 000 Einwohner/-innen,,Weiblich,,,,5.5
+2012,Je 100 000 Einwohner/-innen,,Weiblich,,,,4.5
+2013,Je 100 000 Einwohner/-innen,,Weiblich,|,,,5.2
+2014,Je 100 000 Einwohner/-innen,,Weiblich,,,,4.4
+2015,Je 100 000 Einwohner/-innen,,Weiblich,,,,5.3
+2016,Je 100 000 Einwohner/-innen,,Weiblich,,,,6.8
+2017,Je 100 000 Einwohner/-innen,,Weiblich,|,,,3.5
+2018,Je 100 000 Einwohner/-innen,,Weiblich,,,,6.6
+2019,Je 100 000 Einwohner/-innen,,Weiblich,,,,5.2
+2020,Je 100 000 Einwohner/-innen,,Weiblich,,,,4.4
+2021,Je 100 000 Einwohner/-innen,,Weiblich,,,,4.7
+2022,Je 100 000 Einwohner/-innen,,Weiblich,,,,5.2
+2023,Je 100 000 Einwohner/-innen,,Weiblich,,,,4.2
+2024,Je 100 000 Einwohner/-innen,,Weiblich,|,,,3.9
+2010,Je 100 000 Einwohner/-innen,,Männlich,,,,0.8
+2011,Je 100 000 Einwohner/-innen,,Männlich,,,,1.1
+2012,Je 100 000 Einwohner/-innen,,Männlich,,,,0.5
+2013,Je 100 000 Einwohner/-innen,,Männlich,|,,,1.0
+2014,Je 100 000 Einwohner/-innen,,Männlich,,,,0.9
+2015,Je 100 000 Einwohner/-innen,,Männlich,,,,0.7
+2016,Je 100 000 Einwohner/-innen,,Männlich,,,,1.1
+2017,Je 100 000 Einwohner/-innen,,Männlich,|,,,1.2
+2018,Je 100 000 Einwohner/-innen,,Männlich,,,,1.2
+2019,Je 100 000 Einwohner/-innen,,Männlich,,,,1.1
+2020,Je 100 000 Einwohner/-innen,,Männlich,,,,1.9
+2021,Je 100 000 Einwohner/-innen,,Männlich,,,,1.5
+2022,Je 100 000 Einwohner/-innen,,Männlich,,,,1.0
+2023,Je 100 000 Einwohner/-innen,,Männlich,,,,0.5
+2024,Je 100 000 Einwohner/-innen,,Männlich,|,,,1.0
+2010,Prozent,13 Jahre und jünger,,0,,,0.0
+2011,Prozent,13 Jahre und jünger,,0,,,0.0
+2012,Prozent,13 Jahre und jünger,,0,,,0.0
+2013,Prozent,13 Jahre und jünger,,0,,,0.0
+2014,Prozent,13 Jahre und jünger,,0,,,0.0
+2015,Prozent,13 Jahre und jünger,,0,,,0.0
+2016,Prozent,13 Jahre und jünger,,0,,,0.0
+2017,Prozent,13 Jahre und jünger,,|,,,0.001
+2018,Prozent,13 Jahre und jünger,,0,,,0.0
+2019,Prozent,13 Jahre und jünger,,0,,,0.0
+2020,Prozent,13 Jahre und jünger,,0,,,0.0
+2021,Prozent,13 Jahre und jünger,,0,,,0.0
+2022,Prozent,13 Jahre und jünger,,0,,,0.0
+2023,Prozent,13 Jahre und jünger,,0,,,0.0
+2024,Prozent,13 Jahre und jünger,,0,,,0.0
+2010,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2011,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2012,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2013,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2014,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2015,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2016,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2017,Prozent,13 Jahre und jünger,Weiblich,|,0.0,,0.0
+2018,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2019,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2020,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2021,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2022,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2023,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2024,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
+2010,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2011,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2012,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2013,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2014,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2015,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2016,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2017,Prozent,13 Jahre und jünger,Männlich,|,,,0.001
+2018,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2019,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2020,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2021,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2022,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2023,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2024,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
+2010,Prozent,14 bis unter 18 Jahre,,,,,0.003
+2011,Prozent,14 bis unter 18 Jahre,,,,,0.002
+2012,Prozent,14 bis unter 18 Jahre,,,,,0.002
+2013,Prozent,14 bis unter 18 Jahre,,,,,0.002
+2014,Prozent,14 bis unter 18 Jahre,,,,,0.002
+2015,Prozent,14 bis unter 18 Jahre,,,,,0.002
+2016,Prozent,14 bis unter 18 Jahre,,,,,0.003
+2017,Prozent,14 bis unter 18 Jahre,,|,,,0.001
+2018,Prozent,14 bis unter 18 Jahre,,,,,0.003
+2019,Prozent,14 bis unter 18 Jahre,,,,,0.002
+2020,Prozent,14 bis unter 18 Jahre,,,,,0.002
+2021,Prozent,14 bis unter 18 Jahre,,,,,0.002
+2022,Prozent,14 bis unter 18 Jahre,,,,,0.003
+2023,Prozent,14 bis unter 18 Jahre,,,,,0.002
+2024,Prozent,14 bis unter 18 Jahre,,,,,0.002
+2010,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.006
+2011,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.004
+2012,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.005
+2013,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.004
+2014,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.003
+2015,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.004
+2016,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.005
+2017,Prozent,14 bis unter 18 Jahre,Weiblich,|,,,0.003
+2018,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.005
+2019,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.004
+2020,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.003
+2021,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.004
+2022,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.005
+2023,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.004
+2024,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.004
+2010,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
+2011,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
+2012,Prozent,14 bis unter 18 Jahre,Männlich,0,,,0.0
+2013,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
+2014,Prozent,14 bis unter 18 Jahre,Männlich,0,,,0.0
+2015,Prozent,14 bis unter 18 Jahre,Männlich,0,,,0.0
+2016,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
+2017,Prozent,14 bis unter 18 Jahre,Männlich,|,0.0,,0.0
+2018,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
+2019,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
+2020,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
+2021,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
+2022,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
+2023,Prozent,14 bis unter 18 Jahre,Männlich,0,,,0.0
+2024,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
+2010,Prozent,,,,,,0.001
+2011,Prozent,,,,,,0.001
+2012,Prozent,,,,,,0.001
+2013,Prozent,,,,,,0.001
+2014,Prozent,,,,,,0.001
+2015,Prozent,,,,,,0.001
+2016,Prozent,,,,,,0.001
+2017,Prozent,,,|,,,0.001
+2018,Prozent,,,,,,0.001
+2019,Prozent,,,,,,0.001
+2020,Prozent,,,,,,0.001
+2021,Prozent,,,,,,0.001
+2022,Prozent,,,,,,0.001
+2023,Prozent,,,,,,0.001
+2024,Prozent,,,,,,0.001
+2010,Prozent,,Weiblich,,,,0.002
+2011,Prozent,,Weiblich,,,,0.001
+2012,Prozent,,Weiblich,,,,0.002
+2013,Prozent,,Weiblich,,,,0.001
+2014,Prozent,,Weiblich,,,,0.001
+2015,Prozent,,Weiblich,,,,0.001
+2016,Prozent,,Weiblich,,,,0.002
+2017,Prozent,,Weiblich,|,,,0.001
+2018,Prozent,,Weiblich,,,,0.002
+2019,Prozent,,Weiblich,,,,0.001
+2020,Prozent,,Weiblich,,,,0.001
+2021,Prozent,,Weiblich,,,,0.001
+2022,Prozent,,Weiblich,,,,0.001
+2023,Prozent,,Weiblich,,,,0.001
+2024,Prozent,,Weiblich,,,,0.001
+2010,Prozent,,Männlich,0,,,0.0
+2011,Prozent,,Männlich,0,,,0.0
+2012,Prozent,,Männlich,0,,,0.0
+2013,Prozent,,Männlich,0,,,0.0
+2014,Prozent,,Männlich,0,,,0.0
+2015,Prozent,,Männlich,0,,,0.0
+2016,Prozent,,Männlich,0,,,0.0
+2017,Prozent,,Männlich,|,,,0.001
+2018,Prozent,,Männlich,0,,,0.0
+2019,Prozent,,Männlich,0,,,0.0
+2020,Prozent,,Männlich,,,,0.001
+2021,Prozent,,Männlich,,,,0.001
+2022,Prozent,,Männlich,0,,,0.0
+2023,Prozent,,Männlich,0,,,0.0
+2024,Prozent,,Männlich,0,,,0.0

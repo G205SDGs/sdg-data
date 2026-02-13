@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
+                "Je 100 000 Einwohnerinnen",
                 "Prozent",
                 ""
               ]

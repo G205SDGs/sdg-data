@@ -1,16 +1,88 @@
-Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,.,,,
-2011,.,,,
-2012,.,,,
-2013,.,,,
-2014,‒,,,0.0
-2015,‒,,,0.0
-2016,‒,,,0.0
-2017,‒,,,0.0
-2018,,,,5.0
-2019,,,,2.0
-2020,‒,,,0.0
-2021,,,,4.0
-2022,,,,3.0
-2023,,,,3.0
-2024,,,,1.0
+Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,Anzahl,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2011,Anzahl,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2012,Anzahl,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2013,Anzahl,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2014,Anzahl,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2015,Anzahl,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2016,Anzahl,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2017,Anzahl,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2018,Anzahl,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,5.0
+2019,Anzahl,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,2.0
+2020,Anzahl,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2021,Anzahl,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,4.0
+2022,Anzahl,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,3.0
+2023,Anzahl,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,3.0
+2024,Anzahl,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,1.0
+2010,Je 100 000 Einwohnerinnen,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2011,Je 100 000 Einwohnerinnen,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2012,Je 100 000 Einwohnerinnen,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2013,Je 100 000 Einwohnerinnen,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2014,Je 100 000 Einwohnerinnen,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2015,Je 100 000 Einwohnerinnen,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2016,Je 100 000 Einwohnerinnen,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2017,Je 100 000 Einwohnerinnen,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2018,Je 100 000 Einwohnerinnen,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.012
+2019,Je 100 000 Einwohnerinnen,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.005
+2020,Je 100 000 Einwohnerinnen,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2021,Je 100 000 Einwohnerinnen,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.009
+2022,Je 100 000 Einwohnerinnen,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.007
+2023,Je 100 000 Einwohnerinnen,,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.007
+2024,Je 100 000 Einwohnerinnen,|,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.002
+2010,Prozent,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2011,Prozent,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2012,Prozent,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2013,Prozent,.,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,
+2014,Prozent,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2015,Prozent,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2016,Prozent,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2017,Prozent,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2018,Prozent,0,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2019,Prozent,0,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2020,Prozent,‒,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2021,Prozent,0,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2022,Prozent,0,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2023,Prozent,0,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2024,Prozent,0,,,Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung,0.0
+2010,Anzahl,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2011,Anzahl,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2012,Anzahl,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2013,Anzahl,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2014,Anzahl,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2015,Anzahl,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2016,Anzahl,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),65.0
+2017,Anzahl,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),65.0
+2018,Anzahl,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),83.0
+2019,Anzahl,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),84.0
+2020,Anzahl,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),84.0
+2021,Anzahl,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),83.0
+2022,Anzahl,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),81.0
+2023,Anzahl,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),114.0
+2010,Je 100 000 Einwohnerinnen,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2011,Je 100 000 Einwohnerinnen,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2012,Je 100 000 Einwohnerinnen,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2013,Je 100 000 Einwohnerinnen,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2014,Je 100 000 Einwohnerinnen,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2015,Je 100 000 Einwohnerinnen,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2016,Je 100 000 Einwohnerinnen,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.157
+2017,Je 100 000 Einwohnerinnen,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.156
+2018,Je 100 000 Einwohnerinnen,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.199
+2019,Je 100 000 Einwohnerinnen,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.202
+2020,Je 100 000 Einwohnerinnen,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.202
+2021,Je 100 000 Einwohnerinnen,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.2
+2022,Je 100 000 Einwohnerinnen,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.193
+2023,Je 100 000 Einwohnerinnen,,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.27
+2010,Prozent,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2011,Prozent,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2012,Prozent,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2013,Prozent,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2014,Prozent,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2015,Prozent,.,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),
+2016,Prozent,0,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.0
+2017,Prozent,0,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.0
+2018,Prozent,0,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.0
+2019,Prozent,0,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.0
+2020,Prozent,0,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.0
+2021,Prozent,0,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.0
+2022,Prozent,0,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.0
+2023,Prozent,0,,,Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese),0.0

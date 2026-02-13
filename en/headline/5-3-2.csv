@@ -1,7 +1,28 @@
-Year,Value
-2018,5.0
-2019,2.0
-2021,4.0
-2022,3.0
-2023,3.0
-2024,1.0
+Year,Value,Units,Series
+2018,5.0,Number,Cases of female genital mutilation recorded by the police
+2019,2.0,Number,Cases of female genital mutilation recorded by the police
+2021,4.0,Number,Cases of female genital mutilation recorded by the police
+2022,3.0,Number,Cases of female genital mutilation recorded by the police
+2023,3.0,Number,Cases of female genital mutilation recorded by the police
+2024,1.0,Number,Cases of female genital mutilation recorded by the police
+2018,0.012,"Per 100,000 female inhabitants",Cases of female genital mutilation recorded by the police
+2019,0.005,"Per 100,000 female inhabitants",Cases of female genital mutilation recorded by the police
+2021,0.009,"Per 100,000 female inhabitants",Cases of female genital mutilation recorded by the police
+2022,0.007,"Per 100,000 female inhabitants",Cases of female genital mutilation recorded by the police
+2023,0.007,"Per 100,000 female inhabitants",Cases of female genital mutilation recorded by the police
+2016,65.0,Number,Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2017,65.0,Number,Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2018,83.0,Number,Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2019,84.0,Number,Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2020,84.0,Number,Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2021,83.0,Number,Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2022,81.0,Number,Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2023,114.0,Number,Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2016,0.157,"Per 100,000 female inhabitants",Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2017,0.156,"Per 100,000 female inhabitants",Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2018,0.199,"Per 100,000 female inhabitants",Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2019,0.202,"Per 100,000 female inhabitants",Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2020,0.202,"Per 100,000 female inhabitants",Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2021,0.2,"Per 100,000 female inhabitants",Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2022,0.193,"Per 100,000 female inhabitants",Cases of inpatient treatment due to female genital mutilation (personal medical history)
+2023,0.27,"Per 100,000 female inhabitants",Cases of inpatient treatment due to female genital mutilation (personal medical history)
