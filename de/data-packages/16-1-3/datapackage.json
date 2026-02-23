@@ -16,30 +16,17 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
+            "name": "type of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
-                "Anzahl",
+                "a) Physische Gewalt",
+                "b) Psychische Gewalt",
+                "c) Sexuelle Gewalt",
                 ""
               ]
             },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerung, die körperlicher Gewalt ausgesetzt war",
-                "Bevölkerung, die Opfer einer Straftat war",
-                "Opfer von Straftaten",
-                "Bevölkerung, die sexueller Gewalt ausgesetzt war",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
+            "title": "Art der Gewalt"
           },
           {
             "name": "sex",
@@ -65,25 +52,55 @@
                 "55 bis unter 65 Jahre",
                 "65 bis unter 75 Jahre",
                 "75 Jahre und älter",
-                "13 Jahre und jünger",
-                "14 bis unter 18 Jahre",
-                "18 bis unter 21 Jahre",
-                "21 bis unter 60 Jahre",
-                "60 Jahre und älter",
                 ""
               ]
             },
             "title": "Altersklasse"
           },
           {
+            "name": "type of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperverletzung",
+                "Raub",
+                ""
+              ]
+            },
+            "title": "Art der physischen Gewalt"
+          },
+          {
+            "name": "type of psycological violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persönliche Beleidigung im Internet",
+                "Gewaltandrohung offline",
+                "Gewaltandrohung online",
+                ""
+              ]
+            },
+            "title": "Art der psychischen Gewalt"
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zeigen von Geschlechtsteilen",
+                "Körperliche sexuelle Belästigung",
+                "Sexueller Missbrauch oder Vergewaltigung",
+                ""
+              ]
+            },
+            "title": "Art der sexuellen Gewalt"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
-                "…",
-                "p",
                 ""
               ]
             },
@@ -91,9 +108,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },

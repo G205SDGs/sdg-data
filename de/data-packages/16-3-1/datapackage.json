@@ -16,16 +16,17 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "type of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzeigequote bei Körperverletzung",
-                "Anzeigequote bei Raub",
+                "a) Physische Gewalt",
+                "b) Psychische Gewalt",
+                "c) Sexuelle Gewalt",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art der Gewalt"
           },
           {
             "name": "sex",
@@ -55,6 +56,29 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "type of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperverletzung",
+                "Raub",
+                ""
+              ]
+            },
+            "title": "Art der physischen Gewalt"
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperliche sexuelle Belästigung",
+                ""
+              ]
+            },
+            "title": "Art der sexuellen Gewalt"
           },
           {
             "name": "COMMENT_OBS_0",

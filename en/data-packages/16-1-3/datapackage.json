@@ -16,30 +16,17 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "type of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Number",
+                "a) Physical violence",
+                "b) Psychological violence",
+                "c) Sexual violence",
                 ""
               ]
             },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population who were exposed to physical violence",
-                "Population who were victims of criminal offences",
-                "Victims of criminal offences",
-                "Population who were exposed to sexual violence",
-                ""
-              ]
-            },
-            "title": "Time series"
+            "title": "Type of violence"
           },
           {
             "name": "sex",
@@ -65,25 +52,55 @@
                 "55 to under 65 years",
                 "65 to under 75 years",
                 "75 years and older",
-                "13 years and younger",
-                "14 to under 18 years",
-                "18 to under 21 years",
-                "21 to under 60 years",
-                "60 years and older",
                 ""
               ]
             },
             "title": "Age group"
           },
           {
+            "name": "type of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Physical assault",
+                "Robbery",
+                ""
+              ]
+            },
+            "title": "Type of physical violence"
+          },
+          {
+            "name": "type of psycological violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personal offense on the Internet",
+                "Threat of violence offline",
+                "Threat of violence online",
+                ""
+              ]
+            },
+            "title": "Type of psycological violence"
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Exposure of genitals",
+                "Physical sexual assault",
+                "Sexual abuse or rape",
+                ""
+              ]
+            },
+            "title": "Type of sexual violence"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
-                "…",
-                "p",
                 ""
               ]
             },
@@ -91,9 +108,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },

@@ -15,25 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "type of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population who were exposed to physical violence",
-                "population who were victims of criminal offences",
-                "victims of criminal offences",
-                "population who were exposed to sexual violence",
+                "a) physical violence",
+                "b) psychological violence",
+                "c) sexual violence",
                 ""
               ]
             }
@@ -61,11 +49,41 @@
                 "55 to under 65 years",
                 "65 to under 75 years",
                 "75 years and older",
-                "13 years and younger",
-                "14 to under 18 years",
-                "18 to under 21 years",
-                "21 to under 60 years",
-                "60 years and older",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical assault",
+                "robbery",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of psycological violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "personal offense on the internet",
+                "threat of violence offline",
+                "threat of violence online",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "exposure of genitals",
+                "physical sexual assault",
+                "sexual abuse or rape",
                 ""
               ]
             }
@@ -75,19 +93,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
-                "…",
-                "p",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }

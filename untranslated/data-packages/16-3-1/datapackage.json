@@ -15,12 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "type of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "reporting rate for physical assault",
-                "reporting rate for robbery",
+                "a) physical violence",
+                "b) psychological violence",
+                "c) sexual violence",
                 ""
               ]
             }
@@ -48,6 +49,27 @@
                 "55 to under 65 years",
                 "65 to under 75 years",
                 "75 years and older",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical assault",
+                "robbery",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical sexual assault",
                 ""
               ]
             }
