@@ -14,21 +14,21 @@ Year,Units,Altersklasse,Geschlecht,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,,,,r,,,1.81
 2023,Je 100 000 Einwohner/-innen,,,,r,,,0.73
 2024,Je 100 000 Einwohner/-innen,,,,,,,0.76
-2010,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.05
-2011,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.04
-2012,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.02
-2013,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.08
-2014,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.03
-2015,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.07
-2016,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.06
-2017,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.22
-2018,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.08
-2019,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.05
-2020,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.09
-2021,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.18
-2022,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,r,,,1.23
-2023,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.22
-2024,Je 100 000 Einwohner/-innen,,,Ausbeutung der Arbeitskraft,,,,0.2
+2010,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.05
+2011,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.04
+2012,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.02
+2013,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.08
+2014,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.03
+2015,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.07
+2016,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.06
+2017,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.22
+2018,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.08
+2019,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.05
+2020,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.09
+2021,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.18
+2022,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,r,,,1.23
+2023,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.22
+2024,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.2
 2010,Je 100 000 Einwohner/-innen,,,Sexuelle Ausbeutung,,,,0.76
 2011,Je 100 000 Einwohner/-innen,,,Sexuelle Ausbeutung,,,,0.8
 2012,Je 100 000 Einwohner/-innen,,,Sexuelle Ausbeutung,,,,0.76
@@ -59,21 +59,21 @@ Year,Units,Altersklasse,Geschlecht,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,,,,,,,1495.0
 2023,Anzahl,,,,r,,,611.0
 2024,Anzahl,,,,,,,636.0
-2010,Anzahl,,,Ausbeutung der Arbeitskraft,,,,41.0
-2011,Anzahl,,,Ausbeutung der Arbeitskraft,,,,32.0
-2012,Anzahl,,,Ausbeutung der Arbeitskraft,,,,14.0
-2013,Anzahl,,,Ausbeutung der Arbeitskraft,,,,61.0
-2014,Anzahl,,,Ausbeutung der Arbeitskraft,,,,26.0
-2015,Anzahl,,,Ausbeutung der Arbeitskraft,,,,54.0
-2016,Anzahl,,,Ausbeutung der Arbeitskraft,,,,48.0
-2017,Anzahl,,,Ausbeutung der Arbeitskraft,,,,180.0
-2018,Anzahl,,,Ausbeutung der Arbeitskraft,,,,63.0
-2019,Anzahl,,,Ausbeutung der Arbeitskraft,,,,43.0
-2020,Anzahl,,,Ausbeutung der Arbeitskraft,,,,73.0
-2021,Anzahl,,,Ausbeutung der Arbeitskraft,,,,147.0
-2022,Anzahl,,,Ausbeutung der Arbeitskraft,,,,1019.0
-2023,Anzahl,,,Ausbeutung der Arbeitskraft,,,,183.0
-2024,Anzahl,,,Ausbeutung der Arbeitskraft,,,,171.0
+2010,Anzahl,,,Arbeitsausbeutung,,,,41.0
+2011,Anzahl,,,Arbeitsausbeutung,,,,32.0
+2012,Anzahl,,,Arbeitsausbeutung,,,,14.0
+2013,Anzahl,,,Arbeitsausbeutung,,,,61.0
+2014,Anzahl,,,Arbeitsausbeutung,,,,26.0
+2015,Anzahl,,,Arbeitsausbeutung,,,,54.0
+2016,Anzahl,,,Arbeitsausbeutung,,,,48.0
+2017,Anzahl,,,Arbeitsausbeutung,,,,180.0
+2018,Anzahl,,,Arbeitsausbeutung,,,,63.0
+2019,Anzahl,,,Arbeitsausbeutung,,,,43.0
+2020,Anzahl,,,Arbeitsausbeutung,,,,73.0
+2021,Anzahl,,,Arbeitsausbeutung,,,,147.0
+2022,Anzahl,,,Arbeitsausbeutung,,,,1019.0
+2023,Anzahl,,,Arbeitsausbeutung,,,,183.0
+2024,Anzahl,,,Arbeitsausbeutung,,,,171.0
 2010,Anzahl,,,Sexuelle Ausbeutung,,,,610.0
 2011,Anzahl,,,Sexuelle Ausbeutung,,,,639.0
 2012,Anzahl,,,Sexuelle Ausbeutung,,,,612.0
@@ -179,51 +179,51 @@ Year,Units,Altersklasse,Geschlecht,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,Alter unbekannt,,Sexuelle Ausbeutung,,,,10.0
 2023,Anzahl,Alter unbekannt,,Sexuelle Ausbeutung,,,,20.0
 2024,Anzahl,Alter unbekannt,,Sexuelle Ausbeutung,,,,20.0
-2010,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,.,,,
-2011,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,.,,,
-2012,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,7.0
-2013,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,13.0
-2014,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,4.0
-2015,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,8.0
-2016,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,13.0
-2017,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,25.0
-2018,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,8.0
-2019,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,19.0
-2020,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,18.0
-2021,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,72.0
-2022,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,266.0
-2023,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,53.0
-2024,Anzahl,,Weiblich,Ausbeutung der Arbeitskraft,,,,25.0
-2010,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,.,,,
-2011,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,.,,,
-2012,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,5.0
-2013,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,47.0
-2014,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,22.0
-2015,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,44.0
-2016,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,34.0
-2017,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,154.0
-2018,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,54.0
-2019,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,24.0
-2020,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,55.0
-2021,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,74.0
-2022,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,747.0
-2023,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,129.0
-2024,Anzahl,,Männlich,Ausbeutung der Arbeitskraft,,,,145.0
-2010,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,.,,,
-2011,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,.,,,
-2012,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,2.0
-2013,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,1.0
-2014,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,0.0
-2015,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,2.0
-2016,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,1.0
-2017,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,1.0
-2018,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,1.0
-2019,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,0.0
-2020,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,0.0
-2021,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,1.0
-2022,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,6.0
-2023,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,1.0
-2024,Anzahl,,Unbekannt,Ausbeutung der Arbeitskraft,,,,1.0
+2010,Anzahl,,Weiblich,Arbeitsausbeutung,.,,,
+2011,Anzahl,,Weiblich,Arbeitsausbeutung,.,,,
+2012,Anzahl,,Weiblich,Arbeitsausbeutung,,,,7.0
+2013,Anzahl,,Weiblich,Arbeitsausbeutung,,,,13.0
+2014,Anzahl,,Weiblich,Arbeitsausbeutung,,,,4.0
+2015,Anzahl,,Weiblich,Arbeitsausbeutung,,,,8.0
+2016,Anzahl,,Weiblich,Arbeitsausbeutung,,,,13.0
+2017,Anzahl,,Weiblich,Arbeitsausbeutung,,,,25.0
+2018,Anzahl,,Weiblich,Arbeitsausbeutung,,,,8.0
+2019,Anzahl,,Weiblich,Arbeitsausbeutung,,,,19.0
+2020,Anzahl,,Weiblich,Arbeitsausbeutung,,,,18.0
+2021,Anzahl,,Weiblich,Arbeitsausbeutung,,,,72.0
+2022,Anzahl,,Weiblich,Arbeitsausbeutung,,,,266.0
+2023,Anzahl,,Weiblich,Arbeitsausbeutung,,,,53.0
+2024,Anzahl,,Weiblich,Arbeitsausbeutung,,,,25.0
+2010,Anzahl,,Männlich,Arbeitsausbeutung,.,,,
+2011,Anzahl,,Männlich,Arbeitsausbeutung,.,,,
+2012,Anzahl,,Männlich,Arbeitsausbeutung,,,,5.0
+2013,Anzahl,,Männlich,Arbeitsausbeutung,,,,47.0
+2014,Anzahl,,Männlich,Arbeitsausbeutung,,,,22.0
+2015,Anzahl,,Männlich,Arbeitsausbeutung,,,,44.0
+2016,Anzahl,,Männlich,Arbeitsausbeutung,,,,34.0
+2017,Anzahl,,Männlich,Arbeitsausbeutung,,,,154.0
+2018,Anzahl,,Männlich,Arbeitsausbeutung,,,,54.0
+2019,Anzahl,,Männlich,Arbeitsausbeutung,,,,24.0
+2020,Anzahl,,Männlich,Arbeitsausbeutung,,,,55.0
+2021,Anzahl,,Männlich,Arbeitsausbeutung,,,,74.0
+2022,Anzahl,,Männlich,Arbeitsausbeutung,,,,747.0
+2023,Anzahl,,Männlich,Arbeitsausbeutung,,,,129.0
+2024,Anzahl,,Männlich,Arbeitsausbeutung,,,,145.0
+2010,Anzahl,,Unbekannt,Arbeitsausbeutung,.,,,
+2011,Anzahl,,Unbekannt,Arbeitsausbeutung,.,,,
+2012,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,2.0
+2013,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,1.0
+2014,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,0.0
+2015,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,2.0
+2016,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,1.0
+2017,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,1.0
+2018,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,1.0
+2019,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,0.0
+2020,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,0.0
+2021,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,1.0
+2022,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,6.0
+2023,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,1.0
+2024,Anzahl,,Unbekannt,Arbeitsausbeutung,,,,1.0
 2010,Anzahl,,Weiblich,Sexuelle Ausbeutung,,,,588.0
 2011,Anzahl,,Weiblich,Sexuelle Ausbeutung,,,,599.0
 2012,Anzahl,,Weiblich,Sexuelle Ausbeutung,,,,590.0

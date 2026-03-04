@@ -61,7 +61,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausbeutung der Arbeitskraft",
+                "Arbeitsausbeutung",
                 "Sexuelle Ausbeutung",
                 ""
               ]
