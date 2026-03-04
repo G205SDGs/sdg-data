@@ -16,24 +16,53 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit Krankenversicherungsschutz",
-                "Arbeitslose Leistungsbezieher",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Geschlecht"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "…",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             },

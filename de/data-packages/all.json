@@ -4195,6 +4195,36 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
             "type": "string",
             "title": "Wert"
@@ -5277,6 +5307,36 @@
             "title": "Altersklasse"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -5916,24 +5976,53 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit Krankenversicherungsschutz",
-                "Arbeitslose Leistungsbezieher",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Geschlecht"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "…",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             },
@@ -6391,9 +6480,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -7170,7 +7260,7 @@
             "title": "Art der physischen Gewalt"
           },
           {
-            "name": "type of psycological violence",
+            "name": "type of psychological violence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7795,6 +7885,36 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -9058,16 +9178,40 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Daten des Statistischen Bundesamtes",
-                "Daten des BMLEH",
+                "Prozent",
+                "Keine Einheit",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Units"
+          },
+          {
+            "name": "data source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Statistisches Bundesamt",
+                "BMLEH",
+                ""
+              ]
+            },
+            "title": "Datenquelle"
+          },
+          {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aktueller Stand",
+                "Trend",
+                ""
+              ]
+            },
+            "title": "Punktzahl"
           },
           {
             "name": "länder",
@@ -9107,6 +9251,7 @@
               "enum": [
                 ".",
                 "s",
+                "p",
                 "r",
                 ""
               ]
@@ -9132,6 +9277,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung",
+                "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -9401,6 +9558,36 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -9683,6 +9870,36 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -10011,6 +10228,36 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -10422,6 +10669,36 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -11978,37 +12255,6 @@
             "title": "Jahr"
           },
           {
-            "name": "länder",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
-                ""
-              ]
-            },
-            "title": "Bundesland"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
@@ -12852,6 +13098,36 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
             "type": "string",
             "title": "Wert"
@@ -12894,6 +13170,36 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -13366,6 +13672,36 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -14318,6 +14654,19 @@
             "title": "Units"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                "Unbekannt",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -14332,19 +14681,6 @@
               ]
             },
             "title": "Altersklasse"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                "Unbekannt",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
           },
           {
             "name": "form of exploitation",
@@ -14363,8 +14699,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
+                "|",
                 ".",
+                "r",
                 ""
               ]
             },
@@ -14927,6 +15264,36 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -15613,6 +15980,36 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -16435,6 +16832,36 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
             "type": "string",
             "title": "Wert"
@@ -16477,6 +16904,36 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",

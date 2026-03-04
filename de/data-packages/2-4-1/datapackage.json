@@ -16,16 +16,40 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Daten des Statistischen Bundesamtes",
-                "Daten des BMLEH",
+                "Prozent",
+                "Keine Einheit",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Units"
+          },
+          {
+            "name": "data source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Statistisches Bundesamt",
+                "BMLEH",
+                ""
+              ]
+            },
+            "title": "Datenquelle"
+          },
+          {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aktueller Stand",
+                "Trend",
+                ""
+              ]
+            },
+            "title": "Punktzahl"
           },
           {
             "name": "länder",
@@ -65,6 +89,7 @@
               "enum": [
                 ".",
                 "s",
+                "p",
                 "r",
                 ""
               ]
@@ -90,6 +115,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung",
+                "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

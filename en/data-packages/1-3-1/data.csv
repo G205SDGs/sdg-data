@@ -1,29 +1,766 @@
-Year,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Population covered by health insurance,.,,,
-2011,Population covered by health insurance,,,,99.8
-2012,Population covered by health insurance,.,,,
-2013,Population covered by health insurance,.,,,
-2014,Population covered by health insurance,.,,,
-2015,Population covered by health insurance,,,,99.9
-2016,Population covered by health insurance,.,,,
-2017,Population covered by health insurance,.,,,
-2018,Population covered by health insurance,.,,,
-2019,Population covered by health insurance,,,,99.9
-2020,Population covered by health insurance,…,,,
-2021,Population covered by health insurance,…,,,
-2022,Population covered by health insurance,…,,,
-2023,Population covered by health insurance,…,,,
-2010,Unemployed persons with unemployment benefits,,,,95.3
-2011,Unemployed persons with unemployment benefits,,,,94.5
-2012,Unemployed persons with unemployment benefits,,,,94.8
-2013,Unemployed persons with unemployment benefits,,,,95.1
-2014,Unemployed persons with unemployment benefits,,,,95.1
-2015,Unemployed persons with unemployment benefits,,,,95.6
-2016,Unemployed persons with unemployment benefits,,,,95.1
-2017,Unemployed persons with unemployment benefits,,,,94.9
-2018,Unemployed persons with unemployment benefits,,,,95.4
-2019,Unemployed persons with unemployment benefits,,,,96.1
-2020,Unemployed persons with unemployment benefits,,,,96.4
-2021,Unemployed persons with unemployment benefits,,,,94.9
-2022,Unemployed persons with unemployment benefits,,,,94.7
-2023,Unemployed persons with unemployment benefits,,,,95.0
+Year,Sex,Länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,,,,,,,8.8
+2011,,,,,,,8.7
+2012,,,,,,,8.7
+2013,,,,,,,8.9
+2014,,,,,,,9.1
+2015,,,,,,,9.7
+2016,,,,,,,9.5
+2017,,,,,,,9.2
+2018,,,,,,,8.7
+2019,,,,,,,8.3
+2020,,,,,,,8.3
+2021,,,,,,,8.0
+2022,,,,,,,8.7
+2023,,,,,,,8.8
+2024,,,,,,,8.7
+2010,Female,,,,,,8.7
+2011,Female,,,,,,8.6
+2012,Female,,,,,,8.7
+2013,Female,,,,,,8.8
+2014,Female,,,,,,8.9
+2015,Female,,,,,,9.3
+2016,Female,,,,,,9.1
+2017,Female,,,,,,8.8
+2018,Female,,,,,,8.4
+2019,Female,,,,,,8.0
+2020,Female,,,,,,8.0
+2021,Female,,,,,,7.7
+2022,Female,,,,,,8.6
+2023,Female,,,,,,8.6
+2024,Female,,,,,,8.5
+2010,Male,,,,,,8.8
+2011,Male,,,,,,8.7
+2012,Male,,,,,,8.7
+2013,Male,,,,,,8.9
+2014,Male,,,,,,9.2
+2015,Male,,,,,,10.1
+2016,Male,,,,,,10.0
+2017,Male,,,,,,9.5
+2018,Male,,,,,,8.9
+2019,Male,,,,,,8.5
+2020,Male,,,,,,8.6
+2021,Male,,,,,,8.2
+2022,Male,,,,,,8.7
+2023,Male,,,,,,9.0
+2024,Male,,,,,,8.9
+2010,,Baden-Württemberg,code08,,,,5.0
+2011,,Baden-Württemberg,code08,,,,4.8
+2012,,Baden-Württemberg,code08,,,,4.8
+2013,,Baden-Württemberg,code08,,,,5.0
+2014,,Baden-Württemberg,code08,,,,5.2
+2015,,Baden-Württemberg,code08,,,,6.0
+2016,,Baden-Württemberg,code08,,,,5.9
+2017,,Baden-Württemberg,code08,,,,5.6
+2018,,Baden-Württemberg,code08,,,,5.3
+2019,,Baden-Württemberg,code08,,,,5.1
+2020,,Baden-Württemberg,code08,,,,5.3
+2021,,Baden-Württemberg,code08,,,,5.1
+2022,,Baden-Württemberg,code08,,,,5.9
+2023,,Baden-Württemberg,code08,,,,6.0
+2024,,Baden-Württemberg,code08,,,,6.0
+2010,,Bavaria,code09,,,,4.3
+2011,,Bavaria,code09,,,,4.2
+2012,,Bavaria,code09,,,,4.2
+2013,,Bavaria,code09,,,,4.3
+2014,,Bavaria,code09,,,,4.6
+2015,,Bavaria,code09,,,,5.2
+2016,,Bavaria,code09,,,,5.1
+2017,,Bavaria,code09,,,,4.9
+2018,,Bavaria,code09,,,,4.6
+2019,,Bavaria,code09,,,,4.3
+2020,,Bavaria,code09,,,,4.5
+2021,,Bavaria,code09,,,,4.3
+2022,,Bavaria,code09,,,,5.0
+2023,,Bavaria,code09,,,,5.3
+2024,,Bavaria,code09,,,,5.2
+2010,,Berlin,code11,,,,18.9
+2011,,Berlin,code11,,,,19.6
+2012,,Berlin,code11,,,,19.2
+2013,,Berlin,code11,,,,19.2
+2014,,Berlin,code11,,,,19.0
+2015,,Berlin,code11,,,,19.4
+2016,,Berlin,code11,,,,18.8
+2017,,Berlin,code11,,,,17.7
+2018,,Berlin,code11,,,,16.8
+2019,,Berlin,code11,,,,16.0
+2020,,Berlin,code11,,,,16.3
+2021,,Berlin,code11,,,,15.6
+2022,,Berlin,code11,,,,15.9
+2023,,Berlin,code11,,,,15.8
+2024,,Berlin,code11,,,,15.9
+2010,,Brandenburg,code12,,,,11.5
+2011,,Brandenburg,code12,,,,11.3
+2012,,Brandenburg,code12,,,,11.1
+2013,,Brandenburg,code12,,,,11.1
+2014,,Brandenburg,code12,,,,10.8
+2015,,Brandenburg,code12,,,,11.0
+2016,,Brandenburg,code12,,,,10.2
+2017,,Brandenburg,code12,,,,9.4
+2018,,Brandenburg,code12,,,,8.7
+2019,,Brandenburg,code12,,,,7.9
+2020,,Brandenburg,code12,,,,7.7
+2021,,Brandenburg,code12,,,,7.1
+2022,,Brandenburg,code12,,,,7.6
+2023,,Brandenburg,code12,,,,7.6
+2024,,Brandenburg,code12,,,,7.4
+2010,,Bremen,code04,,,,16.4
+2011,,Bremen,code04,,,,16.4
+2012,,Bremen,code04,,,,16.4
+2013,,Bremen,code04,,,,16.8
+2014,,Bremen,code04,,,,17.2
+2015,,Bremen,code04,,,,18.5
+2016,,Bremen,code04,,,,18.0
+2017,,Bremen,code04,,,,18.0
+2018,,Bremen,code04,,,,17.4
+2019,,Bremen,code04,,,,17.3
+2020,,Bremen,code04,,,,17.7
+2021,,Bremen,code04,,,,17.1
+2022,,Bremen,code04,,,,17.3
+2023,,Bremen,code04,,,,17.3
+2024,,Bremen,code04,,,,17.1
+2010,,Hamburg,code02,,,,12.8
+2011,,Hamburg,code02,,,,13.0
+2012,,Hamburg,code02,,,,12.9
+2013,,Hamburg,code02,,,,13.0
+2014,,Hamburg,code02,,,,13.2
+2015,,Hamburg,code02,,,,13.9
+2016,,Hamburg,code02,,,,13.7
+2017,,Hamburg,code02,,,,13.4
+2018,,Hamburg,code02,,,,13.0
+2019,,Hamburg,code02,,,,12.6
+2020,,Hamburg,code02,,,,13.3
+2021,,Hamburg,code02,,,,12.7
+2022,,Hamburg,code02,,,,13.8
+2023,,Hamburg,code02,,,,13.9
+2024,,Hamburg,code02,,,,13.6
+2010,,Hesse,code06,,,,8.1
+2011,,Hesse,code06,,,,8.0
+2012,,Hesse,code06,,,,8.1
+2013,,Hesse,code06,,,,8.4
+2014,,Hesse,code06,,,,8.7
+2015,,Hesse,code06,,,,9.3
+2016,,Hesse,code06,,,,9.4
+2017,,Hesse,code06,,,,9.1
+2018,,Hesse,code06,,,,8.7
+2019,,Hesse,code06,,,,8.2
+2020,,Hesse,code06,,,,8.4
+2021,,Hesse,code06,,,,8.2
+2022,,Hesse,code06,,,,9.0
+2023,,Hesse,code06,,,,9.1
+2024,,Hesse,code06,,,,9.0
+2010,,Mecklenburg Western Pomerania,code13,,,,13.3
+2011,,Mecklenburg Western Pomerania,code13,,,,13.1
+2012,,Mecklenburg Western Pomerania,code13,,,,13.1
+2013,,Mecklenburg Western Pomerania,code13,,,,13.2
+2014,,Mecklenburg Western Pomerania,code13,,,,13.0
+2015,,Mecklenburg Western Pomerania,code13,,,,13.1
+2016,,Mecklenburg Western Pomerania,code13,,,,11.8
+2017,,Mecklenburg Western Pomerania,code13,,,,11.1
+2018,,Mecklenburg Western Pomerania,code13,,,,10.1
+2019,,Mecklenburg Western Pomerania,code13,,,,9.2
+2020,,Mecklenburg Western Pomerania,code13,,,,8.8
+2021,,Mecklenburg Western Pomerania,code13,,,,8.2
+2022,,Mecklenburg Western Pomerania,code13,,,,9.1
+2023,,Mecklenburg Western Pomerania,code13,,,,9.1
+2024,,Mecklenburg Western Pomerania,code13,,,,9.0
+2010,,Lower Saxony,code03,,,,8.8
+2011,,Lower Saxony,code03,,,,8.6
+2012,,Lower Saxony,code03,,,,8.6
+2013,,Lower Saxony,code03,,,,8.8
+2014,,Lower Saxony,code03,,,,9.0
+2015,,Lower Saxony,code03,,,,9.8
+2016,,Lower Saxony,code03,,,,9.7
+2017,,Lower Saxony,code03,,,,9.4
+2018,,Lower Saxony,code03,,,,8.9
+2019,,Lower Saxony,code03,,,,8.5
+2020,,Lower Saxony,code03,,,,8.6
+2021,,Lower Saxony,code03,,,,8.2
+2022,,Lower Saxony,code03,,,,9.0
+2023,,Lower Saxony,code03,,,,9.1
+2024,,Lower Saxony,code03,,,,8.9
+2010,,North Rhine-Westphalia,code05,,,,10.2
+2011,,North Rhine-Westphalia,code05,,,,10.2
+2012,,North Rhine-Westphalia,code05,,,,10.4
+2013,,North Rhine-Westphalia,code05,,,,10.8
+2014,,North Rhine-Westphalia,code05,,,,11.1
+2015,,North Rhine-Westphalia,code05,,,,12.0
+2016,,North Rhine-Westphalia,code05,,,,12.0
+2017,,North Rhine-Westphalia,code05,,,,11.7
+2018,,North Rhine-Westphalia,code05,,,,11.3
+2019,,North Rhine-Westphalia,code05,,,,10.9
+2020,,North Rhine-Westphalia,code05,,,,10.9
+2021,,North Rhine-Westphalia,code05,,,,10.5
+2022,,North Rhine-Westphalia,code05,,,,11.1
+2023,,North Rhine-Westphalia,code05,,,,11.1
+2024,,North Rhine-Westphalia,code05,,,,11.1
+2010,,Rhineland Palatinate,code07,,,,6.5
+2011,,Rhineland Palatinate,code07,,,,6.3
+2012,,Rhineland Palatinate,code07,,,,6.4
+2013,,Rhineland Palatinate,code07,,,,6.6
+2014,,Rhineland Palatinate,code07,,,,6.9
+2015,,Rhineland Palatinate,code07,,,,7.8
+2016,,Rhineland Palatinate,code07,,,,7.6
+2017,,Rhineland Palatinate,code07,,,,7.4
+2018,,Rhineland Palatinate,code07,,,,7.0
+2019,,Rhineland Palatinate,code07,,,,6.7
+2020,,Rhineland Palatinate,code07,,,,6.8
+2021,,Rhineland Palatinate,code07,,,,6.5
+2022,,Rhineland Palatinate,code07,,,,7.1
+2023,,Rhineland Palatinate,code07,,,,7.3
+2024,,Rhineland Palatinate,code07,,,,7.4
+2010,,Saarland,code10,,,,8.7
+2011,,Saarland,code10,,,,8.6
+2012,,Saarland,code10,,,,8.8
+2013,,Saarland,code10,,,,9.2
+2014,,Saarland,code10,,,,9.5
+2015,,Saarland,code10,,,,10.7
+2016,,Saarland,code10,,,,10.8
+2017,,Saarland,code10,,,,10.7
+2018,,Saarland,code10,,,,10.3
+2019,,Saarland,code10,,,,9.9
+2020,,Saarland,code10,,,,10.0
+2021,,Saarland,code10,,,,9.6
+2022,,Saarland,code10,,,,10.1
+2023,,Saarland,code10,,,,10.3
+2024,,Saarland,code10,,,,10.4
+2010,,Saxony,code14,,,,11.2
+2011,,Saxony,code14,,,,10.8
+2012,,Saxony,code14,,,,10.6
+2013,,Saxony,code14,,,,10.5
+2014,,Saxony,code14,,,,10.2
+2015,,Saxony,code14,,,,10.3
+2016,,Saxony,code14,,,,9.4
+2017,,Saxony,code14,,,,8.7
+2018,,Saxony,code14,,,,8.0
+2019,,Saxony,code14,,,,7.3
+2020,,Saxony,code14,,,,7.2
+2021,,Saxony,code14,,,,6.8
+2022,,Saxony,code14,,,,7.6
+2023,,Saxony,code14,,,,7.7
+2024,,Saxony,code14,,,,7.6
+2010,,Saxony-Anhalt,code15,,,,13.6
+2011,,Saxony-Anhalt,code15,,,,13.4
+2012,,Saxony-Anhalt,code15,,,,13.4
+2013,,Saxony-Anhalt,code15,,,,13.4
+2014,,Saxony-Anhalt,code15,,,,13.3
+2015,,Saxony-Anhalt,code15,,,,13.4
+2016,,Saxony-Anhalt,code15,,,,12.5
+2017,,Saxony-Anhalt,code15,,,,11.8
+2018,,Saxony-Anhalt,code15,,,,10.8
+2019,,Saxony-Anhalt,code15,,,,10.0
+2020,,Saxony-Anhalt,code15,,,,9.5
+2021,,Saxony-Anhalt,code15,,,,8.9
+2022,,Saxony-Anhalt,code15,,,,9.9
+2023,,Saxony-Anhalt,code15,,,,9.8
+2024,,Saxony-Anhalt,code15,,,,9.5
+2010,,Schleswig-Holstein,code01,,,,8.9
+2011,,Schleswig-Holstein,code01,,,,9.0
+2012,,Schleswig-Holstein,code01,,,,9.1
+2013,,Schleswig-Holstein,code01,,,,9.3
+2014,,Schleswig-Holstein,code01,,,,9.5
+2015,,Schleswig-Holstein,code01,,,,10.3
+2016,,Schleswig-Holstein,code01,,,,10.3
+2017,,Schleswig-Holstein,code01,,,,10.0
+2018,,Schleswig-Holstein,code01,,,,9.5
+2019,,Schleswig-Holstein,code01,,,,9.0
+2020,,Schleswig-Holstein,code01,,,,9.1
+2021,,Schleswig-Holstein,code01,,,,8.5
+2022,,Schleswig-Holstein,code01,,,,8.9
+2023,,Schleswig-Holstein,code01,,,,9.0
+2024,,Schleswig-Holstein,code01,,,,9.0
+2010,,Thuringia,code16,,,,9.5
+2011,,Thuringia,code16,,,,9.2
+2012,,Thuringia,code16,,,,9.1
+2013,,Thuringia,code16,,,,9.0
+2014,,Thuringia,code16,,,,8.9
+2015,,Thuringia,code16,,,,9.4
+2016,,Thuringia,code16,,,,8.5
+2017,,Thuringia,code16,,,,8.0
+2018,,Thuringia,code16,,,,7.4
+2019,,Thuringia,code16,,,,6.8
+2020,,Thuringia,code16,,,,6.7
+2021,,Thuringia,code16,,,,6.2
+2022,,Thuringia,code16,,,,7.0
+2023,,Thuringia,code16,,,,7.1
+2024,,Thuringia,code16,,,,7.1
+2010,Female,Baden-Württemberg,code08,,,,5.1
+2011,Female,Baden-Württemberg,code08,,,,4.9
+2012,Female,Baden-Württemberg,code08,,,,4.9
+2013,Female,Baden-Württemberg,code08,,,,5.1
+2014,Female,Baden-Württemberg,code08,,,,5.2
+2015,Female,Baden-Württemberg,code08,,,,5.7
+2016,Female,Baden-Württemberg,code08,,,,5.6
+2017,Female,Baden-Württemberg,code08,,,,5.5
+2018,Female,Baden-Württemberg,code08,,,,5.2
+2019,Female,Baden-Württemberg,code08,,,,5.0
+2020,Female,Baden-Württemberg,code08,,,,5.1
+2021,Female,Baden-Württemberg,code08,,,,5.0
+2022,Female,Baden-Württemberg,code08,,,,6.0
+2023,Female,Baden-Württemberg,code08,,,,6.1
+2024,Female,Baden-Württemberg,code08,,,,6.0
+2010,Female,Bavaria,code09,,,,4.5
+2011,Female,Bavaria,code09,,,,4.3
+2012,Female,Bavaria,code09,,,,4.3
+2013,Female,Bavaria,code09,,,,4.5
+2014,Female,Bavaria,code09,,,,4.6
+2015,Female,Bavaria,code09,,,,4.9
+2016,Female,Bavaria,code09,,,,4.8
+2017,Female,Bavaria,code09,,,,4.7
+2018,Female,Bavaria,code09,,,,4.5
+2019,Female,Bavaria,code09,,,,4.2
+2020,Female,Bavaria,code09,,,,4.4
+2021,Female,Bavaria,code09,,,,4.2
+2022,Female,Bavaria,code09,,,,5.1
+2023,Female,Bavaria,code09,,,,5.2
+2024,Female,Bavaria,code09,,,,5.1
+2010,Female,Berlin,code11,,,,18.0
+2011,Female,Berlin,code11,,,,18.6
+2012,Female,Berlin,code11,,,,18.3
+2013,Female,Berlin,code11,,,,18.3
+2014,Female,Berlin,code11,,,,18.1
+2015,Female,Berlin,code11,,,,18.3
+2016,Female,Berlin,code11,,,,17.7
+2017,Female,Berlin,code11,,,,16.8
+2018,Female,Berlin,code11,,,,15.9
+2019,Female,Berlin,code11,,,,15.2
+2020,Female,Berlin,code11,,,,15.4
+2021,Female,Berlin,code11,,,,14.7
+2022,Female,Berlin,code11,,,,15.3
+2023,Female,Berlin,code11,,,,15.1
+2024,Female,Berlin,code11,,,,15.1
+2010,Female,Brandenburg,code12,,,,11.1
+2011,Female,Brandenburg,code12,,,,10.9
+2012,Female,Brandenburg,code12,,,,10.7
+2013,Female,Brandenburg,code12,,,,10.7
+2014,Female,Brandenburg,code12,,,,10.4
+2015,Female,Brandenburg,code12,,,,10.2
+2016,Female,Brandenburg,code12,,,,9.5
+2017,Female,Brandenburg,code12,,,,8.8
+2018,Female,Brandenburg,code12,,,,8.1
+2019,Female,Brandenburg,code12,,,,7.3
+2020,Female,Brandenburg,code12,,,,7.0
+2021,Female,Brandenburg,code12,,,,6.5
+2022,Female,Brandenburg,code12,,,,7.1
+2023,Female,Brandenburg,code12,,,,6.9
+2024,Female,Brandenburg,code12,,,,6.8
+2010,Female,Bremen,code04,,,,16.2
+2011,Female,Bremen,code04,,,,16.3
+2012,Female,Bremen,code04,,,,16.4
+2013,Female,Bremen,code04,,,,16.8
+2014,Female,Bremen,code04,,,,17.1
+2015,Female,Bremen,code04,,,,18.1
+2016,Female,Bremen,code04,,,,17.6
+2017,Female,Bremen,code04,,,,17.7
+2018,Female,Bremen,code04,,,,17.2
+2019,Female,Bremen,code04,,,,17.0
+2020,Female,Bremen,code04,,,,17.3
+2021,Female,Bremen,code04,,,,16.9
+2022,Female,Bremen,code04,,,,17.3
+2023,Female,Bremen,code04,,,,17.2
+2024,Female,Bremen,code04,,,,17.1
+2010,Female,Hamburg,code02,,,,12.6
+2011,Female,Hamburg,code02,,,,12.7
+2012,Female,Hamburg,code02,,,,12.6
+2013,Female,Hamburg,code02,,,,12.8
+2014,Female,Hamburg,code02,,,,12.9
+2015,Female,Hamburg,code02,,,,13.3
+2016,Female,Hamburg,code02,,,,13.1
+2017,Female,Hamburg,code02,,,,13.0
+2018,Female,Hamburg,code02,,,,12.6
+2019,Female,Hamburg,code02,,,,12.3
+2020,Female,Hamburg,code02,,,,12.9
+2021,Female,Hamburg,code02,,,,12.4
+2022,Female,Hamburg,code02,,,,13.6
+2023,Female,Hamburg,code02,,,,13.7
+2024,Female,Hamburg,code02,,,,13.4
+2010,Female,Hesse,code06,,,,8.2
+2011,Female,Hesse,code06,,,,8.1
+2012,Female,Hesse,code06,,,,8.2
+2013,Female,Hesse,code06,,,,8.4
+2014,Female,Hesse,code06,,,,8.6
+2015,Female,Hesse,code06,,,,9.0
+2016,Female,Hesse,code06,,,,9.1
+2017,Female,Hesse,code06,,,,8.8
+2018,Female,Hesse,code06,,,,8.5
+2019,Female,Hesse,code06,,,,8.1
+2020,Female,Hesse,code06,,,,8.3
+2021,Female,Hesse,code06,,,,8.0
+2022,Female,Hesse,code06,,,,9.0
+2023,Female,Hesse,code06,,,,9.0
+2024,Female,Hesse,code06,,,,8.9
+2010,Female,Mecklenburg Western Pomerania,code13,,,,12.8
+2011,Female,Mecklenburg Western Pomerania,code13,,,,12.6
+2012,Female,Mecklenburg Western Pomerania,code13,,,,12.5
+2013,Female,Mecklenburg Western Pomerania,code13,,,,12.6
+2014,Female,Mecklenburg Western Pomerania,code13,,,,12.3
+2015,Female,Mecklenburg Western Pomerania,code13,,,,12.0
+2016,Female,Mecklenburg Western Pomerania,code13,,,,11.0
+2017,Female,Mecklenburg Western Pomerania,code13,,,,10.3
+2018,Female,Mecklenburg Western Pomerania,code13,,,,9.3
+2019,Female,Mecklenburg Western Pomerania,code13,,,,8.4
+2020,Female,Mecklenburg Western Pomerania,code13,,,,7.9
+2021,Female,Mecklenburg Western Pomerania,code13,,,,7.3
+2022,Female,Mecklenburg Western Pomerania,code13,,,,8.3
+2023,Female,Mecklenburg Western Pomerania,code13,,,,8.2
+2024,Female,Mecklenburg Western Pomerania,code13,,,,8.1
+2010,Female,Lower Saxony,code03,,,,8.8
+2011,Female,Lower Saxony,code03,,,,8.7
+2012,Female,Lower Saxony,code03,,,,8.7
+2013,Female,Lower Saxony,code03,,,,8.9
+2014,Female,Lower Saxony,code03,,,,9.0
+2015,Female,Lower Saxony,code03,,,,9.4
+2016,Female,Lower Saxony,code03,,,,9.3
+2017,Female,Lower Saxony,code03,,,,9.1
+2018,Female,Lower Saxony,code03,,,,8.7
+2019,Female,Lower Saxony,code03,,,,8.3
+2020,Female,Lower Saxony,code03,,,,8.3
+2021,Female,Lower Saxony,code03,,,,8.0
+2022,Female,Lower Saxony,code03,,,,9.1
+2023,Female,Lower Saxony,code03,,,,9.0
+2024,Female,Lower Saxony,code03,,,,8.7
+2010,Female,North Rhine-Westphalia,code05,,,,10.2
+2011,Female,North Rhine-Westphalia,code05,,,,10.2
+2012,Female,North Rhine-Westphalia,code05,,,,10.4
+2013,Female,North Rhine-Westphalia,code05,,,,10.8
+2014,Female,North Rhine-Westphalia,code05,,,,11.0
+2015,Female,North Rhine-Westphalia,code05,,,,11.6
+2016,Female,North Rhine-Westphalia,code05,,,,11.6
+2017,Female,North Rhine-Westphalia,code05,,,,11.4
+2018,Female,North Rhine-Westphalia,code05,,,,11.0
+2019,Female,North Rhine-Westphalia,code05,,,,10.7
+2020,Female,North Rhine-Westphalia,code05,,,,10.6
+2021,Female,North Rhine-Westphalia,code05,,,,10.3
+2022,Female,North Rhine-Westphalia,code05,,,,11.1
+2023,Female,North Rhine-Westphalia,code05,,,,11.0
+2024,Female,North Rhine-Westphalia,code05,,,,10.9
+2010,Female,Rhineland Palatinate,code07,,,,6.7
+2011,Female,Rhineland Palatinate,code07,,,,6.5
+2012,Female,Rhineland Palatinate,code07,,,,6.5
+2013,Female,Rhineland Palatinate,code07,,,,6.8
+2014,Female,Rhineland Palatinate,code07,,,,7.0
+2015,Female,Rhineland Palatinate,code07,,,,7.5
+2016,Female,Rhineland Palatinate,code07,,,,7.4
+2017,Female,Rhineland Palatinate,code07,,,,7.2
+2018,Female,Rhineland Palatinate,code07,,,,6.9
+2019,Female,Rhineland Palatinate,code07,,,,6.6
+2020,Female,Rhineland Palatinate,code07,,,,6.7
+2021,Female,Rhineland Palatinate,code07,,,,6.4
+2022,Female,Rhineland Palatinate,code07,,,,7.2
+2023,Female,Rhineland Palatinate,code07,,,,7.2
+2024,Female,Rhineland Palatinate,code07,,,,7.2
+2010,Female,Saarland,code10,,,,8.8
+2011,Female,Saarland,code10,,,,8.8
+2012,Female,Saarland,code10,,,,8.9
+2013,Female,Saarland,code10,,,,9.3
+2014,Female,Saarland,code10,,,,9.5
+2015,Female,Saarland,code10,,,,10.2
+2016,Female,Saarland,code10,,,,10.3
+2017,Female,Saarland,code10,,,,10.3
+2018,Female,Saarland,code10,,,,10.0
+2019,Female,Saarland,code10,,,,9.6
+2020,Female,Saarland,code10,,,,9.6
+2021,Female,Saarland,code10,,,,9.2
+2022,Female,Saarland,code10,,,,10.0
+2023,Female,Saarland,code10,,,,10.1
+2024,Female,Saarland,code10,,,,10.1
+2010,Female,Saxony,code14,,,,10.8
+2011,Female,Saxony,code14,,,,10.5
+2012,Female,Saxony,code14,,,,10.3
+2013,Female,Saxony,code14,,,,10.1
+2014,Female,Saxony,code14,,,,9.9
+2015,Female,Saxony,code14,,,,9.6
+2016,Female,Saxony,code14,,,,8.8
+2017,Female,Saxony,code14,,,,8.2
+2018,Female,Saxony,code14,,,,7.5
+2019,Female,Saxony,code14,,,,6.8
+2020,Female,Saxony,code14,,,,6.6
+2021,Female,Saxony,code14,,,,6.2
+2022,Female,Saxony,code14,,,,7.2
+2023,Female,Saxony,code14,,,,7.2
+2024,Female,Saxony,code14,,,,7.1
+2010,Female,Saxony-Anhalt,code15,,,,13.1
+2011,Female,Saxony-Anhalt,code15,,,,13.0
+2012,Female,Saxony-Anhalt,code15,,,,13.0
+2013,Female,Saxony-Anhalt,code15,,,,13.0
+2014,Female,Saxony-Anhalt,code15,,,,12.8
+2015,Female,Saxony-Anhalt,code15,,,,12.5
+2016,Female,Saxony-Anhalt,code15,,,,11.7
+2017,Female,Saxony-Anhalt,code15,,,,11.0
+2018,Female,Saxony-Anhalt,code15,,,,10.1
+2019,Female,Saxony-Anhalt,code15,,,,9.3
+2020,Female,Saxony-Anhalt,code15,,,,8.8
+2021,Female,Saxony-Anhalt,code15,,,,8.2
+2022,Female,Saxony-Anhalt,code15,,,,9.2
+2023,Female,Saxony-Anhalt,code15,,,,9.0
+2024,Female,Saxony-Anhalt,code15,,,,8.7
+2010,Female,Schleswig-Holstein,code01,,,,8.8
+2011,Female,Schleswig-Holstein,code01,,,,8.9
+2012,Female,Schleswig-Holstein,code01,,,,8.9
+2013,Female,Schleswig-Holstein,code01,,,,9.2
+2014,Female,Schleswig-Holstein,code01,,,,9.3
+2015,Female,Schleswig-Holstein,code01,,,,9.8
+2016,Female,Schleswig-Holstein,code01,,,,9.8
+2017,Female,Schleswig-Holstein,code01,,,,9.5
+2018,Female,Schleswig-Holstein,code01,,,,9.1
+2019,Female,Schleswig-Holstein,code01,,,,8.7
+2020,Female,Schleswig-Holstein,code01,,,,8.7
+2021,Female,Schleswig-Holstein,code01,,,,8.1
+2022,Female,Schleswig-Holstein,code01,,,,8.7
+2023,Female,Schleswig-Holstein,code01,,,,8.7
+2024,Female,Schleswig-Holstein,code01,,,,8.7
+2010,Female,Thuringia,code16,,,,9.4
+2011,Female,Thuringia,code16,,,,9.1
+2012,Female,Thuringia,code16,,,,9.1
+2013,Female,Thuringia,code16,,,,9.0
+2014,Female,Thuringia,code16,,,,8.8
+2015,Female,Thuringia,code16,,,,8.9
+2016,Female,Thuringia,code16,,,,8.1
+2017,Female,Thuringia,code16,,,,7.7
+2018,Female,Thuringia,code16,,,,7.0
+2019,Female,Thuringia,code16,,,,6.5
+2020,Female,Thuringia,code16,,,,6.2
+2021,Female,Thuringia,code16,,,,5.8
+2022,Female,Thuringia,code16,,,,6.7
+2023,Female,Thuringia,code16,,,,6.7
+2024,Female,Thuringia,code16,,,,6.6
+2010,Male,Baden-Württemberg,code08,,,,4.8
+2011,Male,Baden-Württemberg,code08,,,,4.6
+2012,Male,Baden-Württemberg,code08,,,,4.7
+2013,Male,Baden-Württemberg,code08,,,,4.9
+2014,Male,Baden-Württemberg,code08,,,,5.1
+2015,Male,Baden-Württemberg,code08,,,,6.3
+2016,Male,Baden-Württemberg,code08,,,,6.2
+2017,Male,Baden-Württemberg,code08,,,,5.8
+2018,Male,Baden-Württemberg,code08,,,,5.4
+2019,Male,Baden-Württemberg,code08,,,,5.2
+2020,Male,Baden-Württemberg,code08,,,,5.4
+2021,Male,Baden-Württemberg,code08,,,,5.2
+2022,Male,Baden-Württemberg,code08,,,,5.8
+2023,Male,Baden-Württemberg,code08,,,,6.0
+2024,Male,Baden-Württemberg,code08,,,,6.1
+2010,Male,Bavaria,code09,,,,4.2
+2011,Male,Bavaria,code09,,,,4.0
+2012,Male,Bavaria,code09,,,,4.0
+2013,Male,Bavaria,code09,,,,4.2
+2014,Male,Bavaria,code09,,,,4.5
+2015,Male,Bavaria,code09,,,,5.5
+2016,Male,Bavaria,code09,,,,5.4
+2017,Male,Bavaria,code09,,,,5.1
+2018,Male,Bavaria,code09,,,,4.7
+2019,Male,Bavaria,code09,,,,4.4
+2020,Male,Bavaria,code09,,,,4.6
+2021,Male,Bavaria,code09,,,,4.4
+2022,Male,Bavaria,code09,,,,5.0
+2023,Male,Bavaria,code09,,,,5.3
+2024,Male,Bavaria,code09,,,,5.3
+2010,Male,Berlin,code11,,,,19.8
+2011,Male,Berlin,code11,,,,20.7
+2012,Male,Berlin,code11,,,,20.2
+2013,Male,Berlin,code11,,,,20.1
+2014,Male,Berlin,code11,,,,20.0
+2015,Male,Berlin,code11,,,,20.6
+2016,Male,Berlin,code11,,,,19.9
+2017,Male,Berlin,code11,,,,18.7
+2018,Male,Berlin,code11,,,,17.7
+2019,Male,Berlin,code11,,,,16.8
+2020,Male,Berlin,code11,,,,17.3
+2021,Male,Berlin,code11,,,,16.5
+2022,Male,Berlin,code11,,,,16.6
+2023,Male,Berlin,code11,,,,16.6
+2024,Male,Berlin,code11,,,,16.6
+2010,Male,Brandenburg,code12,,,,11.9
+2011,Male,Brandenburg,code12,,,,11.7
+2012,Male,Brandenburg,code12,,,,11.6
+2013,Male,Brandenburg,code12,,,,11.5
+2014,Male,Brandenburg,code12,,,,11.3
+2015,Male,Brandenburg,code12,,,,11.8
+2016,Male,Brandenburg,code12,,,,10.9
+2017,Male,Brandenburg,code12,,,,10.1
+2018,Male,Brandenburg,code12,,,,9.3
+2019,Male,Brandenburg,code12,,,,8.6
+2020,Male,Brandenburg,code12,,,,8.3
+2021,Male,Brandenburg,code12,,,,7.8
+2022,Male,Brandenburg,code12,,,,8.1
+2023,Male,Brandenburg,code12,,,,8.3
+2024,Male,Brandenburg,code12,,,,8.1
+2010,Male,Bremen,code04,,,,16.5
+2011,Male,Bremen,code04,,,,16.6
+2012,Male,Bremen,code04,,,,16.4
+2013,Male,Bremen,code04,,,,16.8
+2014,Male,Bremen,code04,,,,17.4
+2015,Male,Bremen,code04,,,,18.9
+2016,Male,Bremen,code04,,,,18.5
+2017,Male,Bremen,code04,,,,18.3
+2018,Male,Bremen,code04,,,,17.7
+2019,Male,Bremen,code04,,,,17.6
+2020,Male,Bremen,code04,,,,18.0
+2021,Male,Bremen,code04,,,,17.3
+2022,Male,Bremen,code04,,,,17.3
+2023,Male,Bremen,code04,,,,17.4
+2024,Male,Bremen,code04,,,,17.2
+2010,Male,Hamburg,code02,,,,13.0
+2011,Male,Hamburg,code02,,,,13.3
+2012,Male,Hamburg,code02,,,,13.2
+2013,Male,Hamburg,code02,,,,13.2
+2014,Male,Hamburg,code02,,,,13.5
+2015,Male,Hamburg,code02,,,,14.5
+2016,Male,Hamburg,code02,,,,14.2
+2017,Male,Hamburg,code02,,,,13.8
+2018,Male,Hamburg,code02,,,,13.4
+2019,Male,Hamburg,code02,,,,12.9
+2020,Male,Hamburg,code02,,,,13.8
+2021,Male,Hamburg,code02,,,,13.1
+2022,Male,Hamburg,code02,,,,13.9
+2023,Male,Hamburg,code02,,,,14.1
+2024,Male,Hamburg,code02,,,,13.8
+2010,Male,Hesse,code06,,,,8.0
+2011,Male,Hesse,code06,,,,7.9
+2012,Male,Hesse,code06,,,,8.0
+2013,Male,Hesse,code06,,,,8.3
+2014,Male,Hesse,code06,,,,8.7
+2015,Male,Hesse,code06,,,,9.6
+2016,Male,Hesse,code06,,,,9.8
+2017,Male,Hesse,code06,,,,9.3
+2018,Male,Hesse,code06,,,,8.8
+2019,Male,Hesse,code06,,,,8.3
+2020,Male,Hesse,code06,,,,8.6
+2021,Male,Hesse,code06,,,,8.3
+2022,Male,Hesse,code06,,,,8.9
+2023,Male,Hesse,code06,,,,9.1
+2024,Male,Hesse,code06,,,,9.0
+2010,Male,Mecklenburg Western Pomerania,code13,,,,13.9
+2011,Male,Mecklenburg Western Pomerania,code13,,,,13.7
+2012,Male,Mecklenburg Western Pomerania,code13,,,,13.7
+2013,Male,Mecklenburg Western Pomerania,code13,,,,13.8
+2014,Male,Mecklenburg Western Pomerania,code13,,,,13.7
+2015,Male,Mecklenburg Western Pomerania,code13,,,,14.1
+2016,Male,Mecklenburg Western Pomerania,code13,,,,12.7
+2017,Male,Mecklenburg Western Pomerania,code13,,,,12.0
+2018,Male,Mecklenburg Western Pomerania,code13,,,,10.9
+2019,Male,Mecklenburg Western Pomerania,code13,,,,10.0
+2020,Male,Mecklenburg Western Pomerania,code13,,,,9.6
+2021,Male,Mecklenburg Western Pomerania,code13,,,,9.0
+2022,Male,Mecklenburg Western Pomerania,code13,,,,9.8
+2023,Male,Mecklenburg Western Pomerania,code13,,,,10.0
+2024,Male,Mecklenburg Western Pomerania,code13,,,,9.9
+2010,Male,Lower Saxony,code03,,,,8.7
+2011,Male,Lower Saxony,code03,,,,8.6
+2012,Male,Lower Saxony,code03,,,,8.5
+2013,Male,Lower Saxony,code03,,,,8.8
+2014,Male,Lower Saxony,code03,,,,9.0
+2015,Male,Lower Saxony,code03,,,,10.1
+2016,Male,Lower Saxony,code03,,,,10.0
+2017,Male,Lower Saxony,code03,,,,9.6
+2018,Male,Lower Saxony,code03,,,,9.2
+2019,Male,Lower Saxony,code03,,,,8.7
+2020,Male,Lower Saxony,code03,,,,8.8
+2021,Male,Lower Saxony,code03,,,,8.4
+2022,Male,Lower Saxony,code03,,,,9.0
+2023,Male,Lower Saxony,code03,,,,9.2
+2024,Male,Lower Saxony,code03,,,,9.0
+2010,Male,North Rhine-Westphalia,code05,,,,10.1
+2011,Male,North Rhine-Westphalia,code05,,,,10.1
+2012,Male,North Rhine-Westphalia,code05,,,,10.4
+2013,Male,North Rhine-Westphalia,code05,,,,10.7
+2014,Male,North Rhine-Westphalia,code05,,,,11.2
+2015,Male,North Rhine-Westphalia,code05,,,,12.3
+2016,Male,North Rhine-Westphalia,code05,,,,12.5
+2017,Male,North Rhine-Westphalia,code05,,,,12.1
+2018,Male,North Rhine-Westphalia,code05,,,,11.5
+2019,Male,North Rhine-Westphalia,code05,,,,11.1
+2020,Male,North Rhine-Westphalia,code05,,,,11.1
+2021,Male,North Rhine-Westphalia,code05,,,,10.7
+2022,Male,North Rhine-Westphalia,code05,,,,11.1
+2023,Male,North Rhine-Westphalia,code05,,,,11.3
+2024,Male,North Rhine-Westphalia,code05,,,,11.2
+2010,Male,Rhineland Palatinate,code07,,,,6.4
+2011,Male,Rhineland Palatinate,code07,,,,6.2
+2012,Male,Rhineland Palatinate,code07,,,,6.2
+2013,Male,Rhineland Palatinate,code07,,,,6.5
+2014,Male,Rhineland Palatinate,code07,,,,6.9
+2015,Male,Rhineland Palatinate,code07,,,,8.0
+2016,Male,Rhineland Palatinate,code07,,,,7.9
+2017,Male,Rhineland Palatinate,code07,,,,7.6
+2018,Male,Rhineland Palatinate,code07,,,,7.2
+2019,Male,Rhineland Palatinate,code07,,,,6.8
+2020,Male,Rhineland Palatinate,code07,,,,7.0
+2021,Male,Rhineland Palatinate,code07,,,,6.6
+2022,Male,Rhineland Palatinate,code07,,,,7.0
+2023,Male,Rhineland Palatinate,code07,,,,7.4
+2024,Male,Rhineland Palatinate,code07,,,,7.6
+2010,Male,Saarland,code10,,,,8.6
+2011,Male,Saarland,code10,,,,8.5
+2012,Male,Saarland,code10,,,,8.7
+2013,Male,Saarland,code10,,,,9.1
+2014,Male,Saarland,code10,,,,9.6
+2015,Male,Saarland,code10,,,,11.2
+2016,Male,Saarland,code10,,,,11.4
+2017,Male,Saarland,code10,,,,11.2
+2018,Male,Saarland,code10,,,,10.7
+2019,Male,Saarland,code10,,,,10.3
+2020,Male,Saarland,code10,,,,10.5
+2021,Male,Saarland,code10,,,,9.9
+2022,Male,Saarland,code10,,,,10.3
+2023,Male,Saarland,code10,,,,10.5
+2024,Male,Saarland,code10,,,,10.7
+2010,Male,Saxony,code14,,,,11.6
+2011,Male,Saxony,code14,,,,11.2
+2012,Male,Saxony,code14,,,,10.9
+2013,Male,Saxony,code14,,,,10.8
+2014,Male,Saxony,code14,,,,10.6
+2015,Male,Saxony,code14,,,,11.0
+2016,Male,Saxony,code14,,,,10.0
+2017,Male,Saxony,code14,,,,9.3
+2018,Male,Saxony,code14,,,,8.6
+2019,Male,Saxony,code14,,,,7.9
+2020,Male,Saxony,code14,,,,7.8
+2021,Male,Saxony,code14,,,,7.4
+2022,Male,Saxony,code14,,,,7.9
+2023,Male,Saxony,code14,,,,8.2
+2024,Male,Saxony,code14,,,,8.1
+2010,Male,Saxony-Anhalt,code15,,,,14.1
+2011,Male,Saxony-Anhalt,code15,,,,13.9
+2012,Male,Saxony-Anhalt,code15,,,,13.9
+2013,Male,Saxony-Anhalt,code15,,,,13.9
+2014,Male,Saxony-Anhalt,code15,,,,13.9
+2015,Male,Saxony-Anhalt,code15,,,,14.4
+2016,Male,Saxony-Anhalt,code15,,,,13.3
+2017,Male,Saxony-Anhalt,code15,,,,12.5
+2018,Male,Saxony-Anhalt,code15,,,,11.5
+2019,Male,Saxony-Anhalt,code15,,,,10.7
+2020,Male,Saxony-Anhalt,code15,,,,10.2
+2021,Male,Saxony-Anhalt,code15,,,,9.7
+2022,Male,Saxony-Anhalt,code15,,,,10.5
+2023,Male,Saxony-Anhalt,code15,,,,10.6
+2024,Male,Saxony-Anhalt,code15,,,,10.3
+2010,Male,Schleswig-Holstein,code01,,,,9.0
+2011,Male,Schleswig-Holstein,code01,,,,9.2
+2012,Male,Schleswig-Holstein,code01,,,,9.2
+2013,Male,Schleswig-Holstein,code01,,,,9.4
+2014,Male,Schleswig-Holstein,code01,,,,9.7
+2015,Male,Schleswig-Holstein,code01,,,,10.9
+2016,Male,Schleswig-Holstein,code01,,,,10.8
+2017,Male,Schleswig-Holstein,code01,,,,10.4
+2018,Male,Schleswig-Holstein,code01,,,,9.9
+2019,Male,Schleswig-Holstein,code01,,,,9.4
+2020,Male,Schleswig-Holstein,code01,,,,9.5
+2021,Male,Schleswig-Holstein,code01,,,,8.8
+2022,Male,Schleswig-Holstein,code01,,,,9.0
+2023,Male,Schleswig-Holstein,code01,,,,9.3
+2024,Male,Schleswig-Holstein,code01,,,,9.3
+2010,Male,Thuringia,code16,,,,9.6
+2011,Male,Thuringia,code16,,,,9.3
+2012,Male,Thuringia,code16,,,,9.2
+2013,Male,Thuringia,code16,,,,9.0
+2014,Male,Thuringia,code16,,,,9.1
+2015,Male,Thuringia,code16,,,,9.9
+2016,Male,Thuringia,code16,,,,8.9
+2017,Male,Thuringia,code16,,,,8.4
+2018,Male,Thuringia,code16,,,,7.8
+2019,Male,Thuringia,code16,,,,7.2
+2020,Male,Thuringia,code16,,,,7.1
+2021,Male,Thuringia,code16,,,,6.7
+2022,Male,Thuringia,code16,,,,7.3
+2023,Male,Thuringia,code16,,,,7.5
+2024,Male,Thuringia,code16,,,,7.5

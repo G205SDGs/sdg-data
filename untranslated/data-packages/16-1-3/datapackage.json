@@ -65,7 +65,7 @@
             }
           },
           {
-            "name": "type of psycological violence",
+            "name": "type of psychological violence",
             "type": "string",
             "constraints": {
               "enum": [

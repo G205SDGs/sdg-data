@@ -16,16 +16,40 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Data from the Federal Statistical Office",
-                "Data from the Federal Ministry of Agriculture, Food and Regional Identity",
+                "Percentage",
+                "No unit",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Units"
+          },
+          {
+            "name": "data source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Federal Statistical Office",
+                "Federal Ministry of Agriculture, Food and Regional Identity",
+                ""
+              ]
+            },
+            "title": "Data source"
+          },
+          {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Current status",
+                "Trend",
+                ""
+              ]
+            },
+            "title": "Score"
           },
           {
             "name": "länder",
@@ -65,6 +89,7 @@
               "enum": [
                 ".",
                 "s",
+                "p",
                 "r",
                 ""
               ]
@@ -90,6 +115,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Organically farmed agricultural land",
+                "Progress toward productive and sustainable agriculture (proxy)",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

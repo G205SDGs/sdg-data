@@ -26,6 +26,18 @@
             }
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                "unknown",
+                ""
+              ]
+            }
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -36,18 +48,6 @@
                 "21 to under 25 years",
                 "25 years and older",
                 "unknown age",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                "unknown",
                 ""
               ]
             }
@@ -68,8 +68,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
+                "|",
                 ".",
+                "r",
                 ""
               ]
             }

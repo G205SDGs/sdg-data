@@ -70,7 +70,7 @@
             "title": "Type of physical violence"
           },
           {
-            "name": "type of psycological violence",
+            "name": "type of psychological violence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -80,7 +80,7 @@
                 ""
               ]
             },
-            "title": "Type of psycological violence"
+            "title": "Type of psychological violence"
           },
           {
             "name": "type of sexual violence",

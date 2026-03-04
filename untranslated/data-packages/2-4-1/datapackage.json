@@ -15,12 +15,34 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "data from the federal statistical office",
-                "data from the federal ministry of food and agriculture",
+                "percentage",
+                "no unit",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federal statistical office",
+                "federal ministry of agriculture, food and regional identity",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "current status",
+                "trend",
                 ""
               ]
             }
@@ -61,6 +83,7 @@
               "enum": [
                 ".",
                 "s",
+                "p",
                 "r",
                 ""
               ]
@@ -80,6 +103,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "organically farmed agricultural land",
+                "progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
             }

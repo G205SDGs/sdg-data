@@ -15,35 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "länder",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "baden-württemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
