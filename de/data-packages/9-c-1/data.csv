@@ -11,9 +11,10 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2019,3G,Deutschland,,,,,91.8
 2020,3G,Deutschland,,,,,88.9
 2021,3G,Deutschland,,|,,,25.8
-2022,3G,Deutschland,,-,,,
-2023,3G,Deutschland,,-,,,
-2024,3G,Deutschland,,-,,,
+2022,3G,Deutschland,,‒,,,
+2023,3G,Deutschland,,‒,,,
+2024,3G,Deutschland,,‒,,,
+2025,3G,Deutschland,,‒,,,
 2010,LTE,Deutschland,,,,,2.1
 2011,LTE,Deutschland,,,,,21.5
 2012,LTE,Deutschland,,,,,51.7
@@ -29,6 +30,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Deutschland,,,,,99.8
 2023,LTE,Deutschland,,,,,99.9
 2024,LTE,Deutschland,,,,,99.9
+2025,LTE,Deutschland,,,,,99.9
 2010,LTE,Baden-Württemberg,code08,.,,,
 2011,LTE,Baden-Württemberg,code08,.,,,
 2012,LTE,Baden-Württemberg,code08,.,,,
@@ -44,6 +46,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Baden-Württemberg,code08,,,,99.7
 2023,LTE,Baden-Württemberg,code08,,,,99.8
 2024,LTE,Baden-Württemberg,code08,,,,99.8
+2025,LTE,Baden-Württemberg,code08,,,,99.9
 2010,LTE,Bayern,code09,.,,,
 2011,LTE,Bayern,code09,.,,,
 2012,LTE,Bayern,code09,.,,,
@@ -59,6 +62,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Bayern,code09,,,,99.7
 2023,LTE,Bayern,code09,,,,99.8
 2024,LTE,Bayern,code09,,,,99.8
+2025,LTE,Bayern,code09,,,,99.9
 2010,LTE,Berlin,code11,.,,,
 2011,LTE,Berlin,code11,.,,,
 2012,LTE,Berlin,code11,.,,,
@@ -74,6 +78,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Berlin,code11,,,,100.0
 2023,LTE,Berlin,code11,,,,100.0
 2024,LTE,Berlin,code11,,,,100.0
+2025,LTE,Berlin,code11,,,,100.0
 2010,LTE,Brandenburg,code12,.,,,
 2011,LTE,Brandenburg,code12,.,,,
 2012,LTE,Brandenburg,code12,.,,,
@@ -89,6 +94,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Brandenburg,code12,,,,99.8
 2023,LTE,Brandenburg,code12,,,,99.9
 2024,LTE,Brandenburg,code12,,,,99.9
+2025,LTE,Brandenburg,code12,,,,100.0
 2010,LTE,Bremen,code04,.,,,
 2011,LTE,Bremen,code04,.,,,
 2012,LTE,Bremen,code04,.,,,
@@ -104,6 +110,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Bremen,code04,,,,100.0
 2023,LTE,Bremen,code04,,,,100.0
 2024,LTE,Bremen,code04,,,,100.0
+2025,LTE,Bremen,code04,,,,100.0
 2010,LTE,Hamburg,code02,.,,,
 2011,LTE,Hamburg,code02,.,,,
 2012,LTE,Hamburg,code02,.,,,
@@ -119,6 +126,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Hamburg,code02,,,,100.0
 2023,LTE,Hamburg,code02,,,,100.0
 2024,LTE,Hamburg,code02,,,,100.0
+2025,LTE,Hamburg,code02,,,,100.0
 2010,LTE,Hessen,code06,.,,,
 2011,LTE,Hessen,code06,.,,,
 2012,LTE,Hessen,code06,.,,,
@@ -134,6 +142,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Hessen,code06,,,,99.8
 2023,LTE,Hessen,code06,,,,99.9
 2024,LTE,Hessen,code06,,,,99.9
+2025,LTE,Hessen,code06,,,,99.9
 2010,LTE,Mecklenburg-Vorpommern,code13,.,,,
 2011,LTE,Mecklenburg-Vorpommern,code13,.,,,
 2012,LTE,Mecklenburg-Vorpommern,code13,.,,,
@@ -149,6 +158,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Mecklenburg-Vorpommern,code13,,,,99.9
 2023,LTE,Mecklenburg-Vorpommern,code13,,,,99.9
 2024,LTE,Mecklenburg-Vorpommern,code13,,,,99.9
+2025,LTE,Mecklenburg-Vorpommern,code13,,,,100.0
 2010,LTE,Niedersachsen,code03,.,,,
 2011,LTE,Niedersachsen,code03,.,,,
 2012,LTE,Niedersachsen,code03,.,,,
@@ -164,6 +174,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Niedersachsen,code03,,,,99.9
 2023,LTE,Niedersachsen,code03,,,,99.9
 2024,LTE,Niedersachsen,code03,,,,100.0
+2025,LTE,Niedersachsen,code03,,,,100.0
 2010,LTE,Nordrhein-Westfalen,code05,.,,,
 2011,LTE,Nordrhein-Westfalen,code05,.,,,
 2012,LTE,Nordrhein-Westfalen,code05,.,,,
@@ -179,6 +190,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Nordrhein-Westfalen,code05,,,,100.0
 2023,LTE,Nordrhein-Westfalen,code05,,,,100.0
 2024,LTE,Nordrhein-Westfalen,code05,,,,100.0
+2025,LTE,Nordrhein-Westfalen,code05,,,,100.0
 2010,LTE,Rheinland-Pfalz,code07,.,,,
 2011,LTE,Rheinland-Pfalz,code07,.,,,
 2012,LTE,Rheinland-Pfalz,code07,.,,,
@@ -194,6 +206,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Rheinland-Pfalz,code07,,,,99.7
 2023,LTE,Rheinland-Pfalz,code07,,,,99.8
 2024,LTE,Rheinland-Pfalz,code07,,,,99.8
+2025,LTE,Rheinland-Pfalz,code07,,,,99.9
 2010,LTE,Saarland,code10,.,,,
 2011,LTE,Saarland,code10,.,,,
 2012,LTE,Saarland,code10,.,,,
@@ -209,6 +222,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Saarland,code10,,,,99.8
 2023,LTE,Saarland,code10,,,,99.9
 2024,LTE,Saarland,code10,,,,100.0
+2025,LTE,Saarland,code10,,,,100.0
 2010,LTE,Sachsen,code14,.,,,
 2011,LTE,Sachsen,code14,.,,,
 2012,LTE,Sachsen,code14,.,,,
@@ -224,6 +238,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Sachsen,code14,,,,99.9
 2023,LTE,Sachsen,code14,,,,99.9
 2024,LTE,Sachsen,code14,,,,99.9
+2025,LTE,Sachsen,code14,,,,100.0
 2010,LTE,Sachsen-Anhalt,code15,.,,,
 2011,LTE,Sachsen-Anhalt,code15,.,,,
 2012,LTE,Sachsen-Anhalt,code15,.,,,
@@ -239,6 +254,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Sachsen-Anhalt,code15,,,,99.8
 2023,LTE,Sachsen-Anhalt,code15,,,,99.9
 2024,LTE,Sachsen-Anhalt,code15,,,,99.9
+2025,LTE,Sachsen-Anhalt,code15,,,,99.9
 2010,LTE,Schleswig-Holstein,code01,.,,,
 2011,LTE,Schleswig-Holstein,code01,.,,,
 2012,LTE,Schleswig-Holstein,code01,.,,,
@@ -254,6 +270,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Schleswig-Holstein,code01,,,,100.0
 2023,LTE,Schleswig-Holstein,code01,,,,100.0
 2024,LTE,Schleswig-Holstein,code01,,,,100.0
+2025,LTE,Schleswig-Holstein,code01,,,,100.0
 2010,LTE,Thüringen,code16,.,,,
 2011,LTE,Thüringen,code16,.,,,
 2012,LTE,Thüringen,code16,.,,,
@@ -269,6 +286,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,LTE,Thüringen,code16,,,,99.6
 2023,LTE,Thüringen,code16,,,,99.7
 2024,LTE,Thüringen,code16,,,,99.7
+2025,LTE,Thüringen,code16,,,,99.8
 2010,5G,Deutschland,,.,,,
 2011,5G,Deutschland,,.,,,
 2012,5G,Deutschland,,.,,,
@@ -284,6 +302,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Deutschland,,,,,74.6
 2023,5G,Deutschland,,,,,98.0
 2024,5G,Deutschland,,,,,99.2
+2025,5G,Deutschland,,,,,99.6
 2010,5G,Baden-Württemberg,code08,.,,,
 2011,5G,Baden-Württemberg,code08,.,,,
 2012,5G,Baden-Württemberg,code08,.,,,
@@ -299,6 +318,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Baden-Württemberg,code08,,,,64.6
 2023,5G,Baden-Württemberg,code08,,,,96.0
 2024,5G,Baden-Württemberg,code08,,,,98.1
+2025,5G,Baden-Württemberg,code08,,,,99.1
 2010,5G,Bayern,code09,.,,,
 2011,5G,Bayern,code09,.,,,
 2012,5G,Bayern,code09,.,,,
@@ -314,6 +334,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Bayern,code09,,,,75.7
 2023,5G,Bayern,code09,,,,98.4
 2024,5G,Bayern,code09,,,,99.3
+2025,5G,Bayern,code09,,,,99.6
 2010,5G,Berlin,code11,.,,,
 2011,5G,Berlin,code11,.,,,
 2012,5G,Berlin,code11,.,,,
@@ -329,6 +350,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Berlin,code11,,,,97.9
 2023,5G,Berlin,code11,,,,100.0
 2024,5G,Berlin,code11,,,,100.0
+2025,5G,Berlin,code11,,,,100.0
 2010,5G,Brandenburg,code12,.,,,
 2011,5G,Brandenburg,code12,.,,,
 2012,5G,Brandenburg,code12,.,,,
@@ -344,6 +366,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Brandenburg,code12,,,,72.5
 2023,5G,Brandenburg,code12,,,,97.8
 2024,5G,Brandenburg,code12,,,,99.2
+2025,5G,Brandenburg,code12,,,,99.6
 2010,5G,Bremen,code04,.,,,
 2011,5G,Bremen,code04,.,,,
 2012,5G,Bremen,code04,.,,,
@@ -359,6 +382,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Bremen,code04,,,,94.2
 2023,5G,Bremen,code04,,,,100.0
 2024,5G,Bremen,code04,,,,100.0
+2025,5G,Bremen,code04,,,,100.0
 2010,5G,Hamburg,code02,.,,,
 2011,5G,Hamburg,code02,.,,,
 2012,5G,Hamburg,code02,.,,,
@@ -374,6 +398,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Hamburg,code02,,,,96.7
 2023,5G,Hamburg,code02,,,,100.0
 2024,5G,Hamburg,code02,,,,100.0
+2025,5G,Hamburg,code02,,,,100.0
 2010,5G,Hessen,code06,.,,,
 2011,5G,Hessen,code06,.,,,
 2012,5G,Hessen,code06,.,,,
@@ -389,6 +414,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Hessen,code06,,,,59.3
 2023,5G,Hessen,code06,,,,97.4
 2024,5G,Hessen,code06,,,,98.7
+2025,5G,Hessen,code06,,,,99.3
 2010,5G,Mecklenburg-Vorpommern,code13,.,,,
 2011,5G,Mecklenburg-Vorpommern,code13,.,,,
 2012,5G,Mecklenburg-Vorpommern,code13,.,,,
@@ -404,6 +430,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Mecklenburg-Vorpommern,code13,,,,61.8
 2023,5G,Mecklenburg-Vorpommern,code13,,,,97.1
 2024,5G,Mecklenburg-Vorpommern,code13,,,,99.1
+2025,5G,Mecklenburg-Vorpommern,code13,,,,99.6
 2010,5G,Niedersachsen,code03,.,,,
 2011,5G,Niedersachsen,code03,.,,,
 2012,5G,Niedersachsen,code03,.,,,
@@ -419,6 +446,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Niedersachsen,code03,,,,71.2
 2023,5G,Niedersachsen,code03,,,,98.2
 2024,5G,Niedersachsen,code03,,,,99.3
+2025,5G,Niedersachsen,code03,,,,99.7
 2010,5G,Nordrhein-Westfalen,code05,.,,,
 2011,5G,Nordrhein-Westfalen,code05,.,,,
 2012,5G,Nordrhein-Westfalen,code05,.,,,
@@ -434,6 +462,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Nordrhein-Westfalen,code05,,,,83.8
 2023,5G,Nordrhein-Westfalen,code05,,,,99.4
 2024,5G,Nordrhein-Westfalen,code05,,,,99.7
+2025,5G,Nordrhein-Westfalen,code05,,,,99.9
 2010,5G,Rheinland-Pfalz,code07,.,,,
 2011,5G,Rheinland-Pfalz,code07,.,,,
 2012,5G,Rheinland-Pfalz,code07,.,,,
@@ -449,6 +478,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Rheinland-Pfalz,code07,,,,53.3
 2023,5G,Rheinland-Pfalz,code07,,,,95.8
 2024,5G,Rheinland-Pfalz,code07,,,,98.0
+2025,5G,Rheinland-Pfalz,code07,,,,99.0
 2010,5G,Saarland,code10,.,,,
 2011,5G,Saarland,code10,.,,,
 2012,5G,Saarland,code10,.,,,
@@ -464,6 +494,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Saarland,code10,,,,62.0
 2023,5G,Saarland,code10,,,,96.7
 2024,5G,Saarland,code10,,,,98.9
+2025,5G,Saarland,code10,,,,99.3
 2010,5G,Sachsen,code14,.,,,
 2011,5G,Sachsen,code14,.,,,
 2012,5G,Sachsen,code14,.,,,
@@ -479,6 +510,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Sachsen,code14,,,,85.7
 2023,5G,Sachsen,code14,,,,98.1
 2024,5G,Sachsen,code14,,,,99.5
+2025,5G,Sachsen,code14,,,,99.8
 2010,5G,Sachsen-Anhalt,code15,.,,,
 2011,5G,Sachsen-Anhalt,code15,.,,,
 2012,5G,Sachsen-Anhalt,code15,.,,,
@@ -494,6 +526,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Sachsen-Anhalt,code15,,,,67.0
 2023,5G,Sachsen-Anhalt,code15,,,,96.9
 2024,5G,Sachsen-Anhalt,code15,,,,99.3
+2025,5G,Sachsen-Anhalt,code15,,,,99.6
 2010,5G,Schleswig-Holstein,code01,.,,,
 2011,5G,Schleswig-Holstein,code01,.,,,
 2012,5G,Schleswig-Holstein,code01,.,,,
@@ -509,6 +542,7 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Schleswig-Holstein,code01,,,,69.9
 2023,5G,Schleswig-Holstein,code01,,,,98.9
 2024,5G,Schleswig-Holstein,code01,,,,99.5
+2025,5G,Schleswig-Holstein,code01,,,,99.8
 2010,5G,Thüringen,code16,.,,,
 2011,5G,Thüringen,code16,.,,,
 2012,5G,Thüringen,code16,.,,,
@@ -524,3 +558,4 @@ Year,Technologie,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2022,5G,Thüringen,code16,,,,75.5
 2023,5G,Thüringen,code16,,,,96.0
 2024,5G,Thüringen,code16,,,,98.3
+2025,5G,Thüringen,code16,,,,98.9

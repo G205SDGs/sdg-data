@@ -10,37 +10,40 @@ Year,Function,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,Health,,,,15.74
 2019,Health,,,,15.71
 2020,Health,,,,16.3
-2021,Health,,,,16.78
-2022,Health,p,,,16.96
-2023,Health,p,,,15.36
-2024,Health,p,,,15.38
-2010,Education,r,,,8.98
-2011,Education,r,,,9.35
+2021,Health,r,,,16.79
+2022,Health,p,,,16.98
+2023,Health,p,,,15.37
+2024,Health,p,,,15.39
+2025,Health,p,,,15.68
+2010,Education,r,,,8.99
+2011,Education,r,,,9.36
 2012,Education,,,,9.21
-2013,Education,r,,,9.35
-2014,Education,r,,,9.41
-2015,Education,r,,,9.36
-2016,Education,r,,,9.21
-2017,Education,r,,,9.21
-2018,Education,r,,,9.37
-2019,Education,r,,,9.44
+2013,Education,r,,,9.36
+2014,Education,r,,,9.4
+2015,Education,r,,,9.35
+2016,Education,r,,,9.2
+2017,Education,r,,,9.2
+2018,Education,r,,,9.36
+2019,Education,r,,,9.43
 2020,Education,,,,8.94
-2021,Education,,,,8.77
+2021,Education,r,,,8.78
 2022,Education,p,,,8.97
-2023,Education,p,,,9.24
+2023,Education,p,,,9.25
 2024,Education,p,,,9.09
+2025,Education,p,,,9.17
 2010,Social protection,,,,40.82
 2011,Social protection,,,,40.9
 2012,Social protection,,,,41.04
-2013,Social protection,r,,,41.14
-2014,Social protection,r,,,41.34
-2015,Social protection,r,,,42.04
-2016,Social protection,r,,,42.75
-2017,Social protection,r,,,42.71
-2018,Social protection,r,,,42.26
-2019,Social protection,r,,,42.19
-2020,Social protection,r,,,41.85
-2021,Social protection,,,,40.37
-2022,Social protection,p,,,40.82
+2013,Social protection,,,,41.14
+2014,Social protection,r,,,41.35
+2015,Social protection,r,,,42.05
+2016,Social protection,r,,,42.77
+2017,Social protection,r,,,42.72
+2018,Social protection,r,,,42.27
+2019,Social protection,r,,,42.2
+2020,Social protection,r,,,41.86
+2021,Social protection,r,,,40.38
+2022,Social protection,p,,,40.83
 2023,Social protection,p,,,40.58
-2024,Social protection,p,,,41.27
+2024,Social protection,p,,,41.28
+2025,Social protection,p,,,41.18

@@ -10,37 +10,40 @@ Year,Aufgabenbereich,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,Gesundheit,,,,15.74
 2019,Gesundheit,,,,15.71
 2020,Gesundheit,,,,16.3
-2021,Gesundheit,,,,16.78
-2022,Gesundheit,p,,,16.96
-2023,Gesundheit,p,,,15.36
-2024,Gesundheit,p,,,15.38
-2010,Bildung,r,,,8.98
-2011,Bildung,r,,,9.35
+2021,Gesundheit,r,,,16.79
+2022,Gesundheit,p,,,16.98
+2023,Gesundheit,p,,,15.37
+2024,Gesundheit,p,,,15.39
+2025,Gesundheit,p,,,15.68
+2010,Bildung,r,,,8.99
+2011,Bildung,r,,,9.36
 2012,Bildung,,,,9.21
-2013,Bildung,r,,,9.35
-2014,Bildung,r,,,9.41
-2015,Bildung,r,,,9.36
-2016,Bildung,r,,,9.21
-2017,Bildung,r,,,9.21
-2018,Bildung,r,,,9.37
-2019,Bildung,r,,,9.44
+2013,Bildung,r,,,9.36
+2014,Bildung,r,,,9.4
+2015,Bildung,r,,,9.35
+2016,Bildung,r,,,9.2
+2017,Bildung,r,,,9.2
+2018,Bildung,r,,,9.36
+2019,Bildung,r,,,9.43
 2020,Bildung,,,,8.94
-2021,Bildung,,,,8.77
+2021,Bildung,r,,,8.78
 2022,Bildung,p,,,8.97
-2023,Bildung,p,,,9.24
+2023,Bildung,p,,,9.25
 2024,Bildung,p,,,9.09
+2025,Bildung,p,,,9.17
 2010,Soziale Sicherung,,,,40.82
 2011,Soziale Sicherung,,,,40.9
 2012,Soziale Sicherung,,,,41.04
-2013,Soziale Sicherung,r,,,41.14
-2014,Soziale Sicherung,r,,,41.34
-2015,Soziale Sicherung,r,,,42.04
-2016,Soziale Sicherung,r,,,42.75
-2017,Soziale Sicherung,r,,,42.71
-2018,Soziale Sicherung,r,,,42.26
-2019,Soziale Sicherung,r,,,42.19
-2020,Soziale Sicherung,r,,,41.85
-2021,Soziale Sicherung,,,,40.37
-2022,Soziale Sicherung,p,,,40.82
+2013,Soziale Sicherung,,,,41.14
+2014,Soziale Sicherung,r,,,41.35
+2015,Soziale Sicherung,r,,,42.05
+2016,Soziale Sicherung,r,,,42.77
+2017,Soziale Sicherung,r,,,42.72
+2018,Soziale Sicherung,r,,,42.27
+2019,Soziale Sicherung,r,,,42.2
+2020,Soziale Sicherung,r,,,41.86
+2021,Soziale Sicherung,r,,,40.38
+2022,Soziale Sicherung,p,,,40.83
 2023,Soziale Sicherung,p,,,40.58
-2024,Soziale Sicherung,p,,,41.27
+2024,Soziale Sicherung,p,,,41.28
+2025,Soziale Sicherung,p,,,41.18

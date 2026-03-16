@@ -165,6 +165,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -172,7 +175,7 @@
             "type": "string"
           },
           {
-            "name": "area2",
+            "name": "'area '",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1001,10 +1004,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -2608,7 +2610,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
                 ""
               ]
@@ -4504,6 +4505,7 @@
             "constraints": {
               "enum": [
                 "…",
+                "r",
                 "p",
                 ""
               ]
@@ -5164,7 +5166,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
                 ""
               ]
@@ -5995,8 +5996,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 ".",
+                "r",
                 "|",
                 ""
               ]
@@ -6536,6 +6537,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "…",
                 "r",
                 ""
               ]
@@ -6871,7 +6873,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
                 ""
               ]
@@ -7308,6 +7309,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -7315,7 +7319,7 @@
             "type": "string"
           },
           {
-            "name": "area2",
+            "name": "'area '",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8164,7 +8168,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -8212,8 +8216,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
+                "…",
                 ""
               ]
             }
@@ -9984,6 +9989,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -9991,7 +9999,7 @@
             "type": "string"
           },
           {
-            "name": "area2",
+            "name": "'area '",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10139,8 +10147,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
-                "0",
                 "p",
                 ""
               ]
@@ -10148,10 +10154,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             }
@@ -10557,8 +10562,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ""
               ]
             }
@@ -12826,7 +12831,7 @@
             "constraints": {
               "enum": [
                 "agriculture, forestry and fishing",
-                "mimec",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (isic b, c, d and f)",
                 "services",
                 ""
               ]
@@ -14325,7 +14330,7 @@
             "constraints": {
               "enum": [
                 "|",
-                "-",
+                "‒",
                 ".",
                 ""
               ]

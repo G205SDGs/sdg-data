@@ -14,6 +14,7 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Data from NA from Federal Statistical Office,,p,,,16.4
 2023,Data from NA from Federal Statistical Office,,p,,,16.3
 2024,Data from NA from Federal Statistical Office,,p,,,16.1
+2025,Data from NA from Federal Statistical Office,,p,,,15.8
 2010,Data from LFS from Federal Statistical Office,,,,,20.0
 2011,Data from LFS from Federal Statistical Office,,,,,19.8
 2012,Data from LFS from Federal Statistical Office,,,,,19.7
@@ -29,6 +30,7 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Data from LFS from Federal Statistical Office,,,,,19.0
 2023,Data from LFS from Federal Statistical Office,,,,,18.3
 2024,Data from LFS from Federal Statistical Office,,,,,18.2
+2025,Data from LFS from Federal Statistical Office,,…,,,
 2010,Data from LFS from Federal Statistical Office,Female,,,,11.7
 2011,Data from LFS from Federal Statistical Office,Female,,,,11.6
 2012,Data from LFS from Federal Statistical Office,Female,,,,11.6
@@ -44,6 +46,7 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Data from LFS from Federal Statistical Office,Female,,,,11.0
 2023,Data from LFS from Federal Statistical Office,Female,r,,,10.2
 2024,Data from LFS from Federal Statistical Office,Female,,,,10.3
+2025,Data from LFS from Federal Statistical Office,Female,…,,,
 2010,Data from LFS from Federal Statistical Office,Male,,,,27.1
 2011,Data from LFS from Federal Statistical Office,Male,,,,26.9
 2012,Data from LFS from Federal Statistical Office,Male,,,,26.7
@@ -59,3 +62,4 @@ Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Data from LFS from Federal Statistical Office,Male,,,,26.1
 2023,Data from LFS from Federal Statistical Office,Male,r,,,25.3
 2024,Data from LFS from Federal Statistical Office,Male,,,,25.2
+2025,Data from LFS from Federal Statistical Office,Male,…,,,

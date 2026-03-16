@@ -25,19 +25,19 @@ Year,Units,Economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Va
 2020,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,-36.6
 2021,Percentage,"Agriculture, forestry and fishing",s,,,Change in water-use efficiency,65.5
 2022,Percentage,"Agriculture, forestry and fishing",,,,Change in water-use efficiency,29.3
-2010,Percentage,MIMEC,.,,,Change in water-use efficiency,
-2011,Percentage,MIMEC,s,,,Change in water-use efficiency,13.4
-2012,Percentage,MIMEC,s,,,Change in water-use efficiency,10.8
-2013,Percentage,MIMEC,,,,Change in water-use efficiency,8.0
-2014,Percentage,MIMEC,s,,,Change in water-use efficiency,6.2
-2015,Percentage,MIMEC,s,,,Change in water-use efficiency,4.7
-2016,Percentage,MIMEC,,,,Change in water-use efficiency,6.7
-2017,Percentage,MIMEC,s,,,Change in water-use efficiency,11.4
-2018,Percentage,MIMEC,s,,,Change in water-use efficiency,10.2
-2019,Percentage,MIMEC,,,,Change in water-use efficiency,10.7
-2020,Percentage,MIMEC,s,,,Change in water-use efficiency,1.4
-2021,Percentage,MIMEC,s,,,Change in water-use efficiency,12.7
-2022,Percentage,MIMEC,,,,Change in water-use efficiency,15.8
+2010,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",.,,,Change in water-use efficiency,
+2011,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Change in water-use efficiency,13.4
+2012,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Change in water-use efficiency,10.8
+2013,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Change in water-use efficiency,8.0
+2014,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Change in water-use efficiency,6.2
+2015,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Change in water-use efficiency,4.7
+2016,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Change in water-use efficiency,6.7
+2017,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Change in water-use efficiency,11.4
+2018,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Change in water-use efficiency,10.2
+2019,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Change in water-use efficiency,10.7
+2020,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Change in water-use efficiency,1.4
+2021,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Change in water-use efficiency,12.7
+2022,Percentage,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Change in water-use efficiency,15.8
 2010,Percentage,Services,.,,,Change in water-use efficiency,
 2011,Percentage,Services,s,,,Change in water-use efficiency,4.5
 2012,Percentage,Services,s,,,Change in water-use efficiency,2.2
@@ -77,19 +77,19 @@ Year,Units,Economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Va
 2020,Euro per m³,"Agriculture, forestry and fishing",s,,,Water-use efficiency,2.6
 2021,Euro per m³,"Agriculture, forestry and fishing",s,,,Water-use efficiency,4.3
 2022,Euro per m³,"Agriculture, forestry and fishing",,,,Water-use efficiency,5.5
-2010,Euro per m³,MIMEC,,,,Water-use efficiency,25.6
-2011,Euro per m³,MIMEC,s,,,Water-use efficiency,29.0
-2012,Euro per m³,MIMEC,s,,,Water-use efficiency,32.1
-2013,Euro per m³,MIMEC,,,,Water-use efficiency,34.7
-2014,Euro per m³,MIMEC,s,,,Water-use efficiency,36.8
-2015,Euro per m³,MIMEC,s,,,Water-use efficiency,38.5
-2016,Euro per m³,MIMEC,,,,Water-use efficiency,41.1
-2017,Euro per m³,MIMEC,s,,,Water-use efficiency,45.8
-2018,Euro per m³,MIMEC,s,,,Water-use efficiency,50.4
-2019,Euro per m³,MIMEC,,,,Water-use efficiency,55.9
-2020,Euro per m³,MIMEC,s,,,Water-use efficiency,56.6
-2021,Euro per m³,MIMEC,s,,,Water-use efficiency,63.8
-2022,Euro per m³,MIMEC,,,,Water-use efficiency,73.9
+2010,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water-use efficiency,25.6
+2011,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Water-use efficiency,29.0
+2012,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Water-use efficiency,32.1
+2013,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water-use efficiency,34.7
+2014,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Water-use efficiency,36.8
+2015,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Water-use efficiency,38.5
+2016,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water-use efficiency,41.1
+2017,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Water-use efficiency,45.8
+2018,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Water-use efficiency,50.4
+2019,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water-use efficiency,55.9
+2020,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Water-use efficiency,56.6
+2021,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",s,,,Water-use efficiency,63.8
+2022,Euro per m³,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water-use efficiency,73.9
 2010,Euro per m³,Services,,,,Water-use efficiency,289.6
 2011,Euro per m³,Services,s,,,Water-use efficiency,302.8
 2012,Euro per m³,Services,s,,,Water-use efficiency,309.4

@@ -9,10 +9,11 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2017,Millionen Personenkilometer,,,,,Personenverkehr,1155136
 2018,Millionen Personenkilometer,,,,,Personenverkehr,1161885
 2019,Millionen Personenkilometer,,,,,Personenverkehr,1170186
-2020,Millionen Personenkilometer,,,,,Personenverkehr,921937
-2021,Millionen Personenkilometer,,,,,Personenverkehr,962304
-2022,Millionen Personenkilometer,,,,,Personenverkehr,1069104
-2023,Millionen Personenkilometer,,p,,,Personenverkehr,1105351
+2020,Millionen Personenkilometer,,p,,,Personenverkehr,921937
+2021,Millionen Personenkilometer,,p,,,Personenverkehr,962304
+2022,Millionen Personenkilometer,,p,,,Personenverkehr,1068651
+2023,Millionen Personenkilometer,,p,,,Personenverkehr,1102307
+2024,Millionen Personenkilometer,,p,,,Personenverkehr,1122744
 2010,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,78092
 2011,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,77957
 2012,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,76019
@@ -23,10 +24,11 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2017,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,79730
 2018,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,80103
 2019,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,78919
-2020,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,45741
-2021,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,45425
-2022,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,61040
-2023,Millionen Personenkilometer,Straßenverkehr,p,,,Personenverkehr,66639
+2020,Millionen Personenkilometer,Straßenverkehr,p,,,Personenverkehr,45741
+2021,Millionen Personenkilometer,Straßenverkehr,p,,,Personenverkehr,45425
+2022,Millionen Personenkilometer,Straßenverkehr,p,,,Personenverkehr,60576
+2023,Millionen Personenkilometer,Straßenverkehr,p,,,Personenverkehr,65829
+2024,Millionen Personenkilometer,Straßenverkehr,p,,,Personenverkehr,68917
 2010,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,83886
 2011,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,85414
 2012,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,88795
@@ -37,10 +39,11 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2017,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,95530
 2018,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,98061
 2019,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,102026
-2020,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,58823
-2021,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,57553
-2022,Millionen Personenkilometer,Eisenbahnverkehr,,,,Personenverkehr,94286
-2023,Millionen Personenkilometer,Eisenbahnverkehr,p,,,Personenverkehr,104227
+2020,Millionen Personenkilometer,Eisenbahnverkehr,p,,,Personenverkehr,58823
+2021,Millionen Personenkilometer,Eisenbahnverkehr,p,,,Personenverkehr,57553
+2022,Millionen Personenkilometer,Eisenbahnverkehr,p,,,Personenverkehr,94297
+2023,Millionen Personenkilometer,Eisenbahnverkehr,p,,,Personenverkehr,104144
+2024,Millionen Personenkilometer,Eisenbahnverkehr,p,,,Personenverkehr,109753
 2010,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,52822
 2011,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,55215
 2012,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,56180
@@ -51,10 +54,11 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2017,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,67523
 2018,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,70445
 2019,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,71841
-2020,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,18704
-2021,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,23378
-2022,Millionen Personenkilometer,Luftverkehr,,,,Personenverkehr,48303
-2023,Millionen Personenkilometer,Luftverkehr,p,,,Personenverkehr,57290
+2020,Millionen Personenkilometer,Luftverkehr,p,,,Personenverkehr,18704
+2021,Millionen Personenkilometer,Luftverkehr,p,,,Personenverkehr,23378
+2022,Millionen Personenkilometer,Luftverkehr,p,,,Personenverkehr,48303
+2023,Millionen Personenkilometer,Luftverkehr,p,,,Personenverkehr,57598
+2024,Millionen Personenkilometer,Luftverkehr,p,,,Personenverkehr,61827
 2010,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,902440
 2011,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,912417
 2012,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,914563
@@ -65,10 +69,11 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2017,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,912353
 2018,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,913276
 2019,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,917400
-2020,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,798669
-2021,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,835948
-2022,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,865475
-2023,Millionen Personenkilometer,Motorisierter Individualverkehr,p,,,Personenverkehr,877195
+2020,Millionen Personenkilometer,Motorisierter Individualverkehr,p,,,Personenverkehr,798669
+2021,Millionen Personenkilometer,Motorisierter Individualverkehr,p,,,Personenverkehr,835948
+2022,Millionen Personenkilometer,Motorisierter Individualverkehr,p,,,Personenverkehr,865475
+2023,Millionen Personenkilometer,Motorisierter Individualverkehr,p,,,Personenverkehr,874736
+2024,Millionen Personenkilometer,Motorisierter Individualverkehr,p,,,Personenverkehr,882247
 2010,Millionen Tonnenkilometer,,,,,Güterverkehr,627882
 2011,Millionen Tonnenkilometer,,,,,Güterverkehr,628047
 2012,Millionen Tonnenkilometer,,,,,Güterverkehr,618179
@@ -83,6 +88,7 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2021,Millionen Tonnenkilometer,,,,,Güterverkehr,712443
 2022,Millionen Tonnenkilometer,,,,,Güterverkehr,710911
 2023,Millionen Tonnenkilometer,,,,,Güterverkehr,675473
+2024,Millionen Tonnenkilometer,,,,,Güterverkehr,671136
 2010,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,440600
 2011,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,442600
 2012,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,432000
@@ -95,8 +101,9 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2019,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,498600
 2020,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,487400
 2021,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,505700
-2022,Millionen Tonnenkilometer,Straßenverkehr,p,,,Güterverkehr,503100
+2022,Millionen Tonnenkilometer,Straßenverkehr,,,,Güterverkehr,503100
 2023,Millionen Tonnenkilometer,Straßenverkehr,p,,,Güterverkehr,480700
+2024,Millionen Tonnenkilometer,Straßenverkehr,p,,,Güterverkehr,474500
 2010,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,107317
 2011,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,113317
 2012,Millionen Tonnenkilometer,Eisenbahnverkehr,,,,Güterverkehr,110065

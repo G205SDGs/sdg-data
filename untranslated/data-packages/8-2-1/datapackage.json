@@ -19,8 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
-                "0",
                 "p",
                 ""
               ]
@@ -28,10 +26,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             }

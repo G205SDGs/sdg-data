@@ -25,19 +25,19 @@ Year,Units,Wirtschaftszweig,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Val
 2020,Prozent,"Land- und Forstwirtschaft, Fischerei",s,,,Veränderung der Wassernutzungseffizienz,-36.6
 2021,Prozent,"Land- und Forstwirtschaft, Fischerei",s,,,Veränderung der Wassernutzungseffizienz,65.5
 2022,Prozent,"Land- und Forstwirtschaft, Fischerei",,,,Veränderung der Wassernutzungseffizienz,29.3
-2010,Prozent,MIMEC,.,,,Veränderung der Wassernutzungseffizienz,
-2011,Prozent,MIMEC,s,,,Veränderung der Wassernutzungseffizienz,13.4
-2012,Prozent,MIMEC,s,,,Veränderung der Wassernutzungseffizienz,10.8
-2013,Prozent,MIMEC,,,,Veränderung der Wassernutzungseffizienz,8.0
-2014,Prozent,MIMEC,s,,,Veränderung der Wassernutzungseffizienz,6.2
-2015,Prozent,MIMEC,s,,,Veränderung der Wassernutzungseffizienz,4.7
-2016,Prozent,MIMEC,,,,Veränderung der Wassernutzungseffizienz,6.7
-2017,Prozent,MIMEC,s,,,Veränderung der Wassernutzungseffizienz,11.4
-2018,Prozent,MIMEC,s,,,Veränderung der Wassernutzungseffizienz,10.2
-2019,Prozent,MIMEC,,,,Veränderung der Wassernutzungseffizienz,10.7
-2020,Prozent,MIMEC,s,,,Veränderung der Wassernutzungseffizienz,1.4
-2021,Prozent,MIMEC,s,,,Veränderung der Wassernutzungseffizienz,12.7
-2022,Prozent,MIMEC,,,,Veränderung der Wassernutzungseffizienz,15.8
+2010,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",.,,,Veränderung der Wassernutzungseffizienz,
+2011,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Veränderung der Wassernutzungseffizienz,13.4
+2012,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Veränderung der Wassernutzungseffizienz,10.8
+2013,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Veränderung der Wassernutzungseffizienz,8.0
+2014,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Veränderung der Wassernutzungseffizienz,6.2
+2015,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Veränderung der Wassernutzungseffizienz,4.7
+2016,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Veränderung der Wassernutzungseffizienz,6.7
+2017,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Veränderung der Wassernutzungseffizienz,11.4
+2018,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Veränderung der Wassernutzungseffizienz,10.2
+2019,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Veränderung der Wassernutzungseffizienz,10.7
+2020,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Veränderung der Wassernutzungseffizienz,1.4
+2021,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Veränderung der Wassernutzungseffizienz,12.7
+2022,Prozent,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Veränderung der Wassernutzungseffizienz,15.8
 2010,Prozent,Dienstleistungen,.,,,Veränderung der Wassernutzungseffizienz,
 2011,Prozent,Dienstleistungen,s,,,Veränderung der Wassernutzungseffizienz,4.5
 2012,Prozent,Dienstleistungen,s,,,Veränderung der Wassernutzungseffizienz,2.2
@@ -77,19 +77,19 @@ Year,Units,Wirtschaftszweig,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Val
 2020,Euro pro m³,"Land- und Forstwirtschaft, Fischerei",s,,,Wassernutzungseffizienz,2.6
 2021,Euro pro m³,"Land- und Forstwirtschaft, Fischerei",s,,,Wassernutzungseffizienz,4.3
 2022,Euro pro m³,"Land- und Forstwirtschaft, Fischerei",,,,Wassernutzungseffizienz,5.5
-2010,Euro pro m³,MIMEC,,,,Wassernutzungseffizienz,25.6
-2011,Euro pro m³,MIMEC,s,,,Wassernutzungseffizienz,29.0
-2012,Euro pro m³,MIMEC,s,,,Wassernutzungseffizienz,32.1
-2013,Euro pro m³,MIMEC,,,,Wassernutzungseffizienz,34.7
-2014,Euro pro m³,MIMEC,s,,,Wassernutzungseffizienz,36.8
-2015,Euro pro m³,MIMEC,s,,,Wassernutzungseffizienz,38.5
-2016,Euro pro m³,MIMEC,,,,Wassernutzungseffizienz,41.1
-2017,Euro pro m³,MIMEC,s,,,Wassernutzungseffizienz,45.8
-2018,Euro pro m³,MIMEC,s,,,Wassernutzungseffizienz,50.4
-2019,Euro pro m³,MIMEC,,,,Wassernutzungseffizienz,55.9
-2020,Euro pro m³,MIMEC,s,,,Wassernutzungseffizienz,56.6
-2021,Euro pro m³,MIMEC,s,,,Wassernutzungseffizienz,63.8
-2022,Euro pro m³,MIMEC,,,,Wassernutzungseffizienz,73.9
+2010,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wassernutzungseffizienz,25.6
+2011,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Wassernutzungseffizienz,29.0
+2012,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Wassernutzungseffizienz,32.1
+2013,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wassernutzungseffizienz,34.7
+2014,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Wassernutzungseffizienz,36.8
+2015,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Wassernutzungseffizienz,38.5
+2016,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wassernutzungseffizienz,41.1
+2017,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Wassernutzungseffizienz,45.8
+2018,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Wassernutzungseffizienz,50.4
+2019,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wassernutzungseffizienz,55.9
+2020,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Wassernutzungseffizienz,56.6
+2021,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",s,,,Wassernutzungseffizienz,63.8
+2022,Euro pro m³,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wassernutzungseffizienz,73.9
 2010,Euro pro m³,Dienstleistungen,,,,Wassernutzungseffizienz,289.6
 2011,Euro pro m³,Dienstleistungen,s,,,Wassernutzungseffizienz,302.8
 2012,Euro pro m³,Dienstleistungen,s,,,Wassernutzungseffizienz,309.4

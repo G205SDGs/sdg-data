@@ -8,6 +8,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -15,7 +18,7 @@
             "type": "string"
           },
           {
-            "name": "area2",
+            "name": "'area '",
             "type": "string",
             "constraints": {
               "enum": [

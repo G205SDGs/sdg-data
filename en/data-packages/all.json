@@ -188,7 +188,7 @@
             "title": "Year"
           },
           {
-            "name": "area2",
+            "name": "'area '",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1095,10 +1095,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -2854,7 +2853,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
                 ""
               ]
@@ -4931,6 +4929,7 @@
             "constraints": {
               "enum": [
                 "…",
+                "r",
                 "p",
                 ""
               ]
@@ -5652,7 +5651,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
                 ""
               ]
@@ -6563,8 +6561,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 ".",
+                "r",
                 "|",
                 ""
               ]
@@ -7155,6 +7153,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "…",
                 "r",
                 ""
               ]
@@ -7521,7 +7520,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
                 ""
               ]
@@ -8008,7 +8006,7 @@
             "title": "Year"
           },
           {
-            "name": "area2",
+            "name": "'area '",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8937,7 +8935,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -8988,8 +8986,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
+                "…",
                 ""
               ]
             },
@@ -10938,7 +10937,7 @@
             "title": "Year"
           },
           {
-            "name": "area2",
+            "name": "'area '",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11099,8 +11098,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
-                "0",
                 "p",
                 ""
               ]
@@ -11109,10 +11106,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             },
@@ -11557,8 +11553,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ""
               ]
             },
@@ -14045,7 +14041,7 @@
             "constraints": {
               "enum": [
                 "Agriculture, forestry and fishing",
-                "MIMEC",
+                "Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",
                 "Services",
                 ""
               ]
@@ -15687,7 +15683,7 @@
             "constraints": {
               "enum": [
                 "|",
-                "-",
+                "‒",
                 ".",
                 ""
               ]

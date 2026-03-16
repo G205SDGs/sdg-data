@@ -31,7 +31,7 @@
             "constraints": {
               "enum": [
                 "agriculture, forestry and fishing",
-                "mimec",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (isic b, c, d and f)",
                 "services",
                 ""
               ]
