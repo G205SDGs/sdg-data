@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,23 +16,41 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "type of water body",
             "type": "string",
             "constraints": {
               "enum": [
-                "Flowing water with good ecological status for total phosphorous",
-                "Groundwater mesuring points below the threshold value for nitrate",
+                "Running waters",
+                "Lakes",
+                "Water bodies in transitional and coastal waters - North sea",
+                "Water bodies in transitional and coastal waters - Baltic sea",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Type of water body"
+          },
+          {
+            "name": "status class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unclear",
+                "Bad",
+                "Poor",
+                "Moderate",
+                "Good or very good",
+                ""
+              ]
+            },
+            "title": "Status class"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                ".",
+                "‒",
                 ""
               ]
             },

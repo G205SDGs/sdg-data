@@ -20,16 +20,48 @@
             "constraints": {
               "enum": [
                 "yes=1, no=0",
-                "number",
+                "cumulative number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "'time series '",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "[a] germany as receiver",
+                "[b] germany as provider",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of receiver/provider",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commercial company",
+                "gene bank",
+                "national agricultural research centre",
+                "non-governmental organization",
+                "other",
+                "university",
+                "individual",
+                "increase project",
+                "unknown",
+                "regional organization",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
+                "‒",
                 ""
               ]
             }
@@ -57,11 +89,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) contracting party to the international treaty on pgrfa",
-                "2) contracting party to the nagoya protocol",
-                "3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa",
-                "4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house",
-                "5) total reported number of smtas transferring pgrfa to germany",
+                "(1) contracting party to the itpgrfa",
+                "(2) contracting party to the nagoya protocol",
+                "(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa",
+                "(4) existence of framework or measures reported to the access and benefit-sharing clearing-house",
+                "(5) standard material transfer agreements (smtas)",
                 ""
               ]
             }

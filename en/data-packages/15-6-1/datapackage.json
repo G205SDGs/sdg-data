@@ -21,17 +21,51 @@
             "constraints": {
               "enum": [
                 "yes=1, no=0",
-                "Number",
+                "Cumulative number",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "'time series '",
+            "type": "string",
             "constraints": {
               "enum": [
+                "[a] Germany as receiver",
+                "[b] Germany as provider",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "type of receiver/provider",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commercial company",
+                "Gene bank",
+                "National agricultural research centre",
+                "Non-governmental organization",
+                "Other",
+                "University",
+                "Individual",
+                "INCREASE project",
+                "Unknown",
+                "Regional organization",
+                ""
+              ]
+            },
+            "title": "Type of receiver/provider"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "‒",
                 ""
               ]
             },
@@ -62,11 +96,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Contracting party to the International Treaty on PGRFA",
-                "2) Contracting party to the Nagoya Protocol",
-                "3) Existence of legislative, administrative and policy frameworks or measures reported through the Online Reporting System on Compliance with the International Treaty on PGRFA",
-                "4) Existence of legislative, administrative and policy framework or measures reported to the ABS Clearing-House",
-                "5) Total reported number of SMTAs transferring PGRFA to Germany",
+                "(1) Contracting Party to the ITPGRFA",
+                "(2) Contracting party to the Nagoya Protocol",
+                "(3) Existence of framework or measures reported through the Online Reporting System on Compliance of the ITPGRFA",
+                "(4) Existence of framework or measures reported to the Access and Benefit-Sharing Clearing-House",
+                "(5) Standard Material Transfer Agreements (SMTAs)",
                 ""
               ]
             },

@@ -6222,17 +6222,51 @@
             "constraints": {
               "enum": [
                 "ja=1, nein=0",
-                "Anzahl",
+                "Kumulierte Anzahl",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "'time series '",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Deutschland als Empfänger",
+                "Deutschland als Bereitsteller",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "type of receiver/provider",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kommerzielles Unternehmen",
+                "Genbank",
+                "Nationales Agrarforschungszentrum",
+                "Nichtregierungsorganisation",
+                "Sonstige",
+                "Universität",
+                "Einzelperson",
+                "INCREASE-Projekt",
+                "Unbekannt",
+                "Regionale Organisation",
+                ""
+              ]
+            },
+            "title": "Art des Empfängers/Bereitstellers"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "‒",
                 ""
               ]
             },
@@ -6263,11 +6297,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Vertragspartei des Internationalen Vertrags über PGRFA",
+                "1) Vertragspartei des ITPGRFA",
                 "2) Vertragspartei des Nagoya-Protokolls",
-                "3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-                "4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",
-                "5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
+                "3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",
+                "4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",
+                "5) Standardisierte Materialübertragungs-vereinbarungen",
                 ""
               ]
             },
@@ -7366,7 +7400,7 @@
             "constraints": {
               "enum": [
                 "Wasserentnahme",
-                "Wasserentnahme der Sektoren",
+                "Frischwasserentnahme nach Wirtschaftszweig",
                 ""
               ]
             },
@@ -11334,23 +11368,41 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "type of water body",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor",
-                "Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat",
+                "Fließgewässer",
+                "Seen",
+                "Übergangs- und Küstengewässer - Nordsee",
+                "Übergangs- und Küstengewässer - Ostsee",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art des Wasserkörpers"
+          },
+          {
+            "name": "status class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unklar",
+                "Schlecht",
+                "Unbefriedigend",
+                "Mäßig",
+                "Gut oder sehr gut",
+                ""
+              ]
+            },
+            "title": "Zustandsklasse"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                ".",
+                "‒",
                 ""
               ]
             },

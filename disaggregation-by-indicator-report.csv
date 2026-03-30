@@ -50,6 +50,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-2-1,"COMMENT_OBS_0, type of biomass",2
 #15-4-1,"COMMENT_OBS_0, timeseries",2
 #15-4-2,"COMMENT_OBS_0, land cover class, bioclimatic belt",3
+#15-6-1,"COMMENT_OBS_0, 'time series ', type of receiver/provider",3
 #15-7-1,COMMENT_OBS_0,1
 #15-a-1,"COMMENT_OBS_0, timeseries",2
 #15-b-1,"COMMENT_OBS_0, timeseries",2
@@ -144,7 +145,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-1-1,COMMENT_OBS_0,1
 #6-2-1,"COMMENT_OBS_0, COMMENT_OBS_1, timeseries, availability",4
 #6-3-1,"COMMENT_OBS_0, type of waste water, treatment",3
-#6-3-2,"COMMENT_OBS_0, timeseries",2
+#6-3-2,"COMMENT_OBS_0, type of water body, status class",3
 #6-4-1,"COMMENT_OBS_0, economic activity",2
 #6-4-2,economic activity,1
 #6-5-1,section,1

@@ -1,31 +1,51 @@
-Year,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,31.3
-2011,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,36.9
-2012,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,34.7
-2013,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,35.3
-2014,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,33.6
-2015,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,30.0
-2016,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,36.9
-2017,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,34.8
-2018,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,43.7
-2019,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,41.6
-2020,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,41.7
-2021,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,43.4
-2022,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,42.7
-2023,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,,,41.8
-2024,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,…,,,
-2010,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,81.7
-2011,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,82.0
-2012,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,81.0
-2013,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,81.4
-2014,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,81.8
-2015,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,81.0
-2016,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,81.8
-2017,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,83.1
-2018,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,82.7
-2019,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,84.2
-2020,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,84.1
-2021,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,84.0
-2022,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,84.0
-2023,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,85.0
-2024,Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat,,,,84.3
+Year,Art des Wasserkörpers,Zustandsklasse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2015,Fließgewässer,Unklar,,,,2.8
+2021,Fließgewässer,Unklar,,,,1.7
+2015,Fließgewässer,Schlecht,,,,19.9
+2021,Fließgewässer,Schlecht,,,,19.1
+2015,Fließgewässer,Unbefriedigend,,,,34.4
+2021,Fließgewässer,Unbefriedigend,,,,34.9
+2015,Fließgewässer,Mäßig,,,,36.2
+2021,Fließgewässer,Mäßig,,,,36.3
+2015,Fließgewässer,Gut oder sehr gut,,,,6.7
+2021,Fließgewässer,Gut oder sehr gut,,,,8.0
+2015,Seen,Unklar,,,,2.9
+2021,Seen,Unklar,,,,4.0
+2015,Seen,Schlecht,,,,10.5
+2021,Seen,Schlecht,,,,9.4
+2015,Seen,Unbefriedigend,,,,26.2
+2021,Seen,Unbefriedigend,,,,25.8
+2015,Seen,Mäßig,,,,34.0
+2021,Seen,Mäßig,,,,36.1
+2015,Seen,Gut oder sehr gut,,,,26.4
+2021,Seen,Gut oder sehr gut,,,,24.7
+2010,Übergangs- und Küstengewässer - Nordsee,Unklar,.,,,0.0
+2015,Übergangs- und Küstengewässer - Nordsee,Unklar,,,,14.0
+2021,Übergangs- und Küstengewässer - Nordsee,Unklar,,,,0.0
+2010,Übergangs- und Küstengewässer - Nordsee,Schlecht,,,,4.0
+2015,Übergangs- und Küstengewässer - Nordsee,Schlecht,,,,11.0
+2021,Übergangs- und Küstengewässer - Nordsee,Schlecht,,,,14.0
+2010,Übergangs- und Küstengewässer - Nordsee,Unbefriedigend,,,,32.0
+2015,Übergangs- und Küstengewässer - Nordsee,Unbefriedigend,,,,31.0
+2021,Übergangs- und Küstengewässer - Nordsee,Unbefriedigend,,,,32.0
+2010,Übergangs- und Küstengewässer - Nordsee,Mäßig,,,,64.0
+2015,Übergangs- und Küstengewässer - Nordsee,Mäßig,,,,44.0
+2021,Übergangs- und Küstengewässer - Nordsee,Mäßig,,,,54.0
+2010,Übergangs- und Küstengewässer - Nordsee,Gut oder sehr gut,‒,,,0.0
+2015,Übergangs- und Küstengewässer - Nordsee,Gut oder sehr gut,‒,,,0.0
+2021,Übergangs- und Küstengewässer - Nordsee,Gut oder sehr gut,‒,,,0.0
+2010,Übergangs- und Küstengewässer - Ostsee,Unklar,‒,,,0.0
+2015,Übergangs- und Küstengewässer - Ostsee,Unklar,,,,4.0
+2021,Übergangs- und Küstengewässer - Ostsee,Unklar,‒,,,0.0
+2010,Übergangs- und Küstengewässer - Ostsee,Schlecht,,,,16.0
+2015,Übergangs- und Küstengewässer - Ostsee,Schlecht,,,,32.0
+2021,Übergangs- und Küstengewässer - Ostsee,Schlecht,,,,27.0
+2010,Übergangs- und Küstengewässer - Ostsee,Unbefriedigend,,,,50.0
+2015,Übergangs- und Küstengewässer - Ostsee,Unbefriedigend,,,,32.0
+2021,Übergangs- und Küstengewässer - Ostsee,Unbefriedigend,,,,40.0
+2010,Übergangs- und Küstengewässer - Ostsee,Mäßig,,,,32.0
+2015,Übergangs- und Küstengewässer - Ostsee,Mäßig,,,,32.0
+2021,Übergangs- und Küstengewässer - Ostsee,Mäßig,,,,33.0
+2010,Übergangs- und Küstengewässer - Ostsee,Gut oder sehr gut,,,,2.0
+2015,Übergangs- und Küstengewässer - Ostsee,Gut oder sehr gut,‒,,,0.0
+2021,Übergangs- und Küstengewässer - Ostsee,Gut oder sehr gut,‒,,,0.0

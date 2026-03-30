@@ -1,25 +1,33 @@
 Year,Value,Units,Series
-2010,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2011,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2012,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2013,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2014,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2015,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2016,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2017,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2018,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2019,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2020,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2021,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2022,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2023,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2024,1.0,"ja=1, nein=0",1) Vertragspartei des Internationalen Vertrags über PGRFA
-2010,,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
-2011,,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
-2012,,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
-2013,,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
-2014,,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
-2015,,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2007,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2008,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2009,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2010,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2011,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2012,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2013,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2014,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2015,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2016,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2017,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2018,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2019,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2020,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2021,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2022,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2023,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2024,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2025,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2026,1.0,"ja=1, nein=0",1) Vertragspartei des ITPGRFA
+2007,,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2008,,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2009,,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2010,0.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2011,0.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2012,0.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2013,0.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2014,0.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2015,0.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
 2016,1.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
 2017,1.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
 2018,1.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
@@ -29,48 +37,45 @@ Year,Value,Units,Series
 2022,1.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
 2023,1.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
 2024,1.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
-2010,,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2011,,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2012,,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2013,,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2014,,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2015,,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2016,1.0,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2017,1.0,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2018,1.0,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2019,1.0,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2020,1.0,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2021,1.0,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2022,1.0,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2023,1.0,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2024,1.0,"ja=1, nein=0","3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden"
-2010,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2011,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2012,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2013,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2014,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2015,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2016,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2017,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2018,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2019,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2020,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2021,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2022,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2023,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2024,1.0,"ja=1, nein=0","4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden"
-2010,,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2011,,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2012,3898.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2013,5012.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2014,6068.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2015,7292.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2016,8347.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2017,8728.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2018,9120.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2019,9711.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2020,10239.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2021,10797.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2022,11332.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2023,11821.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
-2024,12338.0,Anzahl,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden"
+2025,1.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2026,1.0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2007,,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2008,,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2009,,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2010,0.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2011,0.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2012,0.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2013,0.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2014,0.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2015,0.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2016,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2017,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2018,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2019,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2020,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2021,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2022,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2023,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2024,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2025,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2026,1.0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden"
+2007,,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2008,,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2009,,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2010,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2011,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2012,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2013,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2014,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2015,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2016,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2017,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2018,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2019,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2020,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2021,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2022,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2023,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2024,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2025,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2026,1.0,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"

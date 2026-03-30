@@ -1,76 +1,421 @@
-Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2010,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2011,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2012,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2013,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2014,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2015,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2016,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2017,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2018,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2019,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2020,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2021,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2022,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2023,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2024,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2010,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2011,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2012,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2013,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2014,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2015,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2016,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2017,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2018,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2019,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2020,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2021,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2022,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2023,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2024,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2010,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2011,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2012,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2013,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2014,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2015,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2016,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2017,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2018,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2019,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2020,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2021,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2022,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2023,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2024,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2010,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2011,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2012,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2013,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2014,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2015,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2016,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2017,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2018,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2019,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2020,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2021,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2022,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2023,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2024,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2010,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
-2011,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
-2012,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3898.0
-2013,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5012.0
-2014,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6068.0
-2015,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",7292.0
-2016,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",8347.0
-2017,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",8728.0
-2018,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9120.0
-2019,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9711.0
-2020,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",10239.0
-2021,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",10797.0
-2022,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",11332.0
-2023,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",11821.0
-2024,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",12338.0
+Year,Units,Zeitreihe,Art des Empfängers/Bereitstellers,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2007,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2008,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2009,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2010,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2011,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2012,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2013,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2014,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2015,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2016,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2017,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2018,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2019,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2020,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2021,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2022,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2023,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2024,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2025,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2026,"ja=1, nein=0",,,,,,1) Vertragspartei des ITPGRFA,1.0
+2007,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,
+2008,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,
+2009,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,
+2010,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,0.0
+2011,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,0.0
+2012,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,0.0
+2013,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,0.0
+2014,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,0.0
+2015,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,0.0
+2016,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2017,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2018,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2019,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2020,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2021,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2022,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2023,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2024,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2025,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2026,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2007,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",
+2008,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",
+2009,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",
+2010,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",0.0
+2011,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",0.0
+2012,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",0.0
+2013,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",0.0
+2014,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",0.0
+2015,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",0.0
+2016,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2017,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2018,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2019,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2020,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2021,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2022,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2023,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2024,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2025,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2026,"ja=1, nein=0",,,,,,"3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des ITPGRFA gemeldet wurden",1.0
+2007,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",
+2008,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",
+2009,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",
+2010,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2011,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2012,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2013,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2014,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2015,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2016,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2017,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2018,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2019,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2020,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2021,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2022,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2023,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2024,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2025,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2026,"ja=1, nein=0",,,,,,"4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",1.0
+2007,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,35.0
+2008,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,409.0
+2009,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,905.0
+2010,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1495.0
+2011,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2687.0
+2012,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3916.0
+2013,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5034.0
+2014,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6089.0
+2015,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,7311.0
+2016,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,8367.0
+2017,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,8754.0
+2018,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,9153.0
+2019,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,9518.0
+2020,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,9903.0
+2021,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,10564.0
+2022,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,11398.0
+2023,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,13261.0
+2024,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,15195.0
+2025,Kumulierte Anzahl,Deutschland als Empfänger,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,16574.0
+2026,Kumulierte Anzahl,Deutschland als Empfänger,,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,16677.0
+2007,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2015,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2016,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5.0
+2017,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2018,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,19.0
+2019,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,30.0
+2020,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,38.0
+2021,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,38.0
+2022,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,38.0
+2023,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,38.0
+2024,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,41.0
+2025,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,44.0
+2026,Kumulierte Anzahl,Deutschland als Empfänger,Kommerzielles Unternehmen,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,44.0
+2007,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2015,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2016,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2017,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2018,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2019,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2020,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3.0
+2021,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4.0
+2022,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4.0
+2023,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5.0
+2024,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,7.0
+2025,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,10.0
+2026,Kumulierte Anzahl,Deutschland als Empfänger,Genbank,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,10.0
+2007,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2015,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2016,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2017,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2018,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2019,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2020,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2.0
+2021,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2.0
+2022,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2.0
+2023,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4.0
+2024,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4.0
+2025,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5.0
+2026,Kumulierte Anzahl,Deutschland als Empfänger,Nationales Agrarforschungszentrum,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,5.0
+2007,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2015,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2016,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2017,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2018,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2019,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2020,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2021,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2022,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2023,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2024,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2025,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2026,Kumulierte Anzahl,Deutschland als Empfänger,Nichtregierungsorganisation,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2007,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2015,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2016,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2.0
+2017,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3.0
+2018,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3.0
+2019,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3.0
+2020,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4.0
+2021,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4.0
+2022,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4.0
+2023,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4.0
+2024,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5.0
+2025,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5.0
+2026,Kumulierte Anzahl,Deutschland als Empfänger,Sonstige,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,5.0
+2007,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Empfänger,Universität,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Empfänger,Universität,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Empfänger,Universität,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Empfänger,Universität,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2015,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3.0
+2016,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5.0
+2017,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,8.0
+2018,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,8.0
+2019,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,8.0
+2020,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,8.0
+2021,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,9.0
+2022,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,9.0
+2023,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,11.0
+2024,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,13.0
+2025,Kumulierte Anzahl,Deutschland als Empfänger,Universität,,,,5) Standardisierte Materialübertragungs-vereinbarungen,13.0
+2026,Kumulierte Anzahl,Deutschland als Empfänger,Universität,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,13.0
+2007,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2.0
+2008,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,23.0
+2009,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,54.0
+2010,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,84.0
+2011,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,382.0
+2012,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1299.0
+2013,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2107.0
+2014,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2843.0
+2015,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3604.0
+2016,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4214.0
+2017,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4328.0
+2018,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4441.0
+2019,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4575.0
+2020,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4678.0
+2021,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4800.0
+2022,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4877.0
+2023,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4918.0
+2024,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4932.0
+2025,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4935.0
+2026,Kumulierte Anzahl,Deutschland als Empfänger,Einzelperson,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,4935.0
+2007,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2015,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2016,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2017,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2018,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2019,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2020,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2021,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,226.0
+2022,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,706.0
+2023,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2396.0
+2024,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4291.0
+2025,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5655.0
+2026,Kumulierte Anzahl,Deutschland als Empfänger,INCREASE-Projekt,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,5758.0
+2007,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,33.0
+2008,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,386.0
+2009,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,851.0
+2010,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1411.0
+2011,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2305.0
+2012,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2617.0
+2013,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2927.0
+2014,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3244.0
+2015,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3703.0
+2016,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4140.0
+2017,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4408.0
+2018,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4681.0
+2019,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4900.0
+2020,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5169.0
+2021,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5480.0
+2022,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5757.0
+2023,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5884.0
+2024,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5901.0
+2025,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5901.0
+2026,Kumulierte Anzahl,Deutschland als Empfänger,Unbekannt,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,5901.0
+2007,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,42.0
+2008,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,591.0
+2009,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1295.0
+2010,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2132.0
+2011,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3566.0
+2012,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5022.0
+2013,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6314.0
+2014,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,7675.0
+2015,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,9241.0
+2016,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,10567.0
+2017,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,11135.0
+2018,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,11709.0
+2019,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,12296.0
+2020,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,12812.0
+2021,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,13415.0
+2022,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,13908.0
+2023,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,14176.0
+2024,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,14332.0
+2025,Kumulierte Anzahl,Deutschland als Bereitsteller,,,,,5) Standardisierte Materialübertragungs-vereinbarungen,14490.0
+2026,Kumulierte Anzahl,Deutschland als Bereitsteller,,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,14610.0
+2007,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2015,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2016,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2017,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2018,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2019,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2020,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2021,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2022,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2023,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2024,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2025,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2026,Kumulierte Anzahl,Deutschland als Bereitsteller,Kommerzielles Unternehmen,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,4.0
+2007,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,42.0
+2008,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,591.0
+2009,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1295.0
+2010,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,2132.0
+2011,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3566.0
+2012,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,5022.0
+2013,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6314.0
+2014,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,7675.0
+2015,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,9241.0
+2016,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,10560.0
+2017,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,11126.0
+2018,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,11685.0
+2019,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,12256.0
+2020,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,12761.0
+2021,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,13364.0
+2022,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,13850.0
+2023,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,14100.0
+2024,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,14100.0
+2025,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,,,,5) Standardisierte Materialübertragungs-vereinbarungen,14100.0
+2026,Kumulierte Anzahl,Deutschland als Bereitsteller,Genbank,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,14100.0
+2007,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2015,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2016,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3.0
+2017,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,3.0
+2018,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,18.0
+2019,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,34.0
+2020,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,44.0
+2021,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,44.0
+2022,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,44.0
+2023,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,44.0
+2024,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,44.0
+2025,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,,,,5) Standardisierte Materialübertragungs-vereinbarungen,44.0
+2026,Kumulierte Anzahl,Deutschland als Bereitsteller,Nationales Agrarforschungszentrum,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,44.0
+2007,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2015,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2016,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,4.0
+2017,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2018,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2019,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2020,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2021,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2022,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2023,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2024,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2025,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2026,Kumulierte Anzahl,Deutschland als Bereitsteller,Sonstige,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,6.0
+2007,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2015,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2016,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2017,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2018,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2019,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,‒,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2020,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2021,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2022,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2023,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2024,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2025,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2026,Kumulierte Anzahl,Deutschland als Bereitsteller,Regionale Organisation,p,,,5) Standardisierte Materialübertragungs-vereinbarungen,1.0
+2007,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2008,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2009,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2010,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2011,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2012,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2013,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2014,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2015,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2016,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2017,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2018,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2019,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2020,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2021,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,0.0
+2022,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,7.0
+2023,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,25.0
+2024,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,181.0
+2025,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,338.0
+2026,Kumulierte Anzahl,Deutschland als Bereitsteller,INCREASE-Projekt,,,,5) Standardisierte Materialübertragungs-vereinbarungen,455.0

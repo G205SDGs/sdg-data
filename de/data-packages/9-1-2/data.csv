@@ -17,7 +17,7 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2010,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,78092
 2011,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,77957
 2012,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,76019
-2013,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,76146
+2013,Millionen Personenkilometer,Straßenverkehr,r,,,Personenverkehr,77146
 2014,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,78786
 2015,Millionen Personenkilometer,Straßenverkehr,,,,Personenverkehr,81771
 2016,Millionen Personenkilometer,Straßenverkehr,r,,,Personenverkehr,81443
@@ -66,7 +66,7 @@ Year,Units,Verkehrsträger,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Valu
 2014,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,934957
 2015,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,945729
 2016,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,965151
-2017,Millionen Personenkilometer,Motorisierter Individualverkehr,|,,,Personenverkehr,912353
+2017,Millionen Personenkilometer,Motorisierter Individualverkehr,|,,,Personenverkehr,912352
 2018,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,913276
 2019,Millionen Personenkilometer,Motorisierter Individualverkehr,,,,Personenverkehr,917400
 2020,Millionen Personenkilometer,Motorisierter Individualverkehr,p,,,Personenverkehr,798669
