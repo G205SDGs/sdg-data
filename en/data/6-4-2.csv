@@ -1,27 +1,53 @@
-Year,Water use index,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Share of withdrawal in renewable water resources,r,,,15.96
-2011,Share of withdrawal in renewable water resources,.,,,
-2012,Share of withdrawal in renewable water resources,.,,,
-2013,Share of withdrawal in renewable water resources,r,,,13.69
-2014,Share of withdrawal in renewable water resources,.,,,
-2015,Share of withdrawal in renewable water resources,.,,,
-2016,Share of withdrawal in renewable water resources,r,,,15.52
-2017,Share of withdrawal in renewable water resources,.,,,
-2018,Share of withdrawal in renewable water resources,.,,,
-2019,Share of withdrawal in renewable water resources,r,,,15.35
-2020,Share of withdrawal in renewable water resources,.,,,
-2021,Share of withdrawal in renewable water resources,.,,,
-2022,Share of withdrawal in renewable water resources,,,,16.67
-2010,Share of withdrawal in renewable water resources (excluding cooling water),r,,,4.29
-2011,Share of withdrawal in renewable water resources (excluding cooling water),.,,,
-2012,Share of withdrawal in renewable water resources (excluding cooling water),.,,,
-2013,Share of withdrawal in renewable water resources (excluding cooling water),r,,,4.73
-2014,Share of withdrawal in renewable water resources (excluding cooling water),.,,,
-2015,Share of withdrawal in renewable water resources (excluding cooling water),.,,,
-2016,Share of withdrawal in renewable water resources (excluding cooling water),r,,,5.5
-2017,Share of withdrawal in renewable water resources (excluding cooling water),.,,,
-2018,Share of withdrawal in renewable water resources (excluding cooling water),.,,,
-2019,Share of withdrawal in renewable water resources (excluding cooling water),r,,,6.57
-2020,Share of withdrawal in renewable water resources (excluding cooling water),.,,,
-2021,Share of withdrawal in renewable water resources (excluding cooling water),.,,,
-2022,Share of withdrawal in renewable water resources (excluding cooling water),,,,8.3
+Year,Economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,,,,,Water withdrawal,18.949
+2011,,,,,Water withdrawal,17.509
+2012,,,,,Water withdrawal,15.956
+2013,,,,,Water withdrawal,15.188
+2014,,,,,Water withdrawal,15.214
+2015,,,,,Water withdrawal,14.56
+2016,,,,,Water withdrawal,14.464
+2017,,,,,Water withdrawal,13.374
+2018,,,,,Water withdrawal,13.333
+2019,,,,,Water withdrawal,12.993
+2020,,,,,Water withdrawal,13.225
+2021,,,,,Water withdrawal,12.097
+2022,,,,,Water withdrawal,11.723
+2010,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,1.979
+2011,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,2.47
+2012,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,2.735
+2013,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,2.751
+2014,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,2.906
+2015,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,3.439
+2016,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,3.264
+2017,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,3.542
+2018,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,4.556
+2019,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,4.408
+2020,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,4.396
+2021,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,3.737
+2022,"Agriculture, forestry and fishing (ISIC A)",,,,Water withdrawal by sector,5.16
+2010,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,75.898
+2011,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,73.682
+2012,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,71.087
+2013,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,69.247
+2014,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,69.284
+2015,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,67.391
+2016,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,66.817
+2017,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,64.893
+2018,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,63.221
+2019,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,62.045
+2020,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,63.135
+2021,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,61.558
+2022,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",,,,Water withdrawal by sector,58.753
+2010,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,21.001
+2011,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,22.67
+2012,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,24.857
+2013,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,26.531
+2014,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,26.539
+2015,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,27.968
+2016,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,28.763
+2017,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,30.437
+2018,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,31.114
+2019,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,32.32
+2020,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,31.567
+2021,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,33.953
+2022,"Other services (ISIC E, G to T)",,,,Water withdrawal by sector,35.459

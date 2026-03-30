@@ -1,13 +1,15 @@
 Value,Disaggregation combinations using this value,Number of indicators
 accommodation for visitors: hotels and similar establishments,7,1
 accommodation for visitors: other,6,1
+"agriculture, forestry and fishing (isic a)",1,1
 "agriculture, forestry and fishing",5,1
 agriculture,2,1
 air passenger transport,6,1
 cultural activities,3,1
 food and beverage serving activities,6,1
 forestry,2,1
-"mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (isic b, c, d and f)",5,1
+"mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (isic b, c, d and f)",6,2
+"other services (isic e, g to t)",1,1
 railway passenger transport,3,1
 road passenger transport,6,1
 services,5,1

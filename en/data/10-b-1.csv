@@ -1,88 +1,94 @@
 Year,Units,Type of flow,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Million EUR,,r,,,31435.8
-2011,Million EUR,,r,,,40420.4
-2012,Million EUR,,r,,,27009.7
-2013,Million EUR,,r,,,39992.1
-2014,Million EUR,,r,,,39948.4
-2015,Million EUR,,r,,,42935.5
-2016,Million EUR,,r,,,44490.2
-2017,Million EUR,,r,,,47671.1
-2018,Million EUR,,r,,,44045.5
-2019,Million EUR,,r,,,37690.8
-2020,Million EUR,,r,,,39224.8
-2021,Million EUR,,r,,,58513.0
-2022,Million EUR,,r,,,49095.0
+2010,Million EUR,,,,,31435.8
+2011,Million EUR,,,,,40420.4
+2012,Million EUR,,,,,27009.7
+2013,Million EUR,,,,,39992.1
+2014,Million EUR,,,,,39948.4
+2015,Million EUR,,,,,42935.5
+2016,Million EUR,,,,,44490.2
+2017,Million EUR,,,,,47671.1
+2018,Million EUR,,,,,44045.5
+2019,Million EUR,,,,,37690.8
+2020,Million EUR,,,,,39224.8
+2021,Million EUR,,,,,58513.0
+2022,Million EUR,,,,,49095.0
 2023,Million EUR,,,,,68763.5
-2010,Million EUR,ODA (net disbursements),r,,,9803.8
-2011,Million EUR,ODA (net disbursements),r,,,10135.4
-2012,Million EUR,ODA (net disbursements),r,,,10067.0
-2013,Million EUR,ODA (net disbursements),r,,,10716.8
-2014,Million EUR,ODA (net disbursements),r,,,12486.3
-2015,Million EUR,ODA (net disbursements),r,,,16173.1
-2016,Million EUR,ODA (net disbursements),r,,,22368.3
-2017,Million EUR,ODA (net disbursements),r,,,22181.8
-2018,Million EUR,ODA (net disbursements),r,,,21750.3
-2019,Million EUR,ODA (net disbursements),r,,,21548.6
-2020,Million EUR,ODA (net disbursements),r,,,25728.6
-2021,Million EUR,ODA (net disbursements),r,,,27444.2
-2022,Million EUR,ODA (net disbursements),r,,,34655.2
+2024,Million EUR,,,,,62375.1
+2010,Million EUR,ODA (net disbursements),,,,9803.8
+2011,Million EUR,ODA (net disbursements),,,,10135.4
+2012,Million EUR,ODA (net disbursements),,,,10067.0
+2013,Million EUR,ODA (net disbursements),,,,10716.8
+2014,Million EUR,ODA (net disbursements),,,,12486.3
+2015,Million EUR,ODA (net disbursements),,,,16173.1
+2016,Million EUR,ODA (net disbursements),,,,22368.3
+2017,Million EUR,ODA (net disbursements),,,,22181.8
+2018,Million EUR,ODA (net disbursements),,,,21750.3
+2019,Million EUR,ODA (net disbursements),,,,21548.6
+2020,Million EUR,ODA (net disbursements),,,,25728.6
+2021,Million EUR,ODA (net disbursements),,,,27444.2
+2022,Million EUR,ODA (net disbursements),,,,34655.2
 2023,Million EUR,ODA (net disbursements),,,,38150.8
-2010,Million EUR,OOF (net disbursements),r,,,51.5
-2011,Million EUR,OOF (net disbursements),r,,,-103.6
-2012,Million EUR,OOF (net disbursements),r,,,-71.0
-2013,Million EUR,OOF (net disbursements),r,,,-63.9
-2014,Million EUR,OOF (net disbursements),r,,,115.7
-2015,Million EUR,OOF (net disbursements),r,,,1194.0
-2016,Million EUR,OOF (net disbursements),r,,,-413.9
-2017,Million EUR,OOF (net disbursements),r,,,-316.5
-2018,Million EUR,OOF (net disbursements),r,,,-99.3
-2019,Million EUR,OOF (net disbursements),r,,,12.6
-2020,Million EUR,OOF (net disbursements),r,,,370.7
-2021,Million EUR,OOF (net disbursements),r,,,1075.8
-2022,Million EUR,OOF (net disbursements),r,,,219.6
+2024,Million EUR,ODA (net disbursements),,,,30741.7
+2010,Million EUR,OOF (net disbursements),,,,51.5
+2011,Million EUR,OOF (net disbursements),,,,-103.6
+2012,Million EUR,OOF (net disbursements),,,,-71.0
+2013,Million EUR,OOF (net disbursements),,,,-63.9
+2014,Million EUR,OOF (net disbursements),,,,115.7
+2015,Million EUR,OOF (net disbursements),,,,1194.0
+2016,Million EUR,OOF (net disbursements),,,,-413.9
+2017,Million EUR,OOF (net disbursements),,,,-316.5
+2018,Million EUR,OOF (net disbursements),,,,-99.3
+2019,Million EUR,OOF (net disbursements),,,,12.6
+2020,Million EUR,OOF (net disbursements),,,,370.7
+2021,Million EUR,OOF (net disbursements),,,,1075.8
+2022,Million EUR,OOF (net disbursements),,,,219.6
 2023,Million EUR,OOF (net disbursements),,,,35.1
-2010,Million EUR,Officially supported export credits (net disbursements),r,,,2798.9
-2011,Million EUR,Officially supported export credits (net disbursements),r,,,7392.1
-2012,Million EUR,Officially supported export credits (net disbursements),r,,,4879.7
-2013,Million EUR,Officially supported export credits (net disbursements),r,,,4082.9
-2014,Million EUR,Officially supported export credits (net disbursements),r,,,-120.7
-2015,Million EUR,Officially supported export credits (net disbursements),r,,,1682.3
-2016,Million EUR,Officially supported export credits (net disbursements),r,,,3119.4
-2017,Million EUR,Officially supported export credits (net disbursements),r,,,5.3
-2018,Million EUR,Officially supported export credits (net disbursements),r,,,1176.6
-2019,Million EUR,Officially supported export credits (net disbursements),r,,,-1739.6
-2020,Million EUR,Officially supported export credits (net disbursements),r,,,-1072.8
-2021,Million EUR,Officially supported export credits (net disbursements),r,,,-1065.1
-2022,Million EUR,Officially supported export credits (net disbursements),r,,,-1306.1
+2024,Million EUR,OOF (net disbursements),,,,153.3
+2010,Million EUR,Officially supported export credits (net disbursements),,,,2798.9
+2011,Million EUR,Officially supported export credits (net disbursements),,,,7392.1
+2012,Million EUR,Officially supported export credits (net disbursements),,,,4879.7
+2013,Million EUR,Officially supported export credits (net disbursements),,,,4082.9
+2014,Million EUR,Officially supported export credits (net disbursements),,,,-120.7
+2015,Million EUR,Officially supported export credits (net disbursements),,,,1682.3
+2016,Million EUR,Officially supported export credits (net disbursements),,,,3119.4
+2017,Million EUR,Officially supported export credits (net disbursements),,,,5.3
+2018,Million EUR,Officially supported export credits (net disbursements),,,,1176.6
+2019,Million EUR,Officially supported export credits (net disbursements),,,,-1739.6
+2020,Million EUR,Officially supported export credits (net disbursements),,,,-1072.8
+2021,Million EUR,Officially supported export credits (net disbursements),,,,-1065.1
+2022,Million EUR,Officially supported export credits (net disbursements),,,,-1306.1
 2023,Million EUR,Officially supported export credits (net disbursements),,,,9695.6
-2010,Million EUR,Private sector flows at market terms (net disbursement),r,,,17675.9
-2011,Million EUR,Private sector flows at market terms (net disbursement),r,,,21847.7
-2012,Million EUR,Private sector flows at market terms (net disbursement),r,,,11045.2
-2013,Million EUR,Private sector flows at market terms (net disbursement),r,,,24190.4
-2014,Million EUR,Private sector flows at market terms (net disbursement),r,,,26319.6
-2015,Million EUR,Private sector flows at market terms (net disbursement),r,,,22640.9
-2016,Million EUR,Private sector flows at market terms (net disbursement),r,,,18129.2
-2017,Million EUR,Private sector flows at market terms (net disbursement),r,,,24478.4
-2018,Million EUR,Private sector flows at market terms (net disbursement),r,,,20063.5
-2019,Million EUR,Private sector flows at market terms (net disbursement),r,,,16505.6
-2020,Million EUR,Private sector flows at market terms (net disbursement),r,,,12869.1
-2021,Million EUR,Private sector flows at market terms (net disbursement),r,,,29778.8
-2022,Million EUR,Private sector flows at market terms (net disbursement),r,,,13803.7
+2024,Million EUR,Officially supported export credits (net disbursements),,,,1437.3
+2010,Million EUR,Private sector flows at market terms (net disbursement),,,,17675.9
+2011,Million EUR,Private sector flows at market terms (net disbursement),,,,21847.7
+2012,Million EUR,Private sector flows at market terms (net disbursement),,,,11045.2
+2013,Million EUR,Private sector flows at market terms (net disbursement),,,,24190.4
+2014,Million EUR,Private sector flows at market terms (net disbursement),,,,26319.6
+2015,Million EUR,Private sector flows at market terms (net disbursement),,,,22640.9
+2016,Million EUR,Private sector flows at market terms (net disbursement),,,,18129.2
+2017,Million EUR,Private sector flows at market terms (net disbursement),,,,24478.4
+2018,Million EUR,Private sector flows at market terms (net disbursement),,,,20063.5
+2019,Million EUR,Private sector flows at market terms (net disbursement),,,,16505.6
+2020,Million EUR,Private sector flows at market terms (net disbursement),,,,12869.1
+2021,Million EUR,Private sector flows at market terms (net disbursement),,,,29778.8
+2022,Million EUR,Private sector flows at market terms (net disbursement),,,,13803.7
 2023,Million EUR,Private sector flows at market terms (net disbursement),,,,18862.2
-2010,Million EUR,Private concessional flows (net disbursements),r,,,1105.0
-2011,Million EUR,Private concessional flows (net disbursements),r,,,1148.8
-2012,Million EUR,Private concessional flows (net disbursements),r,,,1088.8
-2013,Million EUR,Private concessional flows (net disbursements),r,,,1066.5
-2014,Million EUR,Private concessional flows (net disbursements),r,,,1148.2
-2015,Million EUR,Private concessional flows (net disbursements),r,,,1244.7
-2016,Million EUR,Private concessional flows (net disbursements),r,,,1287.2
-2017,Million EUR,Private concessional flows (net disbursements),r,,,1322.1
-2018,Million EUR,Private concessional flows (net disbursements),r,,,1155.1
-2019,Million EUR,Private concessional flows (net disbursements),r,,,1364.3
-2020,Million EUR,Private concessional flows (net disbursements),r,,,1328.4
-2021,Million EUR,Private concessional flows (net disbursements),r,,,1279.4
-2022,Million EUR,Private concessional flows (net disbursements),r,,,1722.5
+2024,Million EUR,Private sector flows at market terms (net disbursement),,,,27164.6
+2010,Million EUR,Private concessional flows (net disbursements),,,,1105.0
+2011,Million EUR,Private concessional flows (net disbursements),,,,1148.8
+2012,Million EUR,Private concessional flows (net disbursements),,,,1088.8
+2013,Million EUR,Private concessional flows (net disbursements),,,,1066.5
+2014,Million EUR,Private concessional flows (net disbursements),,,,1148.2
+2015,Million EUR,Private concessional flows (net disbursements),,,,1244.7
+2016,Million EUR,Private concessional flows (net disbursements),,,,1287.2
+2017,Million EUR,Private concessional flows (net disbursements),,,,1322.1
+2018,Million EUR,Private concessional flows (net disbursements),,,,1155.1
+2019,Million EUR,Private concessional flows (net disbursements),,,,1364.3
+2020,Million EUR,Private concessional flows (net disbursements),,,,1328.4
+2021,Million EUR,Private concessional flows (net disbursements),,,,1279.4
+2022,Million EUR,Private concessional flows (net disbursements),,,,1722.5
 2023,Million EUR,Private concessional flows (net disbursements),,,,1458.4
+2024,Million EUR,Private concessional flows (net disbursements),,,,1715.1
 2010,"Million USD, constant prices (2023)",,,,,46398.0
 2011,"Million USD, constant prices (2023)",,,,,58935.0
 2012,"Million USD, constant prices (2023)",,,,,38823.0
@@ -97,6 +103,7 @@ Year,Units,Type of flow,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Million USD, constant prices (2023)",,,,,71254.0
 2022,"Million USD, constant prices (2023)",,,,,56348.0
 2023,"Million USD, constant prices (2023)",,,,,74355.0
+2024,"Million USD, constant prices (2023)",,,,,65300.3
 2010,"Million USD, constant prices (2023)",ODA (net disbursements),,,,14470.0
 2011,"Million USD, constant prices (2023)",ODA (net disbursements),,,,14778.0
 2012,"Million USD, constant prices (2023)",ODA (net disbursements),,,,14470.0
@@ -111,6 +118,7 @@ Year,Units,Type of flow,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Million USD, constant prices (2023)",ODA (net disbursements),,,,33420.0
 2022,"Million USD, constant prices (2023)",ODA (net disbursements),,,,39775.0
 2023,"Million USD, constant prices (2023)",ODA (net disbursements),,,,41253.0
+2024,"Million USD, constant prices (2023)",ODA (net disbursements),,,,32138.4
 2010,"Million USD, constant prices (2023)",OOF (net disbursements),,,,76.0
 2011,"Million USD, constant prices (2023)",OOF (net disbursements),,,,-151.0
 2012,"Million USD, constant prices (2023)",OOF (net disbursements),,,,-102.0
@@ -125,6 +133,7 @@ Year,Units,Type of flow,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Million USD, constant prices (2023)",OOF (net disbursements),,,,1310.0
 2022,"Million USD, constant prices (2023)",OOF (net disbursements),,,,252.0
 2023,"Million USD, constant prices (2023)",OOF (net disbursements),,,,38.0
+2024,"Million USD, constant prices (2023)",OOF (net disbursements),,,,160.5
 2010,"Million USD, constant prices (2023)",Officially supported export credits (net disbursements),,,,4131.0
 2011,"Million USD, constant prices (2023)",Officially supported export credits (net disbursements),,,,10778.0
 2012,"Million USD, constant prices (2023)",Officially supported export credits (net disbursements),,,,7014.0
@@ -139,6 +148,7 @@ Year,Units,Type of flow,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Million USD, constant prices (2023)",Officially supported export credits (net disbursements),,,,-1297.0
 2022,"Million USD, constant prices (2023)",Officially supported export credits (net disbursements),,,,-1499.0
 2023,"Million USD, constant prices (2023)",Officially supported export credits (net disbursements),,,,10484.0
+2024,"Million USD, constant prices (2023)",Officially supported export credits (net disbursements),,,,1504.7
 2010,"Million USD, constant prices (2023)",Private sector flows at market terms (net disbursement),,,,26089.0
 2011,"Million USD, constant prices (2023)",Private sector flows at market terms (net disbursement),,,,31855.0
 2012,"Million USD, constant prices (2023)",Private sector flows at market terms (net disbursement),,,,15876.0
@@ -153,6 +163,7 @@ Year,Units,Type of flow,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Million USD, constant prices (2023)",Private sector flows at market terms (net disbursement),,,,36263.0
 2022,"Million USD, constant prices (2023)",Private sector flows at market terms (net disbursement),,,,15843.0
 2023,"Million USD, constant prices (2023)",Private sector flows at market terms (net disbursement),,,,20396.0
+2024,"Million USD, constant prices (2023)",Private sector flows at market terms (net disbursement),,,,28438.6
 2010,"Million USD, constant prices (2023)",Private concessional flows (net disbursements),,,,1631.0
 2011,"Million USD, constant prices (2023)",Private concessional flows (net disbursements),,,,1675.0
 2012,"Million USD, constant prices (2023)",Private concessional flows (net disbursements),,,,1565.0
@@ -167,3 +178,4 @@ Year,Units,Type of flow,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,"Million USD, constant prices (2023)",Private concessional flows (net disbursements),,,,1558.0
 2022,"Million USD, constant prices (2023)",Private concessional flows (net disbursements),,,,1977.0
 2023,"Million USD, constant prices (2023)",Private concessional flows (net disbursements),,,,1577.0
+2024,"Million USD, constant prices (2023)",Private concessional flows (net disbursements),,,,1795.6

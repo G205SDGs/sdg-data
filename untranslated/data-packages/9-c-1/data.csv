@@ -94,7 +94,7 @@ Year,technology,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,lte,brandenburg,code12,,,,99.8
 2023,lte,brandenburg,code12,,,,99.9
 2024,lte,brandenburg,code12,,,,99.9
-2025,lte,brandenburg,code12,,,,100.0
+2025,lte,brandenburg,code12,,,,99.9
 2010,lte,bremen,code04,.,,,
 2011,lte,bremen,code04,.,,,
 2012,lte,bremen,code04,.,,,
@@ -318,7 +318,7 @@ Year,technology,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,5g,baden-württemberg,code08,,,,64.6
 2023,5g,baden-württemberg,code08,,,,96.0
 2024,5g,baden-württemberg,code08,,,,98.1
-2025,5g,baden-württemberg,code08,,,,99.1
+2025,5g,baden-württemberg,code08,,,,99.2
 2010,5g,bavaria,code09,.,,,
 2011,5g,bavaria,code09,.,,,
 2012,5g,bavaria,code09,.,,,

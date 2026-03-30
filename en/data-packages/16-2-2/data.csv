@@ -1,8 +1,8 @@
 Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2010,"Per 100,000 inhabitants",,,,,,,0.796
 2011,"Per 100,000 inhabitants",,,,,,,0.821
-2012,"Per 100,000 inhabitants",,,,|,,,0.765
-2013,"Per 100,000 inhabitants",,,,,,,0.749
+2012,"Per 100,000 inhabitants",,,,,,,0.765
+2013,"Per 100,000 inhabitants",,,,|,,,0.749
 2014,"Per 100,000 inhabitants",,,,,,,0.722
 2015,"Per 100,000 inhabitants",,,,,,,0.579
 2016,"Per 100,000 inhabitants",,,,,,,0.652
@@ -12,12 +12,12 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",,,,,,,0.576
 2021,"Per 100,000 inhabitants",,,,,,,0.678
 2022,"Per 100,000 inhabitants",,,,,,,1.796
-2023,"Per 100,000 inhabitants",,,,|,,,0.724
-2024,"Per 100,000 inhabitants",,,,,,,0.762
+2023,"Per 100,000 inhabitants",,,,,,,0.724
+2024,"Per 100,000 inhabitants",,,,|,,,0.762
 2010,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.05
 2011,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.039
-2012,"Per 100,000 inhabitants",,,Labour exploitation,|,,,0.017
-2013,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.076
+2012,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.017
+2013,"Per 100,000 inhabitants",,,Labour exploitation,|,,,0.076
 2014,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.032
 2015,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.067
 2016,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.058
@@ -27,12 +27,12 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.088
 2021,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.177
 2022,"Per 100,000 inhabitants",,,Labour exploitation,,,,1.224
-2023,"Per 100,000 inhabitants",,,Labour exploitation,|,,,0.217
-2024,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.205
+2023,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.217
+2024,"Per 100,000 inhabitants",,,Labour exploitation,|,,,0.205
 2010,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.024
 2011,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.058
-2012,"Per 100,000 inhabitants",Female,,Labour exploitation,|,,,0.017
-2013,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.032
+2012,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.017
+2013,"Per 100,000 inhabitants",Female,,Labour exploitation,|,,,0.032
 2014,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.01
 2015,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.019
 2016,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.031
@@ -42,12 +42,12 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.043
 2021,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.171
 2022,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.631
-2023,"Per 100,000 inhabitants",Female,,Labour exploitation,|,,,0.124
-2024,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.059
+2023,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.124
+2024,"Per 100,000 inhabitants",Female,,Labour exploitation,|,,,0.059
 2010,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.077
 2011,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.02
-2012,"Per 100,000 inhabitants",Male,,Labour exploitation,|,,,0.012
-2013,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.119
+2012,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.012
+2013,"Per 100,000 inhabitants",Male,,Labour exploitation,|,,,0.119
 2014,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.056
 2015,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.11
 2016,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.084
@@ -57,8 +57,8 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.134
 2021,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.18
 2022,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,1.819
-2023,"Per 100,000 inhabitants",Male,,Labour exploitation,|,,,0.31
-2024,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.352
+2023,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.31
+2024,"Per 100,000 inhabitants",Male,,Labour exploitation,|,,,0.352
 2010,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
 2011,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
 2012,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
@@ -76,8 +76,8 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2024,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
 2010,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.746
 2011,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.782
-2012,"Per 100,000 inhabitants",,,Sexual exploitation,|,,,0.748
-2013,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.673
+2012,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.748
+2013,"Per 100,000 inhabitants",,,Sexual exploitation,|,,,0.673
 2014,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.69
 2015,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.512
 2016,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.594
@@ -87,12 +87,12 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.488
 2021,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.501
 2022,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.572
-2023,"Per 100,000 inhabitants",,,Sexual exploitation,|,,,0.507
-2024,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.557
+2023,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.507
+2024,"Per 100,000 inhabitants",,,Sexual exploitation,|,,,0.557
 2010,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.127
 2011,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.128
-2012,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,|,,,0.12
-2013,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.106
+2012,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.12
+2013,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,|,,,0.106
 2014,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.051
 2015,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.061
 2016,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.119
@@ -102,12 +102,12 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.122
 2021,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.009
 2022,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.065
-2023,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,|,,,0.009
-2024,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.037
+2023,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.009
+2024,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,|,,,0.037
 2010,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.439
 2011,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.403
-2012,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,|,,,2.744
-2013,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,1.905
+2012,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.744
+2013,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,|,,,1.905
 2014,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,1.615
 2015,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.212
 2016,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.617
@@ -117,12 +117,12 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.18
 2021,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,1.766
 2022,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,1.627
-2023,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,|,,,2.091
-2024,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,1.42
+2023,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.091
+2024,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,|,,,1.42
 2010,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,8.967
 2011,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,9.825
-2012,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,|,,,8.586
-2013,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,8.472
+2012,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,8.586
+2013,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,|,,,8.472
 2014,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,8.598
 2015,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,5.966
 2016,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,4.521
@@ -132,12 +132,12 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,3.476
 2021,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,3.134
 2022,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,3.997
-2023,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,|,,,2.781
-2024,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,3.22
+2023,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,2.781
+2024,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,|,,,3.22
 2010,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,3.207
 2011,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,3.368
-2012,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,|,,,3.033
-2013,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,2.769
+2012,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,3.033
+2013,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,|,,,2.769
 2014,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,3.007
 2015,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,1.815
 2016,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,2.928
@@ -147,12 +147,12 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,2.091
 2021,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,2.24
 2022,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,2.465
-2023,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,|,,,2.111
-2024,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,1.814
+2023,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,2.111
+2024,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,|,,,1.814
 2010,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.21
 2011,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.216
-2012,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,|,,,0.252
-2013,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.228
+2012,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.252
+2013,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,|,,,0.228
 2014,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.267
 2015,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.158
 2016,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.227
@@ -162,8 +162,8 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.231
 2021,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.286
 2022,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.352
-2023,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,|,,,0.306
-2024,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.4
+2023,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.306
+2024,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,|,,,0.4
 2010,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
 2011,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
 2012,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
@@ -181,8 +181,8 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2024,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
 2010,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.41
 2011,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.439
-2012,"Per 100,000 inhabitants",Female,,Sexual exploitation,|,,,1.417
-2013,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.259
+2012,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.417
+2013,"Per 100,000 inhabitants",Female,,Sexual exploitation,|,,,1.259
 2014,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.289
 2015,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,0.965
 2016,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.119
@@ -192,12 +192,12 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,0.904
 2021,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,0.919
 2022,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.074
-2023,"Per 100,000 inhabitants",Female,,Sexual exploitation,|,,,0.951
-2024,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.062
+2023,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,0.951
+2024,"Per 100,000 inhabitants",Female,,Sexual exploitation,|,,,1.062
 2010,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.042
 2011,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.085
-2012,"Per 100,000 inhabitants",Male,,Sexual exploitation,|,,,0.047
-2013,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.058
+2012,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.047
+2013,"Per 100,000 inhabitants",Male,,Sexual exploitation,|,,,0.058
 2014,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.066
 2015,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.028
 2016,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.042
@@ -207,8 +207,8 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.056
 2021,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.056
 2022,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.039
-2023,"Per 100,000 inhabitants",Male,,Sexual exploitation,|,,,0.031
-2024,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.029
+2023,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.031
+2024,"Per 100,000 inhabitants",Male,,Sexual exploitation,|,,,0.029
 2010,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
 2011,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
 2012,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
@@ -226,8 +226,8 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2024,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
 2010,"Per 100,000 inhabitants",Female,,,,,,1.434
 2011,"Per 100,000 inhabitants",Female,,,,,,1.496
-2012,"Per 100,000 inhabitants",Female,,,|,,,1.434
-2013,"Per 100,000 inhabitants",Female,,,,,,1.291
+2012,"Per 100,000 inhabitants",Female,,,,,,1.434
+2013,"Per 100,000 inhabitants",Female,,,|,,,1.291
 2014,"Per 100,000 inhabitants",Female,,,,,,1.298
 2015,"Per 100,000 inhabitants",Female,,,,,,0.984
 2016,"Per 100,000 inhabitants",Female,,,,,,1.15
@@ -237,12 +237,12 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",Female,,,,,,0.947
 2021,"Per 100,000 inhabitants",Female,,,,,,1.09
 2022,"Per 100,000 inhabitants",Female,,,,,,1.705
-2023,"Per 100,000 inhabitants",Female,,,|,,,1.075
-2024,"Per 100,000 inhabitants",Female,,,,,,1.121
+2023,"Per 100,000 inhabitants",Female,,,,,,1.075
+2024,"Per 100,000 inhabitants",Female,,,|,,,1.121
 2010,"Per 100,000 inhabitants",Male,,,,,,0.12
 2011,"Per 100,000 inhabitants",Male,,,,,,0.104
-2012,"Per 100,000 inhabitants",Male,,,|,,,0.06
-2013,"Per 100,000 inhabitants",Male,,,,,,0.178
+2012,"Per 100,000 inhabitants",Male,,,,,,0.06
+2013,"Per 100,000 inhabitants",Male,,,|,,,0.178
 2014,"Per 100,000 inhabitants",Male,,,,,,0.121
 2015,"Per 100,000 inhabitants",Male,,,,,,0.138
 2016,"Per 100,000 inhabitants",Male,,,,,,0.126
@@ -252,8 +252,8 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,"Per 100,000 inhabitants",Male,,,,,,0.19
 2021,"Per 100,000 inhabitants",Male,,,,,,0.236
 2022,"Per 100,000 inhabitants",Male,,,,,,1.858
-2023,"Per 100,000 inhabitants",Male,,,|,,,0.342
-2024,"Per 100,000 inhabitants",Male,,,,,,0.381
+2023,"Per 100,000 inhabitants",Male,,,,,,0.342
+2024,"Per 100,000 inhabitants",Male,,,|,,,0.381
 2010,Number,,,,,,,651.0
 2011,Number,,,,,,,671.0
 2012,Number,,,,,,,626.0

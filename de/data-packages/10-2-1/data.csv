@@ -14,6 +14,7 @@ Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,,,,,8.5
 2023,,,,,,8.3
 2024,,,,,,9.0
+2025,,,p,,,9.8
 2010,17 Jahre und jünger,,,,,9.4
 2011,17 Jahre und jünger,,,,,8.0
 2012,17 Jahre und jünger,,,,,7.8
@@ -29,6 +30,7 @@ Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,17 Jahre und jünger,,,,,7.5
 2023,17 Jahre und jünger,,,,,7.5
 2024,17 Jahre und jünger,,,,,7.8
+2025,17 Jahre und jünger,,p,,,8.9
 2010,18 bis unter 65 Jahre,,,,,9.8
 2011,18 bis unter 65 Jahre,,,,,10.8
 2012,18 bis unter 65 Jahre,,,,,10.4
@@ -44,6 +46,7 @@ Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,18 bis unter 65 Jahre,,,,,8.2
 2023,18 bis unter 65 Jahre,,,,,8.1
 2024,18 bis unter 65 Jahre,,,,,8.9
+2025,18 bis unter 65 Jahre,,p,,,9.7
 2010,65 Jahre und älter,,,,,7.0
 2011,65 Jahre und älter,,,,,7.3
 2012,65 Jahre und älter,,,,,8.4
@@ -59,6 +62,7 @@ Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,65 Jahre und älter,,,,,10.0
 2023,65 Jahre und älter,,,,,9.6
 2024,65 Jahre und älter,,,,,10.4
+2025,65 Jahre und älter,,p,,,10.9
 2010,,Weiblich,,,,9.3
 2011,,Weiblich,,,,9.9
 2012,,Weiblich,,,,10.1
@@ -74,6 +78,7 @@ Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,Weiblich,,,,8.9
 2023,,Weiblich,,,,8.7
 2024,,Weiblich,,,,9.3
+2025,,Weiblich,p,,,10.0
 2010,,Männlich,,,,9.0
 2011,,Männlich,,,,9.4
 2012,,Männlich,,,,9.0
@@ -89,3 +94,4 @@ Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,Männlich,,,,8.0
 2023,,Männlich,,,,7.9
 2024,,Männlich,,,,8.7
+2025,,Männlich,p,,,9.6

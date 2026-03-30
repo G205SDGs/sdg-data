@@ -15,23 +15,22 @@
             "type": "integer"
           },
           {
-            "name": "water use index",
+            "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "share of withdrawal in renewable water resources",
-                "share of withdrawal in renewable water resources (excluding cooling water)",
+                "agriculture, forestry and fishing (isic a)",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (isic b, c, d and f)",
+                "other services (isic e, g to t)",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                ".",
                 ""
               ]
             }
@@ -50,6 +49,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "water withdrawal",
+                "water withdrawal by sector",
                 ""
               ]
             }

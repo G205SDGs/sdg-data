@@ -1,27 +1,53 @@
-Year,Wassernutzungsindex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Anteil der Entnahme an den erneuerbaren Wasserressourcen,r,,,15.96
-2011,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2012,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2013,Anteil der Entnahme an den erneuerbaren Wasserressourcen,r,,,13.69
-2014,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2015,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2016,Anteil der Entnahme an den erneuerbaren Wasserressourcen,r,,,15.52
-2017,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2018,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2019,Anteil der Entnahme an den erneuerbaren Wasserressourcen,r,,,15.35
-2020,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2021,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2022,Anteil der Entnahme an den erneuerbaren Wasserressourcen,,,,16.67
-2010,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),r,,,4.29
-2011,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2012,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2013,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),r,,,4.73
-2014,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2015,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2016,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),r,,,5.5
-2017,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2018,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2019,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),r,,,6.57
-2020,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2021,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2022,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),,,,8.3
+Year,Wirtschaftszweig,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,,,,,Wasserentnahme,18.949
+2011,,,,,Wasserentnahme,17.509
+2012,,,,,Wasserentnahme,15.956
+2013,,,,,Wasserentnahme,15.188
+2014,,,,,Wasserentnahme,15.214
+2015,,,,,Wasserentnahme,14.56
+2016,,,,,Wasserentnahme,14.464
+2017,,,,,Wasserentnahme,13.374
+2018,,,,,Wasserentnahme,13.333
+2019,,,,,Wasserentnahme,12.993
+2020,,,,,Wasserentnahme,13.225
+2021,,,,,Wasserentnahme,12.097
+2022,,,,,Wasserentnahme,11.723
+2010,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,1.979
+2011,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,2.47
+2012,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,2.735
+2013,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,2.751
+2014,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,2.906
+2015,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,3.439
+2016,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,3.264
+2017,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,3.542
+2018,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,4.556
+2019,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,4.408
+2020,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,4.396
+2021,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,3.737
+2022,"Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",,,,Wasserentnahme der Sektoren,5.16
+2010,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,75.898
+2011,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,73.682
+2012,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,71.087
+2013,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,69.247
+2014,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,69.284
+2015,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,67.391
+2016,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,66.817
+2017,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,64.893
+2018,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,63.221
+2019,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,62.045
+2020,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,63.135
+2021,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,61.558
+2022,"Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",,,,Wasserentnahme der Sektoren,58.753
+2010,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,21.001
+2011,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,22.67
+2012,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,24.857
+2013,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,26.531
+2014,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,26.539
+2015,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,27.968
+2016,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,28.763
+2017,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,30.437
+2018,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,31.114
+2019,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,32.32
+2020,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,31.567
+2021,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,33.953
+2022,"Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",,,,Wasserentnahme der Sektoren,35.459
