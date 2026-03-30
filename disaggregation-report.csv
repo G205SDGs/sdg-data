@@ -7,7 +7,7 @@ availability,1,2
 bioclimatic belt,1,3
 bound,1,2
 cause of death,3,10
-COMMENT_OBS_0,149,11
+COMMENT_OBS_0,148,11
 COMMENT_OBS_1,10,4
 completeness of disaggregation,1,3
 data source,1,2
@@ -59,7 +59,7 @@ technology,1,3
 thematic area,1,4
 time series,14,21
 'time series ',1,2
-timeseries,22,76
+timeseries,21,74
 treatment,1,2
 typ of victim-suspect relationship,1,3
 type of account,1,2
