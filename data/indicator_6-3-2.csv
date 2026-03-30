@@ -1,31 +1,51 @@
-Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,flowing water with good ecological status for total phosphorous,,,,31.3
-2011,flowing water with good ecological status for total phosphorous,,,,36.9
-2012,flowing water with good ecological status for total phosphorous,,,,34.7
-2013,flowing water with good ecological status for total phosphorous,,,,35.3
-2014,flowing water with good ecological status for total phosphorous,,,,33.6
-2015,flowing water with good ecological status for total phosphorous,,,,30.0
-2016,flowing water with good ecological status for total phosphorous,,,,36.9
-2017,flowing water with good ecological status for total phosphorous,,,,34.8
-2018,flowing water with good ecological status for total phosphorous,,,,43.7
-2019,flowing water with good ecological status for total phosphorous,,,,41.6
-2020,flowing water with good ecological status for total phosphorous,,,,41.7
-2021,flowing water with good ecological status for total phosphorous,,,,43.4
-2022,flowing water with good ecological status for total phosphorous,,,,42.7
-2023,flowing water with good ecological status for total phosphorous,,,,41.8
-2024,flowing water with good ecological status for total phosphorous,…,,,
-2010,groundwater mesuring points below the threshold value for nitrate,,,,81.7
-2011,groundwater mesuring points below the threshold value for nitrate,,,,82.0
-2012,groundwater mesuring points below the threshold value for nitrate,,,,81.0
-2013,groundwater mesuring points below the threshold value for nitrate,,,,81.4
-2014,groundwater mesuring points below the threshold value for nitrate,,,,81.8
-2015,groundwater mesuring points below the threshold value for nitrate,,,,81.0
-2016,groundwater mesuring points below the threshold value for nitrate,,,,81.8
-2017,groundwater mesuring points below the threshold value for nitrate,,,,83.1
-2018,groundwater mesuring points below the threshold value for nitrate,,,,82.7
-2019,groundwater mesuring points below the threshold value for nitrate,,,,84.2
-2020,groundwater mesuring points below the threshold value for nitrate,,,,84.1
-2021,groundwater mesuring points below the threshold value for nitrate,,,,84.0
-2022,groundwater mesuring points below the threshold value for nitrate,,,,84.0
-2023,groundwater mesuring points below the threshold value for nitrate,,,,85.0
-2024,groundwater mesuring points below the threshold value for nitrate,,,,84.3
+Year,type of water body,status class,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2015,running waters,unclear,,,,2.8
+2021,running waters,unclear,,,,1.7
+2015,running waters,bad,,,,19.9
+2021,running waters,bad,,,,19.1
+2015,running waters,poor,,,,34.4
+2021,running waters,poor,,,,34.9
+2015,running waters,moderate,,,,36.2
+2021,running waters,moderate,,,,36.3
+2015,running waters,good or very good,,,,6.7
+2021,running waters,good or very good,,,,8.0
+2015,lakes,unclear,,,,2.9
+2021,lakes,unclear,,,,4.0
+2015,lakes,bad,,,,10.5
+2021,lakes,bad,,,,9.4
+2015,lakes,poor,,,,26.2
+2021,lakes,poor,,,,25.8
+2015,lakes,moderate,,,,34.0
+2021,lakes,moderate,,,,36.1
+2015,lakes,good or very good,,,,26.4
+2021,lakes,good or very good,,,,24.7
+2010,water bodies in transitional and coastal waters - north sea,unclear,.,,,0
+2015,water bodies in transitional and coastal waters - north sea,unclear,,,,14
+2021,water bodies in transitional and coastal waters - north sea,unclear,,,,0
+2010,water bodies in transitional and coastal waters - north sea,bad,,,,4
+2015,water bodies in transitional and coastal waters - north sea,bad,,,,11
+2021,water bodies in transitional and coastal waters - north sea,bad,,,,14
+2010,water bodies in transitional and coastal waters - north sea,poor,,,,32
+2015,water bodies in transitional and coastal waters - north sea,poor,,,,31
+2021,water bodies in transitional and coastal waters - north sea,poor,,,,32
+2010,water bodies in transitional and coastal waters - north sea,moderate,,,,64
+2015,water bodies in transitional and coastal waters - north sea,moderate,,,,44
+2021,water bodies in transitional and coastal waters - north sea,moderate,,,,54
+2010,water bodies in transitional and coastal waters - north sea,good or very good,‒,,,0
+2015,water bodies in transitional and coastal waters - north sea,good or very good,‒,,,0
+2021,water bodies in transitional and coastal waters - north sea,good or very good,‒,,,0
+2010,water bodies in transitional and coastal waters - baltic sea,unclear,‒,,,0
+2015,water bodies in transitional and coastal waters - baltic sea,unclear,,,,4
+2021,water bodies in transitional and coastal waters - baltic sea,unclear,‒,,,0
+2010,water bodies in transitional and coastal waters - baltic sea,bad,,,,16
+2015,water bodies in transitional and coastal waters - baltic sea,bad,,,,32
+2021,water bodies in transitional and coastal waters - baltic sea,bad,,,,27
+2010,water bodies in transitional and coastal waters - baltic sea,poor,,,,50
+2015,water bodies in transitional and coastal waters - baltic sea,poor,,,,32
+2021,water bodies in transitional and coastal waters - baltic sea,poor,,,,40
+2010,water bodies in transitional and coastal waters - baltic sea,moderate,,,,32
+2015,water bodies in transitional and coastal waters - baltic sea,moderate,,,,32
+2021,water bodies in transitional and coastal waters - baltic sea,moderate,,,,33
+2010,water bodies in transitional and coastal waters - baltic sea,good or very good,,,,2
+2015,water bodies in transitional and coastal waters - baltic sea,good or very good,‒,,,0
+2021,water bodies in transitional and coastal waters - baltic sea,good or very good,‒,,,0
