@@ -17,7 +17,7 @@ Year,Units,mode of transport,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Va
 2010,million passenger-kilometre,road transport,,,,passenger transport,78092
 2011,million passenger-kilometre,road transport,,,,passenger transport,77957
 2012,million passenger-kilometre,road transport,,,,passenger transport,76019
-2013,million passenger-kilometre,road transport,,,,passenger transport,76146
+2013,million passenger-kilometre,road transport,r,,,passenger transport,77146
 2014,million passenger-kilometre,road transport,,,,passenger transport,78786
 2015,million passenger-kilometre,road transport,,,,passenger transport,81771
 2016,million passenger-kilometre,road transport,r,,,passenger transport,81443
@@ -66,7 +66,7 @@ Year,Units,mode of transport,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Va
 2014,million passenger-kilometre,motorised private transport,,,,passenger transport,934957
 2015,million passenger-kilometre,motorised private transport,,,,passenger transport,945729
 2016,million passenger-kilometre,motorised private transport,,,,passenger transport,965151
-2017,million passenger-kilometre,motorised private transport,|,,,passenger transport,912353
+2017,million passenger-kilometre,motorised private transport,|,,,passenger transport,912352
 2018,million passenger-kilometre,motorised private transport,,,,passenger transport,913276
 2019,million passenger-kilometre,motorised private transport,,,,passenger transport,917400
 2020,million passenger-kilometre,motorised private transport,p,,,passenger transport,798669
