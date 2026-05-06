@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SEEA Tabellen",
-                "TSA Tabellen",
+                "SEEA-Tabellen",
+                "TSA-Tabellen",
                 ""
               ]
             },
-            "title": "Standardrechnungssystem (der Volkswirtschaftlichen Gesamtrechnungen)"
+            "title": "Standardrechnungssystem (der VGR)"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -33,6 +33,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "…",
                 ""
               ]
             },
@@ -60,7 +61,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

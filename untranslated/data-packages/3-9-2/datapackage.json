@@ -15,14 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "disease",
+            "name": "type of disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) acute respiratory infections",
-                "b) diarrhoea",
-                "c) intestinal nematode infections",
-                "d) protein-energy malnutrition",
+                "(a) acute respiratory infections",
+                "(b) diarrhoea",
+                "(c) intestinal nematode infections",
+                "(d) protein-energy malnutrition",
                 ""
               ]
             }

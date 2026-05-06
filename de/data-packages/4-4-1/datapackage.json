@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "type of ict competence",
+            "name": "type of ict skill",
             "type": "string",
             "constraints": {
               "enum": [

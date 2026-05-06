@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "schools with access to electricity",
-                "schools with access to basic drinking water",
-                "schools with access to single-sex basic sanitation facilities",
-                "schools with access to basic handwashing facilities",
+                "access to electricity",
+                "access to basic drinking water",
+                "access to single-sex basic sanitation facilities",
+                "access to basic handwashing facilities",
                 ""
               ]
             }

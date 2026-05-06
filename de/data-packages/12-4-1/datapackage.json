@@ -16,25 +16,38 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Basler Übereinkommen",
-                "Montrealer Protokoll",
-                "Rotterdamer Übereinkommen",
-                "Stockholmer Übereinkommen",
-                "Minamata Übereinkommen",
+                "ja=1, nein=0",
+                "Prozent",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Units"
+          },
+          {
+            "name": "type of obligation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vertragspartei",
+                "Erfüllung der Berichtspflicht",
+                "Einhaltung des Übereinkommens",
+                ""
+              ]
+            },
+            "title": "Art der Verpflichtung"
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "x",
+                "‒",
                 ""
               ]
             },
@@ -61,8 +74,23 @@
             "title": "COMMENT_OBS_2"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1) Basler Übereinkommen",
+                "2) Montrealer Protokoll",
+                "3) Rotterdamer Übereinkommen",
+                "4) Stockholmer Übereinkommen",
+                "5) Minamata Übereinkommen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

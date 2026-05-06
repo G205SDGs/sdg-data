@@ -1,16 +1,331 @@
-Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,,,4.5
-2011,,,,5.0
-2012,,,,4.5
-2013,,,,4.1
-2014,,,,4.2
-2015,,,,4.2
-2016,,,,3.9
-2017,,,,3.8
-2018,,,,4.0
-2019,,,,3.7
-2020,,,,3.3
-2021,,,,3.1
-2022,,,,3.3
-2023,,,,3.4
-2024,p,,,3.3
+Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,"Per 100,000 inhabitants",,,,,,4.7
+2011,"Per 100,000 inhabitants",,,,,,5.23
+2012,"Per 100,000 inhabitants",,,,,,4.79
+2013,"Per 100,000 inhabitants",,,,,,4.32
+2014,"Per 100,000 inhabitants",,,,,,4.24
+2015,"Per 100,000 inhabitants",,,,,,4.15
+2016,"Per 100,000 inhabitants",,,,,,3.78
+2017,"Per 100,000 inhabitants",,,,,,3.58
+2018,"Per 100,000 inhabitants",,,,,,3.71
+2019,"Per 100,000 inhabitants",,,,,,3.37
+2020,"Per 100,000 inhabitants",,,,,,3.03
+2021,"Per 100,000 inhabitants",,,,,,2.8
+2022,"Per 100,000 inhabitants",,,,,,3.08
+2023,"Per 100,000 inhabitants",,,,,,3.04
+2024,"Per 100,000 inhabitants",,,,,,3.24
+2010,"Per 100,000 inhabitants",14 years and younger,,,,,0.93
+2011,"Per 100,000 inhabitants",14 years and younger,,,,,0.83
+2012,"Per 100,000 inhabitants",14 years and younger,,,,,0.7
+2013,"Per 100,000 inhabitants",14 years and younger,,,,,0.51
+2014,"Per 100,000 inhabitants",14 years and younger,,,,,0.7
+2015,"Per 100,000 inhabitants",14 years and younger,,,,,0.58
+2016,"Per 100,000 inhabitants",14 years and younger,,,,,0.6
+2017,"Per 100,000 inhabitants",14 years and younger,,,,,0.43
+2018,"Per 100,000 inhabitants",14 years and younger,,,,,0.53
+2019,"Per 100,000 inhabitants",14 years and younger,,,,,0.39
+2020,"Per 100,000 inhabitants",14 years and younger,,,,,0.32
+2021,"Per 100,000 inhabitants",14 years and younger,,,,,0.31
+2022,"Per 100,000 inhabitants",14 years and younger,,,,,0.36
+2023,"Per 100,000 inhabitants",14 years and younger,,,,,0.21
+2024,"Per 100,000 inhabitants",14 years and younger,,,,,0.45
+2010,"Per 100,000 inhabitants",15 to under 25 years,,,,,8.66
+2011,"Per 100,000 inhabitants",15 to under 25 years,,,,,9.59
+2012,"Per 100,000 inhabitants",15 to under 25 years,,,,,8.56
+2013,"Per 100,000 inhabitants",15 to under 25 years,,,,,6.69
+2014,"Per 100,000 inhabitants",15 to under 25 years,,,,,6.82
+2015,"Per 100,000 inhabitants",15 to under 25 years,,,,,5.99
+2016,"Per 100,000 inhabitants",15 to under 25 years,,,,,5.39
+2017,"Per 100,000 inhabitants",15 to under 25 years,,,,,4.84
+2018,"Per 100,000 inhabitants",15 to under 25 years,,,,,4.74
+2019,"Per 100,000 inhabitants",15 to under 25 years,,,,,4.47
+2020,"Per 100,000 inhabitants",15 to under 25 years,,,,,4.18
+2021,"Per 100,000 inhabitants",15 to under 25 years,,,,,3.64
+2022,"Per 100,000 inhabitants",15 to under 25 years,,,,,3.51
+2023,"Per 100,000 inhabitants",15 to under 25 years,,,,,3.39
+2024,"Per 100,000 inhabitants",15 to under 25 years,,,,,4.01
+2010,"Per 100,000 inhabitants",25 to under 35 years,,,,,5.23
+2011,"Per 100,000 inhabitants",25 to under 35 years,,,,,5.69
+2012,"Per 100,000 inhabitants",25 to under 35 years,,,,,4.96
+2013,"Per 100,000 inhabitants",25 to under 35 years,,,,,4.4
+2014,"Per 100,000 inhabitants",25 to under 35 years,,,,,4.21
+2015,"Per 100,000 inhabitants",25 to under 35 years,,,,,3.94
+2016,"Per 100,000 inhabitants",25 to under 35 years,,,,,3.28
+2017,"Per 100,000 inhabitants",25 to under 35 years,,,,,3.22
+2018,"Per 100,000 inhabitants",25 to under 35 years,,,,,3.19
+2019,"Per 100,000 inhabitants",25 to under 35 years,,,,,2.94
+2020,"Per 100,000 inhabitants",25 to under 35 years,,,,,2.83
+2021,"Per 100,000 inhabitants",25 to under 35 years,,,,,2.36
+2022,"Per 100,000 inhabitants",25 to under 35 years,,,,,2.4
+2023,"Per 100,000 inhabitants",25 to under 35 years,,,,,2.47
+2024,"Per 100,000 inhabitants",25 to under 35 years,,,,,2.38
+2010,"Per 100,000 inhabitants",35 to under 45 years,,,,,3.46
+2011,"Per 100,000 inhabitants",35 to under 45 years,,,,,3.82
+2012,"Per 100,000 inhabitants",35 to under 45 years,,,,,3.36
+2013,"Per 100,000 inhabitants",35 to under 45 years,,,,,3.37
+2014,"Per 100,000 inhabitants",35 to under 45 years,,,,,2.91
+2015,"Per 100,000 inhabitants",35 to under 45 years,,,,,3.24
+2016,"Per 100,000 inhabitants",35 to under 45 years,,,,,2.68
+2017,"Per 100,000 inhabitants",35 to under 45 years,,,,,2.55
+2018,"Per 100,000 inhabitants",35 to under 45 years,,,,,2.69
+2019,"Per 100,000 inhabitants",35 to under 45 years,,,,,2.34
+2020,"Per 100,000 inhabitants",35 to under 45 years,,,,,2.1
+2021,"Per 100,000 inhabitants",35 to under 45 years,,,,,1.78
+2022,"Per 100,000 inhabitants",35 to under 45 years,,,,,1.99
+2023,"Per 100,000 inhabitants",35 to under 45 years,,,,,2.24
+2024,"Per 100,000 inhabitants",35 to under 45 years,,,,,2.27
+2010,"Per 100,000 inhabitants",45 to under 55 years,,,,,4.45
+2011,"Per 100,000 inhabitants",45 to under 55 years,,,,,4.84
+2012,"Per 100,000 inhabitants",45 to under 55 years,,,,,4.35
+2013,"Per 100,000 inhabitants",45 to under 55 years,,,,,4.05
+2014,"Per 100,000 inhabitants",45 to under 55 years,,,,,3.95
+2015,"Per 100,000 inhabitants",45 to under 55 years,,,,,3.92
+2016,"Per 100,000 inhabitants",45 to under 55 years,,,,,3.43
+2017,"Per 100,000 inhabitants",45 to under 55 years,,,,,3.42
+2018,"Per 100,000 inhabitants",45 to under 55 years,,,,,3.26
+2019,"Per 100,000 inhabitants",45 to under 55 years,,,,,2.9
+2020,"Per 100,000 inhabitants",45 to under 55 years,,,,,2.49
+2021,"Per 100,000 inhabitants",45 to under 55 years,,,,,2.55
+2022,"Per 100,000 inhabitants",45 to under 55 years,,,,,2.74
+2023,"Per 100,000 inhabitants",45 to under 55 years,,,,,2.43
+2024,"Per 100,000 inhabitants",45 to under 55 years,,,,,2.7
+2010,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.8
+2011,"Per 100,000 inhabitants",55 to under 65 years,,,,,4.36
+2012,"Per 100,000 inhabitants",55 to under 65 years,,,,,4.2
+2013,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.78
+2014,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.96
+2015,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.99
+2016,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.43
+2017,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.63
+2018,"Per 100,000 inhabitants",55 to under 65 years,,,,,4.2
+2019,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.65
+2020,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.35
+2021,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.05
+2022,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.3
+2023,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.2
+2024,"Per 100,000 inhabitants",55 to under 65 years,,,,,3.22
+2010,"Per 100,000 inhabitants",65 to under 75 years,,,,,4.68
+2011,"Per 100,000 inhabitants",65 to under 75 years,,,,,5.32
+2012,"Per 100,000 inhabitants",65 to under 75 years,,,,,5.06
+2013,"Per 100,000 inhabitants",65 to under 75 years,,,,,4.82
+2014,"Per 100,000 inhabitants",65 to under 75 years,,,,,4.54
+2015,"Per 100,000 inhabitants",65 to under 75 years,,,,,4.19
+2016,"Per 100,000 inhabitants",65 to under 75 years,,,,,4.15
+2017,"Per 100,000 inhabitants",65 to under 75 years,,,,,3.89
+2018,"Per 100,000 inhabitants",65 to under 75 years,,,,,4.14
+2019,"Per 100,000 inhabitants",65 to under 75 years,,,,,3.86
+2020,"Per 100,000 inhabitants",65 to under 75 years,,,,,3.45
+2021,"Per 100,000 inhabitants",65 to under 75 years,,,,,3.48
+2022,"Per 100,000 inhabitants",65 to under 75 years,,,,,3.86
+2023,"Per 100,000 inhabitants",65 to under 75 years,,,,,3.73
+2024,"Per 100,000 inhabitants",65 to under 75 years,,,,,4.41
+2010,"Per 100,000 inhabitants",75 years and older,,,,,7.8
+2011,"Per 100,000 inhabitants",75 years and older,,,,,9.16
+2012,"Per 100,000 inhabitants",75 years and older,,,,,8.8
+2013,"Per 100,000 inhabitants",75 years and older,,,,,8.12
+2014,"Per 100,000 inhabitants",75 years and older,,,,,7.85
+2015,"Per 100,000 inhabitants",75 years and older,,,,,8.1
+2016,"Per 100,000 inhabitants",75 years and older,,,,,8.03
+2017,"Per 100,000 inhabitants",75 years and older,,,,,7.22
+2018,"Per 100,000 inhabitants",75 years and older,,,,,7.34
+2019,"Per 100,000 inhabitants",75 years and older,,,,,7.07
+2020,"Per 100,000 inhabitants",75 years and older,,,,,6.09
+2021,"Per 100,000 inhabitants",75 years and older,,,,,5.68
+2022,"Per 100,000 inhabitants",75 years and older,,,,,6.98
+2023,"Per 100,000 inhabitants",75 years and older,,,,,7.21
+2024,"Per 100,000 inhabitants",75 years and older,,,,,7.23
+2010,"Per 100,000 inhabitants",,Female,,,,2.49
+2011,"Per 100,000 inhabitants",,Female,,,,2.66
+2012,"Per 100,000 inhabitants",,Female,,,,2.45
+2013,"Per 100,000 inhabitants",,Female,,,,2.21
+2014,"Per 100,000 inhabitants",,Female,,,,2.04
+2015,"Per 100,000 inhabitants",,Female,,,,2.05
+2016,"Per 100,000 inhabitants",,Female,,,,1.93
+2017,"Per 100,000 inhabitants",,Female,,,,1.82
+2018,"Per 100,000 inhabitants",,Female,,,,1.75
+2019,"Per 100,000 inhabitants",,Female,,,,1.6
+2020,"Per 100,000 inhabitants",,Female,,,,1.42
+2021,"Per 100,000 inhabitants",,Female,,,,1.17
+2022,"Per 100,000 inhabitants",,Female,,,,1.43
+2023,"Per 100,000 inhabitants",,Female,,,,1.5
+2024,"Per 100,000 inhabitants",,Female,,,,1.54
+2010,"Per 100,000 inhabitants",,Male,,,,6.99
+2011,"Per 100,000 inhabitants",,Male,,,,7.92
+2012,"Per 100,000 inhabitants",,Male,,,,7.22
+2013,"Per 100,000 inhabitants",,Male,,,,6.52
+2014,"Per 100,000 inhabitants",,Male,,,,6.51
+2015,"Per 100,000 inhabitants",,Male,,,,6.32
+2016,"Per 100,000 inhabitants",,Male,,,,5.65
+2017,"Per 100,000 inhabitants",,Male,,,,5.37
+2018,"Per 100,000 inhabitants",,Male,,,,5.73
+2019,"Per 100,000 inhabitants",,Male,,,,5.19
+2020,"Per 100,000 inhabitants",,Male,,,,4.69
+2021,"Per 100,000 inhabitants",,Male,,,,4.45
+2022,"Per 100,000 inhabitants",,Male,,,,4.78
+2023,"Per 100,000 inhabitants",,Male,,,,4.61
+2024,"Per 100,000 inhabitants",,Male,,,,4.97
+2010,Number,,,,,,3839.0
+2011,Number,,,,,,4197.0
+2012,Number,,,,,,3847.0
+2013,Number,,,,,,3482.0
+2014,Number,,,,,,3422.0
+2015,Number,,,,,,3377.0
+2016,Number,,,,,,3094.0
+2017,Number,,,,,,2934.0
+2018,Number,,,,,,3050.0
+2019,Number,,,,,,2774.0
+2020,Number,,,,,,2491.0
+2021,Number,,,,,,2292.0
+2022,Number,,,,,,2544.0
+2023,Number,,,,,,2533.0
+2024,Number,,,,,,2703.0
+2010,Number,14 years and younger,,,,,102.0
+2011,Number,14 years and younger,,,,,89.0
+2012,Number,14 years and younger,,,,,75.0
+2013,Number,14 years and younger,,,,,54.0
+2014,Number,14 years and younger,,,,,74.0
+2015,Number,14 years and younger,,,,,63.0
+2016,Number,14 years and younger,,,,,66.0
+2017,Number,14 years and younger,,,,,48.0
+2018,Number,14 years and younger,,,,,59.0
+2019,Number,14 years and younger,,,,,44.0
+2020,Number,14 years and younger,,,,,36.0
+2021,Number,14 years and younger,,,,,35.0
+2022,Number,14 years and younger,,,,,41.0
+2023,Number,14 years and younger,,,,,25.0
+2024,Number,14 years and younger,,,,,52.0
+2010,Number,15 to under 25 years,,,,,796.0
+2011,Number,15 to under 25 years,,,,,852.0
+2012,Number,15 to under 25 years,,,,,754.0
+2013,Number,15 to under 25 years,,,,,583.0
+2014,Number,15 to under 25 years,,,,,589.0
+2015,Number,15 to under 25 years,,,,,518.0
+2016,Number,15 to under 25 years,,,,,467.0
+2017,Number,15 to under 25 years,,,,,415.0
+2018,Number,15 to under 25 years,,,,,402.0
+2019,Number,15 to under 25 years,,,,,375.0
+2020,Number,15 to under 25 years,,,,,346.0
+2021,Number,15 to under 25 years,,,,,297.0
+2022,Number,15 to under 25 years,,,,,288.0
+2023,Number,15 to under 25 years,,,,,282.0
+2024,Number,15 to under 25 years,,,,,335.0
+2010,Number,25 to under 35 years,,,,,510.0
+2011,Number,25 to under 35 years,,,,,546.0
+2012,Number,25 to under 35 years,,,,,483.0
+2013,Number,25 to under 35 years,,,,,437.0
+2014,Number,25 to under 35 years,,,,,426.0
+2015,Number,25 to under 35 years,,,,,408.0
+2016,Number,25 to under 35 years,,,,,344.0
+2017,Number,25 to under 35 years,,,,,337.0
+2018,Number,25 to under 35 years,,,,,333.0
+2019,Number,25 to under 35 years,,,,,305.0
+2020,Number,25 to under 35 years,,,,,291.0
+2021,Number,25 to under 35 years,,,,,240.0
+2022,Number,25 to under 35 years,,,,,245.0
+2023,Number,25 to under 35 years,,,,,254.0
+2024,Number,25 to under 35 years,,,,,244.0
+2010,Number,35 to under 45 years,,,,,410.0
+2011,Number,35 to under 45 years,,,,,422.0
+2012,Number,35 to under 45 years,,,,,357.0
+2013,Number,35 to under 45 years,,,,,347.0
+2014,Number,35 to under 45 years,,,,,292.0
+2015,Number,35 to under 45 years,,,,,321.0
+2016,Number,35 to under 45 years,,,,,264.0
+2017,Number,35 to under 45 years,,,,,251.0
+2018,Number,35 to under 45 years,,,,,268.0
+2019,Number,35 to under 45 years,,,,,236.0
+2020,Number,35 to under 45 years,,,,,214.0
+2021,Number,35 to under 45 years,,,,,184.0
+2022,Number,35 to under 45 years,,,,,210.0
+2023,Number,35 to under 45 years,,,,,243.0
+2024,Number,35 to under 45 years,,,,,250.0
+2010,Number,45 to under 55 years,,,,,588.0
+2011,Number,45 to under 55 years,,,,,639.0
+2012,Number,45 to under 55 years,,,,,583.0
+2013,Number,45 to under 55 years,,,,,547.0
+2014,Number,45 to under 55 years,,,,,535.0
+2015,Number,45 to under 55 years,,,,,529.0
+2016,Number,45 to under 55 years,,,,,457.0
+2017,Number,45 to under 55 years,,,,,446.0
+2018,Number,45 to under 55 years,,,,,412.0
+2019,Number,45 to under 55 years,,,,,353.0
+2020,Number,45 to under 55 years,,,,,291.0
+2021,Number,45 to under 55 years,,,,,287.0
+2022,Number,45 to under 55 years,,,,,298.0
+2023,Number,45 to under 55 years,,,,,258.0
+2024,Number,45 to under 55 years,,,,,279.0
+2010,Number,55 to under 65 years,,,,,377.0
+2011,Number,55 to under 65 years,,,,,442.0
+2012,Number,55 to under 65 years,,,,,438.0
+2013,Number,55 to under 65 years,,,,,403.0
+2014,Number,55 to under 65 years,,,,,431.0
+2015,Number,55 to under 65 years,,,,,443.0
+2016,Number,55 to under 65 years,,,,,389.0
+2017,Number,55 to under 65 years,,,,,421.0
+2018,Number,55 to under 65 years,,,,,499.0
+2019,Number,55 to under 65 years,,,,,444.0
+2020,Number,55 to under 65 years,,,,,416.0
+2021,Number,55 to under 65 years,,,,,385.0
+2022,Number,55 to under 65 years,,,,,424.0
+2023,Number,55 to under 65 years,,,,,416.0
+2024,Number,55 to under 65 years,,,,,420.0
+2010,Number,65 to under 75 years,,,,,443.0
+2011,Number,65 to under 75 years,,,,,482.0
+2012,Number,65 to under 75 years,,,,,448.0
+2013,Number,65 to under 75 years,,,,,417.0
+2014,Number,65 to under 75 years,,,,,385.0
+2015,Number,65 to under 75 years,,,,,349.0
+2016,Number,65 to under 75 years,,,,,341.0
+2017,Number,65 to under 75 years,,,,,320.0
+2018,Number,65 to under 75 years,,,,,344.0
+2019,Number,65 to under 75 years,,,,,325.0
+2020,Number,65 to under 75 years,,,,,299.0
+2021,Number,65 to under 75 years,,,,,312.0
+2022,Number,65 to under 75 years,,,,,356.0
+2023,Number,65 to under 75 years,,,,,353.0
+2024,Number,65 to under 75 years,,,,,426.0
+2010,Number,75 years and older,,,,,578.0
+2011,Number,75 years and older,,,,,689.0
+2012,Number,75 years and older,,,,,687.0
+2013,Number,75 years and older,,,,,658.0
+2014,Number,75 years and older,,,,,663.0
+2015,Number,75 years and older,,,,,713.0
+2016,Number,75 years and older,,,,,731.0
+2017,Number,75 years and older,,,,,670.0
+2018,Number,75 years and older,,,,,687.0
+2019,Number,75 years and older,,,,,667.0
+2020,Number,75 years and older,,,,,571.0
+2021,Number,75 years and older,,,,,524.0
+2022,Number,75 years and older,,,,,638.0
+2023,Number,75 years and older,,,,,658.0
+2024,Number,75 years and older,,,,,664.0
+2010,Number,,Female,,,,1038.0
+2011,Number,,Female,,,,1092.0
+2012,Number,,Female,,,,1008.0
+2013,Number,,Female,,,,909.0
+2014,Number,,Female,,,,839.0
+2015,Number,,Female,,,,846.0
+2016,Number,,Female,,,,803.0
+2017,Number,,Female,,,,755.0
+2018,Number,,Female,,,,727.0
+2019,Number,,Female,,,,666.0
+2020,Number,,Female,,,,592.0
+2021,Number,,Female,,,,488.0
+2022,Number,,Female,,,,600.0
+2023,Number,,Female,,,,635.0
+2024,Number,,Female,,,,653.0
+2010,Number,,Male,,,,2801.0
+2011,Number,,Male,,,,3103.0
+2012,Number,,Male,,,,2837.0
+2013,Number,,Male,,,,2569.0
+2014,Number,,Male,,,,2577.0
+2015,Number,,Male,,,,2529.0
+2016,Number,,Male,,,,2282.0
+2017,Number,,Male,,,,2174.0
+2018,Number,,Male,,,,2322.0
+2019,Number,,Male,,,,2103.0
+2020,Number,,Male,,,,1898.0
+2021,Number,,Male,,,,1797.0
+2022,Number,,Male,,,,1944.0
+2023,Number,,Male,,,,1894.0
+2024,Number,,Male,,,,2048.0

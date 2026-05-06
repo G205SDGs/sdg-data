@@ -1,40 +1,120 @@
-Year,Sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,,,,10279
-2011,,,,,11415
-2012,,,,,11701
-2013,,,,,11331
-2014,,r,,,12659
-2015,,,,,12117
-2016,,,,,12824
-2017,,,,,13263
-2018,,,,,14747
-2019,,,,,15577
-2020,,,,,16070
-2021,,,,,14209
-2022,,p,,,15929
-2010,General government,,,,2726
-2011,General government,,,,3434
-2012,General government,,,,3716
-2013,General government,,,,3708
-2014,General government,r,,,4271
-2015,General government,,,,4051
-2016,General government,,,,4594
-2017,General government,,,,4245
-2018,General government,,,,4625
-2019,General government,,,,4979
-2020,General government,,,,5028
-2021,General government,,,,3589
-2022,General government,p,,,3902
-2010,Corporations,,,,7553
-2011,Corporations,,,,7981
-2012,Corporations,,,,7985
-2013,Corporations,,,,7623
-2014,Corporations,,,,8388
-2015,Corporations,,,,8066
-2016,Corporations,,,,8230
-2017,Corporations,,,,9018
-2018,Corporations,,,,10123
-2019,Corporations,,,,10598
-2020,Corporations,,,,11042
-2021,Corporations,,,,10620
-2022,Corporations,p,,,12026
+Year,Environmental protection and/or resource management sector,Economic activity,Type of sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2022,,,,,,,Output of the environmental goods and services sector (EGSS),286978.155
+2023,,,,p,,,Output of the environmental goods and services sector (EGSS),284514.935
+2022,Air and climate (CEP 01),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Air and climate (CEP 01),,,,,,Output of the environmental goods and services sector (EGSS),24420.372
+2024,Air and climate (CEP 01),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,Energy from renewable sources (CEP 0201),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Energy from renewable sources (CEP 0201),,,,,,Output of the environmental goods and services sector (EGSS),101940.629
+2024,Energy from renewable sources (CEP 0201),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,Energy savings and management (CEP 0202),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Energy savings and management (CEP 0202),,,,,,Output of the environmental goods and services sector (EGSS),34654.472
+2024,Energy savings and management (CEP 0202),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,Wastewater management (CEP 0301),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Wastewater management (CEP 0301),,,,,,Output of the environmental goods and services sector (EGSS),33969.816
+2024,Wastewater management (CEP 0301),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,Water savings and management of natural water resources (CEP 0302),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Water savings and management of natural water resources (CEP 0302),,,,,,Output of the environmental goods and services sector (EGSS),91.89
+2024,Water savings and management of natural water resources (CEP 0302),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,Waste management (CEP 0401),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Waste management (CEP 0401),,,,,,Output of the environmental goods and services sector (EGSS),41310.205
+2024,Waste management (CEP 0401),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,Materials recovery and savings (CEP 0402),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Materials recovery and savings (CEP 0402),,,,,,Output of the environmental goods and services sector (EGSS),21448.488
+2024,Materials recovery and savings (CEP 0402),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,"Protection of soil, surface and groundwater (CEP 0501)",,,,,,Output of the environmental goods and services sector (EGSS),
+2023,"Protection of soil, surface and groundwater (CEP 0501)",,,,,,Output of the environmental goods and services sector (EGSS),8482.142
+2024,"Protection of soil, surface and groundwater (CEP 0501)",,,,,,Output of the environmental goods and services sector (EGSS),
+2022,Protection of biodiversity and landscape (CEP 0502),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Protection of biodiversity and landscape (CEP 0502),,,,,,Output of the environmental goods and services sector (EGSS),2525.694
+2024,Protection of biodiversity and landscape (CEP 0502),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,Management of forest resources (CEP 0503),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Management of forest resources (CEP 0503),,,,,,Output of the environmental goods and services sector (EGSS),3548.487
+2024,Management of forest resources (CEP 0503),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,Noise and radiation (CEP 06),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Noise and radiation (CEP 06),,,,,,Output of the environmental goods and services sector (EGSS),6933.207
+2024,Noise and radiation (CEP 06),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,"Research and development in the field of environmental protection (CEP 0701, 0703, 0705, 0707 und 0709)",,,,,,Output of the environmental goods and services sector (EGSS),
+2023,"Research and development in the field of environmental protection (CEP 0701, 0703, 0705, 0707 und 0709)",,,,,,Output of the environmental goods and services sector (EGSS),1720.42
+2024,"Research and development in the field of environmental protection (CEP 0701, 0703, 0705, 0707 und 0709)",,,,,,Output of the environmental goods and services sector (EGSS),
+2022,"Research and development in the field of resource management (CEP 0702, 0704, 0706 und 0708)",,,,,,Output of the environmental goods and services sector (EGSS),
+2023,"Research and development in the field of resource management (CEP 0702, 0704, 0706 und 0708)",,,,,,Output of the environmental goods and services sector (EGSS),236.365
+2024,"Research and development in the field of resource management (CEP 0702, 0704, 0706 und 0708)",,,,,,Output of the environmental goods and services sector (EGSS),
+2022,Cross-cutting and other environmental purposes (CEP 08),,,,,,Output of the environmental goods and services sector (EGSS),
+2023,Cross-cutting and other environmental purposes (CEP 08),,,,,,Output of the environmental goods and services sector (EGSS),3232.749
+2024,Cross-cutting and other environmental purposes (CEP 08),,,,,,Output of the environmental goods and services sector (EGSS),
+2022,,"Agriculture, forestry and fishing (ISIC A)",,,,,Output of the environmental goods and services sector (EGSS),
+2023,,"Agriculture, forestry and fishing (ISIC A)",,,,,Output of the environmental goods and services sector (EGSS),9839.794
+2024,,"Agriculture, forestry and fishing (ISIC A)",,,,,Output of the environmental goods and services sector (EGSS),
+2022,,Mining and quarrying (ISIC B),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,Mining and quarrying (ISIC B),,,,,Output of the environmental goods and services sector (EGSS),44.752
+2024,,Mining and quarrying (ISIC B),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,Manufacturing (ISIC C),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,Manufacturing (ISIC C),,,,,Output of the environmental goods and services sector (EGSS),100848.109
+2024,,Manufacturing (ISIC C),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,"Electricity, gas, steam and air conditioning supply (ISIC D)",,,,,Output of the environmental goods and services sector (EGSS),
+2023,,"Electricity, gas, steam and air conditioning supply (ISIC D)",,,,,Output of the environmental goods and services sector (EGSS),53506.283
+2024,,"Electricity, gas, steam and air conditioning supply (ISIC D)",,,,,Output of the environmental goods and services sector (EGSS),
+2022,,"Water supply; sewerage, waste management and remediation activities (ISIC E)",,,,,Output of the environmental goods and services sector (EGSS),
+2023,,"Water supply; sewerage, waste management and remediation activities (ISIC E)",,,,,Output of the environmental goods and services sector (EGSS),78618.446
+2024,,"Water supply; sewerage, waste management and remediation activities (ISIC E)",,,,,Output of the environmental goods and services sector (EGSS),
+2022,,Construction (ISIC F),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,Construction (ISIC F),,,,,Output of the environmental goods and services sector (EGSS),14804.37
+2024,,Construction (ISIC F),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,Information and communication (ISIC J),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,Information and communication (ISIC J),,,,,Output of the environmental goods and services sector (EGSS),600.228
+2024,,Information and communication (ISIC J),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,"Professional, scientific and technical activities (ISIC M)",,,,,Output of the environmental goods and services sector (EGSS),
+2023,,"Professional, scientific and technical activities (ISIC M)",,,,,Output of the environmental goods and services sector (EGSS),10205.845
+2024,,"Professional, scientific and technical activities (ISIC M)",,,,,Output of the environmental goods and services sector (EGSS),
+2022,,Public administration and defence; compulsory social security (ISIC O),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,Public administration and defence; compulsory social security (ISIC O),,,,,Output of the environmental goods and services sector (EGSS),10336.34
+2024,,Public administration and defence; compulsory social security (ISIC O),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,Education (ISIC P),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,Education (ISIC P),,,,,Output of the environmental goods and services sector (EGSS),1392.03
+2024,,Education (ISIC P),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,"Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)",,,,,Output of the environmental goods and services sector (EGSS),
+2023,,"Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)",,,,,Output of the environmental goods and services sector (EGSS),4318.738
+2024,,"Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)",,,,,Output of the environmental goods and services sector (EGSS),
+2010,,,,,,,Gross fixed capital formation for environmental protection activities,10279.0
+2011,,,,,,,Gross fixed capital formation for environmental protection activities,11415.0
+2012,,,,,,,Gross fixed capital formation for environmental protection activities,11701.0
+2013,,,,,,,Gross fixed capital formation for environmental protection activities,11331.0
+2014,,,,r,,,Gross fixed capital formation for environmental protection activities,12659.0
+2015,,,,,,,Gross fixed capital formation for environmental protection activities,12117.0
+2016,,,,,,,Gross fixed capital formation for environmental protection activities,12824.0
+2017,,,,,,,Gross fixed capital formation for environmental protection activities,13263.0
+2018,,,,,,,Gross fixed capital formation for environmental protection activities,14747.0
+2019,,,,,,,Gross fixed capital formation for environmental protection activities,15577.0
+2020,,,,r,,,Gross fixed capital formation for environmental protection activities,15551.0
+2021,,,,,,,Gross fixed capital formation for environmental protection activities,14210.0
+2022,,,,r,,,Gross fixed capital formation for environmental protection activities,15376.0
+2023,,,,p,,,Gross fixed capital formation for environmental protection activities,17119.0
+2010,,,General government,,,,Gross fixed capital formation for environmental protection activities,2726.0
+2011,,,General government,,,,Gross fixed capital formation for environmental protection activities,3434.0
+2012,,,General government,,,,Gross fixed capital formation for environmental protection activities,3716.0
+2013,,,General government,,,,Gross fixed capital formation for environmental protection activities,3708.0
+2014,,,General government,r,,,Gross fixed capital formation for environmental protection activities,4271.0
+2015,,,General government,,,,Gross fixed capital formation for environmental protection activities,4051.0
+2016,,,General government,,,,Gross fixed capital formation for environmental protection activities,4594.0
+2017,,,General government,,,,Gross fixed capital formation for environmental protection activities,4245.0
+2018,,,General government,,,,Gross fixed capital formation for environmental protection activities,4625.0
+2019,,,General government,,,,Gross fixed capital formation for environmental protection activities,4979.0
+2020,,,General government,r,,,Gross fixed capital formation for environmental protection activities,5057.0
+2021,,,General government,,,,Gross fixed capital formation for environmental protection activities,3589.0
+2022,,,General government,r,,,Gross fixed capital formation for environmental protection activities,3361.0
+2023,,,General government,p,,,Gross fixed capital formation for environmental protection activities,3546.0
+2010,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,7553.0
+2011,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,7981.0
+2012,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,7985.0
+2013,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,7623.0
+2014,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,8388.0
+2015,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,8066.0
+2016,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,8230.0
+2017,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,9018.0
+2018,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,10123.0
+2019,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,10598.0
+2020,,,Corporations,r,,,Gross fixed capital formation for environmental protection activities,10495.0
+2021,,,Corporations,,,,Gross fixed capital formation for environmental protection activities,10621.0
+2022,,,Corporations,r,,,Gross fixed capital formation for environmental protection activities,12016.0
+2023,,,Corporations,p,,,Gross fixed capital formation for environmental protection activities,13572.0

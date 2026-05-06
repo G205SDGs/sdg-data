@@ -16,18 +16,18 @@
             "title": "Year"
           },
           {
-            "name": "disease",
+            "name": "type of disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Cardiovascular disease",
-                "b) Cancer",
-                "c) Diabetes mellitus",
-                "d) Chronic respiratory disease",
+                "(a) Cardiovascular disease",
+                "(b) Cancer",
+                "(c) Diabetes mellitus",
+                "(d) Chronic respiratory disease",
                 ""
               ]
             },
-            "title": "Disease"
+            "title": "Type of disease"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "substance",
+            "name": "type of substance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Substance"
+            "title": "Type of substance"
           },
           {
             "name": "bound",

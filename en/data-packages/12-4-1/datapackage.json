@@ -16,25 +16,38 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Basel Convention",
-                "Montreal Protocol",
-                "Rotterdam Convention",
-                "Stockholm Convention",
-                "Minamata Convention",
+                "yes=1, no=0",
+                "Percentage",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Units"
+          },
+          {
+            "name": "type of obligation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Contracting Party",
+                "Fulfilment of reporting obligation",
+                "Compliance with the agreement",
+                ""
+              ]
+            },
+            "title": "Type of obligation"
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "x",
+                "‒",
                 ""
               ]
             },
@@ -61,8 +74,23 @@
             "title": "COMMENT_OBS_2"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(1) Basel Convention",
+                "(2) Montreal Protocol",
+                "(3) Rotterdam Convention",
+                "(4) Stockholm Convention",
+                "(5) Minamata Convention",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

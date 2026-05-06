@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Over 144 kbps to under 2 mbps",
-                "b) 2 mbps to under 10 mbps",
-                "c) 10 mbps to under 30 mbps",
-                "d) 30 mbps to under 100 mbps",
-                "e) 100 mbps and over",
+                "(a) Over 144 kbps to under 2 mbps",
+                "(b) 2 mbps to under 10 mbps",
+                "(c) 10 mbps to under 30 mbps",
+                "(d) 30 mbps to under 100 mbps",
+                "(e) 100 mbps and over",
                 ""
               ]
             },

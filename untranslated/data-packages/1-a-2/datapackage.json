@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "function",
+            "name": "typ of essential service",
             "type": "string",
             "constraints": {
               "enum": [

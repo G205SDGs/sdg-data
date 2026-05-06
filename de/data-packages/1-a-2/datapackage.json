@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "function",
+            "name": "typ of essential service",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Aufgabenbereich"
+            "title": "Art der Grundleistung"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -1,67 +1,91 @@
-Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,million eur,total,.,,,
-2011,million eur,total,.,,,
-2012,million eur,total,.,,,
-2013,million eur,total,.,,,
-2014,million eur,total,,,,
-2015,million eur,total,r,,,5930.0
-2016,million eur,total,,,,5900.123
-2017,million eur,total,,,,5687.281
-2018,million eur,total,,,,5775.046
-2019,million eur,total,,,,4414.115
-2020,million eur,total,,,,3996.652
-2010,million eur,tax breaks,.,,,
-2011,million eur,tax breaks,.,,,
-2012,million eur,tax breaks,.,,,
-2013,million eur,tax breaks,.,,,
-2014,million eur,tax breaks,.,,,
-2015,million eur,tax breaks,,,,4679.637
-2016,million eur,tax breaks,,,,4451.453
-2017,million eur,tax breaks,,,,4486.55
-2018,million eur,tax breaks,,,,4666.09
-2019,million eur,tax breaks,,,,4414.115
-2020,million eur,tax breaks,,,,3996.652
+Year,Units,type of fiscal policy tool,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,million eur,,.,,,
+2011,million eur,,.,,,
+2012,million eur,,.,,,
+2013,million eur,,.,,,
+2014,million eur,,,,,
+2015,million eur,,r,,,14875.48
+2016,million eur,,r,,,15260.54
+2017,million eur,,r,,,13617.36
+2018,million eur,,r,,,15030.44
+2019,million eur,,r,,,14241.55
+2020,million eur,,r,,,8956.95
+2021,million eur,,,,,9733.3
+2022,million eur,,,,,12610.09
+2023,million eur,,,,,32634.39
+2024,million eur,,,,,
+2010,million eur,tax reliefs,.,,,
+2011,million eur,tax reliefs,.,,,
+2012,million eur,tax reliefs,.,,,
+2013,million eur,tax reliefs,.,,,
+2014,million eur,tax reliefs,.,,,
+2015,million eur,tax reliefs,r,,,13461.37
+2016,million eur,tax reliefs,r,,,13523.15
+2017,million eur,tax reliefs,r,,,12214.42
+2018,million eur,tax reliefs,r,,,13702.98
+2019,million eur,tax reliefs,r,,,13695.51
+2020,million eur,tax reliefs,,,,8124.13
+2021,million eur,tax reliefs,,,,8927.25
+2022,million eur,tax reliefs,,,,10817.28
+2023,million eur,tax reliefs,,,,11099.65
+2024,million eur,tax reliefs,,,,11494.0
 2010,million eur,direct transfers of funds,.,,,
 2011,million eur,direct transfers of funds,.,,,
 2012,million eur,direct transfers of funds,.,,,
 2013,million eur,direct transfers of funds,.,,,
 2014,million eur,direct transfers of funds,.,,,
-2015,million eur,direct transfers of funds,r,,,1250.0
-2016,million eur,direct transfers of funds,,,,1448.67
-2017,million eur,direct transfers of funds,,,,1200.731
-2018,million eur,direct transfers of funds,,,,1108.956
-2019,million eur,direct transfers of funds,-,,,0.0
-2020,million eur,direct transfers of funds,-,,,0.0
-2010,percent of gdp,total,.,,,
-2011,percent of gdp,total,.,,,
-2012,percent of gdp,total,.,,,
-2013,percent of gdp,total,.,,,
-2014,percent of gdp,total,.,,,
-2015,percent of gdp,total,r,,,0.196
-2016,percent of gdp,total,,,,0.188
-2017,percent of gdp,total,,,,0.174
-2018,percent of gdp,total,,,,0.172
-2019,percent of gdp,total,,,,0.127
-2020,percent of gdp,total,,,,0.117
-2010,percent of gdp,tax breaks,.,,,
-2011,percent of gdp,tax breaks,.,,,
-2012,percent of gdp,tax breaks,.,,,
-2013,percent of gdp,tax breaks,.,,,
-2014,percent of gdp,tax breaks,.,,,
-2015,percent of gdp,tax breaks,,,,0.155
-2016,percent of gdp,tax breaks,,,,0.142
-2017,percent of gdp,tax breaks,,,,0.137
-2018,percent of gdp,tax breaks,,,,0.139
-2019,percent of gdp,tax breaks,,,,0.127
-2020,percent of gdp,tax breaks,,,,0.117
-2010,percent of gdp,direct transfers of funds,.,,,
-2011,percent of gdp,direct transfers of funds,.,,,
-2012,percent of gdp,direct transfers of funds,.,,,
-2013,percent of gdp,direct transfers of funds,.,,,
-2014,percent of gdp,direct transfers of funds,.,,,
-2015,percent of gdp,direct transfers of funds,r,,,0.041
-2016,percent of gdp,direct transfers of funds,,,,0.046
-2017,percent of gdp,direct transfers of funds,,,,0.037
-2018,percent of gdp,direct transfers of funds,,,,0.033
-2019,percent of gdp,direct transfers of funds,-,,,0.0
-2020,percent of gdp,direct transfers of funds,-,,,0.0
+2015,million eur,direct transfers of funds,r,,,1414.11
+2016,million eur,direct transfers of funds,r,,,1737.39
+2017,million eur,direct transfers of funds,r,,,1402.94
+2018,million eur,direct transfers of funds,r,,,1327.46
+2019,million eur,direct transfers of funds,r,,,546.04
+2020,million eur,direct transfers of funds,,,,832.82
+2021,million eur,direct transfers of funds,,,,806.05
+2022,million eur,direct transfers of funds,,,,1792.81
+2023,million eur,direct transfers of funds,,,,21534.74
+2024,million eur,direct transfers of funds,…,,,
+2010,percentage,,.,,,
+2011,percentage,,.,,,
+2012,percentage,,.,,,
+2013,percentage,,.,,,
+2014,percentage,,.,,,
+2015,percentage,,r,,,0.482
+2016,percentage,,r,,,0.484
+2017,percentage,,r,,,0.415
+2018,percentage,,r,,,0.446
+2019,percentage,,r,,,0.411
+2020,percentage,,r,,,0.264
+2021,percentage,,,,,0.271
+2022,percentage,,,,,0.336
+2023,percentage,,,,,0.825
+2024,percentage,,,,,
+2010,percentage,tax reliefs,.,,,
+2011,percentage,tax reliefs,.,,,
+2012,percentage,tax reliefs,.,,,
+2013,percentage,tax reliefs,.,,,
+2014,percentage,tax reliefs,.,,,
+2015,percentage,tax reliefs,r,,,0.436
+2016,percentage,tax reliefs,r,,,0.429
+2017,percentage,tax reliefs,r,,,0.372
+2018,percentage,tax reliefs,r,,,0.407
+2019,percentage,tax reliefs,r,,,0.395
+2020,percentage,tax reliefs,r,,,0.24
+2021,percentage,tax reliefs,,,,0.249
+2022,percentage,tax reliefs,,,,0.289
+2023,percentage,tax reliefs,,,,0.281
+2024,percentage,tax reliefs,,,,0.274
+2010,percentage,direct transfers of funds,.,,,
+2011,percentage,direct transfers of funds,.,,,
+2012,percentage,direct transfers of funds,.,,,
+2013,percentage,direct transfers of funds,.,,,
+2014,percentage,direct transfers of funds,.,,,
+2015,percentage,direct transfers of funds,r,,,0.046
+2016,percentage,direct transfers of funds,r,,,0.055
+2017,percentage,direct transfers of funds,r,,,0.043
+2018,percentage,direct transfers of funds,r,,,0.039
+2019,percentage,direct transfers of funds,r,,,0.016
+2020,percentage,direct transfers of funds,r,,,0.025
+2021,percentage,direct transfers of funds,,,,0.022
+2022,percentage,direct transfers of funds,,,,0.048
+2023,percentage,direct transfers of funds,,,,0.545
+2024,percentage,direct transfers of funds,…,,,

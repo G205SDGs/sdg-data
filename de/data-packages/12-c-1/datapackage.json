@@ -21,24 +21,23 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Prozent des BIP",
+                "Prozent",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "type of fiscal policy tool",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
                 "Steuervergünstigungen",
                 "Direkte finanzielle Beihilfen",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art des fiskalpolitischen Instruments"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -47,7 +46,7 @@
               "enum": [
                 ".",
                 "r",
-                "-",
+                "…",
                 ""
               ]
             },

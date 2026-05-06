@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "stages of the food chain",
+            "name": "food chain stage",
             "type": "string",
             "constraints": {
               "enum": [

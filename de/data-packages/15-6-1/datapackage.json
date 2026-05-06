@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutschland als Empfänger",
-                "Deutschland als Bereitsteller",
+                "[a] Deutschland als Empfänger",
+                "[b] Deutschland als Bereitsteller",
                 ""
               ]
             },
@@ -65,7 +65,7 @@
             "constraints": {
               "enum": [
                 "p",
-                "‒",
+                "-",
                 ""
               ]
             },
@@ -108,7 +108,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]

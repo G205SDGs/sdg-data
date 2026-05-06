@@ -149,8 +149,8 @@ Year,Units,Zeitreihe,Aufgabenbereich,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,C
 2021,Prozent,Justiz,,,,,,48.4
 2022,Prozent,Justiz,,,,,,49.1
 2023,Prozent,Justiz,,,,,,49.9
-2024,Prozent,Justiz,,,,,,
-2025,Prozent,Justiz,,,,,,
+2024,Prozent,Justiz,,,,,,50.7
+2025,Prozent,Justiz,,,…,,,
 2026,Prozent,Justiz,,,…,,,
 2010,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,23.0
 2011,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,23.0
@@ -166,8 +166,8 @@ Year,Units,Zeitreihe,Aufgabenbereich,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,C
 2021,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,39.0
 2022,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,39.4
 2023,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,39.4
-2024,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,
-2025,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,
+2024,Prozent,Justiz,,Oberste/Verfassungsgerichte,,,,40.6
+2025,Prozent,Justiz,,Oberste/Verfassungsgerichte,…,,,
 2026,Prozent,Justiz,,Oberste/Verfassungsgerichte,…,,,
 2010,Prozent,Justiz,,Übergeordnete Gerichte,,,,29.3
 2011,Prozent,Justiz,,Übergeordnete Gerichte,,,,30.5
@@ -183,8 +183,8 @@ Year,Units,Zeitreihe,Aufgabenbereich,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,C
 2021,Prozent,Justiz,,Übergeordnete Gerichte,,,,40.2
 2022,Prozent,Justiz,,Übergeordnete Gerichte,,,,41.1
 2023,Prozent,Justiz,,Übergeordnete Gerichte,,,,42.4
-2024,Prozent,Justiz,,Übergeordnete Gerichte,,,,
-2025,Prozent,Justiz,,Übergeordnete Gerichte,,,,
+2024,Prozent,Justiz,,Übergeordnete Gerichte,,,,43.4
+2025,Prozent,Justiz,,Übergeordnete Gerichte,…,,,
 2026,Prozent,Justiz,,Übergeordnete Gerichte,…,,,
 2010,Prozent,Justiz,,Untergeordnete Gerichte,,,,40.7
 2011,Prozent,Justiz,,Untergeordnete Gerichte,,,,41.5
@@ -200,7 +200,7 @@ Year,Units,Zeitreihe,Aufgabenbereich,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,C
 2021,Prozent,Justiz,,Untergeordnete Gerichte,,,,50.3
 2022,Prozent,Justiz,,Untergeordnete Gerichte,,,,51.0
 2023,Prozent,Justiz,,Untergeordnete Gerichte,,,,51.7
-2024,Prozent,Justiz,,Untergeordnete Gerichte,…,,,
+2024,Prozent,Justiz,,Untergeordnete Gerichte,,,,52.5
 2025,Prozent,Justiz,,Untergeordnete Gerichte,…,,,
 2026,Prozent,Justiz,,Untergeordnete Gerichte,…,,,
 2010,Keine Einheit,Deutscher Bundestag,,,,,,0.66
@@ -336,7 +336,7 @@ Year,Units,Zeitreihe,Aufgabenbereich,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,C
 2021,Keine Einheit,Justiz,,,,,,0.98
 2022,Keine Einheit,Justiz,,,,,,0.99
 2023,Keine Einheit,Justiz,,,,,,1.01
-2024,Keine Einheit,Justiz,,,…,,,
+2024,Keine Einheit,Justiz,,,,,,1.03
 2025,Keine Einheit,Justiz,,,…,,,
 2026,Keine Einheit,Justiz,,,…,,,
 2010,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,,,,0.47
@@ -353,7 +353,7 @@ Year,Units,Zeitreihe,Aufgabenbereich,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,C
 2021,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,,,,0.79
 2022,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,,,,0.8
 2023,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,,,,0.8
-2024,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,…,,,
+2024,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,,,,0.82
 2025,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,…,,,
 2026,Keine Einheit,Justiz,,Oberste/Verfassungsgerichte,…,,,
 2010,Keine Einheit,Justiz,,Übergeordnete Gerichte,,,,0.59
@@ -370,7 +370,7 @@ Year,Units,Zeitreihe,Aufgabenbereich,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,C
 2021,Keine Einheit,Justiz,,Übergeordnete Gerichte,,,,0.81
 2022,Keine Einheit,Justiz,,Übergeordnete Gerichte,,,,0.83
 2023,Keine Einheit,Justiz,,Übergeordnete Gerichte,,,,0.86
-2024,Keine Einheit,Justiz,,Übergeordnete Gerichte,…,,,
+2024,Keine Einheit,Justiz,,Übergeordnete Gerichte,,,,0.88
 2025,Keine Einheit,Justiz,,Übergeordnete Gerichte,…,,,
 2026,Keine Einheit,Justiz,,Übergeordnete Gerichte,…,,,
 2010,Keine Einheit,Justiz,,Untergeordnete Gerichte,,,,0.82
@@ -387,6 +387,6 @@ Year,Units,Zeitreihe,Aufgabenbereich,Gerichtsebene,COMMENT_OBS_0,COMMENT_OBS_1,C
 2021,Keine Einheit,Justiz,,Untergeordnete Gerichte,,,,1.02
 2022,Keine Einheit,Justiz,,Untergeordnete Gerichte,,,,1.03
 2023,Keine Einheit,Justiz,,Untergeordnete Gerichte,,,,1.05
-2024,Keine Einheit,Justiz,,Untergeordnete Gerichte,…,,,
+2024,Keine Einheit,Justiz,,Untergeordnete Gerichte,,,,1.06
 2025,Keine Einheit,Justiz,,Untergeordnete Gerichte,…,,,
 2026,Keine Einheit,Justiz,,Untergeordnete Gerichte,…,,,

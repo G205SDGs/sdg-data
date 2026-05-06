@@ -1,65 +1,69 @@
 Year,Type of service,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Schools with access to electricity,s,,,100
-2011,Schools with access to electricity,s,,,100
-2012,Schools with access to electricity,s,,,100
-2013,Schools with access to electricity,s,,,100
-2014,Schools with access to electricity,s,,,100
-2015,Schools with access to electricity,s,,,100
-2016,Schools with access to electricity,s,,,100
-2017,Schools with access to electricity,s,,,100
-2018,Schools with access to electricity,s,,,100
-2019,Schools with access to electricity,s,,,100
-2020,Schools with access to electricity,s,,,100
-2021,Schools with access to electricity,s,,,100
-2022,Schools with access to electricity,s,,,100
-2023,Schools with access to electricity,s,,,100
-2024,Schools with access to electricity,s,,,100
-2025,Schools with access to electricity,s,,,100
-2010,Schools with access to basic drinking water,s,,,100
-2011,Schools with access to basic drinking water,s,,,100
-2012,Schools with access to basic drinking water,s,,,100
-2013,Schools with access to basic drinking water,s,,,100
-2014,Schools with access to basic drinking water,s,,,100
-2015,Schools with access to basic drinking water,s,,,100
-2016,Schools with access to basic drinking water,s,,,100
-2017,Schools with access to basic drinking water,s,,,100
-2018,Schools with access to basic drinking water,s,,,100
-2019,Schools with access to basic drinking water,s,,,100
-2020,Schools with access to basic drinking water,s,,,100
-2021,Schools with access to basic drinking water,s,,,100
-2022,Schools with access to basic drinking water,s,,,100
-2023,Schools with access to basic drinking water,s,,,100
-2024,Schools with access to basic drinking water,s,,,100
-2025,Schools with access to basic drinking water,s,,,100
-2010,Schools with access to single-sex basic sanitation facilities,s,,,100
-2011,Schools with access to single-sex basic sanitation facilities,s,,,100
-2012,Schools with access to single-sex basic sanitation facilities,s,,,100
-2013,Schools with access to single-sex basic sanitation facilities,s,,,100
-2014,Schools with access to single-sex basic sanitation facilities,s,,,100
-2015,Schools with access to single-sex basic sanitation facilities,s,,,100
-2016,Schools with access to single-sex basic sanitation facilities,s,,,100
-2017,Schools with access to single-sex basic sanitation facilities,s,,,100
-2018,Schools with access to single-sex basic sanitation facilities,s,,,100
-2019,Schools with access to single-sex basic sanitation facilities,s,,,100
-2020,Schools with access to single-sex basic sanitation facilities,s,,,100
-2021,Schools with access to single-sex basic sanitation facilities,s,,,100
-2022,Schools with access to single-sex basic sanitation facilities,s,,,100
-2023,Schools with access to single-sex basic sanitation facilities,s,,,100
-2024,Schools with access to single-sex basic sanitation facilities,s,,,100
-2025,Schools with access to single-sex basic sanitation facilities,s,,,100
-2010,Schools with access to basic handwashing facilities,s,,,100
-2011,Schools with access to basic handwashing facilities,s,,,100
-2012,Schools with access to basic handwashing facilities,s,,,100
-2013,Schools with access to basic handwashing facilities,s,,,100
-2014,Schools with access to basic handwashing facilities,s,,,100
-2015,Schools with access to basic handwashing facilities,s,,,100
-2016,Schools with access to basic handwashing facilities,s,,,100
-2017,Schools with access to basic handwashing facilities,s,,,100
-2018,Schools with access to basic handwashing facilities,s,,,100
-2019,Schools with access to basic handwashing facilities,s,,,100
-2020,Schools with access to basic handwashing facilities,s,,,100
-2021,Schools with access to basic handwashing facilities,s,,,100
-2022,Schools with access to basic handwashing facilities,s,,,100
-2023,Schools with access to basic handwashing facilities,s,,,100
-2024,Schools with access to basic handwashing facilities,s,,,100
-2025,Schools with access to basic handwashing facilities,s,,,100
+2010,Access to electricity,s,,,100
+2011,Access to electricity,s,,,100
+2012,Access to electricity,s,,,100
+2013,Access to electricity,s,,,100
+2014,Access to electricity,s,,,100
+2015,Access to electricity,s,,,100
+2016,Access to electricity,s,,,100
+2017,Access to electricity,s,,,100
+2018,Access to electricity,s,,,100
+2019,Access to electricity,s,,,100
+2020,Access to electricity,s,,,100
+2021,Access to electricity,s,,,100
+2022,Access to electricity,s,,,100
+2023,Access to electricity,s,,,100
+2024,Access to electricity,s,,,100
+2025,Access to electricity,s,,,100
+2026,Access to electricity,s,,,100
+2010,Access to basic drinking water,s,,,100
+2011,Access to basic drinking water,s,,,100
+2012,Access to basic drinking water,s,,,100
+2013,Access to basic drinking water,s,,,100
+2014,Access to basic drinking water,s,,,100
+2015,Access to basic drinking water,s,,,100
+2016,Access to basic drinking water,s,,,100
+2017,Access to basic drinking water,s,,,100
+2018,Access to basic drinking water,s,,,100
+2019,Access to basic drinking water,s,,,100
+2020,Access to basic drinking water,s,,,100
+2021,Access to basic drinking water,s,,,100
+2022,Access to basic drinking water,s,,,100
+2023,Access to basic drinking water,s,,,100
+2024,Access to basic drinking water,s,,,100
+2025,Access to basic drinking water,s,,,100
+2026,Access to basic drinking water,s,,,100
+2010,Access to single-sex basic sanitation facilities,s,,,100
+2011,Access to single-sex basic sanitation facilities,s,,,100
+2012,Access to single-sex basic sanitation facilities,s,,,100
+2013,Access to single-sex basic sanitation facilities,s,,,100
+2014,Access to single-sex basic sanitation facilities,s,,,100
+2015,Access to single-sex basic sanitation facilities,s,,,100
+2016,Access to single-sex basic sanitation facilities,s,,,100
+2017,Access to single-sex basic sanitation facilities,s,,,100
+2018,Access to single-sex basic sanitation facilities,s,,,100
+2019,Access to single-sex basic sanitation facilities,s,,,100
+2020,Access to single-sex basic sanitation facilities,s,,,100
+2021,Access to single-sex basic sanitation facilities,s,,,100
+2022,Access to single-sex basic sanitation facilities,s,,,100
+2023,Access to single-sex basic sanitation facilities,s,,,100
+2024,Access to single-sex basic sanitation facilities,s,,,100
+2025,Access to single-sex basic sanitation facilities,s,,,100
+2026,Access to single-sex basic sanitation facilities,s,,,100
+2010,Access to basic handwashing facilities,s,,,100
+2011,Access to basic handwashing facilities,s,,,100
+2012,Access to basic handwashing facilities,s,,,100
+2013,Access to basic handwashing facilities,s,,,100
+2014,Access to basic handwashing facilities,s,,,100
+2015,Access to basic handwashing facilities,s,,,100
+2016,Access to basic handwashing facilities,s,,,100
+2017,Access to basic handwashing facilities,s,,,100
+2018,Access to basic handwashing facilities,s,,,100
+2019,Access to basic handwashing facilities,s,,,100
+2020,Access to basic handwashing facilities,s,,,100
+2021,Access to basic handwashing facilities,s,,,100
+2022,Access to basic handwashing facilities,s,,,100
+2023,Access to basic handwashing facilities,s,,,100
+2024,Access to basic handwashing facilities,s,,,100
+2025,Access to basic handwashing facilities,s,,,100
+2026,Access to basic handwashing facilities,s,,,100

@@ -16,20 +16,20 @@
             "title": "Year"
           },
           {
-            "name": "policy area",
+            "name": "migration policy area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Domain 1. Migrant rights",
-                "Domain 2. Whole-of-government/ Evidence-based policies",
-                "Domain 3. Cooperation and partnerships",
-                "Domain 4. Socioeconomic well-being",
-                "Domain 5. Mobility dimensions of crises",
-                "Domain 6. Safe, orderly and regular migration",
+                "(1) Migrant rights",
+                "(2) Whole-of-government/Evidence-based policies",
+                "(3) Cooperation and partnerships",
+                "(4) Socioeconomic well-being",
+                "(5) Mobility dimensions of crises",
+                "(6) Safe, orderly and regular migration",
                 ""
               ]
             },
-            "title": "Policy area"
+            "title": "Migration policy area"
           },
           {
             "name": "COMMENT_OBS_0",

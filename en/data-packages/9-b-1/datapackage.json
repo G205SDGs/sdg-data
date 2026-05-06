@@ -28,7 +28,7 @@
             "title": "Enterprise definition"
           },
           {
-            "name": "technology sectors",
+            "name": "technology sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Technology sectors"
+            "title": "Technology sector"
           },
           {
             "name": "COMMENT_OBS_0",

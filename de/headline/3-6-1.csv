@@ -1,15 +1,31 @@
-Year,Value
-2010,4.5
-2011,5.0
-2012,4.5
-2013,4.1
-2014,4.2
-2015,4.2
-2016,3.9
-2017,3.8
-2018,4.0
-2019,3.7
-2020,3.3
-2021,3.1
-2022,3.3
-2023,3.4
+Year,Value,Units
+2010,4.7,Je 100 000 Einwohner/-innen
+2011,5.23,Je 100 000 Einwohner/-innen
+2012,4.79,Je 100 000 Einwohner/-innen
+2013,4.32,Je 100 000 Einwohner/-innen
+2014,4.24,Je 100 000 Einwohner/-innen
+2015,4.15,Je 100 000 Einwohner/-innen
+2016,3.78,Je 100 000 Einwohner/-innen
+2017,3.58,Je 100 000 Einwohner/-innen
+2018,3.71,Je 100 000 Einwohner/-innen
+2019,3.37,Je 100 000 Einwohner/-innen
+2020,3.03,Je 100 000 Einwohner/-innen
+2021,2.8,Je 100 000 Einwohner/-innen
+2022,3.08,Je 100 000 Einwohner/-innen
+2023,3.04,Je 100 000 Einwohner/-innen
+2024,3.24,Je 100 000 Einwohner/-innen
+2010,3839.0,Anzahl
+2011,4197.0,Anzahl
+2012,3847.0,Anzahl
+2013,3482.0,Anzahl
+2014,3422.0,Anzahl
+2015,3377.0,Anzahl
+2016,3094.0,Anzahl
+2017,2934.0,Anzahl
+2018,3050.0,Anzahl
+2019,2774.0,Anzahl
+2020,2491.0,Anzahl
+2021,2292.0,Anzahl
+2022,2544.0,Anzahl
+2023,2533.0,Anzahl
+2024,2703.0,Anzahl

@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "stages of the food chain",
+            "name": "food chain stage",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "Stufen der Lebensmittelkette"
+            "title": "Stufe der Lebensmittelkette"
           },
           {
             "name": "COMMENT_OBS_0",

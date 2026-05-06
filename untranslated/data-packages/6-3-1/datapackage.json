@@ -37,7 +37,7 @@
             }
           },
           {
-            "name": "treatment",
+            "name": "type of treatment",
             "type": "string",
             "constraints": {
               "enum": [

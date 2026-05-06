@@ -16,20 +16,20 @@
             "title": "Jahr"
           },
           {
-            "name": "policy area",
+            "name": "migration policy area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bereich 1. Rechte von Migranten",
-                "Bereich 2. Gesamtheitliche/ Evidenzbasierte Politik",
-                "Bereich 3. Zusammenarbeit und Partnerschaften",
-                "Bereich 4. Sozioökonomisches Wohlbefinden",
-                "Bereich 5. Mobilitätsdimensionen von Krisen",
-                "Bereich 6. Sichere, geordnete und reguläre Migration",
+                "1) Rechte von Migranten",
+                "2) Gesamtheitliche/Evidenzbasierte Politik",
+                "3) Zusammenarbeit und Partnerschaften",
+                "4) Sozioökonomisches Wohlbefinden",
+                "5) Mobilitätsdimensionen von Krisen",
+                "6) Sichere, geordnete und reguläre Migration",
                 ""
               ]
             },
-            "title": "Politikbereich"
+            "title": "Migrationspolitischer Bereich"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "technology",
+            "name": "type of technology",
             "type": "string",
             "constraints": {
               "enum": [

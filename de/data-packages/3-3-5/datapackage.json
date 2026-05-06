@@ -28,7 +28,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "disease",
+            "name": "type of disease",
             "type": "string",
             "constraints": {
               "enum": [
@@ -44,7 +44,7 @@
                 ""
               ]
             },
-            "title": "Erkrankung"
+            "title": "Art der Erkrankung"
           },
           {
             "name": "COMMENT_OBS_0",

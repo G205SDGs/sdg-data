@@ -1,10 +1,175 @@
-Year,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2015,Basler Übereinkommen,,,,100
-2020,Basler Übereinkommen,,,,100
-2015,Montrealer Protokoll,,,,100
-2020,Montrealer Protokoll,,,,100
-2015,Rotterdamer Übereinkommen,,,,100
-2020,Rotterdamer Übereinkommen,,,,100
-2015,Stockholmer Übereinkommen,,,,100
-2020,Stockholmer Übereinkommen,,,,100
-2020,Minamata Übereinkommen,,,,100
+Year,Units,Art der Verpflichtung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2011,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2012,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2013,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2014,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2015,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2016,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2017,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2018,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2019,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2020,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2021,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2022,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2023,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2024,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2025,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2026,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2010,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2011,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2012,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2013,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2014,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2015,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2016,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2017,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2018,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2019,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2020,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2021,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2022,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2023,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2024,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
+2015,Prozent,Einhaltung des Übereinkommens,,,,1) Basler Übereinkommen,100.0
+2020,Prozent,Einhaltung des Übereinkommens,,,,1) Basler Übereinkommen,100.0
+2025,Prozent,Einhaltung des Übereinkommens,,,,1) Basler Übereinkommen,100.0
+2010,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2011,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2012,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2013,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2014,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2015,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2016,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2017,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2018,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2019,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2020,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2021,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2022,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2023,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2024,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2025,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2026,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2010,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2011,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2012,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2013,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2014,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2015,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2016,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2017,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2018,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2019,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2020,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2021,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2022,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2023,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2024,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
+2015,Prozent,Einhaltung des Übereinkommens,,,,2) Montrealer Protokoll,100.0
+2020,Prozent,Einhaltung des Übereinkommens,,,,2) Montrealer Protokoll,100.0
+2025,Prozent,Einhaltung des Übereinkommens,,,,2) Montrealer Protokoll,100.0
+2010,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2011,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2012,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2013,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2014,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2015,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2016,"ja=1, nein=0",Vertragspartei,.,,,3) Rotterdamer Übereinkommen,1.0
+2017,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2018,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2019,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2020,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2021,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2022,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2023,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2024,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2025,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2026,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2010,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2011,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2012,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2013,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2014,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2015,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2016,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2017,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2018,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2019,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2020,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2021,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2022,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2023,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2024,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
+2015,Prozent,Einhaltung des Übereinkommens,,,,3) Rotterdamer Übereinkommen,100.0
+2020,Prozent,Einhaltung des Übereinkommens,,,,3) Rotterdamer Übereinkommen,100.0
+2025,Prozent,Einhaltung des Übereinkommens,,,,3) Rotterdamer Übereinkommen,100.0
+2010,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2011,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2012,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2013,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2014,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2015,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2016,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2017,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2018,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2019,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2020,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2021,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2022,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2023,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2024,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2025,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2026,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2010,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,4) Stockholmer Übereinkommen,1.0
+2011,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
+2012,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
+2013,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
+2014,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,4) Stockholmer Übereinkommen,1.0
+2015,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
+2016,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
+2017,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
+2018,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,4) Stockholmer Übereinkommen,1.0
+2019,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
+2020,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
+2021,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
+2022,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,4) Stockholmer Übereinkommen,1.0
+2015,Prozent,Einhaltung des Übereinkommens,,,,4) Stockholmer Übereinkommen,100.0
+2020,Prozent,Einhaltung des Übereinkommens,,,,4) Stockholmer Übereinkommen,85.71
+2025,Prozent,Einhaltung des Übereinkommens,,,,4) Stockholmer Übereinkommen,88.89
+2010,"ja=1, nein=0",Vertragspartei,‒,,,5) Minamata Übereinkommen,0.0
+2011,"ja=1, nein=0",Vertragspartei,‒,,,5) Minamata Übereinkommen,0.0
+2012,"ja=1, nein=0",Vertragspartei,‒,,,5) Minamata Übereinkommen,0.0
+2013,"ja=1, nein=0",Vertragspartei,‒,,,5) Minamata Übereinkommen,0.0
+2014,"ja=1, nein=0",Vertragspartei,‒,,,5) Minamata Übereinkommen,0.0
+2015,"ja=1, nein=0",Vertragspartei,‒,,,5) Minamata Übereinkommen,0.0
+2016,"ja=1, nein=0",Vertragspartei,‒,,,5) Minamata Übereinkommen,0.0
+2017,"ja=1, nein=0",Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2018,"ja=1, nein=0",Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2019,"ja=1, nein=0",Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2020,"ja=1, nein=0",Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2021,"ja=1, nein=0",Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2022,"ja=1, nein=0",Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2023,"ja=1, nein=0",Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2024,"ja=1, nein=0",Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2025,"ja=1, nein=0",Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2026,"ja=1, nein=0",Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2010,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2011,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2012,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2013,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2014,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2015,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2016,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2017,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2018,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2019,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,5) Minamata Übereinkommen,1.0
+2020,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2021,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,5) Minamata Übereinkommen,1.0
+2022,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2023,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,5) Minamata Übereinkommen,1.0
+2024,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
+2025,"ja=1, nein=0",Erfüllung der Berichtspflicht,‒,,,5) Minamata Übereinkommen,0.0
+2015,Prozent,Einhaltung des Übereinkommens,,,,5) Minamata Übereinkommen,0.0
+2020,Prozent,Einhaltung des Übereinkommens,,,,5) Minamata Übereinkommen,33.33
+2025,Prozent,Einhaltung des Übereinkommens,,,,5) Minamata Übereinkommen,66.67

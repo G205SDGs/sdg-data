@@ -27,7 +27,7 @@
             }
           },
           {
-            "name": "ownership",
+            "name": "type of tenure",
             "type": "string",
             "constraints": {
               "enum": [

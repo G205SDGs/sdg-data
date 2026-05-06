@@ -1,34 +1,36 @@
-Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+Year,Time series,Type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2010,People requiring interventions,,,,,720.0
 2011,People requiring interventions,,,,,437.0
 2012,People requiring interventions,,,,,740.0
 2013,People requiring interventions,,,,,1011.0
 2014,People requiring interventions,,,,,758.0
-2015,People requiring interventions,,r,,,881.0
-2016,People requiring interventions,,r,,,1132.0
-2017,People requiring interventions,,r,,,769.0
-2018,People requiring interventions,,r,,,783.0
-2019,People requiring interventions,,r,,,1316.0
-2020,People requiring interventions,,r,,,373.0
+2015,People requiring interventions,,r,,,880.0
+2016,People requiring interventions,,,,,1132.0
+2017,People requiring interventions,,,,,769.0
+2018,People requiring interventions,,r,,,782.0
+2019,People requiring interventions,,r,,,1315.0
+2020,People requiring interventions,,r,,,372.0
 2021,People requiring interventions,,,,,225.0
-2022,People requiring interventions,,r,,,560.0
-2023,People requiring interventions,,r,,,1155.0
-2024,People requiring interventions,,,,,1899.0
+2022,People requiring interventions,,,,,560.0
+2023,People requiring interventions,,r,,,1156.0
+2024,People requiring interventions,,r,,,1908.0
+2025,People requiring interventions,,,,,1078.0
 2010,People requiring interventions,Dengue,,,,595.0
 2011,People requiring interventions,Dengue,,,,288.0
 2012,People requiring interventions,Dengue,,,,616.0
 2013,People requiring interventions,Dengue,,,,878.0
 2014,People requiring interventions,Dengue,,,,625.0
-2015,People requiring interventions,Dengue,r,,,724.0
-2016,People requiring interventions,Dengue,r,,,949.0
-2017,People requiring interventions,Dengue,r,,,627.0
-2018,People requiring interventions,Dengue,r,,,607.0
-2019,People requiring interventions,Dengue,r,,,1165.0
-2020,People requiring interventions,Dengue,r,,,202.0
+2015,People requiring interventions,Dengue,r,,,723.0
+2016,People requiring interventions,Dengue,,,,949.0
+2017,People requiring interventions,Dengue,,,,627.0
+2018,People requiring interventions,Dengue,r,,,606.0
+2019,People requiring interventions,Dengue,r,,,1164.0
+2020,People requiring interventions,Dengue,r,,,201.0
 2021,People requiring interventions,Dengue,,,,60.0
 2022,People requiring interventions,Dengue,,,,375.0
-2023,People requiring interventions,Dengue,r,,,952.0
+2023,People requiring interventions,Dengue,,,,952.0
 2024,People requiring interventions,Dengue,,,,1717.0
+2025,People requiring interventions,Dengue,,,,913.0
 2010,People requiring interventions,Echinococcosis,,,,123.0
 2011,People requiring interventions,Echinococcosis,,,,147.0
 2012,People requiring interventions,Echinococcosis,,,,119.0
@@ -41,9 +43,10 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,People requiring interventions,Echinococcosis,,,,150.0
 2020,People requiring interventions,Echinococcosis,,,,171.0
 2021,People requiring interventions,Echinococcosis,,,,163.0
-2022,People requiring interventions,Echinococcosis,r,,,182.0
-2023,People requiring interventions,Echinococcosis,r,,,200.0
-2024,People requiring interventions,Echinococcosis,,,,181.0
+2022,People requiring interventions,Echinococcosis,,,,182.0
+2023,People requiring interventions,Echinococcosis,r,,,201.0
+2024,People requiring interventions,Echinococcosis,r,,,190.0
+2025,People requiring interventions,Echinococcosis,,,,161.0
 2010,People requiring interventions,Leprosy,,,,2.0
 2011,People requiring interventions,Leprosy,,,,2.0
 2012,People requiring interventions,Leprosy,,,,5.0
@@ -59,6 +62,7 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,People requiring interventions,Leprosy,,,,3.0
 2023,People requiring interventions,Leprosy,,,,3.0
 2024,People requiring interventions,Leprosy,,,,1.0
+2025,People requiring interventions,Leprosy,,,,4.0
 2010,Inpatient treatment,,,,,406.0
 2011,Inpatient treatment,,,,,428.0
 2012,Inpatient treatment,,,,,427.0
@@ -72,8 +76,9 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Inpatient treatment,,,,,628.0
 2021,Inpatient treatment,,,,,576.0
 2022,Inpatient treatment,,,,,661.0
-2023,Inpatient treatment,,,,,993.0
+2023,Inpatient treatment,,r,,,999.0
 2024,Inpatient treatment,,,,,
+2025,Inpatient treatment,,,,,
 2010,Inpatient treatment,Buruli ulcer,,,,30.0
 2011,Inpatient treatment,Buruli ulcer,,,,20.0
 2012,Inpatient treatment,Buruli ulcer,,,,16.0
@@ -87,8 +92,9 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Inpatient treatment,Buruli ulcer,,,,28.0
 2021,Inpatient treatment,Buruli ulcer,,,,25.0
 2022,Inpatient treatment,Buruli ulcer,,,,20.0
-2023,Inpatient treatment,Buruli ulcer,,,,27.0
+2023,Inpatient treatment,Buruli ulcer,r,,,22.0
 2024,Inpatient treatment,Buruli ulcer,,,,
+2025,Inpatient treatment,Buruli ulcer,,,,
 2010,Inpatient treatment,Echinococcosis,,,,323.0
 2011,Inpatient treatment,Echinococcosis,,,,373.0
 2012,Inpatient treatment,Echinococcosis,,,,359.0
@@ -102,8 +108,9 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Inpatient treatment,Echinococcosis,,,,498.0
 2021,Inpatient treatment,Echinococcosis,,,,468.0
 2022,Inpatient treatment,Echinococcosis,,,,452.0
-2023,Inpatient treatment,Echinococcosis,,,,561.0
+2023,Inpatient treatment,Echinococcosis,r,,,569.0
 2024,Inpatient treatment,Echinococcosis,,,,
+2025,Inpatient treatment,Echinococcosis,,,,
 2010,Inpatient treatment,Human African Trypanosomiasis,,,,1.0
 2011,Inpatient treatment,Human African Trypanosomiasis,-,,,0.0
 2012,Inpatient treatment,Human African Trypanosomiasis,,,,3.0
@@ -119,6 +126,7 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Inpatient treatment,Human African Trypanosomiasis,,,,2.0
 2023,Inpatient treatment,Human African Trypanosomiasis,,,,1.0
 2024,Inpatient treatment,Human African Trypanosomiasis,,,,
+2025,Inpatient treatment,Human African Trypanosomiasis,,,,
 2010,Inpatient treatment,Leprosy,,,,4.0
 2011,Inpatient treatment,Leprosy,,,,7.0
 2012,Inpatient treatment,Leprosy,,,,11.0
@@ -134,6 +142,7 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Inpatient treatment,Leprosy,,,,2.0
 2023,Inpatient treatment,Leprosy,,,,7.0
 2024,Inpatient treatment,Leprosy,,,,
+2025,Inpatient treatment,Leprosy,,,,
 2010,Inpatient treatment,Leishmaniases,,,,42.0
 2011,Inpatient treatment,Leishmaniases,,,,25.0
 2012,Inpatient treatment,Leishmaniases,,,,38.0
@@ -149,6 +158,7 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Inpatient treatment,Leishmaniases,,,,75.0
 2023,Inpatient treatment,Leishmaniases,,,,105.0
 2024,Inpatient treatment,Leishmaniases,,,,
+2025,Inpatient treatment,Leishmaniases,,,,
 2010,Inpatient treatment,Rabies,,,,4.0
 2011,Inpatient treatment,Rabies,-,,,0.0
 2012,Inpatient treatment,Rabies,-,,,0.0
@@ -164,6 +174,7 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Inpatient treatment,Rabies,-,,,0.0
 2023,Inpatient treatment,Rabies,,,,2.0
 2024,Inpatient treatment,Rabies,,,,
+2025,Inpatient treatment,Rabies,,,,
 2010,Inpatient treatment,Yaws,,,,2.0
 2011,Inpatient treatment,Yaws,,,,3.0
 2012,Inpatient treatment,Yaws,-,,,0.0
@@ -179,6 +190,7 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Inpatient treatment,Yaws,-,,,0.0
 2023,Inpatient treatment,Yaws,,,,1.0
 2024,Inpatient treatment,Yaws,,,,
+2025,Inpatient treatment,Yaws,,,,
 2010,Inpatient treatment,Dengue,-,,,0.0
 2011,Inpatient treatment,Dengue,-,,,0.0
 2012,Inpatient treatment,Dengue,-,,,0.0
@@ -192,8 +204,9 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Inpatient treatment,Dengue,,,,50.0
 2021,Inpatient treatment,Dengue,,,,22.0
 2022,Inpatient treatment,Dengue,,,,109.0
-2023,Inpatient treatment,Dengue,,,,277.0
+2023,Inpatient treatment,Dengue,r,,,280.0
 2024,Inpatient treatment,Dengue,,,,
+2025,Inpatient treatment,Dengue,,,,
 2010,Inpatient treatment,Dracunculiasis,.,,,0.0
 2011,Inpatient treatment,Dracunculiasis,.,,,0.0
 2012,Inpatient treatment,Dracunculiasis,.,,,0.0
@@ -209,6 +222,7 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Inpatient treatment,Dracunculiasis,,,,1.0
 2023,Inpatient treatment,Dracunculiasis,,,,12.0
 2024,Inpatient treatment,Dracunculiasis,,,,
+2025,Inpatient treatment,Dracunculiasis,,,,
 2010,People requiring interventions,Rabies,‒,,,0.0
 2011,People requiring interventions,Rabies,‒,,,0.0
 2012,People requiring interventions,Rabies,‒,,,0.0
@@ -224,3 +238,4 @@ Year,Time series,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,People requiring interventions,Rabies,‒,,,0.0
 2023,People requiring interventions,Rabies,‒,,,0.0
 2024,People requiring interventions,Rabies,‒,,,0.0
+2025,People requiring interventions,Rabies,‒,,,0.0

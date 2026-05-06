@@ -45,7 +45,7 @@
             "title": "Age group"
           },
           {
-            "name": "feelings of insecurity",
+            "name": "degree of feelings of insecurity",
             "type": "string",
             "constraints": {
               "enum": [
@@ -56,7 +56,7 @@
                 ""
               ]
             },
-            "title": "Feelings of insecurity"
+            "title": "Degree of feelings of insecurity"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -28,7 +28,7 @@
             "title": "Time series"
           },
           {
-            "name": "disease",
+            "name": "type of disease",
             "type": "string",
             "constraints": {
               "enum": [
@@ -44,7 +44,7 @@
                 ""
               ]
             },
-            "title": "Disease"
+            "title": "Type of disease"
           },
           {
             "name": "COMMENT_OBS_0",

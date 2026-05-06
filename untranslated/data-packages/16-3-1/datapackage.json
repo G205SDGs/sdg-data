@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) physical violence",
-                "b) psychological violence",
-                "c) sexual violence",
+                "(a) physical violence",
+                "(b) psychological violence",
+                "(c) sexual violence",
                 ""
               ]
             }

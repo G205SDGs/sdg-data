@@ -1,4 +1,4 @@
 From,To
-disease,sex
-disease,age group
-disease,COMMENT_OBS_0
+type of disease,sex
+type of disease,age group
+type of disease,COMMENT_OBS_0

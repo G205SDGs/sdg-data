@@ -65,7 +65,7 @@
             "constraints": {
               "enum": [
                 "p",
-                "‒",
+                "-",
                 ""
               ]
             },
@@ -97,7 +97,7 @@
             "constraints": {
               "enum": [
                 "(1) Contracting Party to the ITPGRFA",
-                "(2) Contracting party to the Nagoya Protocol",
+                "(2) Contracting Party to the Nagoya Protocol",
                 "(3) Existence of framework or measures reported through the Online Reporting System on Compliance of the ITPGRFA",
                 "(4) Existence of framework or measures reported to the Access and Benefit-Sharing Clearing-House",
                 "(5) Standard Material Transfer Agreements (SMTAs)",
@@ -108,7 +108,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -16,7 +16,52 @@
             "title": "Year"
           },
           {
-            "name": "sector",
+            "name": "environmental protection and/or resource management sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Air and climate (CEP 01)",
+                "Energy from renewable sources (CEP 0201)",
+                "Energy savings and management (CEP 0202)",
+                "Wastewater management (CEP 0301)",
+                "Water savings and management of natural water resources (CEP 0302)",
+                "Waste management (CEP 0401)",
+                "Materials recovery and savings (CEP 0402)",
+                "Protection of soil, surface and groundwater (CEP 0501)",
+                "Protection of biodiversity and landscape (CEP 0502)",
+                "Management of forest resources (CEP 0503)",
+                "Noise and radiation (CEP 06)",
+                "Research and development in the field of environmental protection (CEP 0701, 0703, 0705, 0707 und 0709)",
+                "Research and development in the field of resource management (CEP 0702, 0704, 0706 und 0708)",
+                "Cross-cutting and other environmental purposes (CEP 08)",
+                ""
+              ]
+            },
+            "title": "Environmental protection and/or resource management sector"
+          },
+          {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing (ISIC A)",
+                "Mining and quarrying (ISIC B)",
+                "Manufacturing (ISIC C)",
+                "Electricity, gas, steam and air conditioning supply (ISIC D)",
+                "Water supply; sewerage, waste management and remediation activities (ISIC E)",
+                "Construction (ISIC F)",
+                "Information and communication (ISIC J)",
+                "Professional, scientific and technical activities (ISIC M)",
+                "Public administration and defence; compulsory social security (ISIC O)",
+                "Education (ISIC P)",
+                "Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "type of sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,15 +70,15 @@
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Type of sector"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
                 ""
               ]
             },
@@ -60,8 +105,20 @@
             "title": "COMMENT_OBS_2"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Output of the environmental goods and services sector (EGSS)",
+                "Gross fixed capital formation for environmental protection activities",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bereich 1: Mutterschaftsvorsorge",
-                "Bereich 2: Empfängnisverhütung und Familienplanung",
-                "Bereich 3: Umfassende Sexualerziehung und Information",
-                "Bereich 4: HIV und HPV",
+                "1) Mutterschaftsvorsorge",
+                "2) Empfängnisverhütung und Familienplanung",
+                "3) Umfassende Sexualerziehung und Information",
+                "4) HIV und HPV",
                 ""
               ]
             },

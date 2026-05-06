@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -21,24 +21,23 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Percent of GDP",
+                "Percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "type of fiscal policy tool",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Tax breaks",
+                "Tax reliefs",
                 "Direct transfers of funds",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Type of fiscal policy tool"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -47,7 +46,7 @@
               "enum": [
                 ".",
                 "r",
-                "-",
+                "…",
                 ""
               ]
             },

@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "function",
+            "name": "typ of essential service",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Function"
+            "title": "Typ of essential service"
           },
           {
             "name": "COMMENT_OBS_0",

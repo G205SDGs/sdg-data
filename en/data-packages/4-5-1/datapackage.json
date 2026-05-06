@@ -16,19 +16,19 @@
             "title": "Year"
           },
           {
-            "name": "indicator",
+            "name": "sdg indicator",
             "type": "string",
             "constraints": {
               "enum": [
-                "SDG indicator 4.2.2 (5 years)",
-                "SDG-Indicator 4.3.1 (15 to under 25 years)",
-                "SDG-Indicator 4.3.1 (15 to under 65 years)",
-                "SDG-Indicator 4.3.1 (25 to under 55 years)",
-                "SDG-Indicator 4.3.1 (55 to under 65 years)",
+                "4.2.2 (5 years)",
+                "4.3.1 (15 to under 25 years)",
+                "4.3.1 (15 to under 65 years)",
+                "4.3.1 (25 to under 55 years)",
+                "4.3.1 (55 to under 65 years)",
                 ""
               ]
             },
-            "title": "Indicator"
+            "title": "SDG indicator"
           },
           {
             "name": "COMMENT_OBS_0",

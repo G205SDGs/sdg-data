@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bereich 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben",
-                "Bereich 2: Gewalt gegen Frauen",
-                "Bereich 3: Erwerbstätigkeit und wirtschaftlicher Nutzen",
-                "Bereich 4: Ehe und Familie",
+                "1) Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben",
+                "2) Gewalt gegen Frauen",
+                "3) Erwerbstätigkeit und wirtschaftlicher Nutzen",
+                "4) Ehe und Familie",
                 ""
               ]
             },

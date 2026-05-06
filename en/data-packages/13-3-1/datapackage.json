@@ -16,18 +16,18 @@
             "title": "Year"
           },
           {
-            "name": "'area '",
+            "name": "education policy area",
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) national education policies",
-                "(b) curricula",
-                "(c) teacher education",
-                "(d) student assessment",
+                "(a) National education policies",
+                "(b) Curricula",
+                "(c) Teacher education",
+                "(d) Student assessment",
                 ""
               ]
             },
-            "title": "Area"
+            "title": "Education policy area"
           },
           {
             "name": "COMMENT_OBS_0",

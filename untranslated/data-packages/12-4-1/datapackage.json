@@ -15,24 +15,36 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "basel convention",
-                "montreal protocol",
-                "rotterdam convention",
-                "stockholm convention",
-                "minamata convention",
+                "yes=1, no=0",
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of obligation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "contracting party",
+                "fulfilment of reporting obligation",
+                "compliance with the agreement",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "x",
+                "‒",
                 ""
               ]
             }
@@ -56,8 +68,22 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(1) basel convention",
+                "(2) montreal protocol",
+                "(3) rotterdam convention",
+                "(4) stockholm convention",
+                "(5) minamata convention",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

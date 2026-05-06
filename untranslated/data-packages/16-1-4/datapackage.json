@@ -42,7 +42,7 @@
             }
           },
           {
-            "name": "feelings of insecurity",
+            "name": "degree of feelings of insecurity",
             "type": "string",
             "constraints": {
               "enum": [

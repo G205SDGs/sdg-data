@@ -40,7 +40,7 @@
             "title": "Type of waste water"
           },
           {
-            "name": "treatment",
+            "name": "type of treatment",
             "type": "string",
             "constraints": {
               "enum": [
@@ -49,7 +49,7 @@
                 ""
               ]
             },
-            "title": "Treatment"
+            "title": "Type of treatment"
           },
           {
             "name": "COMMENT_OBS_0",

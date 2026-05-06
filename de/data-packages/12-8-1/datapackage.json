@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "'area '",
+            "name": "education policy area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,7 +27,7 @@
                 ""
               ]
             },
-            "title": "Bereich"
+            "title": "Bildungspolitischer Bereich"
           },
           {
             "name": "COMMENT_OBS_0",

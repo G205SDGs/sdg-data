@@ -1,85 +1,127 @@
 Year,Completeness of disaggregation,Goal,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2024,Fully disaggregated,,,,,23
-2025,Fully disaggregated,,,,,22
+2025,Fully disaggregated,,r,,,28
+2026,Fully disaggregated,,,,,28
 2024,Partially disaggregated,,,,,23
-2025,Partially disaggregated,,,,,20
+2025,Partially disaggregated,,r,,,24
+2026,Partially disaggregated,,,,,26
 2024,Not disaggregated,,,,,54
-2025,Not disaggregated,,,,,57
+2025,Not disaggregated,,r,,,48
+2026,Not disaggregated,,,,,46
 2024,Fully disaggregated,1 - No poverty,-,,,0
 2025,Fully disaggregated,1 - No poverty,-,,,0
+2026,Fully disaggregated,1 - No poverty,-,,,0
 2024,Partially disaggregated,1 - No poverty,,,,25
 2025,Partially disaggregated,1 - No poverty,,,,25
+2026,Partially disaggregated,1 - No poverty,,,,50
 2024,Not disaggregated,1 - No poverty,,,,75
 2025,Not disaggregated,1 - No poverty,,,,75
+2026,Not disaggregated,1 - No poverty,,,,50
 2024,Fully disaggregated,2 - Zero hunger,,,,25
 2025,Fully disaggregated,2 - Zero hunger,,,,20
+2026,Fully disaggregated,2 - Zero hunger,,,,20
 2024,Partially disaggregated,2 - Zero hunger,-,,,0
 2025,Partially disaggregated,2 - Zero hunger,-,,,0
+2026,Partially disaggregated,2 - Zero hunger,-,,,0
 2024,Not disaggregated,2 - Zero hunger,,,,75
 2025,Not disaggregated,2 - Zero hunger,,,,80
+2026,Not disaggregated,2 - Zero hunger,,,,80
 2024,Fully disaggregated,3 - Good health and well-being,-,,,0
 2025,Fully disaggregated,3 - Good health and well-being,-,,,0
+2026,Fully disaggregated,3 - Good health and well-being,-,,,0
 2024,Partially disaggregated,3 - Good health and well-being,,,,100
 2025,Partially disaggregated,3 - Good health and well-being,,,,100
+2026,Partially disaggregated,3 - Good health and well-being,,,,100
 2024,Not disaggregated,3 - Good health and well-being,-,,,0
 2025,Not disaggregated,3 - Good health and well-being,-,,,0
+2026,Not disaggregated,3 - Good health and well-being,-,,,0
 2024,Fully disaggregated,4 - Quality education,,,,33
-2025,Fully disaggregated,4 - Quality education,,,,33
+2025,Fully disaggregated,4 - Quality education,r,,,44
+2026,Fully disaggregated,4 - Quality education,,,,44
 2024,Partially disaggregated,4 - Quality education,-,,,0
 2025,Partially disaggregated,4 - Quality education,-,,,0
+2026,Partially disaggregated,4 - Quality education,-,,,0
 2024,Not disaggregated,4 - Quality education,,,,67
-2025,Not disaggregated,4 - Quality education,,,,67
+2025,Not disaggregated,4 - Quality education,r,,,56
+2026,Not disaggregated,4 - Quality education,,,,56
 2024,Fully disaggregated,5 - Gender equality,-,,,0
 2025,Fully disaggregated,5 - Gender equality,-,,,0
+2026,Fully disaggregated,5 - Gender equality,-,,,0
 2024,Partially disaggregated,5 - Gender equality,,,,17
-2025,Partially disaggregated,5 - Gender equality,-,,,0
+2025,Partially disaggregated,5 - Gender equality,r,,,50
+2026,Partially disaggregated,5 - Gender equality,,,,50
 2024,Not disaggregated,5 - Gender equality,,,,83
-2025,Not disaggregated,5 - Gender equality,,,,100
+2025,Not disaggregated,5 - Gender equality,,,,50
+2026,Not disaggregated,5 - Gender equality,,,,50
 2024,Fully disaggregated,8 - Decent work and economic Growth,,,,17
 2025,Fully disaggregated,8 - Decent work and economic Growth,,,,17
+2026,Fully disaggregated,8 - Decent work and economic Growth,,,,17
 2024,Partially disaggregated,8 - Decent work and economic Growth,,,,50
 2025,Partially disaggregated,8 - Decent work and economic Growth,,,,50
+2026,Partially disaggregated,8 - Decent work and economic Growth,,,,50
 2024,Not disaggregated,8 - Decent work and economic Growth,,,,33
 2025,Not disaggregated,8 - Decent work and economic Growth,,,,33
+2026,Not disaggregated,8 - Decent work and economic Growth,,,,33
 2024,Fully disaggregated,"9 - Industry, innovation and infrastructure",,,,100
 2025,Fully disaggregated,"9 - Industry, innovation and infrastructure",,,,100
+2026,Fully disaggregated,"9 - Industry, innovation and infrastructure",,,,100
 2024,Partially disaggregated,"9 - Industry, innovation and infrastructure",-,,,0
 2025,Partially disaggregated,"9 - Industry, innovation and infrastructure",-,,,0
+2026,Partially disaggregated,"9 - Industry, innovation and infrastructure",-,,,0
 2024,Not disaggregated,"9 - Industry, innovation and infrastructure",-,,,0
 2025,Not disaggregated,"9 - Industry, innovation and infrastructure",-,,,0
+2026,Not disaggregated,"9 - Industry, innovation and infrastructure",-,,,0
 2024,Fully disaggregated,10 - Reduced inequalities,,,,33
 2025,Fully disaggregated,10 - Reduced inequalities,,,,33
+2026,Fully disaggregated,10 - Reduced inequalities,,,,33
 2024,Partially disaggregated,10 - Reduced inequalities,,,,67
 2025,Partially disaggregated,10 - Reduced inequalities,,,,67
+2026,Partially disaggregated,10 - Reduced inequalities,,,,67
 2024,Not disaggregated,10 - Reduced inequalities,-,,,0
 2025,Not disaggregated,10 - Reduced inequalities,-,,,0
+2026,Not disaggregated,10 - Reduced inequalities,-,,,0
 2024,Fully disaggregated,11 - Sustainable cities and communities,-,,,0
-2025,Fully disaggregated,11 - Sustainable cities and communities,-,,,0
+2025,Fully disaggregated,11 - Sustainable cities and communities,r,,,17
+2026,Fully disaggregated,11 - Sustainable cities and communities,,,,17
 2024,Partially disaggregated,11 - Sustainable cities and communities,,,,40
 2025,Partially disaggregated,11 - Sustainable cities and communities,,,,33
+2026,Partially disaggregated,11 - Sustainable cities and communities,,,,33
 2024,Not disaggregated,11 - Sustainable cities and communities,,,,60
-2025,Not disaggregated,11 - Sustainable cities and communities,,,,67
+2025,Not disaggregated,11 - Sustainable cities and communities,,,,50
+2026,Not disaggregated,11 - Sustainable cities and communities,,,,50
 2024,Fully disaggregated,12 - Responsible consumption and production,,,,100
 2025,Fully disaggregated,12 - Responsible consumption and production,,,,100
+2026,Fully disaggregated,12 - Responsible consumption and production,,,,100
 2024,Partially disaggregated,12 - Responsible consumption and production,-,,,0
 2025,Partially disaggregated,12 - Responsible consumption and production,-,,,0
+2026,Partially disaggregated,12 - Responsible consumption and production,-,,,0
 2024,Not disaggregated,12 - Responsible consumption and production,-,,,0
 2025,Not disaggregated,12 - Responsible consumption and production,-,,,0
+2026,Not disaggregated,12 - Responsible consumption and production,-,,,0
 2024,Fully disaggregated,15 - Life on land,-,,,0
 2025,Fully disaggregated,15 - Life on land,-,,,0
+2026,Fully disaggregated,15 - Life on land,-,,,0
 2024,Partially disaggregated,15 - Life on land,-,,,0
 2025,Partially disaggregated,15 - Life on land,-,,,0
+2026,Partially disaggregated,15 - Life on land,-,,,0
 2024,Not disaggregated,15 - Life on land,,,,100
 2025,Not disaggregated,15 - Life on land,,,,100
+2026,Not disaggregated,15 - Life on land,,,,100
 2024,Fully disaggregated,16 - Peace and justice,,,,25
-2025,Fully disaggregated,16 - Peace and justice,,,,25
+2025,Fully disaggregated,16 - Peace and justice,r,,,38
+2026,Fully disaggregated,16 - Peace and justice,,,,38
 2024,Partially disaggregated,16 - Peace and justice,,,,25
-2025,Partially disaggregated,16 - Peace and justice,,,,25
+2025,Partially disaggregated,16 - Peace and justice,r,,,13
+2026,Partially disaggregated,16 - Peace and justice,,,,13
 2024,Not disaggregated,16 - Peace and justice,,,,50
 2025,Not disaggregated,16 - Peace and justice,,,,50
+2026,Not disaggregated,16 - Peace and justice,,,,50
 2024,Fully disaggregated,17 - Partnerships for the goals,,,,50
 2025,Fully disaggregated,17 - Partnerships for the goals,,,,50
+2026,Fully disaggregated,17 - Partnerships for the goals,,,,50
 2024,Partially disaggregated,17 - Partnerships for the goals,-,,,0
 2025,Partially disaggregated,17 - Partnerships for the goals,-,,,0
+2026,Partially disaggregated,17 - Partnerships for the goals,-,,,0
 2024,Not disaggregated,17 - Partnerships for the goals,,,,50
 2025,Not disaggregated,17 - Partnerships for the goals,,,,50
+2026,Not disaggregated,17 - Partnerships for the goals,,,,50

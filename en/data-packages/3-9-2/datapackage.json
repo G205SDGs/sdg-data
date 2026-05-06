@@ -16,18 +16,18 @@
             "title": "Year"
           },
           {
-            "name": "disease",
+            "name": "type of disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Acute respiratory infections",
-                "b) Diarrhoea",
-                "c) Intestinal nematode infections",
-                "d) Protein-energy malnutrition",
+                "(a) Acute respiratory infections",
+                "(b) Diarrhoea",
+                "(c) Intestinal nematode infections",
+                "(d) Protein-energy malnutrition",
                 ""
               ]
             },
-            "title": "Disease"
+            "title": "Type of disease"
           },
           {
             "name": "sex",

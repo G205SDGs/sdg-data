@@ -64,7 +64,7 @@
             "constraints": {
               "enum": [
                 "Wasserentnahme",
-                "Frischwasserentnahme nach Wirtschaftszweig",
+                "Wasserentnahme nach Wirtschaftszweig",
                 ""
               ]
             },

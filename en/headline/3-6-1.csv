@@ -1,15 +1,31 @@
-Year,Value
-2010,4.5
-2011,5.0
-2012,4.5
-2013,4.1
-2014,4.2
-2015,4.2
-2016,3.9
-2017,3.8
-2018,4.0
-2019,3.7
-2020,3.3
-2021,3.1
-2022,3.3
-2023,3.4
+Year,Value,Units
+2010,4.7,"Per 100,000 inhabitants"
+2011,5.23,"Per 100,000 inhabitants"
+2012,4.79,"Per 100,000 inhabitants"
+2013,4.32,"Per 100,000 inhabitants"
+2014,4.24,"Per 100,000 inhabitants"
+2015,4.15,"Per 100,000 inhabitants"
+2016,3.78,"Per 100,000 inhabitants"
+2017,3.58,"Per 100,000 inhabitants"
+2018,3.71,"Per 100,000 inhabitants"
+2019,3.37,"Per 100,000 inhabitants"
+2020,3.03,"Per 100,000 inhabitants"
+2021,2.8,"Per 100,000 inhabitants"
+2022,3.08,"Per 100,000 inhabitants"
+2023,3.04,"Per 100,000 inhabitants"
+2024,3.24,"Per 100,000 inhabitants"
+2010,3839.0,Number
+2011,4197.0,Number
+2012,3847.0,Number
+2013,3482.0,Number
+2014,3422.0,Number
+2015,3377.0,Number
+2016,3094.0,Number
+2017,2934.0,Number
+2018,3050.0,Number
+2019,2774.0,Number
+2020,2491.0,Number
+2021,2292.0,Number
+2022,2544.0,Number
+2023,2533.0,Number
+2024,2703.0,Number

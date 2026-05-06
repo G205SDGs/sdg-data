@@ -15,11 +15,49 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
+                "per 100,000 inhabitants",
+                "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "14 years and younger",
+                "15 to under 25 years",
+                "25 to under 35 years",
+                "35 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 to under 75 years",
+                "75 years and older",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }

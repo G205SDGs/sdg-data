@@ -59,7 +59,7 @@
             "constraints": {
               "enum": [
                 "water withdrawal",
-                "water withdrawal by sector",
+                "water withdrawl by economic activity",
                 ""
               ]
             }

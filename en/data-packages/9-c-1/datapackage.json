@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "technology",
+            "name": "type of technology",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Technology"
+            "title": "Type of technology"
           },
           {
             "name": "länder",

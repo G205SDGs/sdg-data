@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "disease",
+            "name": "type of disease",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,13 +40,14 @@
                 ""
               ]
             },
-            "title": "Disease"
+            "title": "Type of disease"
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },

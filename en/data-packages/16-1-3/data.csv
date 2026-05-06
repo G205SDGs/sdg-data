@@ -1,65 +1,65 @@
 Year,Type of violence,Sex,Age group,Type of physical violence,Type of psychological violence,Type of sexual violence,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2020,a) Physical violence,,,,,,|,r,,2.3
-2020,a) Physical violence,Female,,,,,|,r,,1.6
-2020,a) Physical violence,Male,,,,,|,r,,3.0
-2020,a) Physical violence,,16 to under 25 years,,,,|,r,,5.7
-2020,a) Physical violence,,25 to under 35 years,,,,|,r,,3.7
-2020,a) Physical violence,,35 to under 45 years,,,,|,r,,2.2
-2020,a) Physical violence,,45 to under 55 years,,,,|,r,,1.5
-2020,a) Physical violence,,55 to under 65 years,,,,|,r,,1.3
-2020,a) Physical violence,,65 to under 75 years,,,,|,r,,1.2
-2020,a) Physical violence,,75 years and older,,,,,,,1.0
-2012,a) Physical violence,,,Physical assault,,,,,,2.7
-2017,a) Physical violence,,,Physical assault,,,,,,3.0
-2020,a) Physical violence,,,Physical assault,,,|,r,,2.0
-2012,a) Physical violence,Female,,Physical assault,,,,,,1.5
-2017,a) Physical violence,Female,,Physical assault,,,,,,2.0
-2020,a) Physical violence,Female,,Physical assault,,,|,r,,1.3
-2012,a) Physical violence,Male,,Physical assault,,,,,,4.0
-2017,a) Physical violence,Male,,Physical assault,,,,,,4.0
-2020,a) Physical violence,Male,,Physical assault,,,|,r,,2.8
-2012,a) Physical violence,,,Robbery,,,,,,0.7
-2017,a) Physical violence,,,Robbery,,,,,,1.0
-2020,a) Physical violence,,,Robbery,,,|,r,,0.6
-2012,a) Physical violence,Female,,Robbery,,,,,,0.6
-2017,a) Physical violence,Female,,Robbery,,,,,,0.8
-2020,a) Physical violence,Female,,Robbery,,,|,r,,0.5
-2012,a) Physical violence,Male,,Robbery,,,,,,0.8
-2017,a) Physical violence,Male,,Robbery,,,,,,1.3
-2020,a) Physical violence,Male,,Robbery,,,|,r,,0.7
-2020,b) Psychological violence,,,,,,,,,6.8
-2020,b) Psychological violence,Female,,,,,,,,6.0
-2020,b) Psychological violence,Male,,,,,,,,7.6
-2020,b) Psychological violence,,16 to under 25 years,,,,,,,5.7
-2020,b) Psychological violence,,25 to under 35 years,,,,,,,3.7
-2020,b) Psychological violence,,35 to under 45 years,,,,,,,2.2
-2020,b) Psychological violence,,45 to under 55 years,,,,,,,1.5
-2020,b) Psychological violence,,55 to under 65 years,,,,,,,1.3
-2020,b) Psychological violence,,65 to under 75 years,,,,,,,1.2
-2020,b) Psychological violence,,75 years and older,,,,,,,1.0
-2020,b) Psychological violence,,,,Personal offense on the Internet,,,,,4.6
-2020,b) Psychological violence,Female,,,Personal offense on the Internet,,,,,4.5
-2020,b) Psychological violence,Male,,,Personal offense on the Internet,,,,,4.8
-2020,b) Psychological violence,,,,Threat of violence offline,,,,,3.3
-2020,b) Psychological violence,Female,,,Threat of violence offline,,,,,2.6
-2020,b) Psychological violence,Male,,,Threat of violence offline,,,,,4.0
-2020,b) Psychological violence,,,,Threat of violence online,,,,,1.6
-2020,b) Psychological violence,Female,,,Threat of violence online,,,,,1.5
-2020,b) Psychological violence,Male,,,Threat of violence online,,,,,1.7
-2020,c) Sexual violence,,,,,,,,,2.1
-2020,c) Sexual violence,Female,,,,,,,,3.6
-2020,c) Sexual violence,Male,,,,,,,,0.3
-2020,c) Sexual violence,,16 to under 25 years,,,,,,,8.7
-2020,c) Sexual violence,,25 to under 35 years,,,,,,,3.9
-2020,c) Sexual violence,,35 to under 45 years,,,,,,,1.6
-2020,c) Sexual violence,,45 to under 55 years,,,,,,,0.4
-2020,c) Sexual violence,,55 to under 65 years,,,,,,,0.3
-2020,c) Sexual violence,,,,,Exposure of genitals,,,,2.3
-2020,c) Sexual violence,Female,,,,Exposure of genitals,,,,3.4
-2020,c) Sexual violence,Male,,,,Exposure of genitals,,,,1.0
-2020,c) Sexual violence,,,,,Physical sexual assault,,,,2.0
-2020,c) Sexual violence,Female,,,,Physical sexual assault,,,,3.6
-2020,c) Sexual violence,Male,,,,Physical sexual assault,,,,0.3
-2020,c) Sexual violence,,,,,Sexual abuse or rape,,,,0.3
-2020,c) Sexual violence,Female,,,,Sexual abuse or rape,,,,0.3
-2020,c) Sexual violence,Male,,,,Sexual abuse or rape,,,,0.1
+2020,(a) Physical violence,,,,,,|,r,,2.3
+2020,(a) Physical violence,Female,,,,,|,r,,1.6
+2020,(a) Physical violence,Male,,,,,|,r,,3.0
+2020,(a) Physical violence,,16 to under 25 years,,,,|,r,,5.7
+2020,(a) Physical violence,,25 to under 35 years,,,,|,r,,3.7
+2020,(a) Physical violence,,35 to under 45 years,,,,|,r,,2.2
+2020,(a) Physical violence,,45 to under 55 years,,,,|,r,,1.5
+2020,(a) Physical violence,,55 to under 65 years,,,,|,r,,1.3
+2020,(a) Physical violence,,65 to under 75 years,,,,|,r,,1.2
+2020,(a) Physical violence,,75 years and older,,,,,,,1.0
+2012,(a) Physical violence,,,Physical assault,,,,,,2.7
+2017,(a) Physical violence,,,Physical assault,,,,,,3.0
+2020,(a) Physical violence,,,Physical assault,,,|,r,,2.0
+2012,(a) Physical violence,Female,,Physical assault,,,,,,1.5
+2017,(a) Physical violence,Female,,Physical assault,,,,,,2.0
+2020,(a) Physical violence,Female,,Physical assault,,,|,r,,1.3
+2012,(a) Physical violence,Male,,Physical assault,,,,,,4.0
+2017,(a) Physical violence,Male,,Physical assault,,,,,,4.0
+2020,(a) Physical violence,Male,,Physical assault,,,|,r,,2.8
+2012,(a) Physical violence,,,Robbery,,,,,,0.7
+2017,(a) Physical violence,,,Robbery,,,,,,1.0
+2020,(a) Physical violence,,,Robbery,,,|,r,,0.6
+2012,(a) Physical violence,Female,,Robbery,,,,,,0.6
+2017,(a) Physical violence,Female,,Robbery,,,,,,0.8
+2020,(a) Physical violence,Female,,Robbery,,,|,r,,0.5
+2012,(a) Physical violence,Male,,Robbery,,,,,,0.8
+2017,(a) Physical violence,Male,,Robbery,,,,,,1.3
+2020,(a) Physical violence,Male,,Robbery,,,|,r,,0.7
+2020,(b) Psychological violence,,,,,,,,,6.8
+2020,(b) Psychological violence,Female,,,,,,,,6.0
+2020,(b) Psychological violence,Male,,,,,,,,7.6
+2020,(b) Psychological violence,,16 to under 25 years,,,,,,,5.7
+2020,(b) Psychological violence,,25 to under 35 years,,,,,,,3.7
+2020,(b) Psychological violence,,35 to under 45 years,,,,,,,2.2
+2020,(b) Psychological violence,,45 to under 55 years,,,,,,,1.5
+2020,(b) Psychological violence,,55 to under 65 years,,,,,,,1.3
+2020,(b) Psychological violence,,65 to under 75 years,,,,,,,1.2
+2020,(b) Psychological violence,,75 years and older,,,,,,,1.0
+2020,(b) Psychological violence,,,,Personal offense on the Internet,,,,,4.6
+2020,(b) Psychological violence,Female,,,Personal offense on the Internet,,,,,4.5
+2020,(b) Psychological violence,Male,,,Personal offense on the Internet,,,,,4.8
+2020,(b) Psychological violence,,,,Threat of violence offline,,,,,3.3
+2020,(b) Psychological violence,Female,,,Threat of violence offline,,,,,2.6
+2020,(b) Psychological violence,Male,,,Threat of violence offline,,,,,4.0
+2020,(b) Psychological violence,,,,Threat of violence online,,,,,1.6
+2020,(b) Psychological violence,Female,,,Threat of violence online,,,,,1.5
+2020,(b) Psychological violence,Male,,,Threat of violence online,,,,,1.7
+2020,(c) Sexual violence,,,,,,,,,2.1
+2020,(c) Sexual violence,Female,,,,,,,,3.6
+2020,(c) Sexual violence,Male,,,,,,,,0.3
+2020,(c) Sexual violence,,16 to under 25 years,,,,,,,8.7
+2020,(c) Sexual violence,,25 to under 35 years,,,,,,,3.9
+2020,(c) Sexual violence,,35 to under 45 years,,,,,,,1.6
+2020,(c) Sexual violence,,45 to under 55 years,,,,,,,0.4
+2020,(c) Sexual violence,,55 to under 65 years,,,,,,,0.3
+2020,(c) Sexual violence,,,,,Exposure of genitals,,,,2.3
+2020,(c) Sexual violence,Female,,,,Exposure of genitals,,,,3.4
+2020,(c) Sexual violence,Male,,,,Exposure of genitals,,,,1.0
+2020,(c) Sexual violence,,,,,Physical sexual assault,,,,2.0
+2020,(c) Sexual violence,Female,,,,Physical sexual assault,,,,3.6
+2020,(c) Sexual violence,Male,,,,Physical sexual assault,,,,0.3
+2020,(c) Sexual violence,,,,,Sexual abuse or rape,,,,0.3
+2020,(c) Sexual violence,Female,,,,Sexual abuse or rape,,,,0.3
+2020,(c) Sexual violence,Male,,,,Sexual abuse or rape,,,,0.1

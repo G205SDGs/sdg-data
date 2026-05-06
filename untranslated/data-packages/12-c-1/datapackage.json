@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -20,18 +20,17 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "percent of gdp",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "time series",
+            "name": "type of fiscal policy tool",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "tax breaks",
+                "tax reliefs",
                 "direct transfers of funds",
                 ""
               ]
@@ -44,7 +43,7 @@
               "enum": [
                 ".",
                 "r",
-                "-",
+                "…",
                 ""
               ]
             }
