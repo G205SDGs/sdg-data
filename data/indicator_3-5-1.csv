@@ -1,4 +1,4 @@
-Year,substance,bound,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+Year,type of substance,bound,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2010,drugs,,,,,,inpatient treatment of substance use disorders,37107
 2011,drugs,,,,,,inpatient treatment of substance use disorders,36848
 2012,drugs,,,,,,inpatient treatment of substance use disorders,36166
@@ -125,6 +125,7 @@ Year,substance,bound,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,,upper bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",209453
 2022,,upper bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",197874
 2023,,upper bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",192544
+2024,,upper bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",190435
 2010,,lower bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",215078
 2011,,lower bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",231052
 2012,,lower bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",218360
@@ -139,3 +140,4 @@ Year,substance,bound,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,,lower bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",176381
 2022,,lower bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",166631
 2023,,lower bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",162142
+2024,,lower bound,,s,,,"estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",160366
