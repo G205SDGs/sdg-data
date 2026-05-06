@@ -9,9 +9,10 @@ Year,standard accounting system,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,,,,,10
 2018,,,,,10
 2019,,,,,10
-2020,,,,,9
-2021,,r,,,9
-2022,,,,,2
+2020,,r,,,10
+2021,,r,,,10
+2022,,r,,,10
+2023,,,,,2
 2010,seea tables,,,,3
 2011,seea tables,,,,3
 2012,seea tables,,,,3
@@ -22,9 +23,10 @@ Year,standard accounting system,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,seea tables,,,,3
 2018,seea tables,,,,3
 2019,seea tables,,,,3
-2020,seea tables,,,,2
-2021,seea tables,,,,2
-2022,seea tables,,,,2
+2020,seea tables,r,,,3
+2021,seea tables,r,,,3
+2022,seea tables,r,,,3
+2023,seea tables,,,,2
 2010,tsa tables,,,,7
 2011,tsa tables,,,,0
 2012,tsa tables,,,,0
@@ -36,5 +38,6 @@ Year,standard accounting system,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,tsa tables,,,,7
 2019,tsa tables,,,,7
 2020,tsa tables,,,,7
-2021,tsa tables,r,,,7
-2022,tsa tables,,,,0
+2021,tsa tables,,,,7
+2022,tsa tables,,,,7
+2023,tsa tables,…,,,

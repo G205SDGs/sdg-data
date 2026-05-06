@@ -19,9 +19,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,"yes=1, no=0",,,,,,(1) contracting party to the itpgrfa,1
 2025,"yes=1, no=0",,,,,,(1) contracting party to the itpgrfa,1
 2026,"yes=1, no=0",,,,,,(1) contracting party to the itpgrfa,1
-2007,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,
-2008,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,
-2009,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,
+2007,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,0
+2008,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,0
+2009,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,0
 2010,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,0
 2011,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,0
 2012,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,0
@@ -39,9 +39,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,1
 2025,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,1
 2026,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,1
-2007,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,
-2008,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,
-2009,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,
+2007,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,0
+2008,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,0
+2009,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,0
 2010,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,0
 2011,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,0
 2012,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,0
@@ -59,9 +59,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,1
 2025,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,1
 2026,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the itpgrfa,1
-2007,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,
-2008,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,
-2009,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,
+2007,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,0
+2008,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,0
+2009,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,0
 2010,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
 2011,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
 2012,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
@@ -99,15 +99,15 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[a] germany as receiver,,,,,(5) standard material transfer agreements (smtas),15195
 2025,cumulative number,[a] germany as receiver,,,,,(5) standard material transfer agreements (smtas),16574
 2026,cumulative number,[a] germany as receiver,,p,,,(5) standard material transfer agreements (smtas),16677
-2007,cumulative number,[a] germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[a] germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[a] germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[a] germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[a] germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[a] germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[a] germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2014,cumulative number,[a] germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2015,cumulative number,[a] germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[a] germany as receiver,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[a] germany as receiver,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[a] germany as receiver,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[a] germany as receiver,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[a] germany as receiver,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[a] germany as receiver,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[a] germany as receiver,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2014,cumulative number,[a] germany as receiver,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2015,cumulative number,[a] germany as receiver,commercial company,-,,,(5) standard material transfer agreements (smtas),0
 2016,cumulative number,[a] germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),5
 2017,cumulative number,[a] germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),6
 2018,cumulative number,[a] germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),19
@@ -119,18 +119,18 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[a] germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),41
 2025,cumulative number,[a] germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),44
 2026,cumulative number,[a] germany as receiver,commercial company,p,,,(5) standard material transfer agreements (smtas),44
-2007,cumulative number,[a] germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[a] germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[a] germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[a] germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[a] germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[a] germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[a] germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0
-2014,cumulative number,[a] germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0
-2015,cumulative number,[a] germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0
-2016,cumulative number,[a] germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0
-2017,cumulative number,[a] germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0
-2018,cumulative number,[a] germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2014,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2015,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2016,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2017,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
+2018,cumulative number,[a] germany as receiver,gene bank,-,,,(5) standard material transfer agreements (smtas),0
 2019,cumulative number,[a] germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),1
 2020,cumulative number,[a] germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),3
 2021,cumulative number,[a] germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),4
@@ -139,13 +139,13 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[a] germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),7
 2025,cumulative number,[a] germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),10
 2026,cumulative number,[a] germany as receiver,gene bank,p,,,(5) standard material transfer agreements (smtas),10
-2007,cumulative number,[a] germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[a] germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[a] germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[a] germany as receiver,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[a] germany as receiver,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[a] germany as receiver,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[a] germany as receiver,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[a] germany as receiver,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[a] germany as receiver,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[a] germany as receiver,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[a] germany as receiver,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[a] germany as receiver,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[a] germany as receiver,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[a] germany as receiver,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
 2014,cumulative number,[a] germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),1
 2015,cumulative number,[a] germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),1
 2016,cumulative number,[a] germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),1
@@ -159,19 +159,19 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[a] germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),4
 2025,cumulative number,[a] germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),5
 2026,cumulative number,[a] germany as receiver,national agricultural research centre,p,,,(5) standard material transfer agreements (smtas),5
-2007,cumulative number,[a] germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[a] germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[a] germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[a] germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[a] germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[a] germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[a] germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0
-2014,cumulative number,[a] germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0
-2015,cumulative number,[a] germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0
-2016,cumulative number,[a] germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0
-2017,cumulative number,[a] germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0
-2018,cumulative number,[a] germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0
-2019,cumulative number,[a] germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2014,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2015,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2016,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2017,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2018,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
+2019,cumulative number,[a] germany as receiver,non-governmental organization,-,,,(5) standard material transfer agreements (smtas),0
 2020,cumulative number,[a] germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),1
 2021,cumulative number,[a] germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),1
 2022,cumulative number,[a] germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),1
@@ -179,15 +179,15 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[a] germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),1
 2025,cumulative number,[a] germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),6
 2026,cumulative number,[a] germany as receiver,non-governmental organization,p,,,(5) standard material transfer agreements (smtas),6
-2007,cumulative number,[a] germany as receiver,other,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[a] germany as receiver,other,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[a] germany as receiver,other,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[a] germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[a] germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[a] germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[a] germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0
-2014,cumulative number,[a] germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0
-2015,cumulative number,[a] germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[a] germany as receiver,other,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[a] germany as receiver,other,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[a] germany as receiver,other,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[a] germany as receiver,other,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[a] germany as receiver,other,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[a] germany as receiver,other,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[a] germany as receiver,other,-,,,(5) standard material transfer agreements (smtas),0
+2014,cumulative number,[a] germany as receiver,other,-,,,(5) standard material transfer agreements (smtas),0
+2015,cumulative number,[a] germany as receiver,other,-,,,(5) standard material transfer agreements (smtas),0
 2016,cumulative number,[a] germany as receiver,other,,,,(5) standard material transfer agreements (smtas),2
 2017,cumulative number,[a] germany as receiver,other,,,,(5) standard material transfer agreements (smtas),3
 2018,cumulative number,[a] germany as receiver,other,,,,(5) standard material transfer agreements (smtas),3
@@ -199,13 +199,13 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[a] germany as receiver,other,,,,(5) standard material transfer agreements (smtas),5
 2025,cumulative number,[a] germany as receiver,other,,,,(5) standard material transfer agreements (smtas),5
 2026,cumulative number,[a] germany as receiver,other,p,,,(5) standard material transfer agreements (smtas),5
-2007,cumulative number,[a] germany as receiver,university,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[a] germany as receiver,university,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[a] germany as receiver,university,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[a] germany as receiver,university,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[a] germany as receiver,university,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[a] germany as receiver,university,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[a] germany as receiver,university,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[a] germany as receiver,university,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[a] germany as receiver,university,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[a] germany as receiver,university,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[a] germany as receiver,university,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[a] germany as receiver,university,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[a] germany as receiver,university,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[a] germany as receiver,university,-,,,(5) standard material transfer agreements (smtas),0
 2014,cumulative number,[a] germany as receiver,university,,,,(5) standard material transfer agreements (smtas),1
 2015,cumulative number,[a] germany as receiver,university,,,,(5) standard material transfer agreements (smtas),3
 2016,cumulative number,[a] germany as receiver,university,,,,(5) standard material transfer agreements (smtas),5
@@ -239,20 +239,20 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[a] germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4932
 2025,cumulative number,[a] germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4935
 2026,cumulative number,[a] germany as receiver,individual,p,,,(5) standard material transfer agreements (smtas),4935
-2007,cumulative number,[a] germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[a] germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[a] germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
-2014,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
-2015,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
-2016,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
-2017,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
-2018,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
-2019,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
-2020,cumulative number,[a] germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2014,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2015,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2016,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2017,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2018,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2019,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
+2020,cumulative number,[a] germany as receiver,increase project,-,,,(5) standard material transfer agreements (smtas),0
 2021,cumulative number,[a] germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),226
 2022,cumulative number,[a] germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),706
 2023,cumulative number,[a] germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),2396
@@ -299,24 +299,24 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[b] germany as provider,,,,,(5) standard material transfer agreements (smtas),14332
 2025,cumulative number,[b] germany as provider,,,,,(5) standard material transfer agreements (smtas),14490
 2026,cumulative number,[b] germany as provider,,p,,,(5) standard material transfer agreements (smtas),14610
-2007,cumulative number,[b] germany as provider,commercial company,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[b] germany as provider,commercial company,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[b] germany as provider,commercial company,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2014,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2015,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2016,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2017,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2018,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2019,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2020,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2021,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2022,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2023,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
-2024,cumulative number,[b] germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2014,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2015,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2016,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2017,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2018,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2019,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2020,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2021,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2022,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2023,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
+2024,cumulative number,[b] germany as provider,commercial company,-,,,(5) standard material transfer agreements (smtas),0
 2025,cumulative number,[b] germany as provider,commercial company,,,,(5) standard material transfer agreements (smtas),1
 2026,cumulative number,[b] germany as provider,commercial company,p,,,(5) standard material transfer agreements (smtas),4
 2007,cumulative number,[b] germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),42
@@ -339,15 +339,15 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[b] germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),14100
 2025,cumulative number,[b] germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),14100
 2026,cumulative number,[b] germany as provider,gene bank,p,,,(5) standard material transfer agreements (smtas),14100
-2007,cumulative number,[b] germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[b] germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[b] germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[b] germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[b] germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[b] germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[b] germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0
-2014,cumulative number,[b] germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0
-2015,cumulative number,[b] germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[b] germany as provider,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[b] germany as provider,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[b] germany as provider,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[b] germany as provider,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[b] germany as provider,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[b] germany as provider,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[b] germany as provider,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2014,cumulative number,[b] germany as provider,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
+2015,cumulative number,[b] germany as provider,national agricultural research centre,-,,,(5) standard material transfer agreements (smtas),0
 2016,cumulative number,[b] germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),3
 2017,cumulative number,[b] germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),3
 2018,cumulative number,[b] germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),18
@@ -359,15 +359,15 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[b] germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),44
 2025,cumulative number,[b] germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),44
 2026,cumulative number,[b] germany as provider,national agricultural research centre,p,,,(5) standard material transfer agreements (smtas),44
-2007,cumulative number,[b] germany as provider,other,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[b] germany as provider,other,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[b] germany as provider,other,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[b] germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[b] germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[b] germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[b] germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0
-2014,cumulative number,[b] germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0
-2015,cumulative number,[b] germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[b] germany as provider,other,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[b] germany as provider,other,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[b] germany as provider,other,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[b] germany as provider,other,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[b] germany as provider,other,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[b] germany as provider,other,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[b] germany as provider,other,-,,,(5) standard material transfer agreements (smtas),0
+2014,cumulative number,[b] germany as provider,other,-,,,(5) standard material transfer agreements (smtas),0
+2015,cumulative number,[b] germany as provider,other,-,,,(5) standard material transfer agreements (smtas),0
 2016,cumulative number,[b] germany as provider,other,,,,(5) standard material transfer agreements (smtas),4
 2017,cumulative number,[b] germany as provider,other,,,,(5) standard material transfer agreements (smtas),6
 2018,cumulative number,[b] germany as provider,other,,,,(5) standard material transfer agreements (smtas),6
@@ -379,19 +379,19 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,[b] germany as provider,other,,,,(5) standard material transfer agreements (smtas),6
 2025,cumulative number,[b] germany as provider,other,,,,(5) standard material transfer agreements (smtas),6
 2026,cumulative number,[b] germany as provider,other,p,,,(5) standard material transfer agreements (smtas),6
-2007,cumulative number,[b] germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),0
-2008,cumulative number,[b] germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),0
-2009,cumulative number,[b] germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),0
-2010,cumulative number,[b] germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0
-2011,cumulative number,[b] germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0
-2012,cumulative number,[b] germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0
-2013,cumulative number,[b] germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0
-2014,cumulative number,[b] germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0
-2015,cumulative number,[b] germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0
-2016,cumulative number,[b] germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0
-2017,cumulative number,[b] germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0
-2018,cumulative number,[b] germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0
-2019,cumulative number,[b] germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0
+2007,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2008,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2009,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2010,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2011,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2012,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2013,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2014,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2015,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2016,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2017,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2018,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
+2019,cumulative number,[b] germany as provider,regional organization,-,,,(5) standard material transfer agreements (smtas),0
 2020,cumulative number,[b] germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),1
 2021,cumulative number,[b] germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),1
 2022,cumulative number,[b] germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),1
