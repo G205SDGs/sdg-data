@@ -14,6 +14,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Number,13 years and younger,,,,,20.0
 2023,Number,13 years and younger,,,,,13.0
 2024,Number,13 years and younger,,,,,17.0
+2025,Number,13 years and younger,,,,,18.0
 2010,Number,13 years and younger,Female,,,,2.0
 2011,Number,13 years and younger,Female,,,,13.0
 2012,Number,13 years and younger,Female,,,,11.0
@@ -29,6 +30,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Number,13 years and younger,Female,,,,13.0
 2023,Number,13 years and younger,Female,,,,8.0
 2024,Number,13 years and younger,Female,,,,11.0
+2025,Number,13 years and younger,Female,,,,11.0
 2010,Number,13 years and younger,Male,,,,9.0
 2011,Number,13 years and younger,Male,,,,16.0
 2012,Number,13 years and younger,Male,,,,8.0
@@ -44,6 +46,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Number,13 years and younger,Male,,,,7.0
 2023,Number,13 years and younger,Male,,,,5.0
 2024,Number,13 years and younger,Male,,,,6.0
+2025,Number,13 years and younger,Male,,,,7.0
 2010,Number,14 to under 18 years,,,,,108.0
 2011,Number,14 to under 18 years,,,,,95.0
 2012,Number,14 to under 18 years,,,,,96.0
@@ -59,6 +62,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Number,14 to under 18 years,,,,,86.0
 2023,Number,14 to under 18 years,,,,,67.0
 2024,Number,14 to under 18 years,,,,,70.0
+2025,Number,14 to under 18 years,,,,,61.0
 2010,Number,14 to under 18 years,Female,,,,97.0
 2011,Number,14 to under 18 years,Female,,,,82.0
 2012,Number,14 to under 18 years,Female,,,,88.0
@@ -74,6 +78,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Number,14 to under 18 years,Female,,,,72.0
 2023,Number,14 to under 18 years,Female,,,,61.0
 2024,Number,14 to under 18 years,Female,,,,55.0
+2025,Number,14 to under 18 years,Female,,,,51.0
 2010,Number,14 to under 18 years,Male,,,,11.0
 2011,Number,14 to under 18 years,Male,,,,13.0
 2012,Number,14 to under 18 years,Male,,,,8.0
@@ -89,6 +94,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Number,14 to under 18 years,Male,,,,14.0
 2023,Number,14 to under 18 years,Male,,,,6.0
 2024,Number,14 to under 18 years,Male,,,,15.0
+2025,Number,14 to under 18 years,Male,,,,10.0
 2010,Number,,,,,,119.0
 2011,Number,,,,,,124.0
 2012,Number,,,,,,115.0
@@ -104,6 +110,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Number,,,,,,106.0
 2023,Number,,,,,,80.0
 2024,Number,,,,,,87.0
+2025,Number,,,,,,79.0
 2010,Number,,Female,,,,99.0
 2011,Number,,Female,,,,95.0
 2012,Number,,Female,,,,99.0
@@ -119,6 +126,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Number,,Female,,,,85.0
 2023,Number,,Female,,,,69.0
 2024,Number,,Female,,,,66.0
+2025,Number,,Female,,,,62.0
 2010,Number,,Male,,,,20.0
 2011,Number,,Male,,,,29.0
 2012,Number,,Male,,,,16.0
@@ -134,6 +142,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Number,,Male,,,,21.0
 2023,Number,,Male,,,,11.0
 2024,Number,,Male,,,,21.0
+2025,Number,,Male,,,,17.0
 2010,"Per 100,000 inhabitants",13 years and younger,,,,,0.1
 2011,"Per 100,000 inhabitants",13 years and younger,,,,,0.3
 2012,"Per 100,000 inhabitants",13 years and younger,,,,,0.2
@@ -149,6 +158,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Per 100,000 inhabitants",13 years and younger,,,,,0.2
 2023,"Per 100,000 inhabitants",13 years and younger,,,,,0.1
 2024,"Per 100,000 inhabitants",13 years and younger,,|,,,0.2
+2025,"Per 100,000 inhabitants",13 years and younger,,,,,0.2
 2010,"Per 100,000 inhabitants",13 years and younger,Female,0,,,0.0
 2011,"Per 100,000 inhabitants",13 years and younger,Female,,,,0.3
 2012,"Per 100,000 inhabitants",13 years and younger,Female,,,,0.2
@@ -164,6 +174,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Per 100,000 inhabitants",13 years and younger,Female,,,,0.2
 2023,"Per 100,000 inhabitants",13 years and younger,Female,,,,0.1
 2024,"Per 100,000 inhabitants",13 years and younger,Female,|,,,0.2
+2025,"Per 100,000 inhabitants",13 years and younger,Female,,,,0.2
 2010,"Per 100,000 inhabitants",13 years and younger,Male,,,,0.2
 2011,"Per 100,000 inhabitants",13 years and younger,Male,,,,0.3
 2012,"Per 100,000 inhabitants",13 years and younger,Male,,,,0.2
@@ -179,6 +190,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Per 100,000 inhabitants",13 years and younger,Male,,,,0.1
 2023,"Per 100,000 inhabitants",13 years and younger,Male,,,,0.1
 2024,"Per 100,000 inhabitants",13 years and younger,Male,|,,,0.1
+2025,"Per 100,000 inhabitants",13 years and younger,Male,,,,0.1
 2010,"Per 100,000 inhabitants",14 to under 18 years,,,,,3.3
 2011,"Per 100,000 inhabitants",14 to under 18 years,,,,,3.0
 2012,"Per 100,000 inhabitants",14 to under 18 years,,,,,3.0
@@ -194,6 +206,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Per 100,000 inhabitants",14 to under 18 years,,,,,2.9
 2023,"Per 100,000 inhabitants",14 to under 18 years,,,,,2.2
 2024,"Per 100,000 inhabitants",14 to under 18 years,,|,,,2.3
+2025,"Per 100,000 inhabitants",14 to under 18 years,,,,,1.9
 2010,"Per 100,000 inhabitants",14 to under 18 years,Female,,,,6.2
 2011,"Per 100,000 inhabitants",14 to under 18 years,Female,,,,5.3
 2012,"Per 100,000 inhabitants",14 to under 18 years,Female,,,,4.3
@@ -209,6 +222,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Per 100,000 inhabitants",14 to under 18 years,Female,,,,4.9
 2023,"Per 100,000 inhabitants",14 to under 18 years,Female,,,,4.1
 2024,"Per 100,000 inhabitants",14 to under 18 years,Female,|,,,3.7
+2025,"Per 100,000 inhabitants",14 to under 18 years,Female,,,,3.4
 2010,"Per 100,000 inhabitants",14 to under 18 years,Male,,,,0.7
 2011,"Per 100,000 inhabitants",14 to under 18 years,Male,,,,0.8
 2012,"Per 100,000 inhabitants",14 to under 18 years,Male,,,,0.4
@@ -224,6 +238,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Per 100,000 inhabitants",14 to under 18 years,Male,,,,0.9
 2023,"Per 100,000 inhabitants",14 to under 18 years,Male,,,,0.4
 2024,"Per 100,000 inhabitants",14 to under 18 years,Male,|,,,0.9
+2025,"Per 100,000 inhabitants",14 to under 18 years,Male,,,,0.6
 2010,"Per 100,000 inhabitants",,,,,,3.4
 2011,"Per 100,000 inhabitants",,,,,,3.3
 2012,"Per 100,000 inhabitants",,,,,,3.2
@@ -239,6 +254,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Per 100,000 inhabitants",,,,,,3.0
 2023,"Per 100,000 inhabitants",,,,,,2.3
 2024,"Per 100,000 inhabitants",,,|,,,2.4
+2025,"Per 100,000 inhabitants",,,,,,2.1
 2010,"Per 100,000 inhabitants",,Female,,,,6.2
 2011,"Per 100,000 inhabitants",,Female,,,,5.5
 2012,"Per 100,000 inhabitants",,Female,,,,4.5
@@ -254,6 +270,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Per 100,000 inhabitants",,Female,,,,5.2
 2023,"Per 100,000 inhabitants",,Female,,,,4.2
 2024,"Per 100,000 inhabitants",,Female,|,,,3.9
+2025,"Per 100,000 inhabitants",,Female,,,,3.6
 2010,"Per 100,000 inhabitants",,Male,,,,0.8
 2011,"Per 100,000 inhabitants",,Male,,,,1.1
 2012,"Per 100,000 inhabitants",,Male,,,,0.5
@@ -269,6 +286,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Per 100,000 inhabitants",,Male,,,,1.0
 2023,"Per 100,000 inhabitants",,Male,,,,0.5
 2024,"Per 100,000 inhabitants",,Male,|,,,1.0
+2025,"Per 100,000 inhabitants",,Male,,,,0.7
 2010,Percentage,13 years and younger,,0,,,0.0
 2011,Percentage,13 years and younger,,0,,,0.0
 2012,Percentage,13 years and younger,,0,,,0.0
@@ -284,6 +302,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,13 years and younger,,0,,,0.0
 2023,Percentage,13 years and younger,,0,,,0.0
 2024,Percentage,13 years and younger,,0,,,0.0
+2025,Percentage,13 years and younger,,…,,,
 2010,Percentage,13 years and younger,Female,0,,,0.0
 2011,Percentage,13 years and younger,Female,0,,,0.0
 2012,Percentage,13 years and younger,Female,0,,,0.0
@@ -299,6 +318,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,13 years and younger,Female,0,,,0.0
 2023,Percentage,13 years and younger,Female,0,,,0.0
 2024,Percentage,13 years and younger,Female,0,,,0.0
+2025,Percentage,13 years and younger,Female,…,,,
 2010,Percentage,13 years and younger,Male,0,,,0.0
 2011,Percentage,13 years and younger,Male,0,,,0.0
 2012,Percentage,13 years and younger,Male,0,,,0.0
@@ -314,6 +334,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,13 years and younger,Male,0,,,0.0
 2023,Percentage,13 years and younger,Male,0,,,0.0
 2024,Percentage,13 years and younger,Male,0,,,0.0
+2025,Percentage,13 years and younger,Male,…,,,
 2010,Percentage,14 to under 18 years,,,,,0.003
 2011,Percentage,14 to under 18 years,,,,,0.002
 2012,Percentage,14 to under 18 years,,,,,0.002
@@ -329,6 +350,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,14 to under 18 years,,,,,0.003
 2023,Percentage,14 to under 18 years,,,,,0.002
 2024,Percentage,14 to under 18 years,,,,,0.002
+2025,Percentage,14 to under 18 years,,…,,,
 2010,Percentage,14 to under 18 years,Female,,,,0.006
 2011,Percentage,14 to under 18 years,Female,,,,0.004
 2012,Percentage,14 to under 18 years,Female,,,,0.005
@@ -344,6 +366,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,14 to under 18 years,Female,,,,0.005
 2023,Percentage,14 to under 18 years,Female,,,,0.004
 2024,Percentage,14 to under 18 years,Female,,,,0.004
+2025,Percentage,14 to under 18 years,Female,…,,,
 2010,Percentage,14 to under 18 years,Male,,,,0.001
 2011,Percentage,14 to under 18 years,Male,,,,0.001
 2012,Percentage,14 to under 18 years,Male,0,,,0.0
@@ -359,6 +382,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,14 to under 18 years,Male,,,,0.001
 2023,Percentage,14 to under 18 years,Male,0,,,0.0
 2024,Percentage,14 to under 18 years,Male,,,,0.001
+2025,Percentage,14 to under 18 years,Male,…,,,
 2010,Percentage,,,,,,0.001
 2011,Percentage,,,,,,0.001
 2012,Percentage,,,,,,0.001
@@ -374,6 +398,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,,,,,,0.001
 2023,Percentage,,,,,,0.001
 2024,Percentage,,,,,,0.001
+2025,Percentage,,,…,,,
 2010,Percentage,,Female,,,,0.002
 2011,Percentage,,Female,,,,0.001
 2012,Percentage,,Female,,,,0.002
@@ -389,6 +414,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,,Female,,,,0.001
 2023,Percentage,,Female,,,,0.001
 2024,Percentage,,Female,,,,0.001
+2025,Percentage,,Female,…,,,
 2010,Percentage,,Male,0,,,0.0
 2011,Percentage,,Male,0,,,0.0
 2012,Percentage,,Male,0,,,0.0
@@ -404,3 +430,4 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,,Male,0,,,0.0
 2023,Percentage,,Male,0,,,0.0
 2024,Percentage,,Male,0,,,0.0
+2025,Percentage,,Male,…,,,

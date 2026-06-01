@@ -67,7 +67,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "|",
                 "‒",
                 "0",
@@ -80,7 +79,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "|",
                 "0",
                 ""

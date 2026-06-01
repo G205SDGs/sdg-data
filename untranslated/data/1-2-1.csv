@@ -1,49 +1,129 @@
-Year,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,,,,15.6
-2011,,,,,15.8
-2012,,,,,16.1
-2013,,,,,16.1
-2014,,,,,16.7
-2015,,,,,16.7
-2016,,,,,16.5
-2017,,,,,16.1
-2018,,,,,16.0
-2019,,,,,14.8
-2020,,|,,,16.1
-2021,,,,,16.0
-2022,,,,,14.8
-2023,,,,,14.4
-2024,,,,,15.5
-2025,,p,,,16.1
-2010,female,,,,16.4
-2011,female,,,,16.8
-2012,female,,,,17.2
-2013,female,,,,17.2
-2014,female,,,,17.4
-2015,female,,,,17.4
-2016,female,,,,17.8
-2017,female,,,,17.1
-2018,female,,,,16.8
-2019,female,,,,15.7
-2020,female,|,,,16.8
-2021,female,,,,16.6
-2022,female,,,,15.5
-2023,female,,,,15.1
-2024,female,,,,16.2
-2025,female,p,,,16.7
-2010,male,,,,14.9
-2011,male,,,,14.9
-2012,male,,,,14.9
-2013,male,,,,15.0
-2014,male,,,,15.9
-2015,male,,,,15.9
-2016,male,,,,15.2
-2017,male,,,,15.0
-2018,male,,,,15.2
-2019,male,,,,13.9
-2020,male,|,,,15.3
-2021,male,,,,15.4
-2022,male,,,,14.0
-2023,male,,,,13.7
-2024,male,,,,14.7
-2025,male,p,,,15.6
+Year,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,,,,,,15.6
+2011,,,,,,15.8
+2012,,,,,,16.1
+2013,,,,,,16.1
+2014,,,,,,16.7
+2015,,,,,,16.7
+2016,,,,,,16.5
+2017,,,,,,16.1
+2018,,,,,,16.0
+2019,,,,,,14.8
+2020,,,|,,,16.1
+2021,,,,,,16.0
+2022,,,,,,14.8
+2023,,,,,,14.4
+2024,,,,,,15.5
+2025,,,p,,,16.1
+2010,5 years and younger,,,,,16.6
+2011,5 years and younger,,,,,15.6
+2012,5 years and younger,,,,,14.8
+2013,5 years and younger,,,,,13.8
+2014,5 years and younger,,,,,16.5
+2015,5 years and younger,,,,,15.5
+2016,5 years and younger,,,,,14.3
+2017,5 years and younger,,,,,14.4
+2018,5 years and younger,,,,,14.6
+2019,5 years and younger,,,,,10.8
+2020,5 years and younger,,|,,,15.0
+2021,5 years and younger,,,,,17.0
+2022,5 years and younger,,,,,14.0
+2023,5 years and younger,,,,,13.7
+2024,5 years and younger,,,,,15.6
+2025,5 years and younger,,p,,,16.3
+2010,6 to under 12 years,,,,,17.4
+2011,6 to under 12 years,,,,,14.7
+2012,6 to under 12 years,,,,,13.5
+2013,6 to under 12 years,,,,,13.5
+2014,6 to under 12 years,,,,,12.0
+2015,6 to under 12 years,,,,,12.6
+2016,6 to under 12 years,,,,,14.1
+2017,6 to under 12 years,,,,,14.5
+2018,6 to under 12 years,,,,,12.9
+2019,6 to under 12 years,,,,,11.3
+2020,6 to under 12 years,,|,,,14.0
+2021,6 to under 12 years,,,,,14.5
+2022,6 to under 12 years,,,,,14.6
+2023,6 to under 12 years,,,,,13.0
+2024,6 to under 12 years,,,,,14.3
+2025,6 to under 12 years,,p,,,14.6
+2010,12 to under 18 years,,,,,18.7
+2011,12 to under 18 years,,,,,16.5
+2012,12 to under 18 years,,,,,17.2
+2013,12 to under 18 years,,,,,16.6
+2014,12 to under 18 years,,,,,16.7
+2015,12 to under 18 years,,,,,15.4
+2016,12 to under 18 years,,,,,17.9
+2017,12 to under 18 years,,,,,16.7
+2018,12 to under 18 years,,,,,16.1
+2019,12 to under 18 years,,,,,14.3
+2020,12 to under 18 years,,|,,,17.2
+2021,12 to under 18 years,,,,,17.6
+2022,12 to under 18 years,,,,,16.3
+2023,12 to under 18 years,,,,,15.4
+2024,12 to under 18 years,,,,,15.9
+2025,12 to under 18 years,,p,,,17.1
+2010,18 to under 65 years,,,,,15.6
+2011,18 to under 65 years,,,,,16.4
+2012,18 to under 65 years,,,,,16.6
+2013,18 to under 65 years,,,,,16.9
+2014,18 to under 65 years,,,,,17.2
+2015,18 to under 65 years,,,,,17.3
+2016,18 to under 65 years,,,,,16.4
+2017,18 to under 65 years,,,,,16.0
+2018,18 to under 65 years,,,,,15.7
+2019,18 to under 65 years,,,,,14.5
+2020,18 to under 65 years,,|,,,15.0
+2021,18 to under 65 years,,,,,14.7
+2022,18 to under 65 years,,,,,13.5
+2023,18 to under 65 years,,,,,13.2
+2024,18 to under 65 years,,,,,14.2
+2025,18 to under 65 years,,p,,,15.0
+2010,65 years and older,,,,,14.1
+2011,65 years and older,,,,,14.2
+2012,65 years and older,,,,,15.0
+2013,65 years and older,,,,,14.9
+2014,65 years and older,,,,,16.3
+2015,65 years and older,,,,,16.5
+2016,65 years and older,,,,,17.6
+2017,65 years and older,,,,,17.0
+2018,65 years and older,,,,,18.2
+2019,65 years and older,,,,,18.0
+2020,65 years and older,,|,,,20.0
+2021,65 years and older,,,,,19.4
+2022,65 years and older,,,,,18.3
+2023,65 years and older,,,,,18.4
+2024,65 years and older,,,,,19.4
+2025,65 years and older,,p,,,19.5
+2010,,female,,,,16.4
+2011,,female,,,,16.8
+2012,,female,,,,17.2
+2013,,female,,,,17.2
+2014,,female,,,,17.4
+2015,,female,,,,17.4
+2016,,female,,,,17.8
+2017,,female,,,,17.1
+2018,,female,,,,16.8
+2019,,female,,,,15.7
+2020,,female,|,,,16.8
+2021,,female,,,,16.6
+2022,,female,,,,15.5
+2023,,female,,,,15.1
+2024,,female,,,,16.2
+2025,,female,p,,,16.7
+2010,,male,,,,14.9
+2011,,male,,,,14.9
+2012,,male,,,,14.9
+2013,,male,,,,15.0
+2014,,male,,,,15.9
+2015,,male,,,,15.9
+2016,,male,,,,15.2
+2017,,male,,,,15.0
+2018,,male,,,,15.2
+2019,,male,,,,13.9
+2020,,male,|,,,15.3
+2021,,male,,,,15.4
+2022,,male,,,,14.0
+2023,,male,,,,13.7
+2024,,male,,,,14.7
+2025,,male,p,,,15.6

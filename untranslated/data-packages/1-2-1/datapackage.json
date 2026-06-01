@@ -15,6 +15,20 @@
             "type": "integer"
           },
           {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5 years and younger",
+                "6 to under 12 years",
+                "12 to under 18 years",
+                "18 to under 65 years",
+                "65 years and older",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {

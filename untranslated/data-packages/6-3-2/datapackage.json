@@ -46,7 +46,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "-",
                 "‒",
                 ""
               ]

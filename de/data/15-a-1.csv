@@ -13,6 +13,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Millionen EUR,Zusagen (ODA) für Biodiversität,,,,2107.5
 2022,Millionen EUR,Zusagen (ODA) für Biodiversität,,,,2850.2
 2023,Millionen EUR,Zusagen (ODA) für Biodiversität,,,,2161.0
+2024,Millionen EUR,Zusagen (ODA) für Biodiversität,,,,2394.7
 2010,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,318.6
 2011,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,440.7
 2012,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,601.6
@@ -27,6 +28,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,2107.5
 2022,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,2850.2
 2023,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Biodiversität,…,,,
+2024,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Biodiversität,…,,,
 2010,Millionen EUR,Umweltschutzausgaben,,,,52116.0
 2011,Millionen EUR,Umweltschutzausgaben,,,,54918.0
 2012,Millionen EUR,Umweltschutzausgaben,,,,57022.0
@@ -41,31 +43,34 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Millionen EUR,Umweltschutzausgaben,,,,80334.0
 2022,Millionen EUR,Umweltschutzausgaben,r,,,82583.0
 2023,Millionen EUR,Umweltschutzausgaben,p,,,85310.0
-2010,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,650.7
-2011,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,1279.7
-2012,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,1085.6
-2013,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,1062.5
-2014,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,1280.9
-2015,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,1429.3
-2016,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,1349.8
-2017,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,2120.8
-2018,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,1755.1
-2019,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,2535.6
-2020,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,2610.0
-2021,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,2566.4
-2022,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,3271.2
-2023,"Millionen USD, konstante Preise (2023)",Zusagen (ODA) für Biodiversität,,,,2336.7
-2010,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,430.5
-2011,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,589.1
-2012,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,792.4
-2013,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,796.3
-2014,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,890.8
-2015,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,855.6
-2016,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,1148.9
-2017,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,1599.6
-2018,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,1443.6
-2019,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,1684.6
-2020,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,2038.9
-2021,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,2333.3
-2022,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,2997.3
-2023,"Millionen USD, konstante Preise (2022)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,…,,,
+2024,Millionen EUR,Umweltschutzausgaben,…,,,
+2010,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,676.3
+2011,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,1330.0
+2012,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,1128.3
+2013,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,1104.3
+2014,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,1331.3
+2015,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,1484.6
+2016,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,1402.0
+2017,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,2203.0
+2018,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,1823.0
+2019,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,2633.6
+2020,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,2711.0
+2021,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,2668.6
+2022,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,3391.2
+2023,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,2409.8
+2024,"Millionen USD, konstante Preise (2024)",Zusagen (ODA) für Biodiversität,,,,2590.0
+2010,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,488.8
+2011,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,667.8
+2012,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,898.8
+2013,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,902.9
+2014,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,1009.7
+2015,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,970.9
+2016,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,1304.6
+2017,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,1817.1
+2018,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,1642.0
+2019,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,1918.4
+2020,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,2324.6
+2021,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,2668.6
+2022,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,,,,3391.2
+2023,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,…,,,
+2024,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben (ODA) für Biodiversität,…,,,

@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "‒",
-                "s",
                 ""
               ]
             },
@@ -53,8 +52,8 @@
             "constraints": {
               "enum": [
                 "Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren",
-                "Registrierung der Geburten",
-                "Registrierung der Sterbefälle",
+                "Registrierung von Geburten",
+                "Registrierung von Sterbefällen",
                 ""
               ]
             },

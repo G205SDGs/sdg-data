@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "type of sector",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -32,7 +32,7 @@
                 ""
               ]
             },
-            "title": "Type of sector"
+            "title": "Sector"
           },
           {
             "name": "COMMENT_OBS_0",

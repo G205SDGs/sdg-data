@@ -13,6 +13,7 @@ Year,Units,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,million eur,oda (commitments) for biodiversity,,,,2107.5
 2022,million eur,oda (commitments) for biodiversity,,,,2850.2
 2023,million eur,oda (commitments) for biodiversity,,,,2161.0
+2024,million eur,oda (commitments) for biodiversity,,,,2394.7
 2010,million eur,oda (gross disbursements) for biodiversity,,,,318.6
 2011,million eur,oda (gross disbursements) for biodiversity,,,,440.7
 2012,million eur,oda (gross disbursements) for biodiversity,,,,601.6
@@ -27,6 +28,7 @@ Year,Units,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,million eur,oda (gross disbursements) for biodiversity,,,,2107.5
 2022,million eur,oda (gross disbursements) for biodiversity,,,,2850.2
 2023,million eur,oda (gross disbursements) for biodiversity,…,,,
+2024,million eur,oda (gross disbursements) for biodiversity,…,,,
 2010,million eur,environmental protection expenditure,,,,52116.0
 2011,million eur,environmental protection expenditure,,,,54918.0
 2012,million eur,environmental protection expenditure,,,,57022.0
@@ -41,31 +43,34 @@ Year,Units,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,million eur,environmental protection expenditure,,,,80334.0
 2022,million eur,environmental protection expenditure,r,,,82583.0
 2023,million eur,environmental protection expenditure,p,,,85310.0
-2010,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,650.7
-2011,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,1279.7
-2012,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,1085.6
-2013,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,1062.5
-2014,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,1280.9
-2015,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,1429.3
-2016,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,1349.8
-2017,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,2120.8
-2018,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,1755.1
-2019,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,2535.6
-2020,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,2610.0
-2021,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,2566.4
-2022,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,3271.2
-2023,"million usd, constant prices (2023)",oda (commitments) for biodiversity,,,,2336.7
-2010,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,430.5
-2011,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,589.1
-2012,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,792.4
-2013,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,796.3
-2014,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,890.8
-2015,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,855.6
-2016,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,1148.9
-2017,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,1599.6
-2018,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,1443.6
-2019,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,1684.6
-2020,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,2038.9
-2021,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,2333.3
-2022,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,,,,2997.3
-2023,"million usd, constant prices (2022)",oda (gross disbursements) for biodiversity,…,,,
+2024,million eur,environmental protection expenditure,…,,,
+2010,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,676.3
+2011,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,1330.0
+2012,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,1128.3
+2013,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,1104.3
+2014,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,1331.3
+2015,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,1484.6
+2016,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,1402.0
+2017,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,2203.0
+2018,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,1823.0
+2019,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,2633.6
+2020,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,2711.0
+2021,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,2668.6
+2022,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,3391.2
+2023,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,2409.8
+2024,"million usd, constant prices (2024)",oda (commitments) for biodiversity,,,,2590.0
+2010,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,488.8
+2011,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,667.8
+2012,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,898.8
+2013,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,902.9
+2014,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,1009.7
+2015,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,970.9
+2016,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,1304.6
+2017,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,1817.1
+2018,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,1642.0
+2019,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,1918.4
+2020,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,2324.6
+2021,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,2668.6
+2022,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,,,,3391.2
+2023,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,…,,,
+2024,"million usd, constant prices (2024)",oda (gross disbursements) for biodiversity,…,,,
