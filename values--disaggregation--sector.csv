@@ -1,12 +1,17 @@
 Value,Disaggregation combinations using this value,Number of indicators
-corporations,3,1
-"education, science, research, cultural affairs",2,1
-"energy and water management, trade, services",2,1
-financial services,2,1
-"food, agriculture and forestry",2,1
-general government,3,1
-general services,2,1
-"health, environment, sport and recreation",2,1
-"housing, urban development, regional planning and municipal community services",2,1
-"social security, family and youth, labour market policy",2,1
-transport and communications,2,1
+communications,8,1
+corporations,1,1
+"education, science, research, cultural affairs",1,1
+"energy and water management, trade, services",1,1
+energy,8,1
+financial services,1,1
+"food, agriculture and forestry",1,1
+general government,1,1
+general services,1,1
+"health, environment, sport and recreation",1,1
+"housing, urban development, regional planning and municipal community services",1,1
+"social security, family and youth, labour market policy",1,1
+transport and communications,1,1
+transport and storage,8,1
+urban development and management,8,1
+water supply and sanitation,8,1

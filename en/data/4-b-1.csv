@@ -1,61 +1,121 @@
-Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Million EUR,Scholarships,,,,130.1
-2011,Million EUR,Scholarships,,,,120.7
-2012,Million EUR,Scholarships,,,,113.4
-2013,Million EUR,Scholarships,,,,95.8
-2014,Million EUR,Scholarships,,,,57.1
-2015,Million EUR,Scholarships,,,,82.6
-2016,Million EUR,Scholarships,,,,74.7
-2017,Million EUR,Scholarships,,,,68.3
-2018,Million EUR,Scholarships,,,,66.0
-2019,Million EUR,Scholarships,,,,65.9
-2020,Million EUR,Scholarships,,,,72.2
-2021,Million EUR,Scholarships,,,,41.8
-2022,Million EUR,Scholarships,,,,21.1
-2023,Million EUR,Scholarships,,,,16.1
-2024,Million EUR,Scholarships,,,,18.6
-2010,Million EUR,Imputed student costs,,,,669.4
-2011,Million EUR,Imputed student costs,,,,665.3
-2012,Million EUR,Imputed student costs,,,,690.1
-2013,Million EUR,Imputed student costs,,,,670.6
-2014,Million EUR,Imputed student costs,,,,739.7
-2015,Million EUR,Imputed student costs,,,,845.5
-2016,Million EUR,Imputed student costs,,,,904.6
-2017,Million EUR,Imputed student costs,,,,998.6
-2018,Million EUR,Imputed student costs,,,,1121.1
-2019,Million EUR,Imputed student costs,,,,1318.3
-2020,Million EUR,Imputed student costs,,,,1488.9
-2021,Million EUR,Imputed student costs,,,,1669.1
-2022,Million EUR,Imputed student costs,,,,1779.4
-2023,Million EUR,Imputed student costs,,,,1980.4
-2024,Million EUR,Imputed student costs,,,,2196.5
-2010,"Million USD, constant prices (2023)",Scholarships,,,,192.0
-2011,"Million USD, constant prices (2023)",Scholarships,,,,176.0
-2012,"Million USD, constant prices (2023)",Scholarships,,,,163.0
-2013,"Million USD, constant prices (2023)",Scholarships,,,,135.0
-2014,"Million USD, constant prices (2023)",Scholarships,,,,79.0
-2015,"Million USD, constant prices (2023)",Scholarships,,,,112.3
-2016,"Million USD, constant prices (2023)",Scholarships,,,,100.3
-2017,"Million USD, constant prices (2023)",Scholarships,,,,90.4
-2018,"Million USD, constant prices (2023)",Scholarships,,,,85.8
-2019,"Million USD, constant prices (2023)",Scholarships,,,,84.0
-2020,"Million USD, constant prices (2023)",Scholarships,,,,90.4
-2021,"Million USD, constant prices (2023)",Scholarships,,,,51.0
-2022,"Million USD, constant prices (2023)",Scholarships,,,,24.3
-2023,"Million USD, constant prices (2023)",Scholarships,,,,17.5
-2024,"Million USD, constant prices (2023)",Scholarships,,,,19.5
-2010,"Million USD, constant prices (2023)",Imputed student costs,,,,988.0
-2011,"Million USD, constant prices (2023)",Imputed student costs,,,,970.0
-2012,"Million USD, constant prices (2023)",Imputed student costs,,,,992.0
-2013,"Million USD, constant prices (2023)",Imputed student costs,,,,945.0
-2014,"Million USD, constant prices (2023)",Imputed student costs,,,,1023.0
-2015,"Million USD, constant prices (2023)",Imputed student costs,,,,1150.1
-2016,"Million USD, constant prices (2023)",Imputed student costs,,,,1215.0
-2017,"Million USD, constant prices (2023)",Imputed student costs,,,,1321.8
-2018,"Million USD, constant prices (2023)",Imputed student costs,,,,1456.8
-2019,"Million USD, constant prices (2023)",Imputed student costs,,,,1679.4
-2020,"Million USD, constant prices (2023)",Imputed student costs,,,,1863.8
-2021,"Million USD, constant prices (2023)",Imputed student costs,,,,2032.6
-2022,"Million USD, constant prices (2023)",Imputed student costs,,,,2042.3
-2023,"Million USD, constant prices (2023)",Imputed student costs,,,,2141.5
-2024,"Million USD, constant prices (2023)",Imputed student costs,,,,2299.5
+Year,Units,purpose,type of official development assistance,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Million EUR,Scholarships,commitments,,,,134.336
+2011,Million EUR,Scholarships,commitments,,,,129.642
+2012,Million EUR,Scholarships,commitments,,,,116.643
+2013,Million EUR,Scholarships,commitments,,,,100.763
+2014,Million EUR,Scholarships,commitments,,,,64.74
+2015,Million EUR,Scholarships,commitments,,,,85.092
+2016,Million EUR,Scholarships,commitments,,,,75.084
+2017,Million EUR,Scholarships,commitments,,,,63.658
+2018,Million EUR,Scholarships,commitments,,,,65.25
+2019,Million EUR,Scholarships,commitments,,,,67.675
+2020,Million EUR,Scholarships,commitments,,,,70.268
+2021,Million EUR,Scholarships,commitments,,,,45.284
+2022,Million EUR,Scholarships,commitments,,,,28.668
+2023,Million EUR,Scholarships,commitments,,,,17.728
+2024,Million EUR,Scholarships,commitments,,,,17.614
+2010,Million EUR,Imputed student costs,commitments,,,,669.645
+2011,Million EUR,Imputed student costs,commitments,,,,665.131
+2012,Million EUR,Imputed student costs,commitments,,,,690.405
+2013,Million EUR,Imputed student costs,commitments,,,,670.771
+2014,Million EUR,Imputed student costs,commitments,,,,739.829
+2015,Million EUR,Imputed student costs,commitments,,,,845.527
+2016,Million EUR,Imputed student costs,commitments,,,,904.583
+2017,Million EUR,Imputed student costs,commitments,,,,998.585
+2018,Million EUR,Imputed student costs,commitments,,,,1121.055
+2019,Million EUR,Imputed student costs,commitments,,,,1318.333
+2020,Million EUR,Imputed student costs,commitments,,,,1488.856
+2021,Million EUR,Imputed student costs,commitments,,,,1669.123
+2022,Million EUR,Imputed student costs,commitments,,,,1779.444
+2023,Million EUR,Imputed student costs,commitments,,,,1980.449
+2024,Million EUR,Imputed student costs,commitments,,,,2196.572
+2010,Million EUR,Scholarships,gross disbursements,,,,130.229
+2011,Million EUR,Scholarships,gross disbursements,,,,120.753
+2012,Million EUR,Scholarships,gross disbursements,,,,113.189
+2013,Million EUR,Scholarships,gross disbursements,,,,96.087
+2014,Million EUR,Scholarships,gross disbursements,,,,57.268
+2015,Million EUR,Scholarships,gross disbursements,,,,82.565
+2016,Million EUR,Scholarships,gross disbursements,,,,74.676
+2017,Million EUR,Scholarships,gross disbursements,,,,68.291
+2018,Million EUR,Scholarships,gross disbursements,,,,65.998
+2019,Million EUR,Scholarships,gross disbursements,,,,65.952
+2020,Million EUR,Scholarships,gross disbursements,,,,72.176
+2021,Million EUR,Scholarships,gross disbursements,,,,41.849
+2022,Million EUR,Scholarships,gross disbursements,,,,21.146
+2023,Million EUR,Scholarships,gross disbursements,,,,16.15
+2024,Million EUR,Scholarships,gross disbursements,,,,18.603
+2010,Million EUR,Imputed student costs,gross disbursements,,,,669.645
+2011,Million EUR,Imputed student costs,gross disbursements,,,,665.131
+2012,Million EUR,Imputed student costs,gross disbursements,,,,690.405
+2013,Million EUR,Imputed student costs,gross disbursements,,,,670.771
+2014,Million EUR,Imputed student costs,gross disbursements,,,,739.829
+2015,Million EUR,Imputed student costs,gross disbursements,,,,845.527
+2016,Million EUR,Imputed student costs,gross disbursements,,,,904.583
+2017,Million EUR,Imputed student costs,gross disbursements,,,,998.585
+2018,Million EUR,Imputed student costs,gross disbursements,,,,1121.055
+2019,Million EUR,Imputed student costs,gross disbursements,,,,1318.333
+2020,Million EUR,Imputed student costs,gross disbursements,,,,1488.856
+2021,Million EUR,Imputed student costs,gross disbursements,,,,1669.123
+2022,Million EUR,Imputed student costs,gross disbursements,,,,1779.444
+2023,Million EUR,Imputed student costs,gross disbursements,,,,1980.449
+2024,Million EUR,Imputed student costs,gross disbursements,,,,2196.572
+2010,"Million USD, constant prices (2024)",Scholarships,commitments,,,,206.08
+2011,"Million USD, constant prices (2024)",Scholarships,commitments,,,,196.46
+2012,"Million USD, constant prices (2024)",Scholarships,commitments,,,,174.26
+2013,"Million USD, constant prices (2024)",Scholarships,commitments,,,,147.59
+2014,"Million USD, constant prices (2024)",Scholarships,commitments,,,,93.06
+2015,"Million USD, constant prices (2024)",Scholarships,commitments,,,,120.22
+2016,"Million USD, constant prices (2024)",Scholarships,commitments,,,,104.76
+2017,"Million USD, constant prices (2024)",Scholarships,commitments,,,,87.53
+2018,"Million USD, constant prices (2024)",Scholarships,commitments,,,,88.07
+2019,"Million USD, constant prices (2024)",Scholarships,commitments,,,,89.54
+2020,"Million USD, constant prices (2024)",Scholarships,commitments,,,,91.37
+2021,"Million USD, constant prices (2024)",Scholarships,commitments,,,,57.34
+2022,"Million USD, constant prices (2024)",Scholarships,commitments,,,,34.11
+2023,"Million USD, constant prices (2024)",Scholarships,commitments,,,,19.77
+2024,"Million USD, constant prices (2024)",Scholarships,commitments,,,,19.05
+2010,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,1027.28
+2011,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,1007.94
+2012,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,1031.44
+2013,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,982.49
+2014,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,1063.47
+2015,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,1194.58
+2016,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,1262.1
+2017,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,1373.05
+2018,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,1513.12
+2019,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,1744.27
+2020,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,1935.96
+2021,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,2113.49
+2022,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,2117.23
+2023,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,2208.52
+2024,"Million USD, constant prices (2024)",Imputed student costs,commitments,,,,2375.7
+2010,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,199.78
+2011,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,182.99
+2012,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,169.1
+2013,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,140.74
+2014,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,82.32
+2015,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,116.65
+2016,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,104.19
+2017,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,93.9
+2018,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,89.08
+2019,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,87.26
+2020,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,93.85
+2021,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,52.99
+2022,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,25.16
+2023,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,18.01
+2024,"Million USD, constant prices (2024)",Scholarships,gross disbursements,,,,20.12
+2010,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,1027.28
+2011,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,1007.94
+2012,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,1031.44
+2013,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,982.49
+2014,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,1063.47
+2015,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,1194.58
+2016,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,1262.1
+2017,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,1373.05
+2018,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,1513.12
+2019,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,1744.27
+2020,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,1935.96
+2021,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,2113.49
+2022,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,2117.23
+2023,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,2208.52
+2024,"Million USD, constant prices (2024)",Imputed student costs,gross disbursements,,,,2375.7

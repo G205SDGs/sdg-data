@@ -42,7 +42,7 @@
             "title": "Political institution"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -65,7 +65,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "land"
           },
           {
             "name": "GeoCode",

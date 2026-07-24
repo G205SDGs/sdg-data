@@ -20,18 +20,29 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2023)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
           },
           {
-            "name": "time series",
+            "name": "purpose",
             "type": "string",
             "constraints": {
               "enum": [
                 "scholarships",
                 "imputed student costs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }

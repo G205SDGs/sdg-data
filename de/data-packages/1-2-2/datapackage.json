@@ -21,13 +21,28 @@
             "constraints": {
               "enum": [
                 "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
-                "Armutsgefährdungsquote",
+                "population living below the national poverty line",
                 "In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen",
                 "Unter erheblicher materieller und sozialer Deprivation leidende Personen",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5 Jahre und jünger",
+                "6 bis unter 12 Jahre",
+                "12 bis unter 18 Jahre",
+                "18 bis unter 65 Jahre",
+                "65 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
@@ -46,9 +61,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
-                "p",
                 ".",
+                "|",
                 ""
               ]
             },

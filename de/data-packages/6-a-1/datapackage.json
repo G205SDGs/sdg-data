@@ -28,16 +28,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wasser und Sanitär",
-                "Verwandte Zwecke",
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "type of official development assistance"
           },
           {
             "name": "COMMENT_OBS_0",

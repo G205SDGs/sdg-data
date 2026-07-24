@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen",
-                "Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen",
-                "Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
-                "Anteil der notleidenden Kredite an den Bruttokrediten insgesamt",
-                "Gesamtkapitalrentabilität",
-                "Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten",
-                "Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln",
+                "(1) tier-1 capital to assets",
+                "(2) regulatory tier 1 capital to risk-weighted assets",
+                "(3) non-performing loans net of provisions to capital",
+                "(4) non-performing loans to total gross loans",
+                "(5) return on assets",
+                "(6) liquid assets to short-term liabilities",
+                "(7) net open position in foreign exchange to capital",
                 ""
               ]
             },
@@ -38,6 +38,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 ""
               ]
             },
@@ -45,9 +46,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },

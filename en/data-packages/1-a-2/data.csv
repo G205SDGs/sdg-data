@@ -1,20 +1,20 @@
 Year,Typ of essential service,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Health,,,,14.25
-2011,Health,,,,14.74
-2012,Health,,,,14.87
-2013,Health,,,,15.32
-2014,Health,,,,15.71
-2015,Health,,,,15.82
-2016,Health,,,,15.77
-2017,Health,,,,15.67
-2018,Health,,,,15.74
-2019,Health,,,,15.71
+2010,Health,r,,,14.2
+2011,Health,,,,14.7
+2012,Health,,,,14.9
+2013,Health,,,,15.3
+2014,Health,,,,15.7
+2015,Health,,,,15.8
+2016,Health,,,,15.8
+2017,Health,,,,15.7
+2018,Health,,,,15.7
+2019,Health,,,,15.7
 2020,Health,,,,16.3
-2021,Health,r,,,16.79
-2022,Health,p,,,16.98
-2023,Health,p,,,15.37
-2024,Health,p,,,15.39
-2025,Health,p,,,15.68
+2021,Health,,,,16.8
+2022,Health,p,,,17.0
+2023,Health,p,,,15.4
+2024,Health,p,,,15.4
+2025,Health,p,,,15.6
 2010,Education,r,,,8.99
 2011,Education,r,,,9.36
 2012,Education,,,,9.21
@@ -30,7 +30,7 @@ Year,Typ of essential service,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Education,p,,,8.97
 2023,Education,p,,,9.25
 2024,Education,p,,,9.09
-2025,Education,p,,,9.17
+2025,Education,p,,,9.14
 2010,Social protection,,,,40.82
 2011,Social protection,,,,40.9
 2012,Social protection,,,,41.04
@@ -46,4 +46,4 @@ Year,Typ of essential service,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Social protection,p,,,40.83
 2023,Social protection,p,,,40.58
 2024,Social protection,p,,,41.28
-2025,Social protection,p,,,41.18
+2025,Social protection,p,,,41.22

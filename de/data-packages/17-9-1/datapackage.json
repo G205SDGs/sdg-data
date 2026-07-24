@@ -28,16 +28,28 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "type of financial flow",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF)",
-                "Bruttoausgaben (ODA und OOF)",
+                "official development assistance",
+                "other official flows",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "type of financial flow"
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
+                ""
+              ]
+            },
+            "title": "type of official development assistance"
           },
           {
             "name": "COMMENT_OBS_0",

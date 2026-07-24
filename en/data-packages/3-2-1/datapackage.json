@@ -28,6 +28,18 @@
             "title": "Age group"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {

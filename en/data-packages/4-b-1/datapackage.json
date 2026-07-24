@@ -21,14 +21,14 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2023)",
+                "Million USD, constant prices (2024)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "purpose",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,19 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "purpose"
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
+                ""
+              ]
+            },
+            "title": "type of official development assistance"
           },
           {
             "name": "COMMENT_OBS_0",

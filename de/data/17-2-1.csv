@@ -1,31 +1,31 @@
-Year,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.37
-2011,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.36
-2012,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.35
-2013,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.37
-2014,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.41
-2015,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.51
-2016,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.68
-2017,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.65
-2018,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.61
-2019,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.59
-2020,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.73
-2021,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,,,,0.72
-2022,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,p,,,0.84
-2023,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,p,,,0.88
-2024,Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE,p,,,0.68
-2010,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.1
-2011,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.09
-2012,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.1
-2013,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.09
-2014,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.09
-2015,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.07
-2016,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.1
-2017,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.11
-2018,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.12
-2019,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.11
-2020,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.14
-2021,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),,,,0.14
-2022,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),p,,,0.11
-2023,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),p,,,0.2
-2024,Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE),p,,,0.08
+Year,type of official development assistance,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,net disbursements total,,,,0.37
+2011,net disbursements total,,,,0.36
+2012,net disbursements total,,,,0.35
+2013,net disbursements total,,,,0.37
+2014,net disbursements total,,,,0.41
+2015,net disbursements total,,,,0.51
+2016,net disbursements total,,,,0.68
+2017,net disbursements total,,,,0.65
+2018,net disbursements total,,,,0.61
+2019,net disbursements total,,,,0.59
+2020,net disbursements total,,,,0.73
+2021,net disbursements total,,,,0.72
+2022,net disbursements total,p,,,0.84
+2023,net disbursements total,p,,,0.88
+2024,net disbursements total,p,,,0.68
+2010,net disbursements to least developed countries,,,,0.1
+2011,net disbursements to least developed countries,,,,0.09
+2012,net disbursements to least developed countries,,,,0.1
+2013,net disbursements to least developed countries,,,,0.09
+2014,net disbursements to least developed countries,,,,0.09
+2015,net disbursements to least developed countries,,,,0.07
+2016,net disbursements to least developed countries,,,,0.1
+2017,net disbursements to least developed countries,,,,0.11
+2018,net disbursements to least developed countries,,,,0.12
+2019,net disbursements to least developed countries,,,,0.11
+2020,net disbursements to least developed countries,,,,0.14
+2021,net disbursements to least developed countries,,,,0.14
+2022,net disbursements to least developed countries,p,,,0.11
+2023,net disbursements to least developed countries,p,,,0.2
+2024,net disbursements to least developed countries,p,,,0.08

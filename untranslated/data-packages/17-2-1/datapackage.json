@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of oda (net disbursements) to gni",
-                "proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)",
+                "net disbursements total",
+                "net disbursements to least developed countries",
                 ""
               ]
             }

@@ -29,7 +29,7 @@
             "title": "Type of technology"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -53,7 +53,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "land"
           },
           {
             "name": "GeoCode",

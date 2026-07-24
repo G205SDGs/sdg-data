@@ -1,4 +1,4 @@
-Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+Year,Units,data source,score,land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2010,percentage,federal statistical office,,,,,,,organically farmed agricultural land,5.6
 2011,percentage,federal statistical office,,,,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,,,s,,,organically farmed agricultural land,5.8
@@ -258,22 +258,28 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2012,no unit,,current status,,,.,,,progress toward productive and sustainable agriculture (proxy),
 2013,no unit,,current status,,,.,,,progress toward productive and sustainable agriculture (proxy),
 2014,no unit,,current status,,,.,,,progress toward productive and sustainable agriculture (proxy),
-2015,no unit,,current status,,,,,,progress toward productive and sustainable agriculture (proxy),4.57
-2016,no unit,,current status,,,,,,progress toward productive and sustainable agriculture (proxy),4.57
-2017,no unit,,current status,,,,,,progress toward productive and sustainable agriculture (proxy),4.57
+2015,no unit,,current status,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
+2016,no unit,,current status,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
+2017,no unit,,current status,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
 2018,no unit,,current status,,,,,,progress toward productive and sustainable agriculture (proxy),4.43
 2019,no unit,,current status,,,,,,progress toward productive and sustainable agriculture (proxy),4.43
-2020,no unit,,current status,,,,,,progress toward productive and sustainable agriculture (proxy),4.57
+2020,no unit,,current status,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
 2021,no unit,,current status,,,,,,progress toward productive and sustainable agriculture (proxy),4.57
+2022,no unit,,current status,,,,,,progress toward productive and sustainable agriculture (proxy),4.43
+2023,no unit,,current status,,,,,,progress toward productive and sustainable agriculture (proxy),4.57
+2024,no unit,,current status,,,,,,progress toward productive and sustainable agriculture (proxy),4.57
 2010,no unit,,trend,,,.,,,progress toward productive and sustainable agriculture (proxy),
 2011,no unit,,trend,,,.,,,progress toward productive and sustainable agriculture (proxy),
 2012,no unit,,trend,,,.,,,progress toward productive and sustainable agriculture (proxy),
 2013,no unit,,trend,,,.,,,progress toward productive and sustainable agriculture (proxy),
 2014,no unit,,trend,,,.,,,progress toward productive and sustainable agriculture (proxy),
-2015,no unit,,trend,,,,,,progress toward productive and sustainable agriculture (proxy),3.57
-2016,no unit,,trend,,,,,,progress toward productive and sustainable agriculture (proxy),3.57
-2017,no unit,,trend,,,,,,progress toward productive and sustainable agriculture (proxy),3.57
-2018,no unit,,trend,,,,,,progress toward productive and sustainable agriculture (proxy),2.86
-2019,no unit,,trend,,,,,,progress toward productive and sustainable agriculture (proxy),3.0
-2020,no unit,,trend,,,,,,progress toward productive and sustainable agriculture (proxy),3.71
-2021,no unit,,trend,,,,,,progress toward productive and sustainable agriculture (proxy),4.0
+2015,no unit,,trend,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
+2016,no unit,,trend,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
+2017,no unit,,trend,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
+2018,no unit,,trend,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
+2019,no unit,,trend,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
+2020,no unit,,trend,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
+2021,no unit,,trend,,,r,,,progress toward productive and sustainable agriculture (proxy),4.43
+2022,no unit,,trend,,,,,,progress toward productive and sustainable agriculture (proxy),4.43
+2023,no unit,,trend,,,,,,progress toward productive and sustainable agriculture (proxy),4.43
+2024,no unit,,trend,,,,,,progress toward productive and sustainable agriculture (proxy),4.43

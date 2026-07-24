@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "time series",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "water and sanitation",
-                "other related purposes",
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }

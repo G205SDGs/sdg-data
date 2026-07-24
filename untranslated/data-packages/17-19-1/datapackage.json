@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "time series",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda and oof)",
-                "gross disbursements (oda and oof)",
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }

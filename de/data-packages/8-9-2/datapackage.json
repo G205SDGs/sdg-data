@@ -73,9 +73,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "<u>Zeitreihe des Indikators:</u> Erwerbstätige",
-                "<u>Zusätzliche Zeitreihe:</u> Beschäftigte",
-                "<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente",
+                "Erwerbstätige",
+                "Beschäftigte",
+                "Vollzeitäquivalente",
                 ""
               ]
             },

@@ -11,9 +11,10 @@ Year,Units,Altersklasse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Prozent,14 Jahre und jünger,‒,,,0
 2020,Prozent,14 Jahre und jünger,0,,,0
 2021,Prozent,14 Jahre und jünger,‒,,,0
-2022,Prozent,14 Jahre und jünger,0,,,0
+2022,Prozent,14 Jahre und jünger,‒,,,0
 2023,Prozent,14 Jahre und jünger,‒,,,0
 2024,Prozent,14 Jahre und jünger,‒,,,0
+2025,Prozent,14 Jahre und jünger,‒,,,0
 2010,Prozent,17 Jahre und jünger,0,,,0
 2011,Prozent,17 Jahre und jünger,0,,,0
 2012,Prozent,17 Jahre und jünger,0,,,0
@@ -29,6 +30,7 @@ Year,Units,Altersklasse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Prozent,17 Jahre und jünger,0,,,0
 2023,Prozent,17 Jahre und jünger,0,,,0
 2024,Prozent,17 Jahre und jünger,0,,,0
+2025,Prozent,17 Jahre und jünger,0,,,0
 2010,Anzahl,17 Jahre und jünger,,,,225
 2011,Anzahl,17 Jahre und jünger,,,,213
 2012,Anzahl,17 Jahre und jünger,,,,214
@@ -41,6 +43,7 @@ Year,Units,Altersklasse,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Anzahl,17 Jahre und jünger,,,,90
 2020,Anzahl,17 Jahre und jünger,,,,73
 2021,Anzahl,17 Jahre und jünger,,,,67
-2022,Anzahl,17 Jahre und jünger,,,,65
-2023,Anzahl,17 Jahre und jünger,,,,61
+2022,Anzahl,17 Jahre und jünger,r,,,126
+2023,Anzahl,17 Jahre und jünger,r,,,65
 2024,Anzahl,17 Jahre und jünger,,,,17
+2025,Anzahl,17 Jahre und jünger,,,,12

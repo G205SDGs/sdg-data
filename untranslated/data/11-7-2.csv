@@ -14,7 +14,7 @@ Year,Units,type of harassment,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2022,number,non-sexual harassment,,,,,,23082.0
 2023,number,non-sexual harassment,,,,,,25138.0
 2024,number,non-sexual harassment,,,,,,26703.0
-2025,number,non-sexual harassment,,,,,,2761.0
+2025,number,non-sexual harassment,,,,,,27610.0
 2010,number,non-sexual harassment,,female,,,,22909.0
 2011,number,non-sexual harassment,,female,,,,21414.0
 2012,number,non-sexual harassment,,female,,,,21217.0
@@ -286,7 +286,7 @@ Year,Units,type of harassment,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2022,number,non-sexual harassment,60 years and older,male,,,,531.0
 2023,number,non-sexual harassment,60 years and older,male,,,,613.0
 2024,number,non-sexual harassment,60 years and older,male,,,,640.0
-2025,number,non-sexual harassment,60 years and older,male,,,,287.0
+2025,number,non-sexual harassment,60 years and older,male,,,,587.0
 2010,number,sexual harassment,,,,,,7523.0
 2011,number,sexual harassment,,,,,,8011.0
 2012,number,sexual harassment,,,,,,8306.0
@@ -622,7 +622,7 @@ Year,Units,type of harassment,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2022,"per 100,000 inhabitants",non-sexual harassment,,male,,,,10.8
 2023,"per 100,000 inhabitants",non-sexual harassment,,male,,,,12.1
 2024,"per 100,000 inhabitants",non-sexual harassment,,male,|,,,12.9
-2025,"per 100,000 inhabitants",non-sexual harassment,,male,,,,12.9
+2025,"per 100,000 inhabitants",non-sexual harassment,,male,,,,13.2
 2010,"per 100,000 inhabitants",non-sexual harassment,13 years and younger,,,,,4.3
 2011,"per 100,000 inhabitants",non-sexual harassment,13 years and younger,,,,,4.1
 2012,"per 100,000 inhabitants",non-sexual harassment,13 years and younger,,,,,4.3
@@ -814,7 +814,7 @@ Year,Units,type of harassment,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2022,"per 100,000 inhabitants",non-sexual harassment,21 to under 60 years,male,,,,16.1
 2023,"per 100,000 inhabitants",non-sexual harassment,21 to under 60 years,male,,,,17.8
 2024,"per 100,000 inhabitants",non-sexual harassment,21 to under 60 years,male,|,,,18.7
-2025,"per 100,000 inhabitants",non-sexual harassment,21 to under 60 years,male,,,,89.5
+2025,"per 100,000 inhabitants",non-sexual harassment,21 to under 60 years,male,,,,19.8
 2010,"per 100,000 inhabitants",non-sexual harassment,60 years and older,,,,,7.8
 2011,"per 100,000 inhabitants",non-sexual harassment,60 years and older,,,,,7.0
 2012,"per 100,000 inhabitants",non-sexual harassment,60 years and older,,,,,6.9
@@ -830,7 +830,7 @@ Year,Units,type of harassment,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2022,"per 100,000 inhabitants",non-sexual harassment,60 years and older,,,,,6.4
 2023,"per 100,000 inhabitants",non-sexual harassment,60 years and older,,,,,7.1
 2024,"per 100,000 inhabitants",non-sexual harassment,60 years and older,,|,,,7.1
-2025,"per 100,000 inhabitants",non-sexual harassment,60 years and older,,,,,19.8
+2025,"per 100,000 inhabitants",non-sexual harassment,60 years and older,,,,,6.8
 2010,"per 100,000 inhabitants",non-sexual harassment,60 years and older,female,,,,8.2
 2011,"per 100,000 inhabitants",non-sexual harassment,60 years and older,female,,,,7.3
 2012,"per 100,000 inhabitants",non-sexual harassment,60 years and older,female,,,,7.5

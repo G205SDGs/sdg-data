@@ -1,7 +1,601 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,3
+Year,Units,Sector,type of financial flow,type of official development assistance,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Million EUR,water supply and sanitation,official development assistance,commitments,,,,566.859
+2011,Million EUR,water supply and sanitation,official development assistance,commitments,,,,748.48
+2012,Million EUR,water supply and sanitation,official development assistance,commitments,,,,1075.52
+2013,Million EUR,water supply and sanitation,official development assistance,commitments,,,,803.379
+2014,Million EUR,water supply and sanitation,official development assistance,commitments,,,,696.313
+2015,Million EUR,water supply and sanitation,official development assistance,commitments,,,,854.934
+2016,Million EUR,water supply and sanitation,official development assistance,commitments,,,,591.005
+2017,Million EUR,water supply and sanitation,official development assistance,commitments,,,,1263.616
+2018,Million EUR,water supply and sanitation,official development assistance,commitments,,,,1416.619
+2019,Million EUR,water supply and sanitation,official development assistance,commitments,,,,1223.479
+2020,Million EUR,water supply and sanitation,official development assistance,commitments,,,,1135.461
+2021,Million EUR,water supply and sanitation,official development assistance,commitments,,,,1052.936
+2022,Million EUR,water supply and sanitation,official development assistance,commitments,,,,1400.488
+2023,Million EUR,water supply and sanitation,official development assistance,commitments,,,,698.579
+2024,Million EUR,water supply and sanitation,official development assistance,commitments,,,,1393.622
+2010,Million EUR,Transport and storage,official development assistance,commitments,,,,367.776
+2011,Million EUR,Transport and storage,official development assistance,commitments,,,,64.273
+2012,Million EUR,Transport and storage,official development assistance,commitments,,,,76.692
+2013,Million EUR,Transport and storage,official development assistance,commitments,,,,228.64
+2014,Million EUR,Transport and storage,official development assistance,commitments,,,,138.361
+2015,Million EUR,Transport and storage,official development assistance,commitments,,,,668.163
+2016,Million EUR,Transport and storage,official development assistance,commitments,,,,946.723
+2017,Million EUR,Transport and storage,official development assistance,commitments,,,,421.653
+2018,Million EUR,Transport and storage,official development assistance,commitments,,,,52.203
+2019,Million EUR,Transport and storage,official development assistance,commitments,,,,793.824
+2020,Million EUR,Transport and storage,official development assistance,commitments,,,,798.468
+2021,Million EUR,Transport and storage,official development assistance,commitments,,,,642.954
+2022,Million EUR,Transport and storage,official development assistance,commitments,,,,527.784
+2023,Million EUR,Transport and storage,official development assistance,commitments,,,,839.404
+2024,Million EUR,Transport and storage,official development assistance,commitments,,,,541.665
+2010,Million EUR,Communications,official development assistance,commitments,,,,18.576
+2011,Million EUR,Communications,official development assistance,commitments,,,,12.374
+2012,Million EUR,Communications,official development assistance,commitments,,,,9.101
+2013,Million EUR,Communications,official development assistance,commitments,,,,27.46
+2014,Million EUR,Communications,official development assistance,commitments,,,,54.694
+2015,Million EUR,Communications,official development assistance,commitments,,,,28.116
+2016,Million EUR,Communications,official development assistance,commitments,,,,12.666
+2017,Million EUR,Communications,official development assistance,commitments,,,,33.175
+2018,Million EUR,Communications,official development assistance,commitments,,,,11.928
+2019,Million EUR,Communications,official development assistance,commitments,,,,61.076
+2020,Million EUR,Communications,official development assistance,commitments,,,,39.841
+2021,Million EUR,Communications,official development assistance,commitments,,,,150.329
+2022,Million EUR,Communications,official development assistance,commitments,,,,88.587
+2023,Million EUR,Communications,official development assistance,commitments,,,,48.214
+2024,Million EUR,Communications,official development assistance,commitments,,,,38.935
+2010,Million EUR,Energy,official development assistance,commitments,,,,1813.137
+2011,Million EUR,Energy,official development assistance,commitments,,,,1114.534
+2012,Million EUR,Energy,official development assistance,commitments,,,,1043.354
+2013,Million EUR,Energy,official development assistance,commitments,,,,1581.735
+2014,Million EUR,Energy,official development assistance,commitments,,,,2974.079
+2015,Million EUR,Energy,official development assistance,commitments,,,,2001.063
+2016,Million EUR,Energy,official development assistance,commitments,,,,2332.488
+2017,Million EUR,Energy,official development assistance,commitments,,,,2172.595
+2018,Million EUR,Energy,official development assistance,commitments,,,,2931.578
+2019,Million EUR,Energy,official development assistance,commitments,,,,2007.762
+2020,Million EUR,Energy,official development assistance,commitments,,,,1594.5
+2021,Million EUR,Energy,official development assistance,commitments,,,,1416.67
+2022,Million EUR,Energy,official development assistance,commitments,,,,3563.555
+2023,Million EUR,Energy,official development assistance,commitments,,,,3080.325
+2024,Million EUR,Energy,official development assistance,commitments,,,,1987.54
+2010,Million EUR,Urban development and management,official development assistance,commitments,,,,51.869
+2011,Million EUR,Urban development and management,official development assistance,commitments,,,,313.286
+2012,Million EUR,Urban development and management,official development assistance,commitments,,,,48.912
+2013,Million EUR,Urban development and management,official development assistance,commitments,,,,135.842
+2014,Million EUR,Urban development and management,official development assistance,commitments,,,,51.927
+2015,Million EUR,Urban development and management,official development assistance,commitments,,,,90.856
+2016,Million EUR,Urban development and management,official development assistance,commitments,,,,455.108
+2017,Million EUR,Urban development and management,official development assistance,commitments,,,,204.952
+2018,Million EUR,Urban development and management,official development assistance,commitments,,,,215.715
+2019,Million EUR,Urban development and management,official development assistance,commitments,,,,280.982
+2020,Million EUR,Urban development and management,official development assistance,commitments,,,,346.96
+2021,Million EUR,Urban development and management,official development assistance,commitments,,,,137.054
+2022,Million EUR,Urban development and management,official development assistance,commitments,,,,808.189
+2023,Million EUR,Urban development and management,official development assistance,commitments,,,,437.784
+2024,Million EUR,Urban development and management,official development assistance,commitments,,,,137.464
+2010,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,449.387
+2011,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,495.117
+2012,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,450.456
+2013,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,490.458
+2014,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,686.944
+2015,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,739.473
+2016,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,743.538
+2017,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,797.765
+2018,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,837.61
+2019,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,763.001
+2020,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,824.907
+2021,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,728.218
+2022,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,771.218
+2023,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,886.445
+2024,Million EUR,water supply and sanitation,official development assistance,gross disbursements,,,,1299.174
+2010,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,134.292
+2011,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,187.662
+2012,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,163.622
+2013,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,276.122
+2014,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,105.962
+2015,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,432.619
+2016,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,378.383
+2017,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,242.894
+2018,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,273.935
+2019,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,444.629
+2020,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,346.776
+2021,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,165.431
+2022,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,247.648
+2023,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,355.743
+2024,Million EUR,Transport and storage,official development assistance,gross disbursements,,,,451.456
+2010,Million EUR,Communications,official development assistance,gross disbursements,,,,20.555
+2011,Million EUR,Communications,official development assistance,gross disbursements,,,,7.778
+2012,Million EUR,Communications,official development assistance,gross disbursements,,,,5.479
+2013,Million EUR,Communications,official development assistance,gross disbursements,,,,22.854
+2014,Million EUR,Communications,official development assistance,gross disbursements,,,,57.058
+2015,Million EUR,Communications,official development assistance,gross disbursements,,,,25.187
+2016,Million EUR,Communications,official development assistance,gross disbursements,,,,13.898
+2017,Million EUR,Communications,official development assistance,gross disbursements,,,,26.97
+2018,Million EUR,Communications,official development assistance,gross disbursements,,,,8.941
+2019,Million EUR,Communications,official development assistance,gross disbursements,,,,28.875
+2020,Million EUR,Communications,official development assistance,gross disbursements,,,,36.512
+2021,Million EUR,Communications,official development assistance,gross disbursements,,,,68.153
+2022,Million EUR,Communications,official development assistance,gross disbursements,,,,82.24
+2023,Million EUR,Communications,official development assistance,gross disbursements,,,,55.395
+2024,Million EUR,Communications,official development assistance,gross disbursements,,,,50.404
+2010,Million EUR,Energy,official development assistance,gross disbursements,,,,1044.339
+2011,Million EUR,Energy,official development assistance,gross disbursements,,,,895.864
+2012,Million EUR,Energy,official development assistance,gross disbursements,,,,614.358
+2013,Million EUR,Energy,official development assistance,gross disbursements,,,,924.214
+2014,Million EUR,Energy,official development assistance,gross disbursements,,,,1221.904
+2015,Million EUR,Energy,official development assistance,gross disbursements,,,,1621.932
+2016,Million EUR,Energy,official development assistance,gross disbursements,,,,1698.765
+2017,Million EUR,Energy,official development assistance,gross disbursements,,,,1492.676
+2018,Million EUR,Energy,official development assistance,gross disbursements,,,,1570.578
+2019,Million EUR,Energy,official development assistance,gross disbursements,,,,1600.496
+2020,Million EUR,Energy,official development assistance,gross disbursements,,,,1577.668
+2021,Million EUR,Energy,official development assistance,gross disbursements,,,,1375.152
+2022,Million EUR,Energy,official development assistance,gross disbursements,,,,1988.187
+2023,Million EUR,Energy,official development assistance,gross disbursements,,,,2238.748
+2024,Million EUR,Energy,official development assistance,gross disbursements,,,,2663.402
+2010,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,63.574
+2011,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,88.251
+2012,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,73.644
+2013,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,48.583
+2014,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,51.959
+2015,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,65.08
+2016,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,131.599
+2017,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,152.943
+2018,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,230.109
+2019,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,217.125
+2020,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,321.776
+2021,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,257.277
+2022,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,150.243
+2023,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,127.399
+2024,Million EUR,Urban development and management,official development assistance,gross disbursements,,,,123.998
+2010,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2011,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2012,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2013,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2014,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2015,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2016,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2017,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2018,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2019,Million EUR,water supply and sanitation,other official flows,commitments,,,,34.209
+2020,Million EUR,water supply and sanitation,other official flows,commitments,,,,79.816
+2021,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2022,Million EUR,water supply and sanitation,other official flows,commitments,,,,45.946
+2023,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2024,Million EUR,water supply and sanitation,other official flows,commitments,.,,,
+2010,Million EUR,Transport and storage,other official flows,commitments,.,,,
+2011,Million EUR,Transport and storage,other official flows,commitments,.,,,
+2012,Million EUR,Transport and storage,other official flows,commitments,.,,,
+2013,Million EUR,Transport and storage,other official flows,commitments,.,,,
+2014,Million EUR,Transport and storage,other official flows,commitments,.,,,
+2015,Million EUR,Transport and storage,other official flows,commitments,.,,,
+2016,Million EUR,Transport and storage,other official flows,commitments,.,,,
+2017,Million EUR,Transport and storage,other official flows,commitments,.,,,
+2018,Million EUR,Transport and storage,other official flows,commitments,,,,72.34
+2019,Million EUR,Transport and storage,other official flows,commitments,,,,52.089
+2020,Million EUR,Transport and storage,other official flows,commitments,,,,18.869
+2021,Million EUR,Transport and storage,other official flows,commitments,,,,39.431
+2022,Million EUR,Transport and storage,other official flows,commitments,,,,39.498
+2023,Million EUR,Transport and storage,other official flows,commitments,,,,9.683
+2024,Million EUR,Transport and storage,other official flows,commitments,.,,,
+2010,Million EUR,Communications,other official flows,commitments,.,,,
+2011,Million EUR,Communications,other official flows,commitments,.,,,
+2012,Million EUR,Communications,other official flows,commitments,.,,,
+2013,Million EUR,Communications,other official flows,commitments,.,,,
+2014,Million EUR,Communications,other official flows,commitments,.,,,
+2015,Million EUR,Communications,other official flows,commitments,.,,,
+2016,Million EUR,Communications,other official flows,commitments,.,,,
+2017,Million EUR,Communications,other official flows,commitments,.,,,
+2018,Million EUR,Communications,other official flows,commitments,,,,19.649
+2019,Million EUR,Communications,other official flows,commitments,,,,28.006
+2020,Million EUR,Communications,other official flows,commitments,,,,22.237
+2021,Million EUR,Communications,other official flows,commitments,,,,20.82
+2022,Million EUR,Communications,other official flows,commitments,,,,50.769
+2023,Million EUR,Communications,other official flows,commitments,.,,,
+2024,Million EUR,Communications,other official flows,commitments,.,,,
+2010,Million EUR,Energy,other official flows,commitments,.,,,
+2011,Million EUR,Energy,other official flows,commitments,.,,,
+2012,Million EUR,Energy,other official flows,commitments,.,,,
+2013,Million EUR,Energy,other official flows,commitments,.,,,
+2014,Million EUR,Energy,other official flows,commitments,.,,,
+2015,Million EUR,Energy,other official flows,commitments,.,,,
+2016,Million EUR,Energy,other official flows,commitments,.,,,
+2017,Million EUR,Energy,other official flows,commitments,.,,,
+2018,Million EUR,Energy,other official flows,commitments,,,,154.328
+2019,Million EUR,Energy,other official flows,commitments,,,,146.486
+2020,Million EUR,Energy,other official flows,commitments,,,,94.567
+2021,Million EUR,Energy,other official flows,commitments,,,,89.522
+2022,Million EUR,Energy,other official flows,commitments,,,,176.929
+2023,Million EUR,Energy,other official flows,commitments,,,,200.0
+2024,Million EUR,Energy,other official flows,commitments,.,,,
+2010,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2011,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2012,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2013,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2014,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2015,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2016,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2017,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2018,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2019,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2020,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2021,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2022,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2023,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2024,Million EUR,Urban development and management,other official flows,commitments,.,,,
+2010,Million EUR,water supply and sanitation,other official flows,gross disbursements,.,,,
+2011,Million EUR,water supply and sanitation,other official flows,gross disbursements,.,,,
+2012,Million EUR,water supply and sanitation,other official flows,gross disbursements,.,,,
+2013,Million EUR,water supply and sanitation,other official flows,gross disbursements,.,,,
+2014,Million EUR,water supply and sanitation,other official flows,gross disbursements,.,,,
+2015,Million EUR,water supply and sanitation,other official flows,gross disbursements,,,,8.043
+2016,Million EUR,water supply and sanitation,other official flows,gross disbursements,,,,5.737
+2017,Million EUR,water supply and sanitation,other official flows,gross disbursements,.,,,
+2018,Million EUR,water supply and sanitation,other official flows,gross disbursements,.,,,
+2019,Million EUR,water supply and sanitation,other official flows,gross disbursements,,,,34.209
+2020,Million EUR,water supply and sanitation,other official flows,gross disbursements,,,,79.816
+2021,Million EUR,water supply and sanitation,other official flows,gross disbursements,.,,,
+2022,Million EUR,water supply and sanitation,other official flows,gross disbursements,,,,45.946
+2023,Million EUR,water supply and sanitation,other official flows,gross disbursements,.,,,
+2024,Million EUR,water supply and sanitation,other official flows,gross disbursements,.,,,
+2010,Million EUR,Transport and storage,other official flows,gross disbursements,,,,131.6
+2011,Million EUR,Transport and storage,other official flows,gross disbursements,.,,,
+2012,Million EUR,Transport and storage,other official flows,gross disbursements,,,,79.432
+2013,Million EUR,Transport and storage,other official flows,gross disbursements,,,,49.641
+2014,Million EUR,Transport and storage,other official flows,gross disbursements,,,,9.584
+2015,Million EUR,Transport and storage,other official flows,gross disbursements,.,,,
+2016,Million EUR,Transport and storage,other official flows,gross disbursements,.,,,
+2017,Million EUR,Transport and storage,other official flows,gross disbursements,.,,,
+2018,Million EUR,Transport and storage,other official flows,gross disbursements,,,,72.34
+2019,Million EUR,Transport and storage,other official flows,gross disbursements,,,,52.089
+2020,Million EUR,Transport and storage,other official flows,gross disbursements,,,,18.869
+2021,Million EUR,Transport and storage,other official flows,gross disbursements,,,,39.431
+2022,Million EUR,Transport and storage,other official flows,gross disbursements,,,,39.498
+2023,Million EUR,Transport and storage,other official flows,gross disbursements,,,,4.442
+2024,Million EUR,Transport and storage,other official flows,gross disbursements,.,,,
+2010,Million EUR,Communications,other official flows,gross disbursements,.,,,
+2011,Million EUR,Communications,other official flows,gross disbursements,.,,,
+2012,Million EUR,Communications,other official flows,gross disbursements,.,,,
+2013,Million EUR,Communications,other official flows,gross disbursements,.,,,
+2014,Million EUR,Communications,other official flows,gross disbursements,.,,,
+2015,Million EUR,Communications,other official flows,gross disbursements,.,,,
+2016,Million EUR,Communications,other official flows,gross disbursements,.,,,
+2017,Million EUR,Communications,other official flows,gross disbursements,.,,,
+2018,Million EUR,Communications,other official flows,gross disbursements,,,,19.649
+2019,Million EUR,Communications,other official flows,gross disbursements,,,,28.006
+2020,Million EUR,Communications,other official flows,gross disbursements,,,,22.237
+2021,Million EUR,Communications,other official flows,gross disbursements,,,,20.82
+2022,Million EUR,Communications,other official flows,gross disbursements,,,,50.769
+2023,Million EUR,Communications,other official flows,gross disbursements,.,,,
+2024,Million EUR,Communications,other official flows,gross disbursements,.,,,
+2010,Million EUR,Energy,other official flows,gross disbursements,.,,,
+2011,Million EUR,Energy,other official flows,gross disbursements,.,,,
+2012,Million EUR,Energy,other official flows,gross disbursements,.,,,
+2013,Million EUR,Energy,other official flows,gross disbursements,.,,,
+2014,Million EUR,Energy,other official flows,gross disbursements,.,,,
+2015,Million EUR,Energy,other official flows,gross disbursements,.,,,
+2016,Million EUR,Energy,other official flows,gross disbursements,.,,,
+2017,Million EUR,Energy,other official flows,gross disbursements,.,,,
+2018,Million EUR,Energy,other official flows,gross disbursements,,,,154.328
+2019,Million EUR,Energy,other official flows,gross disbursements,,,,146.486
+2020,Million EUR,Energy,other official flows,gross disbursements,,,,94.567
+2021,Million EUR,Energy,other official flows,gross disbursements,,,,89.522
+2022,Million EUR,Energy,other official flows,gross disbursements,,,,176.929
+2023,Million EUR,Energy,other official flows,gross disbursements,,,,29.239
+2024,Million EUR,Energy,other official flows,gross disbursements,,,,141.034
+2010,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2011,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2012,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2013,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2014,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2015,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2016,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2017,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2018,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2019,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2020,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2021,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2022,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2023,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2024,Million EUR,Urban development and management,other official flows,gross disbursements,.,,,
+2010,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,869.6
+2011,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1134.247
+2012,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1606.788
+2013,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1176.723
+2014,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1000.918
+2015,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1207.87
+2016,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,824.586
+2017,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1737.466
+2018,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1912.051
+2019,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1618.771
+2020,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1476.441
+2021,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1333.256
+2022,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1666.338
+2023,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,779.028
+2024,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,commitments,,,,1507.27
+2010,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,564.193
+2011,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,97.399
+2012,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,114.575
+2013,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,334.893
+2014,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,198.888
+2015,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,943.996
+2016,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,1320.895
+2017,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,579.772
+2018,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,70.46
+2019,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,1050.299
+2020,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,1038.249
+2021,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,814.127
+2022,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,627.972
+2023,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,936.07
+2024,"Million USD, constant prices (2024)",Transport and storage,official development assistance,commitments,,,,585.837
+2010,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,28.496
+2011,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,18.752
+2012,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,13.597
+2013,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,40.221
+2014,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,78.621
+2015,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,39.723
+2016,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,17.672
+2017,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,45.615
+2018,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,16.099
+2019,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,80.809
+2020,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,51.805
+2021,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,190.351
+2022,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,105.403
+2023,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,53.766
+2024,"Million USD, constant prices (2024)",Communications,official development assistance,commitments,,,,42.11
+2010,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,2781.474
+2011,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,1688.966
+2012,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,1558.734
+2013,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,2316.795
+2014,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,4275.099
+2015,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,2827.148
+2016,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,3254.353
+2017,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,2987.308
+2018,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,3956.833
+2019,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,2656.445
+2020,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,2073.329
+2021,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,1793.827
+2022,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,4240.013
+2023,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,3435.059
+2024,"Million USD, constant prices (2024)",Energy,official development assistance,commitments,,,,2149.622
+2010,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,79.57
+2011,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,474.754
+2012,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,73.073
+2013,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,198.97
+2014,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,74.643
+2015,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,128.363
+2016,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,634.98
+2017,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,281.808
+2018,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,291.157
+2019,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,371.764
+2020,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,451.152
+2021,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,173.541
+2022,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,961.605
+2023,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,488.2
+2024,"Million USD, constant prices (2024)",Urban development and management,official development assistance,commitments,,,,148.674
+2010,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,689.39
+2011,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,750.302
+2012,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,672.966
+2013,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,718.382
+2014,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,987.449
+2015,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,1044.745
+2016,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,1037.405
+2017,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,1096.923
+2018,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,1130.546
+2019,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,1009.517
+2020,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,1072.627
+2021,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,922.089
+2022,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,917.616
+2023,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,988.529
+2024,"Million USD, constant prices (2024)",water supply and sanitation,official development assistance,gross disbursements,,,,1405.12
+2010,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,206.013
+2011,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,284.383
+2012,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,244.446
+2013,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,404.44
+2014,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,152.315
+2015,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,611.213
+2016,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,527.931
+2017,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,333.978
+2018,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,369.738
+2019,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,588.284
+2020,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,450.913
+2021,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,209.473
+2022,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,294.658
+2023,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,396.711
+2024,"Million USD, constant prices (2024)",Transport and storage,official development assistance,gross disbursements,,,,488.272
+2010,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,31.532
+2011,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,11.787
+2012,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,8.186
+2013,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,33.474
+2014,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,82.019
+2015,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,35.585
+2016,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,19.391
+2017,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,37.084
+2018,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,12.068
+2019,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,38.205
+2020,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,47.476
+2021,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,86.297
+2022,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,97.851
+2023,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,61.774
+2024,"Million USD, constant prices (2024)",Communications,official development assistance,gross disbursements,,,,54.514
+2010,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,1602.086
+2011,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,1357.594
+2012,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,917.829
+2013,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,1353.713
+2014,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,1756.429
+2015,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,2291.503
+2016,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,2370.165
+2017,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,2052.423
+2018,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,2119.853
+2019,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,2117.597
+2020,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,2051.442
+2021,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,1741.255
+2022,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,2365.598
+2023,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,2496.565
+2024,"Million USD, constant prices (2024)",Energy,official development assistance,gross disbursements,,,,2880.6
+2010,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,97.526
+2011,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,133.736
+2012,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,110.022
+2013,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,71.161
+2014,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,74.688
+2015,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,91.947
+2016,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,183.61
+2017,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,210.296
+2018,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,310.585
+2019,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,287.276
+2020,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,418.405
+2021,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,325.772
+2022,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,178.763
+2023,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,142.07
+2024,"Million USD, constant prices (2024)",Urban development and management,official development assistance,gross disbursements,,,,134.11
+2010,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2011,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2012,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2013,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2014,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2015,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2016,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2017,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2018,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2019,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,,,,45.262
+2020,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,,,,103.785
+2021,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2022,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,,,,54.668
+2023,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2024,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,commitments,.,,,
+2010,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,.,,,
+2011,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,.,,,
+2012,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,.,,,
+2013,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,.,,,
+2014,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,.,,,
+2015,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,.,,,
+2016,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,.,,,
+2017,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,.,,,
+2018,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,,,,97.639
+2019,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,,,,68.919
+2020,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,,,,24.535
+2021,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,,,,49.928
+2022,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,,,,46.996
+2023,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,,,,10.798
+2024,"Million USD, constant prices (2024)",Transport and storage,other official flows,commitments,.,,,
+2010,"Million USD, constant prices (2024)",Communications,other official flows,commitments,.,,,
+2011,"Million USD, constant prices (2024)",Communications,other official flows,commitments,.,,,
+2012,"Million USD, constant prices (2024)",Communications,other official flows,commitments,.,,,
+2013,"Million USD, constant prices (2024)",Communications,other official flows,commitments,.,,,
+2014,"Million USD, constant prices (2024)",Communications,other official flows,commitments,.,,,
+2015,"Million USD, constant prices (2024)",Communications,other official flows,commitments,.,,,
+2016,"Million USD, constant prices (2024)",Communications,other official flows,commitments,.,,,
+2017,"Million USD, constant prices (2024)",Communications,other official flows,commitments,.,,,
+2018,"Million USD, constant prices (2024)",Communications,other official flows,commitments,,,,26.521
+2019,"Million USD, constant prices (2024)",Communications,other official flows,commitments,,,,37.054
+2020,"Million USD, constant prices (2024)",Communications,other official flows,commitments,,,,28.915
+2021,"Million USD, constant prices (2024)",Communications,other official flows,commitments,,,,26.363
+2022,"Million USD, constant prices (2024)",Communications,other official flows,commitments,,,,60.407
+2023,"Million USD, constant prices (2024)",Communications,other official flows,commitments,.,,,
+2024,"Million USD, constant prices (2024)",Communications,other official flows,commitments,.,,,
+2010,"Million USD, constant prices (2024)",Energy,other official flows,commitments,.,,,
+2011,"Million USD, constant prices (2024)",Energy,other official flows,commitments,.,,,
+2012,"Million USD, constant prices (2024)",Energy,other official flows,commitments,.,,,
+2013,"Million USD, constant prices (2024)",Energy,other official flows,commitments,.,,,
+2014,"Million USD, constant prices (2024)",Energy,other official flows,commitments,.,,,
+2015,"Million USD, constant prices (2024)",Energy,other official flows,commitments,.,,,
+2016,"Million USD, constant prices (2024)",Energy,other official flows,commitments,.,,,
+2017,"Million USD, constant prices (2024)",Energy,other official flows,commitments,.,,,
+2018,"Million USD, constant prices (2024)",Energy,other official flows,commitments,,,,208.3
+2019,"Million USD, constant prices (2024)",Energy,other official flows,commitments,,,,193.815
+2020,"Million USD, constant prices (2024)",Energy,other official flows,commitments,,,,122.965
+2021,"Million USD, constant prices (2024)",Energy,other official flows,commitments,,,,113.356
+2022,"Million USD, constant prices (2024)",Energy,other official flows,commitments,,,,210.515
+2023,"Million USD, constant prices (2024)",Energy,other official flows,commitments,,,,223.032
+2024,"Million USD, constant prices (2024)",Energy,other official flows,commitments,.,,,
+2010,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2011,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2012,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2013,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2014,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2015,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2016,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2017,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2018,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2019,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2020,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2021,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2022,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2023,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2024,"Million USD, constant prices (2024)",Urban development and management,other official flows,commitments,.,,,
+2010,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,.,,,
+2011,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,.,,,
+2012,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,.,,,
+2013,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,.,,,
+2014,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,.,,,
+2015,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,,,,11.363
+2016,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,,,,8.005
+2017,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,.,,,
+2018,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,.,,,
+2019,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,,,,45.262
+2020,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,,,,103.785
+2021,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,.,,,
+2022,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,,,,54.668
+2023,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,.,,,
+2024,"Million USD, constant prices (2024)",water supply and sanitation,other official flows,gross disbursements,.,,,
+2010,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,,,,201.883
+2011,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,.,,,
+2012,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,,,,118.668
+2013,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,,,,72.711
+2014,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,,,,13.777
+2015,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,.,,,
+2016,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,.,,,
+2017,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,.,,,
+2018,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,,,,97.639
+2019,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,,,,68.919
+2020,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,,,,24.535
+2021,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,,,,49.928
+2022,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,,,,46.996
+2023,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,,,,4.953
+2024,"Million USD, constant prices (2024)",Transport and storage,other official flows,gross disbursements,.,,,
+2010,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,.,,,
+2011,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,.,,,
+2012,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,.,,,
+2013,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,.,,,
+2014,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,.,,,
+2015,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,.,,,
+2016,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,.,,,
+2017,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,.,,,
+2018,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,,,,26.521
+2019,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,,,,37.054
+2020,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,,,,28.915
+2021,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,,,,26.363
+2022,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,,,,60.407
+2023,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,.,,,
+2024,"Million USD, constant prices (2024)",Communications,other official flows,gross disbursements,.,,,
+2010,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,.,,,
+2011,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,.,,,
+2012,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,.,,,
+2013,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,.,,,
+2014,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,.,,,
+2015,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,.,,,
+2016,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,.,,,
+2017,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,.,,,
+2018,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,,,,208.3
+2019,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,,,,193.815
+2020,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,,,,122.965
+2021,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,,,,113.356
+2022,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,,,,210.515
+2023,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,,,,32.606
+2024,"Million USD, constant prices (2024)",Energy,other official flows,gross disbursements,,,,152.536
+2010,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2011,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2012,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2013,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2014,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2015,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2016,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2017,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2018,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2019,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2020,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2021,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2022,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2023,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,
+2024,"Million USD, constant prices (2024)",Urban development and management,other official flows,gross disbursements,.,,,

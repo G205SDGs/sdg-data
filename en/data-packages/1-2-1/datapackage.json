@@ -48,7 +48,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "p",
                 ""
               ]
             },

@@ -1,13 +1,11 @@
 Disaggregation,Number of indicators,Number of values
-age group,21,40
+age group,24,43
 age of mother,1,2
 area of law,1,4
 availability,1,2
 bioclimatic belt,1,3
 bound,1,2
 cause of death,3,10
-COMMENT_OBS_0,156,11
-COMMENT_OBS_1,11,4
 completeness of disaggregation,1,3
 data source,1,2
 degree of feelings of insecurity,1,4
@@ -26,11 +24,12 @@ form of exploitation,1,2
 goal,1,13
 income considered,1,2
 land cover class,1,5
+land,7,17
 level of court,1,3
 level of fine particulate matter,1,2
 level of risk of extinction,1,5
 level,1,3
-länder,8,17
+länder,1,16
 migration policy area,1,6
 mode of transport,1,6
 outcome of the application process,1,2
@@ -41,32 +40,34 @@ population,1,2
 presentation,1,2
 profession,1,4
 proportion of household expenditures on health,1,2
+purpose,1,2
 score,1,2
 sdg indicator,1,5
 sea,1,2
 section,1,5
-sector,2,11
-sex,36,4
+sector,3,16
+sex,39,4
 speed,1,5
 standard accounting system,1,2
 status class,1,5
 subject,1,2
 technology sector,1,2
 thematic area,1,4
-time series,13,18
+time series,7,13
 'time series ',1,2
-timeseries,20,69
+timeseries,19,67
 typ of essential service,1,3
 typ of victim-suspect relationship,1,3
 type of account,1,2
 type of biomass,1,3
 type of classification,1,2
 type of disease,4,22
+type of financial flow,5,5
 type of fiscal policy tool,1,2
-type of flow,1,5
 type of harassment,1,2
 type of ict skill,1,8
 type of obligation,1,3
+type of official development assistance,12,5
 type of physical violence,2,2
 type of psychological violence,1,3
 type of receiver/provider,1,10

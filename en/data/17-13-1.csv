@@ -30,7 +30,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Billion EUR,Available income of private households,p,,,2274.3
 2023,Billion EUR,Available income of private households,p,,,2415.3
 2024,Billion EUR,Available income of private households,p,,,2511.2
-2025,Billion EUR,Available income of private households,p,,,2589.1
+2025,Billion EUR,Available income of private households,p,,,2583.7
 2010,Billion EUR,Consumption by private households,,,,1417.1
 2011,Billion EUR,Consumption by private households,,,,1463.0
 2012,Billion EUR,Consumption by private households,,,,1503.4
@@ -46,7 +46,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Billion EUR,Consumption by private households,p,,,2036.1
 2023,Billion EUR,Consumption by private households,p,,,2159.3
 2024,Billion EUR,Consumption by private households,p,,,2221.5
-2025,Billion EUR,Consumption by private households,p,,,2310.7
+2025,Billion EUR,Consumption by private households,p,,,2305.4
 2010,Billion EUR,Debts of the total public budget,,,,2011.7
 2011,Billion EUR,Debts of the total public budget,,,,2025.4
 2012,Billion EUR,Debts of the total public budget,,,,2068.3
@@ -78,7 +78,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Billion EUR,Government fiscal balance,p,,,-76.1
 2023,Billion EUR,Government fiscal balance,p,,,-105.2
 2024,Billion EUR,Government fiscal balance,p,,,-115.3
-2025,Billion EUR,Government fiscal balance,p,,,-119.1
+2025,Billion EUR,Government fiscal balance,p,,,-123.6
 2010,Billion EUR,Gross fixed capital formation,,,,501.8
 2011,Billion EUR,Gross fixed capital formation,,,,549.6
 2012,Billion EUR,Gross fixed capital formation,,,,558.9
@@ -94,7 +94,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Billion EUR,Gross fixed capital formation,p,,,861.8
 2023,Billion EUR,Gross fixed capital formation,p,,,894.1
 2024,Billion EUR,Gross fixed capital formation,p,,,885.7
-2025,Billion EUR,Gross fixed capital formation,p,,,908.0
+2025,Billion EUR,Gross fixed capital formation,p,,,907.9
 2010,Million hours,Hours worked by employees,,,,49385.0
 2011,Million hours,Hours worked by employees,,,,50163.0
 2012,Million hours,Hours worked by employees,,,,50098.0
@@ -110,7 +110,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Million hours,Hours worked by employees,p,,,54340.0
 2023,Million hours,Hours worked by employees,p,,,54782.0
 2024,Million hours,Hours worked by employees,p,,,54874.0
-2025,Million hours,Hours worked by employees,p,,,54921.0
+2025,Million hours,Hours worked by employees,p,,,54903.0
 2010,Million hours,Hours worked by persons employed,,,,58581.0
 2011,Million hours,Hours worked by persons employed,,,,59328.0
 2012,Million hours,Hours worked by persons employed,,,,59143.0
@@ -126,7 +126,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Million hours,Hours worked by persons employed,p,,,61297.0
 2023,Million hours,Hours worked by persons employed,p,,,61496.0
 2024,Million hours,Hours worked by persons employed,p,,,61364.0
-2025,Million hours,Hours worked by persons employed,p,,,61259.0
+2025,Million hours,Hours worked by persons employed,p,,,61241.0
 2010,2020 = 100,Labour productivity per hour worked by employee,,,,94.2
 2011,2020 = 100,Labour productivity per hour worked by employee,,,,96.2
 2012,2020 = 100,Labour productivity per hour worked by employee,,,,96.8
@@ -174,7 +174,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"number in 1,000",Persons employed,p,,,45629.0
 2023,"number in 1,000",Persons employed,p,,,45935.0
 2024,"number in 1,000",Persons employed,p,,,45987.0
-2025,"number in 1,000",Persons employed,p,,,45982.0
+2025,"number in 1,000",Persons employed,p,,,45977.0
 2010,2020 = 100,Real GDP per capita,,,,91.5
 2011,2020 = 100,Real GDP per capita,,,,94.9
 2012,2020 = 100,Real GDP per capita,,,,95.2
@@ -190,7 +190,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,2020 = 100,Real GDP per capita,p,,,105.3
 2023,2020 = 100,Real GDP per capita,p,,,103.4
 2024,2020 = 100,Real GDP per capita,p,,,102.6
-2025,2020 = 100,Real GDP per capita,p,,,102.9
+2025,2020 = 100,Real GDP per capita,p,,,102.8
 2010,Billion EUR,Trade balance,,,,133.5
 2011,Billion EUR,Trade balance,,,,133.3
 2012,Billion EUR,Trade balance,,,,169.1
@@ -206,4 +206,4 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Billion EUR,Trade balance,p,,,98.6
 2023,Billion EUR,Trade balance,p,,,167.6
 2024,Billion EUR,Trade balance,p,,,163.5
-2025,Billion EUR,Trade balance,p,,,105.3
+2025,Billion EUR,Trade balance,p,,,106.6

@@ -28,16 +28,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments (ODA)",
-                "Gross disbursements (ODA)",
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "type of official development assistance"
           },
           {
             "name": "COMMENT_OBS_0",

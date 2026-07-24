@@ -79,6 +79,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "…",
                 "|",
                 ""
               ]

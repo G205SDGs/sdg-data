@@ -1,193 +1,513 @@
-Year,Time series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Persons at risk of poverty or social exclusion,,,,,
-2011,Persons at risk of poverty or social exclusion,,,,,
-2012,Persons at risk of poverty or social exclusion,,,,,
-2013,Persons at risk of poverty or social exclusion,,,,,
-2014,Persons at risk of poverty or social exclusion,,,,,
-2015,Persons at risk of poverty or social exclusion,,,,,20.0
-2016,Persons at risk of poverty or social exclusion,,,,,19.8
-2017,Persons at risk of poverty or social exclusion,,,,,18.8
-2018,Persons at risk of poverty or social exclusion,,,,,18.5
-2019,Persons at risk of poverty or social exclusion,,,,,17.3
-2020,Persons at risk of poverty or social exclusion,,|,,,20.4
-2021,Persons at risk of poverty or social exclusion,,,,,21.0
-2022,Persons at risk of poverty or social exclusion,,,,,21.1
-2023,Persons at risk of poverty or social exclusion,,,,,21.3
-2024,Persons at risk of poverty or social exclusion,,,,,21.1
-2025,Persons at risk of poverty or social exclusion,,p,,,21.2
-2010,Persons at risk of poverty or social exclusion,Female,,,,
-2011,Persons at risk of poverty or social exclusion,Female,,,,
-2012,Persons at risk of poverty or social exclusion,Female,,,,
-2013,Persons at risk of poverty or social exclusion,Female,,,,
-2014,Persons at risk of poverty or social exclusion,Female,,,,
-2015,Persons at risk of poverty or social exclusion,Female,,,,21.3
-2016,Persons at risk of poverty or social exclusion,Female,,,,21.3
-2017,Persons at risk of poverty or social exclusion,Female,,,,20.1
-2018,Persons at risk of poverty or social exclusion,Female,,,,19.6
-2019,Persons at risk of poverty or social exclusion,Female,,,,18.4
-2020,Persons at risk of poverty or social exclusion,Female,|,,,21.2
-2021,Persons at risk of poverty or social exclusion,Female,,,,21.7
-2022,Persons at risk of poverty or social exclusion,Female,,,,21.9
-2023,Persons at risk of poverty or social exclusion,Female,,,,22.1
-2024,Persons at risk of poverty or social exclusion,Female,,,,21.9
-2025,Persons at risk of poverty or social exclusion,Female,p,,,21.9
-2010,Persons at risk of poverty or social exclusion,Male,,,,
-2011,Persons at risk of poverty or social exclusion,Male,,,,
-2012,Persons at risk of poverty or social exclusion,Male,,,,
-2013,Persons at risk of poverty or social exclusion,Male,,,,
-2014,Persons at risk of poverty or social exclusion,Male,,,,
-2015,Persons at risk of poverty or social exclusion,Male,,,,18.6
-2016,Persons at risk of poverty or social exclusion,Male,,,,18.3
-2017,Persons at risk of poverty or social exclusion,Male,,,,17.4
-2018,Persons at risk of poverty or social exclusion,Male,,,,17.4
-2019,Persons at risk of poverty or social exclusion,Male,,,,16.1
-2020,Persons at risk of poverty or social exclusion,Male,|,,,19.5
-2021,Persons at risk of poverty or social exclusion,Male,,,,20.2
-2022,Persons at risk of poverty or social exclusion,Male,,,,20.3
-2023,Persons at risk of poverty or social exclusion,Male,,,,20.5
-2024,Persons at risk of poverty or social exclusion,Male,,,,20.2
-2025,Persons at risk of poverty or social exclusion,Male,p,,,20.5
-2010,At-risk-of-poverty rate,,,,,15.6
-2011,At-risk-of-poverty rate,,,,,15.8
-2012,At-risk-of-poverty rate,,,,,16.1
-2013,At-risk-of-poverty rate,,,,,16.1
-2014,At-risk-of-poverty rate,,,,,16.7
-2015,At-risk-of-poverty rate,,,,,16.7
-2016,At-risk-of-poverty rate,,,,,16.5
-2017,At-risk-of-poverty rate,,,,,16.1
-2018,At-risk-of-poverty rate,,,,,16.0
-2019,At-risk-of-poverty rate,,,,,14.8
-2020,At-risk-of-poverty rate,,|,,,16.1
-2021,At-risk-of-poverty rate,,,,,16.0
-2022,At-risk-of-poverty rate,,,,,14.8
-2023,At-risk-of-poverty rate,,,,,14.4
-2024,At-risk-of-poverty rate,,,,,15.5
-2025,At-risk-of-poverty rate,,p,,,16.1
-2010,At-risk-of-poverty rate,Female,,,,16.4
-2011,At-risk-of-poverty rate,Female,,,,16.8
-2012,At-risk-of-poverty rate,Female,,,,17.2
-2013,At-risk-of-poverty rate,Female,,,,17.2
-2014,At-risk-of-poverty rate,Female,,,,17.4
-2015,At-risk-of-poverty rate,Female,,,,17.4
-2016,At-risk-of-poverty rate,Female,,,,17.8
-2017,At-risk-of-poverty rate,Female,,,,17.1
-2018,At-risk-of-poverty rate,Female,,,,16.8
-2019,At-risk-of-poverty rate,Female,,,,15.7
-2020,At-risk-of-poverty rate,Female,|,,,16.8
-2021,At-risk-of-poverty rate,Female,,,,16.6
-2022,At-risk-of-poverty rate,Female,,,,15.5
-2023,At-risk-of-poverty rate,Female,,,,15.1
-2024,At-risk-of-poverty rate,Female,,,,16.2
-2025,At-risk-of-poverty rate,Female,p,,,16.7
-2010,At-risk-of-poverty rate,Male,,,,14.9
-2011,At-risk-of-poverty rate,Male,,,,14.9
-2012,At-risk-of-poverty rate,Male,,,,14.9
-2013,At-risk-of-poverty rate,Male,,,,15.0
-2014,At-risk-of-poverty rate,Male,,,,15.9
-2015,At-risk-of-poverty rate,Male,,,,15.9
-2016,At-risk-of-poverty rate,Male,,,,15.2
-2017,At-risk-of-poverty rate,Male,,,,15.0
-2018,At-risk-of-poverty rate,Male,,,,15.2
-2019,At-risk-of-poverty rate,Male,,,,13.9
-2020,At-risk-of-poverty rate,Male,|,,,15.3
-2021,At-risk-of-poverty rate,Male,,,,15.4
-2022,At-risk-of-poverty rate,Male,,,,14.0
-2023,At-risk-of-poverty rate,Male,,,,13.7
-2024,At-risk-of-poverty rate,Male,,,,14.7
-2025,At-risk-of-poverty rate,Male,p,,,15.6
-2010,Persons living in households with very low work intensity,,,,,
-2011,Persons living in households with very low work intensity,,,,,
-2012,Persons living in households with very low work intensity,,,,,
-2013,Persons living in households with very low work intensity,,,,,
-2014,Persons living in households with very low work intensity,,,,,
-2015,Persons living in households with very low work intensity,,,,,9.5
-2016,Persons living in households with very low work intensity,,,,,9.4
-2017,Persons living in households with very low work intensity,,,,,8.7
-2018,Persons living in households with very low work intensity,,,,,8.0
-2019,Persons living in households with very low work intensity,,,,,7.6
-2020,Persons living in households with very low work intensity,,|,,,8.3
-2021,Persons living in households with very low work intensity,,,,,9.5
-2022,Persons living in households with very low work intensity,,,,,9.8
-2023,Persons living in households with very low work intensity,,,,,9.9
-2024,Persons living in households with very low work intensity,,,,,10.0
-2025,Persons living in households with very low work intensity,,p,,,10.3
-2010,Persons living in households with very low work intensity,Female,.,,,
-2011,Persons living in households with very low work intensity,Female,.,,,
-2012,Persons living in households with very low work intensity,Female,.,,,
-2013,Persons living in households with very low work intensity,Female,.,,,
-2014,Persons living in households with very low work intensity,Female,.,,,
-2015,Persons living in households with very low work intensity,Female,,,,9.7
-2016,Persons living in households with very low work intensity,Female,,,,10.0
-2017,Persons living in households with very low work intensity,Female,,,,8.9
-2018,Persons living in households with very low work intensity,Female,,,,8.4
-2019,Persons living in households with very low work intensity,Female,,,,8.0
-2020,Persons living in households with very low work intensity,Female,|,,,8.5
-2021,Persons living in households with very low work intensity,Female,,,,9.8
-2022,Persons living in households with very low work intensity,Female,,,,10.0
-2023,Persons living in households with very low work intensity,Female,,,,10.0
-2024,Persons living in households with very low work intensity,Female,,,,10.1
-2025,Persons living in households with very low work intensity,Female,p,,,10.6
-2010,Persons living in households with very low work intensity,Male,.,,,
-2011,Persons living in households with very low work intensity,Male,.,,,
-2012,Persons living in households with very low work intensity,Male,.,,,
-2013,Persons living in households with very low work intensity,Male,.,,,
-2014,Persons living in households with very low work intensity,Male,.,,,
-2015,Persons living in households with very low work intensity,Male,,,,9.2
-2016,Persons living in households with very low work intensity,Male,,,,8.9
-2017,Persons living in households with very low work intensity,Male,,,,8.4
-2018,Persons living in households with very low work intensity,Male,,,,7.6
-2019,Persons living in households with very low work intensity,Male,,,,7.1
-2020,Persons living in households with very low work intensity,Male,|,,,8.1
-2021,Persons living in households with very low work intensity,Male,,,,9.2
-2022,Persons living in households with very low work intensity,Male,,,,9.6
-2023,Persons living in households with very low work intensity,Male,,,,9.9
-2024,Persons living in households with very low work intensity,Male,,,,9.8
-2025,Persons living in households with very low work intensity,Male,p,,,10.1
-2010,Severely materially and socially deprived persons,,.,,,
-2011,Severely materially and socially deprived persons,,.,,,
-2012,Severely materially and socially deprived persons,,.,,,
-2013,Severely materially and socially deprived persons,,.,,,
-2014,Severely materially and socially deprived persons,,.,,,
-2015,Severely materially and socially deprived persons,,,,,5.7
-2016,Severely materially and socially deprived persons,,,,,4.7
-2017,Severely materially and socially deprived persons,,,,,3.7
-2018,Severely materially and socially deprived persons,,,,,3.4
-2019,Severely materially and socially deprived persons,,,,,3.0
-2020,Severely materially and socially deprived persons,,|,,,4.4
-2021,Severely materially and socially deprived persons,,,,,4.3
-2022,Severely materially and socially deprived persons,,,,,6.2
-2023,Severely materially and socially deprived persons,,,,,6.9
-2024,Severely materially and socially deprived persons,,,,,6.2
-2025,Severely materially and socially deprived persons,,p,,,5.6
-2010,Severely materially and socially deprived persons,Female,.,,,
-2011,Severely materially and socially deprived persons,Female,.,,,
-2012,Severely materially and socially deprived persons,Female,.,,,
-2013,Severely materially and socially deprived persons,Female,.,,,
-2014,Severely materially and socially deprived persons,Female,.,,,
-2015,Severely materially and socially deprived persons,Female,,,,6.3
-2016,Severely materially and socially deprived persons,Female,,,,5.1
-2017,Severely materially and socially deprived persons,Female,,,,4.0
-2018,Severely materially and socially deprived persons,Female,,,,3.6
-2019,Severely materially and socially deprived persons,Female,,,,3.3
-2020,Severely materially and socially deprived persons,Female,|,,,4.4
-2021,Severely materially and socially deprived persons,Female,,,,4.3
-2022,Severely materially and socially deprived persons,Female,,,,6.1
-2023,Severely materially and socially deprived persons,Female,,,,6.8
-2024,Severely materially and socially deprived persons,Female,,,,6.1
-2025,Severely materially and socially deprived persons,Female,p,,,5.5
-2010,Severely materially and socially deprived persons,Male,.,,,
-2011,Severely materially and socially deprived persons,Male,.,,,
-2012,Severely materially and socially deprived persons,Male,.,,,
-2013,Severely materially and socially deprived persons,Male,.,,,
-2014,Severely materially and socially deprived persons,Male,.,,,
-2015,Severely materially and socially deprived persons,Male,,,,5.0
-2016,Severely materially and socially deprived persons,Male,,,,4.3
-2017,Severely materially and socially deprived persons,Male,,,,3.5
-2018,Severely materially and socially deprived persons,Male,,,,3.2
-2019,Severely materially and socially deprived persons,Male,,,,2.6
-2020,Severely materially and socially deprived persons,Male,|,,,4.3
-2021,Severely materially and socially deprived persons,Male,,,,4.4
-2022,Severely materially and socially deprived persons,Male,,,,6.3
-2023,Severely materially and socially deprived persons,Male,,,,7.0
-2024,Severely materially and socially deprived persons,Male,,,,6.3
-2025,Severely materially and socially deprived persons,Male,p,,,5.6
+Year,Time series,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Persons at risk of poverty or social exclusion,,,.,,,
+2011,Persons at risk of poverty or social exclusion,,,.,,,
+2012,Persons at risk of poverty or social exclusion,,,.,,,
+2013,Persons at risk of poverty or social exclusion,,,.,,,
+2014,Persons at risk of poverty or social exclusion,,,.,,,
+2015,Persons at risk of poverty or social exclusion,,,,,,20.0
+2016,Persons at risk of poverty or social exclusion,,,,,,19.8
+2017,Persons at risk of poverty or social exclusion,,,,,,18.8
+2018,Persons at risk of poverty or social exclusion,,,,,,18.5
+2019,Persons at risk of poverty or social exclusion,,,,,,17.3
+2020,Persons at risk of poverty or social exclusion,,,|,,,20.4
+2021,Persons at risk of poverty or social exclusion,,,,,,21.0
+2022,Persons at risk of poverty or social exclusion,,,,,,21.1
+2023,Persons at risk of poverty or social exclusion,,,,,,21.3
+2024,Persons at risk of poverty or social exclusion,,,,,,21.1
+2025,Persons at risk of poverty or social exclusion,,,,,,21.2
+2010,Persons at risk of poverty or social exclusion,5 years and younger,,.,,,
+2011,Persons at risk of poverty or social exclusion,5 years and younger,,.,,,
+2012,Persons at risk of poverty or social exclusion,5 years and younger,,.,,,
+2013,Persons at risk of poverty or social exclusion,5 years and younger,,.,,,
+2014,Persons at risk of poverty or social exclusion,5 years and younger,,.,,,
+2015,Persons at risk of poverty or social exclusion,5 years and younger,,,,,21.3
+2016,Persons at risk of poverty or social exclusion,5 years and younger,,,,,20.4
+2017,Persons at risk of poverty or social exclusion,5 years and younger,,,,,18.6
+2018,Persons at risk of poverty or social exclusion,5 years and younger,,,,,17.4
+2019,Persons at risk of poverty or social exclusion,5 years and younger,,,,,14.5
+2020,Persons at risk of poverty or social exclusion,5 years and younger,,|,,,22.4
+2021,Persons at risk of poverty or social exclusion,5 years and younger,,,,,25.3
+2022,Persons at risk of poverty or social exclusion,5 years and younger,,,,,24.6
+2023,Persons at risk of poverty or social exclusion,5 years and younger,,,,,24.0
+2024,Persons at risk of poverty or social exclusion,5 years and younger,,,,,23.2
+2025,Persons at risk of poverty or social exclusion,5 years and younger,,,,,24.1
+2010,Persons at risk of poverty or social exclusion,6 to under 12 years,,.,,,
+2011,Persons at risk of poverty or social exclusion,6 to under 12 years,,.,,,
+2012,Persons at risk of poverty or social exclusion,6 to under 12 years,,.,,,
+2013,Persons at risk of poverty or social exclusion,6 to under 12 years,,.,,,
+2014,Persons at risk of poverty or social exclusion,6 to under 12 years,,.,,,
+2015,Persons at risk of poverty or social exclusion,6 to under 12 years,,,,,18.0
+2016,Persons at risk of poverty or social exclusion,6 to under 12 years,,,,,20.7
+2017,Persons at risk of poverty or social exclusion,6 to under 12 years,,,,,17.8
+2018,Persons at risk of poverty or social exclusion,6 to under 12 years,,,,,16.7
+2019,Persons at risk of poverty or social exclusion,6 to under 12 years,,,,,15.0
+2020,Persons at risk of poverty or social exclusion,6 to under 12 years,,|,,,21.7
+2021,Persons at risk of poverty or social exclusion,6 to under 12 years,,,,,22.6
+2022,Persons at risk of poverty or social exclusion,6 to under 12 years,,,,,24.0
+2023,Persons at risk of poverty or social exclusion,6 to under 12 years,,,,,23.7
+2024,Persons at risk of poverty or social exclusion,6 to under 12 years,,,,,22.1
+2025,Persons at risk of poverty or social exclusion,6 to under 12 years,,,,,22.4
+2010,Persons at risk of poverty or social exclusion,12 to under 18 years,,.,,,
+2011,Persons at risk of poverty or social exclusion,12 to under 18 years,,.,,,
+2012,Persons at risk of poverty or social exclusion,12 to under 18 years,,.,,,
+2013,Persons at risk of poverty or social exclusion,12 to under 18 years,,.,,,
+2014,Persons at risk of poverty or social exclusion,12 to under 18 years,,.,,,
+2015,Persons at risk of poverty or social exclusion,12 to under 18 years,,,,,18.5
+2016,Persons at risk of poverty or social exclusion,12 to under 18 years,,,,,20.9
+2017,Persons at risk of poverty or social exclusion,12 to under 18 years,,,,,19.3
+2018,Persons at risk of poverty or social exclusion,12 to under 18 years,,,,,18.4
+2019,Persons at risk of poverty or social exclusion,12 to under 18 years,,,,,16.9
+2020,Persons at risk of poverty or social exclusion,12 to under 18 years,,|,,,22.8
+2021,Persons at risk of poverty or social exclusion,12 to under 18 years,,,,,22.9
+2022,Persons at risk of poverty or social exclusion,12 to under 18 years,,,,,24.5
+2023,Persons at risk of poverty or social exclusion,12 to under 18 years,,,,,24.0
+2024,Persons at risk of poverty or social exclusion,12 to under 18 years,,,,,23.4
+2025,Persons at risk of poverty or social exclusion,12 to under 18 years,,,,,23.9
+2010,Persons at risk of poverty or social exclusion,18 to under 65 years,,.,,,
+2011,Persons at risk of poverty or social exclusion,18 to under 65 years,,.,,,
+2012,Persons at risk of poverty or social exclusion,18 to under 65 years,,.,,,
+2013,Persons at risk of poverty or social exclusion,18 to under 65 years,,.,,,
+2014,Persons at risk of poverty or social exclusion,18 to under 65 years,,.,,,
+2015,Persons at risk of poverty or social exclusion,18 to under 65 years,,,,,21.1
+2016,Persons at risk of poverty or social exclusion,18 to under 65 years,,,,,20.1
+2017,Persons at risk of poverty or social exclusion,18 to under 65 years,,,,,19.2
+2018,Persons at risk of poverty or social exclusion,18 to under 65 years,,,,,18.7
+2019,Persons at risk of poverty or social exclusion,18 to under 65 years,,,,,17.3
+2020,Persons at risk of poverty or social exclusion,18 to under 65 years,,|,,,19.6
+2021,Persons at risk of poverty or social exclusion,18 to under 65 years,,,,,20.3
+2022,Persons at risk of poverty or social exclusion,18 to under 65 years,,,,,20.6
+2023,Persons at risk of poverty or social exclusion,18 to under 65 years,,,,,20.8
+2024,Persons at risk of poverty or social exclusion,18 to under 65 years,,,,,20.5
+2025,Persons at risk of poverty or social exclusion,18 to under 65 years,,,,,20.6
+2010,Persons at risk of poverty or social exclusion,65 years and older,,.,,,
+2011,Persons at risk of poverty or social exclusion,65 years and older,,.,,,
+2012,Persons at risk of poverty or social exclusion,65 years and older,,.,,,
+2013,Persons at risk of poverty or social exclusion,65 years and older,,.,,,
+2014,Persons at risk of poverty or social exclusion,65 years and older,,.,,,
+2015,Persons at risk of poverty or social exclusion,65 years and older,,,,,17.1
+2016,Persons at risk of poverty or social exclusion,65 years and older,,,,,18.3
+2017,Persons at risk of poverty or social exclusion,65 years and older,,,,,17.6
+2018,Persons at risk of poverty or social exclusion,65 years and older,,,,,18.9
+2019,Persons at risk of poverty or social exclusion,65 years and older,,,,,18.8
+2020,Persons at risk of poverty or social exclusion,65 years and older,,|,,,21.0
+2021,Persons at risk of poverty or social exclusion,65 years and older,,,,,20.5
+2022,Persons at risk of poverty or social exclusion,65 years and older,,,,,19.8
+2023,Persons at risk of poverty or social exclusion,65 years and older,,,,,20.6
+2024,Persons at risk of poverty or social exclusion,65 years and older,,,,,21.2
+2025,Persons at risk of poverty or social exclusion,65 years and older,,,,,21.0
+2010,Persons at risk of poverty or social exclusion,,Female,.,,,
+2011,Persons at risk of poverty or social exclusion,,Female,.,,,
+2012,Persons at risk of poverty or social exclusion,,Female,.,,,
+2013,Persons at risk of poverty or social exclusion,,Female,.,,,
+2014,Persons at risk of poverty or social exclusion,,Female,.,,,
+2015,Persons at risk of poverty or social exclusion,,Female,,,,21.3
+2016,Persons at risk of poverty or social exclusion,,Female,,,,21.3
+2017,Persons at risk of poverty or social exclusion,,Female,,,,20.1
+2018,Persons at risk of poverty or social exclusion,,Female,,,,19.6
+2019,Persons at risk of poverty or social exclusion,,Female,,,,18.4
+2020,Persons at risk of poverty or social exclusion,,Female,|,,,21.2
+2021,Persons at risk of poverty or social exclusion,,Female,,,,21.7
+2022,Persons at risk of poverty or social exclusion,,Female,,,,21.9
+2023,Persons at risk of poverty or social exclusion,,Female,,,,22.1
+2024,Persons at risk of poverty or social exclusion,,Female,,,,21.9
+2025,Persons at risk of poverty or social exclusion,,Female,,,,21.9
+2010,Persons at risk of poverty or social exclusion,,Male,.,,,
+2011,Persons at risk of poverty or social exclusion,,Male,.,,,
+2012,Persons at risk of poverty or social exclusion,,Male,.,,,
+2013,Persons at risk of poverty or social exclusion,,Male,.,,,
+2014,Persons at risk of poverty or social exclusion,,Male,.,,,
+2015,Persons at risk of poverty or social exclusion,,Male,,,,18.6
+2016,Persons at risk of poverty or social exclusion,,Male,,,,18.3
+2017,Persons at risk of poverty or social exclusion,,Male,,,,17.4
+2018,Persons at risk of poverty or social exclusion,,Male,,,,17.4
+2019,Persons at risk of poverty or social exclusion,,Male,,,,16.1
+2020,Persons at risk of poverty or social exclusion,,Male,|,,,19.5
+2021,Persons at risk of poverty or social exclusion,,Male,,,,20.2
+2022,Persons at risk of poverty or social exclusion,,Male,,,,20.3
+2023,Persons at risk of poverty or social exclusion,,Male,,,,20.5
+2024,Persons at risk of poverty or social exclusion,,Male,,,,20.2
+2025,Persons at risk of poverty or social exclusion,,Male,,,,20.5
+2010,population living below the national poverty line,,,,,,15.6
+2011,population living below the national poverty line,,,,,,15.8
+2012,population living below the national poverty line,,,,,,16.1
+2013,population living below the national poverty line,,,,,,16.1
+2014,population living below the national poverty line,,,,,,16.7
+2015,population living below the national poverty line,,,,,,16.7
+2016,population living below the national poverty line,,,,,,16.5
+2017,population living below the national poverty line,,,,,,16.1
+2018,population living below the national poverty line,,,,,,16.0
+2019,population living below the national poverty line,,,,,,14.8
+2020,population living below the national poverty line,,,|,,,16.1
+2021,population living below the national poverty line,,,,,,16.0
+2022,population living below the national poverty line,,,,,,14.8
+2023,population living below the national poverty line,,,,,,14.4
+2024,population living below the national poverty line,,,,,,15.5
+2025,population living below the national poverty line,,,,,,16.1
+2010,population living below the national poverty line,5 years and younger,,,,,16.6
+2011,population living below the national poverty line,5 years and younger,,,,,15.6
+2012,population living below the national poverty line,5 years and younger,,,,,14.8
+2013,population living below the national poverty line,5 years and younger,,,,,13.8
+2014,population living below the national poverty line,5 years and younger,,,,,16.5
+2015,population living below the national poverty line,5 years and younger,,,,,15.5
+2016,population living below the national poverty line,5 years and younger,,,,,14.3
+2017,population living below the national poverty line,5 years and younger,,,,,14.4
+2018,population living below the national poverty line,5 years and younger,,,,,14.6
+2019,population living below the national poverty line,5 years and younger,,,,,10.8
+2020,population living below the national poverty line,5 years and younger,,|,,,15.0
+2021,population living below the national poverty line,5 years and younger,,,,,17.0
+2022,population living below the national poverty line,5 years and younger,,,,,14.0
+2023,population living below the national poverty line,5 years and younger,,,,,13.7
+2024,population living below the national poverty line,5 years and younger,,,,,15.6
+2025,population living below the national poverty line,5 years and younger,,,,,16.3
+2010,population living below the national poverty line,6 to under 12 years,,,,,17.4
+2011,population living below the national poverty line,6 to under 12 years,,,,,14.7
+2012,population living below the national poverty line,6 to under 12 years,,,,,13.5
+2013,population living below the national poverty line,6 to under 12 years,,,,,13.5
+2014,population living below the national poverty line,6 to under 12 years,,,,,12.0
+2015,population living below the national poverty line,6 to under 12 years,,,,,12.6
+2016,population living below the national poverty line,6 to under 12 years,,,,,14.1
+2017,population living below the national poverty line,6 to under 12 years,,,,,14.5
+2018,population living below the national poverty line,6 to under 12 years,,,,,12.9
+2019,population living below the national poverty line,6 to under 12 years,,,,,11.3
+2020,population living below the national poverty line,6 to under 12 years,,|,,,14.0
+2021,population living below the national poverty line,6 to under 12 years,,,,,14.5
+2022,population living below the national poverty line,6 to under 12 years,,,,,14.6
+2023,population living below the national poverty line,6 to under 12 years,,,,,13.0
+2024,population living below the national poverty line,6 to under 12 years,,,,,14.3
+2025,population living below the national poverty line,6 to under 12 years,,,,,14.6
+2010,population living below the national poverty line,12 to under 18 years,,,,,18.7
+2011,population living below the national poverty line,12 to under 18 years,,,,,16.5
+2012,population living below the national poverty line,12 to under 18 years,,,,,17.2
+2013,population living below the national poverty line,12 to under 18 years,,,,,16.6
+2014,population living below the national poverty line,12 to under 18 years,,,,,16.7
+2015,population living below the national poverty line,12 to under 18 years,,,,,15.4
+2016,population living below the national poverty line,12 to under 18 years,,,,,17.9
+2017,population living below the national poverty line,12 to under 18 years,,,,,16.7
+2018,population living below the national poverty line,12 to under 18 years,,,,,16.1
+2019,population living below the national poverty line,12 to under 18 years,,,,,14.3
+2020,population living below the national poverty line,12 to under 18 years,,|,,,17.2
+2021,population living below the national poverty line,12 to under 18 years,,,,,17.6
+2022,population living below the national poverty line,12 to under 18 years,,,,,16.3
+2023,population living below the national poverty line,12 to under 18 years,,,,,15.4
+2024,population living below the national poverty line,12 to under 18 years,,,,,15.9
+2025,population living below the national poverty line,12 to under 18 years,,,,,17.1
+2010,population living below the national poverty line,18 to under 65 years,,,,,15.6
+2011,population living below the national poverty line,18 to under 65 years,,,,,16.4
+2012,population living below the national poverty line,18 to under 65 years,,,,,16.6
+2013,population living below the national poverty line,18 to under 65 years,,,,,16.9
+2014,population living below the national poverty line,18 to under 65 years,,,,,17.2
+2015,population living below the national poverty line,18 to under 65 years,,,,,17.3
+2016,population living below the national poverty line,18 to under 65 years,,,,,16.4
+2017,population living below the national poverty line,18 to under 65 years,,,,,16.0
+2018,population living below the national poverty line,18 to under 65 years,,,,,15.7
+2019,population living below the national poverty line,18 to under 65 years,,,,,14.5
+2020,population living below the national poverty line,18 to under 65 years,,|,,,15.0
+2021,population living below the national poverty line,18 to under 65 years,,,,,14.7
+2022,population living below the national poverty line,18 to under 65 years,,,,,13.5
+2023,population living below the national poverty line,18 to under 65 years,,,,,13.2
+2024,population living below the national poverty line,18 to under 65 years,,,,,14.2
+2025,population living below the national poverty line,18 to under 65 years,,,,,15.0
+2010,population living below the national poverty line,65 years and older,,,,,14.1
+2011,population living below the national poverty line,65 years and older,,,,,14.2
+2012,population living below the national poverty line,65 years and older,,,,,15.0
+2013,population living below the national poverty line,65 years and older,,,,,14.9
+2014,population living below the national poverty line,65 years and older,,,,,16.3
+2015,population living below the national poverty line,65 years and older,,,,,16.5
+2016,population living below the national poverty line,65 years and older,,,,,17.6
+2017,population living below the national poverty line,65 years and older,,,,,17.0
+2018,population living below the national poverty line,65 years and older,,,,,18.2
+2019,population living below the national poverty line,65 years and older,,,,,18.0
+2020,population living below the national poverty line,65 years and older,,|,,,20.0
+2021,population living below the national poverty line,65 years and older,,,,,19.4
+2022,population living below the national poverty line,65 years and older,,,,,18.3
+2023,population living below the national poverty line,65 years and older,,,,,18.4
+2024,population living below the national poverty line,65 years and older,,,,,19.4
+2025,population living below the national poverty line,65 years and older,,,,,19.5
+2010,population living below the national poverty line,,Female,,,,16.4
+2011,population living below the national poverty line,,Female,,,,16.8
+2012,population living below the national poverty line,,Female,,,,17.2
+2013,population living below the national poverty line,,Female,,,,17.2
+2014,population living below the national poverty line,,Female,,,,17.4
+2015,population living below the national poverty line,,Female,,,,17.4
+2016,population living below the national poverty line,,Female,,,,17.8
+2017,population living below the national poverty line,,Female,,,,17.1
+2018,population living below the national poverty line,,Female,,,,16.8
+2019,population living below the national poverty line,,Female,,,,15.7
+2020,population living below the national poverty line,,Female,|,,,16.8
+2021,population living below the national poverty line,,Female,,,,16.6
+2022,population living below the national poverty line,,Female,,,,15.5
+2023,population living below the national poverty line,,Female,,,,15.1
+2024,population living below the national poverty line,,Female,,,,16.2
+2025,population living below the national poverty line,,Female,,,,16.7
+2010,population living below the national poverty line,,Male,,,,14.9
+2011,population living below the national poverty line,,Male,,,,14.9
+2012,population living below the national poverty line,,Male,,,,14.9
+2013,population living below the national poverty line,,Male,,,,15.0
+2014,population living below the national poverty line,,Male,,,,15.9
+2015,population living below the national poverty line,,Male,,,,15.9
+2016,population living below the national poverty line,,Male,,,,15.2
+2017,population living below the national poverty line,,Male,,,,15.0
+2018,population living below the national poverty line,,Male,,,,15.2
+2019,population living below the national poverty line,,Male,,,,13.9
+2020,population living below the national poverty line,,Male,|,,,15.3
+2021,population living below the national poverty line,,Male,,,,15.4
+2022,population living below the national poverty line,,Male,,,,14.0
+2023,population living below the national poverty line,,Male,,,,13.7
+2024,population living below the national poverty line,,Male,,,,14.7
+2025,population living below the national poverty line,,Male,,,,15.6
+2010,Persons living in households with very low work intensity,,,.,,,
+2011,Persons living in households with very low work intensity,,,.,,,
+2012,Persons living in households with very low work intensity,,,.,,,
+2013,Persons living in households with very low work intensity,,,.,,,
+2014,Persons living in households with very low work intensity,,,.,,,
+2015,Persons living in households with very low work intensity,,,,,,9.5
+2016,Persons living in households with very low work intensity,,,,,,9.4
+2017,Persons living in households with very low work intensity,,,,,,8.7
+2018,Persons living in households with very low work intensity,,,,,,8.0
+2019,Persons living in households with very low work intensity,,,,,,7.6
+2020,Persons living in households with very low work intensity,,,|,,,8.3
+2021,Persons living in households with very low work intensity,,,,,,9.5
+2022,Persons living in households with very low work intensity,,,,,,9.8
+2023,Persons living in households with very low work intensity,,,,,,9.9
+2024,Persons living in households with very low work intensity,,,,,,10.0
+2025,Persons living in households with very low work intensity,,,,,,10.3
+2010,Persons living in households with very low work intensity,5 years and younger,,.,,,
+2011,Persons living in households with very low work intensity,5 years and younger,,.,,,
+2012,Persons living in households with very low work intensity,5 years and younger,,.,,,
+2013,Persons living in households with very low work intensity,5 years and younger,,.,,,
+2014,Persons living in households with very low work intensity,5 years and younger,,.,,,
+2015,Persons living in households with very low work intensity,5 years and younger,,,,,8.6
+2016,Persons living in households with very low work intensity,5 years and younger,,,,,9.1
+2017,Persons living in households with very low work intensity,5 years and younger,,,,,8.2
+2018,Persons living in households with very low work intensity,5 years and younger,,,,,6.2
+2019,Persons living in households with very low work intensity,5 years and younger,,,,,5.7
+2020,Persons living in households with very low work intensity,5 years and younger,,|,,,10.0
+2021,Persons living in households with very low work intensity,5 years and younger,,,,,12.5
+2022,Persons living in households with very low work intensity,5 years and younger,,,,,11.9
+2023,Persons living in households with very low work intensity,5 years and younger,,,,,11.7
+2024,Persons living in households with very low work intensity,5 years and younger,,,,,11.1
+2025,Persons living in households with very low work intensity,5 years and younger,,,,,12.4
+2010,Persons living in households with very low work intensity,6 to under 12 years,,.,,,
+2011,Persons living in households with very low work intensity,6 to under 12 years,,.,,,
+2012,Persons living in households with very low work intensity,6 to under 12 years,,.,,,
+2013,Persons living in households with very low work intensity,6 to under 12 years,,.,,,
+2014,Persons living in households with very low work intensity,6 to under 12 years,,.,,,
+2015,Persons living in households with very low work intensity,6 to under 12 years,,,,,6.3
+2016,Persons living in households with very low work intensity,6 to under 12 years,,,,,8.1
+2017,Persons living in households with very low work intensity,6 to under 12 years,,,,,5.5
+2018,Persons living in households with very low work intensity,6 to under 12 years,,,,,6.1
+2019,Persons living in households with very low work intensity,6 to under 12 years,,,,,4.5
+2020,Persons living in households with very low work intensity,6 to under 12 years,,|,,,9.2
+2021,Persons living in households with very low work intensity,6 to under 12 years,,,,,10.6
+2022,Persons living in households with very low work intensity,6 to under 12 years,,,,,10.7
+2023,Persons living in households with very low work intensity,6 to under 12 years,,,,,10.8
+2024,Persons living in households with very low work intensity,6 to under 12 years,,,,,10.6
+2025,Persons living in households with very low work intensity,6 to under 12 years,,,,,10.8
+2010,Persons living in households with very low work intensity,12 to under 18 years,,.,,,
+2011,Persons living in households with very low work intensity,12 to under 18 years,,.,,,
+2012,Persons living in households with very low work intensity,12 to under 18 years,,.,,,
+2013,Persons living in households with very low work intensity,12 to under 18 years,,.,,,
+2014,Persons living in households with very low work intensity,12 to under 18 years,,.,,,
+2015,Persons living in households with very low work intensity,12 to under 18 years,,,,,5.9
+2016,Persons living in households with very low work intensity,12 to under 18 years,,,,,7.3
+2017,Persons living in households with very low work intensity,12 to under 18 years,,,,,6.5
+2018,Persons living in households with very low work intensity,12 to under 18 years,,,,,5.7
+2019,Persons living in households with very low work intensity,12 to under 18 years,,,,,5.1
+2020,Persons living in households with very low work intensity,12 to under 18 years,,|,,,9.0
+2021,Persons living in households with very low work intensity,12 to under 18 years,,,,,9.2
+2022,Persons living in households with very low work intensity,12 to under 18 years,,,,,10.0
+2023,Persons living in households with very low work intensity,12 to under 18 years,,,,,9.9
+2024,Persons living in households with very low work intensity,12 to under 18 years,,,,,10.0
+2025,Persons living in households with very low work intensity,12 to under 18 years,,,,,10.6
+2010,Persons living in households with very low work intensity,18 to under 65 years,,.,,,
+2011,Persons living in households with very low work intensity,18 to under 65 years,,.,,,
+2012,Persons living in households with very low work intensity,18 to under 65 years,,.,,,
+2013,Persons living in households with very low work intensity,18 to under 65 years,,.,,,
+2014,Persons living in households with very low work intensity,18 to under 65 years,,.,,,
+2015,Persons living in households with very low work intensity,18 to under 65 years,,,,,10.2
+2016,Persons living in households with very low work intensity,18 to under 65 years,,,,,9.8
+2017,Persons living in households with very low work intensity,18 to under 65 years,,,,,9.2
+2018,Persons living in households with very low work intensity,18 to under 65 years,,,,,8.6
+2019,Persons living in households with very low work intensity,18 to under 65 years,,,,,8.3
+2020,Persons living in households with very low work intensity,18 to under 65 years,,|,,,8.0
+2021,Persons living in households with very low work intensity,18 to under 65 years,,,,,9.1
+2022,Persons living in households with very low work intensity,18 to under 65 years,,,,,9.5
+2023,Persons living in households with very low work intensity,18 to under 65 years,,,,,9.7
+2024,Persons living in households with very low work intensity,18 to under 65 years,,,,,9.8
+2025,Persons living in households with very low work intensity,18 to under 65 years,,,,,10.1
+2010,Persons living in households with very low work intensity,65 years and older,,.,,,
+2011,Persons living in households with very low work intensity,65 years and older,,.,,,
+2012,Persons living in households with very low work intensity,65 years and older,,.,,,
+2013,Persons living in households with very low work intensity,65 years and older,,.,,,
+2014,Persons living in households with very low work intensity,65 years and older,,.,,,
+2015,Persons living in households with very low work intensity,65 years and older,,.,,,
+2016,Persons living in households with very low work intensity,65 years and older,,.,,,
+2017,Persons living in households with very low work intensity,65 years and older,,.,,,
+2018,Persons living in households with very low work intensity,65 years and older,,.,,,
+2019,Persons living in households with very low work intensity,65 years and older,,.,,,
+2020,Persons living in households with very low work intensity,65 years and older,,.,,,
+2021,Persons living in households with very low work intensity,65 years and older,,.,,,
+2022,Persons living in households with very low work intensity,65 years and older,,.,,,
+2023,Persons living in households with very low work intensity,65 years and older,,.,,,
+2024,Persons living in households with very low work intensity,65 years and older,,.,,,
+2025,Persons living in households with very low work intensity,65 years and older,,.,,,
+2010,Persons living in households with very low work intensity,,Female,.,,,
+2011,Persons living in households with very low work intensity,,Female,.,,,
+2012,Persons living in households with very low work intensity,,Female,.,,,
+2013,Persons living in households with very low work intensity,,Female,.,,,
+2014,Persons living in households with very low work intensity,,Female,.,,,
+2015,Persons living in households with very low work intensity,,Female,,,,9.7
+2016,Persons living in households with very low work intensity,,Female,,,,10.0
+2017,Persons living in households with very low work intensity,,Female,,,,8.9
+2018,Persons living in households with very low work intensity,,Female,,,,8.4
+2019,Persons living in households with very low work intensity,,Female,,,,8.0
+2020,Persons living in households with very low work intensity,,Female,|,,,8.5
+2021,Persons living in households with very low work intensity,,Female,,,,9.8
+2022,Persons living in households with very low work intensity,,Female,,,,10.0
+2023,Persons living in households with very low work intensity,,Female,,,,10.0
+2024,Persons living in households with very low work intensity,,Female,,,,10.1
+2025,Persons living in households with very low work intensity,,Female,,,,10.6
+2010,Persons living in households with very low work intensity,,Male,.,,,
+2011,Persons living in households with very low work intensity,,Male,.,,,
+2012,Persons living in households with very low work intensity,,Male,.,,,
+2013,Persons living in households with very low work intensity,,Male,.,,,
+2014,Persons living in households with very low work intensity,,Male,.,,,
+2015,Persons living in households with very low work intensity,,Male,,,,9.2
+2016,Persons living in households with very low work intensity,,Male,,,,8.9
+2017,Persons living in households with very low work intensity,,Male,,,,8.4
+2018,Persons living in households with very low work intensity,,Male,,,,7.6
+2019,Persons living in households with very low work intensity,,Male,,,,7.1
+2020,Persons living in households with very low work intensity,,Male,|,,,8.1
+2021,Persons living in households with very low work intensity,,Male,,,,9.2
+2022,Persons living in households with very low work intensity,,Male,,,,9.6
+2023,Persons living in households with very low work intensity,,Male,,,,9.9
+2024,Persons living in households with very low work intensity,,Male,,,,9.8
+2025,Persons living in households with very low work intensity,,Male,,,,10.1
+2010,Severely materially and socially deprived persons,,,.,,,
+2011,Severely materially and socially deprived persons,,,.,,,
+2012,Severely materially and socially deprived persons,,,.,,,
+2013,Severely materially and socially deprived persons,,,.,,,
+2014,Severely materially and socially deprived persons,,,.,,,
+2015,Severely materially and socially deprived persons,,,,,,5.7
+2016,Severely materially and socially deprived persons,,,,,,4.7
+2017,Severely materially and socially deprived persons,,,,,,3.7
+2018,Severely materially and socially deprived persons,,,,,,3.4
+2019,Severely materially and socially deprived persons,,,,,,3.0
+2020,Severely materially and socially deprived persons,,,|,,,4.4
+2021,Severely materially and socially deprived persons,,,,,,4.3
+2022,Severely materially and socially deprived persons,,,,,,6.2
+2023,Severely materially and socially deprived persons,,,,,,6.9
+2024,Severely materially and socially deprived persons,,,,,,6.2
+2025,Severely materially and socially deprived persons,,,,,,5.6
+2010,Severely materially and socially deprived persons,5 years and younger,,.,,,
+2011,Severely materially and socially deprived persons,5 years and younger,,.,,,
+2012,Severely materially and socially deprived persons,5 years and younger,,.,,,
+2013,Severely materially and socially deprived persons,5 years and younger,,.,,,
+2014,Severely materially and socially deprived persons,5 years and younger,,.,,,
+2015,Severely materially and socially deprived persons,5 years and younger,,,,,8.1
+2016,Severely materially and socially deprived persons,5 years and younger,,,,,6.2
+2017,Severely materially and socially deprived persons,5 years and younger,,,,,3.9
+2018,Severely materially and socially deprived persons,5 years and younger,,,,,3.8
+2019,Severely materially and socially deprived persons,5 years and younger,,,,,3.2
+2020,Severely materially and socially deprived persons,5 years and younger,,|,,,6.2
+2021,Severely materially and socially deprived persons,5 years and younger,,,,,6.3
+2022,Severely materially and socially deprived persons,5 years and younger,,,,,9.4
+2023,Severely materially and socially deprived persons,5 years and younger,,,,,10.1
+2024,Severely materially and socially deprived persons,5 years and younger,,,,,7.5
+2025,Severely materially and socially deprived persons,5 years and younger,,,,,7.0
+2010,Severely materially and socially deprived persons,6 to under 12 years,,.,,,
+2011,Severely materially and socially deprived persons,6 to under 12 years,,.,,,
+2012,Severely materially and socially deprived persons,6 to under 12 years,,.,,,
+2013,Severely materially and socially deprived persons,6 to under 12 years,,.,,,
+2014,Severely materially and socially deprived persons,6 to under 12 years,,.,,,
+2015,Severely materially and socially deprived persons,6 to under 12 years,,,,,7.6
+2016,Severely materially and socially deprived persons,6 to under 12 years,,,,,7.7
+2017,Severely materially and socially deprived persons,6 to under 12 years,,,,,4.8
+2018,Severely materially and socially deprived persons,6 to under 12 years,,,,,4.5
+2019,Severely materially and socially deprived persons,6 to under 12 years,,,,,2.9
+2020,Severely materially and socially deprived persons,6 to under 12 years,,|,,,6.4
+2021,Severely materially and socially deprived persons,6 to under 12 years,,,,,5.6
+2022,Severely materially and socially deprived persons,6 to under 12 years,,,,,8.6
+2023,Severely materially and socially deprived persons,6 to under 12 years,,,,,9.0
+2024,Severely materially and socially deprived persons,6 to under 12 years,,,,,7.0
+2025,Severely materially and socially deprived persons,6 to under 12 years,,,,,7.3
+2010,Severely materially and socially deprived persons,12 to under 18 years,,.,,,
+2011,Severely materially and socially deprived persons,12 to under 18 years,,.,,,
+2012,Severely materially and socially deprived persons,12 to under 18 years,,.,,,
+2013,Severely materially and socially deprived persons,12 to under 18 years,,.,,,
+2014,Severely materially and socially deprived persons,12 to under 18 years,,.,,,
+2015,Severely materially and socially deprived persons,12 to under 18 years,,,,,4.7
+2016,Severely materially and socially deprived persons,12 to under 18 years,,,,,4.7
+2017,Severely materially and socially deprived persons,12 to under 18 years,,,,,4.3
+2018,Severely materially and socially deprived persons,12 to under 18 years,,,,,3.3
+2019,Severely materially and socially deprived persons,12 to under 18 years,,,,,3.7
+2020,Severely materially and socially deprived persons,12 to under 18 years,,|,,,5.0
+2021,Severely materially and socially deprived persons,12 to under 18 years,,,,,4.5
+2022,Severely materially and socially deprived persons,12 to under 18 years,,,,,7.6
+2023,Severely materially and socially deprived persons,12 to under 18 years,,,,,7.8
+2024,Severely materially and socially deprived persons,12 to under 18 years,,,,,7.6
+2025,Severely materially and socially deprived persons,12 to under 18 years,,,,,6.8
+2010,Severely materially and socially deprived persons,18 to under 65 years,,.,,,
+2011,Severely materially and socially deprived persons,18 to under 65 years,,.,,,
+2012,Severely materially and socially deprived persons,18 to under 65 years,,.,,,
+2013,Severely materially and socially deprived persons,18 to under 65 years,,.,,,
+2014,Severely materially and socially deprived persons,18 to under 65 years,,.,,,
+2015,Severely materially and socially deprived persons,18 to under 65 years,,,,,6.1
+2016,Severely materially and socially deprived persons,18 to under 65 years,,,,,4.7
+2017,Severely materially and socially deprived persons,18 to under 65 years,,,,,3.8
+2018,Severely materially and socially deprived persons,18 to under 65 years,,,,,3.4
+2019,Severely materially and socially deprived persons,18 to under 65 years,,,,,2.9
+2020,Severely materially and socially deprived persons,18 to under 65 years,,|,,,4.6
+2021,Severely materially and socially deprived persons,18 to under 65 years,,,,,4.6
+2022,Severely materially and socially deprived persons,18 to under 65 years,,,,,6.4
+2023,Severely materially and socially deprived persons,18 to under 65 years,,,,,7.2
+2024,Severely materially and socially deprived persons,18 to under 65 years,,,,,6.5
+2025,Severely materially and socially deprived persons,18 to under 65 years,,,,,5.8
+2010,Severely materially and socially deprived persons,65 years and older,,.,,,
+2011,Severely materially and socially deprived persons,65 years and older,,.,,,
+2012,Severely materially and socially deprived persons,65 years and older,,.,,,
+2013,Severely materially and socially deprived persons,65 years and older,,.,,,
+2014,Severely materially and socially deprived persons,65 years and older,,.,,,
+2015,Severely materially and socially deprived persons,65 years and older,,,,,3.5
+2016,Severely materially and socially deprived persons,65 years and older,,,,,3.6
+2017,Severely materially and socially deprived persons,65 years and older,,,,,3.0
+2018,Severely materially and socially deprived persons,65 years and older,,,,,3.1
+2019,Severely materially and socially deprived persons,65 years and older,,,,,2.8
+2020,Severely materially and socially deprived persons,65 years and older,,|,,,2.5
+2021,Severely materially and socially deprived persons,65 years and older,,,,,2.7
+2022,Severely materially and socially deprived persons,65 years and older,,,,,3.6
+2023,Severely materially and socially deprived persons,65 years and older,,,,,4.4
+2024,Severely materially and socially deprived persons,65 years and older,,,,,4.3
+2025,Severely materially and socially deprived persons,65 years and older,,,,,3.7
+2010,Severely materially and socially deprived persons,,Female,.,,,
+2011,Severely materially and socially deprived persons,,Female,.,,,
+2012,Severely materially and socially deprived persons,,Female,.,,,
+2013,Severely materially and socially deprived persons,,Female,.,,,
+2014,Severely materially and socially deprived persons,,Female,.,,,
+2015,Severely materially and socially deprived persons,,Female,,,,6.3
+2016,Severely materially and socially deprived persons,,Female,,,,5.1
+2017,Severely materially and socially deprived persons,,Female,,,,4.0
+2018,Severely materially and socially deprived persons,,Female,,,,3.6
+2019,Severely materially and socially deprived persons,,Female,,,,3.3
+2020,Severely materially and socially deprived persons,,Female,|,,,4.4
+2021,Severely materially and socially deprived persons,,Female,,,,4.3
+2022,Severely materially and socially deprived persons,,Female,,,,6.1
+2023,Severely materially and socially deprived persons,,Female,,,,6.8
+2024,Severely materially and socially deprived persons,,Female,,,,6.1
+2025,Severely materially and socially deprived persons,,Female,,,,5.5
+2010,Severely materially and socially deprived persons,,Male,.,,,
+2011,Severely materially and socially deprived persons,,Male,.,,,
+2012,Severely materially and socially deprived persons,,Male,.,,,
+2013,Severely materially and socially deprived persons,,Male,.,,,
+2014,Severely materially and socially deprived persons,,Male,.,,,
+2015,Severely materially and socially deprived persons,,Male,,,,5.0
+2016,Severely materially and socially deprived persons,,Male,,,,4.3
+2017,Severely materially and socially deprived persons,,Male,,,,3.5
+2018,Severely materially and socially deprived persons,,Male,,,,3.2
+2019,Severely materially and socially deprived persons,,Male,,,,2.6
+2020,Severely materially and socially deprived persons,,Male,|,,,4.3
+2021,Severely materially and socially deprived persons,,Male,,,,4.4
+2022,Severely materially and socially deprived persons,,Male,,,,6.3
+2023,Severely materially and socially deprived persons,,Male,,,,7.0
+2024,Severely materially and socially deprived persons,,Male,,,,6.3
+2025,Severely materially and socially deprived persons,,Male,,,,5.6

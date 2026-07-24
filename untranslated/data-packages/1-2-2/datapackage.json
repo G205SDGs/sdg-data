@@ -20,9 +20,23 @@
             "constraints": {
               "enum": [
                 "persons at risk of poverty or social exclusion",
-                "at-risk-of-poverty rate",
+                "population living below the national poverty line",
                 "persons living in households with very low work intensity",
                 "severely materially and socially deprived persons",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5 years and younger",
+                "6 to under 12 years",
+                "12 to under 18 years",
+                "18 to under 65 years",
+                "65 years and older",
                 ""
               ]
             }
@@ -43,9 +57,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
-                "p",
                 ".",
+                "|",
                 ""
               ]
             }

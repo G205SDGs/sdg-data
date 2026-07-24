@@ -30,7 +30,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2274.3
 2023,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2415.3
 2024,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2511.2
-2025,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2589.1
+2025,Milliarden EUR,Verfügbares Einkommen privater Haushalte,p,,,2583.7
 2010,Milliarden EUR,Konsum privater Haushalte,,,,1417.1
 2011,Milliarden EUR,Konsum privater Haushalte,,,,1463.0
 2012,Milliarden EUR,Konsum privater Haushalte,,,,1503.4
@@ -46,7 +46,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Milliarden EUR,Konsum privater Haushalte,p,,,2036.1
 2023,Milliarden EUR,Konsum privater Haushalte,p,,,2159.3
 2024,Milliarden EUR,Konsum privater Haushalte,p,,,2221.5
-2025,Milliarden EUR,Konsum privater Haushalte,p,,,2310.7
+2025,Milliarden EUR,Konsum privater Haushalte,p,,,2305.4
 2010,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2011.7
 2011,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2025.4
 2012,Milliarden EUR,Schulden des Öffentlichen Gesamthaushalts,,,,2068.3
@@ -78,7 +78,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-76.1
 2023,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-105.2
 2024,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-115.3
-2025,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-119.1
+2025,Milliarden EUR,Finanzierungssaldo des Staates,p,,,-123.6
 2010,Milliarden EUR,Bruttoanlageinvestitionen,,,,501.8
 2011,Milliarden EUR,Bruttoanlageinvestitionen,,,,549.6
 2012,Milliarden EUR,Bruttoanlageinvestitionen,,,,558.9
@@ -94,7 +94,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Milliarden EUR,Bruttoanlageinvestitionen,p,,,861.8
 2023,Milliarden EUR,Bruttoanlageinvestitionen,p,,,894.1
 2024,Milliarden EUR,Bruttoanlageinvestitionen,p,,,885.7
-2025,Milliarden EUR,Bruttoanlageinvestitionen,p,,,908.0
+2025,Milliarden EUR,Bruttoanlageinvestitionen,p,,,907.9
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,49385.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,50163.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,,,50098.0
@@ -110,7 +110,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,p,,,54340.0
 2023,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,p,,,54782.0
 2024,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,p,,,54874.0
-2025,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,p,,,54921.0
+2025,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,p,,,54903.0
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,58581.0
 2011,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,59328.0
 2012,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,,,59143.0
@@ -126,7 +126,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61297.0
 2023,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61496.0
 2024,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61364.0
-2025,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61259.0
+2025,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,p,,,61241.0
 2010,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,,,,94.2
 2011,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,,,,96.2
 2012,2020 = 100,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde,,,,96.8
@@ -174,7 +174,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Anzahl in 1 000,Erwerbstätige,p,,,45629.0
 2023,Anzahl in 1 000,Erwerbstätige,p,,,45935.0
 2024,Anzahl in 1 000,Erwerbstätige,p,,,45987.0
-2025,Anzahl in 1 000,Erwerbstätige,p,,,45982.0
+2025,Anzahl in 1 000,Erwerbstätige,p,,,45977.0
 2010,2020 = 100,Reales BIP pro Kopf,,,,91.5
 2011,2020 = 100,Reales BIP pro Kopf,,,,94.9
 2012,2020 = 100,Reales BIP pro Kopf,,,,95.2
@@ -190,7 +190,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,2020 = 100,Reales BIP pro Kopf,p,,,105.3
 2023,2020 = 100,Reales BIP pro Kopf,p,,,103.4
 2024,2020 = 100,Reales BIP pro Kopf,p,,,102.6
-2025,2020 = 100,Reales BIP pro Kopf,p,,,102.9
+2025,2020 = 100,Reales BIP pro Kopf,p,,,102.8
 2010,Milliarden EUR,Außenbeitrag,,,,133.5
 2011,Milliarden EUR,Außenbeitrag,,,,133.3
 2012,Milliarden EUR,Außenbeitrag,,,,169.1
@@ -206,4 +206,4 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Milliarden EUR,Außenbeitrag,p,,,98.6
 2023,Milliarden EUR,Außenbeitrag,p,,,167.6
 2024,Milliarden EUR,Außenbeitrag,p,,,163.5
-2025,Milliarden EUR,Außenbeitrag,p,,,105.3
+2025,Milliarden EUR,Außenbeitrag,p,,,106.6

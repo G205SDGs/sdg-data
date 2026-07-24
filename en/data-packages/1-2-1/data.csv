@@ -14,7 +14,7 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,,,,,14.8
 2023,,,,,,14.4
 2024,,,,,,15.5
-2025,,,p,,,16.1
+2025,,,,,,16.1
 2010,5 years and younger,,,,,16.6
 2011,5 years and younger,,,,,15.6
 2012,5 years and younger,,,,,14.8
@@ -30,7 +30,7 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,5 years and younger,,,,,14.0
 2023,5 years and younger,,,,,13.7
 2024,5 years and younger,,,,,15.6
-2025,5 years and younger,,p,,,16.3
+2025,5 years and younger,,,,,16.3
 2010,6 to under 12 years,,,,,17.4
 2011,6 to under 12 years,,,,,14.7
 2012,6 to under 12 years,,,,,13.5
@@ -46,7 +46,7 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,6 to under 12 years,,,,,14.6
 2023,6 to under 12 years,,,,,13.0
 2024,6 to under 12 years,,,,,14.3
-2025,6 to under 12 years,,p,,,14.6
+2025,6 to under 12 years,,,,,14.6
 2010,12 to under 18 years,,,,,18.7
 2011,12 to under 18 years,,,,,16.5
 2012,12 to under 18 years,,,,,17.2
@@ -62,7 +62,7 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,12 to under 18 years,,,,,16.3
 2023,12 to under 18 years,,,,,15.4
 2024,12 to under 18 years,,,,,15.9
-2025,12 to under 18 years,,p,,,17.1
+2025,12 to under 18 years,,,,,17.1
 2010,18 to under 65 years,,,,,15.6
 2011,18 to under 65 years,,,,,16.4
 2012,18 to under 65 years,,,,,16.6
@@ -78,7 +78,7 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,18 to under 65 years,,,,,13.5
 2023,18 to under 65 years,,,,,13.2
 2024,18 to under 65 years,,,,,14.2
-2025,18 to under 65 years,,p,,,15.0
+2025,18 to under 65 years,,,,,15.0
 2010,65 years and older,,,,,14.1
 2011,65 years and older,,,,,14.2
 2012,65 years and older,,,,,15.0
@@ -94,7 +94,7 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,65 years and older,,,,,18.3
 2023,65 years and older,,,,,18.4
 2024,65 years and older,,,,,19.4
-2025,65 years and older,,p,,,19.5
+2025,65 years and older,,,,,19.5
 2010,,Female,,,,16.4
 2011,,Female,,,,16.8
 2012,,Female,,,,17.2
@@ -110,7 +110,7 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,Female,,,,15.5
 2023,,Female,,,,15.1
 2024,,Female,,,,16.2
-2025,,Female,p,,,16.7
+2025,,Female,,,,16.7
 2010,,Male,,,,14.9
 2011,,Male,,,,14.9
 2012,,Male,,,,14.9
@@ -126,4 +126,4 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,Male,,,,14.0
 2023,,Male,,,,13.7
 2024,,Male,,,,14.7
-2025,,Male,p,,,15.6
+2025,,Male,,,,15.6
