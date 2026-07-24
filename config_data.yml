@@ -38,7 +38,9 @@ indicator_options:
   unit_column: Units
   observation_attributes:
     - COMMENT_OBS
-    - test      
+    - COMMENT_OBS_0
+    - COMMENT_OBS_1
+    - COMMENT_OBS_2
 # Source directory
 # ----------------
 # This identifies the directory that holds the 'data' and 'meta' folders.

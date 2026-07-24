@@ -1,61 +1,61 @@
-Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,million eur,commitments (oda),,,,3345.1
-2011,million eur,commitments (oda),,,,2681.9
-2012,million eur,commitments (oda),,,,2591.8
-2013,million eur,commitments (oda),,,,3778.8
-2014,million eur,commitments (oda),,,,5803.2
-2015,million eur,commitments (oda),,,,5074.6
-2016,million eur,commitments (oda),,,,5323.7
-2017,million eur,commitments (oda),,,,5053.4
-2018,million eur,commitments (oda),,,,5160.6
-2019,million eur,commitments (oda),,,,6063.6
-2020,million eur,commitments (oda),,,,6911.9
-2021,million eur,commitments (oda),,,,6205.6
-2022,million eur,commitments (oda),,,,7684.0
-2023,million eur,commitments (oda),,,,6306.5
-2024,million eur,commitments (oda),,,,4252.3
-2010,million eur,gross disbursements (oda),,,,2280.2
-2011,million eur,gross disbursements (oda),,,,2198.3
-2012,million eur,gross disbursements (oda),,,,1922.8
-2013,million eur,gross disbursements (oda),,,,2589.4
-2014,million eur,gross disbursements (oda),,,,3438.9
-2015,million eur,gross disbursements (oda),,,,4476.5
-2016,million eur,gross disbursements (oda),,,,4030.8
-2017,million eur,gross disbursements (oda),,,,4011.8
-2018,million eur,gross disbursements (oda),,,,3951.5
-2019,million eur,gross disbursements (oda),,,,4389.7
-2020,million eur,gross disbursements (oda),,,,5039.1
-2021,million eur,gross disbursements (oda),,,,4945.3
-2022,million eur,gross disbursements (oda),,,,6285.3
-2023,million eur,gross disbursements (oda),,,,5254.2
-2024,million eur,gross disbursements (oda),,,,5022.7
-2010,"million usd, constant prices (2024)",commitments (oda),,,,5131.6
-2011,"million usd, constant prices (2024)",commitments (oda),,,,4064.1
-2012,"million usd, constant prices (2024)",commitments (oda),,,,3872.1
-2013,"million usd, constant prices (2024)",commitments (oda),,,,5534.9
-2014,"million usd, constant prices (2024)",commitments (oda),,,,8341.8
-2015,"million usd, constant prices (2024)",commitments (oda),,,,7169.5
-2016,"million usd, constant prices (2024)",commitments (oda),,,,7427.8
-2017,"million usd, constant prices (2024)",commitments (oda),,,,6948.5
-2018,"million usd, constant prices (2024)",commitments (oda),,,,6965.3
-2019,"million usd, constant prices (2024)",commitments (oda),,,,8022.7
-2020,"million usd, constant prices (2024)",commitments (oda),,,,8987.5
-2021,"million usd, constant prices (2024)",commitments (oda),,,,7857.7
-2022,"million usd, constant prices (2024)",commitments (oda),,,,9142.6
-2023,"million usd, constant prices (2024)",commitments (oda),,,,7032.8
-2024,"million usd, constant prices (2024)",commitments (oda),,,,4599.1
-2010,"million usd, constant prices (2024)",gross disbursements (oda),,,,3498.0
-2011,"million usd, constant prices (2024)",gross disbursements (oda),,,,3331.2
-2012,"million usd, constant prices (2024)",gross disbursements (oda),,,,2872.6
-2013,"million usd, constant prices (2024)",gross disbursements (oda),,,,3792.7
-2014,"million usd, constant prices (2024)",gross disbursements (oda),,,,4943.2
-2015,"million usd, constant prices (2024)",gross disbursements (oda),,,,6324.6
-2016,"million usd, constant prices (2024)",gross disbursements (oda),,,,5623.8
-2017,"million usd, constant prices (2024)",gross disbursements (oda),,,,5516.2
-2018,"million usd, constant prices (2024)",gross disbursements (oda),,,,5333.5
-2019,"million usd, constant prices (2024)",gross disbursements (oda),,,,5807.9
-2020,"million usd, constant prices (2024)",gross disbursements (oda),,,,6552.4
-2021,"million usd, constant prices (2024)",gross disbursements (oda),,,,6261.9
-2022,"million usd, constant prices (2024)",gross disbursements (oda),,,,7478.4
-2023,"million usd, constant prices (2024)",gross disbursements (oda),,,,5859.3
-2024,"million usd, constant prices (2024)",gross disbursements (oda),,,,5432.3
+Year,Units,type of official development assistance,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,million eur,commitments,,,,3345.1
+2011,million eur,commitments,,,,2681.9
+2012,million eur,commitments,,,,2591.8
+2013,million eur,commitments,,,,3778.8
+2014,million eur,commitments,,,,5803.2
+2015,million eur,commitments,,,,5074.6
+2016,million eur,commitments,,,,5323.7
+2017,million eur,commitments,,,,5053.4
+2018,million eur,commitments,,,,5160.6
+2019,million eur,commitments,,,,6063.6
+2020,million eur,commitments,,,,6911.9
+2021,million eur,commitments,,,,6205.6
+2022,million eur,commitments,,,,7684.0
+2023,million eur,commitments,,,,6306.5
+2024,million eur,commitments,,,,4252.3
+2010,million eur,gross disbursements,,,,2280.2
+2011,million eur,gross disbursements,,,,2198.3
+2012,million eur,gross disbursements,,,,1922.8
+2013,million eur,gross disbursements,,,,2589.4
+2014,million eur,gross disbursements,,,,3438.9
+2015,million eur,gross disbursements,,,,4476.5
+2016,million eur,gross disbursements,,,,4030.8
+2017,million eur,gross disbursements,,,,4011.8
+2018,million eur,gross disbursements,,,,3951.5
+2019,million eur,gross disbursements,,,,4389.7
+2020,million eur,gross disbursements,,,,5039.1
+2021,million eur,gross disbursements,,,,4945.3
+2022,million eur,gross disbursements,,,,6285.3
+2023,million eur,gross disbursements,,,,5254.2
+2024,million eur,gross disbursements,,,,5022.7
+2010,"million usd, constant prices (2024)",commitments,,,,5131.6
+2011,"million usd, constant prices (2024)",commitments,,,,4064.1
+2012,"million usd, constant prices (2024)",commitments,,,,3872.1
+2013,"million usd, constant prices (2024)",commitments,,,,5534.9
+2014,"million usd, constant prices (2024)",commitments,,,,8341.8
+2015,"million usd, constant prices (2024)",commitments,,,,7169.5
+2016,"million usd, constant prices (2024)",commitments,,,,7427.8
+2017,"million usd, constant prices (2024)",commitments,,,,6948.5
+2018,"million usd, constant prices (2024)",commitments,,,,6965.3
+2019,"million usd, constant prices (2024)",commitments,,,,8022.7
+2020,"million usd, constant prices (2024)",commitments,,,,8987.5
+2021,"million usd, constant prices (2024)",commitments,,,,7857.7
+2022,"million usd, constant prices (2024)",commitments,,,,9142.6
+2023,"million usd, constant prices (2024)",commitments,,,,7032.8
+2024,"million usd, constant prices (2024)",commitments,,,,4599.1
+2010,"million usd, constant prices (2024)",gross disbursements,,,,3498.0
+2011,"million usd, constant prices (2024)",gross disbursements,,,,3331.2
+2012,"million usd, constant prices (2024)",gross disbursements,,,,2872.6
+2013,"million usd, constant prices (2024)",gross disbursements,,,,3792.7
+2014,"million usd, constant prices (2024)",gross disbursements,,,,4943.2
+2015,"million usd, constant prices (2024)",gross disbursements,,,,6324.6
+2016,"million usd, constant prices (2024)",gross disbursements,,,,5623.8
+2017,"million usd, constant prices (2024)",gross disbursements,,,,5516.2
+2018,"million usd, constant prices (2024)",gross disbursements,,,,5333.5
+2019,"million usd, constant prices (2024)",gross disbursements,,,,5807.9
+2020,"million usd, constant prices (2024)",gross disbursements,,,,6552.4
+2021,"million usd, constant prices (2024)",gross disbursements,,,,6261.9
+2022,"million usd, constant prices (2024)",gross disbursements,,,,7478.4
+2023,"million usd, constant prices (2024)",gross disbursements,,,,5859.3
+2024,"million usd, constant prices (2024)",gross disbursements,,,,5432.3
