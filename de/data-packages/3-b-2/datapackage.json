@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "net disbursements total",
-                "net disbursements to least developed countries",
+                "Net disbursements total",
+                "Net disbursements to least developed countries",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Type of Official Development Assistance"
           },
           {
             "name": "COMMENT_OBS_0",

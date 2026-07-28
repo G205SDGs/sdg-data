@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "net disbursements total",
-                "net disbursements to least developed countries",
+                "Nettoauszahlungen insgesamt",
+                "Nettoauszahlungen an die am wenigsten entwickelten Länder",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",

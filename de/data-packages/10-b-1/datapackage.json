@@ -32,27 +32,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "official development assistance",
-                "other official flows",
-                "officially supported export credits",
-                "private sector flows at market terms",
-                "private grants",
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
+                "Öffentlich unterstützte Exportkredite",
+                "Private Leistungen zu marktüblichen Bedingungen",
+                "Private Fördermittel",
                 ""
               ]
             },
-            "title": "type of financial flow"
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "net disbursements",
+                "Zusagen",
+                "Nettoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",

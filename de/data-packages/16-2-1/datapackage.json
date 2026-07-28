@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 to under 18 years",
-                "1 to under 15 years",
-                "15 to under 18 years",
+                "1 bis unter 18 Jahre",
+                "1 bis unter 15 Jahre",
+                "15 bis unter 18 Jahre",
                 ""
               ]
             },

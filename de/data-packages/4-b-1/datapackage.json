@@ -37,19 +37,19 @@
                 ""
               ]
             },
-            "title": "purpose"
+            "title": "Förderbereich"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",

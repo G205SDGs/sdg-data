@@ -1777,24 +1777,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "official development assistance",
-                "other official flows",
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
                 ""
               ]
             },
-            "title": "type of financial flow"
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -2070,24 +2070,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "official development assistance",
-                "other official flows",
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
                 ""
               ]
             },
-            "title": "type of financial flow"
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -3646,7 +3646,7 @@
                 ""
               ]
             },
-            "title": "land"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -3781,9 +3781,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 to under 18 years",
-                "1 to under 15 years",
-                "15 to under 18 years",
+                "1 bis unter 18 Jahre",
+                "1 bis unter 15 Jahre",
+                "15 bis unter 18 Jahre",
                 ""
               ]
             },
@@ -4125,7 +4125,7 @@
                 ""
               ]
             },
-            "title": "land"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -4259,24 +4259,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "official development assistance",
-                "other official flows",
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
                 ""
               ]
             },
-            "title": "type of financial flow"
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -4742,19 +4742,19 @@
                 ""
               ]
             },
-            "title": "purpose"
+            "title": "Förderbereich"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -5496,13 +5496,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) tier-1 capital to assets",
-                "(2) regulatory tier 1 capital to risk-weighted assets",
-                "(3) non-performing loans net of provisions to capital",
-                "(4) non-performing loans to total gross loans",
-                "(5) return on assets",
-                "(6) liquid assets to short-term liabilities",
-                "(7) net open position in foreign exchange to capital",
+                "1) Regulatorische Verschuldungsquote",
+                "2) Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen",
+                "3) Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
+                "4) Anteil der notleidenden Kredite an den Bruttokrediten insgesamt",
+                "5) Gesamtkapitalrentabilität",
+                "6) Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten",
+                "7) Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln",
                 ""
               ]
             },
@@ -6325,7 +6325,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -6350,12 +6350,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -6652,7 +6652,7 @@
                 ""
               ]
             },
-            "title": "land"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -6813,7 +6813,7 @@
                 ""
               ]
             },
-            "title": "land"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -7045,7 +7045,7 @@
                 ""
               ]
             },
-            "title": "land"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -7298,7 +7298,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -7323,12 +7323,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -7596,7 +7596,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -7621,12 +7621,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -9772,7 +9772,7 @@
                 ""
               ]
             },
-            "title": "land"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -9828,7 +9828,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -9853,12 +9853,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -10090,12 +10090,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "net disbursements total",
-                "net disbursements to least developed countries",
+                "Nettoauszahlungen insgesamt",
+                "Nettoauszahlungen an die am wenigsten entwickelten Länder",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -10638,27 +10638,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "official development assistance",
-                "other official flows",
-                "officially supported export credits",
-                "private sector flows at market terms",
-                "private grants",
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
+                "Öffentlich unterstützte Exportkredite",
+                "Private Leistungen zu marktüblichen Bedingungen",
+                "Private Fördermittel",
                 ""
               ]
             },
-            "title": "type of financial flow"
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "net disbursements",
+                "Zusagen",
+                "Nettoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -11778,7 +11778,7 @@
             "constraints": {
               "enum": [
                 "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
-                "population living below the national poverty line",
+                "Bevölkerung, die unter der nationalen Armutsgrenze lebt",
                 "In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen",
                 "Unter erheblicher materieller und sozialer Deprivation leidende Personen",
                 ""
@@ -13412,11 +13412,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "water supply and sanitation",
-                "Transport und Lagerung",
+                "Wasser und Abwasser/Abfallentsorgung",
+                "Transport und Lagerhaltung",
                 "Kommunikation",
-                "Energie",
-                "Stadtentwicklung und Stadtverwaltung",
+                "Energieerzeugung, -verteilung und -effizienz",
+                "Stadtentwicklung und -verwaltung",
                 ""
               ]
             },
@@ -13427,24 +13427,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "official development assistance",
-                "other official flows",
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
                 ""
               ]
             },
-            "title": "type of financial flow"
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -14360,7 +14360,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -14385,12 +14385,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -16209,7 +16209,7 @@
                 ""
               ]
             },
-            "title": "land"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "water supply and sanitation",
+                "Water supply and sanitation",
                 "Transport and storage",
                 "Communications",
                 "Energy",
@@ -47,24 +47,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "official development assistance",
-                "other official flows",
+                "Official Development Assistance",
+                "Other Official Flows",
                 ""
               ]
             },
-            "title": "type of financial flow"
+            "title": "Type of financial flow"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Type of Official Development Assistance"
           },
           {
             "name": "COMMENT_OBS_0",

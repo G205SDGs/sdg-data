@@ -32,24 +32,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "official development assistance",
-                "other official flows",
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
                 ""
               ]
             },
-            "title": "type of financial flow"
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",

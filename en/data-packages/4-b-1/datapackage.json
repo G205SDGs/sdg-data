@@ -37,19 +37,19 @@
                 ""
               ]
             },
-            "title": "purpose"
+            "title": "Purpose"
           },
           {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
-            "title": "type of official development assistance"
+            "title": "Type of Official Development Assistance"
           },
           {
             "name": "COMMENT_OBS_0",
