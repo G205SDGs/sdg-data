@@ -19,10 +19,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) cardiovascular disease",
-                "(b) cancer",
+                "(a) diseases of the circulatory system",
+                "(b) malignant neoplasms",
                 "(c) diabetes mellitus",
                 "(d) chronic respiratory disease",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }

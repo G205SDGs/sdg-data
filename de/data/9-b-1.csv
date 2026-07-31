@@ -13,6 +13,7 @@ Year,Unternehmensdefinition,Technologiesektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2021,Rechtliche Einheiten,,,,,60.0
 2022,Rechtliche Einheiten,,…,,,
 2023,Rechtliche Einheiten,,…,,,
+2024,Rechtliche Einheiten,,…,,,
 2010,Rechtliche Einheiten,Medium-High-Tech,,,,49.0
 2011,Rechtliche Einheiten,Medium-High-Tech,,,,50.0
 2012,Rechtliche Einheiten,Medium-High-Tech,,,,50.0
@@ -27,6 +28,7 @@ Year,Unternehmensdefinition,Technologiesektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2021,Rechtliche Einheiten,Medium-High-Tech,,,,49.0
 2022,Rechtliche Einheiten,Medium-High-Tech,…,,,
 2023,Rechtliche Einheiten,Medium-High-Tech,…,,,
+2024,Rechtliche Einheiten,Medium-High-Tech,…,,,
 2010,Rechtliche Einheiten,High-Tech,,,,10.0
 2011,Rechtliche Einheiten,High-Tech,,,,10.0
 2012,Rechtliche Einheiten,High-Tech,,,,10.0
@@ -41,6 +43,7 @@ Year,Unternehmensdefinition,Technologiesektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2021,Rechtliche Einheiten,High-Tech,,,,11.0
 2022,Rechtliche Einheiten,High-Tech,…,,,
 2023,Rechtliche Einheiten,High-Tech,…,,,
+2024,Rechtliche Einheiten,High-Tech,…,,,
 2010,EU-Unternehmensdefinition,,.,,,
 2011,EU-Unternehmensdefinition,,.,,,
 2012,EU-Unternehmensdefinition,,.,,,
@@ -52,9 +55,10 @@ Year,Unternehmensdefinition,Technologiesektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2018,EU-Unternehmensdefinition,,,,,60.668
 2019,EU-Unternehmensdefinition,,,,,60.769
 2020,EU-Unternehmensdefinition,,,,,60.648
-2021,EU-Unternehmensdefinition,,r,,,60.607
-2022,EU-Unternehmensdefinition,,r,,,60.049
+2021,EU-Unternehmensdefinition,,,,,60.607
+2022,EU-Unternehmensdefinition,,,,,60.049
 2023,EU-Unternehmensdefinition,,,,,60.926
+2024,EU-Unternehmensdefinition,,,,,57.124
 2010,EU-Unternehmensdefinition,Medium-High-Tech,.,,,
 2011,EU-Unternehmensdefinition,Medium-High-Tech,.,,,
 2012,EU-Unternehmensdefinition,Medium-High-Tech,.,,,
@@ -66,9 +70,10 @@ Year,Unternehmensdefinition,Technologiesektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2018,EU-Unternehmensdefinition,Medium-High-Tech,,,,50.512
 2019,EU-Unternehmensdefinition,Medium-High-Tech,,,,49.637
 2020,EU-Unternehmensdefinition,Medium-High-Tech,,,,48.744
-2021,EU-Unternehmensdefinition,Medium-High-Tech,r,,,49.646
-2022,EU-Unternehmensdefinition,Medium-High-Tech,r,,,48.979
+2021,EU-Unternehmensdefinition,Medium-High-Tech,,,,49.646
+2022,EU-Unternehmensdefinition,Medium-High-Tech,,,,48.979
 2023,EU-Unternehmensdefinition,Medium-High-Tech,,,,49.208
+2024,EU-Unternehmensdefinition,Medium-High-Tech,,,,46.984
 2010,EU-Unternehmensdefinition,High-Tech,.,,,
 2011,EU-Unternehmensdefinition,High-Tech,.,,,
 2012,EU-Unternehmensdefinition,High-Tech,.,,,
@@ -80,6 +85,7 @@ Year,Unternehmensdefinition,Technologiesektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2018,EU-Unternehmensdefinition,High-Tech,,,,10.156
 2019,EU-Unternehmensdefinition,High-Tech,,,,11.132
 2020,EU-Unternehmensdefinition,High-Tech,,,,11.904
-2021,EU-Unternehmensdefinition,High-Tech,r,,,10.961
-2022,EU-Unternehmensdefinition,High-Tech,r,,,11.07
+2021,EU-Unternehmensdefinition,High-Tech,,,,10.961
+2022,EU-Unternehmensdefinition,High-Tech,,,,11.07
 2023,EU-Unternehmensdefinition,High-Tech,,,,11.719
+2024,EU-Unternehmensdefinition,High-Tech,,,,10.14

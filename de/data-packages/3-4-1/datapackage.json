@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Herz-Kreislauferkrankungen",
+                "a) Krankheiten des Kreislaufsystems",
                 "b) Bösartige Neubildungen",
                 "c) Diabetes mellitus",
                 "d) Chronische Atemwegserkrankungen",
@@ -28,6 +28,18 @@
               ]
             },
             "title": "Art der Erkrankung"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -20,14 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) Cardiovascular disease",
-                "(b) Cancer",
+                "(a) Diseases of the circulatory system",
+                "(b) Malignant neoplasms",
                 "(c) Diabetes mellitus",
                 "(d) Chronic respiratory disease",
                 ""
               ]
             },
             "title": "Type of disease"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",

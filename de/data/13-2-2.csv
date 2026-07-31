@@ -1,19 +1,20 @@
 Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Deutschland,,,,,930.2
-2011,Deutschland,,,,,906.7
-2012,Deutschland,,,,,917.0
-2013,Deutschland,,,,,934.0
-2014,Deutschland,,,,,893.5
-2015,Deutschland,,,,,901.8
-2016,Deutschland,,,,,897.3
-2017,Deutschland,,,,,882.2
-2018,Deutschland,,,,,852.9
+2010,Deutschland,,r,,,933.2
+2011,Deutschland,,r,,,907.6
+2012,Deutschland,,r,,,916.9
+2013,Deutschland,,r,,,936.6
+2014,Deutschland,,r,,,895.2
+2015,Deutschland,,r,,,898.6
+2016,Deutschland,,r,,,899.0
+2017,Deutschland,,r,,,886.3
+2018,Deutschland,,r,,,850.1
 2019,Deutschland,,,,,798.0
-2020,Deutschland,,,,,733.0
-2021,Deutschland,,,,,761.4
-2022,Deutschland,,,,,748.8
-2023,Deutschland,,,,,672.0
-2024,Deutschland,,,,,649.1
+2020,Deutschland,,r,,,731.0
+2021,Deutschland,,r,,,762.8
+2022,Deutschland,,r,,,749.3
+2023,Deutschland,,r,,,669.6
+2024,Deutschland,,r,,,649.8
+2025,Deutschland,,,,,648.9
 2010,Baden-Württemberg,code08,r,,,79.5
 2011,Baden-Württemberg,code08,r,,,77.8
 2012,Baden-Württemberg,code08,r,,,76.5
@@ -29,6 +30,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Baden-Württemberg,code08,,,,72.3
 2023,Baden-Württemberg,code08,…,,,
 2024,Baden-Württemberg,code08,…,,,
+2025,Baden-Württemberg,code08,…,,,
 2010,Bayern,code09,r,,,99.1
 2011,Bayern,code09,r,,,97.6
 2012,Bayern,code09,r,,,97.7
@@ -44,6 +46,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Bayern,code09,,,,88.9
 2023,Bayern,code09,…,,,
 2024,Bayern,code09,…,,,
+2025,Bayern,code09,…,,,
 2010,Berlin,code11,,,,19.8
 2011,Berlin,code11,r,,,17.5
 2012,Berlin,code11,r,,,17.6
@@ -59,6 +62,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Berlin,code11,,,,13.5
 2023,Berlin,code11,…,,,
 2024,Berlin,code11,…,,,
+2025,Berlin,code11,…,,,
 2010,Brandenburg,code12,,,,63.3
 2011,Brandenburg,code12,r,,,63.4
 2012,Brandenburg,code12,r,,,64.4
@@ -74,6 +78,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Brandenburg,code12,…,,,
 2023,Brandenburg,code12,…,,,
 2024,Brandenburg,code12,…,,,
+2025,Brandenburg,code12,…,,,
 2010,Bremen,code04,,,,14.4
 2011,Bremen,code04,,,,13.5
 2012,Bremen,code04,,,,13.7
@@ -89,6 +94,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Bremen,code04,…,,,
 2023,Bremen,code04,…,,,
 2024,Bremen,code04,…,,,
+2025,Bremen,code04,…,,,
 2010,Hamburg,code02,,,,12.3
 2011,Hamburg,code02,,,,11.7
 2012,Hamburg,code02,,,,11.5
@@ -104,6 +110,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Hamburg,code02,,,,9.6
 2023,Hamburg,code02,…,,,
 2024,Hamburg,code02,…,,,
+2025,Hamburg,code02,…,,,
 2010,Hessen,code06,r,,,43.6
 2011,Hessen,code06,r,,,41.7
 2012,Hessen,code06,r,,,41.7
@@ -119,6 +126,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Hessen,code06,,,,36.7
 2023,Hessen,code06,…,,,
 2024,Hessen,code06,…,,,
+2025,Hessen,code06,…,,,
 2010,Mecklenburg-Vorpommern,code13,.,,,
 2011,Mecklenburg-Vorpommern,code13,.,,,
 2012,Mecklenburg-Vorpommern,code13,.,,,
@@ -134,6 +142,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Mecklenburg-Vorpommern,code13,…,,,
 2023,Mecklenburg-Vorpommern,code13,…,,,
 2024,Mecklenburg-Vorpommern,code13,…,,,
+2025,Mecklenburg-Vorpommern,code13,…,,,
 2010,Niedersachsen,code03,r,,,86.1
 2011,Niedersachsen,code03,r,,,85.0
 2012,Niedersachsen,code03,r,,,82.8
@@ -149,6 +158,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Niedersachsen,code03,,,,73.0
 2023,Niedersachsen,code03,…,,,
 2024,Niedersachsen,code03,…,,,
+2025,Niedersachsen,code03,…,,,
 2010,Nordrhein-Westfalen,code05,r,,,301.0
 2011,Nordrhein-Westfalen,code05,r,,,290.7
 2012,Nordrhein-Westfalen,code05,r,,,295.7
@@ -164,6 +174,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Nordrhein-Westfalen,code05,…,,,
 2023,Nordrhein-Westfalen,code05,…,,,
 2024,Nordrhein-Westfalen,code05,…,,,
+2025,Nordrhein-Westfalen,code05,…,,,
 2010,Rheinland-Pfalz,code07,r,,,34.3
 2011,Rheinland-Pfalz,code07,r,,,31.9
 2012,Rheinland-Pfalz,code07,r,,,32.0
@@ -179,6 +190,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Rheinland-Pfalz,code07,,,,28.8
 2023,Rheinland-Pfalz,code07,…,,,
 2024,Rheinland-Pfalz,code07,…,,,
+2025,Rheinland-Pfalz,code07,…,,,
 2010,Saarland,code10,,,,20.4
 2011,Saarland,code10,r,,,22.1
 2012,Saarland,code10,r,,,22.7
@@ -194,6 +206,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Saarland,code10,,,,14.4
 2023,Saarland,code10,…,,,
 2024,Saarland,code10,…,,,
+2025,Saarland,code10,…,,,
 2010,Sachsen,code14,r,,,51.3
 2011,Sachsen,code14,r,,,49.2
 2012,Sachsen,code14,r,,,50.9
@@ -209,6 +222,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Sachsen,code14,,,,52.9
 2023,Sachsen,code14,…,,,
 2024,Sachsen,code14,…,,,
+2025,Sachsen,code14,…,,,
 2010,Sachsen-Anhalt,code15,r,,,37.1
 2011,Sachsen-Anhalt,code15,,,,36.7
 2012,Sachsen-Anhalt,code15,,,,37.1
@@ -224,6 +238,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Sachsen-Anhalt,code15,,,,28.2
 2023,Sachsen-Anhalt,code15,…,,,
 2024,Sachsen-Anhalt,code15,…,,,
+2025,Sachsen-Anhalt,code15,…,,,
 2010,Schleswig-Holstein,code01,,,,27.5
 2011,Schleswig-Holstein,code01,r,,,26.0
 2012,Schleswig-Holstein,code01,r,,,27.4
@@ -239,6 +254,7 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Schleswig-Holstein,code01,,,,23.0
 2023,Schleswig-Holstein,code01,…,,,
 2024,Schleswig-Holstein,code01,…,,,
+2025,Schleswig-Holstein,code01,…,,,
 2010,Thüringen,code16,.,,,
 2011,Thüringen,code16,.,,,
 2012,Thüringen,code16,.,,,
@@ -254,3 +270,4 @@ Year,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Thüringen,code16,.,,,
 2023,Thüringen,code16,…,,,
 2024,Thüringen,code16,…,,,
+2025,Thüringen,code16,…,,,
