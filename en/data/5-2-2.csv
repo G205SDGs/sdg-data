@@ -7,13 +7,14 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2015,Number,.,,,
 2016,Number,.,,,
 2017,Number,.,,,
-2018,Number,r,,,22965.0
-2019,Number,r,,,22236.0
-2020,Number,r,,,21994.0
-2021,Number,r,,,22095.0
-2022,Number,r,,,27757.0
-2023,Number,r,,,28890.0
+2018,Number,,,,22965.0
+2019,Number,,,,22236.0
+2020,Number,,,,21994.0
+2021,Number,,,,22095.0
+2022,Number,,,,27757.0
+2023,Number,,,,28890.0
 2024,Number,,,,30147.0
+2025,Number,,,,30204.0
 2010,"Per 100,000 female inhabitants",.,,,
 2011,"Per 100,000 female inhabitants",.,,,
 2012,"Per 100,000 female inhabitants",.,,,
@@ -22,13 +23,14 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2015,"Per 100,000 female inhabitants",.,,,
 2016,"Per 100,000 female inhabitants",.,,,
 2017,"Per 100,000 female inhabitants",.,,,
-2018,"Per 100,000 female inhabitants",r,,,63.35
-2019,"Per 100,000 female inhabitants",r,,,61.36
-2020,"Per 100,000 female inhabitants",r,,,60.74
-2021,"Per 100,000 female inhabitants",r,,,61.17
-2022,"Per 100,000 female inhabitants",r,,,77.0
-2023,"Per 100,000 female inhabitants",r,,,79.07
-2024,"Per 100,000 female inhabitants",,,,82.31
+2018,"Per 100,000 female inhabitants",r,,,63.37
+2019,"Per 100,000 female inhabitants",r,,,61.41
+2020,"Per 100,000 female inhabitants",r,,,60.89
+2021,"Per 100,000 female inhabitants",r,,,61.3
+2022,"Per 100,000 female inhabitants",r,,,75.97
+2023,"Per 100,000 female inhabitants",r,,,78.88
+2024,"Per 100,000 female inhabitants",r,,,82.2
+2025,"Per 100,000 female inhabitants",,,,82.36
 2010,Percentage,.,,,
 2011,Percentage,.,,,
 2012,Percentage,.,,,
@@ -37,10 +39,11 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2015,Percentage,.,,,
 2016,Percentage,.,,,
 2017,Percentage,.,,,
-2018,Percentage,r,,,0.06
-2019,Percentage,r,,,0.06
-2020,Percentage,r,,,0.06
-2021,Percentage,r,,,0.06
-2022,Percentage,r,,,0.08
-2023,Percentage,r,,,0.08
+2018,Percentage,,,,0.06
+2019,Percentage,,,,0.06
+2020,Percentage,,,,0.06
+2021,Percentage,,,,0.06
+2022,Percentage,,,,0.08
+2023,Percentage,,,,0.08
 2024,Percentage,,,,0.08
+2025,Percentage,,,,0.08

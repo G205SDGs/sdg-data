@@ -11,6 +11,10 @@ Year,Time series,Outcome of the application process,COMMENT_OBS_0,COMMENT_OBS_1,
 2019,Applications received,,,,,78533.0
 2020,Applications received,,,,,100349.0
 2021,Applications received,,,,,83997.0
+2022,Applications received,,,,,104645.0
+2023,Applications received,,,,,134334.0
+2024,Applications received,,,,,133318.0
+2025,Applications received,,,,,146446.0
 2010,Applications finally processed,,.,,,
 2011,Applications finally processed,,.,,,
 2012,Applications finally processed,,.,,,
@@ -23,6 +27,10 @@ Year,Time series,Outcome of the application process,COMMENT_OBS_0,COMMENT_OBS_1,
 2019,Applications finally processed,,,,,82684.0
 2020,Applications finally processed,,,,,89597.0
 2021,Applications finally processed,,,,,87166.0
+2022,Applications finally processed,,,,,88697.0
+2023,Applications finally processed,,,,,114705.0
+2024,Applications finally processed,,,,,127347.0
+2025,Applications finally processed,,,,,134920.0
 2010,Applications finally processed,Admissible applications,.,,,
 2011,Applications finally processed,Admissible applications,.,,,
 2012,Applications finally processed,Admissible applications,.,,,
@@ -35,6 +43,10 @@ Year,Time series,Outcome of the application process,COMMENT_OBS_0,COMMENT_OBS_1,
 2019,Applications finally processed,Admissible applications,,,,65444.0
 2020,Applications finally processed,Admissible applications,,,,75206.0
 2021,Applications finally processed,Admissible applications,,,,70654.0
+2022,Applications finally processed,Admissible applications,,,,73457.0
+2023,Applications finally processed,Admissible applications,,,,94376.0
+2024,Applications finally processed,Admissible applications,,,,103686.0
+2025,Applications finally processed,Admissible applications,,,,103316.0
 2010,Applications finally processed,Rejected applications,.,,,
 2011,Applications finally processed,Rejected applications,.,,,
 2012,Applications finally processed,Rejected applications,.,,,
@@ -47,3 +59,7 @@ Year,Time series,Outcome of the application process,COMMENT_OBS_0,COMMENT_OBS_1,
 2019,Applications finally processed,Rejected applications,,,,17240.0
 2020,Applications finally processed,Rejected applications,,,,14391.0
 2021,Applications finally processed,Rejected applications,,,,16512.0
+2022,Applications finally processed,Rejected applications,,,,15240.0
+2023,Applications finally processed,Rejected applications,,,,20329.0
+2024,Applications finally processed,Rejected applications,,,,23661.0
+2025,Applications finally processed,Rejected applications,,,,31604.0

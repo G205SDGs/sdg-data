@@ -102,7 +102,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2014,Anzahl,,,,,,98.0
 2015,Anzahl,,,,,,106.0
 2016,Anzahl,,,,,,147.0
-2017,Anzahl,,,,,,120.0
+2017,Anzahl,,,|,,,120.0
 2018,Anzahl,,,,,,130.0
 2019,Anzahl,,,,,,104.0
 2020,Anzahl,,,,,,117.0
@@ -118,7 +118,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2014,Anzahl,,Weiblich,,,,75.0
 2015,Anzahl,,Weiblich,,,,87.0
 2016,Anzahl,,Weiblich,,,,115.0
-2017,Anzahl,,Weiblich,,,,65.0
+2017,Anzahl,,Weiblich,|,,,65.0
 2018,Anzahl,,Weiblich,,,,105.0
 2019,Anzahl,,Weiblich,,,,83.0
 2020,Anzahl,,Weiblich,,,,72.0
@@ -302,7 +302,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Prozent,13 Jahre und jünger,,0,,,0.0
 2023,Prozent,13 Jahre und jünger,,0,,,0.0
 2024,Prozent,13 Jahre und jünger,,0,,,0.0
-2025,Prozent,13 Jahre und jünger,,…,,,
+2025,Prozent,13 Jahre und jünger,,0,,,0.0
 2010,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
 2011,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
 2012,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
@@ -318,7 +318,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
 2023,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
 2024,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
-2025,Prozent,13 Jahre und jünger,Weiblich,…,,,
+2025,Prozent,13 Jahre und jünger,Weiblich,0,,,0.0
 2010,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
 2011,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
 2012,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
@@ -334,7 +334,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
 2023,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
 2024,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
-2025,Prozent,13 Jahre und jünger,Männlich,…,,,
+2025,Prozent,13 Jahre und jünger,Männlich,0,,,0.0
 2010,Prozent,14 bis unter 18 Jahre,,,,,0.003
 2011,Prozent,14 bis unter 18 Jahre,,,,,0.002
 2012,Prozent,14 bis unter 18 Jahre,,,,,0.002
@@ -350,7 +350,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Prozent,14 bis unter 18 Jahre,,,,,0.003
 2023,Prozent,14 bis unter 18 Jahre,,,,,0.002
 2024,Prozent,14 bis unter 18 Jahre,,,,,0.002
-2025,Prozent,14 bis unter 18 Jahre,,…,,,
+2025,Prozent,14 bis unter 18 Jahre,,,,,0.002
 2010,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.006
 2011,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.004
 2012,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.005
@@ -366,7 +366,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.005
 2023,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.004
 2024,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.004
-2025,Prozent,14 bis unter 18 Jahre,Weiblich,…,,,
+2025,Prozent,14 bis unter 18 Jahre,Weiblich,,,,0.003
 2010,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
 2011,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
 2012,Prozent,14 bis unter 18 Jahre,Männlich,0,,,0.0
@@ -382,7 +382,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
 2023,Prozent,14 bis unter 18 Jahre,Männlich,0,,,0.0
 2024,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
-2025,Prozent,14 bis unter 18 Jahre,Männlich,…,,,
+2025,Prozent,14 bis unter 18 Jahre,Männlich,,,,0.001
 2010,Prozent,,,,,,0.001
 2011,Prozent,,,,,,0.001
 2012,Prozent,,,,,,0.001
@@ -398,7 +398,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Prozent,,,,,,0.001
 2023,Prozent,,,,,,0.001
 2024,Prozent,,,,,,0.001
-2025,Prozent,,,…,,,
+2025,Prozent,,,,,,0.001
 2010,Prozent,,Weiblich,,,,0.002
 2011,Prozent,,Weiblich,,,,0.001
 2012,Prozent,,Weiblich,,,,0.002
@@ -414,7 +414,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Prozent,,Weiblich,,,,0.001
 2023,Prozent,,Weiblich,,,,0.001
 2024,Prozent,,Weiblich,,,,0.001
-2025,Prozent,,Weiblich,…,,,
+2025,Prozent,,Weiblich,,,,0.001
 2010,Prozent,,Männlich,0,,,0.0
 2011,Prozent,,Männlich,0,,,0.0
 2012,Prozent,,Männlich,0,,,0.0
@@ -430,4 +430,4 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Prozent,,Männlich,0,,,0.0
 2023,Prozent,,Männlich,0,,,0.0
 2024,Prozent,,Männlich,0,,,0.0
-2025,Prozent,,Männlich,…,,,
+2025,Prozent,,Männlich,0,,,0.0

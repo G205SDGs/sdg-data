@@ -102,7 +102,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2014,number,,,,,,98.0
 2015,number,,,,,,106.0
 2016,number,,,,,,147.0
-2017,number,,,,,,120.0
+2017,number,,,|,,,120.0
 2018,number,,,,,,130.0
 2019,number,,,,,,104.0
 2020,number,,,,,,117.0
@@ -118,7 +118,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2014,number,,female,,,,75.0
 2015,number,,female,,,,87.0
 2016,number,,female,,,,115.0
-2017,number,,female,,,,65.0
+2017,number,,female,|,,,65.0
 2018,number,,female,,,,105.0
 2019,number,,female,,,,83.0
 2020,number,,female,,,,72.0
@@ -302,7 +302,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,percentage,13 years and younger,,0,,,0.0
 2023,percentage,13 years and younger,,0,,,0.0
 2024,percentage,13 years and younger,,0,,,0.0
-2025,percentage,13 years and younger,,…,,,
+2025,percentage,13 years and younger,,0,,,0.0
 2010,percentage,13 years and younger,female,0,,,0.0
 2011,percentage,13 years and younger,female,0,,,0.0
 2012,percentage,13 years and younger,female,0,,,0.0
@@ -318,7 +318,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,percentage,13 years and younger,female,0,,,0.0
 2023,percentage,13 years and younger,female,0,,,0.0
 2024,percentage,13 years and younger,female,0,,,0.0
-2025,percentage,13 years and younger,female,…,,,
+2025,percentage,13 years and younger,female,0,,,0.0
 2010,percentage,13 years and younger,male,0,,,0.0
 2011,percentage,13 years and younger,male,0,,,0.0
 2012,percentage,13 years and younger,male,0,,,0.0
@@ -334,7 +334,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,percentage,13 years and younger,male,0,,,0.0
 2023,percentage,13 years and younger,male,0,,,0.0
 2024,percentage,13 years and younger,male,0,,,0.0
-2025,percentage,13 years and younger,male,…,,,
+2025,percentage,13 years and younger,male,0,,,0.0
 2010,percentage,14 to under 18 years,,,,,0.003
 2011,percentage,14 to under 18 years,,,,,0.002
 2012,percentage,14 to under 18 years,,,,,0.002
@@ -350,7 +350,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,percentage,14 to under 18 years,,,,,0.003
 2023,percentage,14 to under 18 years,,,,,0.002
 2024,percentage,14 to under 18 years,,,,,0.002
-2025,percentage,14 to under 18 years,,…,,,
+2025,percentage,14 to under 18 years,,,,,0.002
 2010,percentage,14 to under 18 years,female,,,,0.006
 2011,percentage,14 to under 18 years,female,,,,0.004
 2012,percentage,14 to under 18 years,female,,,,0.005
@@ -366,7 +366,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,percentage,14 to under 18 years,female,,,,0.005
 2023,percentage,14 to under 18 years,female,,,,0.004
 2024,percentage,14 to under 18 years,female,,,,0.004
-2025,percentage,14 to under 18 years,female,…,,,
+2025,percentage,14 to under 18 years,female,,,,0.003
 2010,percentage,14 to under 18 years,male,,,,0.001
 2011,percentage,14 to under 18 years,male,,,,0.001
 2012,percentage,14 to under 18 years,male,0,,,0.0
@@ -382,7 +382,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,percentage,14 to under 18 years,male,,,,0.001
 2023,percentage,14 to under 18 years,male,0,,,0.0
 2024,percentage,14 to under 18 years,male,,,,0.001
-2025,percentage,14 to under 18 years,male,…,,,
+2025,percentage,14 to under 18 years,male,,,,0.001
 2010,percentage,,,,,,0.001
 2011,percentage,,,,,,0.001
 2012,percentage,,,,,,0.001
@@ -398,7 +398,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,percentage,,,,,,0.001
 2023,percentage,,,,,,0.001
 2024,percentage,,,,,,0.001
-2025,percentage,,,…,,,
+2025,percentage,,,,,,0.001
 2010,percentage,,female,,,,0.002
 2011,percentage,,female,,,,0.001
 2012,percentage,,female,,,,0.002
@@ -414,7 +414,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,percentage,,female,,,,0.001
 2023,percentage,,female,,,,0.001
 2024,percentage,,female,,,,0.001
-2025,percentage,,female,…,,,
+2025,percentage,,female,,,,0.001
 2010,percentage,,male,0,,,0.0
 2011,percentage,,male,0,,,0.0
 2012,percentage,,male,0,,,0.0
@@ -430,4 +430,4 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,percentage,,male,0,,,0.0
 2023,percentage,,male,0,,,0.0
 2024,percentage,,male,0,,,0.0
-2025,percentage,,male,…,,,
+2025,percentage,,male,0,,,0.0
