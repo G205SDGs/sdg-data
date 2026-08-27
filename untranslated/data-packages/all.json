@@ -2150,7 +2150,7 @@
             "type": "integer"
           },
           {
-            "name": "environmental protection and/or resource management sector",
+            "name": "environmental protection and/or resource management domain",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2177,17 +2177,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "agriculture, forestry and fishing (isic a)",
-                "mining and quarrying (isic b)",
-                "manufacturing (isic c)",
-                "electricity, gas, steam and air conditioning supply (isic d)",
-                "water supply; sewerage, waste management and remediation activities (isic e)",
-                "construction (isic f)",
-                "information and communication (isic j)",
-                "professional, scientific and technical activities (isic m)",
-                "public administration and defence; compulsory social security (isic o)",
-                "education (isic p)",
-                "other services (isic g, h, i, k, l, n, q, r, s, t and u)",
+                "agriculture, forestry and fishing (section a)",
+                "mining and quarrying (section b)",
+                "manufacturing (section c)",
+                "electricity, gas, steam and air conditioning supply (section d)",
+                "water supply; sewerage, waste management and remediation activities (section e)",
+                "construction (section f)",
+                "information and communication (section j)",
+                "professional, scientific and technical activities (section m)",
+                "public administration and defence; compulsory social security (section o)",
+                "education (section p)",
+                "other services (sections g, h, i, k, l, n, q, r, s, t and u)",
                 ""
               ]
             }
@@ -2668,7 +2668,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "organically farmed agricultural land",
+                "organically farmed agricultural area",
                 "progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
@@ -5808,18 +5808,18 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2022)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
           },
           {
-            "name": "time series",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda)",
-                "gross disbursements (oda)",
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }
@@ -5837,9 +5837,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 ""
               ]
             }
@@ -9459,7 +9460,7 @@
             "constraints": {
               "enum": [
                 "agriculture, forestry and fishing",
-                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (isic b, c, d and f)",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (sections b, c, d and f)",
                 "services",
                 ""
               ]
@@ -10751,7 +10752,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
+                "population who had the impression that public officials were corruptible during their interactions with public authorities in the previous two years",
                 "private persons (donors) suspected in the context of corruption offences",
                 ""
               ]
@@ -15230,9 +15231,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "agriculture, forestry and fishing (isic a)",
-                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (isic b, c, d and f)",
-                "other services (isic e, g to t)",
+                "agriculture, forestry and fishing (section a)",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (sections b, c, d and f)",
+                "other services (sections e, g to t)",
                 ""
               ]
             }

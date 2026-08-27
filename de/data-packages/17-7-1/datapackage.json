@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "environmental protection and/or resource management sector",
+            "name": "environmental protection and/or resource management domain",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,24 +37,24 @@
                 ""
               ]
             },
-            "title": "Umweltschutz- und/oder Ressourcenmanagementbereich"
+            "title": "environmental protection and/or resource management domain"
           },
           {
             "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",
-                "Bergbau und Gewinnung von Steinen und Erden (WZ-Abschnitt B)",
-                "Verarbeitendes Gewerbe (WZ-Abschnitt C)",
-                "Energieversorgung (WZ-Abschnitt D)",
-                "Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen (WZ-Abschnitt E)",
-                "Baugewerbe (WZ-Abschnitt F)",
-                "Information und Kommunikation (WZ-Abschnitt J)",
-                "Freiberufliche, wissenschaftliche und technische Dienstleistungen (WZ-Abschnitt M)",
-                "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (WZ-Abschnitt O)",
-                "Erziehung und Unterricht (WZ-Abschnitt P)",
-                "Andere Dienstleistungen (WZ-Abschnitte G, H, I, K, L, N, Q, R, S, T und U)",
+                "agriculture, forestry and fishing (section a)",
+                "mining and quarrying (section b)",
+                "manufacturing (section c)",
+                "electricity, gas, steam and air conditioning supply (section d)",
+                "water supply; sewerage, waste management and remediation activities (section e)",
+                "construction (section f)",
+                "information and communication (section j)",
+                "professional, scientific and technical activities (section m)",
+                "public administration and defence; compulsory social security (section o)",
+                "education (section p)",
+                "other services (sections g, h, i, k, l, n, q, r, s, t and u)",
                 ""
               ]
             },

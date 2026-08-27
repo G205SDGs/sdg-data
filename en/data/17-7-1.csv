@@ -1,4 +1,4 @@
-Year,Environmental protection and/or resource management sector,Economic activity,Sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+Year,environmental protection and/or resource management domain,Economic activity,Sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2022,,,,,,,Output of the environmental goods and services sector (EGSS),286978.155
 2023,,,,p,,,Output of the environmental goods and services sector (EGSS),284514.935
 2022,Air and climate (CEP 01),,,,,,Output of the environmental goods and services sector (EGSS),
@@ -43,39 +43,39 @@ Year,Environmental protection and/or resource management sector,Economic activit
 2022,Cross-cutting and other environmental purposes (CEP 08),,,,,,Output of the environmental goods and services sector (EGSS),
 2023,Cross-cutting and other environmental purposes (CEP 08),,,,,,Output of the environmental goods and services sector (EGSS),3232.749
 2024,Cross-cutting and other environmental purposes (CEP 08),,,,,,Output of the environmental goods and services sector (EGSS),
-2022,,"Agriculture, forestry and fishing (ISIC A)",,,,,Output of the environmental goods and services sector (EGSS),
-2023,,"Agriculture, forestry and fishing (ISIC A)",,,,,Output of the environmental goods and services sector (EGSS),9839.794
-2024,,"Agriculture, forestry and fishing (ISIC A)",,,,,Output of the environmental goods and services sector (EGSS),
-2022,,Mining and quarrying (ISIC B),,,,,Output of the environmental goods and services sector (EGSS),
-2023,,Mining and quarrying (ISIC B),,,,,Output of the environmental goods and services sector (EGSS),44.752
-2024,,Mining and quarrying (ISIC B),,,,,Output of the environmental goods and services sector (EGSS),
-2022,,Manufacturing (ISIC C),,,,,Output of the environmental goods and services sector (EGSS),
-2023,,Manufacturing (ISIC C),,,,,Output of the environmental goods and services sector (EGSS),100848.109
-2024,,Manufacturing (ISIC C),,,,,Output of the environmental goods and services sector (EGSS),
-2022,,"Electricity, gas, steam and air conditioning supply (ISIC D)",,,,,Output of the environmental goods and services sector (EGSS),
-2023,,"Electricity, gas, steam and air conditioning supply (ISIC D)",,,,,Output of the environmental goods and services sector (EGSS),53506.283
-2024,,"Electricity, gas, steam and air conditioning supply (ISIC D)",,,,,Output of the environmental goods and services sector (EGSS),
-2022,,"Water supply; sewerage, waste management and remediation activities (ISIC E)",,,,,Output of the environmental goods and services sector (EGSS),
-2023,,"Water supply; sewerage, waste management and remediation activities (ISIC E)",,,,,Output of the environmental goods and services sector (EGSS),78618.446
-2024,,"Water supply; sewerage, waste management and remediation activities (ISIC E)",,,,,Output of the environmental goods and services sector (EGSS),
-2022,,Construction (ISIC F),,,,,Output of the environmental goods and services sector (EGSS),
-2023,,Construction (ISIC F),,,,,Output of the environmental goods and services sector (EGSS),14804.37
-2024,,Construction (ISIC F),,,,,Output of the environmental goods and services sector (EGSS),
-2022,,Information and communication (ISIC J),,,,,Output of the environmental goods and services sector (EGSS),
-2023,,Information and communication (ISIC J),,,,,Output of the environmental goods and services sector (EGSS),600.228
-2024,,Information and communication (ISIC J),,,,,Output of the environmental goods and services sector (EGSS),
-2022,,"Professional, scientific and technical activities (ISIC M)",,,,,Output of the environmental goods and services sector (EGSS),
-2023,,"Professional, scientific and technical activities (ISIC M)",,,,,Output of the environmental goods and services sector (EGSS),10205.845
-2024,,"Professional, scientific and technical activities (ISIC M)",,,,,Output of the environmental goods and services sector (EGSS),
-2022,,Public administration and defence; compulsory social security (ISIC O),,,,,Output of the environmental goods and services sector (EGSS),
-2023,,Public administration and defence; compulsory social security (ISIC O),,,,,Output of the environmental goods and services sector (EGSS),10336.34
-2024,,Public administration and defence; compulsory social security (ISIC O),,,,,Output of the environmental goods and services sector (EGSS),
-2022,,Education (ISIC P),,,,,Output of the environmental goods and services sector (EGSS),
-2023,,Education (ISIC P),,,,,Output of the environmental goods and services sector (EGSS),1392.03
-2024,,Education (ISIC P),,,,,Output of the environmental goods and services sector (EGSS),
-2022,,"Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)",,,,,Output of the environmental goods and services sector (EGSS),
-2023,,"Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)",,,,,Output of the environmental goods and services sector (EGSS),4318.738
-2024,,"Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)",,,,,Output of the environmental goods and services sector (EGSS),
+2022,,"agriculture, forestry and fishing (section a)",,,,,Output of the environmental goods and services sector (EGSS),
+2023,,"agriculture, forestry and fishing (section a)",,,,,Output of the environmental goods and services sector (EGSS),9839.794
+2024,,"agriculture, forestry and fishing (section a)",,,,,Output of the environmental goods and services sector (EGSS),
+2022,,mining and quarrying (section b),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,mining and quarrying (section b),,,,,Output of the environmental goods and services sector (EGSS),44.752
+2024,,mining and quarrying (section b),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,manufacturing (section c),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,manufacturing (section c),,,,,Output of the environmental goods and services sector (EGSS),100848.109
+2024,,manufacturing (section c),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,"electricity, gas, steam and air conditioning supply (section d)",,,,,Output of the environmental goods and services sector (EGSS),
+2023,,"electricity, gas, steam and air conditioning supply (section d)",,,,,Output of the environmental goods and services sector (EGSS),53506.283
+2024,,"electricity, gas, steam and air conditioning supply (section d)",,,,,Output of the environmental goods and services sector (EGSS),
+2022,,"water supply; sewerage, waste management and remediation activities (section e)",,,,,Output of the environmental goods and services sector (EGSS),
+2023,,"water supply; sewerage, waste management and remediation activities (section e)",,,,,Output of the environmental goods and services sector (EGSS),78618.446
+2024,,"water supply; sewerage, waste management and remediation activities (section e)",,,,,Output of the environmental goods and services sector (EGSS),
+2022,,construction (section f),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,construction (section f),,,,,Output of the environmental goods and services sector (EGSS),14804.37
+2024,,construction (section f),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,information and communication (section j),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,information and communication (section j),,,,,Output of the environmental goods and services sector (EGSS),600.228
+2024,,information and communication (section j),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,"professional, scientific and technical activities (section m)",,,,,Output of the environmental goods and services sector (EGSS),
+2023,,"professional, scientific and technical activities (section m)",,,,,Output of the environmental goods and services sector (EGSS),10205.845
+2024,,"professional, scientific and technical activities (section m)",,,,,Output of the environmental goods and services sector (EGSS),
+2022,,public administration and defence; compulsory social security (section o),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,public administration and defence; compulsory social security (section o),,,,,Output of the environmental goods and services sector (EGSS),10336.34
+2024,,public administration and defence; compulsory social security (section o),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,education (section p),,,,,Output of the environmental goods and services sector (EGSS),
+2023,,education (section p),,,,,Output of the environmental goods and services sector (EGSS),1392.03
+2024,,education (section p),,,,,Output of the environmental goods and services sector (EGSS),
+2022,,"other services (sections g, h, i, k, l, n, q, r, s, t and u)",,,,,Output of the environmental goods and services sector (EGSS),
+2023,,"other services (sections g, h, i, k, l, n, q, r, s, t and u)",,,,,Output of the environmental goods and services sector (EGSS),4318.738
+2024,,"other services (sections g, h, i, k, l, n, q, r, s, t and u)",,,,,Output of the environmental goods and services sector (EGSS),
 2010,,,,,,,Gross fixed capital formation for environmental protection activities,10279.0
 2011,,,,,,,Gross fixed capital formation for environmental protection activities,11415.0
 2012,,,,,,,Gross fixed capital formation for environmental protection activities,11701.0

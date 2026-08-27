@@ -121,7 +121,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung",
+                "organically farmed agricultural area",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]

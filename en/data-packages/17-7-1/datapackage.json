@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "environmental protection and/or resource management sector",
+            "name": "environmental protection and/or resource management domain",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,24 +37,24 @@
                 ""
               ]
             },
-            "title": "Environmental protection and/or resource management sector"
+            "title": "environmental protection and/or resource management domain"
           },
           {
             "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing (ISIC A)",
-                "Mining and quarrying (ISIC B)",
-                "Manufacturing (ISIC C)",
-                "Electricity, gas, steam and air conditioning supply (ISIC D)",
-                "Water supply; sewerage, waste management and remediation activities (ISIC E)",
-                "Construction (ISIC F)",
-                "Information and communication (ISIC J)",
-                "Professional, scientific and technical activities (ISIC M)",
-                "Public administration and defence; compulsory social security (ISIC O)",
-                "Education (ISIC P)",
-                "Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)",
+                "agriculture, forestry and fishing (section a)",
+                "mining and quarrying (section b)",
+                "manufacturing (section c)",
+                "electricity, gas, steam and air conditioning supply (section d)",
+                "water supply; sewerage, waste management and remediation activities (section e)",
+                "construction (section f)",
+                "information and communication (section j)",
+                "professional, scientific and technical activities (section m)",
+                "public administration and defence; compulsory social security (section o)",
+                "education (section p)",
+                "other services (sections g, h, i, k, l, n, q, r, s, t and u)",
                 ""
               ]
             },

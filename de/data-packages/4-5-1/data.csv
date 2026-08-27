@@ -29,8 +29,8 @@ Year,SDG-Indikator,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,4.3.1 (15 bis unter 25 Jahre),,,,1.04
 2022,4.3.1 (15 bis unter 25 Jahre),,,,1.04
 2023,4.3.1 (15 bis unter 25 Jahre),,,,1.05
-2024,4.3.1 (15 bis unter 25 Jahre),,,,1.04
-2025,4.3.1 (15 bis unter 25 Jahre),,,,1.04
+2024,4.3.1 (15 bis unter 25 Jahre),,,,1.05
+2025,4.3.1 (15 bis unter 25 Jahre),p,,,1.04
 2010,4.3.1 (15 bis unter 65 Jahre),,,,0.97
 2011,4.3.1 (15 bis unter 65 Jahre),,,,0.96
 2012,4.3.1 (15 bis unter 65 Jahre),,,,0.96
@@ -52,7 +52,7 @@ Year,SDG-Indikator,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2012,4.3.1 (25 bis unter 55 Jahre),,,,0.951
 2013,4.3.1 (25 bis unter 55 Jahre),,,,0.96
 2014,4.3.1 (25 bis unter 55 Jahre),,,,0.96
-2015,4.3.1 (25 bis unter 55 Jahre),,,,0.96
+2015,4.3.1 (25 bis unter 55 Jahre),,,,0.95
 2016,4.3.1 (25 bis unter 55 Jahre),,,,0.95
 2017,4.3.1 (25 bis unter 55 Jahre),,,,0.94
 2018,4.3.1 (25 bis unter 55 Jahre),,,,0.95
@@ -61,7 +61,7 @@ Year,SDG-Indikator,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,4.3.1 (25 bis unter 55 Jahre),,,,1.01
 2022,4.3.1 (25 bis unter 55 Jahre),,,,1.05
 2023,4.3.1 (25 bis unter 55 Jahre),,,,1.04
-2024,4.3.1 (25 bis unter 55 Jahre),,,,1.05
+2024,4.3.1 (25 bis unter 55 Jahre),,,,1.06
 2025,4.3.1 (25 bis unter 55 Jahre),p,,,1.06
 2010,4.3.1 (55 bis unter 65 Jahre),,,,0.86
 2011,4.3.1 (55 bis unter 65 Jahre),,,,0.86
@@ -78,4 +78,4 @@ Year,SDG-Indikator,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,4.3.1 (55 bis unter 65 Jahre),,,,1.11
 2023,4.3.1 (55 bis unter 65 Jahre),,,,1.15
 2024,4.3.1 (55 bis unter 65 Jahre),,,,1.04
-2025,4.3.1 (55 bis unter 65 Jahre),,,,1.08
+2025,4.3.1 (55 bis unter 65 Jahre),p,,,1.08

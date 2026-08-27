@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",
-                "Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",
-                "Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",
+                "agriculture, forestry and fishing (section a)",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (sections b, c, d and f)",
+                "other services (sections e, g to t)",
                 ""
               ]
             },

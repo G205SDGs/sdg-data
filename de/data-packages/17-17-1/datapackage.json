@@ -21,23 +21,23 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA)",
-                "Bruttoentwicklungsausgaben (ODA)",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -53,9 +53,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 ""
               ]
             },

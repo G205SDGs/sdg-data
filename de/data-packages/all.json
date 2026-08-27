@@ -2354,7 +2354,7 @@
             "title": "Jahr"
           },
           {
-            "name": "environmental protection and/or resource management sector",
+            "name": "environmental protection and/or resource management domain",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2375,24 +2375,24 @@
                 ""
               ]
             },
-            "title": "Umweltschutz- und/oder Ressourcenmanagementbereich"
+            "title": "environmental protection and/or resource management domain"
           },
           {
             "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",
-                "Bergbau und Gewinnung von Steinen und Erden (WZ-Abschnitt B)",
-                "Verarbeitendes Gewerbe (WZ-Abschnitt C)",
-                "Energieversorgung (WZ-Abschnitt D)",
-                "Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen (WZ-Abschnitt E)",
-                "Baugewerbe (WZ-Abschnitt F)",
-                "Information und Kommunikation (WZ-Abschnitt J)",
-                "Freiberufliche, wissenschaftliche und technische Dienstleistungen (WZ-Abschnitt M)",
-                "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (WZ-Abschnitt O)",
-                "Erziehung und Unterricht (WZ-Abschnitt P)",
-                "Andere Dienstleistungen (WZ-Abschnitte G, H, I, K, L, N, Q, R, S, T und U)",
+                "agriculture, forestry and fishing (section a)",
+                "mining and quarrying (section b)",
+                "manufacturing (section c)",
+                "electricity, gas, steam and air conditioning supply (section d)",
+                "water supply; sewerage, waste management and remediation activities (section e)",
+                "construction (section f)",
+                "information and communication (section j)",
+                "professional, scientific and technical activities (section m)",
+                "public administration and defence; compulsory social security (section o)",
+                "education (section p)",
+                "other services (sections g, h, i, k, l, n, q, r, s, t and u)",
                 ""
               ]
             },
@@ -2917,7 +2917,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung",
+                "organically farmed agricultural area",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]
@@ -6352,23 +6352,23 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA)",
-                "Bruttoentwicklungsausgaben (ODA)",
+                "Zusagen",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -6384,9 +6384,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 ""
               ]
             },
@@ -10354,7 +10355,7 @@
             "constraints": {
               "enum": [
                 "Land- und Forstwirtschaft, Fischerei",
-                "Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (sections b, c, d and f)",
                 "Dienstleistungen",
                 ""
               ]
@@ -11770,7 +11771,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
+                "population who had the impression that public officials were corruptible during their interactions with public authorities in the previous two years",
                 "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten",
                 ""
               ]
@@ -16675,9 +16676,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",
-                "Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",
-                "Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",
+                "agriculture, forestry and fishing (section a)",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (sections b, c, d and f)",
+                "other services (sections e, g to t)",
                 ""
               ]
             },

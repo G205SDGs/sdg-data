@@ -71,7 +71,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
+                "population who had the impression that public officials were corruptible during their interactions with public authorities in the previous two years",
                 "private persons (donors) suspected in the context of corruption offences",
                 ""
               ]

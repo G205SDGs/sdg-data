@@ -21,23 +21,23 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2024)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments (ODA)",
-                "Gross disbursements (ODA)",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Type of Official Development Assistance"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -53,9 +53,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 ""
               ]
             },

@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "environmental protection and/or resource management sector",
+            "name": "environmental protection and/or resource management domain",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,17 +42,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "agriculture, forestry and fishing (isic a)",
-                "mining and quarrying (isic b)",
-                "manufacturing (isic c)",
-                "electricity, gas, steam and air conditioning supply (isic d)",
-                "water supply; sewerage, waste management and remediation activities (isic e)",
-                "construction (isic f)",
-                "information and communication (isic j)",
-                "professional, scientific and technical activities (isic m)",
-                "public administration and defence; compulsory social security (isic o)",
-                "education (isic p)",
-                "other services (isic g, h, i, k, l, n, q, r, s, t and u)",
+                "agriculture, forestry and fishing (section a)",
+                "mining and quarrying (section b)",
+                "manufacturing (section c)",
+                "electricity, gas, steam and air conditioning supply (section d)",
+                "water supply; sewerage, waste management and remediation activities (section e)",
+                "construction (section f)",
+                "information and communication (section j)",
+                "professional, scientific and technical activities (section m)",
+                "public administration and defence; compulsory social security (section o)",
+                "education (section p)",
+                "other services (sections g, h, i, k, l, n, q, r, s, t and u)",
                 ""
               ]
             }

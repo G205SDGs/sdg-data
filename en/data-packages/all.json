@@ -2354,7 +2354,7 @@
             "title": "Year"
           },
           {
-            "name": "environmental protection and/or resource management sector",
+            "name": "environmental protection and/or resource management domain",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2375,24 +2375,24 @@
                 ""
               ]
             },
-            "title": "Environmental protection and/or resource management sector"
+            "title": "environmental protection and/or resource management domain"
           },
           {
             "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing (ISIC A)",
-                "Mining and quarrying (ISIC B)",
-                "Manufacturing (ISIC C)",
-                "Electricity, gas, steam and air conditioning supply (ISIC D)",
-                "Water supply; sewerage, waste management and remediation activities (ISIC E)",
-                "Construction (ISIC F)",
-                "Information and communication (ISIC J)",
-                "Professional, scientific and technical activities (ISIC M)",
-                "Public administration and defence; compulsory social security (ISIC O)",
-                "Education (ISIC P)",
-                "Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)",
+                "agriculture, forestry and fishing (section a)",
+                "mining and quarrying (section b)",
+                "manufacturing (section c)",
+                "electricity, gas, steam and air conditioning supply (section d)",
+                "water supply; sewerage, waste management and remediation activities (section e)",
+                "construction (section f)",
+                "information and communication (section j)",
+                "professional, scientific and technical activities (section m)",
+                "public administration and defence; compulsory social security (section o)",
+                "education (section p)",
+                "other services (sections g, h, i, k, l, n, q, r, s, t and u)",
                 ""
               ]
             },
@@ -2917,7 +2917,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Organically farmed agricultural land",
+                "organically farmed agricultural area",
                 "Progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
@@ -6352,23 +6352,23 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2024)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments (ODA)",
-                "Gross disbursements (ODA)",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Type of Official Development Assistance"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -6384,9 +6384,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 ""
               ]
             },
@@ -10354,7 +10355,7 @@
             "constraints": {
               "enum": [
                 "Agriculture, forestry and fishing",
-                "Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (sections b, c, d and f)",
                 "Services",
                 ""
               ]
@@ -11770,7 +11771,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
+                "population who had the impression that public officials were corruptible during their interactions with public authorities in the previous two years",
                 "Private persons (donors) suspected in the context of corruption offences",
                 ""
               ]
@@ -16675,9 +16676,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing (ISIC A)",
-                "Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",
-                "Other services (ISIC E, G to T)",
+                "agriculture, forestry and fishing (section a)",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (sections b, c, d and f)",
+                "other services (sections e, g to t)",
                 ""
               ]
             },

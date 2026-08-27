@@ -121,7 +121,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Organically farmed agricultural land",
+                "organically farmed agricultural area",
                 "Progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
