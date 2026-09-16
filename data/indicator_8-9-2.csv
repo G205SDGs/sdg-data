@@ -13,6 +13,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,accommodation for visitors: hotels and similar establishments,,,,employed persons,458101
 2022,accommodation for visitors: hotels and similar establishments,,,,employed persons,493938
 2023,accommodation for visitors: hotels and similar establishments,,,,employed persons,498001
+2024,accommodation for visitors: hotels and similar establishments,,,,employed persons,554350
 2010,accommodation for visitors: other,.,,,employed persons,
 2011,accommodation for visitors: other,.,,,employed persons,
 2012,accommodation for visitors: other,.,,,employed persons,
@@ -27,6 +28,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,accommodation for visitors: other,,,,employed persons,691160
 2022,accommodation for visitors: other,,,,employed persons,667494
 2023,accommodation for visitors: other,,,,employed persons,664668
+2024,accommodation for visitors: other,,,,employed persons,780450
 2010,food and beverage serving activities,.,,,employed persons,
 2011,food and beverage serving activities,.,,,employed persons,
 2012,food and beverage serving activities,.,,,employed persons,
@@ -41,8 +43,10 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,food and beverage serving activities,,,,employed persons,1457238
 2022,food and beverage serving activities,,,,employed persons,1514878
 2023,food and beverage serving activities,,,,employed persons,1541245
+2024,food and beverage serving activities,,,,employed persons,1707457
 2022,railway passenger transport,,,,employed persons,25222
 2023,railway passenger transport,,,,employed persons,25745
+2024,railway passenger transport,,,,employed persons,27727
 2010,road passenger transport,.,,,employed persons,
 2011,road passenger transport,.,,,employed persons,
 2012,road passenger transport,.,,,employed persons,
@@ -57,6 +61,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,road passenger transport,,,,employed persons,186530
 2022,road passenger transport,,,,employed persons,194485
 2023,road passenger transport,,,,employed persons,205032
+2024,road passenger transport,,,,employed persons,243136
 2010,water passenger transport,.,,,employed persons,
 2011,water passenger transport,.,,,employed persons,
 2012,water passenger transport,.,,,employed persons,
@@ -71,6 +76,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,water passenger transport,,,,employed persons,8756
 2022,water passenger transport,,,,employed persons,9206
 2023,water passenger transport,,,,employed persons,8967
+2024,water passenger transport,,,,employed persons,10250
 2010,air passenger transport,.,,,employed persons,
 2011,air passenger transport,.,,,employed persons,
 2012,air passenger transport,.,,,employed persons,
@@ -85,6 +91,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,air passenger transport,,,,employed persons,54734
 2022,air passenger transport,,,,employed persons,52686
 2023,air passenger transport,,,,employed persons,57060
+2024,air passenger transport,,,,employed persons,58988
 2010,transport equipment rental,.,,,employed persons,
 2011,transport equipment rental,.,,,employed persons,
 2012,transport equipment rental,.,,,employed persons,
@@ -99,6 +106,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,transport equipment rental,,,,employed persons,41038
 2022,transport equipment rental,,,,employed persons,45861
 2023,transport equipment rental,,,,employed persons,43418
+2024,transport equipment rental,,,,employed persons,43140
 2010,travel agencies and other reservation service activities,.,,,employed persons,
 2011,travel agencies and other reservation service activities,.,,,employed persons,
 2012,travel agencies and other reservation service activities,.,,,employed persons,
@@ -113,12 +121,37 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,travel agencies and other reservation service activities,,,,employed persons,79189
 2022,travel agencies and other reservation service activities,,,,employed persons,88512
 2023,travel agencies and other reservation service activities,,,,employed persons,84618
+2024,travel agencies and other reservation service activities,,,,employed persons,90136
+2010,cultural activities,.,,,employed persons,
+2011,cultural activities,.,,,employed persons,
+2012,cultural activities,.,,,employed persons,
+2013,cultural activities,.,,,employed persons,
+2014,cultural activities,.,,,employed persons,
+2015,cultural activities,.,,,employed persons,
+2016,cultural activities,.,,,employed persons,
+2017,cultural activities,.,,,employed persons,
+2018,cultural activities,.,,,employed persons,
+2019,cultural activities,.,,,employed persons,
+2020,cultural activities,.,,,employed persons,
 2021,cultural activities,,,,employed persons,93922
 2022,cultural activities,,,,employed persons,104048
 2023,cultural activities,,,,employed persons,109369
+2024,cultural activities,,,,employed persons,115940
+2010,sports and recreational activities,.,,,employed persons,
+2011,sports and recreational activities,.,,,employed persons,
+2012,sports and recreational activities,.,,,employed persons,
+2013,sports and recreational activities,.,,,employed persons,
+2014,sports and recreational activities,.,,,employed persons,
+2015,sports and recreational activities,.,,,employed persons,
+2016,sports and recreational activities,.,,,employed persons,
+2017,sports and recreational activities,.,,,employed persons,
+2018,sports and recreational activities,.,,,employed persons,
+2019,sports and recreational activities,.,,,employed persons,
+2020,sports and recreational activities,.,,,employed persons,
 2021,sports and recreational activities,,,,employed persons,306401
 2022,sports and recreational activities,,,,employed persons,320884
 2023,sports and recreational activities,,,,employed persons,312225
+2024,sports and recreational activities,,,,employed persons,356101
 2010,accommodation for visitors: hotels and similar establishments,.,,,employees,
 2011,accommodation for visitors: hotels and similar establishments,.,,,employees,
 2012,accommodation for visitors: hotels and similar establishments,.,,,employees,
@@ -133,6 +166,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,accommodation for visitors: hotels and similar establishments,,,,employees,412861
 2022,accommodation for visitors: hotels and similar establishments,,,,employees,447744
 2023,accommodation for visitors: hotels and similar establishments,,,,employees,451432
+2024,accommodation for visitors: hotels and similar establishments,,,,employees,503323
 2010,accommodation for visitors: other,.,,,employees,
 2011,accommodation for visitors: other,.,,,employees,
 2012,accommodation for visitors: other,.,,,employees,
@@ -147,6 +181,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,accommodation for visitors: other,,,,employees,474192
 2022,accommodation for visitors: other,,,,employees,474307
 2023,accommodation for visitors: other,,,,employees,471128
+2024,accommodation for visitors: other,,,,employees,530896
 2010,food and beverage serving activities,.,,,employees,
 2011,food and beverage serving activities,.,,,employees,
 2012,food and beverage serving activities,.,,,employees,
@@ -161,8 +196,10 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,food and beverage serving activities,,,,employees,1281136
 2022,food and beverage serving activities,,,,employees,1338977
 2023,food and beverage serving activities,,,,employees,1363796
+2024,food and beverage serving activities,,,,employees,1536095
 2022,railway passenger transport,,,,employees,25202
 2023,railway passenger transport,,,,employees,25719
+2024,railway passenger transport,,,,employees,27693
 2010,road passenger transport,.,,,employees,
 2011,road passenger transport,.,,,employees,
 2012,road passenger transport,.,,,employees,
@@ -177,6 +214,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,road passenger transport,,,,employees,164689
 2022,road passenger transport,,,,employees,171881
 2023,road passenger transport,,,,employees,182026
+2024,road passenger transport,,,,employees,220080
 2010,water passenger transport,.,,,employees,
 2011,water passenger transport,.,,,employees,
 2012,water passenger transport,.,,,employees,
@@ -191,6 +229,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,water passenger transport,,,,employees,8254
 2022,water passenger transport,,,,employees,8710
 2023,water passenger transport,,,,employees,8480
+2024,water passenger transport,,,,employees,9754
 2010,air passenger transport,.,,,employees,
 2011,air passenger transport,.,,,employees,
 2012,air passenger transport,.,,,employees,
@@ -219,6 +258,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,transport equipment rental,,,,employees,35394
 2022,transport equipment rental,,,,employees,40890
 2023,transport equipment rental,,,,employees,38225
+2024,transport equipment rental,,,,employees,37815
 2010,travel agencies and other reservation service activities,.,,,employees,
 2011,travel agencies and other reservation service activities,.,,,employees,
 2012,travel agencies and other reservation service activities,.,,,employees,
@@ -233,12 +273,37 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,travel agencies and other reservation service activities,,,,employees,69620
 2022,travel agencies and other reservation service activities,,,,employees,78682
 2023,travel agencies and other reservation service activities,,,,employees,74969
+2024,travel agencies and other reservation service activities,,,,employees,80052
+2010,cultural activities,.,,,employees,
+2011,cultural activities,.,,,employees,
+2012,cultural activities,.,,,employees,
+2013,cultural activities,.,,,employees,
+2014,cultural activities,.,,,employees,
+2015,cultural activities,.,,,employees,
+2016,cultural activities,.,,,employees,
+2017,cultural activities,.,,,employees,
+2018,cultural activities,.,,,employees,
+2019,cultural activities,.,,,employees,
+2020,cultural activities,.,,,employees,
 2021,cultural activities,,,,employees,48031
 2022,cultural activities,,,,employees,53906
 2023,cultural activities,,,,employees,56266
+2024,cultural activities,,,,employees,61195
+2010,sports and recreational activities,.,,,employees,
+2011,sports and recreational activities,.,,,employees,
+2012,sports and recreational activities,.,,,employees,
+2013,sports and recreational activities,.,,,employees,
+2014,sports and recreational activities,.,,,employees,
+2015,sports and recreational activities,.,,,employees,
+2016,sports and recreational activities,.,,,employees,
+2017,sports and recreational activities,.,,,employees,
+2018,sports and recreational activities,.,,,employees,
+2019,sports and recreational activities,.,,,employees,
+2020,sports and recreational activities,.,,,employees,
 2021,sports and recreational activities,,,,employees,275068
 2022,sports and recreational activities,,,,employees,286360
 2023,sports and recreational activities,,,,employees,276102
+2024,sports and recreational activities,,,,employees,321280
 2010,accommodation for visitors: hotels and similar establishments,.,,,full-time equivalents,
 2011,accommodation for visitors: hotels and similar establishments,.,,,full-time equivalents,
 2012,accommodation for visitors: hotels and similar establishments,.,,,full-time equivalents,
@@ -252,7 +317,8 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2020,accommodation for visitors: hotels and similar establishments,,,,full-time equivalents,289724
 2021,accommodation for visitors: hotels and similar establishments,,,,full-time equivalents,345255
 2022,accommodation for visitors: hotels and similar establishments,,,,full-time equivalents,353567
-2023,accommodation for visitors: hotels and similar establishments,r,,,full-time equivalents,352522
+2023,accommodation for visitors: hotels and similar establishments,,,,full-time equivalents,352522
+2024,accommodation for visitors: hotels and similar establishments,,,,full-time equivalents,380309
 2010,accommodation for visitors: other,.,,,full-time equivalents,
 2011,accommodation for visitors: other,.,,,full-time equivalents,
 2012,accommodation for visitors: other,.,,,full-time equivalents,
@@ -267,6 +333,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,accommodation for visitors: other,,,,full-time equivalents,406427
 2022,accommodation for visitors: other,,,,full-time equivalents,377342
 2023,accommodation for visitors: other,,,,full-time equivalents,374218
+2024,accommodation for visitors: other,,,,full-time equivalents,412858
 2010,food and beverage serving activities,.,,,full-time equivalents,
 2011,food and beverage serving activities,.,,,full-time equivalents,
 2012,food and beverage serving activities,.,,,full-time equivalents,
@@ -281,8 +348,10 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,food and beverage serving activities,,,,full-time equivalents,1072961
 2022,food and beverage serving activities,,,,full-time equivalents,925027
 2023,food and beverage serving activities,,,,full-time equivalents,932114
+2024,food and beverage serving activities,,,,full-time equivalents,1020071
 2022,railway passenger transport,,,,full-time equivalents,23151
 2023,railway passenger transport,,,,full-time equivalents,23326
+2024,railway passenger transport,,,,full-time equivalents,25178
 2010,road passenger transport,.,,,full-time equivalents,
 2011,road passenger transport,.,,,full-time equivalents,
 2012,road passenger transport,.,,,full-time equivalents,
@@ -297,6 +366,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,road passenger transport,,,,full-time equivalents,129574
 2022,road passenger transport,,,,full-time equivalents,126403
 2023,road passenger transport,,,,full-time equivalents,128524
+2024,road passenger transport,,,,full-time equivalents,153513
 2010,water passenger transport,.,,,full-time equivalents,
 2011,water passenger transport,.,,,full-time equivalents,
 2012,water passenger transport,.,,,full-time equivalents,
@@ -311,6 +381,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,water passenger transport,,,,full-time equivalents,7346
 2022,water passenger transport,,,,full-time equivalents,7746
 2023,water passenger transport,,,,full-time equivalents,7414
+2024,water passenger transport,,,,full-time equivalents,8383
 2010,air passenger transport,.,,,full-time equivalents,
 2011,air passenger transport,.,,,full-time equivalents,
 2012,air passenger transport,.,,,full-time equivalents,
@@ -339,6 +410,7 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,transport equipment rental,,,,full-time equivalents,29873
 2022,transport equipment rental,,,,full-time equivalents,33751
 2023,transport equipment rental,,,,full-time equivalents,31106
+2024,transport equipment rental,,,,full-time equivalents,30817
 2010,travel agencies and other reservation service activities,.,,,full-time equivalents,
 2011,travel agencies and other reservation service activities,.,,,full-time equivalents,
 2012,travel agencies and other reservation service activities,.,,,full-time equivalents,
@@ -353,9 +425,34 @@ Year,economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,travel agencies and other reservation service activities,,,,full-time equivalents,61658
 2022,travel agencies and other reservation service activities,,,,full-time equivalents,66304
 2023,travel agencies and other reservation service activities,,,,full-time equivalents,63200
+2024,travel agencies and other reservation service activities,,,,full-time equivalents,66620
+2010,cultural activities,.,,,full-time equivalents,
+2011,cultural activities,.,,,full-time equivalents,
+2012,cultural activities,.,,,full-time equivalents,
+2013,cultural activities,.,,,full-time equivalents,
+2014,cultural activities,.,,,full-time equivalents,
+2015,cultural activities,.,,,full-time equivalents,
+2016,cultural activities,.,,,full-time equivalents,
+2017,cultural activities,.,,,full-time equivalents,
+2018,cultural activities,.,,,full-time equivalents,
+2019,cultural activities,.,,,full-time equivalents,
+2020,cultural activities,.,,,full-time equivalents,
 2021,cultural activities,,,,full-time equivalents,40488
 2022,cultural activities,,,,full-time equivalents,41359
 2023,cultural activities,,,,full-time equivalents,43002
+2024,cultural activities,,,,full-time equivalents,44978
+2010,sports and recreational activities,.,,,full-time equivalents,
+2011,sports and recreational activities,.,,,full-time equivalents,
+2012,sports and recreational activities,.,,,full-time equivalents,
+2013,sports and recreational activities,.,,,full-time equivalents,
+2014,sports and recreational activities,.,,,full-time equivalents,
+2015,sports and recreational activities,.,,,full-time equivalents,
+2016,sports and recreational activities,.,,,full-time equivalents,
+2017,sports and recreational activities,.,,,full-time equivalents,
+2018,sports and recreational activities,.,,,full-time equivalents,
+2019,sports and recreational activities,.,,,full-time equivalents,
+2020,sports and recreational activities,.,,,full-time equivalents,
 2021,sports and recreational activities,,,,full-time equivalents,218932
 2022,sports and recreational activities,,,,full-time equivalents,193459
 2023,sports and recreational activities,,,,full-time equivalents,182289
+2024,sports and recreational activities,,,,full-time equivalents,202678
