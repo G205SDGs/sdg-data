@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "agriculture, forestry and fishing (section a)",
-                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (sections b, c, d and f)",
-                "other services (sections e, g to t)",
+                "Agriculture, forestry and fishing (Section A)",
+                "Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (Sections B, C, D and F)",
+                "Other services (Sections E, G to T)",
                 ""
               ]
             },

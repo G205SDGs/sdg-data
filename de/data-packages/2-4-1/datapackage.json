@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Statistisches Bundesamt",
-                "BMLEH",
+                "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
                 ""
               ]
             },
@@ -121,7 +121,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "organically farmed agricultural area",
+                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]

@@ -37,24 +37,24 @@
                 ""
               ]
             },
-            "title": "environmental protection and/or resource management domain"
+            "title": "Environmental protection and/or resource management domain"
           },
           {
             "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "agriculture, forestry and fishing (section a)",
-                "mining and quarrying (section b)",
-                "manufacturing (section c)",
-                "electricity, gas, steam and air conditioning supply (section d)",
-                "water supply; sewerage, waste management and remediation activities (section e)",
-                "construction (section f)",
-                "information and communication (section j)",
-                "professional, scientific and technical activities (section m)",
-                "public administration and defence; compulsory social security (section o)",
-                "education (section p)",
-                "other services (sections g, h, i, k, l, n, q, r, s, t and u)",
+                "Agriculture, forestry and fishing (Section A)",
+                "Mining and quarrying (Section B)",
+                "Manufacturing (Section C)",
+                "Electricity, gas, steam and air conditioning supply (Section D)",
+                "Water supply; sewerage, waste management and remediation activities (Section E)",
+                "Construction (Section F)",
+                "Information and communication (Section J)",
+                "Professional, scientific and technical activities (Section M)",
+                "Public administration and defence; compulsory social security (Section O)",
+                "Education (Section P)",
+                "Other services (Sections G, H, I, K, L, N, Q, R, S, T and U)",
                 ""
               ]
             },

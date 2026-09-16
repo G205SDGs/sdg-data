@@ -1,5 +1,5 @@
 Year,Typ of essential service,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Health,r,,,14.2
+2010,Health,,,,14.2
 2011,Health,,,,14.7
 2012,Health,,,,14.9
 2013,Health,,,,15.3
@@ -11,39 +11,39 @@ Year,Typ of essential service,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Health,,,,15.7
 2020,Health,,,,16.3
 2021,Health,,,,16.8
-2022,Health,p,,,17.0
+2022,Health,,,,17.0
 2023,Health,p,,,15.4
-2024,Health,p,,,15.4
+2024,Health,p,,,15.3
 2025,Health,p,,,15.6
-2010,Education,r,,,8.99
-2011,Education,r,,,9.36
+2010,Education,,,,8.99
+2011,Education,,,,9.36
 2012,Education,,,,9.21
-2013,Education,r,,,9.36
-2014,Education,r,,,9.4
-2015,Education,r,,,9.35
-2016,Education,r,,,9.2
-2017,Education,r,,,9.2
-2018,Education,r,,,9.36
-2019,Education,r,,,9.43
+2013,Education,,,,9.36
+2014,Education,,,,9.4
+2015,Education,,,,9.35
+2016,Education,,,,9.2
+2017,Education,,,,9.2
+2018,Education,,,,9.36
+2019,Education,,,,9.43
 2020,Education,,,,8.94
-2021,Education,r,,,8.78
-2022,Education,p,,,8.97
-2023,Education,p,,,9.25
-2024,Education,p,,,9.09
-2025,Education,p,,,9.14
+2021,Education,,,,8.77
+2022,Education,,,,8.97
+2023,Education,p,,,9.26
+2024,Education,p,,,9.05
+2025,Education,p,,,9.11
 2010,Social protection,,,,40.82
 2011,Social protection,,,,40.9
 2012,Social protection,,,,41.04
 2013,Social protection,,,,41.14
-2014,Social protection,r,,,41.35
-2015,Social protection,r,,,42.05
-2016,Social protection,r,,,42.77
-2017,Social protection,r,,,42.72
-2018,Social protection,r,,,42.27
-2019,Social protection,r,,,42.2
-2020,Social protection,r,,,41.86
-2021,Social protection,r,,,40.38
-2022,Social protection,p,,,40.83
-2023,Social protection,p,,,40.58
-2024,Social protection,p,,,41.28
-2025,Social protection,p,,,41.22
+2014,Social protection,,,,41.35
+2015,Social protection,,,,42.05
+2016,Social protection,,,,42.77
+2017,Social protection,,,,42.72
+2018,Social protection,,,,42.27
+2019,Social protection,,,,42.2
+2020,Social protection,,,,41.86
+2021,Social protection,,,,40.36
+2022,Social protection,,,,40.85
+2023,Social protection,p,,,40.61
+2024,Social protection,p,,,41.09
+2025,Social protection,p,,,41.91

@@ -2,51 +2,51 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2010,Percentage,Annual growth rate of real GDP,,,,4.1
 2011,Percentage,Annual growth rate of real GDP,,,,3.8
 2012,Percentage,Annual growth rate of real GDP,,,,0.5
-2013,Percentage,Annual growth rate of real GDP,,,,0.4
+2013,Percentage,Annual growth rate of real GDP,r,,,0.5
 2014,Percentage,Annual growth rate of real GDP,,,,2.2
-2015,Percentage,Annual growth rate of real GDP,,,,1.7
-2016,Percentage,Annual growth rate of real GDP,,,,2.2
-2017,Percentage,Annual growth rate of real GDP,,,,2.8
-2018,Percentage,Annual growth rate of real GDP,,,,1.1
-2019,Percentage,Annual growth rate of real GDP,,,,1.0
-2020,Percentage,Annual growth rate of real GDP,,,,-4.1
-2021,Percentage,Annual growth rate of real GDP,,,,3.9
-2022,Percentage,Annual growth rate of real GDP,p,,,1.8
-2023,Percentage,Annual growth rate of real GDP,p,,,-0.9
-2024,Percentage,Annual growth rate of real GDP,p,,,-0.5
+2015,Percentage,Annual growth rate of real GDP,r,,,1.8
+2016,Percentage,Annual growth rate of real GDP,r,,,2.3
+2017,Percentage,Annual growth rate of real GDP,r,,,2.9
+2018,Percentage,Annual growth rate of real GDP,r,,,1.2
+2019,Percentage,Annual growth rate of real GDP,r,,,1.1
+2020,Percentage,Annual growth rate of real GDP,r,,,-4.0
+2021,Percentage,Annual growth rate of real GDP,r,,,4.0
+2022,Percentage,Annual growth rate of real GDP,,,,1.9
+2023,Percentage,Annual growth rate of real GDP,p,,,-1.0
+2024,Percentage,Annual growth rate of real GDP,0,p,,0.0
 2025,Percentage,Annual growth rate of real GDP,p,,,0.2
 2010,Billion EUR,Available income of private households,,,,1578.6
 2011,Billion EUR,Available income of private households,,,,1628.1
-2012,Billion EUR,Available income of private households,,,,1662.6
+2012,Billion EUR,Available income of private households,r,,,1664.0
 2013,Billion EUR,Available income of private households,,,,1683.8
-2014,Billion EUR,Available income of private households,,,,1729.8
-2015,Billion EUR,Available income of private households,,,,1782.5
-2016,Billion EUR,Available income of private households,,,,1835.7
-2017,Billion EUR,Available income of private households,,,,1900.1
-2018,Billion EUR,Available income of private households,,,,1976.6
-2019,Billion EUR,Available income of private households,,,,2025.0
-2020,Billion EUR,Available income of private households,,,,2027.3
-2021,Billion EUR,Available income of private households,,,,2088.0
-2022,Billion EUR,Available income of private households,p,,,2274.3
-2023,Billion EUR,Available income of private households,p,,,2415.3
-2024,Billion EUR,Available income of private households,p,,,2511.2
-2025,Billion EUR,Available income of private households,p,,,2583.7
+2014,Billion EUR,Available income of private households,r,,,1734.7
+2015,Billion EUR,Available income of private households,r,,,1789.9
+2016,Billion EUR,Available income of private households,r,,,1847.6
+2017,Billion EUR,Available income of private households,r,,,1917.2
+2018,Billion EUR,Available income of private households,r,,,1999.9
+2019,Billion EUR,Available income of private households,r,,,2053.6
+2020,Billion EUR,Available income of private households,r,,,2063.7
+2021,Billion EUR,Available income of private households,r,,,2132.3
+2022,Billion EUR,Available income of private households,,,,2318.5
+2023,Billion EUR,Available income of private households,p,,,2471.2
+2024,Billion EUR,Available income of private households,p,,,2590.2
+2025,Billion EUR,Available income of private households,p,,,2662.9
 2010,Billion EUR,Consumption by private households,,,,1417.1
-2011,Billion EUR,Consumption by private households,,,,1463.0
-2012,Billion EUR,Consumption by private households,,,,1503.4
-2013,Billion EUR,Consumption by private households,,,,1528.8
-2014,Billion EUR,Consumption by private households,,,,1560.4
-2015,Billion EUR,Consumption by private households,,,,1604.9
-2016,Billion EUR,Consumption by private households,,,,1651.7
-2017,Billion EUR,Consumption by private households,,,,1704.0
-2018,Billion EUR,Consumption by private households,,,,1757.5
-2019,Billion EUR,Consumption by private households,,,,1813.7
-2020,Billion EUR,Consumption by private households,,,,1695.6
-2021,Billion EUR,Consumption by private households,,,,1787.5
-2022,Billion EUR,Consumption by private households,p,,,2036.1
-2023,Billion EUR,Consumption by private households,p,,,2159.3
-2024,Billion EUR,Consumption by private households,p,,,2221.5
-2025,Billion EUR,Consumption by private households,p,,,2305.4
+2011,Billion EUR,Consumption by private households,r,,,1463.4
+2012,Billion EUR,Consumption by private households,r,,,1504.9
+2013,Billion EUR,Consumption by private households,r,,,1531.8
+2014,Billion EUR,Consumption by private households,r,,,1565.2
+2015,Billion EUR,Consumption by private households,r,,,1612.2
+2016,Billion EUR,Consumption by private households,r,,,1663.7
+2017,Billion EUR,Consumption by private households,r,,,1721.2
+2018,Billion EUR,Consumption by private households,r,,,1781.1
+2019,Billion EUR,Consumption by private households,r,,,1842.6
+2020,Billion EUR,Consumption by private households,r,,,1732.1
+2021,Billion EUR,Consumption by private households,r,,,1830.2
+2022,Billion EUR,Consumption by private households,,,,2080.9
+2023,Billion EUR,Consumption by private households,p,,,2215.1
+2024,Billion EUR,Consumption by private households,p,,,2297.7
+2025,Billion EUR,Consumption by private households,p,,,2382.9
 2010,Billion EUR,Debts of the total public budget,,,,2011.7
 2011,Billion EUR,Debts of the total public budget,,,,2025.4
 2012,Billion EUR,Debts of the total public budget,,,,2068.3
@@ -60,9 +60,9 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Billion EUR,Debts of the total public budget,,,,2172.9
 2021,Billion EUR,Debts of the total public budget,,,,2321.0
 2022,Billion EUR,Debts of the total public budget,,,,2368.0
-2023,Billion EUR,Debts of the total public budget,r,,,2447.1
+2023,Billion EUR,Debts of the total public budget,,,,2447.1
 2024,Billion EUR,Debts of the total public budget,,,,2510.5
-2025,Billion EUR,Debts of the total public budget,…,,,
+2025,Billion EUR,Debts of the total public budget,,,,2662.2
 2010,Billion EUR,Government fiscal balance,,,,-115.6
 2011,Billion EUR,Government fiscal balance,,,,-23.1
 2012,Billion EUR,Government fiscal balance,,,,-1.5
@@ -74,11 +74,11 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2018,Billion EUR,Government fiscal balance,,,,64.7
 2019,Billion EUR,Government fiscal balance,,,,46.9
 2020,Billion EUR,Government fiscal balance,,,,-151.1
-2021,Billion EUR,Government fiscal balance,,,,-116.6
-2022,Billion EUR,Government fiscal balance,p,,,-76.1
-2023,Billion EUR,Government fiscal balance,p,,,-105.2
-2024,Billion EUR,Government fiscal balance,p,,,-115.3
-2025,Billion EUR,Government fiscal balance,p,,,-123.6
+2021,Billion EUR,Government fiscal balance,r,,,-117.6
+2022,Billion EUR,Government fiscal balance,,,,74.3
+2023,Billion EUR,Government fiscal balance,p,,,-95.0
+2024,Billion EUR,Government fiscal balance,p,,,-121.1
+2025,Billion EUR,Government fiscal balance,p,,,-136.5
 2010,Billion EUR,Gross fixed capital formation,,,,501.8
 2011,Billion EUR,Gross fixed capital formation,,,,549.6
 2012,Billion EUR,Gross fixed capital formation,,,,558.9
@@ -91,10 +91,10 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Billion EUR,Gross fixed capital formation,,,,748.2
 2020,Billion EUR,Gross fixed capital formation,,,,736.5
 2021,Billion EUR,Gross fixed capital formation,,,,780.0
-2022,Billion EUR,Gross fixed capital formation,p,,,861.8
-2023,Billion EUR,Gross fixed capital formation,p,,,894.1
-2024,Billion EUR,Gross fixed capital formation,p,,,885.7
-2025,Billion EUR,Gross fixed capital formation,p,,,907.9
+2022,Billion EUR,Gross fixed capital formation,,,,865.4
+2023,Billion EUR,Gross fixed capital formation,p,,,898.0
+2024,Billion EUR,Gross fixed capital formation,p,,,898.3
+2025,Billion EUR,Gross fixed capital formation,p,,,915.1
 2010,Million hours,Hours worked by employees,,,,49385.0
 2011,Million hours,Hours worked by employees,,,,50163.0
 2012,Million hours,Hours worked by employees,,,,50098.0
@@ -107,10 +107,10 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Million hours,Hours worked by employees,,,,54333.0
 2020,Million hours,Hours worked by employees,,,,52028.0
 2021,Million hours,Hours worked by employees,,,,53379.0
-2022,Million hours,Hours worked by employees,p,,,54340.0
-2023,Million hours,Hours worked by employees,p,,,54782.0
-2024,Million hours,Hours worked by employees,p,,,54874.0
-2025,Million hours,Hours worked by employees,p,,,54903.0
+2022,Million hours,Hours worked by employees,,,,54505.0
+2023,Million hours,Hours worked by employees,p,,,54831.0
+2024,Million hours,Hours worked by employees,p,,,55237.0
+2025,Million hours,Hours worked by employees,p,,,54949.0
 2010,Million hours,Hours worked by persons employed,,,,58581.0
 2011,Million hours,Hours worked by persons employed,,,,59328.0
 2012,Million hours,Hours worked by persons employed,,,,59143.0
@@ -123,42 +123,42 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Million hours,Hours worked by persons employed,,,,62141.0
 2020,Million hours,Hours worked by persons employed,,,,59066.0
 2021,Million hours,Hours worked by persons employed,,,,60410.0
-2022,Million hours,Hours worked by persons employed,p,,,61297.0
-2023,Million hours,Hours worked by persons employed,p,,,61496.0
-2024,Million hours,Hours worked by persons employed,p,,,61364.0
-2025,Million hours,Hours worked by persons employed,p,,,61241.0
-2010,2020 = 100,Labour productivity per hour worked by employee,,,,94.2
-2011,2020 = 100,Labour productivity per hour worked by employee,,,,96.2
-2012,2020 = 100,Labour productivity per hour worked by employee,,,,96.8
-2013,2020 = 100,Labour productivity per hour worked by employee,,,,96.9
-2014,2020 = 100,Labour productivity per hour worked by employee,,,,97.4
-2015,2020 = 100,Labour productivity per hour worked by employee,,,,97.6
-2016,2020 = 100,Labour productivity per hour worked by employee,r,,,98.5
-2017,2020 = 100,Labour productivity per hour worked by employee,,,,99.8
-2018,2020 = 100,Labour productivity per hour worked by employee,r,,,99.7
-2019,2020 = 100,Labour productivity per hour worked by employee,,,,99.9
+2022,Million hours,Hours worked by persons employed,,,,61501.0
+2023,Million hours,Hours worked by persons employed,p,,,61603.0
+2024,Million hours,Hours worked by persons employed,p,,,61817.0
+2025,Million hours,Hours worked by persons employed,p,,,61309.0
+2010,2020 = 100,Labour productivity per hour worked by employee,r,,,93.5
+2011,2020 = 100,Labour productivity per hour worked by employee,r,,,95.5
+2012,2020 = 100,Labour productivity per hour worked by employee,r,,,96.1
+2013,2020 = 100,Labour productivity per hour worked by employee,r,,,96.3
+2014,2020 = 100,Labour productivity per hour worked by employee,r,,,96.8
+2015,2020 = 100,Labour productivity per hour worked by employee,r,,,97.1
+2016,2020 = 100,Labour productivity per hour worked by employee,r,,,97.7
+2017,2020 = 100,Labour productivity per hour worked by employee,r,,,99.5
+2018,2020 = 100,Labour productivity per hour worked by employee,r,,,99.1
+2019,2020 = 100,Labour productivity per hour worked by employee,r,,,99.8
 2020,2020 = 100,Labour productivity per hour worked by employee,,,,100.0
 2021,2020 = 100,Labour productivity per hour worked by employee,,,,101.3
-2022,2020 = 100,Labour productivity per hour worked by employee,p,,,101.3
-2023,2020 = 100,Labour productivity per hour worked by employee,p,,,99.6
-2024,2020 = 100,Labour productivity per hour worked by employee,p,,,98.9
-2025,2020 = 100,Labour productivity per hour worked by employee,p,,,99.1
-2010,2020 = 100,Labour productivity per hour worked by persons employed,,,,90.2
-2011,2020 = 100,Labour productivity per hour worked by persons employed,,,,92.4
-2012,2020 = 100,Labour productivity per hour worked by persons employed,,,,93.1
-2013,2020 = 100,Labour productivity per hour worked by persons employed,,,,93.4
-2014,2020 = 100,Labour productivity per hour worked by persons employed,,,,94.4
-2015,2020 = 100,Labour productivity per hour worked by persons employed,,,,95.0
-2016,2020 = 100,Labour productivity per hour worked by persons employed,,,,96.2
-2017,2020 = 100,Labour productivity per hour worked by persons employed,,,,98.1
-2018,2020 = 100,Labour productivity per hour worked by persons employed,,,,98.5
-2019,2020 = 100,Labour productivity per hour worked by persons employed,,,,99.1
+2022,2020 = 100,Labour productivity per hour worked by employee,,,,103.7
+2023,2020 = 100,Labour productivity per hour worked by employee,p,,,99.5
+2024,2020 = 100,Labour productivity per hour worked by employee,p,,,98.7
+2025,2020 = 100,Labour productivity per hour worked by employee,p,,,99.5
+2010,2020 = 100,Labour productivity per hour worked by persons employed,r,,,89.5
+2011,2020 = 100,Labour productivity per hour worked by persons employed,r,,,91.7
+2012,2020 = 100,Labour productivity per hour worked by persons employed,r,,,92.4
+2013,2020 = 100,Labour productivity per hour worked by persons employed,r,,,92.8
+2014,2020 = 100,Labour productivity per hour worked by persons employed,r,,,93.8
+2015,2020 = 100,Labour productivity per hour worked by persons employed,r,,,94.5
+2016,2020 = 100,Labour productivity per hour worked by persons employed,r,,,95.8
+2017,2020 = 100,Labour productivity per hour worked by persons employed,r,,,97.8
+2018,2020 = 100,Labour productivity per hour worked by persons employed,r,,,98.3
+2019,2020 = 100,Labour productivity per hour worked by persons employed,r,,,99.0
 2020,2020 = 100,Labour productivity per hour worked by persons employed,,,,100.0
 2021,2020 = 100,Labour productivity per hour worked by persons employed,,,,101.6
-2022,2020 = 100,Labour productivity per hour worked by persons employed,p,,,101.9
-2023,2020 = 100,Labour productivity per hour worked by persons employed,p,,,100.7
-2024,2020 = 100,Labour productivity per hour worked by persons employed,p,,,100.4
-2025,2020 = 100,Labour productivity per hour worked by persons employed,p,,,100.9
+2022,2020 = 100,Labour productivity per hour worked by persons employed,,,,101.7
+2023,2020 = 100,Labour productivity per hour worked by persons employed,p,,,100.5
+2024,2020 = 100,Labour productivity per hour worked by persons employed,p,,,100.2
+2025,2020 = 100,Labour productivity per hour worked by persons employed,p,,,101.2
 2010,"number in 1,000",Persons employed,,,,41099.0
 2011,"number in 1,000",Persons employed,,,,41570.0
 2012,"number in 1,000",Persons employed,,,,42065.0
@@ -171,39 +171,39 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,"number in 1,000",Persons employed,,,,45291.0
 2020,"number in 1,000",Persons employed,,,,44966.0
 2021,"number in 1,000",Persons employed,,,,45041.0
-2022,"number in 1,000",Persons employed,p,,,45629.0
-2023,"number in 1,000",Persons employed,p,,,45935.0
-2024,"number in 1,000",Persons employed,p,,,45987.0
-2025,"number in 1,000",Persons employed,p,,,45977.0
-2010,2020 = 100,Real GDP per capita,,,,91.5
-2011,2020 = 100,Real GDP per capita,,,,94.9
-2012,2020 = 100,Real GDP per capita,,,,95.2
-2013,2020 = 100,Real GDP per capita,,,,95.4
-2014,2020 = 100,Real GDP per capita,,,,97.2
-2015,2020 = 100,Real GDP per capita,r,,,98.1
-2016,2020 = 100,Real GDP per capita,,,,99.7
-2017,2020 = 100,Real GDP per capita,,,,102.3
-2018,2020 = 100,Real GDP per capita,,,,103.3
-2019,2020 = 100,Real GDP per capita,,,,104.2
+2022,"number in 1,000",Persons employed,,,,45622.0
+2023,"number in 1,000",Persons employed,p,,,45909.0
+2024,"number in 1,000",Persons employed,p,,,45960.0
+2025,"number in 1,000",Persons employed,p,,,45878.0
+2010,2020 = 100,Real GDP per capita,r,,,90.8
+2011,2020 = 100,Real GDP per capita,r,,,94.2
+2012,2020 = 100,Real GDP per capita,r,,,94.5
+2013,2020 = 100,Real GDP per capita,r,,,94.8
+2014,2020 = 100,Real GDP per capita,r,,,96.7
+2015,2020 = 100,Real GDP per capita,r,,,97.7
+2016,2020 = 100,Real GDP per capita,r,,,99.3
+2017,2020 = 100,Real GDP per capita,r,,,101.9
+2018,2020 = 100,Real GDP per capita,r,,,103.0
+2019,2020 = 100,Real GDP per capita,r,,,104.1
 2020,2020 = 100,Real GDP per capita,,,,100.0
 2021,2020 = 100,Real GDP per capita,,,,104.1
-2022,2020 = 100,Real GDP per capita,p,,,105.3
+2022,2020 = 100,Real GDP per capita,,,,105.4
 2023,2020 = 100,Real GDP per capita,p,,,103.4
-2024,2020 = 100,Real GDP per capita,p,,,102.6
-2025,2020 = 100,Real GDP per capita,p,,,102.8
+2024,2020 = 100,Real GDP per capita,p,,,103.1
+2025,2020 = 100,Real GDP per capita,p,,,103.1
 2010,Billion EUR,Trade balance,,,,133.5
 2011,Billion EUR,Trade balance,,,,133.3
-2012,Billion EUR,Trade balance,,,,169.1
-2013,Billion EUR,Trade balance,,,,165.5
-2014,Billion EUR,Trade balance,,,,195.2
-2015,Billion EUR,Trade balance,,,,228.9
-2016,Billion EUR,Trade balance,,,,232.1
-2017,Billion EUR,Trade balance,,,,231.7
-2018,Billion EUR,Trade balance,,,,201.5
-2019,Billion EUR,Trade balance,,,,198.3
-2020,Billion EUR,Trade balance,,,,183.1
-2021,Billion EUR,Trade balance,,,,188.5
-2022,Billion EUR,Trade balance,p,,,98.6
-2023,Billion EUR,Trade balance,p,,,167.6
-2024,Billion EUR,Trade balance,p,,,163.5
-2025,Billion EUR,Trade balance,p,,,106.6
+2012,Billion EUR,Trade balance,r,,,169.0
+2013,Billion EUR,Trade balance,r,,,1653.0
+2014,Billion EUR,Trade balance,r,,,194.6
+2015,Billion EUR,Trade balance,r,,,228.1
+2016,Billion EUR,Trade balance,r,,,230.2
+2017,Billion EUR,Trade balance,r,,,227.8
+2018,Billion EUR,Trade balance,r,,,195.8
+2019,Billion EUR,Trade balance,r,,,191.4
+2020,Billion EUR,Trade balance,r,,,174.2
+2021,Billion EUR,Trade balance,r,,,178.4
+2022,Billion EUR,Trade balance,,,,82.3
+2023,Billion EUR,Trade balance,p,,,155.3
+2024,Billion EUR,Trade balance,p,,,156.7
+2025,Billion EUR,Trade balance,p,,,100.3
