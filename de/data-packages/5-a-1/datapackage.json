@@ -16,19 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Eigene und gepachtete landwirtschaftlich genutzte Flächen",
-                "Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen",
-                "Landwirtschaftliche Betriebe der Rechtsform Einzelunternehmen",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "type of tenure",
             "type": "string",
             "constraints": {
@@ -70,6 +57,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eigene und gepachtete landwirtschaftlich genutzte Flächen",
+                "Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen",
+                "Landwirtschaftliche Betriebe der Rechtsform Einzelunternehmen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

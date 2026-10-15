@@ -14,6 +14,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,,,,,,,1.8
 2023,Je 100 000 Einwohner/-innen,,,,,,,0.72
 2024,Je 100 000 Einwohner/-innen,,,,|,,,0.76
+2025,Je 100 000 Einwohner/-innen,,,,,,,0.93
 2010,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.05
 2011,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.04
 2012,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.02
@@ -29,6 +30,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,1.22
 2023,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.22
 2024,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,|,,,0.2
+2025,Je 100 000 Einwohner/-innen,,,Arbeitsausbeutung,,,,0.25
 2010,Je 100 000 Einwohner/-innen,Weiblich,,Arbeitsausbeutung,,,,0.02
 2011,Je 100 000 Einwohner/-innen,Weiblich,,Arbeitsausbeutung,,,,0.06
 2012,Je 100 000 Einwohner/-innen,Weiblich,,Arbeitsausbeutung,,,,0.02
@@ -44,6 +46,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,Weiblich,,Arbeitsausbeutung,,,,0.63
 2023,Je 100 000 Einwohner/-innen,Weiblich,,Arbeitsausbeutung,,,,0.12
 2024,Je 100 000 Einwohner/-innen,Weiblich,,Arbeitsausbeutung,|,,,0.06
+2025,Je 100 000 Einwohner/-innen,Weiblich,,Arbeitsausbeutung,,,,0.17
 2010,Je 100 000 Einwohner/-innen,Männlich,,Arbeitsausbeutung,,,,0.08
 2011,Je 100 000 Einwohner/-innen,Männlich,,Arbeitsausbeutung,,,,0.02
 2012,Je 100 000 Einwohner/-innen,Männlich,,Arbeitsausbeutung,,,,0.01
@@ -59,6 +62,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,Männlich,,Arbeitsausbeutung,,,,1.82
 2023,Je 100 000 Einwohner/-innen,Männlich,,Arbeitsausbeutung,,,,0.31
 2024,Je 100 000 Einwohner/-innen,Männlich,,Arbeitsausbeutung,|,,,0.35
+2025,Je 100 000 Einwohner/-innen,Männlich,,Arbeitsausbeutung,,,,0.32
 2010,Je 100 000 Einwohner/-innen,Unbekannt,,Arbeitsausbeutung,.,,,
 2011,Je 100 000 Einwohner/-innen,Unbekannt,,Arbeitsausbeutung,.,,,
 2012,Je 100 000 Einwohner/-innen,Unbekannt,,Arbeitsausbeutung,.,,,
@@ -74,6 +78,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,Unbekannt,,Arbeitsausbeutung,.,,,
 2023,Je 100 000 Einwohner/-innen,Unbekannt,,Arbeitsausbeutung,.,,,
 2024,Je 100 000 Einwohner/-innen,Unbekannt,,Arbeitsausbeutung,.,,,
+2025,Je 100 000 Einwohner/-innen,Unbekannt,,Arbeitsausbeutung,.,,,
 2010,Je 100 000 Einwohner/-innen,,,Sexuelle Ausbeutung,,,,0.75
 2011,Je 100 000 Einwohner/-innen,,,Sexuelle Ausbeutung,,,,0.78
 2012,Je 100 000 Einwohner/-innen,,,Sexuelle Ausbeutung,,,,0.75
@@ -89,6 +94,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,,,Sexuelle Ausbeutung,,,,0.57
 2023,Je 100 000 Einwohner/-innen,,,Sexuelle Ausbeutung,,,,0.51
 2024,Je 100 000 Einwohner/-innen,,,Sexuelle Ausbeutung,|,,,0.56
+2025,Je 100 000 Einwohner/-innen,,,Sexuelle Ausbeutung,,,,0.69
 2010,Je 100 000 Einwohner/-innen,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,0.13
 2011,Je 100 000 Einwohner/-innen,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,0.13
 2012,Je 100 000 Einwohner/-innen,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,0.12
@@ -104,6 +110,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,0.06
 2023,Je 100 000 Einwohner/-innen,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,0.01
 2024,Je 100 000 Einwohner/-innen,,13 Jahre und jünger,Sexuelle Ausbeutung,|,,,0.04
+2025,Je 100 000 Einwohner/-innen,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,0.02
 2010,Je 100 000 Einwohner/-innen,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,2.44
 2011,Je 100 000 Einwohner/-innen,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,2.4
 2012,Je 100 000 Einwohner/-innen,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,2.74
@@ -119,6 +126,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,1.63
 2023,Je 100 000 Einwohner/-innen,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,2.09
 2024,Je 100 000 Einwohner/-innen,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,|,,,1.42
+2025,Je 100 000 Einwohner/-innen,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,1.5
 2010,Je 100 000 Einwohner/-innen,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,8.97
 2011,Je 100 000 Einwohner/-innen,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,9.82
 2012,Je 100 000 Einwohner/-innen,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,8.59
@@ -134,6 +142,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,4.0
 2023,Je 100 000 Einwohner/-innen,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,2.78
 2024,Je 100 000 Einwohner/-innen,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,|,,,3.22
+2025,Je 100 000 Einwohner/-innen,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,3.59
 2010,Je 100 000 Einwohner/-innen,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,3.21
 2011,Je 100 000 Einwohner/-innen,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,3.37
 2012,Je 100 000 Einwohner/-innen,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,3.03
@@ -149,6 +158,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,2.47
 2023,Je 100 000 Einwohner/-innen,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,2.11
 2024,Je 100 000 Einwohner/-innen,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,|,,,1.81
+2025,Je 100 000 Einwohner/-innen,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,3.02
 2010,Je 100 000 Einwohner/-innen,,25 Jahre und älter,Sexuelle Ausbeutung,,,,0.21
 2011,Je 100 000 Einwohner/-innen,,25 Jahre und älter,Sexuelle Ausbeutung,,,,0.22
 2012,Je 100 000 Einwohner/-innen,,25 Jahre und älter,Sexuelle Ausbeutung,,,,0.25
@@ -164,6 +174,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,,25 Jahre und älter,Sexuelle Ausbeutung,,,,0.35
 2023,Je 100 000 Einwohner/-innen,,25 Jahre und älter,Sexuelle Ausbeutung,,,,0.31
 2024,Je 100 000 Einwohner/-innen,,25 Jahre und älter,Sexuelle Ausbeutung,|,,,0.4
+2025,Je 100 000 Einwohner/-innen,,25 Jahre und älter,Sexuelle Ausbeutung,,,,0.02
 2010,Je 100 000 Einwohner/-innen,,Alter unbekannt,Sexuelle Ausbeutung,.,,,
 2011,Je 100 000 Einwohner/-innen,,Alter unbekannt,Sexuelle Ausbeutung,.,,,
 2012,Je 100 000 Einwohner/-innen,,Alter unbekannt,Sexuelle Ausbeutung,.,,,
@@ -179,6 +190,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,,Alter unbekannt,Sexuelle Ausbeutung,.,,,
 2023,Je 100 000 Einwohner/-innen,,Alter unbekannt,Sexuelle Ausbeutung,.,,,
 2024,Je 100 000 Einwohner/-innen,,Alter unbekannt,Sexuelle Ausbeutung,.,,,
+2025,Je 100 000 Einwohner/-innen,,Alter unbekannt,Sexuelle Ausbeutung,.,,,
 2010,Je 100 000 Einwohner/-innen,Weiblich,,Sexuelle Ausbeutung,,,,1.41
 2011,Je 100 000 Einwohner/-innen,Weiblich,,Sexuelle Ausbeutung,,,,1.44
 2012,Je 100 000 Einwohner/-innen,Weiblich,,Sexuelle Ausbeutung,,,,1.42
@@ -194,6 +206,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,Weiblich,,Sexuelle Ausbeutung,,,,1.07
 2023,Je 100 000 Einwohner/-innen,Weiblich,,Sexuelle Ausbeutung,,,,0.95
 2024,Je 100 000 Einwohner/-innen,Weiblich,,Sexuelle Ausbeutung,|,,,1.06
+2025,Je 100 000 Einwohner/-innen,Weiblich,,Sexuelle Ausbeutung,,,,1.29
 2010,Je 100 000 Einwohner/-innen,Männlich,,Sexuelle Ausbeutung,,,,0.04
 2011,Je 100 000 Einwohner/-innen,Männlich,,Sexuelle Ausbeutung,,,,0.08
 2012,Je 100 000 Einwohner/-innen,Männlich,,Sexuelle Ausbeutung,,,,0.05
@@ -209,6 +222,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,Männlich,,Sexuelle Ausbeutung,,,,0.04
 2023,Je 100 000 Einwohner/-innen,Männlich,,Sexuelle Ausbeutung,,,,0.03
 2024,Je 100 000 Einwohner/-innen,Männlich,,Sexuelle Ausbeutung,|,,,0.03
+2025,Je 100 000 Einwohner/-innen,Männlich,,Sexuelle Ausbeutung,,,,0.04
 2010,Je 100 000 Einwohner/-innen,Unbekannt,,Sexuelle Ausbeutung,.,,,
 2011,Je 100 000 Einwohner/-innen,Unbekannt,,Sexuelle Ausbeutung,.,,,
 2012,Je 100 000 Einwohner/-innen,Unbekannt,,Sexuelle Ausbeutung,.,,,
@@ -224,6 +238,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,Unbekannt,,Sexuelle Ausbeutung,.,,,
 2023,Je 100 000 Einwohner/-innen,Unbekannt,,Sexuelle Ausbeutung,.,,,
 2024,Je 100 000 Einwohner/-innen,Unbekannt,,Sexuelle Ausbeutung,.,,,
+2025,Je 100 000 Einwohner/-innen,Unbekannt,,Sexuelle Ausbeutung,.,,,
 2010,Je 100 000 Einwohner/-innen,Weiblich,,,,,,1.43
 2011,Je 100 000 Einwohner/-innen,Weiblich,,,,,,1.5
 2012,Je 100 000 Einwohner/-innen,Weiblich,,,,,,1.43
@@ -239,6 +254,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,Weiblich,,,,,,1.7
 2023,Je 100 000 Einwohner/-innen,Weiblich,,,,,,1.07
 2024,Je 100 000 Einwohner/-innen,Weiblich,,,|,,,1.12
+2025,Je 100 000 Einwohner/-innen,Weiblich,,,,,,1.45
 2010,Je 100 000 Einwohner/-innen,Männlich,,,,,,0.12
 2011,Je 100 000 Einwohner/-innen,Männlich,,,,,,0.1
 2012,Je 100 000 Einwohner/-innen,Männlich,,,,,,0.06
@@ -254,6 +270,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Je 100 000 Einwohner/-innen,Männlich,,,,,,1.86
 2023,Je 100 000 Einwohner/-innen,Männlich,,,,,,0.34
 2024,Je 100 000 Einwohner/-innen,Männlich,,,|,,,0.38
+2025,Je 100 000 Einwohner/-innen,Männlich,,,,,,0.36
 2010,Anzahl,,,,,,,651.0
 2011,Anzahl,,,,,,,671.0
 2012,Anzahl,,,,,,,626.0
@@ -267,8 +284,9 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2020,Anzahl,,,,,,,479.0
 2021,Anzahl,,,,,,,564.0
 2022,Anzahl,,,,,,,1495.0
-2023,Anzahl,,,,r,,,611.0
+2023,Anzahl,,,,,,,611.0
 2024,Anzahl,,,,,,,636.0
+2025,Anzahl,,,,,,,781.0
 2010,Anzahl,,,Arbeitsausbeutung,,,,41.0
 2011,Anzahl,,,Arbeitsausbeutung,,,,32.0
 2012,Anzahl,,,Arbeitsausbeutung,,,,14.0
@@ -284,6 +302,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,,,Arbeitsausbeutung,,,,1019.0
 2023,Anzahl,,,Arbeitsausbeutung,,,,183.0
 2024,Anzahl,,,Arbeitsausbeutung,,,,171.0
+2025,Anzahl,,,Arbeitsausbeutung,,,,207.0
 2010,Anzahl,Weiblich,,Arbeitsausbeutung,,,,10.0
 2011,Anzahl,Weiblich,,Arbeitsausbeutung,,,,24.0
 2012,Anzahl,Weiblich,,Arbeitsausbeutung,,,,7.0
@@ -299,6 +318,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,Weiblich,,Arbeitsausbeutung,,,,266.0
 2023,Anzahl,Weiblich,,Arbeitsausbeutung,,,,53.0
 2024,Anzahl,Weiblich,,Arbeitsausbeutung,,,,25.0
+2025,Anzahl,Weiblich,,Arbeitsausbeutung,,,,70.0
 2010,Anzahl,Männlich,,Arbeitsausbeutung,,,,31.0
 2011,Anzahl,Männlich,,Arbeitsausbeutung,,,,8.0
 2012,Anzahl,Männlich,,Arbeitsausbeutung,,,,5.0
@@ -314,6 +334,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,Männlich,,Arbeitsausbeutung,,,,747.0
 2023,Anzahl,Männlich,,Arbeitsausbeutung,,,,129.0
 2024,Anzahl,Männlich,,Arbeitsausbeutung,,,,145.0
+2025,Anzahl,Männlich,,Arbeitsausbeutung,,,,133.0
 2010,Anzahl,Unbekannt,,Arbeitsausbeutung,.,,,
 2011,Anzahl,Unbekannt,,Arbeitsausbeutung,.,,,
 2012,Anzahl,Unbekannt,,Arbeitsausbeutung,,,,2.0
@@ -329,6 +350,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,Unbekannt,,Arbeitsausbeutung,,,,6.0
 2023,Anzahl,Unbekannt,,Arbeitsausbeutung,,,,1.0
 2024,Anzahl,Unbekannt,,Arbeitsausbeutung,,,,1.0
+2025,Anzahl,Unbekannt,,Arbeitsausbeutung,,,,4.0
 2010,Anzahl,,,Sexuelle Ausbeutung,,,,610.0
 2011,Anzahl,,,Sexuelle Ausbeutung,,,,639.0
 2012,Anzahl,,,Sexuelle Ausbeutung,,,,612.0
@@ -342,8 +364,9 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2020,Anzahl,,,Sexuelle Ausbeutung,,,,406.0
 2021,Anzahl,,,Sexuelle Ausbeutung,,,,417.0
 2022,Anzahl,,,Sexuelle Ausbeutung,,,,476.0
-2023,Anzahl,,,Sexuelle Ausbeutung,r,,,428.0
+2023,Anzahl,,,Sexuelle Ausbeutung,,,,428.0
 2024,Anzahl,,,Sexuelle Ausbeutung,,,,465.0
+2025,Anzahl,,,Sexuelle Ausbeutung,,,,574.0
 2010,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,13.0
 2011,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,13.0
 2012,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,12.0
@@ -359,6 +382,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,7.0
 2023,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,1.0
 2024,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,4.0
+2025,Anzahl,,13 Jahre und jünger,Sexuelle Ausbeutung,,,,2.0
 2010,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,79.0
 2011,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,77.0
 2012,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,88.0
@@ -372,8 +396,9 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2020,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,66.0
 2021,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,53.0
 2022,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,49.0
-2023,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,r,,,65.0
+2023,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,65.0
 2024,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,44.0
+2025,Anzahl,,14 bis unter 18 Jahre,Sexuelle Ausbeutung,,,,47.0
 2010,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,254.0
 2011,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,268.0
 2012,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,223.0
@@ -387,8 +412,9 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2020,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,88.0
 2021,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,77.0
 2022,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,96.0
-2023,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,r,,,68.0
+2023,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,68.0
 2024,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,78.0
+2025,Anzahl,,18 bis unter 21 Jahre,Sexuelle Ausbeutung,,,,88.0
 2010,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,127.0
 2011,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,135.0
 2012,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,123.0
@@ -404,6 +430,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,91.0
 2023,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,78.0
 2024,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,65.0
+2025,Anzahl,,21 bis unter 25 Jahre,Sexuelle Ausbeutung,,,,107.0
 2010,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,,,,129.0
 2011,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,,,,133.0
 2012,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,,,,156.0
@@ -417,8 +444,9 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2020,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,,,,146.0
 2021,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,,,,181.0
 2022,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,,,,223.0
-2023,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,r,,,196.0
+2023,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,,,,196.0
 2024,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,,,,254.0
+2025,Anzahl,,25 Jahre und älter,Sexuelle Ausbeutung,,,,286.0
 2010,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,,,,8.0
 2011,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,,,,13.0
 2012,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,,,,10.0
@@ -434,6 +462,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,,,,10.0
 2023,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,,,,20.0
 2024,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,,,,20.0
+2025,Anzahl,,Alter unbekannt,Sexuelle Ausbeutung,,,,44.0
 2010,Anzahl,Weiblich,,Sexuelle Ausbeutung,,,,588.0
 2011,Anzahl,Weiblich,,Sexuelle Ausbeutung,,,,599.0
 2012,Anzahl,Weiblich,,Sexuelle Ausbeutung,,,,590.0
@@ -447,8 +476,9 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2020,Anzahl,Weiblich,,Sexuelle Ausbeutung,,,,381.0
 2021,Anzahl,Weiblich,,Sexuelle Ausbeutung,,,,387.0
 2022,Anzahl,Weiblich,,Sexuelle Ausbeutung,,,,453.0
-2023,Anzahl,Weiblich,,Sexuelle Ausbeutung,r,,,407.0
+2023,Anzahl,Weiblich,,Sexuelle Ausbeutung,,,,407.0
 2024,Anzahl,Weiblich,,Sexuelle Ausbeutung,,,,449.0
+2025,Anzahl,Weiblich,,Sexuelle Ausbeutung,,,,545.0
 2010,Anzahl,Männlich,,Sexuelle Ausbeutung,,,,17.0
 2011,Anzahl,Männlich,,Sexuelle Ausbeutung,,,,34.0
 2012,Anzahl,Männlich,,Sexuelle Ausbeutung,,,,19.0
@@ -464,6 +494,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,Männlich,,Sexuelle Ausbeutung,,,,16.0
 2023,Anzahl,Männlich,,Sexuelle Ausbeutung,,,,13.0
 2024,Anzahl,Männlich,,Sexuelle Ausbeutung,,,,12.0
+2025,Anzahl,Männlich,,Sexuelle Ausbeutung,,,,15.0
 2010,Anzahl,Unbekannt,,Sexuelle Ausbeutung,,,,5.0
 2011,Anzahl,Unbekannt,,Sexuelle Ausbeutung,,,,6.0
 2012,Anzahl,Unbekannt,,Sexuelle Ausbeutung,,,,3.0
@@ -479,6 +510,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,Unbekannt,,Sexuelle Ausbeutung,,,,7.0
 2023,Anzahl,Unbekannt,,Sexuelle Ausbeutung,,,,8.0
 2024,Anzahl,Unbekannt,,Sexuelle Ausbeutung,,,,4.0
+2025,Anzahl,Unbekannt,,Sexuelle Ausbeutung,,,,14.0
 2010,Anzahl,Weiblich,,,,,,598.0
 2011,Anzahl,Weiblich,,,,,,623.0
 2012,Anzahl,Weiblich,,,,,,597.0
@@ -494,6 +526,7 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,Weiblich,,,,,,719.0
 2023,Anzahl,Weiblich,,,,,,460.0
 2024,Anzahl,Weiblich,,,,,,474.0
+2025,Anzahl,Weiblich,,,,,,615.0
 2010,Anzahl,Männlich,,,,,,48.0
 2011,Anzahl,Männlich,,,,,,42.0
 2012,Anzahl,Männlich,,,,,,24.0
@@ -509,3 +542,4 @@ Year,Units,Geschlecht,Altersklasse,Form der Ausbeutung,COMMENT_OBS_0,COMMENT_OBS
 2022,Anzahl,Männlich,,,,,,763.0
 2023,Anzahl,Männlich,,,,,,142.0
 2024,Anzahl,Männlich,,,,,,157.0
+2025,Anzahl,Männlich,,,,,,148.0

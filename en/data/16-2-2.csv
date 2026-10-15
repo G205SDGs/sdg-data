@@ -14,6 +14,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",,,,,,,1.8
 2023,"Per 100,000 inhabitants",,,,,,,0.72
 2024,"Per 100,000 inhabitants",,,,|,,,0.76
+2025,"Per 100,000 inhabitants",,,,,,,0.93
 2010,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.05
 2011,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.04
 2012,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.02
@@ -29,6 +30,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",,,Labour exploitation,,,,1.22
 2023,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.22
 2024,"Per 100,000 inhabitants",,,Labour exploitation,|,,,0.2
+2025,"Per 100,000 inhabitants",,,Labour exploitation,,,,0.25
 2010,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.02
 2011,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.06
 2012,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.02
@@ -44,6 +46,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.63
 2023,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.12
 2024,"Per 100,000 inhabitants",Female,,Labour exploitation,|,,,0.06
+2025,"Per 100,000 inhabitants",Female,,Labour exploitation,,,,0.17
 2010,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.08
 2011,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.02
 2012,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.01
@@ -59,6 +62,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,1.82
 2023,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.31
 2024,"Per 100,000 inhabitants",Male,,Labour exploitation,|,,,0.35
+2025,"Per 100,000 inhabitants",Male,,Labour exploitation,,,,0.32
 2010,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
 2011,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
 2012,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
@@ -74,6 +78,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
 2023,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
 2024,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
+2025,"Per 100,000 inhabitants",Unknown,,Labour exploitation,.,,,
 2010,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.75
 2011,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.78
 2012,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.75
@@ -89,6 +94,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.57
 2023,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.51
 2024,"Per 100,000 inhabitants",,,Sexual exploitation,|,,,0.56
+2025,"Per 100,000 inhabitants",,,Sexual exploitation,,,,0.69
 2010,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.13
 2011,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.13
 2012,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.12
@@ -104,6 +110,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.06
 2023,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.01
 2024,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,|,,,0.04
+2025,"Per 100,000 inhabitants",,13 years and younger,Sexual exploitation,,,,0.02
 2010,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.44
 2011,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.4
 2012,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.74
@@ -119,6 +126,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,1.63
 2023,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,2.09
 2024,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,|,,,1.42
+2025,"Per 100,000 inhabitants",,14 to under 18 years,Sexual exploitation,,,,1.5
 2010,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,8.97
 2011,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,9.82
 2012,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,8.59
@@ -134,6 +142,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,4.0
 2023,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,2.78
 2024,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,|,,,3.22
+2025,"Per 100,000 inhabitants",,18 to under 21 years,Sexual exploitation,,,,3.59
 2010,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,3.21
 2011,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,3.37
 2012,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,3.03
@@ -149,6 +158,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,2.47
 2023,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,2.11
 2024,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,|,,,1.81
+2025,"Per 100,000 inhabitants",,21 to under 25 years,Sexual exploitation,,,,3.02
 2010,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.21
 2011,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.22
 2012,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.25
@@ -164,6 +174,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.35
 2023,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.31
 2024,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,|,,,0.4
+2025,"Per 100,000 inhabitants",,25 years and older,Sexual exploitation,,,,0.02
 2010,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
 2011,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
 2012,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
@@ -179,6 +190,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
 2023,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
 2024,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
+2025,"Per 100,000 inhabitants",,Unknown age,Sexual exploitation,.,,,
 2010,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.41
 2011,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.44
 2012,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.42
@@ -194,6 +206,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.07
 2023,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,0.95
 2024,"Per 100,000 inhabitants",Female,,Sexual exploitation,|,,,1.06
+2025,"Per 100,000 inhabitants",Female,,Sexual exploitation,,,,1.29
 2010,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.04
 2011,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.08
 2012,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.05
@@ -209,6 +222,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.04
 2023,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.03
 2024,"Per 100,000 inhabitants",Male,,Sexual exploitation,|,,,0.03
+2025,"Per 100,000 inhabitants",Male,,Sexual exploitation,,,,0.04
 2010,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
 2011,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
 2012,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
@@ -224,6 +238,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
 2023,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
 2024,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
+2025,"Per 100,000 inhabitants",Unknown,,Sexual exploitation,.,,,
 2010,"Per 100,000 inhabitants",Female,,,,,,1.43
 2011,"Per 100,000 inhabitants",Female,,,,,,1.5
 2012,"Per 100,000 inhabitants",Female,,,,,,1.43
@@ -239,6 +254,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",Female,,,,,,1.7
 2023,"Per 100,000 inhabitants",Female,,,,,,1.07
 2024,"Per 100,000 inhabitants",Female,,,|,,,1.12
+2025,"Per 100,000 inhabitants",Female,,,,,,1.45
 2010,"Per 100,000 inhabitants",Male,,,,,,0.12
 2011,"Per 100,000 inhabitants",Male,,,,,,0.1
 2012,"Per 100,000 inhabitants",Male,,,,,,0.06
@@ -254,6 +270,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,"Per 100,000 inhabitants",Male,,,,,,1.86
 2023,"Per 100,000 inhabitants",Male,,,,,,0.34
 2024,"Per 100,000 inhabitants",Male,,,|,,,0.38
+2025,"Per 100,000 inhabitants",Male,,,,,,0.36
 2010,Number,,,,,,,651.0
 2011,Number,,,,,,,671.0
 2012,Number,,,,,,,626.0
@@ -267,8 +284,9 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Number,,,,,,,479.0
 2021,Number,,,,,,,564.0
 2022,Number,,,,,,,1495.0
-2023,Number,,,,r,,,611.0
+2023,Number,,,,,,,611.0
 2024,Number,,,,,,,636.0
+2025,Number,,,,,,,781.0
 2010,Number,,,Labour exploitation,,,,41.0
 2011,Number,,,Labour exploitation,,,,32.0
 2012,Number,,,Labour exploitation,,,,14.0
@@ -284,6 +302,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,,,Labour exploitation,,,,1019.0
 2023,Number,,,Labour exploitation,,,,183.0
 2024,Number,,,Labour exploitation,,,,171.0
+2025,Number,,,Labour exploitation,,,,207.0
 2010,Number,Female,,Labour exploitation,,,,10.0
 2011,Number,Female,,Labour exploitation,,,,24.0
 2012,Number,Female,,Labour exploitation,,,,7.0
@@ -299,6 +318,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,Female,,Labour exploitation,,,,266.0
 2023,Number,Female,,Labour exploitation,,,,53.0
 2024,Number,Female,,Labour exploitation,,,,25.0
+2025,Number,Female,,Labour exploitation,,,,70.0
 2010,Number,Male,,Labour exploitation,,,,31.0
 2011,Number,Male,,Labour exploitation,,,,8.0
 2012,Number,Male,,Labour exploitation,,,,5.0
@@ -314,6 +334,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,Male,,Labour exploitation,,,,747.0
 2023,Number,Male,,Labour exploitation,,,,129.0
 2024,Number,Male,,Labour exploitation,,,,145.0
+2025,Number,Male,,Labour exploitation,,,,133.0
 2010,Number,Unknown,,Labour exploitation,.,,,
 2011,Number,Unknown,,Labour exploitation,.,,,
 2012,Number,Unknown,,Labour exploitation,,,,2.0
@@ -329,6 +350,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,Unknown,,Labour exploitation,,,,6.0
 2023,Number,Unknown,,Labour exploitation,,,,1.0
 2024,Number,Unknown,,Labour exploitation,,,,1.0
+2025,Number,Unknown,,Labour exploitation,,,,4.0
 2010,Number,,,Sexual exploitation,,,,610.0
 2011,Number,,,Sexual exploitation,,,,639.0
 2012,Number,,,Sexual exploitation,,,,612.0
@@ -342,8 +364,9 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Number,,,Sexual exploitation,,,,406.0
 2021,Number,,,Sexual exploitation,,,,417.0
 2022,Number,,,Sexual exploitation,,,,476.0
-2023,Number,,,Sexual exploitation,r,,,428.0
+2023,Number,,,Sexual exploitation,,,,428.0
 2024,Number,,,Sexual exploitation,,,,465.0
+2025,Number,,,Sexual exploitation,,,,574.0
 2010,Number,,13 years and younger,Sexual exploitation,,,,13.0
 2011,Number,,13 years and younger,Sexual exploitation,,,,13.0
 2012,Number,,13 years and younger,Sexual exploitation,,,,12.0
@@ -359,6 +382,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,,13 years and younger,Sexual exploitation,,,,7.0
 2023,Number,,13 years and younger,Sexual exploitation,,,,1.0
 2024,Number,,13 years and younger,Sexual exploitation,,,,4.0
+2025,Number,,13 years and younger,Sexual exploitation,,,,2.0
 2010,Number,,14 to under 18 years,Sexual exploitation,,,,79.0
 2011,Number,,14 to under 18 years,Sexual exploitation,,,,77.0
 2012,Number,,14 to under 18 years,Sexual exploitation,,,,88.0
@@ -372,8 +396,9 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Number,,14 to under 18 years,Sexual exploitation,,,,66.0
 2021,Number,,14 to under 18 years,Sexual exploitation,,,,53.0
 2022,Number,,14 to under 18 years,Sexual exploitation,,,,49.0
-2023,Number,,14 to under 18 years,Sexual exploitation,r,,,65.0
+2023,Number,,14 to under 18 years,Sexual exploitation,,,,65.0
 2024,Number,,14 to under 18 years,Sexual exploitation,,,,44.0
+2025,Number,,14 to under 18 years,Sexual exploitation,,,,47.0
 2010,Number,,18 to under 21 years,Sexual exploitation,,,,254.0
 2011,Number,,18 to under 21 years,Sexual exploitation,,,,268.0
 2012,Number,,18 to under 21 years,Sexual exploitation,,,,223.0
@@ -387,8 +412,9 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Number,,18 to under 21 years,Sexual exploitation,,,,88.0
 2021,Number,,18 to under 21 years,Sexual exploitation,,,,77.0
 2022,Number,,18 to under 21 years,Sexual exploitation,,,,96.0
-2023,Number,,18 to under 21 years,Sexual exploitation,r,,,68.0
+2023,Number,,18 to under 21 years,Sexual exploitation,,,,68.0
 2024,Number,,18 to under 21 years,Sexual exploitation,,,,78.0
+2025,Number,,18 to under 21 years,Sexual exploitation,,,,88.0
 2010,Number,,21 to under 25 years,Sexual exploitation,,,,127.0
 2011,Number,,21 to under 25 years,Sexual exploitation,,,,135.0
 2012,Number,,21 to under 25 years,Sexual exploitation,,,,123.0
@@ -404,6 +430,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,,21 to under 25 years,Sexual exploitation,,,,91.0
 2023,Number,,21 to under 25 years,Sexual exploitation,,,,78.0
 2024,Number,,21 to under 25 years,Sexual exploitation,,,,65.0
+2025,Number,,21 to under 25 years,Sexual exploitation,,,,107.0
 2010,Number,,25 years and older,Sexual exploitation,,,,129.0
 2011,Number,,25 years and older,Sexual exploitation,,,,133.0
 2012,Number,,25 years and older,Sexual exploitation,,,,156.0
@@ -417,8 +444,9 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Number,,25 years and older,Sexual exploitation,,,,146.0
 2021,Number,,25 years and older,Sexual exploitation,,,,181.0
 2022,Number,,25 years and older,Sexual exploitation,,,,223.0
-2023,Number,,25 years and older,Sexual exploitation,r,,,196.0
+2023,Number,,25 years and older,Sexual exploitation,,,,196.0
 2024,Number,,25 years and older,Sexual exploitation,,,,254.0
+2025,Number,,25 years and older,Sexual exploitation,,,,286.0
 2010,Number,,Unknown age,Sexual exploitation,,,,8.0
 2011,Number,,Unknown age,Sexual exploitation,,,,13.0
 2012,Number,,Unknown age,Sexual exploitation,,,,10.0
@@ -434,6 +462,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,,Unknown age,Sexual exploitation,,,,10.0
 2023,Number,,Unknown age,Sexual exploitation,,,,20.0
 2024,Number,,Unknown age,Sexual exploitation,,,,20.0
+2025,Number,,Unknown age,Sexual exploitation,,,,44.0
 2010,Number,Female,,Sexual exploitation,,,,588.0
 2011,Number,Female,,Sexual exploitation,,,,599.0
 2012,Number,Female,,Sexual exploitation,,,,590.0
@@ -447,8 +476,9 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Number,Female,,Sexual exploitation,,,,381.0
 2021,Number,Female,,Sexual exploitation,,,,387.0
 2022,Number,Female,,Sexual exploitation,,,,453.0
-2023,Number,Female,,Sexual exploitation,r,,,407.0
+2023,Number,Female,,Sexual exploitation,,,,407.0
 2024,Number,Female,,Sexual exploitation,,,,449.0
+2025,Number,Female,,Sexual exploitation,,,,545.0
 2010,Number,Male,,Sexual exploitation,,,,17.0
 2011,Number,Male,,Sexual exploitation,,,,34.0
 2012,Number,Male,,Sexual exploitation,,,,19.0
@@ -464,6 +494,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,Male,,Sexual exploitation,,,,16.0
 2023,Number,Male,,Sexual exploitation,,,,13.0
 2024,Number,Male,,Sexual exploitation,,,,12.0
+2025,Number,Male,,Sexual exploitation,,,,15.0
 2010,Number,Unknown,,Sexual exploitation,,,,5.0
 2011,Number,Unknown,,Sexual exploitation,,,,6.0
 2012,Number,Unknown,,Sexual exploitation,,,,3.0
@@ -479,6 +510,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,Unknown,,Sexual exploitation,,,,7.0
 2023,Number,Unknown,,Sexual exploitation,,,,8.0
 2024,Number,Unknown,,Sexual exploitation,,,,4.0
+2025,Number,Unknown,,Sexual exploitation,,,,14.0
 2010,Number,Female,,,,,,598.0
 2011,Number,Female,,,,,,623.0
 2012,Number,Female,,,,,,597.0
@@ -494,6 +526,7 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,Female,,,,,,719.0
 2023,Number,Female,,,,,,460.0
 2024,Number,Female,,,,,,474.0
+2025,Number,Female,,,,,,615.0
 2010,Number,Male,,,,,,48.0
 2011,Number,Male,,,,,,42.0
 2012,Number,Male,,,,,,24.0
@@ -509,3 +542,4 @@ Year,Units,Sex,Age group,Form of exploitation,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2022,Number,Male,,,,,,763.0
 2023,Number,Male,,,,,,142.0
 2024,Number,Male,,,,,,157.0
+2025,Number,Male,,,,,,148.0

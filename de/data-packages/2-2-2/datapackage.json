@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "type of malnutrition",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art der Fehlernährung"
           },
           {
             "name": "sex",

@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "type of malnutrition",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Type of malnutrition"
           },
           {
             "name": "sex",

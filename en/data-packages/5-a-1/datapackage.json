@@ -16,19 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Owned and leased agricultural land",
-                "Female owners of agricultural holdings with the legal form of a sole proprietorship",
-                "Agricultural holdings with the legal form of a sole proprietorship",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "type of tenure",
             "type": "string",
             "constraints": {
@@ -70,6 +57,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owned and leased agricultural land",
+                "Female owners of agricultural holdings with the legal form of a sole proprietorship",
+                "Agricultural holdings with the legal form of a sole proprietorship",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

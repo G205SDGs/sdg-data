@@ -11,7 +11,7 @@ Year,Type of account,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,,,,,155998.0
 2020,,,,,159637.0
 2021,,,,,163161.0
-2022,,|,,,138330.0
+2022,,|,r,,138851.0
 2023,,r,,,144921.0
 2024,,r,,,148492.0
 2025,,,,,153417.0
@@ -27,7 +27,7 @@ Year,Type of account,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Online accounts,,,,98968.0
 2020,Online accounts,,,,104023.0
 2021,Online accounts,,,,110759.0
-2022,Online accounts,|,,,105555.0
+2022,Online accounts,|,r,,106051.0
 2023,Online accounts,r,,,116026.0
 2024,Online accounts,r,,,120270.0
 2025,Online accounts,,,,126432.0
@@ -43,7 +43,7 @@ Year,Type of account,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Current accounts,,,,107946.0
 2020,Current accounts,,,,109636.0
 2021,Current accounts,,,,113879.0
-2022,Current accounts,|,,,101992.0
+2022,Current accounts,|,r,,102489.0
 2023,Current accounts,r,,,105973.0
 2024,Current accounts,r,,,106999.0
 2025,Current accounts,,,,108835.0

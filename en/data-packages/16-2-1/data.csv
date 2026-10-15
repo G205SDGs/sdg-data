@@ -12,8 +12,9 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,,1 to under 18 years,Female,,,,0.15
 2021,,1 to under 18 years,Female,,,,0.16
 2022,,1 to under 18 years,Female,,,,0.18
-2023,,1 to under 18 years,Female,r,,,0.18
+2023,,1 to under 18 years,Female,,,,0.18
 2024,,1 to under 18 years,Female,,,,0.22
+2025,,1 to under 18 years,Female,,,,0.22
 2010,,1 to under 18 years,Male,.,,,
 2011,,1 to under 18 years,Male,.,,,
 2012,,1 to under 18 years,Male,,,,0.07
@@ -29,6 +30,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,1 to under 18 years,Male,,,,0.15
 2023,,1 to under 18 years,Male,,,,0.16
 2024,,1 to under 18 years,Male,,,,0.19
+2025,,1 to under 18 years,Male,,,,0.19
 2010,,1 to under 15 years,Female,.,,,
 2011,,1 to under 15 years,Female,.,,,
 2012,,1 to under 15 years,Female,,,,0.07
@@ -44,6 +46,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,1 to under 15 years,Female,,,,0.17
 2023,,1 to under 15 years,Female,,,,0.17
 2024,,1 to under 15 years,Female,,,,0.21
+2025,,1 to under 15 years,Female,,,,0.21
 2010,,1 to under 15 years,Male,.,,,
 2011,,1 to under 15 years,Male,.,,,
 2012,,1 to under 15 years,Male,,,,0.07
@@ -59,6 +62,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,1 to under 15 years,Male,,,,0.16
 2023,,1 to under 15 years,Male,,,,0.17
 2024,,1 to under 15 years,Male,,,,0.21
+2025,,1 to under 15 years,Male,,,,0.2
 2010,,15 to under 18 years,Female,.,,,
 2011,,15 to under 18 years,Female,.,,,
 2012,,15 to under 18 years,Female,,,,0.1
@@ -74,6 +78,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,15 to under 18 years,Female,,,,0.21
 2023,,15 to under 18 years,Female,,,,0.22
 2024,,15 to under 18 years,Female,,,,0.26
+2025,,15 to under 18 years,Female,,,,0.29
 2010,,15 to under 18 years,Male,.,,,
 2011,,15 to under 18 years,Male,.,,,
 2012,,15 to under 18 years,Male,,,,0.04
@@ -89,6 +94,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,15 to under 18 years,Male,,,,0.1
 2023,,15 to under 18 years,Male,,,,0.1
 2024,,15 to under 18 years,Male,,,,0.12
+2025,,15 to under 18 years,Male,,,,0.13
 2010,Physical abuse,1 to under 18 years,,.,,,
 2011,Physical abuse,1 to under 18 years,,.,,,
 2012,Physical abuse,1 to under 18 years,,,,,0.04
@@ -104,6 +110,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Physical abuse,1 to under 18 years,,,,,0.08
 2023,Physical abuse,1 to under 18 years,,,,,0.08
 2024,Physical abuse,1 to under 18 years,,,,,0.1
+2025,Physical abuse,1 to under 18 years,,,,,0.1
 2010,Physical abuse,1 to under 18 years,Female,.,,,
 2011,Physical abuse,1 to under 18 years,Female,.,,,
 2012,Physical abuse,1 to under 18 years,Female,,,,0.04
@@ -119,6 +126,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Physical abuse,1 to under 18 years,Female,,,,0.08
 2023,Physical abuse,1 to under 18 years,Female,,,,0.08
 2024,Physical abuse,1 to under 18 years,Female,,,,0.1
+2025,Physical abuse,1 to under 18 years,Female,,,,0.1
 2010,Physical abuse,1 to under 18 years,Male,.,,,
 2011,Physical abuse,1 to under 18 years,Male,.,,,
 2012,Physical abuse,1 to under 18 years,Male,,,,0.03
@@ -132,8 +140,9 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Physical abuse,1 to under 18 years,Male,,,,0.07
 2021,Physical abuse,1 to under 18 years,Male,,,,0.06
 2022,Physical abuse,1 to under 18 years,Male,,,,0.07
-2023,Physical abuse,1 to under 18 years,Male,r,,,0.07
+2023,Physical abuse,1 to under 18 years,Male,,,,0.07
 2024,Physical abuse,1 to under 18 years,Male,,,,0.09
+2025,Physical abuse,1 to under 18 years,Male,,,,0.09
 2010,Physical abuse,1 to under 15 years,,.,,,
 2011,Physical abuse,1 to under 15 years,,.,,,
 2012,Physical abuse,1 to under 15 years,,,,,0.04
@@ -149,6 +158,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Physical abuse,1 to under 15 years,,,,,0.08
 2023,Physical abuse,1 to under 15 years,,,,,0.08
 2024,Physical abuse,1 to under 15 years,,,,,0.1
+2025,Physical abuse,1 to under 15 years,,,,,0.1
 2010,Physical abuse,1 to under 15 years,Female,.,,,
 2011,Physical abuse,1 to under 15 years,Female,.,,,
 2012,Physical abuse,1 to under 15 years,Female,,,,0.04
@@ -164,6 +174,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Physical abuse,1 to under 15 years,Female,,,,0.08
 2023,Physical abuse,1 to under 15 years,Female,,,,0.08
 2024,Physical abuse,1 to under 15 years,Female,,,,0.09
+2025,Physical abuse,1 to under 15 years,Female,,,,0.1
 2010,Physical abuse,1 to under 15 years,Male,.,,,
 2011,Physical abuse,1 to under 15 years,Male,.,,,
 2012,Physical abuse,1 to under 15 years,Male,,,,0.04
@@ -179,6 +190,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Physical abuse,1 to under 15 years,Male,,,,0.08
 2023,Physical abuse,1 to under 15 years,Male,,,,0.08
 2024,Physical abuse,1 to under 15 years,Male,,,,0.1
+2025,Physical abuse,1 to under 15 years,Male,,,,0.1
 2010,Physical abuse,15 to under 18 years,,.,,,
 2011,Physical abuse,15 to under 18 years,,.,,,
 2012,Physical abuse,15 to under 18 years,,,,,0.04
@@ -194,6 +206,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Physical abuse,15 to under 18 years,,,,,0.08
 2023,Physical abuse,15 to under 18 years,,,,,0.08
 2024,Physical abuse,15 to under 18 years,,,,,0.09
+2025,Physical abuse,15 to under 18 years,,,,,0.1
 2010,Physical abuse,15 to under 18 years,Female,.,,,
 2011,Physical abuse,15 to under 18 years,Female,.,,,
 2012,Physical abuse,15 to under 18 years,Female,,,,0.05
@@ -209,6 +222,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Physical abuse,15 to under 18 years,Female,,,,0.1
 2023,Physical abuse,15 to under 18 years,Female,,,,0.11
 2024,Physical abuse,15 to under 18 years,Female,,,,0.13
+2025,Physical abuse,15 to under 18 years,Female,,,,0.14
 2010,Physical abuse,15 to under 18 years,Male,.,,,
 2011,Physical abuse,15 to under 18 years,Male,.,,,
 2012,Physical abuse,15 to under 18 years,Male,,,,0.02
@@ -224,6 +238,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Physical abuse,15 to under 18 years,Male,,,,0.05
 2023,Physical abuse,15 to under 18 years,Male,,,,0.05
 2024,Physical abuse,15 to under 18 years,Male,,,,0.06
+2025,Physical abuse,15 to under 18 years,Male,,,,0.06
 2010,Psychological abuse,1 to under 18 years,,.,,,
 2011,Psychological abuse,1 to under 18 years,,.,,,
 2012,Psychological abuse,1 to under 18 years,,,,,0.03
@@ -239,6 +254,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Psychological abuse,1 to under 18 years,,,,,0.09
 2023,Psychological abuse,1 to under 18 years,,,,,0.09
 2024,Psychological abuse,1 to under 18 years,,,,,0.11
+2025,Psychological abuse,1 to under 18 years,,,,,0.11
 2010,Psychological abuse,1 to under 18 years,Female,.,,,
 2011,Psychological abuse,1 to under 18 years,Female,.,,,
 2012,Psychological abuse,1 to under 18 years,Female,,,,0.04
@@ -252,8 +268,9 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Psychological abuse,1 to under 18 years,Female,,,,0.08
 2021,Psychological abuse,1 to under 18 years,Female,,,,0.09
 2022,Psychological abuse,1 to under 18 years,Female,,,,0.09
-2023,Psychological abuse,1 to under 18 years,Female,r,,,0.1
+2023,Psychological abuse,1 to under 18 years,Female,,,,0.1
 2024,Psychological abuse,1 to under 18 years,Female,,,,0.12
+2025,Psychological abuse,1 to under 18 years,Female,,,,0.12
 2010,Psychological abuse,1 to under 18 years,Male,.,,,
 2011,Psychological abuse,1 to under 18 years,Male,.,,,
 2012,Psychological abuse,1 to under 18 years,Male,,,,0.03
@@ -267,8 +284,9 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,Psychological abuse,1 to under 18 years,Male,,,,0.07
 2021,Psychological abuse,1 to under 18 years,Male,,,,0.07
 2022,Psychological abuse,1 to under 18 years,Male,,,,0.08
-2023,Psychological abuse,1 to under 18 years,Male,r,,,0.08
+2023,Psychological abuse,1 to under 18 years,Male,,,,0.08
 2024,Psychological abuse,1 to under 18 years,Male,,,,0.1
+2025,Psychological abuse,1 to under 18 years,Male,,,,0.1
 2010,Psychological abuse,1 to under 15 years,,.,,,
 2011,Psychological abuse,1 to under 15 years,,.,,,
 2012,Psychological abuse,1 to under 15 years,,,,,0.03
@@ -284,6 +302,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Psychological abuse,1 to under 15 years,,,,,0.09
 2023,Psychological abuse,1 to under 15 years,,,,,0.09
 2024,Psychological abuse,1 to under 15 years,,,,,0.11
+2025,Psychological abuse,1 to under 15 years,,,,,0.11
 2010,Psychological abuse,1 to under 15 years,Female,.,,,
 2011,Psychological abuse,1 to under 15 years,Female,.,,,
 2012,Psychological abuse,1 to under 15 years,Female,,,,0.04
@@ -299,6 +318,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Psychological abuse,1 to under 15 years,Female,,,,0.09
 2023,Psychological abuse,1 to under 15 years,Female,,,,0.09
 2024,Psychological abuse,1 to under 15 years,Female,,,,0.12
+2025,Psychological abuse,1 to under 15 years,Female,,,,0.11
 2010,Psychological abuse,1 to under 15 years,Male,.,,,
 2011,Psychological abuse,1 to under 15 years,Male,.,,,
 2012,Psychological abuse,1 to under 15 years,Male,,,,0.03
@@ -314,6 +334,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Psychological abuse,1 to under 15 years,Male,,,,0.09
 2023,Psychological abuse,1 to under 15 years,Male,,,,0.09
 2024,Psychological abuse,1 to under 15 years,Male,,,,0.11
+2025,Psychological abuse,1 to under 15 years,Male,,,,0.11
 2010,Psychological abuse,15 to under 18 years,,.,,,
 2011,Psychological abuse,15 to under 18 years,,.,,,
 2012,Psychological abuse,15 to under 18 years,,,,,0.03
@@ -329,6 +350,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Psychological abuse,15 to under 18 years,,,,,0.08
 2023,Psychological abuse,15 to under 18 years,,,,,0.08
 2024,Psychological abuse,15 to under 18 years,,,,,0.1
+2025,Psychological abuse,15 to under 18 years,,,,,0.1
 2010,Psychological abuse,15 to under 18 years,Female,.,,,
 2011,Psychological abuse,15 to under 18 years,Female,.,,,
 2012,Psychological abuse,15 to under 18 years,Female,,,,0.05
@@ -344,6 +366,7 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Psychological abuse,15 to under 18 years,Female,,,,0.11
 2023,Psychological abuse,15 to under 18 years,Female,,,,0.12
 2024,Psychological abuse,15 to under 18 years,Female,,,,0.14
+2025,Psychological abuse,15 to under 18 years,Female,,,,0.15
 2010,Psychological abuse,15 to under 18 years,Male,.,,,
 2011,Psychological abuse,15 to under 18 years,Male,.,,,
 2012,Psychological abuse,15 to under 18 years,Male,,,,0.02
@@ -359,3 +382,4 @@ Year,Form of abuse,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Psychological abuse,15 to under 18 years,Male,,,,0.05
 2023,Psychological abuse,15 to under 18 years,Male,,,,0.05
 2024,Psychological abuse,15 to under 18 years,Male,,,,0.06
+2025,Psychological abuse,15 to under 18 years,Male,,,,0.06

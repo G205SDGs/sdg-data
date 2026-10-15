@@ -15,7 +15,7 @@
             "type": "string"
           },
           {
-            "name": "timeseries",
+            "name": "type of malnutrition",
             "type": "string",
             "constraints": {
               "enum": [
