@@ -40,11 +40,27 @@
             "title": "Sex"
           },
           {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing (Section A)",
+                "Manufacturing (Section C)",
+                "Construction (Section F)",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles (Section G)",
+                "Verkehr und Lagerei (Section H)",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
                 "|",
+                ".",
                 ""
               ]
             },

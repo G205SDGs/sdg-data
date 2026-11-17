@@ -11,9 +11,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,,,,,,11.02
 2020,,,,,,10.94
 2021,,,,,,10.85
-2022,,,,,,10.89
-2023,,,,,,10.72
-2024,,,,,,10.5
+2022,,,r,,,10.81
+2023,,,,,,10.66
+2024,,,,,,10.45
+2025,,,,,,10.13
 2010,a) Krankheiten des Kreislaufsystems,,,,,4.49
 2011,a) Krankheiten des Kreislaufsystems,,,,,4.19
 2012,a) Krankheiten des Kreislaufsystems,,,,,4.15
@@ -26,9 +27,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,a) Krankheiten des Kreislaufsystems,,,,,3.59
 2020,a) Krankheiten des Kreislaufsystems,,,,,3.63
 2021,a) Krankheiten des Kreislaufsystems,,,,,3.71
-2022,a) Krankheiten des Kreislaufsystems,,,,,3.69
-2023,a) Krankheiten des Kreislaufsystems,,,,,3.63
-2024,a) Krankheiten des Kreislaufsystems,,,,,3.5
+2022,a) Krankheiten des Kreislaufsystems,,,,,3.66
+2023,a) Krankheiten des Kreislaufsystems,,,,,3.61
+2024,a) Krankheiten des Kreislaufsystems,,,,,3.49
+2025,a) Krankheiten des Kreislaufsystems,,,,,3.34
 2010,b) Bösartige Neubildungen,,,,,7.6
 2011,b) Bösartige Neubildungen,,,,,7.53
 2012,b) Bösartige Neubildungen,,,,,7.35
@@ -41,9 +43,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,b) Bösartige Neubildungen,,,,,6.57
 2020,b) Bösartige Neubildungen,,,,,6.47
 2021,b) Bösartige Neubildungen,,,,,6.31
-2022,b) Bösartige Neubildungen,,,,,6.28
-2023,b) Bösartige Neubildungen,,,,,6.13
-2024,b) Bösartige Neubildungen,,,,,6.01
+2022,b) Bösartige Neubildungen,,r,,,6.23
+2023,b) Bösartige Neubildungen,,,,,6.1
+2024,b) Bösartige Neubildungen,,,,,5.99
+2025,b) Bösartige Neubildungen,,,,,5.81
 2010,c) Diabetes mellitus,,,,,0.35
 2011,c) Diabetes mellitus,,,,,0.35
 2012,c) Diabetes mellitus,,,,,0.35
@@ -59,6 +62,7 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,c) Diabetes mellitus,,,,,0.35
 2023,c) Diabetes mellitus,,,,,0.34
 2024,c) Diabetes mellitus,,,,,0.35
+2025,c) Diabetes mellitus,,,,,0.34
 2010,d) Chronische Atemwegserkrankungen,,,,,0.78
 2011,d) Chronische Atemwegserkrankungen,,,,,0.79
 2012,d) Chronische Atemwegserkrankungen,,,,,0.75
@@ -71,9 +75,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,d) Chronische Atemwegserkrankungen,,,,,0.9
 2020,d) Chronische Atemwegserkrankungen,,,,,0.85
 2021,d) Chronische Atemwegserkrankungen,,,,,0.83
-2022,d) Chronische Atemwegserkrankungen,,,,,0.93
+2022,d) Chronische Atemwegserkrankungen,,,,,0.92
 2023,d) Chronische Atemwegserkrankungen,,,,,0.96
-2024,d) Chronische Atemwegserkrankungen,,,,,0.97
+2024,d) Chronische Atemwegserkrankungen,,,,,0.96
+2025,d) Chronische Atemwegserkrankungen,,,,,0.95
 2010,,Weiblich,,,,9.19
 2011,,Weiblich,,,,9.19
 2012,,Weiblich,,,,8.94
@@ -86,9 +91,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,,Weiblich,,,,8.38
 2020,,Weiblich,,,,8.22
 2021,,Weiblich,,,,8.15
-2022,,Weiblich,,,,8.31
-2023,,Weiblich,,,,8.22
-2024,,Weiblich,,,,8.0
+2022,,Weiblich,r,,,8.24
+2023,,Weiblich,r,,,8.19
+2024,,Weiblich,,,,7.97
+2025,,Weiblich,,,,7.8
 2010,a) Krankheiten des Kreislaufsystems,Weiblich,,,,2.39
 2011,a) Krankheiten des Kreislaufsystems,Weiblich,,,,2.32
 2012,a) Krankheiten des Kreislaufsystems,Weiblich,,,,2.26
@@ -101,9 +107,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,a) Krankheiten des Kreislaufsystems,Weiblich,,,,1.96
 2020,a) Krankheiten des Kreislaufsystems,Weiblich,,,,1.95
 2021,a) Krankheiten des Kreislaufsystems,Weiblich,,,,2.02
-2022,a) Krankheiten des Kreislaufsystems,Weiblich,,,,2.04
-2023,a) Krankheiten des Kreislaufsystems,Weiblich,,,,2.02
-2024,a) Krankheiten des Kreislaufsystems,Weiblich,,,,1.93
+2022,a) Krankheiten des Kreislaufsystems,Weiblich,,,,2.02
+2023,a) Krankheiten des Kreislaufsystems,Weiblich,,,,2.0
+2024,a) Krankheiten des Kreislaufsystems,Weiblich,,,,1.92
+2025,a) Krankheiten des Kreislaufsystems,Weiblich,,,,1.85
 2010,b) Bösartige Neubildungen,Weiblich,,,,6.25
 2011,b) Bösartige Neubildungen,Weiblich,,,,6.3
 2012,b) Bösartige Neubildungen,Weiblich,,,,6.13
@@ -116,9 +123,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,b) Bösartige Neubildungen,Weiblich,,,,5.69
 2020,b) Bösartige Neubildungen,Weiblich,,,,5.57
 2021,b) Bösartige Neubildungen,Weiblich,,,,5.46
-2022,b) Bösartige Neubildungen,Weiblich,,,,5.52
-2023,b) Bösartige Neubildungen,Weiblich,,,,5.41
-2024,b) Bösartige Neubildungen,Weiblich,,,,5.29
+2022,b) Bösartige Neubildungen,Weiblich,,,,5.48
+2023,b) Bösartige Neubildungen,Weiblich,,,,5.39
+2024,b) Bösartige Neubildungen,Weiblich,,,,5.27
+2025,b) Bösartige Neubildungen,Weiblich,,,,5.18
 2010,c) Diabetes mellitus,Weiblich,,,,0.2
 2011,c) Diabetes mellitus,Weiblich,,,,0.21
 2012,c) Diabetes mellitus,Weiblich,,,,0.21
@@ -133,7 +141,8 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2021,c) Diabetes mellitus,Weiblich,,,,0.2
 2022,c) Diabetes mellitus,Weiblich,,,,0.19
 2023,c) Diabetes mellitus,Weiblich,,,,0.2
-2024,c) Diabetes mellitus,Weiblich,,,,0.19
+2024,c) Diabetes mellitus,Weiblich,,,,0.18
+2025,c) Diabetes mellitus,Weiblich,,,,0.19
 2010,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.56
 2011,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.57
 2012,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.54
@@ -146,9 +155,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.71
 2020,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.67
 2021,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.63
-2022,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.74
-2023,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.78
+2022,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.73
+2023,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.77
 2024,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.76
+2025,d) Chronische Atemwegserkrankungen,Weiblich,,,,0.75
 2010,,Männlich,,,,16.33
 2011,,Männlich,,,,15.69
 2012,,Männlich,,,,15.44
@@ -161,9 +171,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,,Männlich,,,,13.73
 2020,,Männlich,,,,13.72
 2021,,Männlich,,,,13.58
-2022,,Männlich,,,,13.51
-2023,,Männlich,,,,13.26
-2024,,Männlich,,,,13.03
+2022,,Männlich,r,,,13.42
+2023,,Männlich,r,,,13.18
+2024,,Männlich,,,,12.96
+2025,,Männlich,,,,12.5
 2010,a) Krankheiten des Kreislaufsystems,Männlich,,,,6.64
 2011,a) Krankheiten des Kreislaufsystems,Männlich,,,,6.12
 2012,a) Krankheiten des Kreislaufsystems,Männlich,,,,6.08
@@ -176,9 +187,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,a) Krankheiten des Kreislaufsystems,Männlich,,,,5.25
 2020,a) Krankheiten des Kreislaufsystems,Männlich,,,,5.35
 2021,a) Krankheiten des Kreislaufsystems,Männlich,,,,5.43
-2022,a) Krankheiten des Kreislaufsystems,Männlich,,,,5.38
-2023,a) Krankheiten des Kreislaufsystems,Männlich,,,,5.29
-2024,a) Krankheiten des Kreislaufsystems,Männlich,,,,5.1
+2022,a) Krankheiten des Kreislaufsystems,Männlich,r,,,5.34
+2023,a) Krankheiten des Kreislaufsystems,Männlich,,,,5.26
+2024,a) Krankheiten des Kreislaufsystems,Männlich,,,,5.08
+2025,a) Krankheiten des Kreislaufsystems,Männlich,,,,4.87
 2010,b) Bösartige Neubildungen,Männlich,,,,9.01
 2011,b) Bösartige Neubildungen,Männlich,,,,8.82
 2012,b) Bösartige Neubildungen,Männlich,,,,8.62
@@ -191,9 +203,10 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,b) Bösartige Neubildungen,Männlich,,,,7.5
 2020,b) Bösartige Neubildungen,Männlich,,,,7.41
 2021,b) Bösartige Neubildungen,Männlich,,,,7.2
-2022,b) Bösartige Neubildungen,Männlich,,,,7.08
-2023,b) Bösartige Neubildungen,Männlich,,,,6.88
-2024,b) Bösartige Neubildungen,Männlich,,,,6.77
+2022,b) Bösartige Neubildungen,Männlich,r,,,7.02
+2023,b) Bösartige Neubildungen,Männlich,r,,,6.84
+2024,b) Bösartige Neubildungen,Männlich,r,,,6.74
+2025,b) Bösartige Neubildungen,Männlich,,,,6.48
 2010,c) Diabetes mellitus,Männlich,,,,0.51
 2011,c) Diabetes mellitus,Männlich,,,,0.49
 2012,c) Diabetes mellitus,Männlich,,,,0.5
@@ -207,8 +220,9 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2020,c) Diabetes mellitus,Männlich,,,,0.5
 2021,c) Diabetes mellitus,Männlich,,,,0.5
 2022,c) Diabetes mellitus,Männlich,,,,0.51
-2023,c) Diabetes mellitus,Männlich,,,,0.5
-2024,c) Diabetes mellitus,Männlich,,,,0.52
+2023,c) Diabetes mellitus,Männlich,,,,0.49
+2024,c) Diabetes mellitus,Männlich,,,,0.51
+2025,c) Diabetes mellitus,Männlich,,,,0.5
 2010,d) Chronische Atemwegserkrankungen,Männlich,,,,1.0
 2011,d) Chronische Atemwegserkrankungen,Männlich,,,,1.02
 2012,d) Chronische Atemwegserkrankungen,Männlich,,,,0.98
@@ -221,6 +235,7 @@ Year,Art der Erkrankung,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2019,d) Chronische Atemwegserkrankungen,Männlich,,,,1.09
 2020,d) Chronische Atemwegserkrankungen,Männlich,,,,1.04
 2021,d) Chronische Atemwegserkrankungen,Männlich,,,,1.03
-2022,d) Chronische Atemwegserkrankungen,Männlich,,,,1.12
+2022,d) Chronische Atemwegserkrankungen,Männlich,,,,1.11
 2023,d) Chronische Atemwegserkrankungen,Männlich,,,,1.15
-2024,d) Chronische Atemwegserkrankungen,Männlich,,,,1.18
+2024,d) Chronische Atemwegserkrankungen,Männlich,,,,1.17
+2025,d) Chronische Atemwegserkrankungen,Männlich,,,,1.16

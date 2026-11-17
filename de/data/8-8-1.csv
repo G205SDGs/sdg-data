@@ -1,61 +1,241 @@
-Year,Zeitreihe,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Tödliche Arbeitsunfälle,,,,,1.2
-2011,Tödliche Arbeitsunfälle,,,,,1.2
-2012,Tödliche Arbeitsunfälle,,,,,1.2
-2013,Tödliche Arbeitsunfälle,,,,,1.0
-2014,Tödliche Arbeitsunfälle,,,,,1.2
-2015,Tödliche Arbeitsunfälle,,,,,1.0
-2016,Tödliche Arbeitsunfälle,,,,,1.0
-2017,Tödliche Arbeitsunfälle,,|,,,0.9
-2018,Tödliche Arbeitsunfälle,,,,,0.8
-2019,Tödliche Arbeitsunfälle,,,,,0.8
-2020,Tödliche Arbeitsunfälle,,|,,,0.7
-2021,Tödliche Arbeitsunfälle,,,,,0.8
-2022,Tödliche Arbeitsunfälle,,,,,0.7
-2023,Tödliche Arbeitsunfälle,,,,,0.7
-2024,Tödliche Arbeitsunfälle,,,,,0.6
-2010,Nicht-tödliche Arbeitsunfälle,,,,,1976.1
-2011,Nicht-tödliche Arbeitsunfälle,,,,,2058.3
-2012,Nicht-tödliche Arbeitsunfälle,,,,,1956.3
-2013,Nicht-tödliche Arbeitsunfälle,,,,,2025.4
-2014,Nicht-tödliche Arbeitsunfälle,,,,,1977.3
-2015,Nicht-tödliche Arbeitsunfälle,,,,,1930.6
-2016,Nicht-tödliche Arbeitsunfälle,,,,,1950.9
-2017,Nicht-tödliche Arbeitsunfälle,,|,,,1819.6
-2018,Nicht-tödliche Arbeitsunfälle,,,,,1721.6
-2019,Nicht-tödliche Arbeitsunfälle,,,,,1650.8
-2020,Nicht-tödliche Arbeitsunfälle,,|,,,1504.7
-2021,Nicht-tödliche Arbeitsunfälle,,,,,1573.4
-2022,Nicht-tödliche Arbeitsunfälle,,,,,1484.0
-2023,Nicht-tödliche Arbeitsunfälle,,,,,1396.8
-2024,Nicht-tödliche Arbeitsunfälle,,,,,1347.6
-2010,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,1022.7
-2011,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,1004.4
-2012,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,998.3
-2013,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,1121.9
-2014,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,1098.4
-2015,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,1094.0
-2016,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,1097.3
-2017,Nicht-tödliche Arbeitsunfälle,Weiblich,|,,,987.7
-2018,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,920.1
-2019,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,905.1
-2020,Nicht-tödliche Arbeitsunfälle,Weiblich,|,,,807.7
-2021,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,844.4
-2022,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,810.2
-2023,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,797.1
-2024,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,766.9
-2010,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2806.8
-2011,Nicht-tödliche Arbeitsunfälle,Männlich,,,,3015.8
-2012,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2820.5
-2013,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2856.5
-2014,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2780.6
-2015,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2694.4
-2016,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2734.3
-2017,Nicht-tödliche Arbeitsunfälle,Männlich,|,,,2578.2
-2018,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2453.0
-2019,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2332.3
-2020,Nicht-tödliche Arbeitsunfälle,Männlich,|,,,2145.4
-2021,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2238.4
-2022,Nicht-tödliche Arbeitsunfälle,Männlich,,,,2109.7
-2023,Nicht-tödliche Arbeitsunfälle,Männlich,,,,1950.7
-2024,Nicht-tödliche Arbeitsunfälle,Männlich,,,,1884.0
+Year,Zeitreihe,Geschlecht,Wirtschaftszweig,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Tödliche Arbeitsunfälle,,,,,,1.2
+2011,Tödliche Arbeitsunfälle,,,,,,1.2
+2012,Tödliche Arbeitsunfälle,,,,,,1.2
+2013,Tödliche Arbeitsunfälle,,,,,,1.0
+2014,Tödliche Arbeitsunfälle,,,,,,1.2
+2015,Tödliche Arbeitsunfälle,,,,,,1.0
+2016,Tödliche Arbeitsunfälle,,,,,,1.0
+2017,Tödliche Arbeitsunfälle,,,|,,,0.9
+2018,Tödliche Arbeitsunfälle,,,,,,0.8
+2019,Tödliche Arbeitsunfälle,,,,,,0.8
+2020,Tödliche Arbeitsunfälle,,,|,,,0.7
+2021,Tödliche Arbeitsunfälle,,,,,,0.8
+2022,Tödliche Arbeitsunfälle,,,,,,0.7
+2023,Tödliche Arbeitsunfälle,,,,,,0.7
+2024,Tödliche Arbeitsunfälle,,,,,,0.6
+2010,Tödliche Arbeitsunfälle,Weiblich,,,,,0.2
+2011,Tödliche Arbeitsunfälle,Weiblich,,,,,0.1
+2012,Tödliche Arbeitsunfälle,Weiblich,,,,,0.2
+2013,Tödliche Arbeitsunfälle,Weiblich,,,,,0.1
+2014,Tödliche Arbeitsunfälle,Weiblich,,,,,0.2
+2015,Tödliche Arbeitsunfälle,Weiblich,,,,,0.1
+2016,Tödliche Arbeitsunfälle,Weiblich,,,,,0.1
+2017,Tödliche Arbeitsunfälle,Weiblich,,|,,,0.1
+2018,Tödliche Arbeitsunfälle,Weiblich,,,,,0.1
+2019,Tödliche Arbeitsunfälle,Weiblich,,,,,0.1
+2020,Tödliche Arbeitsunfälle,Weiblich,,|,,,0.1
+2021,Tödliche Arbeitsunfälle,Weiblich,,,,,0.1
+2022,Tödliche Arbeitsunfälle,Weiblich,,,,,0.1
+2023,Tödliche Arbeitsunfälle,Weiblich,,,,,0.1
+2024,Tödliche Arbeitsunfälle,Weiblich,,,,,0.1
+2010,Tödliche Arbeitsunfälle,Männlich,,,,,2.1
+2011,Tödliche Arbeitsunfälle,Männlich,,,,,2.2
+2012,Tödliche Arbeitsunfälle,Männlich,,,,,2.1
+2013,Tödliche Arbeitsunfälle,Männlich,,,,,1.9
+2014,Tödliche Arbeitsunfälle,Männlich,,,,,2.1
+2015,Tödliche Arbeitsunfälle,Männlich,,,,,1.8
+2016,Tödliche Arbeitsunfälle,Männlich,,,,,1.8
+2017,Tödliche Arbeitsunfälle,Männlich,,|,,,1.6
+2018,Tödliche Arbeitsunfälle,Männlich,,,,,1.4
+2019,Tödliche Arbeitsunfälle,Männlich,,,,,1.4
+2020,Tödliche Arbeitsunfälle,Männlich,,|,,,1.3
+2021,Tödliche Arbeitsunfälle,Männlich,,,,,1.5
+2022,Tödliche Arbeitsunfälle,Männlich,,,,,1.3
+2023,Tödliche Arbeitsunfälle,Männlich,,,,,1.3
+2024,Tödliche Arbeitsunfälle,Männlich,,,,,1.1
+2010,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",.,,,
+2011,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",.,,,
+2012,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",.,,,
+2013,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",.,,,
+2014,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,2.9
+2015,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,2.2
+2016,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,2.3
+2017,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",|,,,2.3
+2018,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,2.6
+2019,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,3.3
+2020,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",|,,,2.2
+2021,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,2.5
+2022,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,2.3
+2023,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,2.6
+2024,Tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,1.9
+2010,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),.,,,
+2011,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),.,,,
+2012,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),.,,,
+2013,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),.,,,
+2014,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,0.9
+2015,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,1.0
+2016,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,0.8
+2017,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),|,,,0.8
+2018,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,0.7
+2019,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,0.7
+2020,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),|,,,0.6
+2021,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,0.6
+2022,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,0.7
+2023,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,0.6
+2024,Tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,0.5
+2010,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),.,,,
+2011,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),.,,,
+2012,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),.,,,
+2013,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),.,,,
+2014,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,4.3
+2015,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,3.8
+2016,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,3.1
+2017,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),|,,,3.6
+2018,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,3.5
+2019,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,2.6
+2020,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),|,,,3.6
+2021,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,3.2
+2022,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,2.9
+2023,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,2.9
+2024,Tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,2.9
+2010,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),.,,,
+2011,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),.,,,
+2012,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),.,,,
+2013,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),.,,,
+2014,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.8
+2015,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.6
+2016,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.6
+2017,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),|,,,0.6
+2018,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.4
+2019,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.5
+2020,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),|,,,0.4
+2021,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.5
+2022,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.5
+2023,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.3
+2024,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.4
+2010,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
+2011,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
+2012,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
+2013,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
+2014,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3.8
+2015,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,4.2
+2016,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3.3
+2017,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),|,,,3.2
+2018,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2.5
+2019,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2.8
+2020,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),|,,,1.8
+2021,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3.3
+2022,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2.5
+2023,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2.6
+2024,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2.0
+2010,Nicht-tödliche Arbeitsunfälle,,,,,,1976.1
+2011,Nicht-tödliche Arbeitsunfälle,,,,,,2058.3
+2012,Nicht-tödliche Arbeitsunfälle,,,,,,1956.3
+2013,Nicht-tödliche Arbeitsunfälle,,,,,,2025.4
+2014,Nicht-tödliche Arbeitsunfälle,,,,,,1977.3
+2015,Nicht-tödliche Arbeitsunfälle,,,,,,1930.6
+2016,Nicht-tödliche Arbeitsunfälle,,,,,,1950.9
+2017,Nicht-tödliche Arbeitsunfälle,,,|,,,1819.6
+2018,Nicht-tödliche Arbeitsunfälle,,,,,,1721.6
+2019,Nicht-tödliche Arbeitsunfälle,,,,,,1650.8
+2020,Nicht-tödliche Arbeitsunfälle,,,|,,,1504.7
+2021,Nicht-tödliche Arbeitsunfälle,,,,,,1573.4
+2022,Nicht-tödliche Arbeitsunfälle,,,,,,1484.0
+2023,Nicht-tödliche Arbeitsunfälle,,,,,,1396.8
+2024,Nicht-tödliche Arbeitsunfälle,,,,,,1347.6
+2010,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,1022.7
+2011,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,1004.4
+2012,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,998.3
+2013,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,1121.9
+2014,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,1098.4
+2015,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,1094.0
+2016,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,1097.3
+2017,Nicht-tödliche Arbeitsunfälle,Weiblich,,|,,,987.7
+2018,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,920.1
+2019,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,905.1
+2020,Nicht-tödliche Arbeitsunfälle,Weiblich,,|,,,807.7
+2021,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,844.4
+2022,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,810.2
+2023,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,797.1
+2024,Nicht-tödliche Arbeitsunfälle,Weiblich,,,,,766.9
+2010,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,2806.8
+2011,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,3015.8
+2012,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,2820.5
+2013,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,2856.5
+2014,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,2780.6
+2015,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,2694.4
+2016,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,2734.3
+2017,Nicht-tödliche Arbeitsunfälle,Männlich,,|,,,2578.2
+2018,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,2453.0
+2019,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,2332.3
+2020,Nicht-tödliche Arbeitsunfälle,Männlich,,|,,,2145.4
+2021,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,2238.4
+2022,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,2109.7
+2023,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,1950.7
+2024,Nicht-tödliche Arbeitsunfälle,Männlich,,,,,1884.0
+2010,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",.,,,
+2011,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",.,,,
+2012,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",.,,,
+2013,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",.,,,
+2014,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,2009.1
+2015,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,1885.9
+2016,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,1977.8
+2017,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",|,,,1816.1
+2018,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,1637.2
+2019,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,1536.5
+2020,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",|,,,1368.5
+2021,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,1320.6
+2022,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,1269.2
+2023,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,1253.3
+2024,Nicht-tödliche Arbeitsunfälle,,"Land- und Forstwirtschaft, Fischerei (Abschnitt A)",,,,1105.8
+2010,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),.,,,
+2011,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),.,,,
+2012,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),.,,,
+2013,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),.,,,
+2014,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,2502.6
+2015,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,2473.6
+2016,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,2486.5
+2017,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),|,,,2247.3
+2018,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,2215.2
+2019,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,2121.2
+2020,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),|,,,2038.9
+2021,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,2156.1
+2022,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,2144.4
+2023,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,1920.7
+2024,Nicht-tödliche Arbeitsunfälle,,Verarbeitendes Gewerbe (Abschnitt C),,,,1919.3
+2010,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),.,,,
+2011,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),.,,,
+2012,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),.,,,
+2013,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),.,,,
+2014,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,5003.4
+2015,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,4850.3
+2016,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,4936.5
+2017,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),|,,,4784.4
+2018,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,4595.3
+2019,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,4373.2
+2020,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),|,,,4386.9
+2021,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,4305.5
+2022,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,4067.0
+2023,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,3846.2
+2024,Nicht-tödliche Arbeitsunfälle,,Baugewerbe (Abschnitt F),,,,3819.3
+2010,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),.,,,
+2011,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),.,,,
+2012,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),.,,,
+2013,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),.,,,
+2014,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1823.6
+2015,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1814.8
+2016,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1800.4
+2017,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),|,,,1622.6
+2018,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1555.2
+2019,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1565.6
+2020,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),|,,,1435.6
+2021,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1489.6
+2022,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1389.1
+2023,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1307.8
+2024,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1275.1
+2010,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
+2011,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
+2012,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
+2013,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
+2014,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2943.8
+2015,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3027.3
+2016,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2766.3
+2017,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),|,,,3460.1
+2018,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3327.8
+2019,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3182.3
+2020,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),|,,,2842.2
+2021,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3163.4
+2022,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2882.9
+2023,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2768.5
+2024,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2680.4

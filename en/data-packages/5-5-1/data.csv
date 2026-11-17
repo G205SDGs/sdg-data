@@ -151,7 +151,7 @@ Year,Units,Political institution,Land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2023,Percentage,Länder parliaments,Berlin,code11,,,,37.7
 2024,Percentage,Länder parliaments,Berlin,code11,,,,37.7
 2025,Percentage,Länder parliaments,Berlin,code11,,,,37.7
-2026,Percentage,Länder parliaments,Berlin,code11,…,,,
+2026,Percentage,Länder parliaments,Berlin,code11,,,,36.6
 2010,Number,Länder parliaments,Berlin,code11,,,,59.0
 2011,Number,Länder parliaments,Berlin,code11,,,,52.0
 2012,Number,Länder parliaments,Berlin,code11,,,,52.0
@@ -168,7 +168,7 @@ Year,Units,Political institution,Land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2023,Number,Länder parliaments,Berlin,code11,,,,60.0
 2024,Number,Länder parliaments,Berlin,code11,,,,60.0
 2025,Number,Länder parliaments,Berlin,code11,,,,60.0
-2026,Number,Länder parliaments,Berlin,code11,…,,,
+2026,Number,Länder parliaments,Berlin,code11,,,,56.0
 2010,Percentage,Länder parliaments,Brandenburg,code12,,,,38.6
 2011,Percentage,Länder parliaments,Brandenburg,code12,,,,38.6
 2012,Percentage,Länder parliaments,Brandenburg,code12,,,,38.6
@@ -321,7 +321,7 @@ Year,Units,Political institution,Land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2023,Percentage,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,36.7
 2024,Percentage,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,36.7
 2025,Percentage,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,36.7
-2026,Percentage,Länder parliaments,Mecklenburg Western Pomerania,code13,…,,,
+2026,Percentage,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,35.2
 2010,Number,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,23.0
 2011,Number,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,20.0
 2012,Number,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,20.0
@@ -338,7 +338,7 @@ Year,Units,Political institution,Land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2023,Number,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,29.0
 2024,Number,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,29.0
 2025,Number,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,29.0
-2026,Number,Länder parliaments,Mecklenburg Western Pomerania,code13,…,,,
+2026,Number,Länder parliaments,Mecklenburg Western Pomerania,code13,,,,25.0
 2010,Percentage,Länder parliaments,Lower Saxony,code03,,,,30.9
 2011,Percentage,Länder parliaments,Lower Saxony,code03,,,,30.9
 2012,Percentage,Länder parliaments,Lower Saxony,code03,,,,30.9
@@ -525,7 +525,7 @@ Year,Units,Political institution,Land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2023,Percentage,Länder parliaments,Saxony-Anhalt,code15,,,,27.8
 2024,Percentage,Länder parliaments,Saxony-Anhalt,code15,,,,27.8
 2025,Percentage,Länder parliaments,Saxony-Anhalt,code15,,,,27.8
-2026,Percentage,Länder parliaments,Saxony-Anhalt,code15,…,,,
+2026,Percentage,Länder parliaments,Saxony-Anhalt,code15,,,,21.7
 2010,Number,Länder parliaments,Saxony-Anhalt,code15,,,,30.0
 2011,Number,Länder parliaments,Saxony-Anhalt,code15,,,,33.0
 2012,Number,Länder parliaments,Saxony-Anhalt,code15,,,,33.0
@@ -542,7 +542,7 @@ Year,Units,Political institution,Land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2023,Number,Länder parliaments,Saxony-Anhalt,code15,,,,27.0
 2024,Number,Länder parliaments,Saxony-Anhalt,code15,,,,27.0
 2025,Number,Länder parliaments,Saxony-Anhalt,code15,,,,27.0
-2026,Number,Länder parliaments,Saxony-Anhalt,code15,…,,,
+2026,Number,Länder parliaments,Saxony-Anhalt,code15,,,,18.0
 2010,Percentage,Länder parliaments,Schleswig-Holstein,code01,,,,35.8
 2011,Percentage,Länder parliaments,Schleswig-Holstein,code01,,,,35.8
 2012,Percentage,Länder parliaments,Schleswig-Holstein,code01,,,,31.9
@@ -611,10 +611,10 @@ Year,Units,Political institution,Land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2024,Number,Länder parliaments,Thuringia,code16,,,,27.0
 2025,Number,Länder parliaments,Thuringia,code16,,,,27.0
 2026,Number,Länder parliaments,Thuringia,code16,,,,27.0
-2010,Percentage,Länder parliaments,,,r,,,32.5
-2011,Percentage,Länder parliaments,,,r,,,32.4
-2012,Percentage,Länder parliaments,,,r,,,32.5
-2013,Percentage,Länder parliaments,,,r,,,32.5
+2010,Percentage,Länder parliaments,,,,,,32.5
+2011,Percentage,Länder parliaments,,,,,,32.4
+2012,Percentage,Länder parliaments,,,,,,32.5
+2013,Percentage,Länder parliaments,,,,,,32.5
 2014,Percentage,Länder parliaments,,,,,,32.4
 2015,Percentage,Länder parliaments,,,,,,31.9
 2016,Percentage,Länder parliaments,,,,,,31.6
@@ -624,10 +624,10 @@ Year,Units,Political institution,Land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Percentage,Länder parliaments,,,,,,30.8
 2021,Percentage,Länder parliaments,,,,,,31.8
 2022,Percentage,Länder parliaments,,,,,,33.3
-2023,Percentage,Länder parliaments,,,r,,,33.1
-2024,Percentage,Länder parliaments,,,r,,,32.9
+2023,Percentage,Länder parliaments,,,,,,33.1
+2024,Percentage,Länder parliaments,,,,,,32.9
 2025,Percentage,Länder parliaments,,,,,,33.2
-2026,Percentage,Länder parliaments,,,…,,,
+2026,Percentage,Länder parliaments,,,,,,33.0
 2010,Number,Länder parliaments,,,,,,602.0
 2011,Number,Länder parliaments,,,,,,602.0
 2012,Number,Länder parliaments,,,,,,615.0
@@ -641,10 +641,10 @@ Year,Units,Political institution,Land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMEN
 2020,Number,Länder parliaments,,,,,,575.0
 2021,Number,Länder parliaments,,,,,,603.0
 2022,Number,Länder parliaments,,,,,,632.0
-2023,Number,Länder parliaments,,,r,,,626.0
-2024,Number,Länder parliaments,,,r,,,622.0
+2023,Number,Länder parliaments,,,,,,626.0
+2024,Number,Länder parliaments,,,,,,622.0
 2025,Number,Länder parliaments,,,,,,627.0
-2026,Number,Länder parliaments,,,…,,,
+2026,Number,Länder parliaments,,,,,,617.0
 2010,Percentage,Councils of districts and district-free cities,,,,,,
 2011,Percentage,Councils of districts and district-free cities,,,,,,26.1
 2012,Percentage,Councils of districts and district-free cities,,,,,,26.1

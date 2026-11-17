@@ -11,7 +11,7 @@ data source,1,2
 degree of feelings of insecurity,1,4
 degree of urbanisation,2,4
 disability status,1,1
-economic activity,5,28
+economic activity,6,30
 ecosystem,1,3
 education policy area,3,4
 educational level,2,4
@@ -35,6 +35,7 @@ mode of transport,1,6
 outcome of the application process,1,2
 pathogens and resistance,1,2
 percentile,1,7
+physical access to banking services,1,2
 political institution,1,4
 population,1,2
 presentation,1,2
@@ -55,7 +56,7 @@ technology sector,1,2
 thematic area,1,4
 time series,6,12
 'time series ',1,2
-timeseries,17,62
+timeseries,16,60
 typ of essential service,1,3
 typ of victim-suspect relationship,1,3
 type of account,1,2

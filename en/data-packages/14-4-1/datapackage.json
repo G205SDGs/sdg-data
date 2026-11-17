@@ -63,8 +63,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sustainably managed fish stocks in the North and Baltic Seas on all MSY examined stocks",
-                "MSY examined fish stocks in all managed stocks",
+                "Sustainably managed fish stocks",
+                "MSY examined fish stocks",
                 ""
               ]
             },

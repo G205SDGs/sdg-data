@@ -46,8 +46,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) national legislation and policy relevant to ias",
-                "b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity",
+                "(a) national legislation and policy relevant to ias",
+                "(b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity",
                 ""
               ]
             }

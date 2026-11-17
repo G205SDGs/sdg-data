@@ -1,18 +1,18 @@
 Value,Disaggregation combinations using this value,Number of indicators
 accommodation for visitors: hotels and similar establishments,3,1
 accommodation for visitors: other,3,1
-"agriculture, forestry and fishing (section a)",2,2
+"agriculture, forestry and fishing (section a)",4,3
 "agriculture, forestry and fishing",2,1
 agriculture,1,1
 air passenger transport,3,1
-construction (section f),1,1
+construction (section f),3,2
 cultural activities,3,1
 education (section p),1,1
 "electricity, gas, steam and air conditioning supply (section d)",1,1
 food and beverage serving activities,3,1
 forestry,1,1
 information and communication (section j),1,1
-manufacturing (section c),1,1
+manufacturing (section c),3,2
 "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (sections b, c, d and f)",3,2
 mining and quarrying (section b),1,1
 "other services (sections e, g to t)",1,1
@@ -25,5 +25,7 @@ services,2,1
 sports and recreational activities,3,1
 transport equipment rental,3,1
 travel agencies and other reservation service activities,3,1
+verkehr und lagerei (section h),2,1
 water passenger transport,3,1
 "water supply; sewerage, waste management and remediation activities (section e)",1,1
+wholesale and retail trade; repair of motor vehicles and motorcycles (section g),2,1

@@ -40,11 +40,27 @@
             "title": "Geschlecht"
           },
           {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Land- und Forstwirtschaft, Fischerei (Abschnitt A)",
+                "Verarbeitendes Gewerbe (Abschnitt C)",
+                "Baugewerbe (Abschnitt F)",
+                "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G)",
+                "Verkehr und Lagerei (Abschnitt H)",
+                ""
+              ]
+            },
+            "title": "Wirtschaftszweig"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
                 "|",
+                ".",
                 ""
               ]
             },

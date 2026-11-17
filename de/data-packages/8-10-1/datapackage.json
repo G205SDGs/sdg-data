@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "physical access to banking services",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Physischer Zugang zu Bankdienstleistungen"
           },
           {
             "name": "COMMENT_OBS_0",
